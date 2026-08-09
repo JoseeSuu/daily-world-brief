@@ -67,8 +67,8 @@ def build_rss(brief: dict, site_url: str) -> str:
     items_xml = []
     for key, items in sorted(brief.get("cells", {}).items()):
         for it in items:
-            title = html.escape(it["headline"]["es"])
-            desc = html.escape(it["summary"]["es"] or it["original_title"])
+            title = html.escape(it["title"])
+            desc = html.escape(it["summary"] or it["title"])
             link = html.escape(it["url"])
             pub = ""
             if it.get("published"):
@@ -87,8 +87,9 @@ def build_rss(brief: dict, site_url: str) -> str:
         '<?xml version="1.0" encoding="UTF-8"?>\n'
         '<rss version="2.0"><channel>'
         f"<title>Daily World Brief</title><link>{html.escape(site_url)}</link>"
-        "<description>Resumen diario: economía, política y tecnología en Asia, Europa y América.</description>"
-        f"<language>es</language><lastBuildDate>{now}</lastBuildDate>"
+        "<description>Resumen diario: economía, política y tecnología en Asia, Europa y "
+        "América. Cada noticia en su idioma original (ES/EN/中文).</description>"
+        f"<lastBuildDate>{now}</lastBuildDate>"
         + "".join(items_xml) + "</channel></rss>"
     )
 

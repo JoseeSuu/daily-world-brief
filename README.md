@@ -10,17 +10,27 @@ noticias más importantes en una matriz de **3 secciones × 3 continentes**:
 | Política y Geopolítica | 3-5 | 3-5 | 3-5 |
 | Tecnología e IA | 3-5 | 3-5 | 3-5 |
 
-Trilingüe (**ES / EN / 中文**) con selector de idioma sin recarga, tema
+**Cada noticia se lee en su idioma original** (español, inglés o chino
+simplificado), sin traducciones: las fuentes son trilingües y el resumen se
+escribe en el idioma del artículo. Los botones **ES / EN / 中文** de la cabecera
+son un *filtro* — activan o desactivan idiomas — no un traductor. Además: tema
 claro/oscuro según el sistema, archivo de los últimos 30 días, PWA instalable,
 feed RSS propio y "dato del día" con indicadores de mercado.
+
+> **Por qué sin traducción**: traducir cada noticia a tres idiomas triplicaba
+> los tokens de salida sin aportar nada a un lector que entiende los tres.
+> Quitarlo redujo el coste diario a la mitad y permitió añadir fuentes en chino.
 
 ## Cómo funciona
 
 ```
 feeds.yaml ──► scripts/collect.py ──► work/collected.json
                                           │
-                     API de Anthropic (claude-haiku-4-5, 2 llamadas)
-                     selección + dedup, resumen + traducción ES/EN/ZH
+              API de Anthropic (claude-haiku-4-5, 4 llamadas):
+              · 3 de selección, una por sección (dedup + continente)
+              · 1 de resumen, agrupada por idioma
+                                          ▼
+                        dedup determinista por titular
                                           ▼
                                  data/YYYY-MM-DD.json
                                           │
@@ -29,11 +39,20 @@ feeds.yaml ──► scripts/collect.py ──► work/collected.json
               site/ (index.html + data/ + feed.xml + PWA) ──► GitHub Pages
 ```
 
-- **Coste**: ~0,02-0,05 $/día en tokens (Haiku, prompts compactos, solo
-  titulares + extractos como entrada). El coste real de cada día queda
-  registrado en el campo `cost_usd` del JSON.
-- **Deduplicación**: si varios medios cubren la misma noticia, el modelo
-  elige una sola entrada con la fuente más autorizada.
+- **Coste**: ~0,025 $/día en tokens (Haiku, prompts compactos, solo titulares
+  + extractos como entrada). El coste real de cada día queda registrado en el
+  campo `cost_usd` del JSON.
+- **Selección por secciones**: con las 9 celdas en una sola llamada, Haiku
+  dejaba pasar duplicados y confundía continentes (DeepMind en Asia, Colombia
+  en Europa). Una llamada por sección lo corrige y cuesta lo mismo, porque cada
+  noticia se envía una sola vez.
+- **Deduplicación en dos pasadas**: el modelo agrupa las versiones de una misma
+  noticia y elige la fuente más autorizada; después, `dedupe_cells()` compara
+  titulares por solapamiento de palabras (bigramas de caracteres en chino) y
+  elimina los repetidos que se le hayan escapado, incluso entre celdas distintas.
+- **Control de idioma**: los resúmenes se piden agrupados por idioma (un campo
+  `lang` por línea no bastaba: el modelo mezclaba idiomas entre ítems vecinos) y
+  después se validan; cualquier resumen sospechoso se registra en el log.
 - **Tolerancia a fallos**: los feeds caídos se registran y aparecen en el pie
   de página ("N fuentes no disponibles hoy"). Si la API de Anthropic falla,
   se publica igualmente un brief con titulares sin resumen (`mode:
@@ -48,20 +67,26 @@ Edita [`feeds.yaml`](feeds.yaml). Cada fuente tiene:
   url: https://…/rss.xml        # URL del feed RSS/Atom
   section: economia             # economia | politica | tecnologia
   continent: global             # asia | europa | america | global
-  lang: en                      # idioma del feed (informativo)
+  lang: en                      # es | en | zh — idioma en que se resumirá
 ```
 
 `continent: global` significa que el feed cubre varios continentes y la IA
-asigna cada noticia al suyo. Para validar que un feed funciona:
+asigna cada noticia al suyo. `lang` sí es funcional: determina el idioma del
+resumen (si el titular es claramente chino, se detecta automáticamente aunque
+el feed diga otra cosa). `section` decide en qué llamada de selección entra el
+feed, así que conviene acertar. Para validar que un feed funciona:
 
 ```bash
 python scripts/collect.py --check
 ```
 
-Fuentes descartadas en la verificación inicial (2026-08-09) por no tener RSS
-público operativo: Caixin Global, FMI, AP News, NHK World (inglés), blog de
-Anthropic, Banco Mundial, BIS y OCDE. En su lugar se usan Nikkei/SCMP (Asia),
-NPR/Japan Times/CNA y Google AI Blog.
+Fuentes en chino incluidas: **FT中文网**, **BBC中文**, **纽约时报中文网** e
+**IT之家**.
+
+Fuentes descartadas en la verificación (2026-08-09) por no tener RSS público
+operativo: Caixin Global, FMI, AP News, NHK World (inglés), blog de Anthropic,
+Banco Mundial, BIS, OCDE, 36Kr, Sina Tech y Zaobao. En su lugar se usan
+Nikkei/SCMP (Asia), NPR/Japan Times/CNA y Google AI Blog.
 
 ## Cambiar el horario
 
@@ -103,7 +128,15 @@ pytest -q
 ```
 
 Cubren: parseo y limpieza de feeds, validación del esquema de `feeds.yaml`,
-esquema del JSON diario (modo fallback) y build completo del HTML/RSS/PWA.
+detección de idioma, validación de resúmenes en idioma equivocado,
+deduplicación (incluida la de titulares en chino), esquema del JSON diario en
+modo fallback y build completo del HTML/RSS/PWA.
+
+### Limitación conocida
+
+Un artículo en chino sobre un país europeo (por ejemplo, IT之家 cubriendo los
+tribunales británicos) puede acabar clasificado en Asia: el modelo usa el
+`continent_hint` del feed cuando el titular no es concluyente.
 
 ## Configuración del repositorio (una sola vez)
 

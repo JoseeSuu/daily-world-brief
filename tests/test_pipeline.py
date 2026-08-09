@@ -84,10 +84,90 @@ def test_fallback_schema():
         section, continent = key.split("|")
         assert section in summarize.SECTIONS and continent in summarize.CONTINENTS
         for it in items:
-            for field in ("headline", "summary", "source", "url", "original_title"):
-                assert field in it
-            for lang in ("es", "en", "zh"):
-                assert lang in it["headline"] and lang in it["summary"]
+            for field in ("title", "summary", "lang", "source", "url", "published"):
+                assert field in it, (key, it)
+            assert it["lang"] in ("es", "en", "zh")
+
+
+def test_dedupe_cells():
+    # Caso real: la misma noticia de inflación china desde dos agencias.
+    cells = {
+        "economia|asia": [
+            {"title": "China’s monthly inflation cools as impact from Iran war eases",
+             "summary": "", "lang": "en", "source": "South China Morning Post (Asia)",
+             "url": "https://a", "published": None},
+            {"title": "China’s Inflation Cools as Iran War Oil Shock Starts to Ease",
+             "summary": "", "lang": "en", "source": "Bloomberg Economics",
+             "url": "https://b", "published": None},
+        ],
+        "politica|america": [
+            {"title": "Israel rejects Trump's 15-point plan for Gaza, Netanyahu says",
+             "summary": "", "lang": "en", "source": "NPR World",
+             "url": "https://c", "published": None},
+        ],
+        "politica|europa": [
+            {"title": "Netanyahu rejects Trump's Gaza 15-point plan, Israel says",
+             "summary": "", "lang": "en", "source": "BBC World",
+             "url": "https://d", "published": None},
+        ],
+    }
+    out, removed = summarize.dedupe_cells(cells)
+    assert removed == 2
+    assert sum(len(v) for v in out.values()) == 2
+    # gana la fuente más autorizada (Bloomberg sobre SCMP, BBC sobre NPR)
+    kept = {s["source"] for v in out.values() for s in v}
+    assert kept == {"Bloomberg Economics", "BBC World"}
+    # las celdas que quedan vacías desaparecen
+    assert all(v for v in out.values())
+
+
+def test_dedupe_keeps_distinct_stories():
+    cells = {"tecnologia|america": [
+        {"title": "Amazon data center could become the biggest climate polluter in Texas",
+         "summary": "", "lang": "en", "source": "The Guardian World",
+         "url": "https://a", "published": None},
+        {"title": "DeepMind's hurricane breakthrough has surprised weather scientists",
+         "summary": "", "lang": "en", "source": "Ars Technica",
+         "url": "https://b", "published": None},
+    ]}
+    out, removed = summarize.dedupe_cells(cells)
+    assert removed == 0 and len(out["tecnologia|america"]) == 2
+
+
+def test_same_story_chinese():
+    # sin espacios entre palabras: la comparación usa bigramas de caracteres
+    assert summarize.same_story("中国七月通胀放缓至今年最低水平",
+                                "中国通胀放缓 七月消费者价格涨幅最低")
+    assert not summarize.same_story("中国七月通胀放缓至今年最低水平",
+                                    "台湾2027年国防预算将增长16%")
+
+
+def test_summary_language_check():
+    ok = summarize.summary_language_ok
+    # correctos
+    assert ok("El Gobierno de España aprueba la reforma de las pensiones.", "es")
+    assert ok("The government approved the pension reform on Monday.", "en")
+    assert ok("中国政府批准了新的养老金改革方案。", "zh")
+    assert ok("", "es")  # sin resumen (fallback) no se marca
+    # el bug real detectado: artículo en inglés resumido en español
+    assert not ok("Puerto Rico impone cortes de agua rotatorios de 48 horas "
+                  "para los clientes de la isla.", "en")
+    # chino donde no toca, y falta de chino donde sí toca
+    assert not ok("中国政府批准了新的养老金改革方案。", "en")
+    assert not ok("The government approved the reform.", "zh")
+    # nombres propios en inglés dentro de un resumen español no dan falso positivo
+    assert ok("Amazon Web Services anuncia un centro de datos en Aragón.", "es")
+
+
+def test_detect_lang():
+    # el idioma declarado en feeds.yaml manda…
+    assert summarize.detect_lang({"title": "Hello world", "lang": "en"}) == "en"
+    assert summarize.detect_lang({"title": "Hola mundo", "lang": "es"}) == "es"
+    # …salvo que el titular sea claramente chino
+    assert summarize.detect_lang({"title": "中国经济增长放缓", "lang": "en"}) == "zh"
+    # idioma desconocido o ausente -> en
+    assert summarize.detect_lang({"title": "Bonjour", "lang": "fr"}) == "en"
+    assert summarize.detect_lang({"title": "No lang key"}) == "en"
 
 
 def test_build_html(tmp_path, monkeypatch):
@@ -99,9 +179,8 @@ def test_build_html(tmp_path, monkeypatch):
         "date": "2026-01-01", "generated_at": "2026-01-01T05:30:00+00:00",
         "mode": "full", "cost_usd": 0.01, "market": None, "failed_sources": [],
         "cells": {"economia|asia": [{
-            "headline": {"es": "Hola", "en": "Hello", "zh": "你好"},
-            "summary": {"es": "R.", "en": "S.", "zh": "摘要。"},
-            "original_title": "Orig", "source": "Test",
+            "title": "中国经济数据公布", "summary": "摘要。", "lang": "zh",
+            "source": "FT中文网",
             "url": "https://e.com/1", "published": "2026-01-01T04:00:00+00:00"}]},
     }
     (build_mod.DATA / "2026-01-01.json").write_text(
@@ -109,7 +188,7 @@ def test_build_html(tmp_path, monkeypatch):
     index = build_mod.build("https://test.example/")
     html_text = index.read_text(encoding="utf-8")
     assert "__BRIEF_JSON__" not in html_text and "__DATES_JSON__" not in html_text
-    assert "你好" in html_text  # el JSON va inyectado
+    assert "中国经济数据公布" in html_text  # el JSON va inyectado
     assert (build_mod.SITE / "data" / "2026-01-01.json").exists()
     assert (build_mod.SITE / "feed.xml").exists()
     assert (build_mod.SITE / "manifest.json").exists()

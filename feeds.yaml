@@ -55,6 +55,11 @@ feeds:
     section: economia
     continent: america
     lang: en
+  - name: FT中文网
+    url: https://www.ftchinese.com/rss/feed
+    section: economia
+    continent: asia
+    lang: zh
 
   # ── Política & Geopolítica ───────────────────────────────
   - name: BBC World
@@ -62,6 +67,16 @@ feeds:
     section: politica
     continent: global
     lang: en
+  - name: BBC中文
+    url: https://feeds.bbci.co.uk/zhongwen/simp/rss.xml
+    section: politica
+    continent: global
+    lang: zh
+  - name: 纽约时报中文网
+    url: https://cn.nytimes.com/rss/
+    section: politica
+    continent: asia
+    lang: zh
   - name: The Guardian World
     url: https://www.theguardian.com/world/rss
     section: politica
@@ -159,3 +174,8 @@ feeds:
     section: tecnologia
     continent: europa
     lang: es
+  - name: IT之家
+    url: https://www.ithome.com/rss/
+    section: tecnologia
+    continent: asia
+    lang: zh

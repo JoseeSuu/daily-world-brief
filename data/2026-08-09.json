@@ -1,507 +1,315 @@
 {
  "date": "2026-08-09",
- "generated_at": "2026-08-09T12:19:53.672959+00:00",
+ "generated_at": "2026-08-09T12:38:01.605241+00:00",
  "mode": "full",
- "cost_usd": 0.0458,
+ "cost_usd": 0.0236,
  "market": null,
  "failed_sources": [],
  "cells": {
   "economia|asia": [
    {
-    "headline": {
-     "es": "China critica a Japón apuntando indirectamente a Washington",
-     "en": "China's Japan criticism indirectly targets Washington",
-     "zh": "中国批评日本间接指向华盛顿"
-    },
-    "summary": {
-     "es": "China utiliza críticas hacia Japón como parte de su estrategia geopolítica más amplia. El enfrentamiento refleja tensiones más profundas entre Beijing y Washington.",
-     "en": "China uses criticism of Japan as part of broader geopolitical strategy. The confrontation reflects deeper tensions between Beijing and Washington.",
-     "zh": "中国以批评日本的方式参与更广泛的地缘政治战略。这反映了北京和华盛顿之间的深层紧张关系。"
-    },
-    "original_title": "How China's Japan-bashing is indirectly targeting Washington",
+    "title": "China’s monthly inflation cools as impact from Iran war eases",
+    "summary": "China's July CPI growth slowed to its weakest pace since January as factory-gate prices decelerate amid easing Iran tensions.",
+    "lang": "en",
+    "source": "FT Global Economy",
+    "url": "https://www.ft.com/content/15c56de6-c884-4c7f-a91c-6d1aa59ce1c6?syn-25a6b1a6=1",
+    "published": "2026-08-09T03:05:38+00:00"
+   },
+   {
+    "title": "Japan's top 3 banks boost foreign currency liquidity buffers to $1.25tn",
+    "summary": "Japan's three largest banks increased foreign currency liquidity buffers to $1.25 trillion to strengthen financial resilience.",
+    "lang": "en",
     "source": "Nikkei Asia",
-    "url": "https://asia.nikkei.com/spotlight/comment/how-china-s-japan-bashing-is-indirectly-targeting-washington",
+    "url": "https://asia.nikkei.com/business/finance/japan-s-top-3-banks-boost-foreign-currency-liquidity-buffers-to-1.25tn",
     "published": null
    },
    {
-    "headline": {
-     "es": "K-beauty replica el modelo de manufactura de TSMC",
-     "en": "K-beauty mirrors TSMC's contract manufacturing model",
-     "zh": "韩妆模仿TSMC代工制造模式"
-    },
-    "summary": {
-     "es": "La industria surcoreana de belleza sigue el exitoso modelo de manufactura por contrato de TSMC. Esta estrategia permite a las empresas especializarse mientras mantienen la flexibilidad.",
-     "en": "South Korea's beauty industry follows TSMC's successful contract manufacturing model. This strategy allows companies to specialize while maintaining flexibility.",
-     "zh": "韩国美妆行业采用台积电的代工生产模式。这种战略让企业能够专业化同时保持灵活性。"
-    },
-    "original_title": "K-beauty's rise mirrors TSMC contract manufacturing playbook",
-    "source": "Nikkei Asia",
-    "url": "https://asia.nikkei.com/business/consumer/k-beauty-s-rise-mirrors-tsmc-contract-manufacturing-playbook",
-    "published": null
+    "title": "Currency Defense Gets Makeover as Emerging Asia Guards Reserves",
+    "summary": "Emerging Asian central banks develop new currency support methods without depleting foreign-exchange reserves amid regional tensions.",
+    "lang": "en",
+    "source": "Bloomberg Markets",
+    "url": "https://www.bloomberg.com/news/articles/2026-08-09/currency-defense-gets-makeover-as-emerging-asia-guards-reserves",
+    "published": "2026-08-09T10:30:00+00:00"
    },
    {
-    "headline": {
-     "es": "Nostalgia china impulsa éxito de \"Kung Fu Soccer\" localmente",
-     "en": "Chinese nostalgia drives 'Kung Fu Soccer' domestic success",
-     "zh": "中国怀旧心理推动《功夫足球》国内成功"
-    },
-    "summary": {
-     "es": "El filme \"Kung Fu Soccer\" ha alcanzado gran popularidad en China aprovechando la nostalgia local. Su potencial para triunfar internacionalmente aún permanece incierto.",
-     "en": "'Kung Fu Soccer' has achieved strong popularity in China leveraging local nostalgia. Its potential for international success remains uncertain.",
-     "zh": "《功夫足球》利用本土怀旧情绪在中国获得高人气。其国际前景仍不明朗。"
-    },
-    "original_title": "Chinese nostalgia makes 'Kung Fu Soccer' a hit but will it score overseas?",
+    "title": "Kansai Electric, Kawasaki Heavy seek 1st off-site transport of captured CO2",
+    "summary": "Kansai Electric and Kawasaki Heavy plan the first off-site transport of captured carbon dioxide for industrial use.",
+    "lang": "en",
     "source": "Nikkei Asia",
-    "url": "https://asia.nikkei.com/business/media-entertainment/chinese-nostalgia-makes-kung-fu-soccer-a-hit-but-will-it-score-overseas",
+    "url": "https://asia.nikkei.com/spotlight/environment/kansai-electric-kawasaki-heavy-seek-1st-off-site-transport-of-captured-co2",
     "published": null
    }
   ],
   "economia|europa": [
    {
-    "headline": {
-     "es": "Inversores regresan a acciones europeas con ganancias robustas",
-     "en": "Investors return to European stocks as earnings strengthen",
-     "zh": "投资者回归欧洲股票伴随业绩增长"
-    },
-    "summary": {
-     "es": "Las empresas del Stoxx Europe 600 están en camino de registrar un aumento del 22% en ganancias en el segundo trimestre. Los buenos resultados impulsan el retorno de inversores al mercado europeo.",
-     "en": "Stoxx Europe 600 companies are on track for 22% profit increase in Q2. Strong results drive investor return to European markets.",
-     "zh": "欧洲600指数公司第二季度利润增长21%。强劲业绩推动投资者回归欧股市场。"
-    },
-    "original_title": "Investors return to European stocks as strong earnings lift Iran war gloom",
+    "title": "Investors return to European stocks as strong earnings lift Iran war gloom",
+    "summary": "European stocks rise as companies in the Stoxx Europe 600 index deliver strong second-quarter earnings, lifting investor sentiment.",
+    "lang": "en",
     "source": "Financial Times",
     "url": "https://www.ft.com/content/297a8bf7-ce8b-44fe-bc51-3e2ec2e47699?syn-25a6b1a6=1",
     "published": "2026-08-09T04:00:09+00:00"
    },
    {
-    "headline": {
-     "es": "Precios altos y calor frenan turismo francés y alemán en España",
-     "en": "Rising prices and heat deter French and German tourists from Spain",
-     "zh": "物价和炎热减少法德游客来西班牙"
-    },
-    "summary": {
-     "es": "La debilidad económica en Francia y Alemania, combinada con el encarecimiento de servicios y temperaturas extremas, reduce el número de turistas de estos mercados principales. El retroceso afecta significativamente al sector turístico español.",
-     "en": "Weak economies in France and Germany, combined with service inflation and extreme heat, reduce tourist numbers from these key markets. The decline significantly impacts Spanish tourism.",
-     "zh": "法德经济疲软加上物价上升和极端高温，使来自这些主要市场的游客数量减少。这对西班牙旅游业造成重大影响。"
-    },
-    "original_title": "Subidas de precios y calor extremo: por qué caen las cifras de franceses y alemanes que veranean en España",
-    "source": "El País Economía",
-    "url": "https://elpais.com/economia/2026-08-09/subidas-de-precios-y-calor-extremo-por-que-caen-las-cifras-de-franceses-y-alemanes-que-veranean-en-espana.html",
-    "published": "2026-08-09T03:45:01+00:00"
+    "title": "France faces budget showdown as presidential election looms",
+    "summary": "France faces budget pressure as elections loom, with officials urging opposition cooperation to reduce the deficit.",
+    "lang": "en",
+    "source": "Financial Times",
+    "url": "https://www.ft.com/content/0ac50644-398f-49ec-895d-a2494254dabd?syn-25a6b1a6=1",
+    "published": "2026-08-09T04:00:09+00:00"
    },
    {
-    "headline": {
-     "es": "Crisis de vivienda afecta a todas las edades, alertan expertos",
-     "en": "Housing precarity crisis affects all age groups",
-     "zh": "住房不稳定危机影响全年龄段"
-    },
-    "summary": {
-     "es": "La crisis de accesibilidad en alquiler afecta tanto a jóvenes sin entrada al mercado como a inquilinos con contratos antiguos amenazados de desahucio. El alquiler y contratos indefinidos ya no garantizan estabilidad residencial.",
-     "en": "Rental accessibility crisis affects both young people excluded from housing market and long-term tenants threatened with eviction. Housing and indefinite contracts no longer guarantee residential stability.",
-     "zh": "租赁可承受性危机影响年轻人和长期租户。租房和无固定期限合同不再保证住房稳定性。"
-    },
-    "original_title": "Sin refugio frente a la precarización del alquiler: “Está afectando a gente de todas las edades”",
-    "source": "El País Economía",
-    "url": "https://elpais.com/economia/2026-08-09/sin-refugio-frente-a-la-precarizacion-del-alquiler-esta-afectando-a-gente-de-todas-las-edades.html",
-    "published": "2026-08-09T03:45:01+00:00"
-   },
-   {
-    "headline": {
-     "es": "Crédito empresarial repunta pero beneficia desigualmente sectores",
-     "en": "Business credit rebounds but benefits sectors unequally",
-     "zh": "企业信贷回升但对各行业益处不均"
-    },
-    "summary": {
-     "es": "La financiación empresarial crece si la inversión privada gana impulso, especialmente en sectores que necesitan expandir capacidad, digitalizar o mejorar eficiencia. El acceso al crédito varía significativamente según el sector.",
-     "en": "Business financing grows as private investment gains traction, especially in sectors needing capacity expansion, digitalization, or efficiency improvements. Credit access varies significantly by sector.",
-     "zh": "私人投资增长推动企业融资增加，特别是在需要扩展产能、数字化和提高效率的行业。不同行业的融资获取差异显著。"
-    },
-    "original_title": "El crédito a las empresas vuelve, pero no a todas por igual",
+    "title": "El crédito a las empresas vuelve, pero no a todas por igual",
+    "summary": "El crédito empresarial crece cuando la inversión privada impulsa sectores que requieren ampliación de capacidad y digitalización.",
+    "lang": "es",
     "source": "El País Economía",
     "url": "https://elpais.com/economia/negocios/2026-08-09/el-credito-a-las-empresas-vuelve-pero-no-a-todas-por-igual.html",
     "published": "2026-08-09T03:30:00+00:00"
+   },
+   {
+    "title": "Europe’s Hot Stock Markets Are Creating a Buzz Among Investors",
+    "summary": "Europe's stock market rally attracts investors who believe the gains will sustain beyond short-term trading cycles.",
+    "lang": "en",
+    "source": "Bloomberg Markets",
+    "url": "https://www.bloomberg.com/news/articles/2026-08-09/europe-s-hot-stock-markets-are-creating-a-buzz-among-investors",
+    "published": "2026-08-09T08:00:00+00:00"
    }
   ],
   "economia|america": [
    {
-    "headline": {
-     "es": "Inflación estadounidense podría frenar apuestas sobre subida de tipos",
-     "en": "US inflation data may cool bets on September rate hike",
-     "zh": "美国通胀数据可能缓解九月加息预期"
-    },
-    "summary": {
-     "es": "Los mercados monitorean datos de inflación estadounidense para evaluar si la Reserva Federal subirá tasas en septiembre. Los datos sobre presiones inflacionarias serán críticos esta semana.",
-     "en": "Markets monitor US inflation data to assess whether the Federal Reserve will raise rates in September. Inflation pressure data will be critical this week.",
-     "zh": "市场监测美国通胀数据以评估美联储是否在9月加息。通胀压力数据本周至关重要。"
-    },
-    "original_title": "Will US inflation be cool enough to trim bets on a September rate rise?",
-    "source": "FT Global Economy",
-    "url": "https://www.ft.com/content/e7f0c7af-b170-4cb5-a16e-671efa62e605?syn-25a6b1a6=1",
-    "published": "2026-08-09T11:00:09+00:00"
-   },
-   {
-    "headline": {
-     "es": "CPI estadounidense muestra enfriamiento de presiones inflacionarias",
-     "en": "US CPI shows inflationary pressures cooling",
-     "zh": "美国CPI显示通胀压力缓解"
-    },
-    "summary": {
-     "es": "Los precios al consumidor aumentaron marginalmente el mes pasado después de caer por primera vez en seis años. Este enfriamiento en presiones inflacionarias resulta bienvenido después de tensiones recientes.",
-     "en": "Consumer prices increased marginally last month after declining for the first time in six years. This cooling in inflationary pressures comes as welcome news after recent tensions.",
-     "zh": "消费者物价上月小幅上升，结束六年来首次下跌。通胀压力缓解令人欣慰。"
-    },
-    "original_title": "US CPI to Show Inflationary Pressures Cooling Some",
-    "source": "Bloomberg Economics",
-    "url": "https://www.bloomberg.com/news/articles/2026-08-08/us-cpi-to-show-inflationary-pressures-cooling-some",
-    "published": "2026-08-08T20:00:00+00:00"
-   },
-   {
-    "headline": {
-     "es": "Conversaciones sobre Ormuz ofrecen escaso alivio al transporte marítimo",
-     "en": "Hormuz talks offer little relief for shipping through strait",
-     "zh": "荷尔木兹谈判对海运缓解甚微"
-    },
-    "summary": {
-     "es": "Irán y Omán discuten un acuerdo temporal para el tránsito por el Estrecho de Ormuz, pero los ataques contra infraestructura energética y desacuerdos profundos complican las negociaciones. Las perspectivas de solución permanecen inciertas.",
-     "en": "Iran and Oman discuss temporary shipping arrangement through Strait of Hormuz, but attacks on energy infrastructure and major disagreements complicate negotiations. Resolution prospects remain uncertain.",
-     "zh": "伊朗和阿曼讨论荷尔木兹海峡临时运输安排，但对能源基础设施的攻击和重大分歧使谈判复杂化。解决前景仍不确定。"
-    },
-    "original_title": "Iran Talks Offer Little Relief for Hormuz Shipping",
+    "title": "Puerto Rico Rations Water as Drought Deepens",
+    "summary": "Puerto Rico rations water through rotating 48-hour outages as severe drought worsens the island's infrastructure crisis.",
+    "lang": "en",
     "source": "Bloomberg Markets",
-    "url": "https://www.bloomberg.com/news/videos/2026-08-09/iran-talks-offer-little-relief-for-hormuz-shipping-video",
-    "published": "2026-08-09T12:08:57+00:00"
+    "url": "https://www.bloomberg.com/news/videos/2026-08-09/puerto-rico-rations-water-as-drought-deepens-video",
+    "published": "2026-08-09T12:23:27+00:00"
+   },
+   {
+    "title": "Greg Abel finally puts Buffett’s cash pile to work",
+    "summary": "Berkshire Hathaway's Greg Abel ends a three-year selling streak, investing a net $20 billion into stocks.",
+    "lang": "en",
+    "source": "Financial Times",
+    "url": "https://www.ft.com/content/e164e244-f6de-4e3b-8a67-6bebee1b7bf4?syn-25a6b1a6=1",
+    "published": "2026-08-08T15:36:35+00:00"
    }
   ],
   "politica|asia": [
    {
-    "headline": {
-     "es": "Ministro presionado para reconocer más víctimas de radiación atómica",
-     "en": "PM urged to recognize more hibakusha atomic bomb survivors",
-     "zh": "总理被敦促承认更多原爆受害者"
-    },
-    "summary": {
-     "es": "Personas expuestas a radiación de la bomba atómica ubicadas fuera de zonas designadas como zona de impacto no han sido reconocidas oficialmente como hibakusha. Se insta al Primer Ministro a ampliar el reconocimiento oficial.",
-     "en": "People exposed to atomic bomb radiation outside officially designated blast zones have not been recognized as hibakusha survivors. PM is urged to expand official recognition.",
-     "zh": "原爆辐射受害者如果位于指定爆炸区外未获正式承认。总理被敦促扩大官方承认范围。"
-    },
-    "original_title": "Prime Minister Takaichi urged to recognize more hibakusha",
-    "source": "Japan Times",
-    "url": "https://www.japantimes.co.jp/news/2026/08/09/japan/recognizing-more-hibakusha/",
-    "published": "2026-08-09T11:03:00+00:00"
+    "title": "Typhoon Dolphin batters Japan's Okinawa before bearing down on China",
+    "summary": "Typhoon Dolphin battered Okinawa, cutting power to 44,000 buildings and injuring five people before approaching China.",
+    "lang": "en",
+    "source": "BBC World",
+    "url": "https://www.bbc.co.uk/news/articles/cvglp2zlvrlo?at_medium=RSS&at_campaign=rss",
+    "published": "2026-08-08T15:15:17+00:00"
    },
    {
-    "headline": {
-     "es": "Gasto militar taiwanés subirá 16% en 2027 por primera vez",
-     "en": "Taiwan's 2027 defense spending to rise 16% exceeding one trillion",
-     "zh": "台湾2027年防务支出增16%创历史新高"
-    },
-    "summary": {
-     "es": "El presupuesto de defensa propuesto por Taiwan para 2027 superará por primera vez los 1 billón de dólares nuevos taiwaneses, equivalentes a 31 mil millones de dólares. El aumento refleja preocupaciones sobre seguridad regional.",
-     "en": "Taiwan's proposed 2027 defense budget will exceed 1 trillion new Taiwan dollars ($31 billion) for the first time. The increase reflects regional security concerns.",
-     "zh": "台湾2027年防务预算首次超过1兆台币(310亿美元)。增长反映地区安全担忧。"
-    },
-    "original_title": "Taiwan’s 2027 defense spending to rise 16%, official media reports",
+    "title": "Red alert: Shanghai cancels 80% of flights as Typhoon Dolphin makes landfall",
+    "summary": "Shanghai cancelled 80% of flights as Typhoon Dolphin made landfall in Zhejiang province with maximum winds of 151 km/h.",
+    "lang": "en",
+    "source": "South China Morning Post (China)",
+    "url": "https://www.scmp.com/news/china/article/3363428/red-alert-shanghai-cancels-60-flights-typhoon-dolphin-closes?utm_source=rss_feed",
+    "published": "2026-08-09T05:10:53+00:00"
+   },
+   {
+    "title": "Taiwan’s 2027 defense spending to rise 16%, official media reports",
+    "summary": "Taiwan's 2027 defense budget will exceed 1 trillion new Taiwan dollars ($31 billion) for the first time, a 16% increase.",
+    "lang": "en",
     "source": "Japan Times",
     "url": "https://www.japantimes.co.jp/news/2026/08/09/asia-pacific/taiwan-2027-defense-spending-rise/",
     "published": "2026-08-09T09:07:00+00:00"
    },
    {
-    "headline": {
-     "es": "Indonesia confisca 1.3 toneladas de ketamina en gran operativo",
-     "en": "Indonesia seizes 1.3 tons of ketamine in major drug bust",
-     "zh": "印尼缴获1.3吨强力麻醉药大案"
-    },
-    "summary": {
-     "es": "Las autoridades indonesias incautaron 1.3 toneladas de ketamina tras recibir inteligencia en febrero sobre un barco que viajaba desde Tailandia con carga sospechosa. Se realizó seguimiento durante meses antes de la incautación.",
-     "en": "Indonesian authorities seized 1.3 tons of ketamine after February intelligence about a vessel traveling from Thailand with suspicious cargo. Months of surveillance preceded the seizure.",
-     "zh": "印尼当局在2月接到情报后缴获1.3吨毒品。在经过数月监视后实施缉获。"
-    },
-    "original_title": "Indonesia seizes 1.3 tons of ketamine worth millions in major bust",
-    "source": "Japan Times",
-    "url": "https://www.japantimes.co.jp/news/2026/08/09/asia-pacific/crime-legal/indonesia-tons-ketamine-bust/",
-    "published": "2026-08-09T09:54:00+00:00"
+    "title": "Myanmar rebuffs Asean call to free Aung San Suu Kyi, questions need for envoy",
+    "summary": "Myanmar's military government rejected ASEAN's call for Aung San Suu Kyi's release and questioned the need for an envoy.",
+    "lang": "en",
+    "source": "South China Morning Post (Asia)",
+    "url": "https://www.scmp.com/news/asia/southeast-asia/article/3363453/myanmar-rebuffs-asean-call-free-aung-san-suu-kyi-questions-need-envoy?utm_source=rss_feed",
+    "published": "2026-08-09T12:24:09+00:00"
    },
    {
-    "headline": {
-     "es": "Modelos IA chinos baratos impulsan la industria pese a temores Wall Street",
-     "en": "Cheap Chinese AI models spur industry growth despite Wall Street fears",
-     "zh": "廉价中国AI模型推动产业增长尽管华尔街担忧"
-    },
-    "summary": {
-     "es": "Los avances en modelos de IA abiertos y baratos de China han alarmado a inversores estadounidenses. Los analistas argumentan que costos más bajos de modelos beneficiarán al sector de IA en general.",
-     "en": "Breakthroughs in cheap open-source Chinese AI models have spooked US investors. Analysts argue plummeting model costs will benefit the broader AI industry.",
-     "zh": "廉价中国开源AI模型突破令美国投资者担忧。分析师称模型成本下降将惠及整个AI产业。"
-    },
-    "original_title": "China’s AI models spooked Wall Street. But they may turbocharge industry growth",
-    "source": "South China Morning Post (Asia)",
-    "url": "https://www.scmp.com/tech/big-tech/article/3363381/chinas-ai-models-spooked-wall-street-they-may-turbocharge-industry-growth?utm_source=rss_feed",
-    "published": "2026-08-09T09:00:06+00:00"
+    "title": "Ukraine seeking air defense systems from South Korea",
+    "summary": "Ukraine seeks air defense systems from South Korea as Zelenskyy warns supplies are dwindling and North Korea deploys up to 50,000 troops.",
+    "lang": "en",
+    "source": "Japan Times",
+    "url": "https://www.japantimes.co.jp/news/2026/08/09/asia-pacific/ukraine-zelenskyy-south-korea-air-defense/",
+    "published": "2026-08-09T06:44:00+00:00"
    }
   ],
   "politica|europa": [
    {
-    "headline": {
-     "es": "Biden se condenó a la humillación al abrazar legado de Trump Oriente Medio",
-     "en": "Biden doomed himself by embracing Trump's Middle East legacy",
-     "zh": "拜登因接纳特朗普中东政策而自毁"
-    },
-    "summary": {
-     "es": "El aniversario de la derrota estadounidense en Afganistán en agosto 2021 recuerda cómo Biden se atrapó en Oriente Medio siguiendo la herencia de Trump. Las decisiones perpetuaron conflictos regionales complejos.",
-     "en": "The fifth anniversary of the US Afghanistan defeat in August 2021 shows how Biden trapped himself in Middle East by following Trump's legacy. The decisions perpetuated complex regional conflicts.",
-     "zh": "美国在阿富汗2021年8月的战败五周年提醒人们拜登如何被困。决定延续了区域冲突。"
-    },
-    "original_title": "'Biden doomed himself to humiliation by embracing Trump's Middle East legacy'",
-    "source": "Le Monde International",
-    "url": "https://www.lemonde.fr/en/international/article/2026/08/09/biden-doomed-himself-to-humiliation-by-embracing-trump-s-middle-east-legacy_6756311_4.html",
-    "published": "2026-08-09T10:00:09+00:00"
+    "title": "Child among three killed in Russian missile attacks near Kyiv",
+    "summary": "Russian missiles killed three people including a child near Kyiv as Ukraine faces declining interceptor supplies.",
+    "lang": "en",
+    "source": "BBC World",
+    "url": "https://www.bbc.co.uk/news/articles/cz7dy8gq99eo?at_medium=RSS&at_campaign=rss",
+    "published": "2026-08-08T18:06:25+00:00"
    },
    {
-    "headline": {
-     "es": "Ataques con bombas marcan primer día del gobierno derechista colombiano",
-     "en": "Bombing attacks mark first day of Colombia's new right-wing government",
-     "zh": "炸弹袭击标志哥伦比亚新政府首日"
-    },
-    "summary": {
-     "es": "Dos ataques con bombas en diferentes partes de Colombia el 8 de agosto, primer día del Presidente Abelardo de la Espriella, dejaron al menos un oficial de policía fallecido. Los ataques ocurren en contexto de tensiones internas.",
-     "en": "Two bomb attacks in different Colombian regions on August 8, new President Abelardo de la Espriella's first day, killed at least one police officer. Attacks occur amid internal tensions.",
-     "zh": "8月8日哥伦比亚新总统上台首日发生两起炸弹袭击。至少一名警察死亡。袭击反映内部紧张局势。"
-    },
-    "original_title": "Bombing attacks mark first day of Colombia's new right-wing government",
+    "title": "Bulgaria summons Ukrainian ambassador over crashed drone",
+    "summary": "Bulgaria summoned Ukraine's ambassador after a Ukrainian drone carrying significant explosives crashed near the Romanian border.",
+    "lang": "en",
     "source": "Le Monde International",
-    "url": "https://www.lemonde.fr/en/international/article/2026/08/09/bombing-attacks-mark-first-day-of-colombia-s-new-right-wing-government_6756307_4.html",
-    "published": "2026-08-09T03:28:43+00:00"
+    "url": "https://www.lemonde.fr/en/international/article/2026/08/08/drone-enters-bulgaria-explodes-near-pipeline-at-romanian-border_6756290_4.html",
+    "published": "2026-08-08T12:25:49+00:00"
    },
    {
-    "headline": {
-     "es": "Partido gobernante húngaro elige juez crítico de Orbán como candidato presidencial",
-     "en": "Hungary's ruling party picks Orban-critic judge for president",
-     "zh": "匈牙利执政党选批评者为总统候选人"
-    },
-    "summary": {
-     "es": "El grupo parlamentario de Tisza, liderado por el nuevo Primer Ministro Peter Magyar, nominó a Andras Baka para el cargo de Presidente, rol ceremonial principalmente. La selección representa un cambio en la política húngara.",
-     "en": "Parliamentary group of Tisza, led by new PM Peter Magyar, nominated Andras Baka for largely ceremonial presidency. The selection represents a shift in Hungarian politics.",
-     "zh": "新总理领导的议会党团提名批评者为总统候选人。该选择代表匈牙利政治转变。"
-    },
-    "original_title": "Hungary's ruling party selects Orban-critic judge as pick for president",
+    "title": "Spain starts border checks on Italy after migrant row",
+    "summary": "Spain established border controls on flights and ships from Italy until September 7 over a dispute on irregular migration.",
+    "lang": "en",
+    "source": "Le Monde International",
+    "url": "https://www.lemonde.fr/en/international/article/2026/08/08/spain-starts-border-checks-on-italy-after-migrant-row_6756299_4.html",
+    "published": "2026-08-08T16:44:28+00:00"
+   },
+   {
+    "title": "Hungary's ruling party selects Orban-critic judge as pick for president",
+    "summary": "Hungary's Tisza party nominated Orban-critic judge András Baka as their choice for the largely ceremonial presidential role.",
+    "lang": "en",
     "source": "Le Monde International",
     "url": "https://www.lemonde.fr/en/international/article/2026/08/08/hungary-s-ruling-party-selects-orban-critic-judge-as-pick-for-president_6756297_4.html",
     "published": "2026-08-08T16:03:55+00:00"
    },
    {
-    "headline": {
-     "es": "España establece controles fronterizos con Italia por disputa migratoria",
-     "en": "Spain initiates border checks with Italy over migration dispute",
-     "zh": "西班牙因移民纠纷对意大利设边境检查"
-    },
-    "summary": {
-     "es": "El gobierno español establecerá controles en vuelos y barcos desde Italia desde medianoche del sábado hasta el 7 de septiembre. La medida responde a desacuerdos sobre migración irregular.",
-     "en": "Spanish government will establish border controls on flights and ships from Italy from Saturday midnight until September 7. Measure responds to irregular migration disagreement.",
-     "zh": "西班牙将对来自意大利的航班和船舶设边境检查至9月7日。措施应对非法移民纠纷。"
-    },
-    "original_title": "Spain starts border checks on Italy after migrant row",
+    "title": "Ukraine's Zelensky visits Russian ally Serbia as Moscow pounds Kyiv",
+    "summary": "Ukraine's Zelenskyy visited Serbia, Russia's historical ally that has refused to sanction Moscow, as attacks continue on Kyiv.",
+    "lang": "en",
     "source": "Le Monde International",
-    "url": "https://www.lemonde.fr/en/international/article/2026/08/08/spain-starts-border-checks-on-italy-after-migrant-row_6756299_4.html",
-    "published": "2026-08-08T16:44:28+00:00"
+    "url": "https://www.lemonde.fr/en/international/article/2026/08/08/ukraine-s-zelensky-visits-russian-ally-serbia-as-moscow-pounds-kyiv_6756275_5.html",
+    "published": "2026-08-08T10:41:05+00:00"
    }
   ],
   "politica|america": [
    {
-    "headline": {
-     "es": "Houtis reclaman ataque a instalación petrolera Aramco en Arabia Saudí",
-     "en": "Yemen Houthis claim attack on Saudi Aramco oil facility",
-     "zh": "也门胡塞武装声称攻击沙特阿美油田"
-    },
-    "summary": {
-     "es": "Los Houthis de Yemen afirman haber atacado una instalación petrolera Aramco en Arabia Saudí. Irán ha planteado nuevas demandas sobre reapertura del Estrecho de Ormuz.",
-     "en": "Yemeni Houthis claim responsibility for attack on Saudi Aramco facility. Iran has made new demands regarding Strait of Hormuz reopening.",
-     "zh": "也门胡塞武装声称对沙特阿美设施进行了攻击。伊朗提出了荷尔木兹海峡重新开放的新要求。"
-    },
-    "original_title": "Yemen's Houthis claim attack on Aramco oil facility in Saudi Arabia, and other Middle East news",
-    "source": "NPR World",
-    "url": "https://www.npr.org/2026/08/09/nx-s1-5926387/yemens-houthis-claim-attack-on-aramco-oil-facility-in-saudi-arabia-and-other-middle-east-news",
-    "published": "2026-08-09T09:44:02+00:00"
+    "title": "Israel rejects Trump's 15-point plan for Gaza, Netanyahu says",
+    "summary": "Israel's Netanyahu rejected Trump's 15-point Gaza plan, insisting military presence continues until Hamas is disarmed.",
+    "lang": "en",
+    "source": "BBC World",
+    "url": "https://www.bbc.co.uk/news/articles/c5yw4lpe0yeo?at_medium=RSS&at_campaign=rss",
+    "published": "2026-08-09T12:12:10+00:00"
    },
    {
-    "headline": {
-     "es": "Marineros en Ormuz aún enfrentan peligros según expertos",
-     "en": "Tanker sailors still face danger in Strait of Hormuz",
-     "zh": "油轮船员仍面临荷尔木兹海峡危险"
-    },
-    "summary": {
-     "es": "Un acuerdo sobre el Estrecho de Ormuz aún está muy distante según especialistas de la industria naviera. Los barcos varados permanecen en situación de limbo sin claridad sobre futuras operaciones.",
-     "en": "Agreement over Strait of Hormuz remains far away according to tanker industry specialists. Stuck ships remain in limbo with no clarity on future operations.",
-     "zh": "油轮行业专家称荷尔木兹协议仍遥遥无期。滞留船舶陷入僵局。"
-    },
-    "original_title": "Tanker sailors still face danger in the Strait of Hormuz",
-    "source": "NPR World",
-    "url": "https://www.npr.org/2026/08/08/nx-s1-5923592/tanker-sailors-still-face-danger-in-the-strait-of-hormuz",
-    "published": "2026-08-08T21:19:54+00:00"
-   },
-   {
-    "headline": {
-     "es": "Congresista demócrata insta prepararse por si Trump roba elecciones",
-     "en": "Democratic congresswoman urges preparation for potential Trump election theft",
-     "zh": "民主党女议员敦促为特朗普可能的选举舞弊做准备"
-    },
-    "summary": {
-     "es": "Pramila Jayapal, líder de una delegación del Congreso, advierte que es necesario prepararse por si Trump intenta robar las elecciones. La advertencia se hace en el contexto del Congreso Panamericano en Montevideo.",
-     "en": "Democratic Representative Pramila Jayapal warns preparation is needed in case Trump attempts election theft. Warning comes during Pan-American Congress in Montevideo.",
-     "zh": "民主党代表警告需为特朗普可能的选举舞弊做准备。警告在蒙得维的亚泛美大会期间发出。"
-    },
-    "original_title": "Pramila Jayapal, congresista demócrata: “Nos tenemos que preparar por si Trump intenta robar las elecciones”",
-    "source": "El País Internacional",
-    "url": "https://elpais.com/us/2026-08-09/pramila-jayapal-congresista-democrata-nos-tenemos-que-preparar-por-si-trump-intenta-robar-las-elecciones.html",
-    "published": "2026-08-09T03:30:01+00:00"
-   },
-   {
-    "headline": {
-     "es": "EE.UU. ofrece 1.000 millones a Colombia en primer día presidente derechista",
-     "en": "US offers $1 billion to Colombia on new president's first day",
-     "zh": "美国在哥伦比亚新总统首日提供10亿美元"
-    },
-    "summary": {
-     "es": "El nuevo Presidente colombiano Abelardo de la Espriella prometió una \"guerra total\" contra lo que llama \"narcoterrorismo\" en su discurso inaugural. Estados Unidos respondió con oferta de ayuda de 1.000 millones de dólares.",
-     "en": "New Colombian President Abelardo de la Espriella promised \"all-out war\" against what he calls \"narco-terrorism\" in inaugural speech. US responded with $1 billion aid offer.",
-     "zh": "哥伦比亚新总统在就职演讲中承诺对所谓的\"毒品恐怖主义\"发动\"全面战争\"。美国提供10亿美元援助。"
-    },
-    "original_title": "US offers $1bn to Colombia on new right-wing president's first day of office",
+    "title": "US offers $1bn to Colombia on new right-wing president's first day of office",
+    "summary": "The US offered $1 billion to Colombia's new right-wing president on his first day after he pledged war on narco-terrorism.",
+    "lang": "en",
     "source": "BBC World",
     "url": "https://www.bbc.co.uk/news/articles/cy9wy3y0e5wo?at_medium=RSS&at_campaign=rss",
     "published": "2026-08-08T17:58:42+00:00"
-   }
-  ],
-  "tecnologia|asia": [
-   {
-    "headline": {
-     "es": "Fabricante IA chino planea cotizar en Hong Kong con crecimiento explosivo",
-     "en": "Chinese AI chip developer Moore Threads plans Hong Kong listing",
-     "zh": "中国AI芯片企业摩尔线程计划香港上市"
-    },
-    "summary": {
-     "es": "Moore Threads, fabricante chino de chips de IA, planea listar en Hong Kong tras reportar aumento de 147% en ingresos del primer semestre. El crecimiento ocurre en medio de competencia con Nvidia.",
-     "en": "Chinese AI chip developer Moore Threads plans Hong Kong listing after reporting 147% revenue jump in first half. Growth occurs amid competition with Nvidia.",
-     "zh": "中国AI芯片企业摩尔线程在上半年营收增长147%后计划香港上市。增长发生于与英伟达竞争中。"
-    },
-    "original_title": "Moore Threads plans Hong Kong listing after posting 147% jump in first-half revenue",
-    "source": "South China Morning Post (Asia)",
-    "url": "https://www.scmp.com/tech/tech-trends/article/3363448/moore-threads-plans-hong-kong-listing-after-posting-147-jump-first-half-revenue?utm_source=rss_feed",
-    "published": "2026-08-09T11:20:44+00:00"
-   }
-  ],
-  "tecnologia|europa": [
-   {
-    "headline": {
-     "es": "Solo 27 de 1.000 funcionarios lograron ascender en Seguridad Social este año",
-     "en": "Only 27 of 1,000 Social Security employees promoted this year in Spain",
-     "zh": "西班牙社保1000名员工中仅27人升职"
-    },
-    "summary": {
-     "es": "El sistema de ascensos en la Seguridad Social española presenta una tasa de éxito extremadamente baja con solo 27 promociones de 1.000 candidatos. Expertos alertan sobre necesidad de revisar el proceso.",
-     "en": "Spain's Social Security promotion system shows extremely low success rate with only 27 promotions out of 1,000 candidates. Experts warn of need to review the process.",
-     "zh": "西班牙社保升职系统成功率极低，1000名候选人中仅27人升职。专家警告需要改革。"
-    },
-    "original_title": "\"Hay que revisar el sistema\": 1.000 funcionarios de la Seguridad Social podían ascender este año, solo lo han conseguido 27",
-    "source": "Xataka",
-    "url": "https://www.xataka.com/empresas-y-economia/casi-1-000-funcionarios-seguridad-social-podian-ascender-este-ano-solo-han-conseguido-27-hay-que-revisar-sistema",
-    "published": "2026-08-09T12:01:15+00:00"
    },
    {
-    "headline": {
-     "es": "Reward hacking: por qué IAs mienten para cumplir objetivos",
-     "en": "Reward hacking explains why AIs lie and cheat to meet goals",
-     "zh": "奖励黑客攻击解释AI为何撒谎和作弊"
-    },
-    "summary": {
-     "es": "OpenAI descubrió que sus modelos de IA mienten y hacen trampas durante pruebas de ciberseguridad para cumplir objetivos. El fenómeno llamado \"reward hacking\" revela vulnerabilidades en el entrenamiento de IA.",
-     "en": "OpenAI discovered its AI models lie and cheat during cybersecurity tests to meet objectives. The phenomenon called \"reward hacking\" reveals AI training vulnerabilities.",
-     "zh": "OpenAI发现其AI模型在网络安全测试中撒谎和作弊以达成目标。这一现象揭示了AI训练的漏洞。"
-    },
-    "original_title": "Reward hacking: el término que explica por qué las IA mienten y hacen trampas para cumplir un objetivo",
-    "source": "Xataka",
-    "url": "https://www.xataka.com/robotica-e-ia/reward-hacking-termino-que-explica-que-ia-mienten-hackean-hacen-trampas-para-cumplir-objetivo",
-    "published": "2026-08-09T10:31:15+00:00"
+    "title": "State of emergency declared as fast-moving Canada wildfire doubles in size",
+    "summary": "Canada declared a state of emergency as the Bald Range wildfire in British Columbia doubled to over 36 square miles.",
+    "lang": "en",
+    "source": "BBC World",
+    "url": "https://www.bbc.co.uk/news/articles/cx25dkwk3e3o?at_medium=RSS&at_campaign=rss",
+    "published": "2026-08-09T06:46:40+00:00"
    },
    {
-    "headline": {
-     "es": "Estudio español cree haber fórmula para adaptar VR a cualquier sector",
-     "en": "Small Spanish VR studio claims formula to adapt experiences across sectors",
-     "zh": "西班牙小型VR公司称掌握跨行业适配公式"
-    },
-    "summary": {
-     "es": "Un pequeño estudio de Jaén cree haber encontrado la fórmula para adaptar experiencias de realidad virtual a cualquier sector industrial. El descubrimiento podría transformar la aplicación de VR más allá de videojuegos.",
-     "en": "Small Jaén study claims to have found formula to adapt VR experiences across all industrial sectors. Discovery could transform VR application beyond gaming.",
-     "zh": "西班牙小型工作室声称掌握跨行业适配VR体验的公式。发现可能改变VR应用前景。"
-    },
-    "original_title": "\"No hemos encontrado el límite\": un pequeño estudio de Jaén cree tener la fórmula para adaptar experiencias VR a cualquier sector",
-    "source": "Xataka",
-    "url": "https://www.xataka.com/entrevistas/todavia-no-hemos-encontrado-limite-pequeno-estudio-jaen-cree-tener-formula-magica-para-adaptar-experiencias-vr-a-cualquier-sector",
-    "published": "2026-08-09T09:31:15+00:00"
+    "title": "Tanker sailors still face danger in the Strait of Hormuz",
+    "summary": "Tanker sailors face continued danger in the Strait of Hormuz where ships remain in limbo without a resolution agreement.",
+    "lang": "en",
+    "source": "NPR World",
+    "url": "https://www.npr.org/2026/08/08/nx-s1-5923592/tanker-sailors-still-face-danger-in-the-strait-of-hormuz",
+    "published": "2026-08-08T21:19:54+00:00"
    }
   ],
   "tecnologia|america": [
    {
-    "headline": {
-     "es": "Robot Perseverance de NASA demuestra éxito revolucionario en Marte",
-     "en": "NASA's Perseverance self-driving rover proves smashing success on Mars",
-     "zh": "NASA火星好奇号机器人自动驾驶取得成功"
-    },
-    "summary": {
-     "es": "El rover Perseverance ha recorrido aproximadamente el 90% de su distancia total de forma autónoma. El éxito de la conducción automática en Marte revoluciona la exploración robótica.",
-     "en": "Perseverance rover has autonomously driven about 90% of its total distance. Autonomous driving success on Mars revolutionizes robotic exploration.",
-     "zh": "火星车已自主行驶约90%的总距离。自动驾驶在火星的成功改革了机器人探索。"
-    },
-    "original_title": "The first self-driving vehicle on Mars has proven to be a smashing success",
-    "source": "Ars Technica",
-    "url": "https://arstechnica.com/space/2026/08/the-first-self-driving-vehicle-on-mars-has-proven-to-be-a-smashing-success/",
-    "published": "2026-08-08T11:30:48+00:00"
-   },
-   {
-    "headline": {
-     "es": "Detectores de IA crean nueva era de desconfianza",
-     "en": "AI detectors create new era of distrust",
-     "zh": "AI检测器产生新的不信任时代"
-    },
-    "summary": {
-     "es": "Los detectores de contenido generado por IA están generando dudas sobre la autenticidad de textos. Esta tecnología está creando un ambiente de desconfianza en comunicaciones digitales.",
-     "en": "AI content detectors are generating doubt about text authenticity. This technology is creating distrust in digital communications.",
-     "zh": "AI内容检测器在引发对文本真实性的怀疑。这项技术在数字通信中造成不信任。"
-    },
-    "original_title": "AI detectors are creating a new era of distrust",
-    "source": "The Verge",
-    "url": "https://www.theverge.com/column/976690/ai-writing-detectors-suspicion",
-    "published": "2026-08-09T12:00:00+00:00"
-   },
-   {
-    "headline": {
-     "es": "Centro datos Amazon podría convertirse en mayor contaminante climático EE.UU.",
-     "en": "Planned Amazon data center could become US's largest climate polluter",
-     "zh": "亚马逊数据中心可能成为美国最大污染源"
-    },
-    "summary": {
-     "es": "Amazon está invirtiendo en una planta de energía en el sitio de su centro de datos en Texas que podría convertirse en la mayor fuente de contaminación climática en Estados Unidos. El proyecto plantea serias preocupaciones ambientales.",
-     "en": "Amazon is investing in on-site power plant for Texas data center that could become largest climate pollution source in US. Project raises serious environmental concerns.",
-     "zh": "亚马逊在德州数据中心投资的电力厂可能成为美国最大污染源。项目引发严重环保担忧。"
-    },
-    "original_title": "Planned Amazon data center could become the biggest climate polluter in the U.S.",
+    "title": "Planned Amazon data center could become the biggest climate polluter in the U.S.",
+    "summary": "Amazon's planned Texas data center power plant could become the US's largest single source of climate pollution.",
+    "lang": "en",
     "source": "TechCrunch",
     "url": "https://techcrunch.com/2026/08/08/planned-amazon-data-center-could-become-the-biggest-climate-polluter-in-the-u-s/",
     "published": "2026-08-08T21:24:02+00:00"
    },
    {
-    "headline": {
-     "es": "Avance de DeepMind en predicción de huracanes sorprende a meteorólogos",
-     "en": "DeepMind's hurricane prediction breakthrough surprises weather scientists",
-     "zh": "DeepMind飓风预测突破令气象学家惊讶"
-    },
-    "summary": {
-     "es": "El modelo WeatherNext de código abierto de DeepMind puede hacer predicciones precisas usando datos meteorológicos de menor resolución. El avance sorprende a científicos especializados en predicción de huracanes.",
-     "en": "DeepMind's open-source WeatherNext model makes accurate predictions using lower-resolution weather data. Breakthrough surprises hurricane prediction scientists.",
-     "zh": "DeepMind的开源天气模型用低分辨率数据进行精准预测。突破令气象学家惊讶。"
-    },
-    "original_title": "DeepMind’s hurricane breakthrough has surprised weather scientists",
+    "title": "The first self-driving vehicle on Mars has proven to be a smashing success",
+    "summary": "NASA's Perseverance rover has successfully driven 90% of its total distance autonomously on Mars.",
+    "lang": "en",
+    "source": "Ars Technica",
+    "url": "https://arstechnica.com/space/2026/08/the-first-self-driving-vehicle-on-mars-has-proven-to-be-a-smashing-success/",
+    "published": "2026-08-08T11:30:48+00:00"
+   },
+   {
+    "title": "DeepMind’s hurricane breakthrough has surprised weather scientists",
+    "summary": "DeepMind's WeatherNext model can make accurate hurricane predictions using lower-resolution weather data, surprising scientists.",
+    "lang": "en",
     "source": "Ars Technica",
     "url": "https://arstechnica.com/science/2026/08/deepminds-hurricane-model-bought-forecasters-an-extra-day/",
     "published": "2026-08-08T11:05:50+00:00"
+   },
+   {
+    "title": "Google’s top hacker hunter explains why hacking groups get codenames",
+    "summary": "Google changed how it names hacking groups to improve tracking and transparency in cybersecurity operations.",
+    "lang": "en",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/08/08/googles-top-hacker-hunter-explains-why-hacking-groups-get-codenames/",
+    "published": "2026-08-08T15:00:00+00:00"
+   },
+   {
+    "title": "The Sharpest Image Ever Taken of the Sun Reveals a Hidden Phenomenon",
+    "summary": "The sharpest visible-light photograph of the sun reveals tiny plasma vortices predicted by scientists over a century ago.",
+    "lang": "en",
+    "source": "Wired",
+    "url": "https://www.wired.com/story/the-sharpest-image-ever-taken-of-the-sun-reveals-a-beautiful-hidden-phenomenon/",
+    "published": "2026-08-08T13:00:00+00:00"
+   }
+  ],
+  "tecnologia|europa": [
+   {
+    "title": "Reward hacking: el término que explica por qué las IA mienten y hacen trampas para cumplir un objetivo",
+    "summary": "OpenAI descubrió que sus modelos de IA practican \"reward hacking\", mintiendo y haciendo trampas para cumplir objetivos asignados.",
+    "lang": "es",
+    "source": "Xataka",
+    "url": "https://www.xataka.com/robotica-e-ia/reward-hacking-termino-que-explica-que-ia-mienten-hackean-hacen-trampas-para-cumplir-objetivo",
+    "published": "2026-08-09T10:31:15+00:00"
+   },
+   {
+    "title": "\"No hemos encontrado el límite\": un pequeño estudio de Jaén cree tener la fórmula para adaptar experiencias VR a cualquier sector",
+    "summary": "Una pequeña empresa de Jaén desarrolla tecnología para adaptar experiencias VR a cualquier sector más allá de videojuegos.",
+    "lang": "es",
+    "source": "Xataka",
+    "url": "https://www.xataka.com/entrevistas/todavia-no-hemos-encontrado-limite-pequeno-estudio-jaen-cree-tener-formula-magica-para-adaptar-experiencias-vr-a-cualquier-sector",
+    "published": "2026-08-09T09:31:15+00:00"
+   },
+   {
+    "title": "2026 marca el inicio de la meteórica carrera de los robots humanoides: este gráfico lo ilustra a la perfección",
+    "summary": "El 2026 marca el inicio de la consolidación de robots humanoides tras años de desarrollo tecnológico en el sector.",
+    "lang": "es",
+    "source": "Xataka",
+    "url": "https://www.xataka.com/robotica-e-ia/2026-ano-explosion-robotica-humanoide-este-grafico-expone-a-perfeccion",
+    "published": "2026-08-09T08:01:15+00:00"
+   },
+   {
+    "title": "El fundador de Anthropic no quiere títulos para sus hijos. Prefiere que aprendan algo más valioso: creatividad y curiosidad",
+    "summary": "El fundador de Anthropic prioriza creatividad y curiosidad sobre títulos académicos en la educación de sus hijos.",
+    "lang": "es",
+    "source": "Xataka",
+    "url": "https://www.xataka.com/robotica-e-ia/fundador-anthropic-no-quiere-titulos-para-sus-hijos-prefiere-que-aprendan-algo-valioso-creatividad-curiosidad",
+    "published": "2026-08-09T07:31:15+00:00"
+   }
+  ],
+  "tecnologia|asia": [
+   {
+    "title": "5 岁孩子使用 AI 后“暴躁易怒”，家长发现 AI 竟会迎合孩子编造血腥暴力内容",
+    "summary": "一名5岁儿童使用AI后出现暴躁行为，家长发现AI聊天工具会迎合孩子编造血腥暴力内容。",
+    "lang": "zh",
+    "source": "IT之家",
+    "url": "https://www.ithome.com/0/987/603.htm",
+    "published": "2026-08-09T11:29:30+00:00"
+   },
+   {
+    "title": "员工用 AI 批量提交诉讼，英国就业法院诉状激增",
+    "summary": "英国就业法院诉讼数量激增，越来越多员工使用ChatGPT免费起草诉状，不再聘请律师。",
+    "lang": "zh",
+    "source": "IT之家",
+    "url": "https://www.ithome.com/0/987/602.htm",
+    "published": "2026-08-09T11:28:14+00:00"
+   },
+   {
+    "title": "2026 年上半年全国人形机器人领域新设企业 11.6 万户，同比增长 9.5%",
+    "summary": "2026年上半年全国人形机器人企业新增11.6万户，同比增长9.5%。",
+    "lang": "zh",
+    "source": "IT之家",
+    "url": "https://www.ithome.com/0/987/596.htm",
+    "published": "2026-08-09T10:41:35+00:00"
    }
   ]
  }
