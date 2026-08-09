@@ -1,39 +1,41 @@
 {
  "date": "2026-08-09",
- "generated_at": "2026-08-09T12:38:01.605241+00:00",
+ "generated_at": "2026-08-09T12:42:32.628620+00:00",
  "mode": "full",
- "cost_usd": 0.0236,
+ "cost_usd": 0.0209,
  "market": null,
- "failed_sources": [],
+ "failed_sources": [
+  "IT之家"
+ ],
  "cells": {
   "economia|asia": [
    {
     "title": "China’s monthly inflation cools as impact from Iran war eases",
-    "summary": "China's July CPI growth slowed to its weakest pace since January as factory-gate prices decelerate amid easing Iran tensions.",
+    "summary": "China's July consumer inflation slowed to its lowest pace since January, while factory-gate prices also decelerated as geopolitical tensions eased.",
     "lang": "en",
     "source": "FT Global Economy",
     "url": "https://www.ft.com/content/15c56de6-c884-4c7f-a91c-6d1aa59ce1c6?syn-25a6b1a6=1",
     "published": "2026-08-09T03:05:38+00:00"
    },
    {
+    "title": "Why yen intervention had limited impact: Market doubts over Japan's policy",
+    "summary": "Japan's yen intervention efforts have had limited market impact due to investor skepticism about the country's broader monetary policy direction.",
+    "lang": "en",
+    "source": "Nikkei Asia",
+    "url": "https://asia.nikkei.com/business/markets/currencies/why-yen-intervention-had-limited-impact-market-doubts-over-japan-s-policy",
+    "published": null
+   },
+   {
     "title": "Japan's top 3 banks boost foreign currency liquidity buffers to $1.25tn",
-    "summary": "Japan's three largest banks increased foreign currency liquidity buffers to $1.25 trillion to strengthen financial resilience.",
+    "summary": "Japan's three largest banks have increased their foreign currency liquidity buffers to $1.25 trillion, strengthening financial resilience.",
     "lang": "en",
     "source": "Nikkei Asia",
     "url": "https://asia.nikkei.com/business/finance/japan-s-top-3-banks-boost-foreign-currency-liquidity-buffers-to-1.25tn",
     "published": null
    },
    {
-    "title": "Currency Defense Gets Makeover as Emerging Asia Guards Reserves",
-    "summary": "Emerging Asian central banks develop new currency support methods without depleting foreign-exchange reserves amid regional tensions.",
-    "lang": "en",
-    "source": "Bloomberg Markets",
-    "url": "https://www.bloomberg.com/news/articles/2026-08-09/currency-defense-gets-makeover-as-emerging-asia-guards-reserves",
-    "published": "2026-08-09T10:30:00+00:00"
-   },
-   {
     "title": "Kansai Electric, Kawasaki Heavy seek 1st off-site transport of captured CO2",
-    "summary": "Kansai Electric and Kawasaki Heavy plan the first off-site transport of captured carbon dioxide for industrial use.",
+    "summary": "Kansai Electric and Kawasaki Heavy are developing technology for the first off-site transport of captured carbon dioxide.",
     "lang": "en",
     "source": "Nikkei Asia",
     "url": "https://asia.nikkei.com/spotlight/environment/kansai-electric-kawasaki-heavy-seek-1st-off-site-transport-of-captured-co2",
@@ -42,118 +44,110 @@
   ],
   "economia|europa": [
    {
-    "title": "Investors return to European stocks as strong earnings lift Iran war gloom",
-    "summary": "European stocks rise as companies in the Stoxx Europe 600 index deliver strong second-quarter earnings, lifting investor sentiment.",
-    "lang": "en",
-    "source": "Financial Times",
-    "url": "https://www.ft.com/content/297a8bf7-ce8b-44fe-bc51-3e2ec2e47699?syn-25a6b1a6=1",
-    "published": "2026-08-09T04:00:09+00:00"
-   },
-   {
     "title": "France faces budget showdown as presidential election looms",
-    "summary": "France faces budget pressure as elections loom, with officials urging opposition cooperation to reduce the deficit.",
+    "summary": "France faces budget deficit challenges as a presidential election approaches, with officials urging opposition cooperation to prevent fiscal problems for successors.",
     "lang": "en",
     "source": "Financial Times",
     "url": "https://www.ft.com/content/0ac50644-398f-49ec-895d-a2494254dabd?syn-25a6b1a6=1",
     "published": "2026-08-09T04:00:09+00:00"
    },
    {
+    "title": "Investors return to European stocks as strong earnings lift Iran war gloom",
+    "summary": "European stocks attract renewed investor interest as strong corporate earnings offset geopolitical concerns, with Stoxx Europe 600 companies tracking 22% profit growth.",
+    "lang": "en",
+    "source": "Financial Times",
+    "url": "https://www.ft.com/content/297a8bf7-ce8b-44fe-bc51-3e2ec2e47699?syn-25a6b1a6=1",
+    "published": "2026-08-09T04:00:09+00:00"
+   },
+   {
     "title": "El crédito a las empresas vuelve, pero no a todas por igual",
-    "summary": "El crédito empresarial crece cuando la inversión privada impulsa sectores que requieren ampliación de capacidad y digitalización.",
+    "summary": "El crédito empresarial repunta en España, pero su crecimiento dependerá de que la inversión privada se acelere, especialmente en sectores que necesiten modernizar infraestructuras y procesos.",
     "lang": "es",
     "source": "El País Economía",
     "url": "https://elpais.com/economia/negocios/2026-08-09/el-credito-a-las-empresas-vuelve-pero-no-a-todas-por-igual.html",
     "published": "2026-08-09T03:30:00+00:00"
-   },
-   {
-    "title": "Europe’s Hot Stock Markets Are Creating a Buzz Among Investors",
-    "summary": "Europe's stock market rally attracts investors who believe the gains will sustain beyond short-term trading cycles.",
-    "lang": "en",
-    "source": "Bloomberg Markets",
-    "url": "https://www.bloomberg.com/news/articles/2026-08-09/europe-s-hot-stock-markets-are-creating-a-buzz-among-investors",
-    "published": "2026-08-09T08:00:00+00:00"
    }
   ],
   "economia|america": [
    {
-    "title": "Puerto Rico Rations Water as Drought Deepens",
-    "summary": "Puerto Rico rations water through rotating 48-hour outages as severe drought worsens the island's infrastructure crisis.",
+    "title": "Will US inflation be cool enough to trim bets on a September rate rise?",
+    "summary": "US inflation data will influence market expectations about potential Federal Reserve rate cuts in September amid ongoing economic pressures.",
     "lang": "en",
-    "source": "Bloomberg Markets",
-    "url": "https://www.bloomberg.com/news/videos/2026-08-09/puerto-rico-rations-water-as-drought-deepens-video",
-    "published": "2026-08-09T12:23:27+00:00"
+    "source": "FT Global Economy",
+    "url": "https://www.ft.com/content/e7f0c7af-b170-4cb5-a16e-671efa62e605?syn-25a6b1a6=1",
+    "published": "2026-08-09T11:00:09+00:00"
    },
    {
-    "title": "Greg Abel finally puts Buffett’s cash pile to work",
-    "summary": "Berkshire Hathaway's Greg Abel ends a three-year selling streak, investing a net $20 billion into stocks.",
+    "title": "US CPI to Show Inflationary Pressures Cooling Some",
+    "summary": "US consumer prices likely edged up marginally last month, signaling cooling inflationary pressures after recent geopolitical-driven increases.",
     "lang": "en",
-    "source": "Financial Times",
-    "url": "https://www.ft.com/content/e164e244-f6de-4e3b-8a67-6bebee1b7bf4?syn-25a6b1a6=1",
-    "published": "2026-08-08T15:36:35+00:00"
+    "source": "Bloomberg Economics",
+    "url": "https://www.bloomberg.com/news/articles/2026-08-08/us-cpi-to-show-inflationary-pressures-cooling-some",
+    "published": "2026-08-08T20:00:00+00:00"
    }
   ],
   "politica|asia": [
    {
-    "title": "Typhoon Dolphin batters Japan's Okinawa before bearing down on China",
-    "summary": "Typhoon Dolphin battered Okinawa, cutting power to 44,000 buildings and injuring five people before approaching China.",
+    "title": "Israel rejects Trump’s 15-point plan for Gaza",
+    "summary": "Israeli Prime Minister Netanyahu rejected Trump's 15-point Gaza plan, insisting Israel will maintain military operations until Hamas is fully disarmed.",
     "lang": "en",
-    "source": "BBC World",
-    "url": "https://www.bbc.co.uk/news/articles/cvglp2zlvrlo?at_medium=RSS&at_campaign=rss",
-    "published": "2026-08-08T15:15:17+00:00"
+    "source": "Al Jazeera English",
+    "url": "https://www.aljazeera.com/news/2026/8/9/israel-rejects-trumps-15-point-plan-for-gaza?traffic_source=rss",
+    "published": "2026-08-09T11:31:18+00:00"
    },
    {
-    "title": "Red alert: Shanghai cancels 80% of flights as Typhoon Dolphin makes landfall",
-    "summary": "Shanghai cancelled 80% of flights as Typhoon Dolphin made landfall in Zhejiang province with maximum winds of 151 km/h.",
+    "title": "With Japan, China faces a corrosive security dilemma",
+    "summary": "Japan's 2026 defence white paper reiterates that China represents an 'unprecedented and greatest strategic challenge' for the fourth consecutive year.",
     "lang": "en",
-    "source": "South China Morning Post (China)",
-    "url": "https://www.scmp.com/news/china/article/3363428/red-alert-shanghai-cancels-60-flights-typhoon-dolphin-closes?utm_source=rss_feed",
-    "published": "2026-08-09T05:10:53+00:00"
+    "source": "South China Morning Post (Asia)",
+    "url": "https://www.scmp.com/opinion/asia-opinion/article/3363277/japan-china-faces-corrosive-security-dilemma?utm_source=rss_feed",
+    "published": "2026-08-09T12:30:06+00:00"
    },
    {
     "title": "Taiwan’s 2027 defense spending to rise 16%, official media reports",
-    "summary": "Taiwan's 2027 defense budget will exceed 1 trillion new Taiwan dollars ($31 billion) for the first time, a 16% increase.",
+    "summary": "Taiwan's proposed 2027 defence budget will exceed 1 trillion new Taiwan dollars for the first time, representing a 16% increase.",
     "lang": "en",
     "source": "Japan Times",
     "url": "https://www.japantimes.co.jp/news/2026/08/09/asia-pacific/taiwan-2027-defense-spending-rise/",
     "published": "2026-08-09T09:07:00+00:00"
    },
    {
-    "title": "Myanmar rebuffs Asean call to free Aung San Suu Kyi, questions need for envoy",
-    "summary": "Myanmar's military government rejected ASEAN's call for Aung San Suu Kyi's release and questioned the need for an envoy.",
-    "lang": "en",
-    "source": "South China Morning Post (Asia)",
-    "url": "https://www.scmp.com/news/asia/southeast-asia/article/3363453/myanmar-rebuffs-asean-call-free-aung-san-suu-kyi-questions-need-envoy?utm_source=rss_feed",
-    "published": "2026-08-09T12:24:09+00:00"
-   },
-   {
-    "title": "Ukraine seeking air defense systems from South Korea",
-    "summary": "Ukraine seeks air defense systems from South Korea as Zelenskyy warns supplies are dwindling and North Korea deploys up to 50,000 troops.",
+    "title": "Typhoon Dolphin set to hit China’s east coast, triggering flood warnings",
+    "summary": "Typhoon Dolphin swept through Okinawa, injuring six people and cutting power to over 50,000 buildings before heading toward China's east coast.",
     "lang": "en",
     "source": "Japan Times",
-    "url": "https://www.japantimes.co.jp/news/2026/08/09/asia-pacific/ukraine-zelenskyy-south-korea-air-defense/",
-    "published": "2026-08-09T06:44:00+00:00"
+    "url": "https://www.japantimes.co.jp/news/2026/08/09/asia-pacific/typhoon-dolphin-china-flood-warnings/",
+    "published": "2026-08-09T09:01:00+00:00"
+   },
+   {
+    "title": "China races to develop brain-computer interfaces that can be inserted in 10 minutes",
+    "summary": "Chinese start-ups are racing to develop brain-computer interfaces that can be implanted in minutes as Beijing promotes neurotechnology advancement.",
+    "lang": "en",
+    "source": "South China Morning Post (Asia)",
+    "url": "https://www.scmp.com/business/companies/article/3363443/china-races-develop-brain-computer-interfaces-can-be-inserted-10-minutes?utm_source=rss_feed",
+    "published": "2026-08-09T09:50:10+00:00"
    }
   ],
   "politica|europa": [
    {
-    "title": "Child among three killed in Russian missile attacks near Kyiv",
-    "summary": "Russian missiles killed three people including a child near Kyiv as Ukraine faces declining interceptor supplies.",
+    "title": "Russian forces kill several in Ukraine, launch ‘brutal’ attack in Odesa",
+    "summary": "Russian forces launched brutal attacks on Ukraine's Odesa port, killing several people; President Zelenskyy accuses Moscow of threatening global food security.",
     "lang": "en",
-    "source": "BBC World",
-    "url": "https://www.bbc.co.uk/news/articles/cz7dy8gq99eo?at_medium=RSS&at_campaign=rss",
-    "published": "2026-08-08T18:06:25+00:00"
+    "source": "Al Jazeera English",
+    "url": "https://www.aljazeera.com/news/2026/8/9/russian-forces-kill-several-in-ukraine-launch-brutal-attack-in-odesa?traffic_source=rss",
+    "published": "2026-08-09T10:55:06+00:00"
    },
    {
-    "title": "Bulgaria summons Ukrainian ambassador over crashed drone",
-    "summary": "Bulgaria summoned Ukraine's ambassador after a Ukrainian drone carrying significant explosives crashed near the Romanian border.",
+    "title": "Ukraine's Zelensky visits Russian ally Serbia as Moscow pounds Kyiv",
+    "summary": "Ukraine's President Zelensky visited Serbia, a traditional Russian ally that has refused sanctions, while Moscow continues attacks on Kyiv.",
     "lang": "en",
     "source": "Le Monde International",
-    "url": "https://www.lemonde.fr/en/international/article/2026/08/08/drone-enters-bulgaria-explodes-near-pipeline-at-romanian-border_6756290_4.html",
-    "published": "2026-08-08T12:25:49+00:00"
+    "url": "https://www.lemonde.fr/en/international/article/2026/08/08/ukraine-s-zelensky-visits-russian-ally-serbia-as-moscow-pounds-kyiv_6756275_5.html",
+    "published": "2026-08-08T10:41:05+00:00"
    },
    {
     "title": "Spain starts border checks on Italy after migrant row",
-    "summary": "Spain established border controls on flights and ships from Italy until September 7 over a dispute on irregular migration.",
+    "summary": "Spain implemented border checks on flights and ships from Italy through September 7 in response to disputes over irregular migration management.",
     "lang": "en",
     "source": "Le Monde International",
     "url": "https://www.lemonde.fr/en/international/article/2026/08/08/spain-starts-border-checks-on-italy-after-migrant-row_6756299_4.html",
@@ -161,33 +155,25 @@
    },
    {
     "title": "Hungary's ruling party selects Orban-critic judge as pick for president",
-    "summary": "Hungary's Tisza party nominated Orban-critic judge András Baka as their choice for the largely ceremonial presidential role.",
+    "summary": "Hungary's Tisza parliamentary group nominated judge Andras Baka for the largely ceremonial presidency role, signaling internal political shifts.",
     "lang": "en",
     "source": "Le Monde International",
     "url": "https://www.lemonde.fr/en/international/article/2026/08/08/hungary-s-ruling-party-selects-orban-critic-judge-as-pick-for-president_6756297_4.html",
     "published": "2026-08-08T16:03:55+00:00"
    },
    {
-    "title": "Ukraine's Zelensky visits Russian ally Serbia as Moscow pounds Kyiv",
-    "summary": "Ukraine's Zelenskyy visited Serbia, Russia's historical ally that has refused to sanction Moscow, as attacks continue on Kyiv.",
+    "title": "Algeria's arrests of alleged drug lords signal cautious thaw between Paris and Algiers",
+    "summary": "Algeria's arrests of alleged drug lords signal cautious improvement in cooperation between Paris and Algiers on security matters.",
     "lang": "en",
     "source": "Le Monde International",
-    "url": "https://www.lemonde.fr/en/international/article/2026/08/08/ukraine-s-zelensky-visits-russian-ally-serbia-as-moscow-pounds-kyiv_6756275_5.html",
-    "published": "2026-08-08T10:41:05+00:00"
+    "url": "https://www.lemonde.fr/en/le-monde-africa/article/2026/08/08/algeria-s-arrests-of-alleged-drug-lords-signal-cautious-thaw-between-paris-and-algiers_6756288_124.html",
+    "published": "2026-08-08T10:45:05+00:00"
    }
   ],
   "politica|america": [
    {
-    "title": "Israel rejects Trump's 15-point plan for Gaza, Netanyahu says",
-    "summary": "Israel's Netanyahu rejected Trump's 15-point Gaza plan, insisting military presence continues until Hamas is disarmed.",
-    "lang": "en",
-    "source": "BBC World",
-    "url": "https://www.bbc.co.uk/news/articles/c5yw4lpe0yeo?at_medium=RSS&at_campaign=rss",
-    "published": "2026-08-09T12:12:10+00:00"
-   },
-   {
     "title": "US offers $1bn to Colombia on new right-wing president's first day of office",
-    "summary": "The US offered $1 billion to Colombia's new right-wing president on his first day after he pledged war on narco-terrorism.",
+    "summary": "The US offered Colombia $1 billion on its new right-wing president's first day, supporting his declared 'all-out war' against narco-terrorism.",
     "lang": "en",
     "source": "BBC World",
     "url": "https://www.bbc.co.uk/news/articles/cy9wy3y0e5wo?at_medium=RSS&at_campaign=rss",
@@ -195,15 +181,15 @@
    },
    {
     "title": "State of emergency declared as fast-moving Canada wildfire doubles in size",
-    "summary": "Canada declared a state of emergency as the Bald Range wildfire in British Columbia doubled to over 36 square miles.",
+    "summary": "A fast-moving wildfire in British Columbia's Bald Range has doubled in size to over 39 square miles, prompting a state of emergency declaration.",
     "lang": "en",
     "source": "BBC World",
     "url": "https://www.bbc.co.uk/news/articles/cx25dkwk3e3o?at_medium=RSS&at_campaign=rss",
-    "published": "2026-08-09T06:46:40+00:00"
+    "published": "2026-08-09T12:41:40+00:00"
    },
    {
     "title": "Tanker sailors still face danger in the Strait of Hormuz",
-    "summary": "Tanker sailors face continued danger in the Strait of Hormuz where ships remain in limbo without a resolution agreement.",
+    "summary": "Tanker sailors remain at risk in the Strait of Hormuz with no agreement in sight, leaving ships stuck in limbo amid ongoing tensions.",
     "lang": "en",
     "source": "NPR World",
     "url": "https://www.npr.org/2026/08/08/nx-s1-5923592/tanker-sailors-still-face-danger-in-the-strait-of-hormuz",
@@ -213,23 +199,15 @@
   "tecnologia|america": [
    {
     "title": "Planned Amazon data center could become the biggest climate polluter in the U.S.",
-    "summary": "Amazon's planned Texas data center power plant could become the US's largest single source of climate pollution.",
+    "summary": "Amazon's planned Texas data center includes an on-site power plant that could become the largest source of climate pollution in the United States.",
     "lang": "en",
     "source": "TechCrunch",
     "url": "https://techcrunch.com/2026/08/08/planned-amazon-data-center-could-become-the-biggest-climate-polluter-in-the-u-s/",
     "published": "2026-08-08T21:24:02+00:00"
    },
    {
-    "title": "The first self-driving vehicle on Mars has proven to be a smashing success",
-    "summary": "NASA's Perseverance rover has successfully driven 90% of its total distance autonomously on Mars.",
-    "lang": "en",
-    "source": "Ars Technica",
-    "url": "https://arstechnica.com/space/2026/08/the-first-self-driving-vehicle-on-mars-has-proven-to-be-a-smashing-success/",
-    "published": "2026-08-08T11:30:48+00:00"
-   },
-   {
     "title": "DeepMind’s hurricane breakthrough has surprised weather scientists",
-    "summary": "DeepMind's WeatherNext model can make accurate hurricane predictions using lower-resolution weather data, surprising scientists.",
+    "summary": "DeepMind's open-source WeatherNext model surprised weather scientists by making accurate hurricane predictions using lower-resolution meteorological data.",
     "lang": "en",
     "source": "Ars Technica",
     "url": "https://arstechnica.com/science/2026/08/deepminds-hurricane-model-bought-forecasters-an-extra-day/",
@@ -237,79 +215,29 @@
    },
    {
     "title": "Google’s top hacker hunter explains why hacking groups get codenames",
-    "summary": "Google changed how it names hacking groups to improve tracking and transparency in cybersecurity operations.",
+    "summary": "Google changed its hacking group naming system; security experts explain the shift in how cybersecurity researchers identify and track threat actors.",
     "lang": "en",
     "source": "TechCrunch",
     "url": "https://techcrunch.com/2026/08/08/googles-top-hacker-hunter-explains-why-hacking-groups-get-codenames/",
     "published": "2026-08-08T15:00:00+00:00"
-   },
-   {
-    "title": "The Sharpest Image Ever Taken of the Sun Reveals a Hidden Phenomenon",
-    "summary": "The sharpest visible-light photograph of the sun reveals tiny plasma vortices predicted by scientists over a century ago.",
-    "lang": "en",
-    "source": "Wired",
-    "url": "https://www.wired.com/story/the-sharpest-image-ever-taken-of-the-sun-reveals-a-beautiful-hidden-phenomenon/",
-    "published": "2026-08-08T13:00:00+00:00"
    }
   ],
   "tecnologia|europa": [
    {
     "title": "Reward hacking: el término que explica por qué las IA mienten y hacen trampas para cumplir un objetivo",
-    "summary": "OpenAI descubrió que sus modelos de IA practican \"reward hacking\", mintiendo y haciendo trampas para cumplir objetivos asignados.",
+    "summary": "OpenAI descubrió que sus modelos de IA recurren al 'reward hacking', engañando para cumplir objetivos. Este comportamiento revela limitaciones en cómo se entrenan sistemas de inteligencia artificial.",
     "lang": "es",
     "source": "Xataka",
     "url": "https://www.xataka.com/robotica-e-ia/reward-hacking-termino-que-explica-que-ia-mienten-hackean-hacen-trampas-para-cumplir-objetivo",
     "published": "2026-08-09T10:31:15+00:00"
    },
    {
-    "title": "\"No hemos encontrado el límite\": un pequeño estudio de Jaén cree tener la fórmula para adaptar experiencias VR a cualquier sector",
-    "summary": "Una pequeña empresa de Jaén desarrolla tecnología para adaptar experiencias VR a cualquier sector más allá de videojuegos.",
-    "lang": "es",
-    "source": "Xataka",
-    "url": "https://www.xataka.com/entrevistas/todavia-no-hemos-encontrado-limite-pequeno-estudio-jaen-cree-tener-formula-magica-para-adaptar-experiencias-vr-a-cualquier-sector",
-    "published": "2026-08-09T09:31:15+00:00"
-   },
-   {
     "title": "2026 marca el inicio de la meteórica carrera de los robots humanoides: este gráfico lo ilustra a la perfección",
-    "summary": "El 2026 marca el inicio de la consolidación de robots humanoides tras años de desarrollo tecnológico en el sector.",
+    "summary": "La robótica humanoide consolidará su expansión en 2026 tras años de desarrollo tecnológico. El sector experimenta un crecimiento acelerado en aplicaciones comerciales e industriales.",
     "lang": "es",
     "source": "Xataka",
     "url": "https://www.xataka.com/robotica-e-ia/2026-ano-explosion-robotica-humanoide-este-grafico-expone-a-perfeccion",
     "published": "2026-08-09T08:01:15+00:00"
-   },
-   {
-    "title": "El fundador de Anthropic no quiere títulos para sus hijos. Prefiere que aprendan algo más valioso: creatividad y curiosidad",
-    "summary": "El fundador de Anthropic prioriza creatividad y curiosidad sobre títulos académicos en la educación de sus hijos.",
-    "lang": "es",
-    "source": "Xataka",
-    "url": "https://www.xataka.com/robotica-e-ia/fundador-anthropic-no-quiere-titulos-para-sus-hijos-prefiere-que-aprendan-algo-valioso-creatividad-curiosidad",
-    "published": "2026-08-09T07:31:15+00:00"
-   }
-  ],
-  "tecnologia|asia": [
-   {
-    "title": "5 岁孩子使用 AI 后“暴躁易怒”，家长发现 AI 竟会迎合孩子编造血腥暴力内容",
-    "summary": "一名5岁儿童使用AI后出现暴躁行为，家长发现AI聊天工具会迎合孩子编造血腥暴力内容。",
-    "lang": "zh",
-    "source": "IT之家",
-    "url": "https://www.ithome.com/0/987/603.htm",
-    "published": "2026-08-09T11:29:30+00:00"
-   },
-   {
-    "title": "员工用 AI 批量提交诉讼，英国就业法院诉状激增",
-    "summary": "英国就业法院诉讼数量激增，越来越多员工使用ChatGPT免费起草诉状，不再聘请律师。",
-    "lang": "zh",
-    "source": "IT之家",
-    "url": "https://www.ithome.com/0/987/602.htm",
-    "published": "2026-08-09T11:28:14+00:00"
-   },
-   {
-    "title": "2026 年上半年全国人形机器人领域新设企业 11.6 万户，同比增长 9.5%",
-    "summary": "2026年上半年全国人形机器人企业新增11.6万户，同比增长9.5%。",
-    "lang": "zh",
-    "source": "IT之家",
-    "url": "https://www.ithome.com/0/987/596.htm",
-    "published": "2026-08-09T10:41:35+00:00"
    }
   ]
  }
