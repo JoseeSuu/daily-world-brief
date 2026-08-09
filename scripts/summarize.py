@@ -22,8 +22,8 @@ from market import get_market  # noqa: E402
 MODEL = os.environ.get("DWB_MODEL", "claude-haiku-4-5")
 SECTIONS = ["economia", "politica", "tecnologia"]
 CONTINENTS = ["asia", "europa", "america"]
-MAX_INPUT_ITEMS = 300      # tope de titulares que entran en la llamada 1
-MIN_PER_CELL, MAX_PER_CELL = 3, 5
+MAX_INPUT_ITEMS = 200      # tope de titulares que entran en la llamada 1
+MIN_PER_CELL, MAX_PER_CELL = 3, 4  # 4 mantiene el coste diario < 0,05 $
 
 # Precios Haiku 4.5 ($/MTok) para el log de coste
 PRICE_IN, PRICE_OUT = 1.0, 5.0
@@ -98,13 +98,30 @@ ITEMS:
 SUMMARY_PROMPT = """You write a trilingual (Spanish, English, Simplified Chinese) daily news brief.
 For each item below (id|source|title|excerpt), produce:
 - headline_es / headline_en / headline_zh: a clear, factual headline (max 12 words / 20 characters for zh).
-- summary_es / summary_en / summary_zh: 2 short factual sentences: what happened, who/where,
-  and why it matters. No opinion, no speculation, no clickbait, no filler.
+- summary_es / summary_en / summary_zh: 2 short factual sentences (max 35 words total;
+  zh: max 55 characters): what happened, who/where, and why it matters.
+  No opinion, no speculation, no clickbait, no filler.
 Write natural, native-quality prose in each language. Base yourself ONLY on the title
 and excerpt given; do not invent facts, numbers or quotes.
 
 ITEMS:
 {items}"""
+
+
+def interleave_by_source(items: list) -> list:
+    """Alterna ítems de cada fuente para que el recorte a MAX_INPUT_ITEMS
+    no deje fuera fuentes enteras (las últimas del feeds.yaml)."""
+    queues = defaultdict(list)
+    for i in items:
+        queues[i["source"]].append(i)
+    out, added = [], True
+    while added:
+        added = False
+        for q in queues.values():
+            if q:
+                out.append(q.pop(0))
+                added = True
+    return out
 
 
 def load_collected(path: Path) -> dict:
@@ -135,7 +152,7 @@ def run_ai(collected: dict) -> tuple:
     import anthropic
     client = anthropic.Anthropic()
 
-    items = collected["items"][:MAX_INPUT_ITEMS]
+    items = interleave_by_source(collected["items"])[:MAX_INPUT_ITEMS]
     by_id = {i["id"]: i for i in items}
     usage_total = [0, 0]
 

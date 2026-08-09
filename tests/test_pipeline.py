@@ -43,12 +43,14 @@ def test_parse_feed(monkeypatch):
 
 
 def test_parse_feed_discards_old(monkeypatch):
+    # Ítems más viejos que la ventana se descartan, pero el feed NO cuenta
+    # como caído (p. ej. BCE en fin de semana): devuelve lista vacía.
     now = dt.datetime.now(dt.timezone.utc)
     old = (now - dt.timedelta(days=10)).strftime("%a, %d %b %Y %H:%M:%S +0000")
     monkeypatch.setattr(collect.requests, "get",
                         lambda *a, **k: FakeResponse(RSS_SAMPLE.replace(b"{date}", old.encode())))
     feed = {"name": "Test", "url": "https://x", "section": "economia", "continent": "asia"}
-    assert "error" in collect.parse_feed(feed, now)
+    assert collect.parse_feed(feed, now) == {"items": []}
 
 
 def test_feeds_yaml_schema():
