@@ -1,0 +1,161 @@
+# Fuentes del Daily World Brief.
+# Cada entrada: name, url, section (economia|politica|tecnologia),
+# continent (asia|europa|america|global), lang (idioma del feed).
+# "global" = el feed cubre varios continentes; la IA asigna cada noticia a su continente.
+# Verificado por última vez: 2026-08-09. Ejecuta `python scripts/collect.py --check` para revalidar.
+#
+# Descartados por no tener RSS público operativo hoy:
+#   Caixin Global (404), FMI (403 anti-bot), AP News (retiró RSS), NHK World EN (404),
+#   Anthropic blog (sin RSS), Banco Mundial / BIS / OECD (403 o sin feed).
+
+feeds:
+  # ── Economía ─────────────────────────────────────────────
+  - name: Financial Times
+    url: https://www.ft.com/rss/home
+    section: economia
+    continent: global
+    lang: en
+  - name: FT Global Economy
+    url: https://www.ft.com/global-economy?format=rss
+    section: economia
+    continent: global
+    lang: en
+  - name: Bloomberg Economics
+    url: https://feeds.bloomberg.com/economics/news.rss
+    section: economia
+    continent: global
+    lang: en
+  - name: Bloomberg Markets
+    url: https://feeds.bloomberg.com/markets/news.rss
+    section: economia
+    continent: global
+    lang: en
+  - name: The Economist (Finance)
+    url: https://www.economist.com/finance-and-economics/rss.xml
+    section: economia
+    continent: global
+    lang: en
+  - name: El País Economía
+    url: https://feeds.elpais.com/mrss-s/pages/ep/site/elpais.com/section/economia/portada
+    section: economia
+    continent: europa
+    lang: es
+  - name: Nikkei Asia
+    url: https://asia.nikkei.com/rss/feed/nar
+    section: economia
+    continent: asia
+    lang: en
+  - name: BCE (notas de prensa)
+    url: https://www.ecb.europa.eu/rss/press.html
+    section: economia
+    continent: europa
+    lang: en
+  - name: Reserva Federal (notas de prensa)
+    url: https://www.federalreserve.gov/feeds/press_all.xml
+    section: economia
+    continent: america
+    lang: en
+
+  # ── Política & Geopolítica ───────────────────────────────
+  - name: BBC World
+    url: https://feeds.bbci.co.uk/news/world/rss.xml
+    section: politica
+    continent: global
+    lang: en
+  - name: The Guardian World
+    url: https://www.theguardian.com/world/rss
+    section: politica
+    continent: global
+    lang: en
+  - name: El País Internacional
+    url: https://feeds.elpais.com/mrss-s/pages/ep/site/elpais.com/section/internacional/portada
+    section: politica
+    continent: global
+    lang: es
+  - name: Le Monde International
+    url: https://www.lemonde.fr/en/international/rss_full.xml
+    section: politica
+    continent: europa
+    lang: en
+  - name: Deutsche Welle World
+    url: https://rss.dw.com/rdf/rss-en-world
+    section: politica
+    continent: europa
+    lang: en
+  - name: NPR World
+    url: https://feeds.npr.org/1004/rss.xml
+    section: politica
+    continent: america
+    lang: en
+  - name: Japan Times
+    url: https://www.japantimes.co.jp/feed/
+    section: politica
+    continent: asia
+    lang: en
+  - name: Channel NewsAsia
+    url: https://www.channelnewsasia.com/api/v1/rss-outbound-feed?_format=xml
+    section: politica
+    continent: asia
+    lang: en
+  - name: South China Morning Post (China)
+    url: https://www.scmp.com/rss/4/feed
+    section: politica
+    continent: asia
+    lang: en
+  - name: South China Morning Post (Asia)
+    url: https://www.scmp.com/rss/91/feed
+    section: politica
+    continent: asia
+    lang: en
+  - name: Al Jazeera English
+    url: https://www.aljazeera.com/xml/rss/all.xml
+    section: politica
+    continent: global
+    lang: en
+
+  # ── Tecnología & IA ──────────────────────────────────────
+  - name: MIT Technology Review
+    url: https://www.technologyreview.com/feed/
+    section: tecnologia
+    continent: america
+    lang: en
+  - name: Ars Technica
+    url: https://feeds.arstechnica.com/arstechnica/index
+    section: tecnologia
+    continent: america
+    lang: en
+  - name: The Verge
+    url: https://www.theverge.com/rss/index.xml
+    section: tecnologia
+    continent: america
+    lang: en
+  - name: TechCrunch
+    url: https://techcrunch.com/feed/
+    section: tecnologia
+    continent: america
+    lang: en
+  - name: Wired
+    url: https://www.wired.com/feed/rss
+    section: tecnologia
+    continent: america
+    lang: en
+  - name: OpenAI News
+    url: https://openai.com/news/rss.xml
+    section: tecnologia
+    continent: america
+    lang: en
+  - name: Google DeepMind Blog
+    url: https://deepmind.google/blog/rss.xml
+    section: tecnologia
+    continent: europa
+    lang: en
+  - name: Google AI Blog
+    url: https://blog.google/technology/ai/rss/
+    section: tecnologia
+    continent: america
+    lang: en
+  - name: Xataka
+    url: https://feeds.weblogssl.com/xataka2
+    section: tecnologia
+    continent: europa
+    lang: es

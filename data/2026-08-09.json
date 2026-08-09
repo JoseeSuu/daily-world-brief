@@ -1,0 +1,666 @@
+{
+ "date": "2026-08-09",
+ "generated_at": "2026-08-09T12:07:26.386516+00:00",
+ "mode": "headlines-only",
+ "cost_usd": 0.0,
+ "market": null,
+ "failed_sources": [],
+ "cells": {
+  "economia|asia": [
+   {
+    "headline": {
+     "es": "How China's Japan-bashing is indirectly targeting Washington",
+     "en": "How China's Japan-bashing is indirectly targeting Washington",
+     "zh": "How China's Japan-bashing is indirectly targeting Washington"
+    },
+    "summary": {
+     "es": "",
+     "en": "",
+     "zh": ""
+    },
+    "original_title": "How China's Japan-bashing is indirectly targeting Washington",
+    "source": "Nikkei Asia",
+    "url": "https://asia.nikkei.com/spotlight/comment/how-china-s-japan-bashing-is-indirectly-targeting-washington",
+    "published": null
+   },
+   {
+    "headline": {
+     "es": "Modi independence day speech, To Lam in Australia, SMIC earnings",
+     "en": "Modi independence day speech, To Lam in Australia, SMIC earnings",
+     "zh": "Modi independence day speech, To Lam in Australia, SMIC earnings"
+    },
+    "summary": {
+     "es": "",
+     "en": "",
+     "zh": ""
+    },
+    "original_title": "Modi independence day speech, To Lam in Australia, SMIC earnings",
+    "source": "Nikkei Asia",
+    "url": "https://asia.nikkei.com/spotlight/your-week-in-asia/modi-independence-day-speech-to-lam-in-australia-smic-earnings",
+    "published": null
+   },
+   {
+    "headline": {
+     "es": "K-beauty's rise mirrors TSMC contract manufacturing playbook",
+     "en": "K-beauty's rise mirrors TSMC contract manufacturing playbook",
+     "zh": "K-beauty's rise mirrors TSMC contract manufacturing playbook"
+    },
+    "summary": {
+     "es": "",
+     "en": "",
+     "zh": ""
+    },
+    "original_title": "K-beauty's rise mirrors TSMC contract manufacturing playbook",
+    "source": "Nikkei Asia",
+    "url": "https://asia.nikkei.com/business/consumer/k-beauty-s-rise-mirrors-tsmc-contract-manufacturing-playbook",
+    "published": null
+   },
+   {
+    "headline": {
+     "es": "Ukrainian evangelists help win support of MAGA followers in US",
+     "en": "Ukrainian evangelists help win support of MAGA followers in US",
+     "zh": "Ukrainian evangelists help win support of MAGA followers in US"
+    },
+    "summary": {
+     "es": "",
+     "en": "",
+     "zh": ""
+    },
+    "original_title": "Ukrainian evangelists help win support of MAGA followers in US",
+    "source": "Nikkei Asia",
+    "url": "https://asia.nikkei.com/politics/ukraine-war/ukrainian-evangelists-help-win-support-of-maga-followers-in-us",
+    "published": null
+   },
+   {
+    "headline": {
+     "es": "Temple lodgings preparing for pilgrims on Japan's Shikoku island",
+     "en": "Temple lodgings preparing for pilgrims on Japan's Shikoku island",
+     "zh": "Temple lodgings preparing for pilgrims on Japan's Shikoku island"
+    },
+    "summary": {
+     "es": "",
+     "en": "",
+     "zh": ""
+    },
+    "original_title": "Temple lodgings preparing for pilgrims on Japan's Shikoku island",
+    "source": "Nikkei Asia",
+    "url": "https://asia.nikkei.com/business/travel-leisure/temple-lodgings-preparing-for-pilgrims-on-japan-s-shikoku-island",
+    "published": null
+   }
+  ],
+  "economia|europa": [
+   {
+    "headline": {
+     "es": "Subidas de precios y calor extremo: por qué caen las cifras de franceses y alemanes que veranean en España",
+     "en": "Subidas de precios y calor extremo: por qué caen las cifras de franceses y alemanes que veranean en España",
+     "zh": "Subidas de precios y calor extremo: por qué caen las cifras de franceses y alemanes que veranean en España"
+    },
+    "summary": {
+     "es": "",
+     "en": "",
+     "zh": ""
+    },
+    "original_title": "Subidas de precios y calor extremo: por qué caen las cifras de franceses y alemanes que veranean en España",
+    "source": "El País Economía",
+    "url": "https://elpais.com/economia/2026-08-09/subidas-de-precios-y-calor-extremo-por-que-caen-las-cifras-de-franceses-y-alemanes-que-veranean-en-espana.html",
+    "published": "2026-08-09T03:45:01+00:00"
+   },
+   {
+    "headline": {
+     "es": "Sin refugio frente a la precarización del alquiler: “Está afectando a gente de todas las edades”",
+     "en": "Sin refugio frente a la precarización del alquiler: “Está afectando a gente de todas las edades”",
+     "zh": "Sin refugio frente a la precarización del alquiler: “Está afectando a gente de todas las edades”"
+    },
+    "summary": {
+     "es": "",
+     "en": "",
+     "zh": ""
+    },
+    "original_title": "Sin refugio frente a la precarización del alquiler: “Está afectando a gente de todas las edades”",
+    "source": "El País Economía",
+    "url": "https://elpais.com/economia/2026-08-09/sin-refugio-frente-a-la-precarizacion-del-alquiler-esta-afectando-a-gente-de-todas-las-edades.html",
+    "published": "2026-08-09T03:45:01+00:00"
+   },
+   {
+    "headline": {
+     "es": "Abrir en domingo, el tabú de los comercios en Alemania que el Gobierno quiere romper",
+     "en": "Abrir en domingo, el tabú de los comercios en Alemania que el Gobierno quiere romper",
+     "zh": "Abrir en domingo, el tabú de los comercios en Alemania que el Gobierno quiere romper"
+    },
+    "summary": {
+     "es": "",
+     "en": "",
+     "zh": ""
+    },
+    "original_title": "Abrir en domingo, el tabú de los comercios en Alemania que el Gobierno quiere romper",
+    "source": "El País Economía",
+    "url": "https://elpais.com/economia/2026-08-09/abrir-en-domingo-el-tabu-de-los-comercios-en-alemania-que-el-gobierno-quiere-romper.html",
+    "published": "2026-08-09T03:45:01+00:00"
+   },
+   {
+    "headline": {
+     "es": "Pascal Soriot, el ‘sir’ que pasó de la ‘banlieue’ a liderar AstraZeneca",
+     "en": "Pascal Soriot, el ‘sir’ que pasó de la ‘banlieue’ a liderar AstraZeneca",
+     "zh": "Pascal Soriot, el ‘sir’ que pasó de la ‘banlieue’ a liderar AstraZeneca"
+    },
+    "summary": {
+     "es": "",
+     "en": "",
+     "zh": ""
+    },
+    "original_title": "Pascal Soriot, el ‘sir’ que pasó de la ‘banlieue’ a liderar AstraZeneca",
+    "source": "El País Economía",
+    "url": "https://cincodias.elpais.com/opinion/2026-08-09/pascal-soriot-el-sir-que-paso-de-la-banlieue-a-liderar-astrazeneca.html",
+    "published": "2026-08-09T03:40:00+00:00"
+   },
+   {
+    "headline": {
+     "es": "Reequilibrio inmobiliario",
+     "en": "Reequilibrio inmobiliario",
+     "zh": "Reequilibrio inmobiliario"
+    },
+    "summary": {
+     "es": "",
+     "en": "",
+     "zh": ""
+    },
+    "original_title": "Reequilibrio inmobiliario",
+    "source": "El País Economía",
+    "url": "https://cincodias.elpais.com/opinion/2026-08-09/reequlibrio-inmobiliario.html",
+    "published": "2026-08-09T03:40:00+00:00"
+   }
+  ],
+  "economia|america": [
+   {
+    "headline": {
+     "es": "Investors return to European stocks as strong earnings lift Iran war gloom",
+     "en": "Investors return to European stocks as strong earnings lift Iran war gloom",
+     "zh": "Investors return to European stocks as strong earnings lift Iran war gloom"
+    },
+    "summary": {
+     "es": "",
+     "en": "",
+     "zh": ""
+    },
+    "original_title": "Investors return to European stocks as strong earnings lift Iran war gloom",
+    "source": "Financial Times",
+    "url": "https://www.ft.com/content/297a8bf7-ce8b-44fe-bc51-3e2ec2e47699?syn-25a6b1a6=1",
+    "published": "2026-08-09T04:00:09+00:00"
+   },
+   {
+    "headline": {
+     "es": "How a made-up agency found its way into Nigeria’s budget",
+     "en": "How a made-up agency found its way into Nigeria’s budget",
+     "zh": "How a made-up agency found its way into Nigeria’s budget"
+    },
+    "summary": {
+     "es": "",
+     "en": "",
+     "zh": ""
+    },
+    "original_title": "How a made-up agency found its way into Nigeria’s budget",
+    "source": "Financial Times",
+    "url": "https://www.ft.com/content/4b71db50-0edb-42f3-bd74-faeb7c739e53?syn-25a6b1a6=1",
+    "published": "2026-08-09T04:00:09+00:00"
+   },
+   {
+    "headline": {
+     "es": "Could AI create a ‘permanent underclass’?",
+     "en": "Could AI create a ‘permanent underclass’?",
+     "zh": "Could AI create a ‘permanent underclass’?"
+    },
+    "summary": {
+     "es": "",
+     "en": "",
+     "zh": ""
+    },
+    "original_title": "Could AI create a ‘permanent underclass’?",
+    "source": "Financial Times",
+    "url": "https://www.ft.com/content/ddf44cf7-0ab5-4e7e-9b1f-e5e8e34181e6?syn-25a6b1a6=1",
+    "published": "2026-08-09T11:30:10+00:00"
+   },
+   {
+    "headline": {
+     "es": "France faces budget showdown as presidential election looms",
+     "en": "France faces budget showdown as presidential election looms",
+     "zh": "France faces budget showdown as presidential election looms"
+    },
+    "summary": {
+     "es": "",
+     "en": "",
+     "zh": ""
+    },
+    "original_title": "France faces budget showdown as presidential election looms",
+    "source": "Financial Times",
+    "url": "https://www.ft.com/content/0ac50644-398f-49ec-895d-a2494254dabd?syn-25a6b1a6=1",
+    "published": "2026-08-09T04:00:09+00:00"
+   },
+   {
+    "headline": {
+     "es": "Greg Abel finally puts Buffett’s cash pile to work",
+     "en": "Greg Abel finally puts Buffett’s cash pile to work",
+     "zh": "Greg Abel finally puts Buffett’s cash pile to work"
+    },
+    "summary": {
+     "es": "",
+     "en": "",
+     "zh": ""
+    },
+    "original_title": "Greg Abel finally puts Buffett’s cash pile to work",
+    "source": "Financial Times",
+    "url": "https://www.ft.com/content/e164e244-f6de-4e3b-8a67-6bebee1b7bf4?syn-25a6b1a6=1",
+    "published": "2026-08-08T15:36:35+00:00"
+   }
+  ],
+  "politica|asia": [
+   {
+    "headline": {
+     "es": "Prime Minister Takaichi urged to recognize more hibakusha",
+     "en": "Prime Minister Takaichi urged to recognize more hibakusha",
+     "zh": "Prime Minister Takaichi urged to recognize more hibakusha"
+    },
+    "summary": {
+     "es": "",
+     "en": "",
+     "zh": ""
+    },
+    "original_title": "Prime Minister Takaichi urged to recognize more hibakusha",
+    "source": "Japan Times",
+    "url": "https://www.japantimes.co.jp/news/2026/08/09/japan/recognizing-more-hibakusha/",
+    "published": "2026-08-09T11:03:00+00:00"
+   },
+   {
+    "headline": {
+     "es": "Indonesia seizes 1.3 tons of ketamine worth millions in major bust",
+     "en": "Indonesia seizes 1.3 tons of ketamine worth millions in major bust",
+     "zh": "Indonesia seizes 1.3 tons of ketamine worth millions in major bust"
+    },
+    "summary": {
+     "es": "",
+     "en": "",
+     "zh": ""
+    },
+    "original_title": "Indonesia seizes 1.3 tons of ketamine worth millions in major bust",
+    "source": "Japan Times",
+    "url": "https://www.japantimes.co.jp/news/2026/08/09/asia-pacific/crime-legal/indonesia-tons-ketamine-bust/",
+    "published": "2026-08-09T09:54:00+00:00"
+   },
+   {
+    "headline": {
+     "es": "Taiwan’s 2027 defense spending to rise 16%, official media reports",
+     "en": "Taiwan’s 2027 defense spending to rise 16%, official media reports",
+     "zh": "Taiwan’s 2027 defense spending to rise 16%, official media reports"
+    },
+    "summary": {
+     "es": "",
+     "en": "",
+     "zh": ""
+    },
+    "original_title": "Taiwan’s 2027 defense spending to rise 16%, official media reports",
+    "source": "Japan Times",
+    "url": "https://www.japantimes.co.jp/news/2026/08/09/asia-pacific/taiwan-2027-defense-spending-rise/",
+    "published": "2026-08-09T09:07:00+00:00"
+   },
+   {
+    "headline": {
+     "es": "Scientists turn to sharks to improve hurricane predictions",
+     "en": "Scientists turn to sharks to improve hurricane predictions",
+     "zh": "Scientists turn to sharks to improve hurricane predictions"
+    },
+    "summary": {
+     "es": "",
+     "en": "",
+     "zh": ""
+    },
+    "original_title": "Scientists turn to sharks to improve hurricane predictions",
+    "source": "Japan Times",
+    "url": "https://www.japantimes.co.jp/environment/2026/08/09/earth-science/scientists-sharks-hurricane-predictions/",
+    "published": "2026-08-09T09:04:00+00:00"
+   },
+   {
+    "headline": {
+     "es": "Typhoon Dolphin set to hit China’s east coast, triggering flood warnings",
+     "en": "Typhoon Dolphin set to hit China’s east coast, triggering flood warnings",
+     "zh": "Typhoon Dolphin set to hit China’s east coast, triggering flood warnings"
+    },
+    "summary": {
+     "es": "",
+     "en": "",
+     "zh": ""
+    },
+    "original_title": "Typhoon Dolphin set to hit China’s east coast, triggering flood warnings",
+    "source": "Japan Times",
+    "url": "https://www.japantimes.co.jp/news/2026/08/09/asia-pacific/typhoon-dolphin-china-flood-warnings/",
+    "published": "2026-08-09T09:01:00+00:00"
+   }
+  ],
+  "politica|europa": [
+   {
+    "headline": {
+     "es": "'Biden doomed himself to humiliation by embracing Trump's Middle East legacy'",
+     "en": "'Biden doomed himself to humiliation by embracing Trump's Middle East legacy'",
+     "zh": "'Biden doomed himself to humiliation by embracing Trump's Middle East legacy'"
+    },
+    "summary": {
+     "es": "",
+     "en": "",
+     "zh": ""
+    },
+    "original_title": "'Biden doomed himself to humiliation by embracing Trump's Middle East legacy'",
+    "source": "Le Monde International",
+    "url": "https://www.lemonde.fr/en/international/article/2026/08/09/biden-doomed-himself-to-humiliation-by-embracing-trump-s-middle-east-legacy_6756311_4.html",
+    "published": "2026-08-09T10:00:09+00:00"
+   },
+   {
+    "headline": {
+     "es": "Bombing attacks mark first day of Colombia's new right-wing government",
+     "en": "Bombing attacks mark first day of Colombia's new right-wing government",
+     "zh": "Bombing attacks mark first day of Colombia's new right-wing government"
+    },
+    "summary": {
+     "es": "",
+     "en": "",
+     "zh": ""
+    },
+    "original_title": "Bombing attacks mark first day of Colombia's new right-wing government",
+    "source": "Le Monde International",
+    "url": "https://www.lemonde.fr/en/international/article/2026/08/09/bombing-attacks-mark-first-day-of-colombia-s-new-right-wing-government_6756307_4.html",
+    "published": "2026-08-09T03:28:43+00:00"
+   },
+   {
+    "headline": {
+     "es": "The French far-right fighters of the Lebanese Civil War",
+     "en": "The French far-right fighters of the Lebanese Civil War",
+     "zh": "The French far-right fighters of the Lebanese Civil War"
+    },
+    "summary": {
+     "es": "",
+     "en": "",
+     "zh": ""
+    },
+    "original_title": "The French far-right fighters of the Lebanese Civil War",
+    "source": "Le Monde International",
+    "url": "https://www.lemonde.fr/en/m-le-mag/article/2026/08/09/the-french-far-right-fighters-of-the-lebanese-civil-war_6756306_117.html",
+    "published": "2026-08-09T03:00:10+00:00"
+   },
+   {
+    "headline": {
+     "es": "Iran: 'The surge in executions exposes the regime's extreme fragility, not renewed confidence'",
+     "en": "Iran: 'The surge in executions exposes the regime's extreme fragility, not renewed confidence'",
+     "zh": "Iran: 'The surge in executions exposes the regime's extreme fragility, not renewed confidence'"
+    },
+    "summary": {
+     "es": "",
+     "en": "",
+     "zh": ""
+    },
+    "original_title": "Iran: 'The surge in executions exposes the regime's extreme fragility, not renewed confidence'",
+    "source": "Le Monde International",
+    "url": "https://www.lemonde.fr/en/opinion/article/2026/08/08/iran-the-surge-in-executions-exposes-the-regime-s-extreme-fragility-not-renewed-confidence_6756302_23.html",
+    "published": "2026-08-08T21:32:58+00:00"
+   },
+   {
+    "headline": {
+     "es": "Political scientist Carlos Echeverria Jesus: 'The Ceuta crisis reflects Morocco's territorial ambitions'",
+     "en": "Political scientist Carlos Echeverria Jesus: 'The Ceuta crisis reflects Morocco's territorial ambitions'",
+     "zh": "Political scientist Carlos Echeverria Jesus: 'The Ceuta crisis reflects Morocco's territorial ambitions'"
+    },
+    "summary": {
+     "es": "",
+     "en": "",
+     "zh": ""
+    },
+    "original_title": "Political scientist Carlos Echeverria Jesus: 'The Ceuta crisis reflects Morocco's territorial ambitions'",
+    "source": "Le Monde International",
+    "url": "https://www.lemonde.fr/en/le-monde-africa/article/2026/08/08/political-scientist-carlos-echeverria-jesus-the-ceuta-crisis-reflects-morocco-s-territorial-ambitions_6756301_124.html",
+    "published": "2026-08-08T20:49:02+00:00"
+   }
+  ],
+  "politica|america": [
+   {
+    "headline": {
+     "es": "This rising painter reimagines Renaissance art in a cocoa plantation in Cameroon",
+     "en": "This rising painter reimagines Renaissance art in a cocoa plantation in Cameroon",
+     "zh": "This rising painter reimagines Renaissance art in a cocoa plantation in Cameroon"
+    },
+    "summary": {
+     "es": "",
+     "en": "",
+     "zh": ""
+    },
+    "original_title": "This rising painter reimagines Renaissance art in a cocoa plantation in Cameroon",
+    "source": "NPR World",
+    "url": "https://www.npr.org/2026/08/09/g-s1-137636/paintings-religious-renaissance-old-masters-marc-padeu-african-cameroon-artist",
+    "published": "2026-08-09T11:58:02+00:00"
+   },
+   {
+    "headline": {
+     "es": "Yemen's Houthis claim attack on Aramco oil facility in Saudi Arabia, and other Middle East news",
+     "en": "Yemen's Houthis claim attack on Aramco oil facility in Saudi Arabia, and other Middle East news",
+     "zh": "Yemen's Houthis claim attack on Aramco oil facility in Saudi Arabia, and other Middle East news"
+    },
+    "summary": {
+     "es": "",
+     "en": "",
+     "zh": ""
+    },
+    "original_title": "Yemen's Houthis claim attack on Aramco oil facility in Saudi Arabia, and other Middle East news",
+    "source": "NPR World",
+    "url": "https://www.npr.org/2026/08/09/nx-s1-5926387/yemens-houthis-claim-attack-on-aramco-oil-facility-in-saudi-arabia-and-other-middle-east-news",
+    "published": "2026-08-09T09:44:02+00:00"
+   },
+   {
+    "headline": {
+     "es": "Solar eclipse to occur next week. Here is what to know",
+     "en": "Solar eclipse to occur next week. Here is what to know",
+     "zh": "Solar eclipse to occur next week. Here is what to know"
+    },
+    "summary": {
+     "es": "",
+     "en": "",
+     "zh": ""
+    },
+    "original_title": "Solar eclipse to occur next week. Here is what to know",
+    "source": "NPR World",
+    "url": "https://www.npr.org/2026/08/08/nx-s1-5925939/solar-eclipse-august-2026",
+    "published": "2026-08-09T00:56:21+00:00"
+   },
+   {
+    "headline": {
+     "es": "Tanker sailors still face danger in the Strait of Hormuz",
+     "en": "Tanker sailors still face danger in the Strait of Hormuz",
+     "zh": "Tanker sailors still face danger in the Strait of Hormuz"
+    },
+    "summary": {
+     "es": "",
+     "en": "",
+     "zh": ""
+    },
+    "original_title": "Tanker sailors still face danger in the Strait of Hormuz",
+    "source": "NPR World",
+    "url": "https://www.npr.org/2026/08/08/nx-s1-5923592/tanker-sailors-still-face-danger-in-the-strait-of-hormuz",
+    "published": "2026-08-08T21:19:54+00:00"
+   },
+   {
+    "headline": {
+     "es": "Ukraine mourns 'collector of souls' Oleksiy Yukov, killed recovering war dead",
+     "en": "Ukraine mourns 'collector of souls' Oleksiy Yukov, killed recovering war dead",
+     "zh": "Ukraine mourns 'collector of souls' Oleksiy Yukov, killed recovering war dead"
+    },
+    "summary": {
+     "es": "",
+     "en": "",
+     "zh": ""
+    },
+    "original_title": "Ukraine mourns 'collector of souls' Oleksiy Yukov, killed recovering war dead",
+    "source": "NPR World",
+    "url": "https://www.npr.org/2026/08/08/nx-s1-5925887/ukraine-mourns-oleksiy-yukov",
+    "published": "2026-08-08T17:46:05+00:00"
+   }
+  ],
+  "tecnologia|europa": [
+   {
+    "headline": {
+     "es": "\"Hay que revisar el sistema\": 1.000 funcionarios de la Seguridad Social podían ascender este año, solo lo han conseguido 27",
+     "en": "\"Hay que revisar el sistema\": 1.000 funcionarios de la Seguridad Social podían ascender este año, solo lo han conseguido 27",
+     "zh": "\"Hay que revisar el sistema\": 1.000 funcionarios de la Seguridad Social podían ascender este año, solo lo han conseguido 27"
+    },
+    "summary": {
+     "es": "",
+     "en": "",
+     "zh": ""
+    },
+    "original_title": "\"Hay que revisar el sistema\": 1.000 funcionarios de la Seguridad Social podían ascender este año, solo lo han conseguido 27",
+    "source": "Xataka",
+    "url": "https://www.xataka.com/empresas-y-economia/casi-1-000-funcionarios-seguridad-social-podian-ascender-este-ano-solo-han-conseguido-27-hay-que-revisar-sistema",
+    "published": "2026-08-09T12:01:15+00:00"
+   },
+   {
+    "headline": {
+     "es": "El primer cable Ethernet de la historia era amarillo \"1968 Corvette\" por una razón que no tenía nada de estética",
+     "en": "El primer cable Ethernet de la historia era amarillo \"1968 Corvette\" por una razón que no tenía nada de estética",
+     "zh": "El primer cable Ethernet de la historia era amarillo \"1968 Corvette\" por una razón que no tenía nada de estética"
+    },
+    "summary": {
+     "es": "",
+     "en": "",
+     "zh": ""
+    },
+    "original_title": "El primer cable Ethernet de la historia era amarillo \"1968 Corvette\" por una razón que no tenía nada de estética",
+    "source": "Xataka",
+    "url": "https://www.xataka.com/ordenadores/primer-cable-ethernet-historia-era-amarillo-1968-corvette-razon-que-no-tenia-nada-estetica",
+    "published": "2026-08-09T11:31:15+00:00"
+   },
+   {
+    "headline": {
+     "es": "La cocaína es hoy un 18% más barata y un 44% más pura: Europa se enfrenta a una tormenta perfecta inédita",
+     "en": "La cocaína es hoy un 18% más barata y un 44% más pura: Europa se enfrenta a una tormenta perfecta inédita",
+     "zh": "La cocaína es hoy un 18% más barata y un 44% más pura: Europa se enfrenta a una tormenta perfecta inédita"
+    },
+    "summary": {
+     "es": "",
+     "en": "",
+     "zh": ""
+    },
+    "original_title": "La cocaína es hoy un 18% más barata y un 44% más pura: Europa se enfrenta a una tormenta perfecta inédita",
+    "source": "Xataka",
+    "url": "https://www.xataka.com/magnet/su-lucha-cocaina-europa-se-ha-encontrado-tormenta-perfecta-droga-18-barata-44-pura",
+    "published": "2026-08-09T11:01:15+00:00"
+   },
+   {
+    "headline": {
+     "es": "Reward hacking: el término que explica por qué las IA mienten y hacen trampas para cumplir un objetivo",
+     "en": "Reward hacking: el término que explica por qué las IA mienten y hacen trampas para cumplir un objetivo",
+     "zh": "Reward hacking: el término que explica por qué las IA mienten y hacen trampas para cumplir un objetivo"
+    },
+    "summary": {
+     "es": "",
+     "en": "",
+     "zh": ""
+    },
+    "original_title": "Reward hacking: el término que explica por qué las IA mienten y hacen trampas para cumplir un objetivo",
+    "source": "Xataka",
+    "url": "https://www.xataka.com/robotica-e-ia/reward-hacking-termino-que-explica-que-ia-mienten-hackean-hacen-trampas-para-cumplir-objetivo",
+    "published": "2026-08-09T10:31:15+00:00"
+   },
+   {
+    "headline": {
+     "es": "El río Yangtsé estaba al borde del colapso: China ha decidido salvarlo, pero hay alguien pagando la factura",
+     "en": "El río Yangtsé estaba al borde del colapso: China ha decidido salvarlo, pero hay alguien pagando la factura",
+     "zh": "El río Yangtsé estaba al borde del colapso: China ha decidido salvarlo, pero hay alguien pagando la factura"
+    },
+    "summary": {
+     "es": "",
+     "en": "",
+     "zh": ""
+    },
+    "original_title": "El río Yangtsé estaba al borde del colapso: China ha decidido salvarlo, pero hay alguien pagando la factura",
+    "source": "Xataka",
+    "url": "https://www.xataka.com/ecologia-y-naturaleza/rio-yangtse-estaba-al-borde-colapso-china-esta-salvando-hay-alguien-que-esta-pagando-factura",
+    "published": "2026-08-09T10:01:16+00:00"
+   }
+  ],
+  "tecnologia|america": [
+   {
+    "headline": {
+     "es": "The first self-driving vehicle on Mars has proven to be a smashing success",
+     "en": "The first self-driving vehicle on Mars has proven to be a smashing success",
+     "zh": "The first self-driving vehicle on Mars has proven to be a smashing success"
+    },
+    "summary": {
+     "es": "",
+     "en": "",
+     "zh": ""
+    },
+    "original_title": "The first self-driving vehicle on Mars has proven to be a smashing success",
+    "source": "Ars Technica",
+    "url": "https://arstechnica.com/space/2026/08/the-first-self-driving-vehicle-on-mars-has-proven-to-be-a-smashing-success/",
+    "published": "2026-08-08T11:30:48+00:00"
+   },
+   {
+    "headline": {
+     "es": "DeepMind’s hurricane breakthrough has surprised weather scientists",
+     "en": "DeepMind’s hurricane breakthrough has surprised weather scientists",
+     "zh": "DeepMind’s hurricane breakthrough has surprised weather scientists"
+    },
+    "summary": {
+     "es": "",
+     "en": "",
+     "zh": ""
+    },
+    "original_title": "DeepMind’s hurricane breakthrough has surprised weather scientists",
+    "source": "Ars Technica",
+    "url": "https://arstechnica.com/science/2026/08/deepminds-hurricane-model-bought-forecasters-an-extra-day/",
+    "published": "2026-08-08T11:05:50+00:00"
+   },
+   {
+    "headline": {
+     "es": "AI detectors are creating a new era of distrust",
+     "en": "AI detectors are creating a new era of distrust",
+     "zh": "AI detectors are creating a new era of distrust"
+    },
+    "summary": {
+     "es": "",
+     "en": "",
+     "zh": ""
+    },
+    "original_title": "AI detectors are creating a new era of distrust",
+    "source": "The Verge",
+    "url": "https://www.theverge.com/column/976690/ai-writing-detectors-suspicion",
+    "published": "2026-08-09T12:00:00+00:00"
+   },
+   {
+    "headline": {
+     "es": "X replaces its revenue-sharing program with ‘Original Content Rewards’",
+     "en": "X replaces its revenue-sharing program with ‘Original Content Rewards’",
+     "zh": "X replaces its revenue-sharing program with ‘Original Content Rewards’"
+    },
+    "summary": {
+     "es": "",
+     "en": "",
+     "zh": ""
+    },
+    "original_title": "X replaces its revenue-sharing program with ‘Original Content Rewards’",
+    "source": "The Verge",
+    "url": "https://www.theverge.com/tech/977143/x-revenue-sharing-original-content-rewards",
+    "published": "2026-08-08T21:15:12+00:00"
+   },
+   {
+    "headline": {
+     "es": "An Amazon data center could have the worst polluting power plant in the country",
+     "en": "An Amazon data center could have the worst polluting power plant in the country",
+     "zh": "An Amazon data center could have the worst polluting power plant in the country"
+    },
+    "summary": {
+     "es": "",
+     "en": "",
+     "zh": ""
+    },
+    "original_title": "An Amazon data center could have the worst polluting power plant in the country",
+    "source": "The Verge",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/977124/amazon-data-center-worst-polluting-power-plant",
+    "published": "2026-08-08T17:53:34+00:00"
+   }
+  ]
+ }
+}

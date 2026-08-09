@@ -1,0 +1,207 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="color-scheme" content="light dark">
+<meta name="description" content="Daily World Brief — resumen diario de noticias: economía, política y tecnología en Asia, Europa y América.">
+<title>Daily World Brief</title>
+<link rel="manifest" href="manifest.json">
+<link rel="icon" href="icon.svg" type="image/svg+xml">
+<link rel="alternate" type="application/rss+xml" title="Daily World Brief" href="feed.xml">
+<style>
+:root{
+  --bg:#f6f7f9; --card:#ffffff; --text:#1a1d21; --muted:#6b7280;
+  --accent:#2563eb; --border:#e5e7eb; --chip:#eef2f7;
+  color-scheme: light dark;
+}
+@media (prefers-color-scheme: dark){
+  :root{ --bg:#0f1115; --card:#181b21; --text:#e7e9ec; --muted:#9aa1ab;
+         --accent:#7aa2ff; --border:#262b33; --chip:#222731; }
+}
+*{box-sizing:border-box; margin:0}
+body{background:var(--bg); color:var(--text);
+  font:16px/1.55 system-ui,-apple-system,"Segoe UI",Roboto,"Noto Sans SC",sans-serif;
+  -webkit-font-smoothing:antialiased}
+header{position:sticky; top:0; z-index:10; background:var(--bg);
+  border-bottom:1px solid var(--border); padding:.6rem .9rem}
+.hrow{display:flex; align-items:center; justify-content:space-between; gap:.5rem;
+  max-width:760px; margin:0 auto}
+h1{font-size:1.05rem; letter-spacing:.02em; white-space:nowrap}
+h1 span{color:var(--accent)}
+.controls{display:flex; gap:.45rem; align-items:center}
+select, .langbtn{background:var(--chip); color:var(--text); border:1px solid var(--border);
+  border-radius:.55rem; padding:.32rem .5rem; font-size:.85rem; cursor:pointer}
+.langbtn{min-width:2.5rem}
+.langbtn.active{background:var(--accent); color:#fff; border-color:var(--accent)}
+main{max-width:760px; margin:0 auto; padding:0 .9rem 3rem}
+.market{display:flex; gap:.6rem; overflow-x:auto; padding:.7rem 0 .2rem; font-size:.8rem;
+  scrollbar-width:none}
+.market::-webkit-scrollbar{display:none}
+.mkt{background:var(--card); border:1px solid var(--border); border-radius:.6rem;
+  padding:.3rem .6rem; white-space:nowrap; color:var(--muted)}
+.mkt b{color:var(--text); font-variant-numeric:tabular-nums}
+.section{margin-top:1.4rem}
+.section>h2{font-size:1.15rem; padding-bottom:.35rem; border-bottom:2px solid var(--accent)}
+.continent{margin-top:.9rem}
+.continent>h3{font-size:.8rem; text-transform:uppercase; letter-spacing:.12em;
+  color:var(--muted); margin-bottom:.5rem}
+.card{background:var(--card); border:1px solid var(--border); border-radius:.8rem;
+  padding:.8rem .9rem; margin-bottom:.6rem}
+.card h4{font-size:.98rem; line-height:1.4; margin-bottom:.3rem}
+.card p{font-size:.9rem; color:var(--text); opacity:.92; margin-bottom:.45rem}
+.meta{font-size:.78rem; color:var(--muted); display:flex; flex-wrap:wrap; gap:.25rem .5rem;
+  align-items:baseline}
+.meta a{color:var(--accent); text-decoration:none; font-weight:600}
+.meta a:hover{text-decoration:underline}
+.orig{font-style:italic; overflow:hidden; text-overflow:ellipsis; display:-webkit-box;
+  -webkit-line-clamp:1; -webkit-box-orient:vertical}
+.empty{color:var(--muted); font-size:.85rem; padding:.4rem 0}
+footer{max-width:760px; margin:2.2rem auto 0; padding:1rem .9rem 2rem; font-size:.78rem;
+  color:var(--muted); border-top:1px solid var(--border)}
+footer a{color:var(--accent)}
+.warn{margin-top:.3rem}
+@media(min-width:640px){
+  .grid{display:grid; grid-template-columns:repeat(3,1fr); gap:.9rem}
+  .continent{margin-top:0}
+  .section .grid{margin-top:.9rem}
+}
+</style>
+</head>
+<body>
+<header>
+  <div class="hrow">
+    <h1>Daily <span>World</span> Brief</h1>
+    <div class="controls">
+      <select id="dateSel" aria-label="Fecha"></select>
+      <button class="langbtn" data-lang="es">ES</button>
+      <button class="langbtn" data-lang="en">EN</button>
+      <button class="langbtn" data-lang="zh">中文</button>
+    </div>
+  </div>
+</header>
+<main>
+  <div class="market" id="market"></div>
+  <div id="content"></div>
+</main>
+<footer id="footer"></footer>
+
+<script type="application/json" id="brief-data">__BRIEF_JSON__</script>
+<script type="application/json" id="dates-data">__DATES_JSON__</script>
+<script>
+"use strict";
+const T = {
+  sections: {
+    economia:  {es:"Economía", en:"Economy", zh:"经济"},
+    politica:  {es:"Política y Geopolítica", en:"Politics & Geopolitics", zh:"政治与地缘政治"},
+    tecnologia:{es:"Tecnología e IA", en:"Technology & AI", zh:"科技与人工智能"},
+  },
+  continents: {
+    asia:{es:"Asia", en:"Asia", zh:"亚洲"},
+    europa:{es:"Europa", en:"Europe", zh:"欧洲"},
+    america:{es:"América", en:"America", zh:"美洲"},
+  },
+  empty:{es:"Sin noticias destacadas hoy.", en:"No major stories today.", zh:"今日无重要新闻。"},
+  failed:{es:"fuentes no disponibles hoy", en:"sources unavailable today", zh:"个新闻源今日不可用"},
+  headlinesOnly:{es:"Modo reducido: hoy solo titulares (falló el resumen automático).",
+                 en:"Reduced mode: headlines only today (summarizer failed).",
+                 zh:"精简模式：今日仅显示标题（自动摘要失败）。"},
+  generated:{es:"Generado", en:"Generated", zh:"生成时间"},
+  rss:{es:"Suscríbete por RSS", en:"Subscribe via RSS", zh:"通过 RSS 订阅"},
+};
+const SECTIONS = ["economia","politica","tecnologia"];
+const CONTINENTS = ["asia","europa","america"];
+
+let brief = JSON.parse(document.getElementById("brief-data").textContent);
+const dates = JSON.parse(document.getElementById("dates-data").textContent);
+let lang = localStorage.getItem("dwb-lang") || (navigator.language||"es").slice(0,2);
+if (!["es","en","zh"].includes(lang)) lang = "es";
+
+function fmtTime(iso){
+  if(!iso) return "";
+  try{
+    return new Date(iso).toLocaleString(lang==="zh"?"zh-CN":lang, {
+      hour:"2-digit", minute:"2-digit", day:"numeric", month:"short"});
+  }catch(e){ return ""; }
+}
+function esc(s){ const d=document.createElement("span"); d.textContent=s||""; return d.innerHTML; }
+
+function render(){
+  document.documentElement.lang = lang==="zh"?"zh-CN":lang;
+  document.querySelectorAll(".langbtn").forEach(b=>
+    b.classList.toggle("active", b.dataset.lang===lang));
+
+  // Dato del día
+  const mkt = document.getElementById("market");
+  mkt.innerHTML = "";
+  if (brief.market){
+    for (const k of Object.keys(brief.market)){
+      const m = brief.market[k];
+      mkt.innerHTML += `<div class="mkt">${esc(m.label)} <b>${m.price.toLocaleString(
+        lang==="zh"?"zh-CN":lang,{maximumFractionDigits:4})}</b></div>`;
+    }
+  }
+
+  // Matriz 3×3
+  const root = document.getElementById("content");
+  root.innerHTML = "";
+  for (const sec of SECTIONS){
+    let html = `<section class="section"><h2>${T.sections[sec][lang]}</h2><div class="grid">`;
+    for (const cont of CONTINENTS){
+      const items = (brief.cells && brief.cells[`${sec}|${cont}`]) || [];
+      html += `<div class="continent"><h3>${T.continents[cont][lang]}</h3>`;
+      if (!items.length) html += `<div class="empty">${T.empty[lang]}</div>`;
+      for (const it of items){
+        const summary = it.summary && it.summary[lang];
+        html += `<article class="card">
+          <h4>${esc(it.headline[lang] || it.headline.es)}</h4>
+          ${summary ? `<p>${esc(summary)}</p>` : ""}
+          <div class="meta">
+            <a href="${esc(it.url)}" target="_blank" rel="noopener">${esc(it.source)}</a>
+            <span>${fmtTime(it.published)}</span>
+            <span class="orig" title="${esc(it.original_title)}">${esc(it.original_title)}</span>
+          </div></article>`;
+      }
+      html += `</div>`;
+    }
+    root.innerHTML += html + "</div></section>";
+  }
+
+  // Pie
+  const f = document.getElementById("footer");
+  let foot = `${T.generated[lang]}: ${fmtTime(brief.generated_at)} UTC · <a href="feed.xml">${T.rss[lang]}</a>`;
+  if (brief.mode === "headlines-only") foot += `<div class="warn">⚠️ ${T.headlinesOnly[lang]}</div>`;
+  if (brief.failed_sources && brief.failed_sources.length)
+    foot += `<div class="warn">${brief.failed_sources.length} ${T.failed[lang]} (${esc(brief.failed_sources.join(", "))})</div>`;
+  f.innerHTML = foot;
+}
+
+// Selector de fecha (archivo 30 días)
+const sel = document.getElementById("dateSel");
+dates.forEach(d=>{
+  const o = document.createElement("option");
+  o.value = d; o.textContent = d;
+  sel.appendChild(o);
+});
+sel.value = brief.date;
+sel.addEventListener("change", async ()=>{
+  try{
+    const r = await fetch(`data/${sel.value}.json`, {cache:"no-cache"});
+    if (r.ok){ brief = await r.json(); render(); }
+  }catch(e){ /* offline: se mantiene el brief actual */ }
+});
+
+document.querySelectorAll(".langbtn").forEach(b=>
+  b.addEventListener("click", ()=>{
+    lang = b.dataset.lang;
+    localStorage.setItem("dwb-lang", lang);
+    render();
+  }));
+
+render();
+
+if ("serviceWorker" in navigator)
+  navigator.serviceWorker.register("sw.js").catch(()=>{});
+</script>
+</body>
+</html>
