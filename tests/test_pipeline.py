@@ -170,6 +170,42 @@ def test_detect_lang():
     assert summarize.detect_lang({"title": "No lang key"}) == "en"
 
 
+def test_save_candidates(tmp_path, monkeypatch):
+    monkeypatch.setattr(summarize, "ROOT", tmp_path)
+    collected = _sample_collected()
+    # simulamos que solo una de las candidatas acabó publicada
+    published_url = collected["items"][0]["url"]
+    cells = {"economia|asia": [{
+        "title": "x", "summary": "y", "lang": "en", "source": "Test",
+        "url": published_url, "published": None}]}
+
+    out = summarize.save_candidates(collected, cells, "2026-08-10")
+    saved = json.loads(out.read_text(encoding="utf-8"))
+
+    assert saved["total"] == len(collected["items"])
+    assert saved["selected"] == 1
+    assert saved["seen_by_model"] == len(collected["items"])  # caben todas
+    marked = [i for i in saved["items"] if i["selected"]]
+    assert len(marked) == 1 and marked[0]["url"] == published_url
+    # se archiva lo que ve el selector, sin el extracto
+    assert "excerpt" not in saved["items"][0]
+    for field in ("source", "section", "continent", "lang", "title", "url"):
+        assert field in saved["items"][0]
+
+
+def test_save_candidates_marks_unseen(tmp_path, monkeypatch):
+    # con más candidatas que el tope, las sobrantes quedan marcadas como no vistas
+    monkeypatch.setattr(summarize, "ROOT", tmp_path)
+    monkeypatch.setattr(summarize, "MAX_INPUT_ITEMS", 5)
+    collected = _sample_collected()
+    assert len(collected["items"]) > 5
+    saved = json.loads(
+        summarize.save_candidates(collected, {}, "2026-08-10").read_text(encoding="utf-8"))
+    assert saved["seen_by_model"] == 5
+    assert sum(1 for i in saved["items"] if not i["seen_by_model"]) == saved["total"] - 5
+    assert saved["selected"] == 0
+
+
 def test_build_html(tmp_path, monkeypatch):
     # data/ temporal con un brief válido
     monkeypatch.setattr(build_mod, "DATA", tmp_path / "data")

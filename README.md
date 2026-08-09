@@ -130,6 +130,33 @@ python scripts/build.py
 Sin `ANTHROPIC_API_KEY` el brief se genera en modo titulares (sin resúmenes
 ni traducción).
 
+## Auditar la selección
+
+Cada ejecución archiva en `candidates/YYYY-MM-DD.json` **todas** las noticias
+recogidas ese día (unas 380), marcando dos cosas por cada una: si llegó a verla
+el modelo (`seen_by_model`) y si acabó publicada (`selected`). Sirve para juzgar
+si el selector acierta o se queda corto:
+
+```bash
+python scripts/review.py            # último día: publicadas vs descartadas, por sección
+python scripts/review.py 2026-08-12 # un día concreto
+python scripts/review.py --week     # 7 días + tasa de publicación por fuente
+```
+
+`--week` incluye la lista de fuentes que **nunca** se publicaron, útil para
+detectar feeds que solo aportan ruido.
+
+> **Por qué se archiva en vez de reconstruirlo después**: un RSS es una ventana
+> deslizante, no un archivo. Medido el 2026-08-09, 27 de los 37 feeds retienen
+> menos de 7 días, y los más activos mucho menos: Al Jazeera y 中央社 tiran una
+> noticia a las **9 horas** de publicarla, Financial Times a las 12, Japan Times
+> a las 15. Lo que no se guarda el mismo día es irrecuperable.
+
+Ocupa ~165 KB al día (~5 MB al mes). Se omite el extracto a propósito: el
+selector tampoco lo ve, así que el archivo refleja exactamente la información
+que tuvo delante. Si el repositorio crece demasiado, se pueden borrar los
+`candidates/` antiguos sin afectar a la web.
+
 ## Tests
 
 ```bash

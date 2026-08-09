@@ -386,6 +386,40 @@ def run_fallback(collected: dict) -> dict:
     return dict(cells)
 
 
+def save_candidates(collected: dict, cells: dict, today: str) -> Path:
+    """Archiva TODAS las candidatas del día, marcando cuáles llegaron al modelo
+    y cuáles acabaron publicadas.
+
+    Sin esto no se puede auditar la selección: los feeds RSS son ventanas
+    deslizantes (Al Jazeera o CNA tiran una noticia a las 9 h de publicarla),
+    así que lo descartado hoy es irrecuperable mañana. Se omite el extracto
+    a propósito: el selector tampoco lo ve, y así el archivo refleja
+    exactamente la información que tuvo delante.
+    """
+    sent_ids = {i["id"] for i in interleave_by_source(collected["items"])[:MAX_INPUT_ITEMS]}
+    published_urls = {s["url"] for items in cells.values() for s in items}
+    rows = [{
+        "id": i["id"], "source": i["source"], "section": i["section"],
+        "continent": i["continent"], "lang": i.get("lang", "en"),
+        "title": i["title"], "url": i["url"], "published": i["published"],
+        "seen_by_model": i["id"] in sent_ids,
+        "selected": i["url"] in published_urls,
+    } for i in collected["items"]]
+
+    out = ROOT / "candidates" / f"{today}.json"
+    out.parent.mkdir(parents=True, exist_ok=True)
+    out.write_text(json.dumps({
+        "date": today,
+        "collected_at": collected["collected_at"],
+        "total": len(rows),
+        "seen_by_model": sum(r["seen_by_model"] for r in rows),
+        "selected": sum(r["selected"] for r in rows),
+        "failed_sources": collected["failed_sources"],
+        "items": rows,
+    }, ensure_ascii=False, indent=1), encoding="utf-8")
+    return out
+
+
 def main():
     collected_path = Path(sys.argv[1]) if len(sys.argv) > 1 else ROOT / "work" / "collected.json"
     collected = load_collected(collected_path)
@@ -414,6 +448,9 @@ def main():
     out.write_text(json.dumps(brief, ensure_ascii=False, indent=1), encoding="utf-8")
     n = sum(len(v) for v in cells.values())
     print(f"Brief {today} ({mode}): {n} noticias -> {out}")
+
+    cand = save_candidates(collected, cells, today)
+    print(f"Candidatas archivadas: {len(collected['items'])} -> {cand}")
 
 
 if __name__ == "__main__":
