@@ -1,9 +1,9 @@
 {
  "date": "2026-08-09",
- "collected_at": "2026-08-09T12:45:04.701875+00:00",
- "total": 382,
+ "collected_at": "2026-08-09T13:43:52.152900+00:00",
+ "total": 383,
  "seen_by_model": 250,
- "selected": 32,
+ "selected": 31,
  "failed_sources": [],
  "items": [
   {
@@ -76,7 +76,7 @@
    "url": "https://www.ft.com/content/657249de-f5bd-4648-9a1c-77315cd5a1c9?syn-25a6b1a6=1",
    "published": "2026-08-09T01:22:52+00:00",
    "seen_by_model": true,
-   "selected": true
+   "selected": false
   },
   {
    "id": "cfa1429141",
@@ -111,6 +111,42 @@
    "title": "US CPI to Show Inflationary Pressures Cooling Some",
    "url": "https://www.bloomberg.com/news/articles/2026-08-08/us-cpi-to-show-inflationary-pressures-cooling-some",
    "published": "2026-08-08T20:00:00+00:00",
+   "seen_by_model": true,
+   "selected": true
+  },
+  {
+   "id": "de70048c30",
+   "source": "Bloomberg Markets",
+   "section": "economia",
+   "continent": "global",
+   "lang": "en",
+   "title": "Leveraged ETF Boom Amps Up Wall Street Intraday Momentum Plays",
+   "url": "https://www.bloomberg.com/news/articles/2026-08-09/leveraged-etf-boom-amps-up-wall-street-intraday-momentum-plays",
+   "published": "2026-08-09T13:00:00+00:00",
+   "seen_by_model": true,
+   "selected": false
+  },
+  {
+   "id": "75354c4604",
+   "source": "Bloomberg Markets",
+   "section": "economia",
+   "continent": "global",
+   "lang": "en",
+   "title": "Turkey Resumes Black Sea Ship Transits Via Straits After Delays",
+   "url": "https://www.bloomberg.com/news/articles/2026-08-09/turkey-resumes-black-sea-ship-transits-via-straits-after-delays",
+   "published": "2026-08-09T12:58:56+00:00",
+   "seen_by_model": true,
+   "selected": false
+  },
+  {
+   "id": "27a2b2c65c",
+   "source": "Bloomberg Markets",
+   "section": "economia",
+   "continent": "global",
+   "lang": "en",
+   "title": "US Weapons Crunch Raises Risks Beyond Iran",
+   "url": "https://www.bloomberg.com/news/videos/2026-08-09/us-weapons-crunch-raises-risks-beyond-iran-video",
+   "published": "2026-08-09T12:52:22+00:00",
    "seen_by_model": true,
    "selected": false
   },
@@ -148,7 +184,7 @@
    "url": "https://www.bloomberg.com/news/videos/2026-08-09/iran-talks-offer-little-relief-for-hormuz-shipping-video",
    "published": "2026-08-09T12:08:57+00:00",
    "seen_by_model": true,
-   "selected": true
+   "selected": false
   },
   {
    "id": "dd632904d8",
@@ -231,7 +267,7 @@
    "title": "Korea Volatility Spike Ebbs as Leveraged Trades Are Flushed Out",
    "url": "https://www.bloomberg.com/news/articles/2026-08-09/korea-volatility-spike-ebbs-as-leveraged-trades-are-flushed-out",
    "published": "2026-08-09T00:00:00+00:00",
-   "seen_by_model": true,
+   "seen_by_model": false,
    "selected": false
   },
   {
@@ -243,7 +279,7 @@
    "title": "Bloomberg This Weekend 8/08/2026",
    "url": "https://www.bloomberg.com/news/videos/2026-08-08/bloomberg-this-weekend-8-08-2026-video",
    "published": "2026-08-08T16:11:17+00:00",
-   "seen_by_model": true,
+   "seen_by_model": false,
    "selected": false
   },
   {
@@ -255,7 +291,7 @@
    "title": "Private Credit Squeezed By Bank Refinancings: Credit Weekly",
    "url": "https://www.bloomberg.com/news/articles/2026-08-08/private-credit-squeezed-by-bank-refinancings-credit-weekly",
    "published": "2026-08-08T15:03:06+00:00",
-   "seen_by_model": true,
+   "seen_by_model": false,
    "selected": false
   },
   {
@@ -291,42 +327,6 @@
    "title": "China’s AI Push Reshapes Its Economic Future",
    "url": "https://www.bloomberg.com/news/videos/2026-08-08/china-s-ai-push-reshapes-its-economic-future-video",
    "published": "2026-08-08T14:32:07+00:00",
-   "seen_by_model": false,
-   "selected": false
-  },
-  {
-   "id": "f1b3336c87",
-   "source": "Bloomberg Markets",
-   "section": "economia",
-   "continent": "global",
-   "lang": "en",
-   "title": "US Munitions Strain Complicates Iran Strategy",
-   "url": "https://www.bloomberg.com/news/videos/2026-08-08/us-munitions-strain-complicates-iran-strategy-video",
-   "published": "2026-08-08T14:01:29+00:00",
-   "seen_by_model": false,
-   "selected": false
-  },
-  {
-   "id": "202bbfce85",
-   "source": "Bloomberg Markets",
-   "section": "economia",
-   "continent": "global",
-   "lang": "en",
-   "title": "Hunting Camo Moves From the Woods to Runways",
-   "url": "https://www.bloomberg.com/news/videos/2026-08-08/hunting-camo-moves-from-the-woods-to-runways-video",
-   "published": "2026-08-08T13:49:35+00:00",
-   "seen_by_model": false,
-   "selected": false
-  },
-  {
-   "id": "ad7feb188f",
-   "source": "Bloomberg Markets",
-   "section": "economia",
-   "continent": "global",
-   "lang": "en",
-   "title": "University of California Faculty Push to Bring Back SAT and ACT Score Consideration",
-   "url": "https://www.bloomberg.com/news/videos/2026-08-08/uc-faculty-push-to-bring-back-sat-and-act-video",
-   "published": "2026-08-08T13:41:04+00:00",
    "seen_by_model": false,
    "selected": false
   },
@@ -799,6 +799,18 @@
    "selected": false
   },
   {
+   "id": "09a65ff69f",
+   "source": "經濟日報 台灣",
+   "section": "economia",
+   "continent": "asia",
+   "lang": "zh",
+   "title": "台糖：下半年停購外購粗油 自主進口黃豆產製成品油",
+   "url": "https://money.udn.com/money/story/5612/9680672",
+   "published": "2026-08-09T12:45:36+00:00",
+   "seen_by_model": true,
+   "selected": false
+  },
+  {
    "id": "ba2d09f272",
    "source": "經濟日報 台灣",
    "section": "economia",
@@ -939,7 +951,7 @@
    "title": "PCB 族群布局東南亞 供應鏈添韌性",
    "url": "https://money.udn.com/money/story/5612/9679557",
    "published": "2026-08-08T17:39:20+00:00",
-   "seen_by_model": true,
+   "seen_by_model": false,
    "selected": false
   },
   {
@@ -1027,18 +1039,6 @@
    "selected": false
   },
   {
-   "id": "98f2ec420c",
-   "source": "經濟日報 台灣",
-   "section": "economia",
-   "continent": "asia",
-   "lang": "zh",
-   "title": "鴻海、華碩、和碩 法說聚焦",
-   "url": "https://money.udn.com/money/story/5612/9679559",
-   "published": "2026-08-08T16:54:28+00:00",
-   "seen_by_model": false,
-   "selected": false
-  },
-  {
    "id": "6e0f12b732",
    "source": "BBC World",
    "section": "politica",
@@ -1048,7 +1048,7 @@
    "url": "https://www.bbc.co.uk/news/articles/c5yw4lpe0yeo?at_medium=RSS&at_campaign=rss",
    "published": "2026-08-09T12:12:10+00:00",
    "seen_by_model": true,
-   "selected": false
+   "selected": true
   },
   {
    "id": "71b2c5d796",
@@ -1104,11 +1104,11 @@
    "section": "politica",
    "continent": "global",
    "lang": "en",
-   "title": "State of emergency declared as fast-moving Canada wildfire doubles in size",
+   "title": "Residents warned to brace for the worst as Canada wildfire rages out of control",
    "url": "https://www.bbc.co.uk/news/articles/cx25dkwk3e3o?at_medium=RSS&at_campaign=rss",
-   "published": "2026-08-09T12:41:40+00:00",
+   "published": "2026-08-09T13:08:21+00:00",
    "seen_by_model": true,
-   "selected": true
+   "selected": false
   },
   {
    "id": "639e1a78a5",
@@ -1140,7 +1140,7 @@
    "section": "politica",
    "continent": "global",
    "lang": "en",
-   "title": "Tonnes of rotting food from vast LA warehouse fire creates unbearable stench",
+   "title": "Rotting food from vast LA warehouse fire creates weeks-long unbearable stench",
    "url": "https://www.bbc.co.uk/news/articles/c2elpz33zp2o?at_medium=RSS&at_campaign=rss",
    "published": "2026-08-09T00:15:28+00:00",
    "seen_by_model": true,
@@ -1168,7 +1168,7 @@
    "url": "https://www.bbc.co.uk/news/articles/cz7dy8gq99eo?at_medium=RSS&at_campaign=rss",
    "published": "2026-08-08T18:06:25+00:00",
    "seen_by_model": true,
-   "selected": true
+   "selected": false
   },
   {
    "id": "aa62f13222",
@@ -1411,18 +1411,6 @@
    "selected": false
   },
   {
-   "id": "adcded0d1c",
-   "source": "德國之聲中文",
-   "section": "politica",
-   "continent": "global",
-   "lang": "zh",
-   "title": "澳大利亚小镇将建成西方钪供应基石",
-   "url": "https://www.dw.com/zh/澳大利亚小镇将建成西方钪供应基石/a-78288297?maca=chi-rss-chi-all-1127-rdf",
-   "published": "2026-08-08T10:04:00+00:00",
-   "seen_by_model": true,
-   "selected": false
-  },
-  {
    "id": "543ba1a5d7",
    "source": "德國之聲中文",
    "section": "politica",
@@ -1430,6 +1418,18 @@
    "lang": "zh",
    "title": "台风“白海豚”袭日后逼近华东 中国管制台海航行遭台谴责",
    "url": "https://www.dw.com/zh/台风-白海豚-袭日后逼近华东-中国管制台海航行遭台谴责/a-78287611?maca=chi-rss-chi-all-1127-rdf",
+   "published": "2026-08-08T10:04:00+00:00",
+   "seen_by_model": true,
+   "selected": false
+  },
+  {
+   "id": "adcded0d1c",
+   "source": "德國之聲中文",
+   "section": "politica",
+   "continent": "global",
+   "lang": "zh",
+   "title": "澳大利亚小镇将建成西方钪供应基石",
+   "url": "https://www.dw.com/zh/澳大利亚小镇将建成西方钪供应基石/a-78288297?maca=chi-rss-chi-all-1127-rdf",
    "published": "2026-08-08T10:04:00+00:00",
    "seen_by_model": true,
    "selected": false
@@ -1807,14 +1807,14 @@
    "selected": false
   },
   {
-   "id": "f83317c1b6",
+   "id": "85d9fc2535",
    "source": "The Guardian World",
    "section": "politica",
    "continent": "global",
    "lang": "en",
-   "title": "High divers take the plunge in Paris for a new test of reclaimed Seine’s water",
-   "url": "https://www.theguardian.com/sport/2026/aug/08/high-divers-paris-river-seine-swimming-european-aquatics-championships",
-   "published": "2026-08-08T09:00:44+00:00",
+   "title": "Middle East crisis live: Netanyahu rejects Trump’s Gaza plan and vows no withdrawal until Hamas disarms",
+   "url": "https://www.theguardian.com/world/live/2026/aug/09/iran-us-irgc-strait-of-hormuz-israel-netanyahu-trump-gaza-plan-latest-news-updates",
+   "published": "2026-08-09T13:01:41+00:00",
    "seen_by_model": true,
    "selected": false
   },
@@ -1831,18 +1831,6 @@
    "selected": false
   },
   {
-   "id": "85d9fc2535",
-   "source": "The Guardian World",
-   "section": "politica",
-   "continent": "global",
-   "lang": "en",
-   "title": "Middle East crisis live: Netanyahu rejects US’s Gaza plan and vows no withdrawal until Hamas disarms",
-   "url": "https://www.theguardian.com/world/live/2026/aug/09/iran-us-irgc-strait-of-hormuz-israel-netanyahu-trump-gaza-plan-latest-news-updates",
-   "published": "2026-08-09T12:28:17+00:00",
-   "seen_by_model": false,
-   "selected": false
-  },
-  {
    "id": "c1aa1d85de",
    "source": "The Guardian World",
    "section": "politica",
@@ -1855,14 +1843,14 @@
    "selected": false
   },
   {
-   "id": "123a1f07cf",
+   "id": "dae12abf89",
    "source": "The Guardian World",
    "section": "politica",
    "continent": "global",
    "lang": "en",
-   "title": "Bluster and backdown have turned Iran war into Trump’s own Groundhog Day",
-   "url": "https://www.theguardian.com/world/ng-interactive/2026/aug/08/trump-iran-war-criticism-groundhog-day",
-   "published": "2026-08-08T09:00:43+00:00",
+   "title": "Parents of baby girl killed at nursery fear unsafe sleeping ‘rife’ across England",
+   "url": "https://www.theguardian.com/education/2026/aug/09/parents-baby-killed-in-care-poor-practice-rife-nurseries-england",
+   "published": "2026-08-09T13:00:16+00:00",
    "seen_by_model": false,
    "selected": false
   },
@@ -1915,18 +1903,6 @@
    "selected": false
   },
   {
-   "id": "57b0759d67",
-   "source": "The Guardian World",
-   "section": "politica",
-   "continent": "global",
-   "lang": "en",
-   "title": "Sweet, soft and strong: TikTok turns Japanese milk bread into latest UK food craze",
-   "url": "https://www.theguardian.com/food/2026/aug/09/tiktok-turns-japanese-milk-bread-into-latest-uk-food-craze",
-   "published": "2026-08-09T07:00:09+00:00",
-   "seen_by_model": false,
-   "selected": false
-  },
-  {
    "id": "c2297e000e",
    "source": "The Guardian World",
    "section": "politica",
@@ -1975,6 +1951,18 @@
    "selected": false
   },
   {
+   "id": "9ef1561790",
+   "source": "The Guardian World",
+   "section": "politica",
+   "continent": "global",
+   "lang": "en",
+   "title": "‘Super El Niño’ could bring wet winter and flooding to western US, climate scientists warn",
+   "url": "https://www.theguardian.com/us-news/2026/aug/08/super-el-nino-winter-flooding",
+   "published": "2026-08-08T19:21:14+00:00",
+   "seen_by_model": false,
+   "selected": false
+  },
+  {
    "id": "a13826f535",
    "source": "El País Internacional",
    "section": "politica",
@@ -1982,7 +1970,7 @@
    "lang": "es",
    "title": "Netanyahu rechaza el plan de Trump para el desarme de Hamás",
    "url": "https://elpais.com/internacional/2026-08-09/netanyahu-rechaza-el-plan-de-15-puntos-impulsado-por-trump-para-gaza.html",
-   "published": "2026-08-09T12:20:10+00:00",
+   "published": "2026-08-09T13:23:49+00:00",
    "seen_by_model": true,
    "selected": false
   },
@@ -2107,6 +2095,42 @@
    "selected": false
   },
   {
+   "id": "1091bdf809",
+   "source": "Le Monde International",
+   "section": "politica",
+   "continent": "europa",
+   "lang": "en",
+   "title": "Syria says deal with Moscow reached on fate of Russian bases",
+   "url": "https://www.lemonde.fr/en/international/article/2026/08/09/syria-says-deal-with-moscow-reached-on-fate-of-russian-bases_6756317_4.html",
+   "published": "2026-08-09T13:39:57+00:00",
+   "seen_by_model": true,
+   "selected": true
+  },
+  {
+   "id": "b69ec0e6c0",
+   "source": "Le Monde International",
+   "section": "politica",
+   "continent": "europa",
+   "lang": "en",
+   "title": "Netanyahu rejects US plan for Gaza accepted by Hamas, in new break from Trump",
+   "url": "https://www.lemonde.fr/en/international/article/2026/08/09/netanyahu-rejects-us-plan-for-gaza-accepted-by-hamas-in-new-break-from-trump_6756316_4.html",
+   "published": "2026-08-09T13:22:16+00:00",
+   "seen_by_model": true,
+   "selected": false
+  },
+  {
+   "id": "0ec7ec2e29",
+   "source": "Le Monde International",
+   "section": "politica",
+   "continent": "europa",
+   "lang": "en",
+   "title": "Gaza mourns during 'largest collective funeral in Palestinian history'",
+   "url": "https://www.lemonde.fr/en/international/article/2026/08/09/gaza-mourns-during-largest-collective-funeral-in-palestinian-history_6756315_4.html",
+   "published": "2026-08-09T13:00:05+00:00",
+   "seen_by_model": true,
+   "selected": false
+  },
+  {
    "id": "694e8d5983",
    "source": "Le Monde International",
    "section": "politica",
@@ -2128,7 +2152,7 @@
    "url": "https://www.lemonde.fr/en/international/article/2026/08/09/bombing-attacks-mark-first-day-of-colombia-s-new-right-wing-government_6756307_4.html",
    "published": "2026-08-09T03:28:43+00:00",
    "seen_by_model": true,
-   "selected": false
+   "selected": true
   },
   {
    "id": "bac0ab1186",
@@ -2211,7 +2235,7 @@
    "title": "SpaceX, a dream put to the test of the numbers",
    "url": "https://www.lemonde.fr/en/opinion/article/2026/08/08/spacex-a-dream-put-to-the-test-of-the-numbers_6756289_23.html",
    "published": "2026-08-08T12:00:06+00:00",
-   "seen_by_model": true,
+   "seen_by_model": false,
    "selected": false
   },
   {
@@ -2223,7 +2247,7 @@
    "title": "Algeria's arrests of alleged drug lords signal cautious thaw between Paris and Algiers",
    "url": "https://www.lemonde.fr/en/le-monde-africa/article/2026/08/08/algeria-s-arrests-of-alleged-drug-lords-signal-cautious-thaw-between-paris-and-algiers_6756288_124.html",
    "published": "2026-08-08T10:45:05+00:00",
-   "seen_by_model": true,
+   "seen_by_model": false,
    "selected": false
   },
   {
@@ -2235,8 +2259,8 @@
    "title": "Ukraine's Zelensky visits Russian ally Serbia as Moscow pounds Kyiv",
    "url": "https://www.lemonde.fr/en/international/article/2026/08/08/ukraine-s-zelensky-visits-russian-ally-serbia-as-moscow-pounds-kyiv_6756275_5.html",
    "published": "2026-08-08T10:41:05+00:00",
-   "seen_by_model": true,
-   "selected": true
+   "seen_by_model": false,
+   "selected": false
   },
   {
    "id": "a44260e7f6",
@@ -2247,7 +2271,7 @@
    "title": "Spain imposes temporary border controls on Italy over Ceuta row",
    "url": "https://www.lemonde.fr/en/international/article/2026/08/08/spain-imposes-temporary-border-controls-on-italy-over-ceuta-row_6756263_5.html",
    "published": "2026-08-08T10:36:39+00:00",
-   "seen_by_model": true,
+   "seen_by_model": false,
    "selected": false
   },
   {
@@ -2296,7 +2320,7 @@
    "url": "https://www.dw.com/en/kosovo-pm-kurti-egged-in-parliament-amid-political-crisis/a-78291171?maca=en-rss-en-world-4025-rdf",
    "published": "2026-08-08T20:31:00+00:00",
    "seen_by_model": true,
-   "selected": false
+   "selected": true
   },
   {
    "id": "bf650e8771",
@@ -2307,6 +2331,18 @@
    "title": "War, terror, diplomacy: What if Israel takes Al-Aqsa Mosque?",
    "url": "https://www.dw.com/en/war-terror-diplomacy-what-if-israel-takes-al-aqsa-mosque/a-78284016?maca=en-rss-en-world-4025-rdf",
    "published": "2026-08-08T13:31:00+00:00",
+   "seen_by_model": true,
+   "selected": false
+  },
+  {
+   "id": "36dd18a7ab",
+   "source": "NPR World",
+   "section": "politica",
+   "continent": "america",
+   "lang": "en",
+   "title": "In Munich, it's never too early for a breakfast beer with sausage and pretzels",
+   "url": "https://www.npr.org/2026/08/09/nx-s1-5900954/in-munich-its-never-too-early-for-a-breakfast-beer-with-sausage-and-pretzels",
+   "published": "2026-08-09T12:48:36+00:00",
    "seen_by_model": true,
    "selected": false
   },
@@ -2356,7 +2392,7 @@
    "url": "https://www.npr.org/2026/08/08/nx-s1-5923592/tanker-sailors-still-face-danger-in-the-strait-of-hormuz",
    "published": "2026-08-08T21:19:54+00:00",
    "seen_by_model": true,
-   "selected": false
+   "selected": true
   },
   {
    "id": "25258b285f",
@@ -2368,7 +2404,7 @@
    "url": "https://www.npr.org/2026/08/08/nx-s1-5925887/ukraine-mourns-oleksiy-yukov",
    "published": "2026-08-08T17:46:05+00:00",
    "seen_by_model": true,
-   "selected": true
+   "selected": false
   },
   {
    "id": "e96c5fba7b",
@@ -2416,7 +2452,7 @@
    "url": "https://www.japantimes.co.jp/news/2026/08/09/asia-pacific/crime-legal/indonesia-tons-ketamine-bust/",
    "published": "2026-08-09T09:54:00+00:00",
    "seen_by_model": true,
-   "selected": false
+   "selected": true
   },
   {
    "id": "9836bb9fa2",
@@ -2443,13 +2479,13 @@
    "selected": false
   },
   {
-   "id": "cf99645502",
+   "id": "441519accc",
    "source": "Japan Times",
    "section": "politica",
    "continent": "asia",
    "lang": "en",
-   "title": "Typhoon Dolphin set to hit China’s east coast, triggering flood warnings",
-   "url": "https://www.japantimes.co.jp/news/2026/08/09/asia-pacific/typhoon-dolphin-china-flood-warnings/",
+   "title": "Typhoon Dolphin makes landfall in China after evacuations, flight cancellations",
+   "url": "https://www.japantimes.co.jp/news/2026/08/09/asia-pacific/typhoon-dolphin-china-landfall/",
    "published": "2026-08-09T09:01:00+00:00",
    "seen_by_model": true,
    "selected": true
@@ -2535,7 +2571,7 @@
    "title": "Takaichi doubles down on ambiguity over nonnuclear principles at Nagasaki ceremony",
    "url": "https://www.japantimes.co.jp/news/2026/08/09/japan/nagasaki-atomic-bombing-81st-anniversary/",
    "published": "2026-08-09T05:37:00+00:00",
-   "seen_by_model": true,
+   "seen_by_model": false,
    "selected": false
   },
   {
@@ -2695,6 +2731,18 @@
    "selected": false
   },
   {
+   "id": "e1aaa3f199",
+   "source": "Channel NewsAsia",
+   "section": "politica",
+   "continent": "asia",
+   "lang": "en",
+   "title": "Fernandez secures dominant British MotoGP victory",
+   "url": "https://www.channelnewsasia.com/sport/fernandez-secures-dominant-british-motogp-victory-6308441",
+   "published": "2026-08-09T12:56:25+00:00",
+   "seen_by_model": true,
+   "selected": false
+  },
+  {
    "id": "efc0c90698",
    "source": "Channel NewsAsia",
    "section": "politica",
@@ -2823,7 +2871,7 @@
    "title": "World number one Sabalenka suffers Toronto setback as Alexandrova advances",
    "url": "https://www.channelnewsasia.com/sport/world-number-one-sabalenka-suffers-toronto-setback-alexandrova-advances-6308186",
    "published": "2026-08-09T05:20:11+00:00",
-   "seen_by_model": true,
+   "seen_by_model": false,
    "selected": false
   },
   {
@@ -2835,7 +2883,7 @@
    "title": "Jaissle begins Newcastle rebuild with Valencia win, Elanga scare not serious",
    "url": "https://www.channelnewsasia.com/sport/jaissle-begins-newcastle-rebuild-valencia-win-elanga-scare-not-serious-6308166",
    "published": "2026-08-09T04:35:04+00:00",
-   "seen_by_model": true,
+   "seen_by_model": false,
    "selected": false
   },
   {
@@ -2919,18 +2967,6 @@
    "title": "Singapore designer Faezah Shaharuddin is taking Malay cultural references to the world through furniture",
    "url": "https://www.channelnewsasia.com/people/singapore-designer-faezah-shaharuddin-studio-kallang-furniture-6300731",
    "published": "2026-08-08T22:15:00+00:00",
-   "seen_by_model": false,
-   "selected": false
-  },
-  {
-   "id": "7b139e7991",
-   "source": "Channel NewsAsia",
-   "section": "politica",
-   "continent": "asia",
-   "lang": "en",
-   "title": "Chief Justice Sundaresh Menon, former CPA chairman Eddie Teo receive Singapore's highest civilian honour",
-   "url": "https://www.channelnewsasia.com/singapore/national-day-awards-sundaresh-menon-eddie-teo-order-temasek-6300406",
-   "published": "2026-08-08T22:01:00+00:00",
    "seen_by_model": false,
    "selected": false
   },
@@ -3112,7 +3148,7 @@
    "url": "https://www.scmp.com/news/asia/southeast-asia/article/3363453/myanmar-rebuffs-asean-call-free-aung-san-suu-kyi-questions-need-envoy?utm_source=rss_feed",
    "published": "2026-08-09T12:24:09+00:00",
    "seen_by_model": true,
-   "selected": true
+   "selected": false
   },
   {
    "id": "b8c4ad7ea6",
@@ -3144,7 +3180,7 @@
    "section": "politica",
    "continent": "asia",
    "lang": "en",
-   "title": "Hiker collapses, dies on Hong Kong trail as city swelters in record-breaking heat",
+   "title": "Hiker dies on Hong Kong trail as city swelters in record-breaking heat",
    "url": "https://www.scmp.com/news/hong-kong/society/article/3363446/hiker-collapses-dies-hong-kong-trail-city-swelters-record-breaking-heat?utm_source=rss_feed",
    "published": "2026-08-09T10:49:16+00:00",
    "seen_by_model": true,
@@ -3319,6 +3355,78 @@
    "selected": false
   },
   {
+   "id": "4ef4201f11",
+   "source": "Al Jazeera English",
+   "section": "politica",
+   "continent": "global",
+   "lang": "en",
+   "title": "Barzani says Iraqi Kurdistan wants peace as regional tensions rise",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/8/9/barzani-says-iraqi-kurdistan-wants-peace-as-regional-tensions-rise?traffic_source=rss",
+   "published": "2026-08-09T13:28:55+00:00",
+   "seen_by_model": true,
+   "selected": false
+  },
+  {
+   "id": "dba440f81d",
+   "source": "Al Jazeera English",
+   "section": "politica",
+   "continent": "global",
+   "lang": "en",
+   "title": "‘The wealthy poor’: Soaring food prices hurt Iranian families",
+   "url": "https://www.aljazeera.com/features/2026/8/9/the-wealthy-poor-soaring-food-prices-hurt-iranian-families?traffic_source=rss",
+   "published": "2026-08-09T13:23:05+00:00",
+   "seen_by_model": true,
+   "selected": false
+  },
+  {
+   "id": "4f2b03180b",
+   "source": "Al Jazeera English",
+   "section": "politica",
+   "continent": "global",
+   "lang": "en",
+   "title": "Netanyahu rejects Trump’s Board of Peace plan for Gaza",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/8/9/netanyahu-rejects-trumps-board-of-peace-plan-for-gaza?traffic_source=rss",
+   "published": "2026-08-09T13:15:54+00:00",
+   "seen_by_model": true,
+   "selected": false
+  },
+  {
+   "id": "a747cead2d",
+   "source": "Al Jazeera English",
+   "section": "politica",
+   "continent": "global",
+   "lang": "en",
+   "title": "Indonesia closes national park in East Java as wildfire expands",
+   "url": "https://www.aljazeera.com/news/2026/8/9/indonesia-closes-national-park-in-east-java-as-wildfire-expands?traffic_source=rss",
+   "published": "2026-08-09T13:13:46+00:00",
+   "seen_by_model": true,
+   "selected": false
+  },
+  {
+   "id": "3d704f6668",
+   "source": "Al Jazeera English",
+   "section": "politica",
+   "continent": "global",
+   "lang": "en",
+   "title": "Israel rejects Donald Trump’s Gaza Board of Peace plan",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/8/9/israel-rejects-donald-trumps-gaza-board-of-peace-plan?traffic_source=rss",
+   "published": "2026-08-09T12:51:34+00:00",
+   "seen_by_model": true,
+   "selected": false
+  },
+  {
+   "id": "047b9b8520",
+   "source": "Al Jazeera English",
+   "section": "politica",
+   "continent": "global",
+   "lang": "en",
+   "title": "La Liga: Five key talking points heading into the 2026-2027 season",
+   "url": "https://www.aljazeera.com/sports/2026/8/9/la-liga-five-key-talking-points-heading-into-the-2026-2027-season?traffic_source=rss",
+   "published": "2026-08-09T12:42:48+00:00",
+   "seen_by_model": true,
+   "selected": false
+  },
+  {
    "id": "d48439323c",
    "source": "Al Jazeera English",
    "section": "politica",
@@ -3376,7 +3484,7 @@
    "url": "https://www.aljazeera.com/news/2026/8/9/israel-rejects-trumps-15-point-plan-for-gaza?traffic_source=rss",
    "published": "2026-08-09T11:31:18+00:00",
    "seen_by_model": true,
-   "selected": true
+   "selected": false
   },
   {
    "id": "76e6b772d4",
@@ -3387,7 +3495,7 @@
    "title": "Russian forces kill several in Ukraine, launch ‘brutal’ attack in Odesa",
    "url": "https://www.aljazeera.com/news/2026/8/9/russian-forces-kill-several-in-ukraine-launch-brutal-attack-in-odesa?traffic_source=rss",
    "published": "2026-08-09T10:55:06+00:00",
-   "seen_by_model": true,
+   "seen_by_model": false,
    "selected": false
   },
   {
@@ -3399,7 +3507,7 @@
    "title": "Yemeni army warns Houthis after attacks heighten escalation risk",
    "url": "https://www.aljazeera.com/video/newsfeed/2026/8/9/yemeni-army-warns-houthis-after-attacks-heighten-escalation-risk?traffic_source=rss",
    "published": "2026-08-09T10:45:57+00:00",
-   "seen_by_model": true,
+   "seen_by_model": false,
    "selected": false
   },
   {
@@ -3411,7 +3519,7 @@
    "title": "Palestinians in occupied West Bank hold firm on Indigenous Peoples’ Day",
    "url": "https://www.aljazeera.com/news/2026/8/9/palestinians-in-the-west-bank-hold-firm-on-indigenous-peoples-day?traffic_source=rss",
    "published": "2026-08-09T10:35:00+00:00",
-   "seen_by_model": true,
+   "seen_by_model": false,
    "selected": false
   },
   {
@@ -3423,7 +3531,7 @@
    "title": "FIFA decries ‘concerted’ effort to undermine Infantino as crisis deepens",
    "url": "https://www.aljazeera.com/sports/2026/8/9/fifa-decries-concerted-effort-to-undermine-infantino-as-crisis-deepens?traffic_source=rss",
    "published": "2026-08-09T10:30:11+00:00",
-   "seen_by_model": true,
+   "seen_by_model": false,
    "selected": false
   },
   {
@@ -3435,7 +3543,7 @@
    "title": "Morocco, Algeria reach WAFCON semifinals and qualify for FIFA World Cup",
    "url": "https://www.aljazeera.com/sports/2026/8/9/morocco-algeria-reach-wafcon-semifinals-and-qualify-for-fifa-world-cup?traffic_source=rss",
    "published": "2026-08-09T10:15:10+00:00",
-   "seen_by_model": true,
+   "seen_by_model": false,
    "selected": false
   },
   {
@@ -3447,7 +3555,7 @@
    "title": "Why is Pezeshkian urging an end to Iran’s ‘no war, no peace’ status?",
    "url": "https://www.aljazeera.com/news/2026/8/9/why-is-pezeshkian-urging-an-end-to-irans-no-war-no-peace-status?traffic_source=rss",
    "published": "2026-08-09T10:02:59+00:00",
-   "seen_by_model": true,
+   "seen_by_model": false,
    "selected": false
   },
   {
@@ -3547,78 +3655,6 @@
    "selected": false
   },
   {
-   "id": "d310890d17",
-   "source": "Al Jazeera English",
-   "section": "politica",
-   "continent": "global",
-   "lang": "en",
-   "title": "Lionel Messi returns to Argentina after father Jorge’s death",
-   "url": "https://www.aljazeera.com/video/newsfeed/2026/8/9/08-09-2026-messi-arrives-argentina-clip?traffic_source=rss",
-   "published": "2026-08-09T05:18:37+00:00",
-   "seen_by_model": false,
-   "selected": false
-  },
-  {
-   "id": "ca5c55b98d",
-   "source": "Al Jazeera English",
-   "section": "politica",
-   "continent": "global",
-   "lang": "en",
-   "title": "Iran issues new demands as Pezeshkian seeks deal",
-   "url": "https://www.aljazeera.com/news/2026/8/9/iran-issues-new-demands-as-pezeshkian-seeks-deal?traffic_source=rss",
-   "published": "2026-08-09T05:06:02+00:00",
-   "seen_by_model": false,
-   "selected": false
-  },
-  {
-   "id": "63a491b7fe",
-   "source": "Al Jazeera English",
-   "section": "politica",
-   "continent": "global",
-   "lang": "en",
-   "title": "‘Very painful’: Joe Biden’s cancer has spread, son Hunter says",
-   "url": "https://www.aljazeera.com/video/newsfeed/2026/8/9/08-09-clip-biden-cancer-us?traffic_source=rss",
-   "published": "2026-08-09T05:01:54+00:00",
-   "seen_by_model": false,
-   "selected": false
-  },
-  {
-   "id": "2af58be66c",
-   "source": "Al Jazeera English",
-   "section": "politica",
-   "continent": "global",
-   "lang": "en",
-   "title": "Car bomb hits Colombia highway day after new president sworn in",
-   "url": "https://www.aljazeera.com/video/newsfeed/2026/8/9/08-09-2026-colombia-car-bomb-sv-mp4?traffic_source=rss",
-   "published": "2026-08-09T04:32:32+00:00",
-   "seen_by_model": false,
-   "selected": false
-  },
-  {
-   "id": "c4f1265ca5",
-   "source": "Al Jazeera English",
-   "section": "politica",
-   "continent": "global",
-   "lang": "en",
-   "title": "Iran seeks way out of ‘neither war nor peace’ stalemate with US",
-   "url": "https://www.aljazeera.com/video/newsfeed/2026/8/9/08-08-clip-pezeshkian-iran-ir?traffic_source=rss",
-   "published": "2026-08-09T04:12:39+00:00",
-   "seen_by_model": false,
-   "selected": false
-  },
-  {
-   "id": "37de70cd92",
-   "source": "Al Jazeera English",
-   "section": "politica",
-   "continent": "global",
-   "lang": "en",
-   "title": "Ghana’s cashew apples get a second life",
-   "url": "https://www.aljazeera.com/news/2026/8/9/ghanas-cashew-apples-get-a-second-life?traffic_source=rss",
-   "published": "2026-08-09T04:07:39+00:00",
-   "seen_by_model": false,
-   "selected": false
-  },
-  {
    "id": "a09b887db3",
    "source": "Ars Technica",
    "section": "tecnologia",
@@ -3653,6 +3689,18 @@
    "published": "2026-08-08T11:05:50+00:00",
    "seen_by_model": true,
    "selected": true
+  },
+  {
+   "id": "f77059dafd",
+   "source": "The Verge",
+   "section": "tecnologia",
+   "continent": "america",
+   "lang": "en",
+   "title": "Dropbox is a PC builder’s best friend",
+   "url": "https://www.theverge.com/tech/976092/pc-building-dropbox-backup",
+   "published": "2026-08-09T13:00:00+00:00",
+   "seen_by_model": true,
+   "selected": false
   },
   {
    "id": "7c16bfed4c",
@@ -3739,6 +3787,18 @@
    "selected": false
   },
   {
+   "id": "12c14b40d4",
+   "source": "TechCrunch",
+   "section": "tecnologia",
+   "continent": "america",
+   "lang": "en",
+   "title": "This former notorious red-light district is now one of the world’s top AI hubs",
+   "url": "https://techcrunch.com/2026/08/09/this-former-notorious-red-light-district-is-now-one-of-the-worlds-top-ai-hubs/",
+   "published": "2026-08-09T13:00:00+00:00",
+   "seen_by_model": true,
+   "selected": false
+  },
+  {
    "id": "2b6c433816",
    "source": "TechCrunch",
    "section": "tecnologia",
@@ -3760,7 +3820,7 @@
    "url": "https://techcrunch.com/2026/08/08/openai-acquires-presentation-startup-nextslide/",
    "published": "2026-08-08T19:41:13+00:00",
    "seen_by_model": true,
-   "selected": false
+   "selected": true
   },
   {
    "id": "43cda8333a",
@@ -3991,51 +4051,27 @@
    "selected": false
   },
   {
-   "id": "b6bb465fa5",
-   "source": "Wired",
+   "id": "9f430563cf",
+   "source": "Xataka",
    "section": "tecnologia",
-   "continent": "america",
-   "lang": "en",
-   "title": "Hairmax LaserBand 82 ComfortFlex Review: Putting Down New Roots",
-   "url": "https://www.wired.com/review/hairmax-laserband-82-comfortflex/",
-   "published": "2026-08-08T09:31:00+00:00",
-   "seen_by_model": false,
-   "selected": false
+   "continent": "europa",
+   "lang": "es",
+   "title": "Tras 27 años en el \"taller\", el barco de guerra más grande y armado del planeta está listo: solo falta saber qué planes tiene Rusia",
+   "url": "https://www.xataka.com/magnet/27-anos-taller-buque-guerra-grande-armado-planeta-esta-listo-solo-falta-saber-que-va-a-hacer-rusia",
+   "published": "2026-08-09T13:31:15+00:00",
+   "seen_by_model": true,
+   "selected": true
   },
   {
-   "id": "da63f5d322",
-   "source": "Wired",
+   "id": "e6bd1a635c",
+   "source": "Xataka",
    "section": "tecnologia",
-   "continent": "america",
-   "lang": "en",
-   "title": "Spokane Shows What the New Era of Wildfires Looks Like",
-   "url": "https://www.wired.com/story/spokane-shows-new-era-of-wildfires/",
-   "published": "2026-08-08T09:00:00+00:00",
-   "seen_by_model": false,
-   "selected": false
-  },
-  {
-   "id": "12c6549487",
-   "source": "Wired",
-   "section": "tecnologia",
-   "continent": "america",
-   "lang": "en",
-   "title": "WhatsApp Gets a Handy @all Feature for Group Chats",
-   "url": "https://www.wired.com/story/whatsapp-gets-a-handy-all-feature-for-group-chats/",
-   "published": "2026-08-08T09:00:00+00:00",
-   "seen_by_model": false,
-   "selected": false
-  },
-  {
-   "id": "668657284d",
-   "source": "Wired",
-   "section": "tecnologia",
-   "continent": "america",
-   "lang": "en",
-   "title": "Best Solar Generators for Off-Grid Trips, RVs, and Home Backup",
-   "url": "https://www.wired.com/story/best-solar-generators/",
-   "published": "2026-08-08T09:00:00+00:00",
-   "seen_by_model": false,
+   "continent": "europa",
+   "lang": "es",
+   "title": "Algo extraño y preocupante está pasando dentro de los ríos de todo el mundo: se están quedando sin arena",
+   "url": "https://www.xataka.com/ecologia-y-naturaleza/algo-extrano-preocupante-esta-pasando-dentro-rios-todo-mundo-se-estan-quedando-arena",
+   "published": "2026-08-09T13:01:15+00:00",
+   "seen_by_model": true,
    "selected": false
   },
   {
@@ -4155,8 +4191,8 @@
    "title": "2026 marca el inicio de la meteórica carrera de los robots humanoides: este gráfico lo ilustra a la perfección",
    "url": "https://www.xataka.com/robotica-e-ia/2026-ano-explosion-robotica-humanoide-este-grafico-expone-a-perfeccion",
    "published": "2026-08-09T08:01:15+00:00",
-   "seen_by_model": true,
-   "selected": true
+   "seen_by_model": false,
+   "selected": false
   },
   {
    "id": "92510a0f66",
@@ -4167,7 +4203,7 @@
    "title": "El fundador de Anthropic no quiere títulos para sus hijos. Prefiere que aprendan algo más valioso: creatividad y curiosidad",
    "url": "https://www.xataka.com/robotica-e-ia/fundador-anthropic-no-quiere-titulos-para-sus-hijos-prefiere-que-aprendan-algo-valioso-creatividad-curiosidad",
    "published": "2026-08-09T07:31:15+00:00",
-   "seen_by_model": true,
+   "seen_by_model": false,
    "selected": false
   },
   {
@@ -4315,30 +4351,6 @@
    "selected": false
   },
   {
-   "id": "f39ece886d",
-   "source": "Xataka",
-   "section": "tecnologia",
-   "continent": "europa",
-   "lang": "es",
-   "title": "Xiaomi Smart Band 10 Pro NFC, análisis: la reina de las pulseras al fin sirve para pagar, y eso lo cambia todo",
-   "url": "https://www.xataka.com/analisis/xiaomi-smart-band-10-pro-nfc-analisis-caracteristicas-precio-especificaciones",
-   "published": "2026-08-08T13:31:15+00:00",
-   "seen_by_model": false,
-   "selected": false
-  },
-  {
-   "id": "caba02c6ed",
-   "source": "Xataka",
-   "section": "tecnologia",
-   "continent": "europa",
-   "lang": "es",
-   "title": "Ni fibra ni carbono: una fábrica en Navarra será pionera en solucionar el gran fallo de la energía eólica",
-   "url": "https://www.xataka.com/energia/energia-eolica-tiene-problema-que-hacer-aspas-cuando-se-jubilan-navarra-tiene-solucion-palas-madera",
-   "published": "2026-08-08T13:01:15+00:00",
-   "seen_by_model": false,
-   "selected": false
-  },
-  {
    "id": "021e367708",
    "source": "科技新報 TechNews",
    "section": "tecnologia",
@@ -4348,7 +4360,7 @@
    "url": "https://technews.tw/2026/08/09/dark-photon-matter-axion-earth/",
    "published": "2026-08-09T08:54:38+00:00",
    "seen_by_model": true,
-   "selected": true
+   "selected": false
   },
   {
    "id": "697ebf6750",
