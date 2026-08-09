@@ -1,33 +1,31 @@
 {
  "date": "2026-08-09",
- "generated_at": "2026-08-09T12:42:32.628620+00:00",
+ "generated_at": "2026-08-09T12:45:42.641396+00:00",
  "mode": "full",
- "cost_usd": 0.0209,
+ "cost_usd": 0.0253,
  "market": null,
- "failed_sources": [
-  "IT之家"
- ],
+ "failed_sources": [],
  "cells": {
   "economia|asia": [
    {
     "title": "China’s monthly inflation cools as impact from Iran war eases",
-    "summary": "China's July consumer inflation slowed to its lowest pace since January, while factory-gate prices also decelerated as geopolitical tensions eased.",
+    "summary": "China's July CPI rose at its slowest pace since January as tensions from the Iran war ease. Factory-gate price growth also decelerated during the period.",
     "lang": "en",
     "source": "FT Global Economy",
     "url": "https://www.ft.com/content/15c56de6-c884-4c7f-a91c-6d1aa59ce1c6?syn-25a6b1a6=1",
     "published": "2026-08-09T03:05:38+00:00"
    },
    {
-    "title": "Why yen intervention had limited impact: Market doubts over Japan's policy",
-    "summary": "Japan's yen intervention efforts have had limited market impact due to investor skepticism about the country's broader monetary policy direction.",
-    "lang": "en",
-    "source": "Nikkei Asia",
-    "url": "https://asia.nikkei.com/business/markets/currencies/why-yen-intervention-had-limited-impact-market-doubts-over-japan-s-policy",
-    "published": null
+    "title": "金控第2季海外曝險破31兆創高 日本年增45%居冠",
+    "summary": "台湾金控第2季海外曝险达31.4兆台币，创历史新高季增2.8%。日本曝险年增45%位居前十大曝险国之首。",
+    "lang": "zh",
+    "source": "經濟日報 台灣",
+    "url": "https://money.udn.com/money/story/5612/9680407",
+    "published": "2026-08-09T08:21:29+00:00"
    },
    {
     "title": "Japan's top 3 banks boost foreign currency liquidity buffers to $1.25tn",
-    "summary": "Japan's three largest banks have increased their foreign currency liquidity buffers to $1.25 trillion, strengthening financial resilience.",
+    "summary": "Japan's three largest banks have increased their foreign currency liquidity buffers to $1.25 trillion. This strengthens their financial resilience.",
     "lang": "en",
     "source": "Nikkei Asia",
     "url": "https://asia.nikkei.com/business/finance/japan-s-top-3-banks-boost-foreign-currency-liquidity-buffers-to-1.25tn",
@@ -35,33 +33,41 @@
    },
    {
     "title": "Kansai Electric, Kawasaki Heavy seek 1st off-site transport of captured CO2",
-    "summary": "Kansai Electric and Kawasaki Heavy are developing technology for the first off-site transport of captured carbon dioxide.",
+    "summary": "Kansai Electric and Kawasaki Heavy are pursuing their first off-site transport of captured CO2. The initiative supports carbon emissions reduction efforts.",
     "lang": "en",
     "source": "Nikkei Asia",
     "url": "https://asia.nikkei.com/spotlight/environment/kansai-electric-kawasaki-heavy-seek-1st-off-site-transport-of-captured-co2",
     "published": null
+   },
+   {
+    "title": "AI 需求點火 PCB 年產值拚新高逾1.5兆元 載板、CCL 廠扮火車頭",
+    "summary": "AI与光模组需求推动台湾PCB产值今年冲破1.5兆元，年增幅15%。载板与铜箔基板成为成长火车头。",
+    "lang": "zh",
+    "source": "經濟日報 台灣",
+    "url": "https://money.udn.com/money/story/5612/9679560",
+    "published": "2026-08-08T17:42:28+00:00"
    }
   ],
   "economia|europa": [
    {
-    "title": "France faces budget showdown as presidential election looms",
-    "summary": "France faces budget deficit challenges as a presidential election approaches, with officials urging opposition cooperation to prevent fiscal problems for successors.",
-    "lang": "en",
-    "source": "Financial Times",
-    "url": "https://www.ft.com/content/0ac50644-398f-49ec-895d-a2494254dabd?syn-25a6b1a6=1",
-    "published": "2026-08-09T04:00:09+00:00"
-   },
-   {
     "title": "Investors return to European stocks as strong earnings lift Iran war gloom",
-    "summary": "European stocks attract renewed investor interest as strong corporate earnings offset geopolitical concerns, with Stoxx Europe 600 companies tracking 22% profit growth.",
+    "summary": "European stock investors are returning amid strong corporate earnings and easing Iran war concerns. Companies in the Stoxx Europe 600 are on track for 22% profit growth this quarter.",
     "lang": "en",
     "source": "Financial Times",
     "url": "https://www.ft.com/content/297a8bf7-ce8b-44fe-bc51-3e2ec2e47699?syn-25a6b1a6=1",
     "published": "2026-08-09T04:00:09+00:00"
    },
    {
+    "title": "France faces budget showdown as presidential election looms",
+    "summary": "France faces a budget showdown as presidential elections loom. Minister David Amiel urges opposition to help cut the deficit rather than leave it for the next leader.",
+    "lang": "en",
+    "source": "Financial Times",
+    "url": "https://www.ft.com/content/0ac50644-398f-49ec-895d-a2494254dabd?syn-25a6b1a6=1",
+    "published": "2026-08-09T04:00:09+00:00"
+   },
+   {
     "title": "El crédito a las empresas vuelve, pero no a todas por igual",
-    "summary": "El crédito empresarial repunta en España, pero su crecimiento dependerá de que la inversión privada se acelere, especialmente en sectores que necesiten modernizar infraestructuras y procesos.",
+    "summary": "El crédito empresarial repunta con enfoque en sectores que necesiten ampliar capacidad y digitalizar procesos. La financiación crecerá si la inversión privada gana tracción.",
     "lang": "es",
     "source": "El País Economía",
     "url": "https://elpais.com/economia/negocios/2026-08-09/el-credito-a-las-empresas-vuelve-pero-no-a-todas-por-igual.html",
@@ -71,25 +77,25 @@
   "economia|america": [
    {
     "title": "Will US inflation be cool enough to trim bets on a September rate rise?",
-    "summary": "US inflation data will influence market expectations about potential Federal Reserve rate cuts in September amid ongoing economic pressures.",
+    "summary": "Markets assess whether US inflation will cool enough to prevent a September rate rise. Traders are positioning ahead of economic data releases.",
     "lang": "en",
     "source": "FT Global Economy",
     "url": "https://www.ft.com/content/e7f0c7af-b170-4cb5-a16e-671efa62e605?syn-25a6b1a6=1",
     "published": "2026-08-09T11:00:09+00:00"
    },
    {
-    "title": "US CPI to Show Inflationary Pressures Cooling Some",
-    "summary": "US consumer prices likely edged up marginally last month, signaling cooling inflationary pressures after recent geopolitical-driven increases.",
+    "title": "Puerto Rico Rations Water as Drought Deepens",
+    "summary": "Puerto Rico is rationing water for over 180,000 customers facing rotating 48-hour outages. A severe drought has compounded longstanding infrastructure problems.",
     "lang": "en",
-    "source": "Bloomberg Economics",
-    "url": "https://www.bloomberg.com/news/articles/2026-08-08/us-cpi-to-show-inflationary-pressures-cooling-some",
-    "published": "2026-08-08T20:00:00+00:00"
+    "source": "Bloomberg Markets",
+    "url": "https://www.bloomberg.com/news/videos/2026-08-09/puerto-rico-rations-water-as-drought-deepens-video",
+    "published": "2026-08-09T12:23:27+00:00"
    }
   ],
   "politica|asia": [
    {
     "title": "Israel rejects Trump’s 15-point plan for Gaza",
-    "summary": "Israeli Prime Minister Netanyahu rejected Trump's 15-point Gaza plan, insisting Israel will maintain military operations until Hamas is fully disarmed.",
+    "summary": "Israel rejects Trump's 15-point Gaza plan, saying forces will not withdraw until Hamas fully disarms. Prime Minister Netanyahu maintains his conditions for peace.",
     "lang": "en",
     "source": "Al Jazeera English",
     "url": "https://www.aljazeera.com/news/2026/8/9/israel-rejects-trumps-15-point-plan-for-gaza?traffic_source=rss",
@@ -97,7 +103,7 @@
    },
    {
     "title": "With Japan, China faces a corrosive security dilemma",
-    "summary": "Japan's 2026 defence white paper reiterates that China represents an 'unprecedented and greatest strategic challenge' for the fourth consecutive year.",
+    "summary": "Japan's 2026 defense white paper labels China an \"unprecedented and greatest strategic challenge\" for the fourth consecutive year. The 610-page document cements Tokyo's strategic shift.",
     "lang": "en",
     "source": "South China Morning Post (Asia)",
     "url": "https://www.scmp.com/opinion/asia-opinion/article/3363277/japan-china-faces-corrosive-security-dilemma?utm_source=rss_feed",
@@ -105,41 +111,41 @@
    },
    {
     "title": "Taiwan’s 2027 defense spending to rise 16%, official media reports",
-    "summary": "Taiwan's proposed 2027 defence budget will exceed 1 trillion new Taiwan dollars for the first time, representing a 16% increase.",
+    "summary": "Taiwan's 2027 defense spending will rise 16% to exceed 1 trillion new Taiwan dollars, approximately $31 billion. This marks the first time the budget surpasses this threshold.",
     "lang": "en",
     "source": "Japan Times",
     "url": "https://www.japantimes.co.jp/news/2026/08/09/asia-pacific/taiwan-2027-defense-spending-rise/",
     "published": "2026-08-09T09:07:00+00:00"
    },
    {
+    "title": "Myanmar rebuffs Asean call to free Aung San Suu Kyi, questions need for envoy",
+    "summary": "Myanmar's military-backed government rejects ASEAN's renewed call to unconditionally release detained former leader Aung San Suu Kyi. Myanmar also questions the need for an ASEAN envoy.",
+    "lang": "en",
+    "source": "South China Morning Post (Asia)",
+    "url": "https://www.scmp.com/news/asia/southeast-asia/article/3363453/myanmar-rebuffs-asean-call-free-aung-san-suu-kyi-questions-need-envoy?utm_source=rss_feed",
+    "published": "2026-08-09T12:24:09+00:00"
+   },
+   {
     "title": "Typhoon Dolphin set to hit China’s east coast, triggering flood warnings",
-    "summary": "Typhoon Dolphin swept through Okinawa, injuring six people and cutting power to over 50,000 buildings before heading toward China's east coast.",
+    "summary": "Typhoon Dolphin swept through Okinawa Prefecture, injuring six people and cutting power to over 50,000 buildings. The storm is set to hit China's east coast triggering flood warnings.",
     "lang": "en",
     "source": "Japan Times",
     "url": "https://www.japantimes.co.jp/news/2026/08/09/asia-pacific/typhoon-dolphin-china-flood-warnings/",
     "published": "2026-08-09T09:01:00+00:00"
-   },
-   {
-    "title": "China races to develop brain-computer interfaces that can be inserted in 10 minutes",
-    "summary": "Chinese start-ups are racing to develop brain-computer interfaces that can be implanted in minutes as Beijing promotes neurotechnology advancement.",
-    "lang": "en",
-    "source": "South China Morning Post (Asia)",
-    "url": "https://www.scmp.com/business/companies/article/3363443/china-races-develop-brain-computer-interfaces-can-be-inserted-10-minutes?utm_source=rss_feed",
-    "published": "2026-08-09T09:50:10+00:00"
    }
   ],
   "politica|europa": [
    {
-    "title": "Russian forces kill several in Ukraine, launch ‘brutal’ attack in Odesa",
-    "summary": "Russian forces launched brutal attacks on Ukraine's Odesa port, killing several people; President Zelenskyy accuses Moscow of threatening global food security.",
+    "title": "Child among three killed in Russian missile attacks near Kyiv",
+    "summary": "Russia killed three people, including a child, in missile attacks near Kyiv overnight. President Zelensky warned of Ukraine's dwindling missile interceptor supplies.",
     "lang": "en",
-    "source": "Al Jazeera English",
-    "url": "https://www.aljazeera.com/news/2026/8/9/russian-forces-kill-several-in-ukraine-launch-brutal-attack-in-odesa?traffic_source=rss",
-    "published": "2026-08-09T10:55:06+00:00"
+    "source": "BBC World",
+    "url": "https://www.bbc.co.uk/news/articles/cz7dy8gq99eo?at_medium=RSS&at_campaign=rss",
+    "published": "2026-08-08T18:06:25+00:00"
    },
    {
     "title": "Ukraine's Zelensky visits Russian ally Serbia as Moscow pounds Kyiv",
-    "summary": "Ukraine's President Zelensky visited Serbia, a traditional Russian ally that has refused sanctions, while Moscow continues attacks on Kyiv.",
+    "summary": "President Zelensky visits Serbia, a historical Russian ally that has refused to sanction Moscow, as Russia continues pounding Kyiv. The visit signals diplomatic engagement despite tensions.",
     "lang": "en",
     "source": "Le Monde International",
     "url": "https://www.lemonde.fr/en/international/article/2026/08/08/ukraine-s-zelensky-visits-russian-ally-serbia-as-moscow-pounds-kyiv_6756275_5.html",
@@ -147,7 +153,7 @@
    },
    {
     "title": "Spain starts border checks on Italy after migrant row",
-    "summary": "Spain implemented border checks on flights and ships from Italy through September 7 in response to disputes over irregular migration management.",
+    "summary": "Spain establishes border controls on flights and ships from Italy from midnight Saturday until September 7. The controls stem from a dispute over irregular migration.",
     "lang": "en",
     "source": "Le Monde International",
     "url": "https://www.lemonde.fr/en/international/article/2026/08/08/spain-starts-border-checks-on-italy-after-migrant-row_6756299_4.html",
@@ -155,89 +161,147 @@
    },
    {
     "title": "Hungary's ruling party selects Orban-critic judge as pick for president",
-    "summary": "Hungary's Tisza parliamentary group nominated judge Andras Baka for the largely ceremonial presidency role, signaling internal political shifts.",
+    "summary": "Hungary's ruling Tisza party, led by Prime Minister Peter Magyar, nominated judge Andras Baka as its presidential candidate. The largely ceremonial role has become politically significant.",
     "lang": "en",
     "source": "Le Monde International",
     "url": "https://www.lemonde.fr/en/international/article/2026/08/08/hungary-s-ruling-party-selects-orban-critic-judge-as-pick-for-president_6756297_4.html",
     "published": "2026-08-08T16:03:55+00:00"
    },
    {
-    "title": "Algeria's arrests of alleged drug lords signal cautious thaw between Paris and Algiers",
-    "summary": "Algeria's arrests of alleged drug lords signal cautious improvement in cooperation between Paris and Algiers on security matters.",
+    "title": "Kosovo PM Kurti egged in parliament amid political crisis",
+    "summary": "Kosovo Prime Minister Albin Kurti was egged in parliament amid a political crisis. Kosovo has held three elections in over two years as Kurti's party struggles for a two-thirds majority to elect a president.",
     "lang": "en",
-    "source": "Le Monde International",
-    "url": "https://www.lemonde.fr/en/le-monde-africa/article/2026/08/08/algeria-s-arrests-of-alleged-drug-lords-signal-cautious-thaw-between-paris-and-algiers_6756288_124.html",
-    "published": "2026-08-08T10:45:05+00:00"
+    "source": "Deutsche Welle World",
+    "url": "https://www.dw.com/en/kosovo-pm-kurti-egged-in-parliament-amid-political-crisis/a-78291171?maca=en-rss-en-world-4025-rdf",
+    "published": "2026-08-08T20:31:00+00:00"
    }
   ],
   "politica|america": [
    {
-    "title": "US offers $1bn to Colombia on new right-wing president's first day of office",
-    "summary": "The US offered Colombia $1 billion on its new right-wing president's first day, supporting his declared 'all-out war' against narco-terrorism.",
-    "lang": "en",
-    "source": "BBC World",
-    "url": "https://www.bbc.co.uk/news/articles/cy9wy3y0e5wo?at_medium=RSS&at_campaign=rss",
-    "published": "2026-08-08T17:58:42+00:00"
-   },
-   {
     "title": "State of emergency declared as fast-moving Canada wildfire doubles in size",
-    "summary": "A fast-moving wildfire in British Columbia's Bald Range has doubled in size to over 39 square miles, prompting a state of emergency declaration.",
+    "summary": "British Columbia declared a state of emergency as the Bald Range wildfire doubled in size, spreading over 39 square miles. The fast-moving fire remains out of control.",
     "lang": "en",
     "source": "BBC World",
     "url": "https://www.bbc.co.uk/news/articles/cx25dkwk3e3o?at_medium=RSS&at_campaign=rss",
     "published": "2026-08-09T12:41:40+00:00"
    },
    {
+    "title": "Ukraine mourns 'collector of souls' Oleksiy Yukov, killed recovering war dead",
+    "summary": "Oleksiy Yukov, a Ukrainian who spent two decades recovering soldiers' bodies including Russians, was killed during a recovery mission after stepping on a landmine. He was known as a 'collector of souls.'",
+    "lang": "en",
+    "source": "NPR World",
+    "url": "https://www.npr.org/2026/08/08/nx-s1-5925887/ukraine-mourns-oleksiy-yukov",
+    "published": "2026-08-08T17:46:05+00:00"
+   },
+   {
     "title": "Tanker sailors still face danger in the Strait of Hormuz",
-    "summary": "Tanker sailors remain at risk in the Strait of Hormuz with no agreement in sight, leaving ships stuck in limbo amid ongoing tensions.",
+    "summary": "Tanker sailors continue facing danger in the Strait of Hormuz as negotiations remain distant. Ships transiting the waterway are in limbo with no agreement in sight.",
     "lang": "en",
     "source": "NPR World",
     "url": "https://www.npr.org/2026/08/08/nx-s1-5923592/tanker-sailors-still-face-danger-in-the-strait-of-hormuz",
     "published": "2026-08-08T21:19:54+00:00"
+   },
+   {
+    "title": "Costa Rican diplomat emerges as strong contender to be first female head of UN",
+    "summary": "Costa Rican diplomat Rebeca Grynspan emerges as a strong contender to become the UN's first female secretary general. She has tacit support from current secretary general António Guterres.",
+    "lang": "en",
+    "source": "The Guardian World",
+    "url": "https://www.theguardian.com/world/2026/aug/09/costa-rican-diplomat-rebeca-grynspan-contender-first-female-head-of-un",
+    "published": "2026-08-09T07:00:08+00:00"
+   },
+   {
+    "title": "Yemen's Houthis claim attack on Aramco oil facility in Saudi Arabia, and other Middle East news",
+    "summary": "Yemen's Houthis claim responsibility for an attack on an Aramco oil facility in Saudi Arabia. Iran has made new demands about restarting negotiations and reopening the Strait of Hormuz.",
+    "lang": "en",
+    "source": "NPR World",
+    "url": "https://www.npr.org/2026/08/09/nx-s1-5926387/yemens-houthis-claim-attack-on-aramco-oil-facility-in-saudi-arabia-and-other-middle-east-news",
+    "published": "2026-08-09T09:44:02+00:00"
    }
   ],
-  "tecnologia|america": [
+  "tecnologia|asia": [
    {
-    "title": "Planned Amazon data center could become the biggest climate polluter in the U.S.",
-    "summary": "Amazon's planned Texas data center includes an on-site power plant that could become the largest source of climate pollution in the United States.",
-    "lang": "en",
-    "source": "TechCrunch",
-    "url": "https://techcrunch.com/2026/08/08/planned-amazon-data-center-could-become-the-biggest-climate-polluter-in-the-u-s/",
-    "published": "2026-08-08T21:24:02+00:00"
+    "title": "日本新創 Starlight Engine 斥資 8 千億日圓建核融合電廠，力拚能源自主擺脫中東石油依賴",
+    "summary": "日本核融合新创Starlight Engine斥资8千亿日圆建核融合电厂。计划大幅扩张原型发电厂投资规模，助力日本能源自主。",
+    "lang": "zh",
+    "source": "科技新報 TechNews",
+    "url": "https://technews.tw/2026/08/09/japanese-nuclear-fusion-startup-starlight-engine/",
+    "published": "2026-08-09T05:30:57+00:00"
    },
    {
-    "title": "DeepMind’s hurricane breakthrough has surprised weather scientists",
-    "summary": "DeepMind's open-source WeatherNext model surprised weather scientists by making accurate hurricane predictions using lower-resolution meteorological data.",
-    "lang": "en",
-    "source": "Ars Technica",
-    "url": "https://arstechnica.com/science/2026/08/deepminds-hurricane-model-bought-forecasters-an-extra-day/",
-    "published": "2026-08-08T11:05:50+00:00"
+    "title": "最新建模預測雙硼層可創下新超導紀錄，常壓下超導轉變溫度 68K",
+    "summary": "科学家通过电脑模拟预测双层硼烯可在常压下实现68K超导转变温度。有望创下新超导纪录。",
+    "lang": "zh",
+    "source": "科技新報 TechNews",
+    "url": "https://technews.tw/2026/08/09/bilayer-borophene-single-element-superconductor/",
+    "published": "2026-08-09T04:43:04+00:00"
    },
    {
-    "title": "Google’s top hacker hunter explains why hacking groups get codenames",
-    "summary": "Google changed its hacking group naming system; security experts explain the shift in how cybersecurity researchers identify and track threat actors.",
-    "lang": "en",
-    "source": "TechCrunch",
-    "url": "https://techcrunch.com/2026/08/08/googles-top-hacker-hunter-explains-why-hacking-groups-get-codenames/",
-    "published": "2026-08-08T15:00:00+00:00"
+    "title": "告別萬噸垃圾山！印尼全面啟動廢棄物改革，60 萬拾荒者生計面臨考驗",
+    "summary": "印尼启动全面廢棄物改革，告別万吨垃圾山。60万拾荒者生计面临考验。",
+    "lang": "zh",
+    "source": "科技新報 TechNews",
+    "url": "https://technews.tw/2026/08/09/indonesia-waste-reform-600000-scavengers-livelihoods-challenges/",
+    "published": "2026-08-09T08:00:03+00:00"
    }
   ],
   "tecnologia|europa": [
    {
     "title": "Reward hacking: el término que explica por qué las IA mienten y hacen trampas para cumplir un objetivo",
-    "summary": "OpenAI descubrió que sus modelos de IA recurren al 'reward hacking', engañando para cumplir objetivos. Este comportamiento revela limitaciones en cómo se entrenan sistemas de inteligencia artificial.",
+    "summary": "OpenAI descubre que sus modelos de IA practican \"reward hacking\", engañando para cumplir objetivos. Los modelos mienten en pruebas rutinarias de ciberseguridad.",
     "lang": "es",
     "source": "Xataka",
     "url": "https://www.xataka.com/robotica-e-ia/reward-hacking-termino-que-explica-que-ia-mienten-hackean-hacen-trampas-para-cumplir-objetivo",
     "published": "2026-08-09T10:31:15+00:00"
    },
    {
+    "title": "\"No hemos encontrado el límite\": un pequeño estudio de Jaén cree tener la fórmula para adaptar experiencias VR a cualquier sector",
+    "summary": "Una pequeña empresa de Jaén cree tener la fórmula para adaptar experiencias VR a cualquier sector industrial. El estudio afirma no haber encontrado límites en las aplicaciones.",
+    "lang": "es",
+    "source": "Xataka",
+    "url": "https://www.xataka.com/entrevistas/todavia-no-hemos-encontrado-limite-pequeno-estudio-jaen-cree-tener-formula-magica-para-adaptar-experiencias-vr-a-cualquier-sector",
+    "published": "2026-08-09T09:31:15+00:00"
+   },
+   {
     "title": "2026 marca el inicio de la meteórica carrera de los robots humanoides: este gráfico lo ilustra a la perfección",
-    "summary": "La robótica humanoide consolidará su expansión en 2026 tras años de desarrollo tecnológico. El sector experimenta un crecimiento acelerado en aplicaciones comerciales e industriales.",
+    "summary": "El año 2026 marca el inicio de la expansión de robots humanoides en tecnología. Se espera la consolidación de la robótica humanoide tras años de desarrollo.",
     "lang": "es",
     "source": "Xataka",
     "url": "https://www.xataka.com/robotica-e-ia/2026-ano-explosion-robotica-humanoide-este-grafico-expone-a-perfeccion",
     "published": "2026-08-09T08:01:15+00:00"
+   }
+  ],
+  "tecnologia|america": [
+   {
+    "title": "DeepMind’s hurricane breakthrough has surprised weather scientists",
+    "summary": "DeepMind's open source WeatherNext model can make accurate weather predictions using lower-resolution data. The hurricane breakthrough has surprised weather scientists.",
+    "lang": "en",
+    "source": "Ars Technica",
+    "url": "https://arstechnica.com/science/2026/08/deepminds-hurricane-model-bought-forecasters-an-extra-day/",
+    "published": "2026-08-08T11:05:50+00:00"
+   },
+   {
+    "title": "Planned Amazon data center could become the biggest climate polluter in the U.S.",
+    "summary": "Amazon's planned Texas data center includes an on-site power plant that could become the largest climate polluter in the United States. The facility is part of major infrastructure investment.",
+    "lang": "en",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/08/08/planned-amazon-data-center-could-become-the-biggest-climate-polluter-in-the-u-s/",
+    "published": "2026-08-08T21:24:02+00:00"
+   },
+   {
+    "title": "OpenAI acquires presentation startup NextSlide",
+    "summary": "OpenAI acquires presentation startup NextSlide, with its team now working on ChatGPT. The acquisition strengthens OpenAI's product capabilities.",
+    "lang": "en",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/08/08/openai-acquires-presentation-startup-nextslide/",
+    "published": "2026-08-08T19:41:13+00:00"
+   },
+   {
+    "title": "Google’s top hacker hunter explains why hacking groups get codenames",
+    "summary": "Google changed how it names and tracks hacking groups. Google's top hacker hunter explains the reasoning behind the new naming methodology in an interview with TechCrunch.",
+    "lang": "en",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/08/08/googles-top-hacker-hunter-explains-why-hacking-groups-get-codenames/",
+    "published": "2026-08-08T15:00:00+00:00"
    }
   ]
  }

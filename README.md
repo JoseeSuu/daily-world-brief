@@ -80,13 +80,22 @@ feed, así que conviene acertar. Para validar que un feed funciona:
 python scripts/collect.py --check
 ```
 
-Fuentes en chino incluidas: **FT中文网**, **BBC中文**, **纽约时报中文网** e
-**IT之家**.
+Fuentes en chino: **FT中文网** y **經濟日報 台灣** (economía), **BBC中文**,
+**德國之聲中文**, **中央社 CNA** y **纽约时报中文网** (política), **科技新報
+TechNews** e **iThome 台灣** (tecnología).
+
+> **Cuidado con los medios de China continental**: IT之家 se retiró aunque su
+> feed funciona desde un ordenador normal — rechaza las IPs de GitHub Actions
+> (`ConnectionError`), así que fallaba cada día en producción y dejaba la celda
+> tecnología/Asia vacía. Por eso las fuentes en chino son de Taiwán, Hong Kong o
+> internacionales. Si añades un medio chino, comprueba que funciona **desde el
+> workflow**, no solo en local.
 
 Fuentes descartadas en la verificación (2026-08-09) por no tener RSS público
 operativo: Caixin Global, FMI, AP News, NHK World (inglés), blog de Anthropic,
-Banco Mundial, BIS, OCDE, 36Kr, Sina Tech y Zaobao. En su lugar se usan
-Nikkei/SCMP (Asia), NPR/Japan Times/CNA y Google AI Blog.
+Banco Mundial, BIS, OCDE, 36Kr, Sina Tech, 聯合早報, 香港01, 數位時代 y
+PingWest. En su lugar se usan Nikkei/SCMP (Asia), NPR/Japan Times/CNA y
+Google AI Blog.
 
 ## Cambiar el horario
 
