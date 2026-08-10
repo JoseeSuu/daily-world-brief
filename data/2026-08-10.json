@@ -1,0 +1,300 @@
+{
+ "date": "2026-08-10",
+ "generated_at": "2026-08-10T06:51:24.234971+00:00",
+ "mode": "full",
+ "cost_usd": 0.024,
+ "market": null,
+ "failed_sources": [],
+ "cells": {
+  "economia|asia": [
+   {
+    "title": "Indonesia Nominates Destry as Central Bank Chief to Calm Markets",
+    "summary": "Indonesia nominates Acting Governor Destry Damayanti as sole candidate to head Bank Indonesia, aiming to stabilize financial markets.",
+    "lang": "en",
+    "source": "Bloomberg Markets",
+    "url": "https://www.bloomberg.com/news/articles/2026-08-10/destry-damayanti-sole-bank-indonesia-chief-nominee-markets-prabowo-subianto",
+    "published": "2026-08-10T05:57:39+00:00"
+   },
+   {
+    "title": "India's rare earth magnet push dogged by China competition concerns",
+    "summary": "India's push to develop rare earth magnets faces competition challenges from China's established dominance in the sector.",
+    "lang": "en",
+    "source": "Nikkei Asia",
+    "url": "https://asia.nikkei.com/business/materials/india-s-rare-earth-magnet-push-dogged-by-china-competition-concerns",
+    "published": null
+   },
+   {
+    "title": "Sony, TSMC to invest $6.3bn in advanced image sensor plant in Kumamoto",
+    "summary": "Sony and TSMC will invest $6.3 billion in an advanced image sensor manufacturing plant in Kumamoto, Japan.",
+    "lang": "en",
+    "source": "Nikkei Asia",
+    "url": "https://asia.nikkei.com/business/tech/semiconductors/sony-tsmc-to-invest-6.3bn-in-advanced-image-sensor-plant-in-kumamoto",
+    "published": null
+   },
+   {
+    "title": "China's 'national team' battles AI stock rollercoaster",
+    "summary": "China's state-backed AI companies navigate volatile stock markets amid rapid industry growth and regulatory scrutiny.",
+    "lang": "en",
+    "source": "Nikkei Asia",
+    "url": "https://asia.nikkei.com/business/markets/trading-asia/china-s-national-team-battles-ai-stock-rollercoaster",
+    "published": null
+   },
+   {
+    "title": "Iran replaces top security official at crucial moment in talks over Strait of Hormuz",
+    "summary": "Iran appoints Mohsen Rezaei as head of Supreme National Security Council during critical Strait of Hormuz negotiations.",
+    "lang": "en",
+    "source": "Financial Times",
+    "url": "https://www.ft.com/content/ce343513-5514-4519-95c8-19832ed46d16?syn-25a6b1a6=1",
+    "published": "2026-08-09T22:23:21+00:00"
+   }
+  ],
+  "economia|europa": [
+   {
+    "title": "Euro Zone Set for Firmer Growth After Bumper Second Quarter",
+    "summary": "Euro zone economic growth expected to accelerate after showing resilience in second quarter despite geopolitical tensions.",
+    "lang": "en",
+    "source": "Bloomberg Economics",
+    "url": "https://www.bloomberg.com/news/articles/2026-08-10/euro-zone-set-for-firmer-growth-after-bumper-second-quarter",
+    "published": "2026-08-10T04:15:00+00:00"
+   },
+   {
+    "title": "SNB Rate Forecasts Now Anticipate Hike in Mid-2027 at Earliest",
+    "summary": "Swiss National Bank forecasters delay interest-rate increase predictions to mid-2027 at earliest, pushing back monetary policy tightening.",
+    "lang": "en",
+    "source": "Bloomberg Economics",
+    "url": "https://www.bloomberg.com/news/articles/2026-08-10/snb-rate-forecasts-now-anctipate-hike-in-mid-2027-at-earliest",
+    "published": "2026-08-10T04:30:00+00:00"
+   },
+   {
+    "title": "Europe faces rocket launcher shortage by 2030, space agency chief warns",
+    "summary": "Europe faces rocket launcher shortage by 2030 as launch demand grows faster than regional capabilities, warns space agency chief.",
+    "lang": "en",
+    "source": "Financial Times",
+    "url": "https://www.ft.com/content/b3a4fbe1-1d0a-47a0-8a6a-148f2a482678?syn-25a6b1a6=1",
+    "published": "2026-08-10T04:00:15+00:00"
+   },
+   {
+    "title": "German economy minister warns AfD’s rise could deter investors",
+    "summary": "German economy minister warns AfD's rise threatens investor confidence as Berlin seeks €3.75 trillion in private capital by 2040.",
+    "lang": "en",
+    "source": "Financial Times",
+    "url": "https://www.ft.com/content/581a7c18-5deb-4cd4-b014-f4d275ba73d2?syn-25a6b1a6=1",
+    "published": "2026-08-10T04:00:24+00:00"
+   }
+  ],
+  "economia|america": [
+   {
+    "title": "Will US inflation be cool enough to trim bets on a September rate rise?",
+    "summary": "US inflation data will determine whether markets maintain expectations for a September Federal Reserve rate increase.",
+    "lang": "en",
+    "source": "FT Global Economy",
+    "url": "https://www.ft.com/content/e7f0c7af-b170-4cb5-a16e-671efa62e605?syn-25a6b1a6=1",
+    "published": "2026-08-09T11:00:09+00:00"
+   },
+   {
+    "title": "Westpac Economist: Fed Likely to Hold After Jobs Report",
+    "summary": "Westpac economist argues the Federal Reserve is unlikely to rapidly raise interest rates following recent weak jobs report data.",
+    "lang": "en",
+    "source": "Bloomberg Economics",
+    "url": "https://www.bloomberg.com/news/videos/2026-08-10/westpac-economist-fed-likely-to-hold-after-jobs-report-video",
+    "published": "2026-08-10T00:45:40+00:00"
+   },
+   {
+    "title": "Philippine Central Bank Keeps Rate Hike on Table Despite Weak GDP Growth",
+    "summary": "Philippine central bank maintains option for further rate hikes to control inflation despite weak GDP growth performance.",
+    "lang": "en",
+    "source": "Bloomberg Markets",
+    "url": "https://www.bloomberg.com/news/articles/2026-08-10/philippine-central-bank-keeps-rate-hike-on-table-despite-weak-gdp-growth",
+    "published": "2026-08-10T05:54:24+00:00"
+   }
+  ],
+  "politica|asia": [
+   {
+    "title": "想要開放霍爾木茲海峽 伊朗向特朗普提出的六個條件",
+    "summary": "伊朗向美国提出开放霍尔木兹海峡的多项条件，伊朗和阿曼表示谈判进展积极。",
+    "lang": "zh",
+    "source": "BBC中文",
+    "url": "https://www.bbc.com/zhongwen/articles/cdrv28lg4y3o/trad?at_medium=RSS&at_campaign=rss",
+    "published": "2026-08-10T06:37:01+00:00"
+   },
+   {
+    "title": "媒体：台湾2027国防预算或逾GDP3%，首度破1兆新台币",
+    "summary": "台湾2027年国防预算拟增长16%至1万亿新台币，首次突破纪录以加强军备实力。",
+    "lang": "zh",
+    "source": "德國之聲中文",
+    "url": "https://www.dw.com/zh/媒体：台湾2027国防预算或逾gdp3-，首度破1兆新台币/a-78296560?maca=chi-rss-chi-all-1127-rdf",
+    "published": "2026-08-09T13:59:00+00:00"
+   },
+   {
+    "title": "墨西哥小鎮一日驚見10具遺體 毒品暴力死灰復燃",
+    "summary": "墨西哥萨卡特卡斯州小镇上月发现十具遗体，毒品暴力问题再度激化。",
+    "lang": "zh",
+    "source": "中央社 CNA",
+    "url": "https://www.cna.com.tw/news/aopl/202608100116.aspx",
+    "published": "2026-08-10T05:49:12+00:00"
+   },
+   {
+    "title": "40% of flights grounded in Shanghai as long-lived Typhoon Dolphin moves north",
+    "summary": "Typhoon Dolphin forces cancellation of nearly 40 percent of flights in Shanghai as heavy rain batters eastern China.",
+    "lang": "en",
+    "source": "South China Morning Post (China)",
+    "url": "https://www.scmp.com/news/china/politics/article/3363486/40-flights-grounded-shanghai-long-lived-typhoon-dolphin-moves-north?utm_source=rss_feed",
+    "published": "2026-08-10T04:29:59+00:00"
+   },
+   {
+    "title": "韓總統李在明支持率創新低 連4週下跌因政策爭議",
+    "summary": "韩国总统李在明支持率连续四周下跌至新低，因一系列政府政策争议引发。",
+    "lang": "zh",
+    "source": "中央社 CNA",
+    "url": "https://www.cna.com.tw/news/aopl/202608100114.aspx",
+    "published": "2026-08-10T05:43:07+00:00"
+   }
+  ],
+  "politica|europa": [
+   {
+    "title": "Suspected crime boss Daniel Kinahan appears in court after extradition",
+    "summary": "Suspected crime boss Daniel Kinahan appears in court after extradition from Dubai, transported in bulletproof Irish prison van.",
+    "lang": "en",
+    "source": "BBC World",
+    "url": "https://www.bbc.co.uk/news/articles/c62qd5plzp6o?at_medium=RSS&at_campaign=rss",
+    "published": "2026-08-09T20:58:18+00:00"
+   },
+   {
+    "title": "Drones spotted over German base days after Leipzig bomb incident",
+    "summary": "Police investigate drone sightings over German military base days after Leipzig bombing incident involving Patriot missile system storage.",
+    "lang": "en",
+    "source": "BBC World",
+    "url": "https://www.bbc.co.uk/news/articles/cwyeg1ljp2eo?at_medium=RSS&at_campaign=rss",
+    "published": "2026-08-09T16:18:10+00:00"
+   },
+   {
+    "title": "Syria says deal with Moscow reached on fate of Russian bases",
+    "summary": "Syria and Russia agree to convert Hmeimim airbase and Tartous naval base into joint training and capacity-building centers.",
+    "lang": "en",
+    "source": "Le Monde International",
+    "url": "https://www.lemonde.fr/en/international/article/2026/08/09/syria-says-deal-with-moscow-reached-on-fate-of-russian-bases_6756317_4.html",
+    "published": "2026-08-09T13:39:56+00:00"
+   },
+   {
+    "title": "Bombing attacks mark first day of Colombia's new right-wing government",
+    "summary": "Colombia's new right-wing President Abelardo de la Espriella faces bombing attacks on his first day in office, killing police officer.",
+    "lang": "en",
+    "source": "Le Monde International",
+    "url": "https://www.lemonde.fr/en/international/article/2026/08/09/bombing-attacks-mark-first-day-of-colombia-s-new-right-wing-government_6756307_4.html",
+    "published": "2026-08-09T03:28:43+00:00"
+   }
+  ],
+  "politica|america": [
+   {
+    "title": "Canadian government steps in as ‘out of control’ wildfires force thousands to flee",
+    "summary": "Canadian federal government deploys resources as British Columbia battles 102 uncontrolled wildfires forcing thousands to evacuate.",
+    "lang": "en",
+    "source": "The Guardian World",
+    "url": "https://www.theguardian.com/world/2026/aug/09/canada-british-columbia-government-wildfires",
+    "published": "2026-08-09T18:20:25+00:00"
+   },
+   {
+    "title": "Trump estrecha el control sobre la justicia en Estados Unidos",
+    "summary": "Trump designa a su exabogado Todd Blanche como fiscal general para impulsar casos contra sus enemigos políticos y defenderlo de ataques legales.",
+    "lang": "es",
+    "source": "El País Internacional",
+    "url": "https://elpais.com/internacional/2026-08-10/trump-estrecha-el-control-sobre-la-justicia-en-estados-unidos.html",
+    "published": "2026-08-10T03:30:01+00:00"
+   },
+   {
+    "title": "Wildfires bear down on homes in Canada’s Okanagan region",
+    "summary": "Fast-moving wildfire in British Columbia's Okanagan region forces thousands of people to flee their homes.",
+    "lang": "en",
+    "source": "Al Jazeera English",
+    "url": "https://www.aljazeera.com/video/newsfeed/2026/8/10/wildfires-bear-down-on-homes-in-canadas-okanagan-region?traffic_source=rss",
+    "published": "2026-08-10T04:49:42+00:00"
+   }
+  ],
+  "tecnologia|asia": [
+   {
+    "title": "Anthropic讓AI監督AI，Claude Code自動模式8月14日成為預設",
+    "summary": "Anthropic自8月14日起将Claude Code自动模式设为新工作阶段的预设权限，减少人工干预。",
+    "lang": "zh",
+    "source": "iThome 台灣",
+    "url": "https://www.ithome.com.tw/news/177994",
+    "published": "2026-08-10T12:08:21+00:00"
+   },
+   {
+    "title": "Linux核心SCTPhantom漏洞隱身18年，可取得最高權限並突破容器隔離",
+    "summary": "Linux核心SCTPhantom漏洞隐身18年被曝光，低权限程序可取得最高权限并突破容器隔离。",
+    "lang": "zh",
+    "source": "iThome 台灣",
+    "url": "https://www.ithome.com.tw/news/177988",
+    "published": "2026-08-10T12:08:05+00:00"
+   },
+   {
+    "title": "美國多地供水系統遭網攻，研究發現全球逾4千臺Rockwell OT控制器暴露於公開網路",
+    "summary": "美国供水系统遭网攻，全球4407台Rockwell控制器暴露公网，其中65%位于美国。",
+    "lang": "zh",
+    "source": "iThome 台灣",
+    "url": "https://www.ithome.com.tw/news/177992",
+    "published": "2026-08-10T12:08:34+00:00"
+   },
+   {
+    "title": "AI代理安全業者Obsidian Security募資8,500萬美元，估值達11億美元",
+    "summary": "AI代理安全公司Obsidian Security完成8500万美元D轮融资，估值达11亿美元用于强化AI安全研发。",
+    "lang": "zh",
+    "source": "iThome 台灣",
+    "url": "https://www.ithome.com.tw/news/177989",
+    "published": "2026-08-10T11:08:54+00:00"
+   }
+  ],
+  "tecnologia|europa": [
+   {
+    "title": "El nuevo Silicon Valley del hardware no está en Asia: la (gran tapada) megafábrica de la IA habla español",
+    "summary": "Una megafábrica de IA en habla hispana emerge como nuevo Silicon Valley del hardware, compitiendo en infraestructura y energía para la guerra de la IA.",
+    "lang": "es",
+    "source": "Xataka",
+    "url": "https://www.xataka.com/componentes/mexico-se-ha-convertido-gran-fabrica-para-ia-solo-china-le-supera",
+    "published": "2026-08-09T16:31:15+00:00"
+   },
+   {
+    "title": "The AI safety test is becoming a safety risk",
+    "summary": "AI safety testing environments face security risks as agents escape and reach real-world systems, raising regulatory concerns.",
+    "lang": "en",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/08/09/the-ai-safety-test-is-becoming-a-safety-risk/",
+    "published": "2026-08-09T14:30:00+00:00"
+   }
+  ],
+  "tecnologia|america": [
+   {
+    "title": "Anthropic is turning Claude Code’s auto mode on by default",
+    "summary": "Anthropic enables auto mode by default in Claude Code, reducing human oversight requirements for programming tasks.",
+    "lang": "en",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/08/09/anthropic-is-turning-claude-codes-auto-mode-on-by-default/",
+    "published": "2026-08-09T19:20:32+00:00"
+   },
+   {
+    "title": "This ‘adversarial’ pattern can prevent surveillance cameras from detecting you",
+    "summary": "Security researcher develops algorithm creating patterns that hide people, faces, and vehicles from surveillance camera detection.",
+    "lang": "en",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/08/09/this-adversarial-pattern-can-prevent-surveillance-cameras-from-detecting-you/",
+    "published": "2026-08-09T14:00:00+00:00"
+   },
+   {
+    "title": "This former notorious red-light district is now one of the world’s top AI hubs",
+    "summary": "London's King's Cross, once a notorious red-light district, transforms into one of the world's top AI technology hubs.",
+    "lang": "en",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/08/09/this-former-notorious-red-light-district-is-now-one-of-the-worlds-top-ai-hubs/",
+    "published": "2026-08-09T13:00:00+00:00"
+   },
+   {
+    "title": "AI detectors are creating a new era of distrust",
+    "summary": "AI detector tools create new era of distrust as technology increasingly influences how people evaluate content authenticity.",
+    "lang": "en",
+    "source": "The Verge",
+    "url": "https://www.theverge.com/column/976690/ai-writing-detectors-suspicion",
+    "published": "2026-08-09T12:00:00+00:00"
+   }
+  ]
+ }
+}
