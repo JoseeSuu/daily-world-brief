@@ -1,0 +1,292 @@
+{
+ "date": "2026-08-11",
+ "generated_at": "2026-08-11T06:14:29.588689+00:00",
+ "mode": "full",
+ "cost_usd": 0.0258,
+ "market": null,
+ "failed_sources": [],
+ "cells": {
+  "economia|asia": [
+   {
+    "title": "Singapore records 5.9% Q2 GDP growth, raises full-year forecast",
+    "summary": "Singapore's economy grew 5.9% in the second quarter, prompting the government to raise its full-year growth forecast. The strong performance indicates regional economic resilience.",
+    "lang": "en",
+    "source": "Nikkei Asia",
+    "url": "https://asia.nikkei.com/economy/singapore-records-5.9-q2-gdp-growth-raises-full-year-forecast",
+    "published": null
+   },
+   {
+    "title": "New Bank Indonesia Chief Faces Test of Driving Growth While Defending Autonomy",
+    "summary": "Destry Damayanti, Indonesia's acting central bank governor, faces pressure from the finance ministry to drive economic growth while maintaining monetary independence. Her appointment signals potential friction between institutions.",
+    "lang": "en",
+    "source": "Bloomberg Economics",
+    "url": "https://www.bloomberg.com/news/articles/2026-08-11/new-bank-indonesia-chief-faces-test-of-driving-growth-while-defending-autonomy",
+    "published": "2026-08-11T02:15:37+00:00"
+   },
+   {
+    "title": "Memory crunch gives China's CXMT a breakthrough moment",
+    "summary": "China's CXMT semiconductor company seizes a breakthrough opportunity amid global memory chip shortages. The timing positions the firm to gain market share.",
+    "lang": "en",
+    "source": "Nikkei Asia",
+    "url": "https://asia.nikkei.com/spotlight/podcasts/podcast-tech-latest/memory-crunch-gives-china-s-cxmt-a-breakthrough-moment",
+    "published": null
+   },
+   {
+    "title": "The renminbi’s hardest mile is only now beginning",
+    "summary": "The Chinese renminbi faces its most challenging phase in becoming a globally held reserve asset. Converting currency into an asset the world wants requires structural changes.",
+    "lang": "en",
+    "source": "FT Global Economy",
+    "url": "https://www.ft.com/content/5fbd8dad-7e3d-418b-91dc-b61af9436ca6",
+    "published": "2026-08-10T23:01:08+00:00"
+   }
+  ],
+  "economia|europa": [
+   {
+    "title": "EU border checks double queues at major airports",
+    "summary": "EU border checks have doubled queue lengths at major European airports, with wait times reaching two hours in Frankfurt and Amsterdam. The delays reflect increased security protocols.",
+    "lang": "en",
+    "source": "Financial Times",
+    "url": "https://www.ft.com/content/42137dd8-8fdc-4d66-b193-ca52d51bd929?syn-25a6b1a6=1",
+    "published": "2026-08-11T04:01:01+00:00"
+   },
+   {
+    "title": "El plan de la china SAIC en España que preocupa al CNI: 120.000 coches ‘made in Ferrol’ para esquivar los aranceles",
+    "summary": "La empresa china SAIC planea fabricar 120.000 vehículos de la marca MG en Ferrol para eludir aranceles. La medida preocupa al CNI español por implicaciones de seguridad económica.",
+    "lang": "es",
+    "source": "El País Economía",
+    "url": "https://elpais.com/economia/2026-08-11/el-plan-de-la-china-saic-en-espana-que-preocupa-al-cni-120000-coches-made-in-ferrol-para-esquivar-los-aranceles.html",
+    "published": "2026-08-11T03:45:00+00:00"
+   },
+   {
+    "title": "Las ‘big tech’ disparan el gasto en I+D a récords históricos de 200.000 millones bajo las exigencias de la IA",
+    "summary": "Las grandes tecnológicas Alphabet, Meta, Apple, Amazon y Microsoft alcanzan récords históricos en gasto de I+D, superando 200.000 millones de dólares en el primer semestre. La inversión se impulsa por la demanda de inteligencia artificial.",
+    "lang": "es",
+    "source": "El País Economía",
+    "url": "https://cincodias.elpais.com/companias/2026-08-11/las-big-tech-disparan-el-gasto-en-id-a-records-historicos-de-200000-millones-bajo-las-exigencias-de-la-ia.html",
+    "published": "2026-08-11T03:15:00+00:00"
+   },
+   {
+    "title": "Mapfre sale de compras para acelerar su expansión en Estados Unidos",
+    "summary": "Mapfre adquiere Safety Insurance Group por 1.542 millones de dólares para expandirse en Estados Unidos. La operación consolida la presencia de la aseguradora en el noreste estadounidense.",
+    "lang": "es",
+    "source": "El País Economía",
+    "url": "https://elpais.com/economia/negocios/2026-08-11/mapfre-sale-de-compras-para-acelerar-su-expansion-en-estados-unidos.html",
+    "published": "2026-08-11T03:30:00+00:00"
+   }
+  ],
+  "economia|america": [
+   {
+    "title": "Philippines Plans to Borrow $54 Billion in 2027 to Revive Growth",
+    "summary": "The Philippines plans to borrow 3.3 trillion pesos ($54 billion) in 2027, a 20% increase, to revive economic growth disrupted by Middle East conflicts. The government seeks to accelerate infrastructure spending.",
+    "lang": "en",
+    "source": "Bloomberg Economics",
+    "url": "https://www.bloomberg.com/news/articles/2026-08-11/philippines-plans-borrow-54-billion-2027-revive-growth",
+    "published": "2026-08-11T05:08:41+00:00"
+   },
+   {
+    "title": "Communist Vietnam bets on Korean-style ‘chaebols’ to boost growth",
+    "summary": "Vietnam is adopting a Korean-style chaebol model to boost growth by prioritizing homegrown conglomerates. The strategy shifts focus from trade and foreign investment dependence.",
+    "lang": "en",
+    "source": "FT Global Economy",
+    "url": "https://www.ft.com/content/35a093ea-9df0-4dbe-abe2-3d2341b85e4f?syn-25a6b1a6=1",
+    "published": "2026-08-11T00:53:02+00:00"
+   }
+  ],
+  "politica|america": [
+   {
+    "title": "Magnitude 7.4 quake rocks western Colombia, killing at least 111 people",
+    "summary": "A magnitude 7.4 earthquake struck western Colombia, killing at least 111 people in the third-largest city, Cali. Search teams continue recovering bodies from collapsed buildings.",
+    "lang": "en",
+    "source": "NPR World",
+    "url": "https://www.npr.org/2026/08/10/nx-s1-5927515/earthquake-western-colombia",
+    "published": "2026-08-11T03:39:40+00:00"
+   },
+   {
+    "title": "Trump pivots back to sanctions for Iran as other strategies to end his war fizzle",
+    "summary": "Trump pivots toward sanctions as a strategy to end his war on Iran, as other approaches stall and US weapon stockpiles dwindle. Officials insist pressure could still yield breakthroughs.",
+    "lang": "en",
+    "source": "NPR World",
+    "url": "https://www.npr.org/2026/08/11/g-s1-138160/us-iran-war",
+    "published": "2026-08-11T05:48:27+00:00"
+   },
+   {
+    "title": "Despite Mideast wars, 20 million gather in Iraq for Shia pilgrimage",
+    "summary": "Over 20 million Shia pilgrims gathered in Iraq for the Arbaeen festival despite ongoing Middle East conflicts. The pilgrimage demonstrates religious observance amid regional instability.",
+    "lang": "en",
+    "source": "NPR World",
+    "url": "https://www.npr.org/2026/08/10/g-s1-137832/iraq-shia-pilgrimage-shia-war",
+    "published": "2026-08-10T16:08:06+00:00"
+   }
+  ],
+  "politica|europa": [
+   {
+    "title": "Turkey MPs back historic law on reintegrating PKK militants",
+    "summary": "Turkey's parliament passed historic legislation enabling some PKK militants to reintegrate into civilian life, marking a major step toward ending four decades of conflict. The law outlines reintegration pathways.",
+    "lang": "en",
+    "source": "Deutsche Welle World",
+    "url": "https://www.dw.com/en/turkey-mps-back-historic-law-on-reintegrating-pkk-militants/a-78313397?maca=en-rss-en-world-4025-rdf",
+    "published": "2026-08-10T22:22:00+00:00"
+   },
+   {
+    "title": "At least 13 killed in Ukrainian drone strike deep into Russia",
+    "summary": "Ukrainian drone strikes killed at least 13 people deep inside Russia, with 75 others injured in one of the deadliest such attacks since the full-scale invasion began. The strike demonstrates extended Ukrainian capabilities.",
+    "lang": "en",
+    "source": "BBC World",
+    "url": "https://www.bbc.co.uk/news/articles/cvgjvgv926po?at_medium=RSS&at_campaign=rss",
+    "published": "2026-08-10T14:34:25+00:00"
+   },
+   {
+    "title": "UK government declares drought in 'almost three-quarters' of England",
+    "summary": "The UK government declared drought conditions in approximately 71.3% of England following the driest July on record. Officials report no regions in the UK escaping drought status.",
+    "lang": "en",
+    "source": "Le Monde International",
+    "url": "https://www.lemonde.fr/en/environment/article/2026/08/10/uk-government-declares-drought-in-almost-three-quarters-of-england_6756351_114.html",
+    "published": "2026-08-10T18:11:00+00:00"
+   }
+  ],
+  "politica|asia": [
+   {
+    "title": "烏戰俘聯合國控俄軍施虐 曝數千人仍遭俄方囚禁",
+    "summary": "乌克兰官员和前战俘在联合国指控俄罗斯对战俘实施酷刑。数千名乌克兰人仍遭俄方囚禁，遭受隔离、殴打、电击和性虐待。",
+    "lang": "zh",
+    "source": "中央社 CNA",
+    "url": "https://www.cna.com.tw/news/aopl/202608110045.aspx",
+    "published": "2026-08-11T02:37:02+00:00"
+   },
+   {
+    "title": "Prabowo orders coordinated measures against Indonesia wildfires",
+    "summary": "Indonesia's government mobilized a multi-agency task force to contain wildfires that have burned approximately 107,000 hectares nationwide. The effort aims to prevent transboundary haze affecting neighboring countries.",
+    "lang": "en",
+    "source": "Channel NewsAsia",
+    "url": "https://www.channelnewsasia.com/asia/indonesia-wildfire-bromo-el-nino-haze-singapore-sarawak-6311376",
+    "published": "2026-08-11T06:03:20+00:00"
+   },
+   {
+    "title": "Japan successfully launches H3 rocket with Michibiki satellite",
+    "summary": "Japan successfully launched its H3 rocket carrying the Michibiki satellite, marking the first practical-use satellite deployment since a launch failure last December. The mission validates the rocket's operational capability.",
+    "lang": "en",
+    "source": "Japan Times",
+    "url": "https://www.japantimes.co.jp/news/2026/08/11/japan/science-health/successful-launch-h3-rocket-michibiki/",
+    "published": "2026-08-11T03:33:00+00:00"
+   },
+   {
+    "title": "Brics’ ‘stiffest test’: can India, China rally bloc to resolve Strait of Hormuz crisis?",
+    "summary": "The Brics bloc's upcoming summit raises hopes that India and China will coordinate to resolve the Strait of Hormuz crisis. The meeting tests the grouping's ability to align on regional security issues.",
+    "lang": "en",
+    "source": "South China Morning Post (Asia)",
+    "url": "https://www.scmp.com/week-asia/politics/article/3363590/brics-stiffest-test-can-india-china-rally-bloc-resolve-strait-hormuz-crisis?utm_source=rss_feed",
+    "published": "2026-08-11T05:30:09+00:00"
+   }
+  ],
+  "tecnologia|america": [
+   {
+    "title": "OpenAI reportedly completed a $7 billion employee tender offer",
+    "summary": "OpenAI completed a $7 billion employee tender offer. The transaction reflects strong investor confidence in the company's valuation and employee retention strategy.",
+    "lang": "en",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/08/10/openai-reportedly-completed-a-7-billion-employee-tender-offer/",
+    "published": "2026-08-11T00:03:18+00:00"
+   },
+   {
+    "title": "With new open models, Meta pitches another reboot of its struggling AI strategy",
+    "summary": "Meta launches new open-source AI models as part of a strategic reboot to compete with rivals. CEO Zuckerberg believes the open approach offers a path forward for the struggling initiative.",
+    "lang": "en",
+    "source": "Ars Technica",
+    "url": "https://arstechnica.com/ai/2026/08/with-new-open-models-meta-pitches-another-reboot-of-its-struggling-ai-strategy/",
+    "published": "2026-08-10T22:13:03+00:00"
+   },
+   {
+    "title": "As AI-led attacks multiply, OpenAI launches a new cyber model",
+    "summary": "OpenAI expanded its Daybreak cybersecurity program and deployed a new AI model trained specifically for cyber defense. The initiative addresses growing AI-led security threats.",
+    "lang": "en",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/08/10/as-ai-led-attacks-multiply-openai-launches-a-new-cyber-model/",
+    "published": "2026-08-10T23:56:15+00:00"
+   },
+   {
+    "title": "AI for science needs reasoning, not just data",
+    "summary": "AI applied to scientific research requires reasoning capabilities beyond data processing alone. The field advances when algorithms combine analytical thinking with empirical information.",
+    "lang": "en",
+    "source": "MIT Technology Review",
+    "url": "https://www.technologyreview.com/2026/08/10/1141384/ai-agents-for-science/",
+    "published": "2026-08-10T09:00:00+00:00"
+   },
+   {
+    "title": "Amazon backs power plant that may become top source of US climate pollution",
+    "summary": "Amazon announced its first off-the-grid data center, which may become a top source of US climate pollution as the company pursues AI profitability. The facility reflects growing environmental concerns around tech expansion.",
+    "lang": "en",
+    "source": "Ars Technica",
+    "url": "https://arstechnica.com/tech-policy/2026/08/amazon-funds-biggest-gas-power-plant-in-us-despite-climate-pledge/",
+    "published": "2026-08-10T20:45:52+00:00"
+   }
+  ],
+  "tecnologia|europa": [
+   {
+    "title": "SpaceX quiere desplegar 10 GW de IA en apenas un año. SemiAnalysis ha hecho las cuentas y dice que no es una locura",
+    "summary": "SpaceX aspira a desplegar entre 6 y 8 GW de capacidad de cómputo en un año para inteligencia artificial. Analistas consideran el objetivo ambicioso pero no imposible técnicamente.",
+    "lang": "es",
+    "source": "Xataka",
+    "url": "https://www.xataka.com/robotica-e-ia/spacex-quiere-desplegar-10-gw-ia-apenas-ano-semianalysis-ha-hecho-cuentas-dice-que-no-locura",
+    "published": "2026-08-11T06:01:15+00:00"
+   },
+   {
+    "title": "ASML construyó uno de los monopolios más valiosos del mundo. China le ha recordado que nada dura para siempre",
+    "summary": "ASML controla un monopolio valioso en litografía avanzada, pero China le recuerda que ningún dominio es permanente. Las restricciones comerciales amenazan su posición global.",
+    "lang": "es",
+    "source": "Xataka",
+    "url": "https://www.xataka.com/empresas-y-economia/asml-construyo-uno-monopolios-valiosos-mundo-china-le-ha-recordado-que-nada-dura-para-siempre",
+    "published": "2026-08-10T21:55:57+00:00"
+   },
+   {
+    "title": "Meta quiere plantar cara a OpenAI y Google con un arma muy particular: una IA potente que funciona offline en tu ordenador",
+    "summary": "Meta desarrolla una inteligencia artificial potente que funciona sin conexión en ordenadores personales. La estrategia busca competir con OpenAI y Google en el mercado de IA.",
+    "lang": "es",
+    "source": "Xataka",
+    "url": "https://www.xataka.com/robotica-e-ia/meta-quiere-plantar-cara-a-openai-google-arma-muy-particular-ia-potente-que-funciona-offline-tu-ordenador",
+    "published": "2026-08-10T19:31:18+00:00"
+   }
+  ],
+  "tecnologia|asia": [
+   {
+    "title": "PortSwigger公開AI自主漏洞研究系統，可探索攻擊新手法找出零時差漏洞",
+    "summary": "英国网络安全公司PortSwigger公开了HTTP Terminator自主研究系统，能够让AI自动提出攻击假设并验证。系统已发现多种新的HTTP请求不同步攻击手法。",
+    "lang": "zh",
+    "source": "iThome 台灣",
+    "url": "https://www.ithome.com.tw/news/178025",
+    "published": "2026-08-11T01:08:26+00:00"
+   },
+   {
+    "title": "Meta重啟開源AI路線，推出本機代理模型Muse Glimmer",
+    "summary": "Meta宣布恢复开源AI模型计划，推出本地运行代理模型Muse Glimmer。Meta超级智慧实验室已步入正轨，致力于开放AI研发。",
+    "lang": "zh",
+    "source": "iThome 台灣",
+    "url": "https://www.ithome.com.tw/news/178026",
+    "published": "2026-08-11T01:08:37+00:00"
+   },
+   {
+    "title": "研究人員揭露Gemini AI代理對代理攻擊手法，可竊取敏感資料並竄改GitHub拉取請求",
+    "summary": "研究人员披露AI代理对代理攻击方法，攻击者可通过一个代理影响另一个代理盗取敏感数据。多代理协作模式下，代理对代理攻击面正在扩大。",
+    "lang": "zh",
+    "source": "iThome 台灣",
+    "url": "https://www.ithome.com.tw/news/178024",
+    "published": "2026-08-11T12:08:48+00:00"
+   },
+   {
+    "title": "OpenAI Daybreak拆成Blue與Red兩級，後者找出逾400項作業系統核心漏洞",
+    "summary": "OpenAI将Daybreak计划分为Blue和Red两个访问级别，Red级采用新型网络安全模型GPT-5.6-Cyber。该模型已在某热门操作系统核心发现超400项权限提升漏洞。",
+    "lang": "zh",
+    "source": "iThome 台灣",
+    "url": "https://www.ithome.com.tw/news/178022",
+    "published": "2026-08-11T11:08:12+00:00"
+   },
+   {
+    "title": "亞馬遜旗下 Zoox 啟動首個付費自駕服務，執行長表態：自駕車需受明確監管",
+    "summary": "亚马逊子公司Zoox启动首个付费自驾出租车服务，并要求明确的法规监管框架。公司强调自动驾驶车辆需要清晰的行业监管政策。",
+    "lang": "zh",
+    "source": "科技新報 TechNews",
+    "url": "https://technews.tw/2026/08/11/zoox-launches-paid-self-driving-service/",
+    "published": "2026-08-11T04:20:38+00:00"
+   }
+  ]
+ }
+}
