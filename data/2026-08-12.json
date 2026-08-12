@@ -1,0 +1,332 @@
+{
+ "date": "2026-08-12",
+ "generated_at": "2026-08-12T06:53:36.813567+00:00",
+ "mode": "full",
+ "cost_usd": 0.026,
+ "market": null,
+ "failed_sources": [],
+ "cells": {
+  "economia|asia": [
+   {
+    "title": "China’s great jobs squeeze",
+    "summary": "China's construction sector slumps and manufacturing automates, pushing 53 million workers into low-wage delivery and ride-hailing jobs, creating economic pressure.",
+    "lang": "en",
+    "source": "Financial Times",
+    "url": "https://www.ft.com/content/a3803e70-cb4d-444f-a31e-05be2f2c44f6?syn-25a6b1a6=1",
+    "published": "2026-08-12T04:00:19+00:00"
+   },
+   {
+    "title": "Indonesian banks face tighter liquidity after strong profits",
+    "summary": "Indonesian banks face tighter liquidity conditions despite reporting strong profit results.",
+    "lang": "en",
+    "source": "Nikkei Asia",
+    "url": "https://asia.nikkei.com/business/finance/indonesian-banks-face-tighter-liquidity-after-strong-profits",
+    "published": null
+   },
+   {
+    "title": "Thailand's $3 government bonds attract retail investors",
+    "summary": "Thailand's government bonds trading at $3 are attracting retail investors seeking yield opportunities.",
+    "lang": "en",
+    "source": "Nikkei Asia",
+    "url": "https://asia.nikkei.com/business/markets/wealth-management/thailand-s-3-government-bonds-attract-retail-investors",
+    "published": null
+   },
+   {
+    "title": "US-Japan yen intervention is another defeat for Tokyo",
+    "summary": "U.S.-Japan currency intervention represents another setback for Tokyo's efforts to manage yen exchange rates.",
+    "lang": "en",
+    "source": "Nikkei Asia",
+    "url": "https://asia.nikkei.com/spotlight/comment/us-japan-yen-intervention-is-another-defeat-for-tokyo",
+    "published": null
+   }
+  ],
+  "economia|europa": [
+   {
+    "title": "Supermercados y hostelería avisan de una subida de precios para el consumidor por la nueva norma de envases",
+    "summary": "Los supermercados y hostelería advierten de subidas de precios tras la nueva norma de envases de Bruselas que entra en vigor el miércoles, exigiendo millonarias inversiones para adaptarse.",
+    "lang": "es",
+    "source": "El País Economía",
+    "url": "https://elpais.com/economia/2026-08-12/supermercados-y-hosteleria-avisan-de-una-subida-de-precios-para-el-consumidor-por-la-nueva-norma-de-envases.html",
+    "published": "2026-08-12T03:45:01+00:00"
+   },
+   {
+    "title": "El principio del fin para los sobres de kétchup y mayonesa: claves de la ley de envases que echa a andar este miércoles",
+    "summary": "La ley europea de envases se aplica paulatinamente buscando que todos los recipientes tengan 70% de reciclabilidad en 2030, eliminando productos como sobres de kétchup y mayonesa.",
+    "lang": "es",
+    "source": "El País Economía",
+    "url": "https://elpais.com/economia/2026-08-12/el-principio-del-fin-para-los-sobres-de-ketchup-y-mayonesa-claves-de-la-ley-de-envases-que-echa-a-andar-este-miercoles.html",
+    "published": "2026-08-12T03:45:01+00:00"
+   },
+   {
+    "title": "French Economy Set to Maintain Momentum, Central Bank Says",
+    "summary": "France's economy will maintain momentum this quarter due to growth in key sectors and cooling inflation, according to the central bank.",
+    "lang": "en",
+    "source": "Bloomberg Economics",
+    "url": "https://www.bloomberg.com/news/articles/2026-08-11/french-economy-set-to-maintain-momentum-central-bank-says",
+    "published": "2026-08-11T18:00:00+00:00"
+   },
+   {
+    "title": "FirstFT: EU border checks double waiting times",
+    "summary": "EU border checks have doubled waiting times at entry points. Chinese humanoid robotics company prepares IPO while Colombia earthquake death toll exceeds 100.",
+    "lang": "en",
+    "source": "FT Global Economy",
+    "url": "https://www.ft.com/content/b957441e-ac7d-4dbd-a024-3af989ef7a44?syn-25a6b1a6=1",
+    "published": "2026-08-11T10:13:16+00:00"
+   }
+  ],
+  "economia|america": [
+   {
+    "title": "Poorer Americans are struggling to make ‘ends meet’, top Fed official says",
+    "summary": "Boston Fed official Susan Collins says poorer Americans struggle financially and would support a September rate increase if inflation remains elevated.",
+    "lang": "en",
+    "source": "FT Global Economy",
+    "url": "https://www.ft.com/content/56c300d3-3632-476e-96d6-da84d4558bda?syn-25a6b1a6=1",
+    "published": "2026-08-12T04:00:27+00:00"
+   },
+   {
+    "title": "Colombia to Declare Economic Emergency to Bolster Quake Relief",
+    "summary": "Colombia's government will declare an economic emergency to strengthen disaster relief efforts following a devastating earthquake.",
+    "lang": "en",
+    "source": "Bloomberg Economics",
+    "url": "https://www.bloomberg.com/news/articles/2026-08-11/colombia-to-declare-economic-emergency-to-bolster-quake-relief",
+    "published": "2026-08-11T17:38:17+00:00"
+   }
+  ],
+  "politica|asia": [
+   {
+    "title": "中國將與印尼在台灣東部海域演習 台灣批「假演練、真擴張」",
+    "summary": "中国海军将与印尼在台湾东部海域举行联合演习，台湾政府谴责此举为北京宣示主权的行动。",
+    "lang": "zh",
+    "source": "德國之聲中文",
+    "url": "https://www.dw.com/zh/中國將與印尼在台灣東部海域演習-台灣批「假演練、真擴張」/a-78329576?maca=chi-rss-chi-all-1127-rdf",
+    "published": "2026-08-12T04:53:00+00:00"
+   },
+   {
+    "title": "Taiwan condemns ‘dangerous’ planned Chinese navy drill with Indonesia",
+    "summary": "Taiwan condemns planned Chinese navy drills with Indonesia conducted east of Taiwan, calling them an attempt to assert control over disputed waters.",
+    "lang": "en",
+    "source": "Japan Times",
+    "url": "https://www.japantimes.co.jp/news/2026/08/12/asia-pacific/taiwan-chinese-navy-drill-indonesia/",
+    "published": "2026-08-12T05:40:00+00:00"
+   },
+   {
+    "title": "North Korea missile launch hints at upgraded weapons exports to Russia for Ukraine war",
+    "summary": "North Korea's recent missile launch may test upgraded weapons exports to Russia, enabling Pyongyang to improve armaments amid the Ukraine conflict.",
+    "lang": "en",
+    "source": "South China Morning Post (Asia)",
+    "url": "https://www.scmp.com/week-asia/politics/article/3363744/north-korea-missile-launch-hints-upgraded-weapons-exports-russia-ukraine-war?utm_source=rss_feed",
+    "published": "2026-08-12T06:08:14+00:00"
+   },
+   {
+    "title": "Myanmar ramps up civilian attacks with airborne weapons, U.N. says",
+    "summary": "Myanmar's military increasingly uses motorized paragliders, gyrocopters and drones for civilian attacks with unguided explosives, U.N. investigators report.",
+    "lang": "en",
+    "source": "Japan Times",
+    "url": "https://www.japantimes.co.jp/news/2026/08/12/asia-pacific/myanmar-civilian-airborne-weapons-un/",
+    "published": "2026-08-12T06:02:00+00:00"
+   },
+   {
+    "title": "Why have several nations raised red flags over Indian farm exports?",
+    "summary": "Japan rejects Indian mangoes, China blocks rice, and Europe flags spices, raising questions about Indian agricultural exports' quality and safety standards.",
+    "lang": "en",
+    "source": "Al Jazeera English",
+    "url": "https://www.aljazeera.com/news/2026/8/12/why-have-several-nations-raised-red-flags-over-indian-farm-exports?traffic_source=rss",
+    "published": "2026-08-12T05:34:14+00:00"
+   }
+  ],
+  "politica|europa": [
+   {
+    "title": "澤連斯基：俄羅斯使用朝鮮飛彈攻擊烏克蘭",
+    "summary": "乌克兰指俄罗斯使用朝鲜导弹攻击乌克兰，造成多人伤亡，再次升级武器使用。",
+    "lang": "zh",
+    "source": "BBC中文",
+    "url": "https://www.bbc.com/zhongwen/articles/c1w127wxz4xo/trad?at_medium=RSS&at_campaign=rss",
+    "published": "2026-08-12T04:52:50+00:00"
+   },
+   {
+    "title": "Can Turkey's new PKK law bring peace?",
+    "summary": "Turkey's parliament passed a framework law for peace negotiations with the Kurdish PKK, though the legislation remains controversial among some groups.",
+    "lang": "en",
+    "source": "Deutsche Welle World",
+    "url": "https://www.dw.com/en/can-turkey-s-new-pkk-law-bring-peace/a-78326063?maca=en-rss-en-world-4025-rdf",
+    "published": "2026-08-11T16:28:00+00:00"
+   },
+   {
+    "title": "Hungary's parliament elects Orban critic as new president",
+    "summary": "Hungary's parliament elected Andras Baka, former Supreme Court head and Orban critic, to the largely ceremonial presidency role.",
+    "lang": "en",
+    "source": "Deutsche Welle World",
+    "url": "https://www.dw.com/en/hungary-s-parliament-elects-orban-critic-as-new-president/a-78325589?maca=en-rss-en-world-4025-rdf",
+    "published": "2026-08-11T16:00:00+00:00"
+   },
+   {
+    "title": "Seoul: North Korea fires ballistic missile towards Sea of Japan ahead of US-South drills",
+    "summary": "North Korea fired a ballistic missile over 700 kilometers across the Sea of Japan ahead of planned U.S.-South Korean military drills.",
+    "lang": "en",
+    "source": "Le Monde International",
+    "url": "https://www.lemonde.fr/en/international/article/2026/08/12/north-korea-fires-ballistic-missile-towards-sea-of-japan-according-to-seoul-ahead-of-us-south-drills_6756402_4.html",
+    "published": "2026-08-12T02:56:50+00:00"
+   },
+   {
+    "title": "UNESCO: 2.4 million girls barred from school in Afghanistan",
+    "summary": "UNESCO reports 2.4 million Afghan girls are barred from secondary school five years after Taliban's return to power, warning of lasting socioeconomic consequences.",
+    "lang": "en",
+    "source": "Deutsche Welle World",
+    "url": "https://www.dw.com/en/unesco-2-4-million-girls-barred-from-school-in-afghanistan/a-78328926?maca=en-rss-en-world-4025-rdf",
+    "published": "2026-08-11T22:49:00+00:00"
+   }
+  ],
+  "politica|america": [
+   {
+    "title": "Rescuers scramble for survivors with 180 dead in Colombia earthquake",
+    "summary": "Colombia experienced a deadly earthquake killing 180 people with multiple aftershocks; rescuers continue efforts to free survivors from collapsed structures.",
+    "lang": "en",
+    "source": "BBC World",
+    "url": "https://www.bbc.co.uk/news/articles/c20dqd9qwq4o?at_medium=RSS&at_campaign=rss",
+    "published": "2026-08-11T19:09:52+00:00"
+   },
+   {
+    "title": "Former U.S. Marine held in Russia on disputed charges has been released",
+    "summary": "Russia released a former U.S. Marine after four years, allowing his return to America following allegations of wrongful imprisonment and abuse.",
+    "lang": "en",
+    "source": "NPR World",
+    "url": "https://www.npr.org/2026/08/12/g-s1-138323/former-us-marine-russia",
+    "published": "2026-08-12T05:27:13+00:00"
+   },
+   {
+    "title": "Earthquake response strains Colombia's new government and rescuers",
+    "summary": "Colombia's earthquake killed at least 181 people and injured 2,595, straining the new government's response while rescue operations face significant challenges.",
+    "lang": "en",
+    "source": "NPR World",
+    "url": "https://www.npr.org/2026/08/12/g-s1-138315/colombia-earthquake-updates",
+    "published": "2026-08-12T05:13:06+00:00"
+   },
+   {
+    "title": "Trump pivots back to sanctions for Iran as other strategies to end his war fizzle",
+    "summary": "Trump returns to sanctions pressure on Iran as weapons stockpiles dwindle and diplomatic talks stall, seeking a breakthrough in U.S.-Iran tensions.",
+    "lang": "en",
+    "source": "NPR World",
+    "url": "https://www.npr.org/2026/08/11/g-s1-138160/us-iran-war",
+    "published": "2026-08-11T05:48:27+00:00"
+   },
+   {
+    "title": "Turkey's parliament approves a pardon-like bill for thousands of PKK militants",
+    "summary": "Turkey's parliament approved conditional pardon legislation for thousands of Kurdish PKK militants to advance the government's peace initiative.",
+    "lang": "en",
+    "source": "NPR World",
+    "url": "https://www.npr.org/2026/08/11/g-s1-138162/turkey-kurdish-militants",
+    "published": "2026-08-11T06:03:49+00:00"
+   }
+  ],
+  "tecnologia|asia": [
+   {
+    "title": "美參議員強硬喊話 OpenAI、Anthropic 與 Meta：遵守諾言停止開發 AI 模型，否則國會介入",
+    "summary": "美国参议员桑德斯警告OpenAI、Anthropic和Meta停止开发AI模型，否则国会将介入监管。",
+    "lang": "zh",
+    "source": "科技新報 TechNews",
+    "url": "https://infosecu.technews.tw/2026/08/12/avoid-disaster-sanders-urges-meta-openai-and-anthropic-to-freeze-ai-development/",
+    "published": "2026-08-12T06:40:37+00:00"
+   },
+   {
+    "title": "全固態電池進入工程驗證期，日韓中業者加速車規測試與多領域落地",
+    "summary": "全固态电池进入工程验证期，日韩中业者加速开展车规测试和多领域商用落地。",
+    "lang": "zh",
+    "source": "科技新報 TechNews",
+    "url": "https://technews.tw/2026/08/12/all-solid-state-batteries-engineering-validation-japanese-korean-chinese-automotive-testing-multi-domain-deployment/",
+    "published": "2026-08-12T06:15:02+00:00"
+   },
+   {
+    "title": "取代人力冒險，美國陸軍「最後戰術一哩路」無人車計畫選定 6 廠商開發原型",
+    "summary": "美国陆军选定6家厂商开发无人车原型，用于步兵战术作战替代人力冒险任务。",
+    "lang": "zh",
+    "source": "科技新報 TechNews",
+    "url": "https://technews.tw/2026/08/12/us-army-chose-6-companie-to-develop-infantry-last-tactical-mile-ugv-prototypes/",
+    "published": "2026-08-12T06:35:35+00:00"
+   },
+   {
+    "title": "2026 Pwnie Awards揭曉！臺灣資安研究員獲最高榮譽「史詩成就獎」​，展現純邏輯攻破瀏覽器的頂尖人類工藝",
+    "summary": "台湾资安研究员蔡政达获得2026年度Pwnie Awards最高荣誉，以纯逻辑攻破浏览器漏洞展现顶尖工艺。",
+    "lang": "zh",
+    "source": "iThome 台灣",
+    "url": "https://www.ithome.com.tw/news/178068",
+    "published": "2026-08-12T01:08:48+00:00"
+   }
+  ],
+  "tecnologia|europa": [
+   {
+    "title": "Russian drones found near vital European offshore gas site, get blown up",
+    "summary": "Russian drones were discovered near vital European offshore gas infrastructure in Romania and were destroyed, following previous incidents in the region.",
+    "lang": "en",
+    "source": "Ars Technica",
+    "url": "https://arstechnica.com/gadgets/2026/08/romania-destroys-russian-drones-drifting-near-vital-european-offshore-gas-site/",
+    "published": "2026-08-11T21:20:11+00:00"
+   },
+   {
+    "title": "El 2027 ni siquiera ha comenzado y la IA ya ha hecho de las suyas: todo apunta a que la DRAM y HBM del año ya se han vendido",
+    "summary": "La demanda de DRAM y HBM para infraestructura de inteligencia artificial crece aceleradamente, con componentes de 2027 ya vendidos según análisis de mercado.",
+    "lang": "es",
+    "source": "Xataka",
+    "url": "https://www.xataka.com/componentes/2027-siquiera-ha-comenzado-ia-ha-hecho-suyas-todo-apunta-a-que-dram-hbm-ano-se-han-vendido",
+    "published": "2026-08-11T19:31:15+00:00"
+   },
+   {
+    "title": "La Voyager 2 se está apagando poco a poco. La NASA lleva años haciendo ingeniería para retrasar lo inevitable",
+    "summary": "La NASA realiza ingeniería para retrasar el apagamiento de la Voyager 2, sonda lanzada en 1977 que continúa explorando más allá del sistema solar.",
+    "lang": "es",
+    "source": "Xataka",
+    "url": "https://www.xataka.com/espacio/voyager-2-se-esta-apagando-poco-a-poco-nasa-lleva-anos-haciendo-ingenieria-para-retrasar-inevitable",
+    "published": "2026-08-11T19:01:15+00:00"
+   },
+   {
+    "title": "Las plantas solares en España tienen un problema: bandas organizadas de ladrones que les están robando el cobre",
+    "summary": "Bandas organizadas de ladrones roban cobre de plantas solares españolas, aprovechando la consolidación de la energía fotovoltaica como oportunidad para el crimen organizado.",
+    "lang": "es",
+    "source": "Xataka",
+    "url": "https://www.xataka.com/energia/plantas-solares-espana-tienen-problema-bandas-organizadas-ladrones-que-les-estan-robando-cobre",
+    "published": "2026-08-11T17:45:15+00:00"
+   }
+  ],
+  "tecnologia|america": [
+   {
+    "title": "ChatGPT and Gemini both just passed 1 billion users",
+    "summary": "ChatGPT and Gemini have both reached 1 billion users, marking major milestones for AI chatbot adoption and Google's fastest-growing product.",
+    "lang": "en",
+    "source": "The Verge",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/978113/chatgpt-gemini-1-billion-users",
+    "published": "2026-08-11T19:41:42+00:00"
+   },
+   {
+    "title": "Gemini becomes Google's fastest-growing product ever as it hits 1B users",
+    "summary": "Gemini has become Google's fastest-growing product ever after reaching 1 billion users, though questions remain about sustaining growth with slowing model releases.",
+    "lang": "en",
+    "source": "Ars Technica",
+    "url": "https://arstechnica.com/ai/2026/08/google-says-gemini-has-reached-1b-users-faster-than-any-other-google-product/",
+    "published": "2026-08-11T19:48:12+00:00"
+   },
+   {
+    "title": "Chrome adopts what may be the best protection yet against account takeovers",
+    "summary": "Chrome adopted device-bound session credentials, a new security feature protecting accounts against increasingly common takeover attacks.",
+    "lang": "en",
+    "source": "Ars Technica",
+    "url": "https://arstechnica.com/security/2026/08/chrome-adopts-what-may-be-the-best-protection-yet-against-account-takeovers/",
+    "published": "2026-08-11T20:59:52+00:00"
+   },
+   {
+    "title": "Meta can't stop states' $1.4 trillion lawsuit from going to trial",
+    "summary": "A federal judge ruled Meta cannot prevent a $1.4 trillion state lawsuit from proceeding to trial, rejecting Section 230 as complete immunity defense.",
+    "lang": "en",
+    "source": "Ars Technica",
+    "url": "https://arstechnica.com/tech-policy/2026/08/meta-cant-stop-states-1-4-trillion-lawsuit-from-going-to-trial/",
+    "published": "2026-08-11T20:27:16+00:00"
+   },
+   {
+    "title": "FBI says cybercriminals are hacking into victims’ online accounts to steal their intimate pictures",
+    "summary": "The FBI alerts that cybercriminals are hacking accounts to steal intimate pictures from adults and minors for extortion campaigns.",
+    "lang": "en",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/08/11/fbi-says-cybercriminals-are-hacking-into-victims-online-accounts-to-steal-their-intimate-pictures/",
+    "published": "2026-08-11T19:38:23+00:00"
+   }
+  ]
+ }
+}
