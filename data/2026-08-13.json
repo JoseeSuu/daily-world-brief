@@ -1,0 +1,300 @@
+{
+ "date": "2026-08-13",
+ "generated_at": "2026-08-13T06:56:37.410284+00:00",
+ "mode": "full",
+ "cost_usd": 0.0273,
+ "market": null,
+ "failed_sources": [],
+ "cells": {
+  "economia|asia": [
+   {
+    "title": "China steadies yuan as exporters feel currency squeeze",
+    "summary": "China stabilized its yuan currency amid pressure from exporters facing exchange rate challenges. The move aims to support the country's export competitiveness and economic growth.",
+    "lang": "en",
+    "source": "Nikkei Asia",
+    "url": "https://asia.nikkei.com/business/markets/currencies/china-steadies-yuan-as-exporters-feel-currency-squeeze",
+    "published": null
+   },
+   {
+    "title": "Sony, TSMC deal brings overseas investment in Japan chipmaking to $37bn",
+    "summary": "Sony and TSMC's deal brings overseas semiconductor investment in Japan to $37 billion. The partnership strengthens Japan's chipmaking capacity and attracts foreign manufacturing investment.",
+    "lang": "en",
+    "source": "Nikkei Asia",
+    "url": "https://asia.nikkei.com/business/tech/semiconductors/sony-tsmc-deal-brings-overseas-investment-in-japan-chipmaking-to-37bn",
+    "published": null
+   },
+   {
+    "title": "The battle for control of India’s $280bn Tata Group",
+    "summary": "N Chandrasekaran's successor faces a turbulent transition at Tata Sons, which controls Air India and Jaguar Land Rover. The $280 billion conglomerate leadership change involves significant responsibilities.",
+    "lang": "en",
+    "source": "Financial Times",
+    "url": "https://www.ft.com/content/525d9d60-f902-4b89-ad34-ba96d03be97e?syn-25a6b1a6=1",
+    "published": "2026-08-13T04:50:51+00:00"
+   }
+  ],
+  "economia|europa": [
+   {
+    "title": "US inflation falls to 3.4% in July",
+    "summary": "US inflation fell to 3.4% in July as petrol prices declined despite ongoing economic effects from Iran tensions. The improvement suggests some moderation in price pressures across the economy.",
+    "lang": "en",
+    "source": "FT Global Economy",
+    "url": "https://www.ft.com/content/52727749-4360-4463-8822-dc3bfd8ef279?syn-25a6b1a6=1",
+    "published": "2026-08-12T20:22:39+00:00"
+   },
+   {
+    "title": "Japan’s Government Is Said to Support Faster BOJ Rate Hike",
+    "summary": "Japan's government supports a near-term rate hike by the Bank of Japan, likely in September or October. Prime Minister Sanae Takaichi's backing signals readiness for monetary policy adjustment.",
+    "lang": "en",
+    "source": "Bloomberg Economics",
+    "url": "https://www.bloomberg.com/news/articles/2026-08-13/japan-s-government-is-said-to-support-faster-boj-rate-hike",
+    "published": "2026-08-13T04:45:30+00:00"
+   },
+   {
+    "title": "Adyen Boosts Sales Outlook After Talon.One, Orb Acquisitions",
+    "summary": "Adyen raised its net revenue growth outlook after acquiring Talon.One and Orb amid growing demand for its payment services. The acquisitions expand the Dutch payments firm's capabilities and market reach.",
+    "lang": "en",
+    "source": "Bloomberg Markets",
+    "url": "https://www.bloomberg.com/news/articles/2026-08-13/adyen-boosts-revenue-outlook-as-clients-process-more-payments",
+    "published": "2026-08-13T05:40:52+00:00"
+   }
+  ],
+  "economia|america": [
+   {
+    "title": "Bank of America commits $250bn to US projects in boost to ‘America First’ agenda",
+    "summary": "Bank of America committed $250 billion to US infrastructure projects, aligning with the administration's priorities. The pledge follows the bank's chief executive being sidelined by the president earlier.",
+    "lang": "en",
+    "source": "FT Global Economy",
+    "url": "https://www.ft.com/content/99c86e8e-02d5-4c7c-9eef-27ad9bb5b7c6?syn-25a6b1a6=1",
+    "published": "2026-08-12T09:00:07+00:00"
+   }
+  ],
+  "politica|asia": [
+   {
+    "title": "中國稱完成聯合實兵演練 印尼海軍：非作戰性質",
+    "summary": "中国海军声称与印尼完成联合演习，印尼海军确认但强调非作战性质。台湾当局谴责此举为军事挑衅。",
+    "lang": "zh",
+    "source": "德國之聲中文",
+    "url": "https://www.dw.com/zh/中國稱完成聯合實兵演練-印尼海軍：非作戰性質/a-78329576?maca=chi-rss-chi-all-1127-rdf",
+    "published": "2026-08-13T03:55:00+00:00"
+   },
+   {
+    "title": "伊朗處決抗議者打壓異議 逾30國聯合譴責籲立即停止",
+    "summary": "30多国与欧盟联合谴责伊朗以死刑处决抗议者打压异议。声明呼吁伊朗立即停止执行死刑并释放被强行拘留者。",
+    "lang": "zh",
+    "source": "中央社 CNA",
+    "url": "https://www.cna.com.tw/news/aopl/202608130102.aspx",
+    "published": "2026-08-13T04:22:32+00:00"
+   },
+   {
+    "title": "塔利班统治五年后，阿富汗坠入失控边缘",
+    "summary": "塔利班统治五年后，阿富汗与巴基斯坦冲突加剧，国内高压统治引发民众不满。人道主义和经济危机以及国际孤立使统治面临严峻挑战。",
+    "lang": "zh",
+    "source": "纽约时报中文网",
+    "url": "https://cn.nytimes.com/world/20260813/afghanistan-taliban-anniversary-eclipse-lakers/?utm_source=RSS",
+    "published": "2026-08-13T02:19:22+00:00"
+   },
+   {
+    "title": "Putin visits disputed Etorofu island off Hokkaido, media reports",
+    "summary": "Putin visited disputed Etorofu island off Hokkaido, which Japan claims but Russia occupies. The visit underscores ongoing territorial tensions between the two nations.",
+    "lang": "en",
+    "source": "Japan Times",
+    "url": "https://www.japantimes.co.jp/news/2026/08/13/japan/society/russia-putin-japan-disputed-isle-visit/",
+    "published": "2026-08-13T04:38:00+00:00"
+   },
+   {
+    "title": "Nearly 200-country study shows China’s Belt and Road Initiative cuts debt and corruption",
+    "summary": "A study of nearly 200 countries shows China's Belt and Road Initiative is linked to improved governance and economic development. Research suggests the initiative correlates with reduced debt and corruption.",
+    "lang": "en",
+    "source": "South China Morning Post (China)",
+    "url": "https://www.scmp.com/news/china/science/article/3363782/nearly-200-country-study-shows-chinas-belt-and-road-initiative-cuts-debt-and-corruption?utm_source=rss_feed",
+    "published": "2026-08-13T02:00:10+00:00"
+   }
+  ],
+  "politica|europa": [
+   {
+    "title": "Putin can no longer claim victory in Ukraine, Nobel Peace Prize winner tells BBC",
+    "summary": "Nobel Peace Prize winner Dmitry Muratov told the BBC that Putin can no longer claim victory in Ukraine, as Russia can only destroy but not conquer it. The war has now entered its fifth year.",
+    "lang": "en",
+    "source": "BBC World",
+    "url": "https://www.bbc.co.uk/news/articles/c74grmy2v7ko?at_medium=RSS&at_campaign=rss",
+    "published": "2026-08-13T04:55:58+00:00"
+   },
+   {
+    "title": "How North Korea has profited from its support for Russia",
+    "summary": "North Korea has profited exceptionally from war aid to Russia, consolidating the autocratic leader's power. Revenue concentration reinforces control among a small ruling elite.",
+    "lang": "en",
+    "source": "Deutsche Welle World",
+    "url": "https://www.dw.com/en/how-north-korea-has-profited-from-its-support-for-russia/a-78345289?maca=en-rss-en-world-4025-rdf",
+    "published": "2026-08-13T05:38:00+00:00"
+   },
+   {
+    "title": "Russia: Why is the Yabloko party barred from the elections?",
+    "summary": "Russia's supreme court banned the anti-war opposition party Yabloko from September's parliamentary elections. The decision restricts opposition representation in the upcoming vote.",
+    "lang": "en",
+    "source": "Deutsche Welle World",
+    "url": "https://www.dw.com/en/russia-why-is-the-yabloko-party-barred-from-the-elections/a-78341971?maca=en-rss-en-world-4025-rdf",
+    "published": "2026-08-12T18:37:00+00:00"
+   },
+   {
+    "title": "'It was either exile or prison': An interview with Boris Nadezhdin, Kremlin opponent prosecuted in Moscow and now in Paris",
+    "summary": "Boris Nadezhdin, a 63-year-old Kremlin opponent, fled to Paris after facing prosecution in Moscow for challenging Putin's regime and the war in Ukraine. He pursued legal and electoral means before exile became necessary.",
+    "lang": "en",
+    "source": "Le Monde International",
+    "url": "https://www.lemonde.fr/en/international/article/2026/08/13/it-was-either-exile-or-prison-an-interview-with-boris-nadezhdin-kremlin-opponent-prosecuted-in-moscow-and-now-in-paris_6756449_4.html",
+    "published": "2026-08-13T03:31:00+00:00"
+   },
+   {
+    "title": "Colombia authorizes joint anti-drug ops with US military, says Hegseth",
+    "summary": "Colombia's newly elected President Abelardo de la Espriella authorized joint anti-drug operations with US military and Israel to combat guerrillas. The alliance strengthens military cooperation against criminal organizations.",
+    "lang": "en",
+    "source": "Le Monde International",
+    "url": "https://www.lemonde.fr/en/international/article/2026/08/13/colombia-authorizes-joint-anti-drug-ops-with-us-military-says-hegseth_6756444_4.html",
+    "published": "2026-08-13T00:31:20+00:00"
+   }
+  ],
+  "politica|america": [
+   {
+    "title": "Polls open in Zambia presidential election as economic reforms tested",
+    "summary": "Zambia held presidential elections to test whether incumbent Hakainde Hichilema's economic reforms can address widespread public frustration. The vote determines public confidence in reform efforts.",
+    "lang": "en",
+    "source": "Al Jazeera English",
+    "url": "https://www.aljazeera.com/news/2026/8/13/polls-open-in-zambia-presidential-election-as-economic-reforms?traffic_source=rss",
+    "published": "2026-08-13T06:20:46+00:00"
+   },
+   {
+    "title": "Former Mexican governor charged in case of 43 students who vanished in 2014",
+    "summary": "Ángel Aguirre, former governor of Guerrero state in Mexico, was formally charged in the case of 43 students who vanished in 2014. The case symbolizes Mexico's struggle with cartel violence and disappearances.",
+    "lang": "en",
+    "source": "The Guardian World",
+    "url": "https://www.theguardian.com/world/2026/aug/12/former-mexican-governor-charged-in-case-of-43-students-who-vanished-in-2014",
+    "published": "2026-08-12T18:46:30+00:00"
+   },
+   {
+    "title": "Takeaways from Tuesday primaries. And, Iran threat prompted Trump's secret plane swap",
+    "summary": "Tuesday primaries revealed voter preferences in both parties for their new leaders. Trump secretly switched planes in Turkey last month due to Iranian security threats.",
+    "lang": "en",
+    "source": "NPR World",
+    "url": "https://www.npr.org/2026/08/12/g-s1-138337/up-first-newsletter-primaries-wisconsin-minnesota-south-carolina-trump-air-force-one-iraq-iran-militias",
+    "published": "2026-08-12T11:25:11+00:00"
+   },
+   {
+    "title": "Andrew Tate's extradition fight tests his influence with Trump's America",
+    "summary": "Andrew Tate's extradition fight from federal prison tests his influence with Trump's administration after proclaiming freedom would come. His detention follows arrest by UK authorities on serious charges.",
+    "lang": "en",
+    "source": "NPR World",
+    "url": "https://www.npr.org/2026/08/12/nx-s1-5902974/andrew-tate-tristan-extradition-maga-trump-political-ties",
+    "published": "2026-08-12T10:47:30+00:00"
+   }
+  ],
+  "tecnologia|america": [
+   {
+    "title": "Terabytes of credentials leaked in massive supply-chain attack",
+    "summary": "Terabytes of credentials were leaked in a major supply-chain attack affecting 2,500 users of a compromised AI package. The data theft exposed sensitive information across multiple organizations.",
+    "lang": "en",
+    "source": "Ars Technica",
+    "url": "https://arstechnica.com/security/2026/08/terabytes-of-credentials-leaked-in-massive-supply-chain-attack/",
+    "published": "2026-08-12T21:43:21+00:00"
+   },
+   {
+    "title": "Amazon will train on Twitch streamers’ content by default, unless they opt out",
+    "summary": "Amazon will train AI models on Twitch streamers' content by default unless they opt out, according to Twitch's chief product officer. The policy shift favors AI training over user consent.",
+    "lang": "en",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/08/12/amazon-will-train-on-twitch-streamers-content-by-default-unless-they-opt-out/",
+    "published": "2026-08-12T20:10:40+00:00"
+   },
+   {
+    "title": "AI coding startup Cognition reportedly already in talks to raise at $40B valuation",
+    "summary": "AI coding startup Cognition is reportedly in talks to raise funding at a $40 billion valuation just months after securing $1 billion at $26 billion. The rapid valuation increase reflects strong investor interest in AI coding tools.",
+    "lang": "en",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/08/12/ai-coding-startup-cognition-reportedly-already-in-talks-to-raise-at-40b-valuation/",
+    "published": "2026-08-12T18:19:12+00:00"
+   },
+   {
+    "title": "OpenAI-backed Thrive Holdings raises $2B to bring AI to the enterprise",
+    "summary": "OpenAI-backed Thrive Holdings raised $2 billion at a $12 billion valuation from SoftBank, D1 Capital Partners, and Altimeter Capital. The funding targets enterprise AI applications.",
+    "lang": "en",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/08/12/openai-backed-thrive-holdings-raises-2b-to-bring-ai-to-the-enterprise/",
+    "published": "2026-08-12T17:41:29+00:00"
+   },
+   {
+    "title": "As AI safety concerns mount, three pioneers make the case for staying open",
+    "summary": "AI experts Geoffrey Hinton, Fei-Fei Li, and Andrew Ng debated regulation and open-source access at Ai4. The discussion addressed competition with China and AI safety concerns.",
+    "lang": "en",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/08/12/as-ai-safety-concerns-mount-three-pioneers-make-the-case-for-staying-open/",
+    "published": "2026-08-12T17:51:00+00:00"
+   }
+  ],
+  "tecnologia|europa": [
+   {
+    "title": "Putting sign language AI into users’ hands",
+    "summary": "Google DeepMind introduced sign-language-to-text breakthrough technology for Deaf and hard of hearing users. The new feature makes sign language AI features accessible to users.",
+    "lang": "en",
+    "source": "Google DeepMind Blog",
+    "url": "https://deepmind.google/blog/putting-sign-language-ai-into-users-hands/",
+    "published": "2026-08-12T14:01:59+00:00"
+   },
+   {
+    "title": "El 911 está diseñado para funcionar cuando todo lo demás cae. Un malware acaba de poner esa promesa a prueba en California",
+    "summary": "Un malware en California afectó el servicio 911, comprometiendo la confiabilidad de las líneas de emergencia. El incidente destaca vulnerabilidades en infraestructuras críticas esenciales.",
+    "lang": "es",
+    "source": "Xataka",
+    "url": "https://www.xataka.com/seguridad/911-esta-disenado-para-funcionar-cuando-todo-demas-cae-malware-acaba-poner-esa-promesa-a-prueba-california",
+    "published": "2026-08-12T19:31:15+00:00"
+   },
+   {
+    "title": "Claude no ha resuelto la hipótesis de Riemann. Lo inquietante es lo que consiguió mientras lo intentaba",
+    "summary": "Claude de Anthropic intentó resolver la hipótesis de Riemann sin éxito, pero logró resultados inquietantes durante el proceso. El problema sigue siendo uno de los desafíos matemáticos sin resolver.",
+    "lang": "es",
+    "source": "Xataka",
+    "url": "https://www.xataka.com/robotica-e-ia/claude-no-ha-resuelto-hipotesis-riemann-inquietante-que-consiguio-intentaba",
+    "published": "2026-08-12T18:31:15+00:00"
+   },
+   {
+    "title": "Nightmare Eclipse公開Microsoft Defender新零時差漏洞ShieldBreak",
+    "summary": "研究人员发现Microsoft Defender零时差漏洞ShieldBreak，可让攻击者获得Windows系统SYSTEM权限。漏洞威胁桌机和服务器安全。",
+    "lang": "zh",
+    "source": "iThome 台灣",
+    "url": "https://www.ithome.com.tw/news/178101",
+    "published": "2026-08-13T12:08:26+00:00"
+   }
+  ],
+  "tecnologia|asia": [
+   {
+    "title": "商用RISC-V處理器首度被證實可受多種Spectre攻擊，Linux防護仍有缺口",
+    "summary": "德国和比利时研究团队在安全学术研讨会发布研究，证实商用RISC-V处理器易受多种Spectre攻击。Linux防护仍存在缺口。",
+    "lang": "zh",
+    "source": "iThome 台灣",
+    "url": "https://www.ithome.com.tw/news/178107",
+    "published": "2026-08-13T02:08:49+00:00"
+   },
+   {
+    "title": "針對中國駭客疑似透過AI代理攻擊臺灣政府機關，數發部說明攻擊來自境外",
+    "summary": "数发部确认7月察觉中国駭客疑似通过AI代理攻击台湾政府机关，并于7月20日由资安院发布警讯。攻击来自境外，已启动调查应变。",
+    "lang": "zh",
+    "source": "iThome 台灣",
+    "url": "https://www.ithome.com.tw/news/178105",
+    "published": "2026-08-13T01:08:24+00:00"
+   },
+   {
+    "title": "Signal推出自動金鑰驗證，藉金鑰透明度降低中間人攻擊風險",
+    "summary": "Signal推出自动金钥验证功能，导入金钥透明度机制帮助用户确认公开金钥未被替换。新功能降低攻击者进行中间人攻击的风险。",
+    "lang": "zh",
+    "source": "iThome 台灣",
+    "url": "https://www.ithome.com.tw/news/178102",
+    "published": "2026-08-13T12:08:18+00:00"
+   },
+   {
+    "title": "微軟8月例行更新修補Exchange多個漏洞，涉及權限提升、服務阻斷與遠端執行程式碼",
+    "summary": "微软8月例行更新修补421个漏洞，包括7个Exchange Server相关漏洞可导致权限提升和远程执行代码。影响Exchange Server 2016、2019及订阅版。",
+    "lang": "zh",
+    "source": "iThome 台灣",
+    "url": "https://www.ithome.com.tw/news/178103",
+    "published": "2026-08-13T12:08:33+00:00"
+   }
+  ]
+ }
+}
