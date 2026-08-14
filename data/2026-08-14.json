@@ -1,0 +1,308 @@
+{
+ "date": "2026-08-14",
+ "generated_at": "2026-08-14T06:53:30.047642+00:00",
+ "mode": "full",
+ "cost_usd": 0.0271,
+ "market": null,
+ "failed_sources": [],
+ "cells": {
+  "economia|asia": [
+   {
+    "title": "Malaysia Q2 GDP growth accelerates to 6.0%",
+    "summary": "Malaysia's Q2 GDP growth accelerated to 6.0%, showing economic momentum. The country's economic performance strengthened during the period.",
+    "lang": "en",
+    "source": "Nikkei Asia",
+    "url": "https://asia.nikkei.com/economy/malaysia-q2-gdp-growth-accelerates-to-6.0",
+    "published": null
+   },
+   {
+    "title": "Volkswagen's China comeback faces fresh doubts as sales slide",
+    "summary": "Volkswagen's comeback in China faces fresh doubts as sales slide significantly. The automotive manufacturer struggles in a key market.",
+    "lang": "en",
+    "source": "Nikkei Asia",
+    "url": "https://asia.nikkei.com/business/automobiles/volkswagen-s-china-comeback-faces-fresh-doubts-as-sales-slide",
+    "published": null
+   },
+   {
+    "title": "Foreign buyers warm up to Indian equities amid anti-AI sentiment",
+    "summary": "Foreign buyers are warming to Indian equities amid anti-AI sentiment globally. India's stock market attracts international investment interest.",
+    "lang": "en",
+    "source": "Nikkei Asia",
+    "url": "https://asia.nikkei.com/business/markets/equities/foreign-buyers-warm-up-to-indian-equities-amid-anti-ai-sentiment",
+    "published": null
+   }
+  ],
+  "economia|europa": [
+   {
+    "title": "La escalada de los precios energéticos amenaza con mantenerse tras el fin del escudo anticrisis",
+    "summary": "Los precios energéticos en España rozan máximos desde la guerra en Irán. Expertos prevén que la situación se prolongará más allá de septiembre, cuando finaliza el escudo anticrisis.",
+    "lang": "es",
+    "source": "El País Economía",
+    "url": "https://elpais.com/economia/2026-08-14/la-escalada-de-los-precios-energeticos-amenaza-con-mantenerse-tras-el-fin-del-escudo-anticrisis.html",
+    "published": "2026-08-14T03:30:01+00:00"
+   },
+   {
+    "title": "Uber logra paralizar las sanciones de IVA en España mientras litiga por 1.600 millones en Reino Unido",
+    "summary": "La Audiencia Nacional suspende las sanciones de IVA contra Uber en España correspondientes a 2016-2018. Uber litiga por 1.600 millones en Reino Unido por este mismo impuesto.",
+    "lang": "es",
+    "source": "El País Economía",
+    "url": "https://cincodias.elpais.com/companias/2026-08-14/uber-logra-paralizar-las-sanciones-de-iva-en-espana-mientras-litiga-por-1600-millones-en-reino-unido.html",
+    "published": "2026-08-14T03:15:00+00:00"
+   },
+   {
+    "title": "El BCE entre subidas preventivas o correctivas",
+    "summary": "El BCE debe decidir entre subidas preventivas o correctivas de tipos. Un banco central actúa sobre previsiones de eventos que son imposibles de prever por hipótesis.",
+    "lang": "es",
+    "source": "El País Economía",
+    "url": "https://cincodias.elpais.com/opinion/2026-08-14/el-bce-entre-subidas-preventivas-o-correctivas.html",
+    "published": "2026-08-14T03:40:00+00:00"
+   }
+  ],
+  "economia|america": [
+   {
+    "title": "US sells 30-year bonds at highest borrowing costs since 2001",
+    "summary": "The US sold 30-year bonds at the highest borrowing costs since 2001. Yield increases reflect concerns over mounting debt and persistent inflation.",
+    "lang": "en",
+    "source": "FT Global Economy",
+    "url": "https://www.ft.com/content/9c9c948f-dc8b-4385-a9b9-4b98dc1eadd9?syn-25a6b1a6=1",
+    "published": "2026-08-13T21:21:32+00:00"
+   },
+   {
+    "title": "US accuses more than 40 countries of helping China avoid Trump’s tariffs",
+    "summary": "The US accuses over 40 countries of helping China avoid Trump's tariffs. Canada, Japan, and the EU allegedly enable tariff evasion worth $60 billion via transshipment schemes.",
+    "lang": "en",
+    "source": "FT Global Economy",
+    "url": "https://www.ft.com/content/5d5ed2dd-8326-4cad-aac3-5816448ceccf?syn-25a6b1a6=1",
+    "published": "2026-08-13T15:55:56+00:00"
+   },
+   {
+    "title": "Philippine Central Bank Chief Eyes Less Aggressive Rate Hikes",
+    "summary": "The Philippine Central Bank will adopt less aggressive rate hikes going forward. Governor Eli Remolona cited slowing economic growth as the reason for the policy shift.",
+    "lang": "en",
+    "source": "Bloomberg Economics",
+    "url": "https://www.bloomberg.com/news/articles/2026-08-14/philippine-central-bank-chief-eyes-less-aggressive-rate-hikes",
+    "published": "2026-08-14T05:11:01+00:00"
+   }
+  ],
+  "politica|asia": [
+   {
+    "title": "日本千葉豪雨釀大量災情增至8死 半天雨量達往年整個8月3倍",
+    "summary": "日本千葉縣遭破紀錄豪雨，短12小時降雨348毫米，創觀測史新高。災情已致8人死亡，逾7400人被困無法返家。",
+    "lang": "zh",
+    "source": "中央社 CNA",
+    "url": "https://www.cna.com.tw/news/aopl/202608140137.aspx",
+    "published": "2026-08-14T06:04:05+00:00"
+   },
+   {
+    "title": "2000万被系统性抹去的人：阿富汗女性的孤立绝境",
+    "summary": "塔利班統治阿富汗五年來，2000萬女性被系統性抹去。當局禁止女性接受中高等教育並限制其就業、出行和言論權。",
+    "lang": "zh",
+    "source": "纽约时报中文网",
+    "url": "https://cn.nytimes.com/world/20260814/afghan-women-taliban-rule/?utm_source=RSS",
+    "published": "2026-08-13T17:08:37+00:00"
+   },
+   {
+    "title": "普京首次访问日俄争议岛屿，激怒东京",
+    "summary": "普京首次訪問日俄爭議島嶼，重申俄羅斯領土主張並抗議日本制裁。此舉引發東京強烈谴責。",
+    "lang": "zh",
+    "source": "纽约时报中文网",
+    "url": "https://cn.nytimes.com/asia-pacific/20260814/putin-visit-islands-japan-russia/?utm_source=RSS",
+    "published": "2026-08-14T02:43:36+00:00"
+   },
+   {
+    "title": "North Korea fumes over upcoming US-South Korea military drills",
+    "summary": "North Korea condemned upcoming US-South Korea military drills as pushing the world toward nuclear war. Pyongyang issued strong accusations over the planned exercises.",
+    "lang": "en",
+    "source": "Al Jazeera English",
+    "url": "https://www.aljazeera.com/news/2026/8/14/north-korea-fumes-over-upcoming-us-south-korea-military-drills?traffic_source=rss",
+    "published": "2026-08-14T05:40:45+00:00"
+   },
+   {
+    "title": "The death of Zhu Rongji, China’s economic reformer",
+    "summary": "Former Chinese premier Zhu Rongji, credited as co-engineer of major economic reforms, died August 12 at age 97. He was recognized for reshaping China's economy.",
+    "lang": "en",
+    "source": "South China Morning Post (China)",
+    "url": "https://www.scmp.com/news/china/article/3364003/death-zhu-rongji-chinas-economic-reformer?utm_source=rss_feed",
+    "published": "2026-08-14T06:39:56+00:00"
+   }
+  ],
+  "politica|europa": [
+   {
+    "title": "UK far-right leader Farage beats Count Binface to win by-election",
+    "summary": "UK far-right leader Nigel Farage won a by-election in Clacton with 22,239 votes. His satirical opponent Count Binface exceeded expectations in the snap election.",
+    "lang": "en",
+    "source": "Le Monde International",
+    "url": "https://www.lemonde.fr/en/international/article/2026/08/14/uk-far-right-leader-farage-beats-count-binface-to-win-by-election_6756493_4.html",
+    "published": "2026-08-14T05:43:49+00:00"
+   },
+   {
+    "title": "Romania shuts nuclear plant, Hungary dams dry Danube River",
+    "summary": "Romania shut down its only nuclear plant due to insufficient cooling water from the Danube River. Hungary is racing to dam the Danube to address water levels.",
+    "lang": "en",
+    "source": "Deutsche Welle World",
+    "url": "https://www.dw.com/en/romania-shuts-nuclear-plant-hungary-dams-dry-danube-river/a-78359581?maca=en-rss-en-world-4025-rdf",
+    "published": "2026-08-13T21:21:00+00:00"
+   },
+   {
+    "title": "Trump announces tariffs of up to 100% on imported drones",
+    "summary": "Trump announced tariffs of up to 100% on imported drones. The White House stated the tariffs aim to boost domestic drone production and reduce foreign supply chain reliance.",
+    "lang": "en",
+    "source": "Le Monde International",
+    "url": "https://www.lemonde.fr/en/international/article/2026/08/14/trump-announces-tariffs-of-up-to-100-on-imported-drones_6756487_4.html",
+    "published": "2026-08-14T01:26:24+00:00"
+   },
+   {
+    "title": "By sky and sea, Ukraine's drone strikes challenge Russia's grip on Crimea",
+    "summary": "Ukraine's drone strikes challenge Russia's grip on Crimea from the sky and sea. Russia has controlled Crimea since 2014, but now faces intense Ukrainian attacks.",
+    "lang": "en",
+    "source": "NPR World",
+    "url": "https://www.npr.org/2026/08/13/nx-s1-5904418/ukraine-crimea-russia-drone-strikes",
+    "published": "2026-08-13T15:18:27+00:00"
+   },
+   {
+    "title": "What would a North Korean troop surge mean for Ukraine war?",
+    "summary": "Ukraine claims North Korea is preparing to send tens of thousands more troops to Russia. North Korean soldiers would gain battlefield experience in the Ukraine war.",
+    "lang": "en",
+    "source": "Deutsche Welle World",
+    "url": "https://www.dw.com/en/what-would-a-north-korean-troop-surge-mean-for-ukraine-war/a-78350896?maca=en-rss-en-world-4025-rdf",
+    "published": "2026-08-13T10:54:00+00:00"
+   }
+  ],
+  "politica|america": [
+   {
+    "title": "New aircraft carrier heads toward Mideast after reports of issues on long-deployed USS Lincoln",
+    "summary": "USS George Washington is heading toward the Middle East as USS Lincoln experiences mental health and supply issues. The carrier deployment addresses problems on the long-deployed vessel.",
+    "lang": "en",
+    "source": "NPR World",
+    "url": "https://www.npr.org/2026/08/14/nx-s1-5931183/new-aircraft-carrier-heads-toward-mideast-after-reports-of-issues-on-long-deployed-uss-lincoln",
+    "published": "2026-08-14T06:31:29+00:00"
+   },
+   {
+    "title": "Hit hard by the earthquake in western Colombia, the mayor of Cali gets to work",
+    "summary": "Search efforts continue in Cali, Colombia following a 7.4 magnitude earthquake that killed over 250 people. Hopes are fading as rescue teams dig for survivors.",
+    "lang": "en",
+    "source": "NPR World",
+    "url": "https://www.npr.org/2026/08/13/nx-s1-5930188/around-the-clock-search-continues-to-reach-victims-of-the-7-4-earthquake-in-colombia",
+    "published": "2026-08-13T21:39:19+00:00"
+   },
+   {
+    "title": "U.S. ambassador slams Israeli settlers besieging home of Palestinian-American",
+    "summary": "US Ambassador Mike Huckabee condemned Israeli settlers besieging a West Bank home of a Palestinian-American family. He called their actions 'terrorists.'",
+    "lang": "en",
+    "source": "NPR World",
+    "url": "https://www.npr.org/2026/08/13/nx-s1-5930275/u-s-ambassador-slams-israeli-settlers-besieging-home-of-palestinian-american",
+    "published": "2026-08-13T21:11:59+00:00"
+   },
+   {
+    "title": "Vladimir Putin's first visit to disputed Pacific islands draws Tokyo protest",
+    "summary": "Vladimir Putin visited disputed Pacific islands, drawing a protest from Tokyo. Japan claims these four southernmost islands, calling them the Northern Territories.",
+    "lang": "en",
+    "source": "NPR World",
+    "url": "https://www.npr.org/2026/08/13/g-s1-138631/vladimir-putins-first-visit-to-disputed-pacific-islands-draws-tokyo-protest",
+    "published": "2026-08-13T16:40:26+00:00"
+   },
+   {
+    "title": "U.S. ambassador calls settler siege of Palestinian homes a 'horrific act of terror'",
+    "summary": "US Ambassador Mike Huckabee condemned Jewish settlers besieging homes of an American Palestinian family in the occupied West Bank. He called the actions a horrific act of terror.",
+    "lang": "en",
+    "source": "NPR World",
+    "url": "https://www.npr.org/2026/08/13/g-s1-138574/us-west-bank-settlers",
+    "published": "2026-08-13T09:58:40+00:00"
+   }
+  ],
+  "tecnologia|asia": [
+   {
+    "title": "駭客稱竊取近 50 家企業資料，殼牌飛利浦展開調查",
+    "summary": "駭客團體CL0P聲稱入侵飛利浦、殼牌等全球近50家企業並竊取資料。部分遭攻擊企業已展開調查應對。",
+    "lang": "zh",
+    "source": "科技新報 TechNews",
+    "url": "https://finance.technews.tw/2026/08/14/hackers-data-theft-nearly-50-companies-shell-philips-investigations/",
+    "published": "2026-08-14T06:50:30+00:00"
+   },
+   {
+    "title": "輝達 HBM 訂單供不應求，三星 NRD-K 產線轉型 2 奈米基礎晶片代工",
+    "summary": "三星調整器興園區次世代半導體研發園區，傾向於2奈米基礎晶片代工生產。受輝達HBM訂單供不應求影響。",
+    "lang": "zh",
+    "source": "科技新報 TechNews",
+    "url": "https://technews.tw/2026/08/14/samsung-nrd-k-production-line-transforms-into-basic-chip-foundry/",
+    "published": "2026-08-14T06:45:42+00:00"
+   },
+   {
+    "title": "LiteLLM供應鏈攻擊恐波及逾2,500家企業組織",
+    "summary": "開源LiteLLM去年遭供應鏈攻擊，可能波及全球逾2500家企業和43.4萬個CI/CD工作流程。是2026年迄今規模最大AI供應鏈安全事件。",
+    "lang": "zh",
+    "source": "iThome 台灣",
+    "url": "https://www.ithome.com.tw/news/178138",
+    "published": "2026-08-14T01:08:26+00:00"
+   },
+   {
+    "title": "雲端安全聯盟揭2026年11大雲端威脅，AI強化攻擊與AI系統遭入侵首度進榜",
+    "summary": "雲端安全聯盟公布2026年11大雲端威脅，AI強化攻擊和AI系統遭入侵首度進榜。企業加速採用AI和雲端服務致風險變化。",
+    "lang": "zh",
+    "source": "iThome 台灣",
+    "url": "https://www.ithome.com.tw/news/178137",
+    "published": "2026-08-14T12:08:22+00:00"
+   }
+  ],
+  "tecnologia|europa": [
+   {
+    "title": "La marina británica estrenó nuevos barcos dron. Una revisión encontró una sorpresa: componentes fabricados en China",
+    "summary": "La marina británica estrenó nuevos barcos dron con componentes fabricados en China. Una revisión detectó esta sorpresa en sistemas militares supuestamente de proveedores occidentales.",
+    "lang": "es",
+    "source": "Xataka",
+    "url": "https://www.xataka.com/magnet/marina-britanica-estreno-nuevos-barcos-dron-revision-encontro-sorpresa-componentes-fabricados-china",
+    "published": "2026-08-13T21:51:15+00:00"
+   },
+   {
+    "title": "Mistral quiere ser el campeón europeo de la IA. Para conseguirlo ha empezado a servir modelos chinos",
+    "summary": "Mistral aspira a ser campeón europeo de IA, comenzando a servir modelos chinos. Europa intenta reducir su distancia visible en inteligencia artificial frente a Estados Unidos.",
+    "lang": "es",
+    "source": "Xataka",
+    "url": "https://www.xataka.com/robotica-e-ia/mistral-quiere-ser-campeon-europeo-ia-para-conseguirlo-ha-empezado-a-servir-modelos-chinos",
+    "published": "2026-08-13T20:31:15+00:00"
+   },
+   {
+    "title": "Alemania tenía a China como su mayor mercado de coches. Ahora, BMW, Audi, Mercedes y Volkswagen se hunden a un ritmo preocupante",
+    "summary": "BMW, Audi, Mercedes y Volkswagen se hunden en China a ritmo preocupante. China era anteriormente el mercado más rentable para fabricantes europeos de automóviles.",
+    "lang": "es",
+    "source": "Xataka",
+    "url": "https://www.xataka.com/movilidad/alemania-tenia-a-china-como-su-mayor-mercado-coches-ahora-bmw-audi-mercedes-volkswagen-se-hunden-a-ritmo-preocupante",
+    "published": "2026-08-13T18:31:15+00:00"
+   }
+  ],
+  "tecnologia|america": [
+   {
+    "title": "Private security firms will soon be allowed to hack overseas cybercriminals",
+    "summary": "A Trump memo authorizes private security firms to conduct cyberattacks against overseas cybercriminals. This marks the first government authorization of private sector cyberattacks.",
+    "lang": "en",
+    "source": "Ars Technica",
+    "url": "https://arstechnica.com/security/2026/08/white-house-recruits-security-firms-to-hack-overseas-cybercriminals/",
+    "published": "2026-08-13T19:38:58+00:00"
+   },
+   {
+    "title": "‘That is not acceptable’: Judge orders Google to make rival app store installs easier",
+    "summary": "A judge ordered Google to make rival app store installations easier on Android. Epic Games and Google returned to court one month after seemingly settling their dispute.",
+    "lang": "en",
+    "source": "The Verge",
+    "url": "https://www.theverge.com/policy/979852/that-is-not-acceptable-judge-orders-google-to-make-rival-app-store-installs-easier",
+    "published": "2026-08-13T21:53:04+00:00"
+   },
+   {
+    "title": "Building a practical path to post-quantum cryptography",
+    "summary": "Quantum computing threatens to break current encryption, prompting development of post-quantum cryptography solutions. Building practical pathways for transition is becoming critical.",
+    "lang": "en",
+    "source": "MIT Technology Review",
+    "url": "https://www.technologyreview.com/2026/08/13/1141041/building-a-practical-path-to-post-quantum-cryptography/",
+    "published": "2026-08-13T18:11:42+00:00"
+   },
+   {
+    "title": "Databricks wanted to raise $1B, investors wanted $15B. It settled on $5B at a $190B valuation.",
+    "summary": "Databricks settled on $5 billion funding at $190 billion valuation after investor demand exceeded initial plans. CEO Ali Ghodsi noted AI infrastructure's high costs.",
+    "lang": "en",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/08/13/databricks-wanted-to-raise-1b-investors-wanted-15b-it-settled-on-5b-at-a-190b-valuation/",
+    "published": "2026-08-13T20:14:39+00:00"
+   }
+  ]
+ }
+}
