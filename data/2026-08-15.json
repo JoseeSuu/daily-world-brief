@@ -1,0 +1,340 @@
+{
+ "date": "2026-08-15",
+ "generated_at": "2026-08-15T05:50:54.081344+00:00",
+ "mode": "full",
+ "cost_usd": 0.0281,
+ "market": null,
+ "failed_sources": [],
+ "cells": {
+  "economia|asia": [
+   {
+    "title": "South Korea’s Lee Proposes Talks With North in Pursuit of Peace",
+    "summary": "South Korean President Lee Jae Myung called for dialogue with North Korea to reduce military tensions and achieve peaceful coexistence. The proposal aims to ease peninsula hostilities.",
+    "lang": "en",
+    "source": "Bloomberg Economics",
+    "url": "https://www.bloomberg.com/news/articles/2026-08-15/south-korea-s-lee-proposes-talks-with-north-in-pursuit-off-peace",
+    "published": "2026-08-15T03:48:46+00:00"
+   },
+   {
+    "title": "China Protests Japan PM, Defense Minister’s Yasukuni Actions",
+    "summary": "China lodged a formal protest after Japan's Prime Minister Takaichi sent an offering to Yasukuni shrine and Defense Minister Koizumi visited it. China objects to the shrine visits as historically insensitive.",
+    "lang": "en",
+    "source": "Bloomberg Markets",
+    "url": "https://www.bloomberg.com/news/articles/2026-08-15/china-protests-japan-pm-defense-minister-s-yasukuni-actions",
+    "published": "2026-08-15T04:01:34+00:00"
+   },
+   {
+    "title": "India Raises $50 Billion From Diaspora, Ends Swap Facility Early",
+    "summary": "India mobilized over $50 billion from overseas citizens since June, prompting the central bank to close its special foreign-currency window early. The fundraising exceeded expectations.",
+    "lang": "en",
+    "source": "Bloomberg Economics",
+    "url": "https://www.bloomberg.com/news/articles/2026-08-14/india-raises-50-billion-of-diaspora-dollars-ends-swap-facility",
+    "published": "2026-08-14T12:37:27+00:00"
+   },
+   {
+    "title": "China's Z.ai launches model it says rivals Anthropic's Mythos",
+    "summary": "China's Z.ai launched an AI model claiming to rival Anthropic's offerings. The release intensifies competition in advanced large language model development.",
+    "lang": "en",
+    "source": "Nikkei Asia",
+    "url": "https://asia.nikkei.com/business/technology/artificial-intelligence/china-s-z.ai-launches-model-it-says-rivals-anthropic-s-mythos",
+    "published": null
+   },
+   {
+    "title": "Vietnam public spending boom boosts infrastructure earnings",
+    "summary": "Vietnam's public spending boom is boosting infrastructure earnings across the sector. Increased investment is driving economic activity in transportation and construction.",
+    "lang": "en",
+    "source": "Nikkei Asia",
+    "url": "https://asia.nikkei.com/economy/vietnam-public-spending-boom-boosts-infrastructure-earnings",
+    "published": null
+   }
+  ],
+  "economia|europa": [
+   {
+    "title": "El Gobierno amplía la vida de la central nuclear de Almaraz hasta 2030 por la “volatilidad de precios” originada en Oriente Próximo",
+    "summary": "El Gobierno amplía la vida de la central nuclear de Almaraz hasta 2030 debido a la volatilidad de precios en Oriente Próximo. Mantiene el calendario de cierres de otras centrales hasta 2035.",
+    "lang": "es",
+    "source": "El País Economía",
+    "url": "https://elpais.com/economia/2026-08-14/el-gobierno-autoriza-la-prorroga-de-la-central-nuclear-almaraz-hasta-junio-de-2030.html",
+    "published": "2026-08-14T06:41:50+00:00"
+   },
+   {
+    "title": "US, Canada Still See Sticking Points Before Deadline for 50% Tariffs",
+    "summary": "US and Canada still face significant obstacles before the tariff deadline next week. Trade negotiators must resolve remaining issues to prevent new 50% tariffs.",
+    "lang": "en",
+    "source": "Bloomberg Economics",
+    "url": "https://www.bloomberg.com/news/articles/2026-08-15/us-canada-still-see-sticking-points-before-deadline-for-50-tariffs",
+    "published": "2026-08-15T00:35:07+00:00"
+   },
+   {
+    "title": "Francia encara en año electoral su ajuste de cuentas con la deuda",
+    "summary": "Francia afronta en año electoral un ajuste de cuentas con su deuda. La economía gala se financia más cara que otras grandes economías del euro y su déficit se dispara.",
+    "lang": "es",
+    "source": "El País Economía",
+    "url": "https://cincodias.elpais.com/opinion/2026-08-15/francia-encara-en-ano-electoral-su-ajuste-de-cuentas-con-la-deuda.html",
+    "published": "2026-08-15T03:40:00+00:00"
+   },
+   {
+    "title": "Las alianzas universitarias, el nuevo activo estratégico de Europa",
+    "summary": "Las universidades europeas integradas en alianzas estratégicas cofinancian sus déficits con presupuestos propios como inversión estratégica. Estas redes universitarias se consolidan como activo clave para Europa.",
+    "lang": "es",
+    "source": "El País Economía",
+    "url": "https://cincodias.elpais.com/opinion/2026-08-15/las-alianzas-universitarias-el-nuevo-activo-estrategico-de-europa.html",
+    "published": "2026-08-15T03:40:00+00:00"
+   }
+  ],
+  "economia|america": [
+   {
+    "title": "US accuses more than 40 countries of helping China avoid Trump’s tariffs",
+    "summary": "The White House accused over 40 countries including Canada, Japan, and EU members of enabling Chinese tariff evasion worth $60 billion via transshipment schemes. US officials claim systematic circumvention.",
+    "lang": "en",
+    "source": "FT Global Economy",
+    "url": "https://www.ft.com/content/5d5ed2dd-8326-4cad-aac3-5816448ceccf?syn-25a6b1a6=1",
+    "published": "2026-08-14T18:54:54+00:00"
+   },
+   {
+    "title": "Canada Must End Retaliation to Avoid New Tariffs, Greer Says",
+    "summary": "US Trade Representative Greer says Canada must end retaliatory trade measures against US products to avoid new tariffs taking effect next week. The White House demands policy reversal.",
+    "lang": "en",
+    "source": "Bloomberg Economics",
+    "url": "https://www.bloomberg.com/news/articles/2026-08-14/canada-must-remove-retaliation-to-avoid-new-tariffs-greer-says",
+    "published": "2026-08-14T16:02:24+00:00"
+   },
+   {
+    "title": "Americans sour on Trump’s economy as affordability strains intensify",
+    "summary": "Consumer sentiment and retail sales fell as affordability strains intensify and Middle East tensions worsen cost of living pressures. Americans increasingly disapprove of Trump's economic record.",
+    "lang": "en",
+    "source": "FT Global Economy",
+    "url": "https://www.ft.com/content/66d3a2de-6591-443d-83b0-94f2224edbbf?syn-25a6b1a6=1",
+    "published": "2026-08-14T18:49:51+00:00"
+   },
+   {
+    "title": "Fed’s Goolsbee Wants to See More Evidence of Cooling Inflation",
+    "summary": "Federal Reserve Bank of Chicago President Austan Goolsbee expressed encouragement over recent inflation cooling but wants more evidence in coming months. Further confirmation is needed for confidence.",
+    "lang": "en",
+    "source": "Bloomberg Economics",
+    "url": "https://www.bloomberg.com/news/articles/2026-08-14/fed-s-goolsbee-wants-to-see-more-evidence-of-cooling-inflation",
+    "published": "2026-08-14T16:32:49+00:00"
+   }
+  ],
+  "politica|asia": [
+   {
+    "title": "普京首次访问日俄争议岛屿，激怒东京",
+    "summary": "普京首次访问俄日争议岛屿重申领土主张，抗议日本对俄制裁。此举引发东京强烈谴责和外交纠纷。",
+    "lang": "zh",
+    "source": "纽约时报中文网",
+    "url": "https://cn.nytimes.com/asia-pacific/20260814/putin-visit-islands-japan-russia/?utm_source=RSS",
+    "published": "2026-08-14T02:43:36+00:00"
+   },
+   {
+    "title": "US team sent to Taiwan to train coastguards amid surge in mainland Chinese activity",
+    "summary": "The United States sent a coastguard training team to Taiwan as Beijing increases military presence near the island. The deployment supports Taiwan's capacity-building amid regional tensions.",
+    "lang": "en",
+    "source": "South China Morning Post (China)",
+    "url": "https://www.scmp.com/news/china/military/article/3364096/us-team-sent-taiwan-train-coastguards-amid-surge-mainland-chinese-activity?utm_source=rss_feed",
+    "published": "2026-08-14T12:09:00+00:00"
+   },
+   {
+    "title": "Miles ahead: China team boosts atom entanglement distance record fourfold",
+    "summary": "Chinese scientists achieved quantum entanglement of cold atoms across 420 kilometers, quadrupling the previous record distance. The breakthrough advances intercity quantum network development.",
+    "lang": "en",
+    "source": "South China Morning Post (China)",
+    "url": "https://www.scmp.com/news/china/science/article/3364045/miles-ahead-china-team-boosts-atom-entanglement-distance-record-fourfold?utm_source=rss_feed",
+    "published": "2026-08-14T11:00:10+00:00"
+   },
+   {
+    "title": "伊朗嗆美「接受戰敗現實」 川普籲民眾接受油價漲",
+    "summary": "伊朗要求美国接受战败现实，川普斥伊朗为邪恶国家并警告油价上涨。两国对峙加剧中东地区紧张局势。",
+    "lang": "zh",
+    "source": "中央社 CNA",
+    "url": "https://www.cna.com.tw/news/aopl/202608150067.aspx",
+    "published": "2026-08-15T03:47:08+00:00"
+   }
+  ],
+  "politica|europa": [
+   {
+    "title": "Afghanistan's Taliban break out of international isolation five years after returning to power",
+    "summary": "Afghanistan's Taliban broke out of international isolation five years after returning to power through regional trade discussions and counterterrorism negotiations with American and European officials. Diplomatic engagement is expanding.",
+    "lang": "en",
+    "source": "Le Monde International",
+    "url": "https://www.lemonde.fr/en/international/article/2026/08/15/afghanistan-s-taliban-break-out-of-international-isolation-five-years-after-returning-to-power_6756531_4.html",
+    "published": "2026-08-15T03:01:05+00:00"
+   },
+   {
+    "title": "Venezuela frees over 130 political prisoners amid post-Maduro talks",
+    "summary": "Venezuela freed over 130 political prisoners amid post-election talks with the interim government. The releases follow opposition figure Dinorah Figuera's commitment to fight for prisoner freedom.",
+    "lang": "en",
+    "source": "Le Monde International",
+    "url": "https://www.lemonde.fr/en/international/article/2026/08/15/venezuela-frees-more-political-prisoners-amid-post-maduro-talks_6756525_4.html",
+    "published": "2026-08-14T22:48:22+00:00"
+   },
+   {
+    "title": "Jason Arday: Ex-Cambridge professor at centre of plagiarism scandal found dead",
+    "summary": "Jason Arday, Cambridge's youngest Black professor, was found dead in London while facing a plagiarism scandal. He had recently resigned amid the controversy.",
+    "lang": "en",
+    "source": "Deutsche Welle World",
+    "url": "https://www.dw.com/en/jason-arday-ex-cambridge-professor-at-centre-of-plagiarism-scandal-found-dead/a-78377633?maca=en-rss-en-world-4025-rdf",
+    "published": "2026-08-14T20:03:00+00:00"
+   },
+   {
+    "title": "Probe into €5.8 million gift to Nigel Farage reopens as he wins by-election",
+    "summary": "Nigel Farage of far-right Reform UK reclaimed his Clacton seat, triggering reopening of a parliamentary standards probe into a £5 million cryptocurrency donation. The investigation resumes with his by-election victory.",
+    "lang": "en",
+    "source": "Le Monde International",
+    "url": "https://www.lemonde.fr/en/international/article/2026/08/14/probe-into-5-8-million-gift-to-british-far-right-leader-farage-reopens-as-he-wins-by-election_6756514_4.html",
+    "published": "2026-08-14T15:45:33+00:00"
+   },
+   {
+    "title": "Congo: Ebola cases are rising at record pace",
+    "summary": "Ebola cases are rising at record pace in the Democratic Republic of Congo with significant spread in Kinshasa. Hospitals are preparing for a potential major health crisis.",
+    "lang": "en",
+    "source": "Deutsche Welle World",
+    "url": "https://www.dw.com/en/congo-ebola-cases-are-rising-at-record-pace/a-78364053?maca=en-rss-en-world-4025-rdf",
+    "published": "2026-08-14T13:25:00+00:00"
+   }
+  ],
+  "politica|america": [
+   {
+    "title": "Mangione admits killing healthcare CEO and pleads guilty to federal charges",
+    "summary": "Luigi Mangione, 28, admitted to killing healthcare CEO Brian Thompson in Manhattan and pleaded guilty to federal charges including stalking resulting in death. The confession concluded a high-profile case.",
+    "lang": "en",
+    "source": "BBC World",
+    "url": "https://www.bbc.co.uk/news/articles/cwy0nlq1l2wo?at_medium=RSS&at_campaign=rss",
+    "published": "2026-08-14T19:20:43+00:00"
+   },
+   {
+    "title": "U.S. missionary who was kidnapped in Niger is released",
+    "summary": "US missionary Kevin Rideout, kidnapped in Niger, was released and is in good health under US care. He will soon be reunited with his family.",
+    "lang": "en",
+    "source": "NPR World",
+    "url": "https://www.npr.org/2026/08/14/nx-s1-5931225/kidnapped-us-missionary-released",
+    "published": "2026-08-14T12:11:50+00:00"
+   },
+   {
+    "title": "New aircraft carrier heads toward Mideast after reports of issues on long-deployed USS Lincoln",
+    "summary": "The USS George Washington aircraft carrier began heading toward the Middle East as the long-deployed USS Lincoln faces mental health and supply issues. Fresh carrier deployment provides replacement capability.",
+    "lang": "en",
+    "source": "NPR World",
+    "url": "https://www.npr.org/2026/08/14/nx-s1-5931183/new-aircraft-carrier-heads-toward-mideast-after-reports-of-issues-on-long-deployed-uss-lincoln",
+    "published": "2026-08-14T06:31:29+00:00"
+   },
+   {
+    "title": "Sen. Ruben Gallego on handling of USS Lincoln conditions: 'That's not proper leadership'",
+    "summary": "Democratic Senator Ruben Gallego criticized Pentagon leadership for failing to properly address living conditions aboard the USS Lincoln. Lawmakers demand answers about sailor welfare.",
+    "lang": "en",
+    "source": "NPR World",
+    "url": "https://www.npr.org/2026/08/14/nx-s1-5930365/uss-abraham-lincoln-iran-navy-ruben-gallego",
+    "published": "2026-08-14T10:47:19+00:00"
+   },
+   {
+    "title": "Trump extiende sus tentáculos militares en Latinoamérica",
+    "summary": "Trump extiende su presencia militar en Latinoamérica planteando operaciones en Colombia y no descartando opciones militares en Cuba. La estrategia choca con la resistencia regional.",
+    "lang": "es",
+    "source": "El País Internacional",
+    "url": "https://elpais.com/america/2026-08-14/ee-uu-reafirma-en-colombia-y-cuba-la-disposicion-de-su-ejercito-a-intervenir-en-latinoamerica-en-defensa-de-sus-intereses.html",
+    "published": "2026-08-14T03:30:00+00:00"
+   }
+  ],
+  "tecnologia|america": [
+   {
+    "title": "Vulnerability giving attackers full control of Macs is under active exploitation",
+    "summary": "A critical macOS screen-sharing vulnerability allowing remote password-free login is under active exploitation. The bug represents a severe security threat to affected systems.",
+    "lang": "en",
+    "source": "Ars Technica",
+    "url": "https://arstechnica.com/security/2026/08/vulnerability-giving-attackers-full-control-of-macs-is-under-active-exploitation/",
+    "published": "2026-08-14T18:32:14+00:00"
+   },
+   {
+    "title": "Self-driving trucks are officially testing on California highways",
+    "summary": "Aurora Innovation and Kodiak AI received California Department of Motor Vehicles permits for official self-driving truck testing on highways. Commercial autonomous trucking testing is now authorized.",
+    "lang": "en",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/08/14/self-driving-trucks-are-officially-testing-on-california-highways/",
+    "published": "2026-08-14T20:37:49+00:00"
+   },
+   {
+    "title": "Suspecting court of using AI, man injected prompts in filings to try to win case",
+    "summary": "A pro se litigant attempted to inject AI prompts in court filings suspecting the court used AI, but the judge warned litigants are using chatbots incorrectly. The tactic proved ineffective.",
+    "lang": "en",
+    "source": "Ars Technica",
+    "url": "https://arstechnica.com/tech-policy/2026/08/suspecting-court-of-using-ai-man-injected-prompts-in-filings-to-try-to-win-case/",
+    "published": "2026-08-14T17:26:53+00:00"
+   },
+   {
+    "title": "What we know about the alleged Iranian hacks on US water utilities",
+    "summary": "Iranian hackers targeted and breached systems at multiple US water utility plants in recent weeks. The campaign highlights vulnerability of critical infrastructure to state-sponsored attack.",
+    "lang": "en",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/08/14/what-we-know-about-the-alleged-iranian-hacks-on-u-s-water-utilities/",
+    "published": "2026-08-14T19:04:32+00:00"
+   },
+   {
+    "title": "Judge gives Google one week to fix \"anticompetitive\" app store download in Google Play",
+    "summary": "A judge ordered Google to fix 'anticompetitive' Google Play app store download practices within one week. Third-party app stores will become more visible to users.",
+    "lang": "en",
+    "source": "Ars Technica",
+    "url": "https://arstechnica.com/gadgets/2026/08/google-ordered-to-make-it-easier-to-download-alternative-android-app-stores/",
+    "published": "2026-08-14T15:46:40+00:00"
+   }
+  ],
+  "tecnologia|europa": [
+   {
+    "title": "Z.ai entrenó GLM-5.3 para programar mejor. El modelo aprendió de paso a ser mucho mejor en ciberseguridad",
+    "summary": "El modelo GLM-5.3 de Z.ai, entrenado para mejorar programación, mejoró simultáneamente en ciberseguridad. El entrenamiento para una tarea benefició inesperadamente otras capacidades.",
+    "lang": "es",
+    "source": "Xataka",
+    "url": "https://www.xataka.com/robotica-e-ia/z-ai-entreno-glm-5-3-para-programar-mejor-modelo-aprendio-paso-a-ser-mucho-mejor-ciberseguridad",
+    "published": "2026-08-14T21:43:49+00:00"
+   },
+   {
+    "title": "Esther Bastida, la científica de la misión de la ESA que 'crea' 4.000 eclipses al año: \"Muchos son inaccesibles a los telescopios, por eso es tan útil generarlos artificialmente\"",
+    "summary": "Esther Bastida, científica de la ESA, crea 4.000 eclipses anuales artificialmente para investigación. Muchos eclipses naturales son inaccesibles a telescopios, por eso la generación artificial resulta útil.",
+    "lang": "es",
+    "source": "Xataka",
+    "url": "https://www.xataka.com/espacio/esther-bastida-cientifica-espanola-esa-que-crea-4-000-eclipses-al-ano-muchos-inaccesibles-a-telescopios-eso-util-generarlos-artificialmente",
+    "published": "2026-08-14T18:31:15+00:00"
+   },
+   {
+    "title": "Australia protegió sus cables submarinos. Dos han fallado casi a la vez justo cuando un barco rondaba por la zona",
+    "summary": "Australia protegió sus cables submarinos tras fallos simultáneos de dos cuando un barco rondaba la zona. La infraestructura submarina es crítica para comunicaciones e internet.",
+    "lang": "es",
+    "source": "Xataka",
+    "url": "https://www.xataka.com/servicios/australia-protegio-sus-cables-submarinos-dos-han-fallado-casi-a-vez-justo-cuando-barco-rondaba-zona",
+    "published": "2026-08-14T17:31:15+00:00"
+   }
+  ],
+  "tecnologia|asia": [
+   {
+    "title": "【資安週報】0810~0814，疑中國駭客打造AI自主攻擊框架對臺發動攻擊，資安署表示已對此人機結合境外攻擊展開應變",
+    "summary": "中国驭客使用AI自主攻击框架对台湾政府机关和能源公司发动攻击。台湾资安署已启动应变措施应对这一新型混合攻击威胁。",
+    "lang": "zh",
+    "source": "iThome 台灣",
+    "url": "https://www.ithome.com.tw/news/178145",
+    "published": "2026-08-14T06:08:01+00:00"
+   },
+   {
+    "title": "xAI 前共同創辦人新創 River AI 獲 11 億美元融資，主打低成本企業客製化 AI 模型",
+    "summary": "xAI前共同创办人创办的River AI获得11亿美元融资。资金用于扩大企业级AI工具组助客户开发定制化AI模型。",
+    "lang": "zh",
+    "source": "科技新報 TechNews",
+    "url": "https://finance.technews.tw/2026/08/15/river-ai-raises-1-1-billion-for-enterprise-ai-tools/",
+    "published": "2026-08-15T03:30:55+00:00"
+   },
+   {
+    "title": "雲端安全聯盟揭2026年11大雲端威脅，AI強化攻擊與AI系統遭入侵首度進榜",
+    "summary": "云端安全联盟公布2026年云端威胁报告，AI强化攻击和AI系统遭入侵首次进入前11名。企业采用AI和云服务面临新型安全风险。",
+    "lang": "zh",
+    "source": "iThome 台灣",
+    "url": "https://www.ithome.com.tw/news/178137",
+    "published": "2026-08-14T12:08:22+00:00"
+   },
+   {
+    "title": "中國駭客Jewelbug間諜與加密貨幣詐騙並行，共用控制平臺與伺服器",
+    "summary": "中国驭客组织Jewelbug同时进行政府间谍活动和针对华语使用者的加密货币诈骗。两项行动共用控制平台、伺服器和受害者数据库。",
+    "lang": "zh",
+    "source": "iThome 台灣",
+    "url": "https://www.ithome.com.tw/news/178133",
+    "published": "2026-08-14T02:08:04+00:00"
+   }
+  ]
+ }
+}
