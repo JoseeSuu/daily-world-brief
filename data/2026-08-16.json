@@ -1,0 +1,316 @@
+{
+ "date": "2026-08-16",
+ "generated_at": "2026-08-16T05:52:49.937046+00:00",
+ "mode": "full",
+ "cost_usd": 0.0239,
+ "market": null,
+ "failed_sources": [],
+ "cells": {
+  "economia|asia": [
+   {
+    "title": "How India’s Future May Turn on Its Coming Census",
+    "summary": "India's upcoming census will address sensitive questions about economic benefits distribution across the population.",
+    "lang": "en",
+    "source": "Bloomberg Economics",
+    "url": "https://www.bloomberg.com/news/newsletters/2026-08-15/how-india-s-future-may-turn-on-its-coming-census",
+    "published": "2026-08-15T10:45:01+00:00"
+   },
+   {
+    "title": "China Plans to Speed Up New Energy Recycling, Waste Rules: CCTV",
+    "summary": "China accelerates rules for recycling and reusing wind and solar equipment, aiming to establish a closed-loop waste system for the industry.",
+    "lang": "en",
+    "source": "Bloomberg Markets",
+    "url": "https://www.bloomberg.com/news/articles/2026-08-16/china-plans-to-speed-up-new-energy-recycling-waste-rules-cctv",
+    "published": "2026-08-16T04:28:04+00:00"
+   },
+   {
+    "title": "No room for data centers? South Korea wants to build one underwater",
+    "summary": "South Korea explores building underwater data centers to address space constraints on land.",
+    "lang": "en",
+    "source": "Nikkei Asia",
+    "url": "https://asia.nikkei.com/business/technology/no-room-for-data-centers-south-korea-wants-to-build-one-underwater",
+    "published": null
+   },
+   {
+    "title": "Modi pitches 7 growth mantras, wants '50 Indian firms in Fortune 500'",
+    "summary": "Prime Minister Modi outlined seven growth strategies and aims to have 50 Indian firms in Fortune 500.",
+    "lang": "en",
+    "source": "Nikkei Asia",
+    "url": "https://asia.nikkei.com/politics/modi-pitches-7-growth-mantras-wants-50-indian-firms-in-fortune-500",
+    "published": null
+   },
+   {
+    "title": "Japan Inc. boosts short-term corporate debt holdings amid inflation",
+    "summary": "Japanese companies increase short-term corporate debt holdings amid persistent inflation pressures.",
+    "lang": "en",
+    "source": "Nikkei Asia",
+    "url": "https://asia.nikkei.com/business/finance/japan-inc.-boosts-short-term-corporate-debt-holdings-amid-inflation",
+    "published": null
+   }
+  ],
+  "economia|europa": [
+   {
+    "title": "Bruselas se pertrecha ante una posible batalla comercial con China",
+    "summary": "Bruselas prepara mecanismos para diversificar proveedores en sectores críticos y crear fondos de compensación ante posibles represalias comerciales chinas.",
+    "lang": "es",
+    "source": "El País Economía",
+    "url": "https://elpais.com/economia/2026-08-16/bruselas-se-pertrecha-ante-una-posible-batalla-comercial-con-china.html",
+    "published": "2026-08-16T03:45:01+00:00"
+   },
+   {
+    "title": "El mercado de coches chino cae y sus marcas se lanzan a exportar",
+    "summary": "Las matriculaciones de coches cayeron 21% en China en el primer semestre, impulsando a marcas como Xiaomi a expandirse hacia Europa.",
+    "lang": "es",
+    "source": "El País Economía",
+    "url": "https://elpais.com/economia/2026-08-16/el-mercado-de-coches-chino-cae-y-sus-marcas-se-lanzan-a-exportar.html",
+    "published": "2026-08-16T03:45:01+00:00"
+   },
+   {
+    "title": "La transición energética depende de la red eléctrica",
+    "summary": "La transición energética requiere mejora urgente en capacidad de transmisión y almacenamiento de la red eléctrica.",
+    "lang": "es",
+    "source": "El País Economía",
+    "url": "https://elpais.com/economia/negocios/2026-08-16/la-transicion-energetica-depende-de-la-red-electrica.html",
+    "published": "2026-08-16T03:30:00+00:00"
+   },
+   {
+    "title": "European companies count the costs and gains of extreme heat",
+    "summary": "European companies reported record impacts from extreme heat, drought, and wildfires on earnings calls recently.",
+    "lang": "en",
+    "source": "Financial Times",
+    "url": "https://www.ft.com/content/1419012f-feca-4efd-a817-dc0392cd76e3?syn-25a6b1a6=1",
+    "published": "2026-08-16T04:00:11+00:00"
+   }
+  ],
+  "economia|america": [
+   {
+    "title": "Colombia Asks US to Pause Tariffs in Deadly Quake’s Aftermath",
+    "summary": "Colombia's president asked Trump to temporarily suspend tariffs following a devastating earthquake affecting the country.",
+    "lang": "en",
+    "source": "Bloomberg Economics",
+    "url": "https://www.bloomberg.com/news/articles/2026-08-15/colombia-asks-us-to-pause-tariffs-in-deadly-quake-s-aftermath",
+    "published": "2026-08-15T21:30:08+00:00"
+   },
+   {
+    "title": "Colombia’s $10 Billion Earthquake Bill Imperils Austerity Drive",
+    "summary": "Colombia's earthquake caused estimated $10 billion in damages, threatening the new president's fiscal austerity plan.",
+    "lang": "en",
+    "source": "Bloomberg Economics",
+    "url": "https://www.bloomberg.com/news/articles/2026-08-15/colombia-s-10-billion-earthquake-bill-imperils-austerity-drive",
+    "published": "2026-08-15T10:00:00+00:00"
+   },
+   {
+    "title": "As Global Waterways Face Squeeze, Mexico Pitches CIIT as Alternative Corridor",
+    "summary": "Mexico proposes a southern land corridor as alternative global trade route amid disruptions in Panama Canal and Red Sea.",
+    "lang": "en",
+    "source": "Bloomberg Economics",
+    "url": "https://www.bloomberg.com/news/features/2026-08-15/as-global-waterways-face-squeeze-mexico-pitches-ciit-as-alternative-corridor",
+    "published": "2026-08-15T12:00:05+00:00"
+   },
+   {
+    "title": "Peru’s Economy Unexpectedly Slows as Fishing, Agriculture Slump",
+    "summary": "Peru's economy unexpectedly slowed in June due to fishing and agriculture decline caused by unusual weather conditions.",
+    "lang": "en",
+    "source": "Bloomberg Markets",
+    "url": "https://www.bloomberg.com/news/articles/2026-08-15/peru-s-economy-unexpectedly-slows-as-fishing-agriculture-slump",
+    "published": "2026-08-15T15:40:00+00:00"
+   }
+  ],
+  "politica|asia": [
+   {
+    "title": "Indonesia’s magnitude 7.7 quake kills at least 51, displaces thousands",
+    "summary": "Indonesia's 7.7 magnitude earthquake killed at least 51 people and displaced 5,000, damaging over 1,300 homes.",
+    "lang": "en",
+    "source": "Al Jazeera English",
+    "url": "https://www.aljazeera.com/news/2026/8/16/indonesias-magnitude-7-7-quake-kills-at-least-51-displaces-thousands?traffic_source=rss",
+    "published": "2026-08-16T05:14:00+00:00"
+   },
+   {
+    "title": "伊朗戰事拖累美軍航艦調度 西太平洋恐現空窗期",
+    "summary": "美国对伊朗战事导致航母调度压力增大，西太平洋出现战舰部署空窗，中国展现更多侵略迹象。",
+    "lang": "zh",
+    "source": "中央社 CNA",
+    "url": "https://www.cna.com.tw/news/aopl/202608160073.aspx",
+    "published": "2026-08-16T04:14:57+00:00"
+   },
+   {
+    "title": "As China launches new gang crackdown, lawyers fear wrongful convictions",
+    "summary": "During China's organized crime crackdown, lawyers express concerns about wrongful convictions of defendants like real estate developer Zeng Jianbin.",
+    "lang": "en",
+    "source": "South China Morning Post (China)",
+    "url": "https://www.scmp.com/news/china/politics/article/3364158/china-launches-new-gang-crackdown-lawyers-fear-wrongful-convictions?utm_source=rss_feed",
+    "published": "2026-08-16T02:00:15+00:00"
+   },
+   {
+    "title": "North Korea’s Kim and Russia’s Putin reaffirm ties on Korean Liberation Day",
+    "summary": "North Korea's Kim and Russia's Putin reaffirmed ties on Korean Liberation Day as Pyongyang deploys troops supporting Russia's Ukraine war.",
+    "lang": "en",
+    "source": "Japan Times",
+    "url": "https://www.japantimes.co.jp/news/2026/08/16/asia-pacific/politics/kim-putin-reaffirm-ties/",
+    "published": "2026-08-16T02:30:00+00:00"
+   },
+   {
+    "title": "Taiwan drone defences fall short against Beijing’s evolving technology, audit reveals",
+    "summary": "Taiwan's audit reveals technical shortcomings in its counter-drone defense shield and procurement program challenges.",
+    "lang": "en",
+    "source": "South China Morning Post (China)",
+    "url": "https://www.scmp.com/news/china/military/article/3364142/taiwan-drone-defences-fall-short-against-beijings-evolving-technology-audit-reveals?utm_source=rss_feed",
+    "published": "2026-08-15T14:00:07+00:00"
+   }
+  ],
+  "politica|europa": [
+   {
+    "title": "Lebanon says 11 killed in Israeli airstrikes",
+    "summary": "Israeli airstrikes killed 11 people in southern Lebanon; Israel claims targeting Hezbollah infrastructure while Lebanon says civilians were hit.",
+    "lang": "en",
+    "source": "Deutsche Welle World",
+    "url": "https://www.dw.com/en/lebanon-says-11-killed-in-israeli-airstrikes/a-78383713?maca=en-rss-en-world-4025-rdf",
+    "published": "2026-08-15T15:35:00+00:00"
+   },
+   {
+    "title": "Russians snap up new homes built on Ukraine 'graveyard'",
+    "summary": "Russia constructs residential high-rises in occupied Mariupol on sites of buildings it destroyed during the war.",
+    "lang": "en",
+    "source": "Deutsche Welle World",
+    "url": "https://www.dw.com/en/russians-snap-up-new-homes-built-on-ukraine-graveyard/a-78360176?maca=en-rss-en-world-4025-rdf",
+    "published": "2026-08-15T11:50:00+00:00"
+   },
+   {
+    "title": "Zelensky regains control after a month of political crisis",
+    "summary": "Ukraine's President Zelensky appears to regain political control after dismissing defense minister Fedorov sparked public and opposition anger.",
+    "lang": "en",
+    "source": "Le Monde International",
+    "url": "https://www.lemonde.fr/en/international/article/2026/08/15/zelensky-regains-control-after-a-month-of-political-crisis_6756543_4.html",
+    "published": "2026-08-15T16:01:06+00:00"
+   },
+   {
+    "title": "Liechtenstein changes its rules to allow women to inherit the Alpine principality's throne",
+    "summary": "Liechtenstein's Hereditary Prince Alois announced changing rules to allow women to inherit the Alpine principality's throne.",
+    "lang": "en",
+    "source": "Le Monde International",
+    "url": "https://www.lemonde.fr/en/international/article/2026/08/15/liechtenstein-changes-its-rules-to-allow-women-to-inherit-the-alpine-principality-s-throne_6756540_4.html",
+    "published": "2026-08-15T13:34:25+00:00"
+   },
+   {
+    "title": "Wildfires in Belgium force evacuations",
+    "summary": "Wildfires in Belgium's High Fens natural park scorched at least 16 square kilometers, marking largest fire in recent history.",
+    "lang": "en",
+    "source": "Le Monde International",
+    "url": "https://www.lemonde.fr/en/environment/article/2026/08/15/wildfires-in-belgium-force-evacuations_6756544_114.html",
+    "published": "2026-08-15T16:37:06+00:00"
+   }
+  ],
+  "politica|america": [
+   {
+    "title": "Families of USS Lincoln crew say Trump should be 'ashamed' of conditions on board",
+    "summary": "Families of USS Lincoln crew criticized President Trump's comment that the deployment is not long enough.",
+    "lang": "en",
+    "source": "NPR World",
+    "url": "https://www.npr.org/2026/08/15/nx-s1-5932539/uss-lincoln-trump-dire-conditions",
+    "published": "2026-08-15T18:21:32+00:00"
+   },
+   {
+    "title": "They fought for the U.S. in Afghanistan. Now they worry about losing their green cards",
+    "summary": "Afghan veterans who helped U.S. troops now worry about potentially losing green cards following America's Afghanistan withdrawal.",
+    "lang": "en",
+    "source": "NPR World",
+    "url": "https://www.npr.org/2026/08/15/nx-s1-5897606/afghanistan-visa-green-card-deport",
+    "published": "2026-08-15T09:00:00+00:00"
+   },
+   {
+    "title": "Multiple suspects at large after five shot at Virginia State University, police say",
+    "summary": "Multiple suspects remain at large after a shooting at Virginia State University left five people injured early Saturday.",
+    "lang": "en",
+    "source": "BBC World",
+    "url": "https://www.bbc.co.uk/news/articles/c0l5583903yo?at_medium=RSS&at_campaign=rss",
+    "published": "2026-08-15T19:34:22+00:00"
+   },
+   {
+    "title": "Hawaii braces for potential first direct hit by a hurricane in 34 years",
+    "summary": "Hawaii braces for potential first direct hurricane hit in 34 years as category one storm Lala approaches Big Island.",
+    "lang": "en",
+    "source": "BBC World",
+    "url": "https://www.bbc.co.uk/news/articles/crmrr7kjy9vo?at_medium=RSS&at_campaign=rss",
+    "published": "2026-08-16T03:54:11+00:00"
+   },
+   {
+    "title": "哥倫比亞強震294死 尋獲倖存者希望渺茫",
+    "summary": "哥伦比亚西部强震已造成数百人死亡失踪，搜救人员持续清理遗体，生存希望日益渺茫。",
+    "lang": "zh",
+    "source": "中央社 CNA",
+    "url": "https://www.cna.com.tw/news/aopl/202608160023.aspx",
+    "published": "2026-08-16T01:38:09+00:00"
+   }
+  ],
+  "tecnologia|asia": [
+   {
+    "title": "WordPress漏洞XSS2Shell可讓駭客執行PHP程式碼，逾萬網站遭自動化鎖定",
+    "summary": "WordPress核心漏洞CVE-2026-64638允许攻击者执行PHP代码，逾万网站遭自动化鎖定，需立即更新至7.0.3。",
+    "lang": "zh",
+    "source": "iThome 台灣",
+    "url": "https://www.ithome.com.tw/news/178147",
+    "published": "2026-08-16T09:08:00+00:00"
+   },
+   {
+    "title": "輝達砸 30 億美元投資 SB Energy！助 OpenAI 建置千億美元資料中心",
+    "summary": "輝達投資30億美元予軟銀SB Energy公司，協助OpenAI建設千億美元規模資料中心。",
+    "lang": "zh",
+    "source": "科技新報 TechNews",
+    "url": "https://finance.technews.tw/2026/08/16/sb-energy-softbank/",
+    "published": "2026-08-16T01:16:19+00:00"
+   },
+   {
+    "title": "李飛飛警告：AI 最大風險不是作弊，而是奪走學生的主動思考權",
+    "summary": "李飛飛警告AI在教育中最大風險是削弱學生主動思考能力，而非單純作弊問題。",
+    "lang": "zh",
+    "source": "科技新報 TechNews",
+    "url": "https://technews.tw/2026/08/16/fei-fei-li-says-ai-could-take-away-students-motivation-to-learn/",
+    "published": "2026-08-16T03:30:42+00:00"
+   }
+  ],
+  "tecnologia|europa": [
+   {
+    "title": "Ukraine strikes major Russian rocket factory with cruise missiles",
+    "summary": "Ukraine struck a major Russian rocket factory with cruise missiles in a significant military achievement.",
+    "lang": "en",
+    "source": "Ars Technica",
+    "url": "https://arstechnica.com/space/2026/08/ukraine-strikes-major-russian-rocket-factory-with-cruise-missiles/",
+    "published": "2026-08-15T15:46:05+00:00"
+   }
+  ],
+  "tecnologia|america": [
+   {
+    "title": "Anthropic shares more details about how Claude’s new watermarks will work",
+    "summary": "Anthropic details how Claude's new watermarks will function and their interaction with editing and code.",
+    "lang": "en",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/08/15/anthropic-shares-more-details-about-how-claudes-new-watermarks-will-work/",
+    "published": "2026-08-15T18:58:39+00:00"
+   },
+   {
+    "title": "SpaceX officially closes its Cursor acquisition",
+    "summary": "SpaceX officially completes acquisition of AI coding startup Cursor.",
+    "lang": "en",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/08/15/spacex-officially-closes-its-cursor-acquisition/",
+    "published": "2026-08-15T16:30:00+00:00"
+   },
+   {
+    "title": "Amazon Can Use Your Twitch Content to Train Its AI—Unless You Opt Out",
+    "summary": "Amazon can use Twitch streamers' content to train AI unless users explicitly opt out of the program.",
+    "lang": "en",
+    "source": "Wired",
+    "url": "https://www.wired.com/story/amazon-uses-your-twitch-content-to-train-its-ai-how-to-opt-out/",
+    "published": "2026-08-15T09:00:00+00:00"
+   },
+   {
+    "title": "How to tell if your AI platforms’ accounts have been hacked",
+    "summary": "Guide provided on checking whether hacker accounts have compromised popular AI platforms.",
+    "lang": "en",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/08/15/how-to-tell-if-your-ai-platforms-accounts-have-been-hacked/",
+    "published": "2026-08-15T16:10:00+00:00"
+   }
+  ]
+ }
+}
