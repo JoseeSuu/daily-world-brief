@@ -1,0 +1,268 @@
+{
+ "date": "2026-08-17",
+ "generated_at": "2026-08-17T05:59:59.174687+00:00",
+ "mode": "full",
+ "cost_usd": 0.0255,
+ "market": null,
+ "failed_sources": [],
+ "cells": {
+  "economia|asia": [
+   {
+    "title": "China’s energy strategy vindicated by Iran war",
+    "summary": "China's energy strategy has been validated by developments in the Iran conflict. The approach is expected to be adopted by other nations, significantly shaping global energy markets.",
+    "lang": "en",
+    "source": "FT Global Economy",
+    "url": "https://www.ft.com/content/3aa706c2-50bb-4187-a053-c09e3c063d72",
+    "published": "2026-08-16T23:01:05+00:00"
+   },
+   {
+    "title": "10-year JGB yields slip past 2.9% on faster BOJ tightening expectations",
+    "summary": "Japanese 10-year government bond yields fell past 2.9% as markets anticipate faster Bank of Japan tightening measures. The movement reflects changing expectations for monetary policy.",
+    "lang": "en",
+    "source": "Nikkei Asia",
+    "url": "https://asia.nikkei.com/business/markets/10-year-jgb-yields-slip-past-2.9-on-faster-boj-tightening-expectations",
+    "published": null
+   },
+   {
+    "title": "Japan's economy shows weaker than expected 1.1% growth in second quarter",
+    "summary": "Japan's economy grew 1.1% in the second quarter, falling short of expectations. The weaker-than-anticipated growth signals slowing economic momentum.",
+    "lang": "en",
+    "source": "Nikkei Asia",
+    "url": "https://asia.nikkei.com/economy/japan-s-economy-shows-weaker-than-expected-1.1-growth-in-second-quarter",
+    "published": null
+   },
+   {
+    "title": "China shock looms for robotics as physical AI race heats up: think tank",
+    "summary": "China faces potential disruption in robotics as physical AI competition accelerates globally. A think tank warns of significant challenges ahead in this rapidly evolving sector.",
+    "lang": "en",
+    "source": "Nikkei Asia",
+    "url": "https://asia.nikkei.com/business/china-tech/china-shock-looms-for-robotics-as-physical-ai-race-heats-up-think-tank",
+    "published": null
+   }
+  ],
+  "economia|europa": [
+   {
+    "title": "Shein afronta multas potenciales de hasta 3.800 millones solo por sus litigios en Europa",
+    "summary": "Shein enfrenta multas potenciales de hasta 3.800 millones en Europa por venta de productos ilegales. La investigación de Bruselas representa la sanción más severa contra la plataforma de comercio electrónico.",
+    "lang": "es",
+    "source": "El País Economía",
+    "url": "https://cincodias.elpais.com/companias/2026-08-17/shein-afronta-multas-potenciales-de-hasta-3800-millones-solo-por-sus-litigios-en-europa.html",
+    "published": "2026-08-17T03:15:00+00:00"
+   },
+   {
+    "title": "El Gobierno prepara medidas contra el abuso de temporalidad en el empleo público y acota el problema a 200.000 interinos",
+    "summary": "El Gobierno español prepara medidas contra abuso de temporalidad en empleo público, acotando el problema a 200.000 interinos. Negocia con comunidades un sistema de alertas y sanciones para gestores públicos.",
+    "lang": "es",
+    "source": "El País Economía",
+    "url": "https://elpais.com/economia/2026-08-17/el-gobierno-prepara-medidas-contra-el-abuso-de-temporalidad-en-el-empleo-publico-y-acota-el-problema-a-200000-interinos.html",
+    "published": "2026-08-17T03:45:01+00:00"
+   },
+   {
+    "title": "La transición energética depende de la red eléctrica",
+    "summary": "La transición energética depende críticamente de mejoras en la red eléctrica. Se requiere aumentar capacidad de transmisión y almacenamiento para viabilizar la transformación energética.",
+    "lang": "es",
+    "source": "El País Economía",
+    "url": "https://elpais.com/economia/negocios/2026-08-16/la-transicion-energetica-depende-de-la-red-electrica.html",
+    "published": "2026-08-16T03:30:00+00:00"
+   },
+   {
+    "title": "Portugal and Spain struggle as EU housing black spots",
+    "summary": "Portugal and Spain are EU housing black spots, plagued by severe property shortages. Immigration, bureaucratic obstacles, and elevated construction costs fuel the crisis.",
+    "lang": "en",
+    "source": "Financial Times",
+    "url": "https://www.ft.com/content/3163af73-e7d0-4e21-81af-963d6c2fce45?syn-25a6b1a6=1",
+    "published": "2026-08-17T04:00:10+00:00"
+   }
+  ],
+  "economia|america": [
+   {
+    "title": "Canadian business braced for 50% US tariffs",
+    "summary": "Canadian businesses prepare for potential 50% US tariffs as trade negotiations continue intensely. The talks include discussions on Japanese economic growth and UK inflation data.",
+    "lang": "en",
+    "source": "FT Global Economy",
+    "url": "https://www.ft.com/content/d14b21c8-6a63-4593-b455-480b18792ac8?syn-25a6b1a6=1",
+    "published": "2026-08-16T17:15:03+00:00"
+   },
+   {
+    "title": "Most US voters say they are worse off under Trump — FT poll",
+    "summary": "Most US voters report feeling worse off under Trump's administration according to FT polling. Democrats lead Republicans on economic issues months before midterm elections.",
+    "lang": "en",
+    "source": "FT Global Economy",
+    "url": "https://www.ft.com/content/fd40a98d-2a7f-4246-a296-73e956bf03c0?syn-25a6b1a6=1",
+    "published": "2026-08-16T04:01:09+00:00"
+   }
+  ],
+  "politica|asia": [
+   {
+    "title": "川普砍美韓軍演規模 疑尋求改善對北韓關係",
+    "summary": "川普指示五角大楼缩减美韓聯合軍演規模，稱演習向北韓傳達敵對訊息。專家認為此舉可能是尋求改善與北韓關係的外交策略之一。",
+    "lang": "zh",
+    "source": "中央社 CNA",
+    "url": "https://www.cna.com.tw/news/aopl/202608170087.aspx",
+    "published": "2026-08-17T04:27:26+00:00"
+   },
+   {
+    "title": "印尼強震增至53死5000人撤離 餘震不斷妨礙救援",
+    "summary": "印尼東部發生規模7.7強震造成至少53人死亡，130多人受傷。約5000人撤離家園，餘震不斷阻礙救援，道路受阻並引發山崩。",
+    "lang": "zh",
+    "source": "中央社 CNA",
+    "url": "https://www.cna.com.tw/news/aopl/202608170079.aspx",
+    "published": "2026-08-17T04:07:09+00:00"
+   },
+   {
+    "title": "人工智能军备竞赛：中国快速进步，美国政策摇摆",
+    "summary": "五角大楼與Anthropic的爭端反映美國政府在應對人工智能國家安全影響上政策摇摆。中國在人工智能領域快速進步引發華盛頓不安，激發出口管制有效性爭論。",
+    "lang": "zh",
+    "source": "纽约时报中文网",
+    "url": "https://cn.nytimes.com/usa/20260817/military-ai-china-anthropic/?utm_source=RSS",
+    "published": "2026-08-17T02:57:53+00:00"
+   },
+   {
+    "title": "Troops from North Korea to boost Russia's Ukraine forces",
+    "summary": "North Korea is preparing to deploy up to 50,000 troops to Russia, according to Western intelligence agencies. However, military experts question whether this deployment will meaningfully alter the Ukraine conflict's trajectory.",
+    "lang": "en",
+    "source": "Deutsche Welle World",
+    "url": "https://www.dw.com/en/troops-from-north-korea-to-boost-russia-s-ukraine-forces/a-78385524?maca=en-rss-en-world-4025-rdf",
+    "published": "2026-08-16T06:49:00+00:00"
+   }
+  ],
+  "politica|europa": [
+   {
+    "title": "Georgia's longest protest movement has become a symbol of resistance: 'We are defending our European future'",
+    "summary": "Georgia's longest protest movement has emerged as a symbol of resistance against government crackdowns. Hundreds demonstrate daily since EU integration suspension in November 2024, despite mounting exhaustion.",
+    "lang": "en",
+    "source": "Le Monde International",
+    "url": "https://www.lemonde.fr/en/international/article/2026/08/17/georgia-s-longest-protest-movement-has-become-a-symbol-of-resistance-we-are-defending-our-european-future_6756573_4.html",
+    "published": "2026-08-17T02:31:12+00:00"
+   },
+   {
+    "title": "Ukraine attacks Wildberries, Russia's biggest online market",
+    "summary": "Ukraine targets Wildberries, Russia's largest online retailer, attacking its warehouses almost daily since mid-July. Ukraine claims the strikes disrupt military supplies reaching the front lines.",
+    "lang": "en",
+    "source": "Deutsche Welle World",
+    "url": "https://www.dw.com/en/ukraine-attacks-wildberries-russia-s-biggest-online-market/a-78384605?maca=en-rss-en-world-4025-rdf",
+    "published": "2026-08-16T15:45:00+00:00"
+   },
+   {
+    "title": "Belgium races to tame huge wildfire creeping toward Germany",
+    "summary": "A massive wildfire in Belgium's High Fens peatland area threatens nearby Germany as firefighters from both nations battle the blaze. The terrain of boggy peatlands and pine forests complicates containment efforts.",
+    "lang": "en",
+    "source": "Le Monde International",
+    "url": "https://www.lemonde.fr/en/international/article/2026/08/16/firefighters-battle-massive-wildfires-in-belgium-and-greece-as-two-die-on-island-near-athens_6756564_4.html",
+    "published": "2026-08-16T16:42:35+00:00"
+   },
+   {
+    "title": "Renaissance paintings by Antonello da Messina stolen from Sicilian museum",
+    "summary": "Renaissance paintings by Antonello da Messina were stolen from a Sicilian museum, with five panels removed from their frame. Thieves abandoned two panels behind a wall while fleeing the scene.",
+    "lang": "en",
+    "source": "Le Monde International",
+    "url": "https://www.lemonde.fr/en/international/article/2026/08/16/renaissance-paintings-by-antonello-da-messina-stolen-from-sicilian-museum_6756565_4.html",
+    "published": "2026-08-16T16:55:58+00:00"
+   },
+   {
+    "title": "Mass drone attack hits Moscow as Russia launches deadly strikes in Ukraine",
+    "summary": "Moscow endured one of its most massive drone attacks in recent memory as Russia launched deadly missile strikes across Ukraine. The Moscow regional governor characterized the assault as exceptionally large in scale.",
+    "lang": "en",
+    "source": "Le Monde International",
+    "url": "https://www.lemonde.fr/en/international/article/2026/08/16/mass-drone-attack-hits-moscow-as-russia-launches-deadly-strikes-in-ukraine_6756558_4.html",
+    "published": "2026-08-16T08:15:48+00:00"
+   }
+  ],
+  "politica|america": [
+   {
+    "title": "Ebola outbreak in Democratic Republic of Congo now deadliest in country’s history",
+    "summary": "The Ebola outbreak in the Democratic Republic of Congo has become the deadliest in the country's history, with at least 2,325 deaths recorded. The death toll exceeds the 2018-20 outbreak that previously held the record.",
+    "lang": "en",
+    "source": "The Guardian World",
+    "url": "https://www.theguardian.com/world/2026/aug/17/ebola-outbreak-drc-democratic-republic-of-congo-deadliest-in-history",
+    "published": "2026-08-17T00:09:57+00:00"
+   },
+   {
+    "title": "Brazil’s Lula launches historic fourth term bid – but son of jailed Bolsonaro stands in his way",
+    "summary": "Brazil's 80-year-old President Lula launched his historic fourth term bid, vowing to prevent the far-right from gaining power. Flávio Bolsonaro, son of jailed former president Bolsonaro, declared his intention to challenge Lula.",
+    "lang": "en",
+    "source": "The Guardian World",
+    "url": "https://www.theguardian.com/world/2026/aug/16/lula-brazil-president-fourth-term-jair-flavio-bolsonaro",
+    "published": "2026-08-16T18:44:41+00:00"
+   }
+  ],
+  "tecnologia|america": [
+   {
+    "title": "OpenAI reportedly disbanded its preparedness team",
+    "summary": "OpenAI disbanded its preparedness team at the end of last month, according to the Financial Times. The team was responsible for assessing whether AI models posed serious risks to users and society.",
+    "lang": "en",
+    "source": "The Verge",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/980817/openai-disbands-preparedness-team",
+    "published": "2026-08-16T21:32:56+00:00"
+   },
+   {
+    "title": "Anthropic CEO says AI backlash is ‘fundamentally a crisis of trust’",
+    "summary": "Anthropic CEO Dario Amodei pushes back against claims he has painted an overly pessimistic picture of artificial intelligence. He frames current concerns as fundamentally a crisis of trust in AI development.",
+    "lang": "en",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/08/16/anthropic-ceo-says-ai-backlash-is-fundamentally-a-crisis-of-trust/",
+    "published": "2026-08-16T16:53:51+00:00"
+   },
+   {
+    "title": "Amazon is trying to crush class-action suits before they get started",
+    "summary": "Amazon updated its terms and conditions to resolve customer disputes through arbitration instead of class-action lawsuits. The change could significantly limit consumers' ability to pursue collective legal action against the company.",
+    "lang": "en",
+    "source": "The Verge",
+    "url": "https://www.theverge.com/tech/980752/amazon-class-action-arbitration-terms-and-conditions",
+    "published": "2026-08-16T17:35:02+00:00"
+   }
+  ],
+  "tecnologia|europa": [
+   {
+    "title": "TikTok eliminó una función de seguridad a millones de usuarios para hacer una prueba. Uno de ellos acabó suicidándose",
+    "summary": "TikTok eliminó una función de seguridad a millones de usuarios para pruebas A/B, resultando en al menos un suicidio. La práctica de testing dividió usuarios entre versiones antigua y nueva.",
+    "lang": "es",
+    "source": "Xataka",
+    "url": "https://www.xataka.com/aplicaciones/tiktok-elimino-funcion-seguridad-a-millones-usuarios-para-hacer-prueba-uno-ellos-acabo-suicidandose",
+    "published": "2026-08-16T17:30:48+00:00"
+   },
+   {
+    "title": "法國國稅局坦承遭駭，可能外洩近70萬筆資料",
+    "summary": "法國國稅局證實遭駭客入侵，67.8萬名個人及專業人士的資料可能外洩。該部門掌管法國稅務系統安全。",
+    "lang": "zh",
+    "source": "iThome 台灣",
+    "url": "https://www.ithome.com.tw/news/178175",
+    "published": "2026-08-17T12:08:09+00:00"
+   },
+   {
+    "title": "Hemos conseguido convertir una lechuga en una fábrica molecular. Acto seguido, la hemos puesto a fabricar carne de cerdo",
+    "summary": "Investigadores convirtieron una lechuga en fábrica molecular para producir carne de cerdo. Basándose en trabajo de hace 15 años que logró que lechugas generaran proinsulina humana masivamente.",
+    "lang": "es",
+    "source": "Xataka",
+    "url": "https://www.xataka.com/investigacion/hemos-conseguido-convertir-lechuga-fabrica-molecular-acto-seguido-hemos-puesto-a-fabricar-carne-cerdo",
+    "published": "2026-08-16T15:00:48+00:00"
+   }
+  ],
+  "tecnologia|asia": [
+   {
+    "title": "Dynatrace以9.15億美元併購Arize，整合AI與軟體可觀測性",
+    "summary": "企業可觀測性平台商Dynatrace以9.15億美元併購AI可觀測性新創Arize。交易預計今年9月底或10月初完成，整合AI模型與軟體可觀測性。",
+    "lang": "zh",
+    "source": "iThome 台灣",
+    "url": "https://www.ithome.com.tw/news/178177",
+    "published": "2026-08-17T12:08:17+00:00"
+   },
+   {
+    "title": "支付版圖巨變？傳 PayPal、Stripe 收購談判有進展",
+    "summary": "知情人士透露PayPal正洽談出售給Stripe和Advent International等買家。此項交易若成立將重塑支付業版圖。",
+    "lang": "zh",
+    "source": "科技新報 TechNews",
+    "url": "https://finance.technews.tw/2026/08/17/paypal-in-talks-to-sell-itself-to-stripe-private-equity-firm-advent/",
+    "published": "2026-08-17T05:20:48+00:00"
+   },
+   {
+    "title": "Anthropic Claude於8月16日發生大當機，AI、API與Claude Code等多項服務均受影響",
+    "summary": "Anthropic的Claude服務8月16日發生大規模中斷，影響Claude.ai、API、Claude Code等多項服務。臺灣時間17日凌晨5時58分起出現登入驗證問題。",
+    "lang": "zh",
+    "source": "iThome 台灣",
+    "url": "https://www.ithome.com.tw/news/178172",
+    "published": "2026-08-17T12:08:35+00:00"
+   }
+  ]
+ }
+}
