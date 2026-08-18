@@ -1,0 +1,292 @@
+{
+ "date": "2026-08-18",
+ "generated_at": "2026-08-18T05:54:36.044086+00:00",
+ "mode": "full",
+ "cost_usd": 0.023,
+ "market": null,
+ "failed_sources": [],
+ "cells": {
+  "economia|asia": [
+   {
+    "title": "Xi’s No. 2 Urges More Support for Economy After Big Growth Slump",
+    "summary": "China's Premier Li Qiang urged officials to support the economy after July data showed broad weakness with growth likely falling further below the annual target.",
+    "lang": "en",
+    "source": "Bloomberg Economics",
+    "url": "https://www.bloomberg.com/news/articles/2026-08-18/xi-s-no-2-urges-more-support-for-economy-after-big-growth-slump",
+    "published": "2026-08-18T03:05:51+00:00"
+   },
+   {
+    "title": "Chip boom pushes Vietnam, Philippines closer to 'high-income' status",
+    "summary": "Booming semiconductor demand is helping Vietnam and Philippines approach high-income country status.",
+    "lang": "en",
+    "source": "Nikkei Asia",
+    "url": "https://asia.nikkei.com/economy/chip-boom-pushes-vietnam-philippines-closer-to-high-income-status2",
+    "published": null
+   },
+   {
+    "title": "China investment slump deepens as economy shows signs of weakness",
+    "summary": "China's investment slump deepens as industrial output growth slows and retail sales remain flat, prompting calls for increased policy support.",
+    "lang": "en",
+    "source": "FT Global Economy",
+    "url": "https://www.ft.com/content/09a8a200-e572-486e-9bff-1f57933aebfc?syn-25a6b1a6=1",
+    "published": "2026-08-17T08:51:14+00:00"
+   }
+  ],
+  "economia|europa": [
+   {
+    "title": "Philip R. Lane: The rise in defence spending and the euro area economy",
+    "summary": "Philip R. Lane discusses the impact of rising defense spending on the euro area economy.",
+    "lang": "en",
+    "source": "BCE (notas de prensa)",
+    "url": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp260817~1f9f7149c9.en.pdf",
+    "published": "2026-08-17T09:30:00+00:00"
+   },
+   {
+    "title": "Russia fires economist over Ukraine war warning",
+    "summary": "Russia dismissed economist Andrei Klepach for making pessimistic remarks about the economic impact of the Ukraine war.",
+    "lang": "en",
+    "source": "FT Global Economy",
+    "url": "https://www.ft.com/content/a1b720e3-e1e6-4a13-bdb0-9cc27399ceb4?syn-25a6b1a6=1",
+    "published": "2026-08-17T16:32:12+00:00"
+   },
+   {
+    "title": "El mayor problema del ‘shock’ petrolero está en la refinería",
+    "summary": "El precio del Brent ha caído un tercio desde máximos de la guerra de Irán, pero los combustibles apenas se han abaratado debido a problemas en las refinerías.",
+    "lang": "es",
+    "source": "El País Economía",
+    "url": "https://cincodias.elpais.com/opinion/2026-08-18/el-mayor-problema-del-shock-petrolero-esta-en-la-refineria.html",
+    "published": "2026-08-18T03:40:00+00:00"
+   }
+  ],
+  "economia|america": [
+   {
+    "title": "Lula Must Tackle Fiscal Woes If Reelected, Finance Chief Says",
+    "summary": "Brazil's finance chief warns that fiscal concerns over growing public debt are justified and the government must address spending trajectory if reelected.",
+    "lang": "en",
+    "source": "Bloomberg Economics",
+    "url": "https://www.bloomberg.com/news/articles/2026-08-17/lula-must-tackle-fiscal-woes-if-reelected-finance-chief-says",
+    "published": "2026-08-17T21:55:44+00:00"
+   },
+   {
+    "title": "Brazil Economic Activity Suffers Biggest Drop in Over a Year",
+    "summary": "Brazil's economic activity fell more than expected in June, signaling that tight monetary policy is cooling demand and strengthening the case for further rate cuts.",
+    "lang": "en",
+    "source": "Bloomberg Economics",
+    "url": "https://www.bloomberg.com/news/articles/2026-08-17/brazil-economic-activity-suffers-biggest-drop-in-over-a-year",
+    "published": "2026-08-17T12:18:14+00:00"
+   },
+   {
+    "title": "People are worried about America’s solvency",
+    "summary": "Americans express concerns about the country's fiscal solvency but lack political will to address the underlying issues.",
+    "lang": "en",
+    "source": "FT Global Economy",
+    "url": "https://www.ft.com/content/e04f286c-f5ed-46d1-8e3f-0bbe4cce4d3e",
+    "published": "2026-08-17T09:15:28+00:00"
+   }
+  ],
+  "politica|asia": [
+   {
+    "title": "川普縮減美韓軍演 日澳防長齊表達對北韓憂慮",
+    "summary": "日本防衛大臣强调美日韓三邊安全合作对區域穩定至关重要，澳洲防長表示高度關切北韓核武計畫，回應川普縮減美韓軍演。",
+    "lang": "zh",
+    "source": "中央社 CNA",
+    "url": "https://www.cna.com.tw/news/aopl/202608180116.aspx",
+    "published": "2026-08-18T04:52:17+00:00"
+   },
+   {
+    "title": "Trump lets 60-day deadline for Iran peace deal expire, threatens to ‘bomb’ Oman",
+    "summary": "Trump allowed a 60-day deadline for an Iran peace deal to expire and threatened military action against Oman.",
+    "lang": "en",
+    "source": "South China Morning Post (China)",
+    "url": "https://www.scmp.com/news/us/diplomacy/article/3364348/trump-lets-60-day-deadline-iran-peace-deal-expire-threatens-bomb-oman?utm_source=rss_feed",
+    "published": "2026-08-17T22:42:27+00:00"
+   },
+   {
+    "title": "Tepco begins removal of radioactive spent fuel from Fukushima No. 2 reactor",
+    "summary": "Tokyo Electric Power began removing radioactive spent fuel from Fukushima No. 2 reactor to a safer storage pool at the site heavily damaged in 2011.",
+    "lang": "en",
+    "source": "Japan Times",
+    "url": "https://www.japantimes.co.jp/news/2026/08/18/japan/tepco-fuel-removal/",
+    "published": "2026-08-18T03:31:00+00:00"
+   },
+   {
+    "title": "Australia politics live: Coalition MPs cross floor in protest against gambling bill; Liberals target Labor on housing crisis in question time",
+    "summary": "Australian government MPs agreed to coalition amendments on a gambling bill while opposition targets Labor on housing crisis.",
+    "lang": "en",
+    "source": "The Guardian World",
+    "url": "https://www.theguardian.com/australia-news/live/2026/aug/18/australia-politics-live-labor-coalition-gambling-advertising-ai-charlton-datacentres-question-time-anthony-albanese-angus-taylor-one-nation-pauline-hanson-ntwnfb",
+    "published": "2026-08-18T05:37:24+00:00"
+   },
+   {
+    "title": "Russia summons Japanese envoy after Takaichi protests Putin’s visit to Etorofu",
+    "summary": "Russia summoned Japan's envoy after Defense Minister Takaichi protested Putin's visit to Etorofu, one of four disputed Northern Territories.",
+    "lang": "en",
+    "source": "Japan Times",
+    "url": "https://www.japantimes.co.jp/news/2026/08/18/japan/russia-summons-jp-envoy-disputed-island-visit/",
+    "published": "2026-08-18T02:44:00+00:00"
+   }
+  ],
+  "politica|europa": [
+   {
+    "title": "Moscow warns London over role in Ukraine conflict after UK-made drones strike Russia",
+    "summary": "Russia warned Britain over its role in Ukraine after UK-supplied drones reportedly struck Russian territory.",
+    "lang": "en",
+    "source": "Le Monde International",
+    "url": "https://www.lemonde.fr/en/international/article/2026/08/18/moscow-warns-of-price-after-uk-made-drones-hit-russia_6756609_4.html",
+    "published": "2026-08-18T00:58:39+00:00"
+   },
+   {
+    "title": "'The entire region was up in flames': Residents of southern Lebanon live in fear of Israeli strikes and the fires they cause",
+    "summary": "Southern Lebanon residents live in fear of Israeli strikes as fires spread; Lebanese firefighters require authorization to respond in Israeli-controlled areas.",
+    "lang": "en",
+    "source": "Le Monde International",
+    "url": "https://www.lemonde.fr/en/international/article/2026/08/18/the-entire-region-was-up-in-flames-residents-of-southern-lebanon-live-in-fear-of-israeli-strikes-and-the-fires-they-cause_6756606_4.html",
+    "published": "2026-08-17T22:27:17+00:00"
+   },
+   {
+    "title": "Putin visited Kuril Islands to 'punish' Japan over Ukraine stance",
+    "summary": "Putin's visit to disputed Kuril Islands sent a strategic message to Japan, which has sought to reclaim the territory for decades.",
+    "lang": "en",
+    "source": "Deutsche Welle World",
+    "url": "https://www.dw.com/en/putin-visited-kuril-islands-to-punish-japan-over-ukraine-stance/a-78398035?maca=en-rss-en-world-4025-rdf",
+    "published": "2026-08-17T11:47:00+00:00"
+   },
+   {
+    "title": "Russia's prominent anti-war politician jailed for 11 years",
+    "summary": "Russian anti-war politician Lev Schlosberg was jailed for 11 years on charges of discrediting the army, a verdict he says punishes his political opposition.",
+    "lang": "en",
+    "source": "BBC World",
+    "url": "https://www.bbc.co.uk/news/articles/cj4kjnle2neo?at_medium=RSS&at_campaign=rss",
+    "published": "2026-08-17T16:17:34+00:00"
+   }
+  ],
+  "politica|america": [
+   {
+    "title": "At least 6 dead after Ukraine launches aerial attack on Russia",
+    "summary": "Ukraine launched one of its largest aerial attacks on Russia, killing at least six people during the ongoing conflict.",
+    "lang": "en",
+    "source": "NPR World",
+    "url": "https://www.npr.org/2026/08/17/nx-s1-5933059/at-least-6-dead-after-ukraine-launches-aerial-attack-on-russia",
+    "published": "2026-08-17T08:50:38+00:00"
+   },
+   {
+    "title": "Trump orders Pentagon to scale back joint exercises with South Korea",
+    "summary": "Trump ordered the Pentagon to scale back joint military exercises with South Korea, citing Seoul's declining to help with Iran denuclearization and his relationship with North Korea.",
+    "lang": "en",
+    "source": "NPR World",
+    "url": "https://www.npr.org/2026/08/17/g-s1-138969/trump-exercises-south-korea",
+    "published": "2026-08-17T05:21:39+00:00"
+   }
+  ],
+  "tecnologia|asia": [
+   {
+    "title": "傳 SHEIN 8/28 於香港上市，估募資約 20 億美元",
+    "summary": "中國快時尚平台希音預計本週在香港上市募資約20億美元。",
+    "lang": "zh",
+    "source": "科技新報 TechNews",
+    "url": "https://finance.technews.tw/2026/08/18/shein-reportedly-set-to-list-in-hong-kong-on-aug-28/",
+    "published": "2026-08-18T05:50:05+00:00"
+   },
+   {
+    "title": "Google合併AI工作流自動化新創公司Relay核心團隊",
+    "summary": "谷歌併購AI工作流自動化新創公司Relay，核心團隊加入Chrome部門，Relay宣布關閉。",
+    "lang": "zh",
+    "source": "iThome 台灣",
+    "url": "https://www.ithome.com.tw/news/178219",
+    "published": "2026-08-18T01:08:04+00:00"
+   },
+   {
+    "title": "傳 Google Pixel 全系列明年脫中、供應鏈轉往越南",
+    "summary": "谷歌計劃從2027年起將Pixel全系列供應鏈從中國轉往越南，應對美中關係持續緊張。",
+    "lang": "zh",
+    "source": "科技新報 TechNews",
+    "url": "https://technews.tw/2026/08/18/google-pixel-series-next-year-exit-china-supply-chain-shifts-vietnam/",
+    "published": "2026-08-18T05:40:46+00:00"
+   },
+   {
+    "title": "SpaceX正式完成AI新創Cursor收購",
+    "summary": "馬斯克旗下SpaceX上週完成對AI程式碼編輯工具新創公司Cursor的收購。",
+    "lang": "zh",
+    "source": "iThome 台灣",
+    "url": "https://www.ithome.com.tw/news/178218",
+    "published": "2026-08-18T01:08:00+00:00"
+   }
+  ],
+  "tecnologia|europa": [
+   {
+    "title": "China lleva años construyendo un avión para plantar cara a Airbus y Boeing. El C919 acaba de estrenar su primera ruta internacional",
+    "summary": "El avión comercial chino C919 inaugura su primera ruta internacional, desafiando el dominio de Airbus y Boeing en el mercado de aeronaves de pasillo único.",
+    "lang": "es",
+    "source": "Xataka",
+    "url": "https://www.xataka.com/movilidad/china-lleva-anos-construyendo-avion-para-plantar-cara-a-airbus-boeing-c919-acaba-estrenar-su-primera-ruta-internacional",
+    "published": "2026-08-17T19:00:23+00:00"
+   },
+   {
+    "title": "De cero a 800 km/h en 5,3 segundos: China ha vuelto a romper un récord mundial con su apuesta por la levitación magnética",
+    "summary": "China alcanzó un nuevo récord mundial en tren de levitación magnética, acelerando más de una tonelada de cero a 800 km/h en 5,3 segundos en una instalación de un kilómetro.",
+    "lang": "es",
+    "source": "Xataka",
+    "url": "https://www.xataka.com/movilidad/cero-a-800-km-h-5-3-segundos-china-ha-vuelto-a-romper-record-mundial-su-apuesta-levitacion-magnetica",
+    "published": "2026-08-17T18:30:23+00:00"
+   },
+   {
+    "title": "Anthropic ha construido un modelo mejor que Mythos. También ha decidido que el mundo no pueda usarlo",
+    "summary": "Anthropic ha desarrollado Model 2, un modelo de IA más potente que Mythos 5, pero decidió no permitir su uso público.",
+    "lang": "es",
+    "source": "Xataka",
+    "url": "https://www.xataka.com/robotica-e-ia/anthropic-ha-construido-modelo-mejor-que-mythos-tambien-ha-decidido-que-mundo-no-pueda-usarlo",
+    "published": "2026-08-17T17:30:22+00:00"
+   },
+   {
+    "title": "El avión eléctrico más grande del mundo ya ha realizado su primer vuelo: solo ha gastado cinco dólares en electricidad",
+    "summary": "El avión eléctrico más grande del mundo completó su vuelo inaugural, consumiendo únicamente 5 dólares en electricidad según su fabricante.",
+    "lang": "es",
+    "source": "Xataka",
+    "url": "https://www.xataka.com/movilidad/avion-electrico-grande-mundo-ha-realizado-su-primer-vuelo-solo-ha-gastado-cinco-dolares-electricidad",
+    "published": "2026-08-17T17:00:23+00:00"
+   }
+  ],
+  "tecnologia|america": [
+   {
+    "title": "Anthropic’s annualized revenue surges to $65B",
+    "summary": "Anthropic's annualized revenue surged to $65 billion after adding $18 billion in two months.",
+    "lang": "en",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/08/17/anthropics-annualized-revenue-surges-to-65b/",
+    "published": "2026-08-17T23:56:26+00:00"
+   },
+   {
+    "title": "AI automation startup Relay shuts down, staff joins Google’s Chrome team",
+    "summary": "AI automation startup Relay shut down as its core team joined Google's Chrome division to develop AI-powered work features.",
+    "lang": "en",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/08/17/ai-automation-startup-relay-shuts-down-staff-joins-googles-chrome-team/",
+    "published": "2026-08-17T21:27:05+00:00"
+   },
+   {
+    "title": "‘Unprecedented’ number of Apple users received recent spyware alert, say investigators",
+    "summary": "An unusually high number of Apple users received recent spyware threat notifications, according to cybersecurity investigators.",
+    "lang": "en",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/08/17/unprecedented-number-of-apple-users-received-recent-spyware-alert-say-investigators/",
+    "published": "2026-08-17T20:18:35+00:00"
+   },
+   {
+    "title": "Hidden Airtag reveals Amazon is trashing rare books to train AI",
+    "summary": "Hidden AirTag revealed that Amazon uses rare books to train AI models for its operations.",
+    "lang": "en",
+    "source": "Ars Technica",
+    "url": "https://arstechnica.com/tech-policy/2026/08/hidden-airtag-reveals-amazon-is-trashing-rare-books-to-train-ai/",
+    "published": "2026-08-17T18:13:47+00:00"
+   },
+   {
+    "title": "Higgsfield raises $400M Series B, quadrupling its valuation in 8 months to $5.4B",
+    "summary": "Higgsfield raised $400 million in Series B funding, quadrupling its valuation to $5.4 billion, to expand AI image and video creation capabilities.",
+    "lang": "en",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/08/17/higgsfield-raises-400m-series-b-quadrupling-its-valuation-in-8-months-to-5-4b/",
+    "published": "2026-08-17T19:04:27+00:00"
+   }
+  ]
+ }
+}
