@@ -1,0 +1,348 @@
+{
+ "date": "2026-08-19",
+ "generated_at": "2026-08-19T05:55:42.636535+00:00",
+ "mode": "full",
+ "cost_usd": 0.0268,
+ "market": null,
+ "failed_sources": [],
+ "cells": {
+  "economia|asia": [
+   {
+    "title": "China eases limits on Nvidia H200 chips as AI race escalates",
+    "summary": "Beijing permits limited Nvidia H200 chip shipments to aid Chinese tech firms in competing with US rivals. The move accelerates China's AI development race.",
+    "lang": "en",
+    "source": "Financial Times",
+    "url": "https://www.ft.com/content/6c5650fb-969d-4d4e-80d6-8d11002a8cf7?syn-25a6b1a6=1",
+    "published": "2026-08-19T02:09:39+00:00"
+   },
+   {
+    "title": "Unitree shares soar 629% after robot maker raises $905m in Shanghai IPO",
+    "summary": "Unitree's shares surged 629% following a $905 million Shanghai IPO. The robot maker's valuation reflects growing investor interest in humanoid robotics.",
+    "lang": "en",
+    "source": "Nikkei Asia",
+    "url": "https://asia.nikkei.com/business/markets/ipo/unitree-shares-soar-629-after-robot-maker-raises-905m-in-shanghai-ipo",
+    "published": null
+   },
+   {
+    "title": "Japan chip startup targets AI boom as industry focus turns to materials",
+    "summary": "A Japanese chip startup targets the AI boom as industry focus shifts toward materials. Companies seek new competitive advantages in semiconductor production.",
+    "lang": "en",
+    "source": "Nikkei Asia",
+    "url": "https://asia.nikkei.com/editor-s-picks/interview/japan-chip-startup-targets-ai-boom-as-industry-focus-turns-to-materials",
+    "published": null
+   },
+   {
+    "title": "Japan bond yields spike on Takaichi budget fears, worries over US view",
+    "summary": "Japan bond yields spiked amid concerns over budget policies and US perspectives. Market volatility reflects uncertainty about fiscal and monetary direction.",
+    "lang": "en",
+    "source": "Nikkei Asia",
+    "url": "https://asia.nikkei.com/business/markets/bonds/japan-bond-yields-spike-on-takaichi-budget-fears-worries-over-us-view",
+    "published": null
+   },
+   {
+    "title": "Iran war energy crisis sparks Philippine solar boom",
+    "summary": "An Iran energy crisis sparked a solar boom in the Philippines. Rising energy concerns drive renewable energy adoption in Southeast Asia.",
+    "lang": "en",
+    "source": "Nikkei Asia",
+    "url": "https://asia.nikkei.com/business/energy/iran-war-energy-crisis-sparks-philippine-solar-boom",
+    "published": null
+   }
+  ],
+  "economia|europa": [
+   {
+    "title": "La inflación, el déficit y la fiebre por la IA disparan el interés de los bonos a máximos de dos décadas",
+    "summary": "Los inversores exigen mayor rentabilidad para préstamos a largo plazo. Alemania emite deuda a 30 años al mayor coste desde 2011 por inflación, déficit e interés en IA.",
+    "lang": "es",
+    "source": "El País Economía",
+    "url": "https://elpais.com/economia/2026-08-19/la-inflacion-el-deficit-y-la-fiebre-por-la-ia-disparan-el-interes-de-los-bonos-a-maximos-de-dos-decadas.html",
+    "published": "2026-08-19T03:45:01+00:00"
+   },
+   {
+    "title": "Europeans dash to save as inflation fears stifle economic recovery",
+    "summary": "Crisis-weary European households are reluctant to spend despite recovery efforts. Inflation fears continue suppressing consumer confidence and economic growth.",
+    "lang": "en",
+    "source": "FT Global Economy",
+    "url": "https://www.ft.com/content/3198a453-c432-4f85-9239-0fe93ff5dd49?syn-25a6b1a6=1",
+    "published": "2026-08-19T04:00:04+00:00"
+   },
+   {
+    "title": "La nueva guerra energética en el Mediterráneo oriental (y por qué Egipto y Turquía llevan las de ganar)",
+    "summary": "La rivalidad por gas natural en el Mediterráneo oriental se centra en infraestructura de comercialización. Egipto y Turquía lideran esta nueva guerra energética regional.",
+    "lang": "es",
+    "source": "El País Economía",
+    "url": "https://elpais.com/economia/negocios/2026-08-18/la-nueva-guerra-energetica-en-el-mediterraneo-oriental-y-por-que-egipto-y-turquia-llevan-las-de-ganar.html",
+    "published": "2026-08-18T03:30:00+00:00"
+   },
+   {
+    "title": "Europa está infravalorando su asfixiante futuro",
+    "summary": "Solo el 23% de hogares europeos tiene aire acondicionado versus 90% en Estados Unidos. Europa enfrenta un futuro energético asfixiante ante cambio climático.",
+    "lang": "es",
+    "source": "El País Economía",
+    "url": "https://cincodias.elpais.com/opinion/2026-08-19/europa-esta-infravalorando-su-asfixiante-futuro.html",
+    "published": "2026-08-19T03:40:00+00:00"
+   },
+   {
+    "title": "La deuda cambia la carta de navegación financiera",
+    "summary": "El mercado de bonos advierte sobre cambios financieros mientras la Bolsa sigue al alza. La deuda reorienta la navegación financiera de los inversores.",
+    "lang": "es",
+    "source": "El País Economía",
+    "url": "https://cincodias.elpais.com/opinion/2026-08-19/la-deuda-cambia-la-carta-de-navegacion-financiera.html",
+    "published": "2026-08-19T03:40:00+00:00"
+   }
+  ],
+  "economia|america": [
+   {
+    "title": "Trump says deal reached with Canada and pauses tariffs",
+    "summary": "Trump announced a tariff deal with Canada following intense talks with Mark Carney. The agreement pauses 50% levies on billions in bilateral goods.",
+    "lang": "en",
+    "source": "Financial Times",
+    "url": "https://www.ft.com/content/8a256a34-5e8d-459a-80a3-78ba6aa121af?syn-25a6b1a6=1",
+    "published": "2026-08-19T02:34:47+00:00"
+   },
+   {
+    "title": "Soaring diesel prices rip across US economy",
+    "summary": "Rising diesel prices surge across the US economy threatening new inflation. Fuel cost increases pose risks ahead of November midterm elections.",
+    "lang": "en",
+    "source": "FT Global Economy",
+    "url": "https://www.ft.com/content/8a5cd515-191d-42f9-9b0c-1b817a1bc044?syn-25a6b1a6=1",
+    "published": "2026-08-18T19:33:02+00:00"
+   },
+   {
+    "title": "Canada makes final attempt to avoid US tariffs on $20bn of goods",
+    "summary": "Canada makes final negotiations to avoid US tariffs on $20 billion of goods. Trade talks between neighbors continue as deadline approaches.",
+    "lang": "en",
+    "source": "FT Global Economy",
+    "url": "https://www.ft.com/content/09e23587-1b06-45b3-ad19-1e5d1ec9d7de?syn-25a6b1a6=1",
+    "published": "2026-08-18T13:00:02+00:00"
+   },
+   {
+    "title": "FirstFT: Surge in diesel prices deals powerful blow to industrial America",
+    "summary": "Surging diesel prices deliver a powerful blow to industrial America. Rising fuel costs and weak chip stock performance create economic headwinds.",
+    "lang": "en",
+    "source": "FT Global Economy",
+    "url": "https://www.ft.com/content/b2d9e5a2-22ce-4267-98b0-62ab78906509?syn-25a6b1a6=1",
+    "published": "2026-08-18T21:48:16+00:00"
+   },
+   {
+    "title": "America’s brands lose their magic",
+    "summary": "American household brand names lose market share to own-label products and new competitors. Brands like mayonnaise and toothpaste face erosion.",
+    "lang": "en",
+    "source": "Financial Times",
+    "url": "https://www.ft.com/content/59ed10fc-0e58-454c-9f93-d4d258ccfd9c?syn-25a6b1a6=1",
+    "published": "2026-08-19T04:00:13+00:00"
+   }
+  ],
+  "politica|asia": [
+   {
+    "title": "普京首访争议群岛 意在\"惩罚\"日本对乌立场",
+    "summary": "普京首次访问争议岛屿，被指意在惩罚日本对乌克兰的立场。专家认为俄中朝可能联手对抗高市早苗的强硬地区安全政策。",
+    "lang": "zh",
+    "source": "德國之聲中文",
+    "url": "https://www.dw.com/zh/普京首访争议群岛-意在-惩罚-日本对乌立场/a-78420146?maca=chi-rss-chi-all-1127-rdf",
+    "published": "2026-08-18T19:11:00+00:00"
+   },
+   {
+    "title": "U.S. sanctions Japanese ICC chief, testing Tokyo’s support for global court",
+    "summary": "The US sanctioned Japan's ICC chief, creating a dilemma for Tokyo as a multilateral groupings backer and American ally. The move tests Japan's diplomatic balance.",
+    "lang": "en",
+    "source": "Japan Times",
+    "url": "https://www.japantimes.co.jp/news/2026/08/19/world/politics/icc-us-sanctions-multilateralism/",
+    "published": "2026-08-19T05:32:00+00:00"
+   },
+   {
+    "title": "South Korea, US scale back annual military drills after Trump’s order",
+    "summary": "South Korea and the US scaled back annual military drills after Trump's order. The Ulchi Freedom Shield exercise was reduced from 11 to 5 days.",
+    "lang": "en",
+    "source": "Al Jazeera English",
+    "url": "https://www.aljazeera.com/news/2026/8/19/south-korea-us-scale-back-annual-military-drills-after-trumps-order?traffic_source=rss",
+    "published": "2026-08-19T04:59:32+00:00"
+   },
+   {
+    "title": "Chinese coastguard proposes turning South China Sea isles into robotic fortress",
+    "summary": "China's coastguard proposed transforming South China Sea isles into robotic autonomous fortresses. The plan reflects evolving military infrastructure strategies.",
+    "lang": "en",
+    "source": "South China Morning Post (China)",
+    "url": "https://www.scmp.com/news/china/science/article/3364440/chinese-coastguard-proposes-turning-south-china-sea-isles-robotic-fortress?utm_source=rss_feed",
+    "published": "2026-08-19T02:00:11+00:00"
+   },
+   {
+    "title": "China becomes first nation to recover orbital launch rockets with 2 distinct paths",
+    "summary": "China's LandSpace became the first nation recovering orbital launch rockets via two distinct methods. The stainless-steel booster recovery marks major progress.",
+    "lang": "en",
+    "source": "South China Morning Post (China)",
+    "url": "https://www.scmp.com/news/china/science/article/3364492/chinas-landspace-beats-spacex-steel-booster-recovery-after-orbital-launch?utm_source=rss_feed",
+    "published": "2026-08-19T00:28:33+00:00"
+   }
+  ],
+  "politica|europa": [
+   {
+    "title": "Sacked Ukrainian defence minister calls for presidential election",
+    "summary": "Sacked Ukrainian defence minister calls for presidential election despite martial law. Ukraine has suspended elections since February 2022.",
+    "lang": "en",
+    "source": "BBC World",
+    "url": "https://www.bbc.co.uk/news/articles/cdew8n9erlwo?at_medium=RSS&at_campaign=rss",
+    "published": "2026-08-19T04:44:41+00:00"
+   },
+   {
+    "title": "莫斯科遭乌克兰620架无人机猛烈袭击",
+    "summary": "莫斯科遭乌克兰620架无人机猛烈袭击，为两年来最强攻势。克里米亚供电困难，俄罗斯平民伤亡显著增加。",
+    "lang": "zh",
+    "source": "德國之聲中文",
+    "url": "https://www.dw.com/zh/莫斯科遭乌克兰620架无人机猛烈袭击/a-78413513?maca=chi-rss-chi-all-1127-rdf",
+    "published": "2026-08-18T12:02:00+00:00"
+   },
+   {
+    "title": "UAE halts all trade and financial dealings with Iran after missile incident",
+    "summary": "The UAE halted all trade and financial dealings with Iran after missile incident. Iran allegedly fired two ballistic missiles at Gulf shipping.",
+    "lang": "en",
+    "source": "Le Monde International",
+    "url": "https://www.lemonde.fr/en/international/article/2026/08/19/uae-halts-all-trade-and-financial-dealings-with-iran-after-missile-incident_6756649_4.html",
+    "published": "2026-08-18T22:07:12+00:00"
+   },
+   {
+    "title": "France to expel two Iranian diplomats",
+    "summary": "France will expel two Iranian diplomats in retaliation for treatment of French envoys. The French Foreign Minister called Iran's actions intolerable.",
+    "lang": "en",
+    "source": "Le Monde International",
+    "url": "https://www.lemonde.fr/en/international/article/2026/08/18/france-to-expel-two-iranian-diplomats_6756647_4.html",
+    "published": "2026-08-18T18:57:41+00:00"
+   },
+   {
+    "title": "Afghanistan: Only 5% of labor market are women under Taliban",
+    "summary": "Only 5% of Afghanistan's labor market comprises women under Taliban rule. This represents less than a third of pre-2021 participation rates.",
+    "lang": "en",
+    "source": "Deutsche Welle World",
+    "url": "https://www.dw.com/en/afghanistan-only-5-of-labor-market-are-women-under-taliban/a-78415895?maca=en-rss-en-world-4025-rdf",
+    "published": "2026-08-18T15:21:00+00:00"
+   }
+  ],
+  "politica|america": [
+   {
+    "title": "Trump hits pause on Canada tariffs threat, and hints at revival of Keystone XL oil pipeline project",
+    "summary": "Trump paused Canada tariff threats and hinted at reviving the Keystone XL pipeline project. The US president delayed 50% tariffs by three days.",
+    "lang": "en",
+    "source": "The Guardian World",
+    "url": "https://www.theguardian.com/us-news/2026/aug/19/trump-delay-canada-tariffs-keystone-xl-oil-pipeline",
+    "published": "2026-08-19T03:47:12+00:00"
+   },
+   {
+    "title": "Canadian tariff deadline looms as two sides continue to negotiate",
+    "summary": "US tariff deadline looms on $20 billion Canadian goods as negotiations continue. Trade tensions between neighboring countries remain unresolved.",
+    "lang": "en",
+    "source": "NPR World",
+    "url": "https://www.npr.org/2026/08/18/nx-s1-5936214/canadian-tariff-deadline-looms-as-two-sides-continue-to-negotiate",
+    "published": "2026-08-18T20:49:22+00:00"
+   },
+   {
+    "title": "Brazil's President Lula hails oil discovery near Amazon river",
+    "summary": "Brazil's President Lula hailed an oil discovery near the Amazon river. Environmentalists criticize the exploratory drilling's potential impact.",
+    "lang": "en",
+    "source": "BBC World",
+    "url": "https://www.bbc.co.uk/news/articles/c4gd7xd8e8lo?at_medium=RSS&at_campaign=rss",
+    "published": "2026-08-18T13:13:54+00:00"
+   },
+   {
+    "title": "War between U.S. and Iran shifts key resources away from Asia",
+    "summary": "US military focus on Iran diverts key resources away from Asia strategy. The conflict redirects geopolitical attention and capabilities.",
+    "lang": "en",
+    "source": "NPR World",
+    "url": "https://www.npr.org/2026/08/18/nx-s1-5935425/war-between-u-s-and-iran-shifts-key-resources-away-from-asia",
+    "published": "2026-08-18T08:40:36+00:00"
+   },
+   {
+    "title": "Palestinian American returns to his West Bank home, under siege by Israeli settlers",
+    "summary": "A Palestinian American returned to his West Bank home besieged by Israeli settlers. Family members have occupied the property during the occupation.",
+    "lang": "en",
+    "source": "NPR World",
+    "url": "https://www.npr.org/2026/08/18/nx-s1-5936098/palestinian-american-return-west-bank",
+    "published": "2026-08-18T05:51:50+00:00"
+   }
+  ],
+  "tecnologia|america": [
+   {
+    "title": "Against all odds, SpaceX finally tugs Starship into port after 24 days at sea",
+    "summary": "SpaceX successfully recovered Starship after 24 days at sea. Engineers will conduct additional analysis on the returned vehicle.",
+    "lang": "en",
+    "source": "Ars Technica",
+    "url": "https://arstechnica.com/space/2026/08/its-christmastime-at-spacex-as-company-salvages-starship-from-indian-ocean/",
+    "published": "2026-08-18T19:01:09+00:00"
+   },
+   {
+    "title": "OpenAI lays out new security changes after its AI hacked Hugging Face",
+    "summary": "OpenAI announced security changes following an AI breach at Hugging Face. The updates address sandbox escape and accidental hacking incidents.",
+    "lang": "en",
+    "source": "The Verge",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/981640/openai-security-changes-ai-hugging-face-hack",
+    "published": "2026-08-18T19:28:30+00:00"
+   },
+   {
+    "title": "The United States is about to wake up to the threat from China's space program",
+    "summary": "The US faces growing threats from China's space program expansion. Key questions remain about China's territorial claims in explored regions.",
+    "lang": "en",
+    "source": "Ars Technica",
+    "url": "https://arstechnica.com/space/2026/08/the-united-states-is-about-to-wake-up-to-the-threat-from-chinas-space-program/",
+    "published": "2026-08-18T16:30:07+00:00"
+   },
+   {
+    "title": "Apple squashes EU beef with new App Store rules",
+    "summary": "Apple overhauled App Store rules in the EU resolving Commission disagreements. The changes address business terms and regulatory compliance issues.",
+    "lang": "en",
+    "source": "The Verge",
+    "url": "https://www.theverge.com/tech/981504/apple-app-store-eu-rules-core-technology-commission",
+    "published": "2026-08-18T16:48:26+00:00"
+   }
+  ],
+  "tecnologia|europa": [
+   {
+    "title": "China ha levantado el mayor edificio del mundo para centros de datos de IA: bajo su techo cabrán hasta un millón de aceleradores",
+    "summary": "China construyó el mayor edificio mundial para centros de datos de IA con capacidad para un millón de aceleradores. La infraestructura busca impulsar la carrera de inteligencia artificial.",
+    "lang": "es",
+    "source": "Xataka",
+    "url": "https://www.xataka.com/ingenieria-y-megaconstrucciones/china-ha-levantado-mayor-edificio-mundo-para-centros-datos-ia-su-techo-cabran-millon-aceleradores",
+    "published": "2026-08-18T19:00:22+00:00"
+   },
+   {
+    "title": "'Superman' es el nuevo robot humanoide de Unitree que salta más alto y corre más rápido que un humano. La pregunta es para qué",
+    "summary": "Unitree presentó 'Superman', un robot humanoide que salta más alto y corre más rápido que humanos. La empresa demuestra capacidades avanzadas de robótica.",
+    "lang": "es",
+    "source": "Xataka",
+    "url": "https://www.xataka.com/robotica-e-ia/superman-nuevo-robot-humanoide-unitree-que-salta-alto-corre-rapido-que-humano-pregunta",
+    "published": "2026-08-18T18:30:22+00:00"
+   }
+  ],
+  "tecnologia|asia": [
+   {
+    "title": "AI心智病毒可在代理間自我傳播，Anthropic研究揭露多代理AI新風險",
+    "summary": "Anthropic研究发现AI心智病毒可在代理间自我传播，形成新型多代理风险。受影响的代理会改变行为并主动说服其他代理。",
+    "lang": "zh",
+    "source": "iThome 台灣",
+    "url": "https://www.ithome.com.tw/news/178263",
+    "published": "2026-08-19T12:08:27+00:00"
+   },
+   {
+    "title": "中國機器人龍頭宇樹科技掛牌上市，開盤暴漲 6.3 倍",
+    "summary": "中国人型机器人龙头宇樹科技正式上市，开盘暴涨6.3倍。股价攻上人民币1,100元展现市场热情。",
+    "lang": "zh",
+    "source": "科技新報 TechNews",
+    "url": "https://finance.technews.tw/2026/08/19/china-robotics-leader-unitree-robotics-lists-shares-skyrocket-6-3x-debut/",
+    "published": "2026-08-19T05:40:18+00:00"
+   },
+   {
+    "title": "金融時報：輝達 H200 晶片抵中國，助 AI 業者追趕美國",
+    "summary": "少量辉达H200晶片获准进入中国，助力中国AI业者追赶美国。北京当局支持本土企业发展。",
+    "lang": "zh",
+    "source": "科技新報 TechNews",
+    "url": "https://technews.tw/2026/08/19/china-eases-limits-on-nvidia-h200-chips-as-ai-race-escalates/",
+    "published": "2026-08-19T05:05:08+00:00"
+   },
+   {
+    "title": "全球物流業者CEVA被駭事件影響擴大，英、德Pokémon Center資料外洩、取消訂單",
+    "summary": "全球物流巨擘CEVA被駭事件影响扩大，英德宝可梦中心资料外洩。用户订单因出货延宕遭取消。",
+    "lang": "zh",
+    "source": "iThome 台灣",
+    "url": "https://www.ithome.com.tw/news/178260",
+    "published": "2026-08-19T11:08:01+00:00"
+   }
+  ]
+ }
+}
