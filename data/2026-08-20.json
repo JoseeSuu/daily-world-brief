@@ -1,0 +1,340 @@
+{
+ "date": "2026-08-20",
+ "generated_at": "2026-08-20T05:56:55.105775+00:00",
+ "mode": "full",
+ "cost_usd": 0.0274,
+ "market": null,
+ "failed_sources": [],
+ "cells": {
+  "economia|asia": [
+   {
+    "title": "Exclusive: China slows exports of key optical, aerospace metals to Taiwan",
+    "summary": "China restricts exports of optical and aerospace metals to Taiwan. The move signals escalating trade tensions between Beijing and the island.",
+    "lang": "en",
+    "source": "Nikkei Asia",
+    "url": "https://asia.nikkei.com/spotlight/supply-chain/exclusive-china-slows-exports-of-key-optical-aerospace-metals-to-taiwan",
+    "published": null
+   },
+   {
+    "title": "Japan’s Exports Grow at Fastest Pace Since 2022 on Chips",
+    "summary": "Japan's exports grew at fastest pace since 2022, driven by chip demand and weak yen at 40-year low. Robust car sales also supported expansion.",
+    "lang": "en",
+    "source": "Bloomberg Economics",
+    "url": "https://www.bloomberg.com/news/articles/2026-08-20/japan-s-exports-grow-at-fastest-pace-since-2022-on-cars-chips",
+    "published": "2026-08-20T00:01:38+00:00"
+   },
+   {
+    "title": "Japan logged trade deficit for third consecutive month in July",
+    "summary": "Japan recorded third consecutive monthly trade deficit in July. Weak export performance contributed to the ongoing deficit streak.",
+    "lang": "en",
+    "source": "Nikkei Asia",
+    "url": "https://asia.nikkei.com/economy/trade/japan-logged-trade-deficit-for-third-consecutive-month-in-july",
+    "published": null
+   },
+   {
+    "title": "ASEAN headlines India's export expansion in April-June quarter",
+    "summary": "ASEAN countries led India's export expansion during April-June quarter. Regional trade relationship strengthened significantly.",
+    "lang": "en",
+    "source": "Nikkei Asia",
+    "url": "https://asia.nikkei.com/economy/trade/asean-headlines-india-s-export-expansion-in-april-june-quarter",
+    "published": null
+   }
+  ],
+  "economia|europa": [
+   {
+    "title": "Fed’s July minutes revealed growing concerns over elevated inflation",
+    "summary": "Federal Reserve officials expressed growing inflation concerns in July minutes. Multiple FOMC members indicated rate increase may become warranted soon.",
+    "lang": "en",
+    "source": "FT Global Economy",
+    "url": "https://www.ft.com/content/a2e60734-8b02-4474-8059-4c0cba0ff5c4",
+    "published": "2026-08-19T22:24:52+00:00"
+   },
+   {
+    "title": "UK inflation accelerates to 2.9% in July amid Middle East energy shock",
+    "summary": "UK inflation accelerated to 2.9% in July amid Middle East energy shock. Rising energy costs pushed prices above Bank of England target.",
+    "lang": "en",
+    "source": "FT Global Economy",
+    "url": "https://www.ft.com/content/5a606279-3473-4c5b-a16e-ad9db6debafb?syn-25a6b1a6=1",
+    "published": "2026-08-19T08:20:26+00:00"
+   },
+   {
+    "title": "US Public Debt Hits $40 Trillion, Raising ‘Doom Loop’ Risk",
+    "summary": "US public debt exceeded $40 trillion for first time, surging one-third in under five years. Deficit concerns raise 'doom loop' risks for economy.",
+    "lang": "en",
+    "source": "Bloomberg Economics",
+    "url": "https://www.bloomberg.com/news/articles/2026-08-19/us-public-debt-hits-40-trillion-high-raising-doom-loop-risk",
+    "published": "2026-08-19T20:05:40+00:00"
+   },
+   {
+    "title": "Europa descubre el valor económico de ser aburrida",
+    "summary": "Europa valora la confiabilidad económica en un mundo impredecible. La fiabilidad se convierte en factor clave para el desarrollo económico.",
+    "lang": "es",
+    "source": "El País Economía",
+    "url": "https://cincodias.elpais.com/opinion/2026-08-20/europa-descubre-el-valor-economico-de-ser-aburrida.html",
+    "published": "2026-08-20T03:40:00+00:00"
+   },
+   {
+    "title": "La inflación, el déficit y la fiebre por la IA disparan el interés de los bonos a máximos de dos décadas",
+    "summary": "La inflación, déficit e interés en IA elevan los rendimientos de bonos a máximos de dos décadas. Inversores exigen mayor rentabilidad para préstamos a largo plazo.",
+    "lang": "es",
+    "source": "El País Economía",
+    "url": "https://elpais.com/economia/2026-08-19/la-inflacion-el-deficit-y-la-fiebre-por-la-ia-disparan-el-interes-de-los-bonos-a-maximos-de-dos-decadas.html",
+    "published": "2026-08-19T03:45:01+00:00"
+   }
+  ],
+  "economia|america": [
+   {
+    "title": "Minutes of the Federal Open Market Committee, July 28–29, 2026",
+    "summary": "Federal Reserve released July 28-29 FOMC meeting minutes. Officials discussed economic outlook and monetary policy decisions.",
+    "lang": "en",
+    "source": "Reserva Federal (notas de prensa)",
+    "url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20260819a.htm",
+    "published": "2026-08-19T18:00:00+00:00"
+   },
+   {
+    "title": "US Starts ‘Economic Warfare’ Operation Against Iran",
+    "summary": "President Trump announced economic pressure campaign against Iran, calling it 'economic D-day.' The move reflects administration's hardline Iran policy.",
+    "lang": "en",
+    "source": "Bloomberg Economics",
+    "url": "https://www.bloomberg.com/news/videos/2026-08-20/us-starts-economic-warfare-operation-against-iran-video",
+    "published": "2026-08-20T05:28:24+00:00"
+   },
+   {
+    "title": "Trump proposed reviving the Keystone XL pipeline. Does Canada still want it?",
+    "summary": "Trump proposed reviving Keystone XL pipeline amid bilateral tensions with Canada. Relations have deteriorated significantly since project's original proposal two decades ago.",
+    "lang": "en",
+    "source": "FT Global Economy",
+    "url": "https://www.ft.com/content/28a39ff4-cc0b-4a32-93d7-d5fbc8a4bcb9?syn-25a6b1a6=1",
+    "published": "2026-08-20T00:27:53+00:00"
+   },
+   {
+    "title": "Bessent Becomes Most Interventionist Treasury Chief in Decades",
+    "summary": "Treasury Secretary Scott Bessent emerged as most interventionist chief in decades through unexpected market maneuvers. His aggressive approach has raised credibility questions.",
+    "lang": "en",
+    "source": "Bloomberg Economics",
+    "url": "https://www.bloomberg.com/news/articles/2026-08-19/bessent-becomes-most-interventionist-treasury-chief-in-decades",
+    "published": "2026-08-19T21:37:25+00:00"
+   },
+   {
+    "title": "The US economy is running hot",
+    "summary": "US economy continues running hot despite some cooling data points. Demand weakness indicators remain limited.",
+    "lang": "en",
+    "source": "FT Global Economy",
+    "url": "https://www.ft.com/content/0632931b-1c3b-4ef8-aa18-038afe5d7761",
+    "published": "2026-08-19T11:00:06+00:00"
+   }
+  ],
+  "politica|asia": [
+   {
+    "title": "Founder of collapsed Chinese property giant Evergrande sentenced to life in prison",
+    "summary": "Evergrande founder Hui Ka Yan sentenced to life imprisonment for fraud. Verdict represents major milestone in Chinese property sector crisis fallout.",
+    "lang": "en",
+    "source": "BBC World",
+    "url": "https://www.bbc.co.uk/news/articles/cd0x9mjjmgjo?at_medium=RSS&at_campaign=rss",
+    "published": "2026-08-20T05:07:00+00:00"
+   },
+   {
+    "title": "South Korea estimates North Korea has up to 120 nuclear warheads, far above Trump's figure",
+    "summary": "South Korea estimates North Korea possesses 80-120 nuclear warheads, significantly above Trump's estimate. Defence Minister disclosed assessment to lawmakers.",
+    "lang": "en",
+    "source": "Channel NewsAsia",
+    "url": "https://www.channelnewsasia.com/east-asia/north-korea-south-120-nuclear-warheads-trump-6330321",
+    "published": "2026-08-20T05:24:00+00:00"
+   },
+   {
+    "title": "朝鲜回应特朗普缩减美韩军演规模：“对我们毫无吸引力”",
+    "summary": "朝鲜批评特朗普缩减美韩军演规模毫无意义。金与正表示军演仍具挑衅性，朝美无任何沟通。",
+    "lang": "zh",
+    "source": "纽约时报中文网",
+    "url": "https://cn.nytimes.com/world/20260820/north-korea-trump-military-drills/?utm_source=RSS",
+    "published": "2026-08-20T01:08:50+00:00"
+   },
+   {
+    "title": "傳以色列空襲敘利亞前 以情報機構負責人曾與敘外長通話",
+    "summary": "以色列情报机构负责人空袭叙利亚前曾与叙外长通话讨论土耳其军事部署。通话数天后以色列轰炸叙利亚空军基地。",
+    "lang": "zh",
+    "source": "中央社 CNA",
+    "url": "https://www.cna.com.tw/news/aopl/202608200058.aspx",
+    "published": "2026-08-20T03:16:21+00:00"
+   },
+   {
+    "title": "中国首次实现火箭陆地回收",
+    "summary": "中国民营企业蓝箭航天首次实现火箭陆地回收。火箭重复利用将降低卫星制造成本，增强中国航天市场竞争力。",
+    "lang": "zh",
+    "source": "纽约时报中文网",
+    "url": "https://cn.nytimes.com/china/20260820/china-rocket-first-stage-recovery-land/?utm_source=RSS",
+    "published": "2026-08-20T01:53:48+00:00"
+   }
+  ],
+  "politica|europa": [
+   {
+    "title": "Russia launches missile strikes on Kyiv and surrounding region, killing at least eight",
+    "summary": "Russia launched massive missile strikes on Kyiv killing at least eight people. Apartment blocks and warehouses were targeted in Thursday's attack.",
+    "lang": "en",
+    "source": "BBC World",
+    "url": "https://www.bbc.co.uk/news/articles/c98vzmden5yo?at_medium=RSS&at_campaign=rss",
+    "published": "2026-08-20T05:25:23+00:00"
+   },
+   {
+    "title": "Kremlin cracks down on all anti-war voices ahead of Russia's elections",
+    "summary": "Kremlin intensified crackdown on anti-war voices ahead of Russian elections. Opposition figure Lev Shlosberg sentenced to over eleven years imprisonment.",
+    "lang": "en",
+    "source": "Le Monde International",
+    "url": "https://www.lemonde.fr/en/international/article/2026/08/20/kremlin-cracks-down-on-all-anti-war-voices-ahead-of-russia-s-elections_6756692_4.html",
+    "published": "2026-08-20T01:04:23+00:00"
+   },
+   {
+    "title": "US continues efforts to undermine ICC by sanctioning two of its judges",
+    "summary": "US imposed new sanctions targeting ICC judges investigating Palestine situation. Action aims to undermine court's broader investigation efforts.",
+    "lang": "en",
+    "source": "Le Monde International",
+    "url": "https://www.lemonde.fr/en/international/article/2026/08/20/us-continues-efforts-to-undermine-icc-by-sanctioning-two-of-its-judges_6756687_4.html",
+    "published": "2026-08-19T22:24:06+00:00"
+   },
+   {
+    "title": "Arrest of two French journalists in Togo reflects worsening relations between Paris and Lomé",
+    "summary": "Two French journalists arrested in Togo while filming documentary. Detention reflects deteriorating relations between Paris and Lomé.",
+    "lang": "en",
+    "source": "Le Monde International",
+    "url": "https://www.lemonde.fr/en/le-monde-africa/article/2026/08/20/arrest-of-two-french-journalists-in-togo-reflects-worsening-relations-between-paris-and-lome_6756689_124.html",
+    "published": "2026-08-19T23:02:01+00:00"
+   }
+  ],
+  "politica|america": [
+   {
+    "title": "U.S. delays 50% tariff on Canadian imports. And, takeaways from Florida's primaries",
+    "summary": "Trump delayed 50% tariff on Canadian imports after reaching deal. Florida primary elections showed mixed results for progressive Democrats.",
+    "lang": "en",
+    "source": "NPR World",
+    "url": "https://www.npr.org/2026/08/19/g-s1-139173/up-first-newsletter-florida-primary-canada-tariffs-trump-meta-trial",
+    "published": "2026-08-19T11:14:31+00:00"
+   },
+   {
+    "title": "Amid the Iran war, the U.S. has pivoted it's geopolitical attention away from Asia",
+    "summary": "US military focus shifted from Asia to Middle East conflicts, ending 'pivot to Asia' strategy. Resource allocation reflects current geopolitical priorities.",
+    "lang": "en",
+    "source": "NPR World",
+    "url": "https://www.npr.org/2026/08/19/nx-s1-5935388/amid-the-iran-war-the-u-s-has-pivoted-its-geopolitical-attention-away-from-asia",
+    "published": "2026-08-19T20:16:16+00:00"
+   },
+   {
+    "title": "More than 1,000 Afghan refugees have been stuck at a camp in Qatar since 2021",
+    "summary": "Over 1,000 Afghan refugees stuck in Qatar camp since 2021 remain unable to leave. Many had assisted US military operations in Afghanistan.",
+    "lang": "en",
+    "source": "NPR World",
+    "url": "https://www.npr.org/2026/08/19/nx-s1-5936482/more-than-1-000-afghan-refugees-have-been-stuck-at-a-camp-in-qatar-since-2021",
+    "published": "2026-08-19T21:15:06+00:00"
+   },
+   {
+    "title": "Congo's Ebola outbreak reaches 5,000 cases as it outpaces response efforts",
+    "summary": "Congo's Ebola outbreak reached 5,000 cases with 2,378 deaths, outpacing response efforts. Current outbreak spreads faster than any previous episode.",
+    "lang": "en",
+    "source": "NPR World",
+    "url": "https://www.npr.org/2026/08/19/g-s1-139164/congo-ebola-outbreak",
+    "published": "2026-08-19T09:29:40+00:00"
+   }
+  ],
+  "tecnologia|america": [
+   {
+    "title": "Offering Zero Data Retention for frontier models",
+    "summary": "OpenAI reaffirms zero data retention for eligible API customers and previews Private Safety Processing. Move enhances enterprise data privacy protections.",
+    "lang": "en",
+    "source": "OpenAI News",
+    "url": "https://openai.com/index/offering-zero-data-retention-for-frontier-models",
+    "published": "2026-08-19T19:00:00+00:00"
+   },
+   {
+    "title": "Amazon aims for delivery drones to reach 500 US neighborhoods by end of 2026",
+    "summary": "Amazon targets delivery drone expansion to 500 US neighborhoods by end of 2026. Prime Air expansion presents consumer trade-offs.",
+    "lang": "en",
+    "source": "Ars Technica",
+    "url": "https://arstechnica.com/gadgets/2026/08/amazon-aims-for-delivery-drones-to-reach-500-us-neighborhoods-by-end-of-2026/",
+    "published": "2026-08-19T22:02:38+00:00"
+   },
+   {
+    "title": "Waymo’s cheaper, next-gen robotaxi is now open to all riders in these three cities",
+    "summary": "Waymo's cheaper next-generation robotaxi opens to all riders in three cities. Ojai model drives company's push toward mass scale profitability.",
+    "lang": "en",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/08/19/waymos-cheaper-next-gen-robotaxi-is-now-open-to-all-riders-in-these-three-cities/",
+    "published": "2026-08-19T22:25:01+00:00"
+   },
+   {
+    "title": "OpenAI seeks to one-up Anthropic with new customer privacy protections",
+    "summary": "OpenAI launched customer privacy protections to compete with Anthropic. Competition intensifies over best enterprise data security offerings.",
+    "lang": "en",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/08/19/openai-seeks-to-one-up-anthropic-with-new-customer-privacy-protections/",
+    "published": "2026-08-19T22:10:46+00:00"
+   },
+   {
+    "title": "mRNA cancer vaccine succeeded in Phase 3 melanoma trial, Moderna and Merck say",
+    "summary": "Moderna and Merck's mRNA cancer vaccine succeeded in Phase 3 melanoma trial. Vaccine demonstrated effectiveness in preventing cancer recurrence and spread.",
+    "lang": "en",
+    "source": "Ars Technica",
+    "url": "https://arstechnica.com/health/2026/08/mrna-cancer-vaccine-succeeded-in-phase-3-melanoma-trial-moderna-and-merck-say/",
+    "published": "2026-08-19T16:53:56+00:00"
+   }
+  ],
+  "tecnologia|europa": [
+   {
+    "title": "Moderna se ha disparado un 177% en bolsa. Detrás hay una vacuna contra el cáncer que ha cumplido objetivos de fase 3",
+    "summary": "Las acciones de Moderna se dispararon 177% tras resultados positivos de vacuna contra el cáncer en fase 3. El ARNm vuelve al centro de atención fuera del contexto pandémico.",
+    "lang": "es",
+    "source": "Xataka",
+    "url": "https://www.xataka.com/medicina-y-salud/moderna-se-ha-disparado-177-bolsa-detras-hay-vacuna-cancer-que-ha-cumplido-objetivos-fase-3",
+    "published": "2026-08-19T21:10:08+00:00"
+   },
+   {
+    "title": "La red cuántica acaba de superar el test más exigente. La pregunta ya no es si llegará: es cuándo estará lista",
+    "summary": "Las redes cuánticas superan su prueba más exigente, consolidando los cimientos para su implementación. La pregunta cambia de si llegarán a cuándo estarán listas.",
+    "lang": "es",
+    "source": "Xataka",
+    "url": "https://www.xataka.com/investigacion/red-cuantica-acaba-superar-test-exigente-pregunta-no-llegara-cuando-estara-lista",
+    "published": "2026-08-19T17:31:33+00:00"
+   },
+   {
+    "title": "La nueva amenaza para SpaceX viene de China: LandSpace acaba de recuperar la primera etapa de acero inoxidable del Zhuque-3",
+    "summary": "LandSpace de China recupera la primera etapa de cohete Zhuque-3, desafiando a SpaceX. China avanza en tecnología de lanzadores reutilizables de acero inoxidable.",
+    "lang": "es",
+    "source": "Xataka",
+    "url": "https://www.xataka.com/espacio/nueva-amenaza-para-spacex-viene-china-landspace-acaba-recuperar-primera-etapa-acero-inoxidable-zhuque-3",
+    "published": "2026-08-19T16:31:33+00:00"
+   }
+  ],
+  "tecnologia|asia": [
+   {
+    "title": "OpenAI頂尖模型將提供資料零留置",
+    "summary": "OpenAI推出隐私安全处理功能实现数据零留置。举措旨在与Anthropic做法区隔，消除企业客户隐私顾虑。",
+    "lang": "zh",
+    "source": "iThome 台灣",
+    "url": "https://www.ithome.com.tw/news/178299",
+    "published": "2026-08-20T01:08:17+00:00"
+   },
+   {
+    "title": "聯發科股價一度下跌逾 4%，這要從 Google與 Marvell 最新簽訂協議談起",
+    "summary": "Google与晶片厂商Marvell扩大合作应对AI定制芯片需求爆炸式增长。联发科股价受此影响一度下跌逾4%。",
+    "lang": "zh",
+    "source": "科技新報 TechNews",
+    "url": "https://finance.technews.tw/2026/08/20/googles-agreement-with-marvell-may-affect-mediatek/",
+    "published": "2026-08-20T05:50:08+00:00"
+   },
+   {
+    "title": "勒索軟體集團Clop疑專為Windchill開發客製化網頁Shell來竊取資料",
+    "summary": "勒索软件集团Clop针对PTC旗下Windchill平台开发客制化网页Shell窃取数据。黑客利用该工具在入侵后直接盗取登录凭证。",
+    "lang": "zh",
+    "source": "iThome 台灣",
+    "url": "https://www.ithome.com.tw/news/178296",
+    "published": "2026-08-20T12:08:56+00:00"
+   },
+   {
+    "title": "MIT 研究：AI 模型越大越難溯源訓練資料，版權訴訟恐更難解",
+    "summary": "MIT研究表明AI模型越大越难溯源训练数据。大型模型的版权诉讼将更加复杂困难。",
+    "lang": "zh",
+    "source": "科技新報 TechNews",
+    "url": "https://infosecu.technews.tw/2026/08/20/ai-models-scale-source-tracing-harder/",
+    "published": "2026-08-20T05:00:53+00:00"
+   }
+  ]
+ }
+}
