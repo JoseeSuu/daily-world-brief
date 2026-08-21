@@ -1,0 +1,292 @@
+{
+ "date": "2026-08-21",
+ "generated_at": "2026-08-21T05:58:11.867864+00:00",
+ "mode": "full",
+ "cost_usd": 0.0228,
+ "market": null,
+ "failed_sources": [],
+ "cells": {
+  "economia|asia": [
+   {
+    "title": "China Plans New Fiscal Support Policies Amid Growth Slowdown",
+    "summary": "China launches new fiscal support measures to stimulate business and consumer borrowing as economic growth slows.",
+    "lang": "en",
+    "source": "Bloomberg Economics",
+    "url": "https://www.bloomberg.com/news/articles/2026-08-21/china-plans-new-fiscal-support-policies-this-year-amid-slowdown",
+    "published": "2026-08-21T03:45:45+00:00"
+   },
+   {
+    "title": "Japanese inflation rises as central bank weighs rate increase",
+    "summary": "Bank of Japan faces pressure to raise rates in September as Japanese inflation rises despite yen weakening.",
+    "lang": "en",
+    "source": "FT Global Economy",
+    "url": "https://www.ft.com/content/4e128c45-b84c-4fc3-98bf-c5033c201ea6?syn-25a6b1a6=1",
+    "published": "2026-08-21T04:54:22+00:00"
+   },
+   {
+    "title": "New Bank Indonesia Chief’s Shift From High Yields to Test Rupiah",
+    "summary": "Indonesia's new central bank chief shifts away from high-yield tools, risking recent rupiah gains, according to analysts.",
+    "lang": "en",
+    "source": "Bloomberg Economics",
+    "url": "https://www.bloomberg.com/news/articles/2026-08-21/new-bank-indonesia-chief-s-shift-from-high-yields-to-test-rupiah",
+    "published": "2026-08-21T01:11:52+00:00"
+   }
+  ],
+  "economia|europa": [
+   {
+    "title": "Healey warned to limit Budget borrowing amid bond sell-off",
+    "summary": "UK Chancellor Healey plans to stay within Labour's fiscal rules amid bond market sell-off pressures.",
+    "lang": "en",
+    "source": "FT Global Economy",
+    "url": "https://www.ft.com/content/2d7e64e8-386a-4987-ae4d-04b6bf2a5e6a?syn-25a6b1a6=1",
+    "published": "2026-08-21T04:00:21+00:00"
+   },
+   {
+    "title": "Poland Looks for Its Economy 2.0 After Topping $1 Trillion",
+    "summary": "Polish government pursues economic transformation through Canadian metals investment in overlooked town after crossing $1 trillion GDP.",
+    "lang": "en",
+    "source": "Bloomberg Economics",
+    "url": "https://www.bloomberg.com/news/features/2026-08-21/poland-looks-for-its-economy-2-0-after-topping-1-trillion",
+    "published": "2026-08-21T04:00:02+00:00"
+   },
+   {
+    "title": "Los inversores ‘se pelean’ por el cobre y pagan primas récord por acapararlo cuanto antes",
+    "summary": "Los inversores compiten por cobre ante caída de inventarios y amenaza de aranceles estadounidenses, pagando primas récord en el mercado de Londres.",
+    "lang": "es",
+    "source": "El País Economía",
+    "url": "https://cincodias.elpais.com/mercados-financieros/2026-08-21/los-inversores-se-pelean-por-el-cobre-y-pagan-primas-record-por-acapararlo-cuanto-antes.html",
+    "published": "2026-08-21T03:30:01+00:00"
+   }
+  ],
+  "economia|america": [
+   {
+    "title": "Scott Bessent takes on bond vigilantes in $32tn Treasury market",
+    "summary": "Treasury Secretary Bessent faces investor skepticism over strategy to buy long-term US debt in $32 trillion market.",
+    "lang": "en",
+    "source": "Financial Times",
+    "url": "https://www.ft.com/content/f01ff762-3e68-4bac-bb73-6f35a6bf2771?syn-25a6b1a6=1",
+    "published": "2026-08-21T04:00:21+00:00"
+   },
+   {
+    "title": "Federal Reserve Board announces approval of application by National Westminster Bank Plc",
+    "summary": "Federal Reserve approves National Westminster Bank Plc's application.",
+    "lang": "en",
+    "source": "Reserva Federal (notas de prensa)",
+    "url": "https://www.federalreserve.gov/newsevents/pressreleases/orders20260820a.htm",
+    "published": "2026-08-20T20:00:00+00:00"
+   },
+   {
+    "title": "Walmart shares tumble as sales growth slows to six-year low",
+    "summary": "Walmart stock falls as sales growth hits six-year low; retailer allocates $2.9 billion tariff refunds for price cuts.",
+    "lang": "en",
+    "source": "FT Global Economy",
+    "url": "https://www.ft.com/content/79f1f638-1fd5-40e1-845b-b4a787a12883?syn-25a6b1a6=1",
+    "published": "2026-08-20T20:52:26+00:00"
+   }
+  ],
+  "politica|asia": [
+   {
+    "title": "Russia’s missile tests around disputed islands anger Japan",
+    "summary": "Russia conducted missile tests near disputed islands claimed by Japan, escalating tensions in the Pacific region.",
+    "lang": "en",
+    "source": "The Guardian World",
+    "url": "https://www.theguardian.com/world/2026/aug/21/russia-launch-missiles-kuril-islands-japan",
+    "published": "2026-08-21T04:54:01+00:00"
+   },
+   {
+    "title": "Australia charges man over trying to inform Russia of Ukrainian military activities",
+    "summary": "Australia charges 27-year-old Russian-Australian citizen for attempting to reveal Ukrainian military information to Russia.",
+    "lang": "en",
+    "source": "Channel NewsAsia",
+    "url": "https://www.channelnewsasia.com/world/australia-charge-man-informing-russia-ukraine-military-activity-foreign-intelligence-6332806",
+    "published": "2026-08-21T05:23:00+00:00"
+   },
+   {
+    "title": "Founder of China’s Evergrande jailed for life after pleading guilty to fraud",
+    "summary": "Evergrande founder Hui Ka Yan receives life sentence after pleading guilty to fraud; company faces substantial fines.",
+    "lang": "en",
+    "source": "The Guardian World",
+    "url": "https://www.theguardian.com/business/2026/aug/20/evergrande-founder-jailed-life-fraud-hui-ka-yan",
+    "published": "2026-08-20T12:03:39+00:00"
+   },
+   {
+    "title": "North Korea fires 10 missiles day after Trump curtails South Korea joint drills",
+    "summary": "North Korea launches approximately 10 short-range missiles day after Trump reduces joint US-South Korea drills.",
+    "lang": "en",
+    "source": "The Guardian World",
+    "url": "https://www.theguardian.com/world/2026/aug/20/north-korea-fires-10-missiles-day-after-trump-curtails-south-korea-joint-drills",
+    "published": "2026-08-20T10:25:29+00:00"
+   },
+   {
+    "title": "美国认定美籍缅甸问题学者遭中国不当拘留",
+    "summary": "美国国务院认定缅甸裔美籍学者敏辛在中国被不当拘留，预计习近平访美时交涉此案。",
+    "lang": "zh",
+    "source": "纽约时报中文网",
+    "url": "https://cn.nytimes.com/usa/20260821/scholar-china-wrongfully-detained/?utm_source=RSS",
+    "published": "2026-08-21T01:37:12+00:00"
+   }
+  ],
+  "politica|europa": [
+   {
+    "title": "UK, France, Germany, Italy and Canada condemn Israel's West Bank settlement project",
+    "summary": "UK, France, Germany, Italy, and Canada condemn Israel's West Bank settlement expansion plans in occupied territories.",
+    "lang": "en",
+    "source": "BBC World",
+    "url": "https://www.bbc.co.uk/news/articles/c998evlgz8ko?at_medium=RSS&at_campaign=rss",
+    "published": "2026-08-20T18:55:14+00:00"
+   },
+   {
+    "title": "Turkey’s marine park plans heighten tensions between Athens and Ankara over territorial waters",
+    "summary": "Turkish marine park initiatives in Aegean Sea heighten tensions with Greece over territorial waters after de-escalation period.",
+    "lang": "en",
+    "source": "Le Monde International",
+    "url": "https://www.lemonde.fr/en/international/article/2026/08/21/turkey-s-marine-park-plans-heighten-tensions-between-athens-and-ankara-over-territorial-waters_6756720_4.html",
+    "published": "2026-08-21T01:59:30+00:00"
+   },
+   {
+    "title": "Syrian Kurds announce completion of civil and military integration with Damascus",
+    "summary": "Syrian Kurds announce completion of civil and military integration with Damascus following months of negotiations.",
+    "lang": "en",
+    "source": "Le Monde International",
+    "url": "https://www.lemonde.fr/en/international/article/2026/08/21/syrian-kurds-announce-completion-of-civil-and-military-integration-with-damascus_6756716_4.html",
+    "published": "2026-08-20T23:06:30+00:00"
+   },
+   {
+    "title": "Bangladesh lawmakers elect BNP's Alamgir as president",
+    "summary": "BNP party's Alamgir elected president of Bangladesh after opposition took power following 2024 revolution.",
+    "lang": "en",
+    "source": "Deutsche Welle World",
+    "url": "https://www.dw.com/en/bangladesh-lawmakers-elect-bnp-s-alamgir-as-president/a-78438534?maca=en-rss-en-world-4025-rdf",
+    "published": "2026-08-20T12:24:00+00:00"
+   }
+  ],
+  "politica|america": [
+   {
+    "title": "US deports 20 people to Liberia, the first of 1,200 migrants under Trump deal",
+    "summary": "US deports 20 people to Liberia as first installment of 1,200-person agreement under Trump administration's immigration crackdown.",
+    "lang": "en",
+    "source": "The Guardian World",
+    "url": "https://www.theguardian.com/us-news/2026/aug/20/liberia-deportation-agreement",
+    "published": "2026-08-20T19:57:59+00:00"
+   },
+   {
+    "title": "Israeli military launches criminal probes into killings of 5-year-old and paramedics",
+    "summary": "Israeli military launches first criminal investigations into Gaza troop conduct, including killings of 5-year-old and paramedics.",
+    "lang": "en",
+    "source": "NPR World",
+    "url": "https://www.npr.org/2026/08/20/nx-s1-5939310/israeli-military-criminal-probes",
+    "published": "2026-08-20T05:50:53+00:00"
+   },
+   {
+    "title": "Canadian premier says ‘erratic’ Trump ‘not to be trusted’ amid US trade feud",
+    "summary": "Canadian provincial premier criticizes Trump as erratic and untrustworthy amid US-Canada trade tensions.",
+    "lang": "en",
+    "source": "South China Morning Post (Asia)",
+    "url": "https://www.scmp.com/news/world/united-states-canada/article/3364754/canadian-premier-says-erratic-trump-not-be-trusted-amid-us-trade-feud?utm_source=rss_feed",
+    "published": "2026-08-21T03:12:49+00:00"
+   }
+  ],
+  "tecnologia|america": [
+   {
+    "title": "Tesla, Uber, and Waymo all get the OK to operate thousands of robotaxis in Nevada",
+    "summary": "Tesla, Uber, and Waymo receive Nevada permits allowing up to 8,000 robotaxis deployment within 12 months.",
+    "lang": "en",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/08/20/tesla-uber-and-waymo-all-get-the-ok-to-operate-thousands-of-robotaxis-in-nevada/",
+    "published": "2026-08-21T00:23:36+00:00"
+   },
+   {
+    "title": "OpenAI is gaining on Anthropic with business users, new data indicates",
+    "summary": "OpenAI gains on Anthropic with business users as enterprises shift between AI providers with new model releases.",
+    "lang": "en",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/08/20/openai-is-gaining-on-anthropic-with-business-users-new-data-indicates/",
+    "published": "2026-08-20T22:36:37+00:00"
+   },
+   {
+    "title": "ChatGPT can now send texts for you with new Apple Messages plug-in",
+    "summary": "ChatGPT gains Apple Messages integration allowing automated text composition and sending on user devices.",
+    "lang": "en",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/08/20/chatgpt-can-now-send-texts-for-you-with-new-apple-messages-plugin/",
+    "published": "2026-08-20T22:09:51+00:00"
+   },
+   {
+    "title": "SpaceX’s orbital data centers would create a new category of e-waste",
+    "summary": "SpaceX orbital data centers create new e-waste category with disposal math resembling reverse asteroid mining.",
+    "lang": "en",
+    "source": "Ars Technica",
+    "url": "https://arstechnica.com/science/2026/08/spacexs-orbital-data-centers-would-create-a-new-category-of-e-waste/",
+    "published": "2026-08-20T13:59:50+00:00"
+   },
+   {
+    "title": "FCC officially decides gigabit speeds are too good for you",
+    "summary": "FCC Chairman Carr kills gigabit speed standards, restricting broadband performance requirements nationwide.",
+    "lang": "en",
+    "source": "The Verge",
+    "url": "https://www.theverge.com/policy/982863/fcc-kills-gigabit-goal",
+    "published": "2026-08-20T17:38:30+00:00"
+   }
+  ],
+  "tecnologia|europa": [
+   {
+    "title": "China ha probado durante 5.211 segundos el motor de su nuevo “taxi espacial”. El siguiente paso será llevarlo al espacio",
+    "summary": "China probó su motor de taxi espacial durante 5.211 segundos, preparándose para llevarlo al espacio en próximos lanzamientos.",
+    "lang": "es",
+    "source": "Xataka",
+    "url": "https://www.xataka.com/espacio/china-ha-probado-durante-5-211-segundos-motor-su-nuevo-taxi-espacial-siguiente-paso-sera-llevarlo-al-espacio",
+    "published": "2026-08-20T20:01:34+00:00"
+   },
+   {
+    "title": "Chile no quiere tirar ni una gota de su energía solar y ha tenido una idea loca: conectar sus plantas fotovoltaicas a baterías",
+    "summary": "Chile conecta plantas fotovoltaicas del desierto de Atacama a baterías para maximizar el almacenamiento de energía solar.",
+    "lang": "es",
+    "source": "Xataka",
+    "url": "https://www.xataka.com/energia/chile-no-quiere-tirar-gota-su-energia-solar-ha-tenido-idea-loca-conectar-sus-plantas-fotovoltaicas-a-baterias",
+    "published": "2026-08-20T18:01:33+00:00"
+   },
+   {
+    "title": "Silicon Valley ha copiado de China la jornada 996 para trabajar más. DeepSeek está logrando lo mismo haciendo justo lo contrario",
+    "summary": "DeepSeek, valorada en 60.000 millones, logró éxito en IA con estrategia opuesta a jornada 996, desafiando modelo de Silicon Valley.",
+    "lang": "es",
+    "source": "Xataka",
+    "url": "https://www.xataka.com/empresas-y-economia/silicon-valley-ha-copiado-china-jornada-996-para-trabajar-deepseek-esta-logrando-haciendo-justo-contrario",
+    "published": "2026-08-20T16:31:34+00:00"
+   }
+  ],
+  "tecnologia|asia": [
+   {
+    "title": "阿里平頭哥 AI 晶片續放量，二代晶片擬 H2 將開始流片",
+    "summary": "阿里巴巴芯片部门继续放量，二代芯片计划下半年流片。",
+    "lang": "zh",
+    "source": "科技新報 TechNews",
+    "url": "https://technews.tw/2026/08/21/thead-2nd-gen-chip-set-to-tape-out-in-h2/",
+    "published": "2026-08-21T05:00:11+00:00"
+   },
+   {
+    "title": "韓媒：SK 海力士擬砸「數十兆」在日本蓋記憶體工廠",
+    "summary": "SK海力士计划在日本宫城县投资数十兆韩圜建设存储芯片工厂。",
+    "lang": "zh",
+    "source": "科技新報 TechNews",
+    "url": "https://technews.tw/2026/08/21/sk-hynix-may-build-new-memory-fab-in-japan/",
+    "published": "2026-08-21T04:20:59+00:00"
+   },
+   {
+    "title": "走私案延燒數月，美超微公布調查結果：未發現管理層涉入",
+    "summary": "美超微完成内部调查，未发现管理层涉及芯片走私案。",
+    "lang": "zh",
+    "source": "科技新報 TechNews",
+    "url": "https://finance.technews.tw/2026/08/21/supermicro-ai-server-smuggling/",
+    "published": "2026-08-21T04:36:07+00:00"
+   },
+   {
+    "title": "Google兩天內二度更新Chrome 151，再修補7個資安漏洞",
+    "summary": "谷歌两天内二度更新Chrome浏览器，修补7个安全漏洞。",
+    "lang": "zh",
+    "source": "iThome 台灣",
+    "url": "https://www.ithome.com.tw/news/178332",
+    "published": "2026-08-21T12:08:14+00:00"
+   }
+  ]
+ }
+}
