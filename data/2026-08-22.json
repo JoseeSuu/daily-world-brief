@@ -1,0 +1,292 @@
+{
+ "date": "2026-08-22",
+ "generated_at": "2026-08-22T05:52:29.290627+00:00",
+ "mode": "full",
+ "cost_usd": 0.0239,
+ "market": null,
+ "failed_sources": [],
+ "cells": {
+  "economia|asia": [
+   {
+    "title": "China automakers' EV rush culminates in 'Crazy Thursday'",
+    "summary": "China's automakers are engaged in an intense competitive surge called 'Crazy Thursday' as the electric vehicle market intensifies.",
+    "lang": "en",
+    "source": "Nikkei Asia",
+    "url": "https://asia.nikkei.com/spotlight/electric-cars-in-china/china-automakers-ev-rush-culminates-in-crazy-thursday",
+    "published": null
+   },
+   {
+    "title": "China Scales Back Austerity With Smaller Budget Spending Dip",
+    "summary": "China's government spending contracted more slowly in July than June, indicating policymakers may be easing austerity measures and moving toward economic stimulus.",
+    "lang": "en",
+    "source": "Bloomberg Economics",
+    "url": "https://www.bloomberg.com/news/articles/2026-08-21/china-scales-back-austerity-with-smaller-drop-in-budget-spending",
+    "published": "2026-08-21T09:51:22+00:00"
+   },
+   {
+    "title": "Japanese inflation rises as central bank weighs rate increase",
+    "summary": "Japan's inflation rises as the Bank of Japan considers a rate increase in September amid yen weakness despite international intervention efforts.",
+    "lang": "en",
+    "source": "FT Global Economy",
+    "url": "https://www.ft.com/content/4e128c45-b84c-4fc3-98bf-c5033c201ea6?syn-25a6b1a6=1",
+    "published": "2026-08-21T04:54:22+00:00"
+   }
+  ],
+  "economia|europa": [
+   {
+    "title": "ECB Consumer Expectations Survey results – July 2026",
+    "summary": "The ECB released consumer expectations survey results for July 2026, providing insights into economic sentiment and inflation expectations.",
+    "lang": "en",
+    "source": "BCE (notas de prensa)",
+    "url": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr260821~a044fdddd9.en.html",
+    "published": "2026-08-21T08:00:00+00:00"
+   },
+   {
+    "title": "Euro-Area Pay Growth Eased in Second Quarter, ECB Says",
+    "summary": "Euro-area wage growth slowed in the second quarter, relieving the ECB's inflation concerns as it assesses risks from the Iran war.",
+    "lang": "en",
+    "source": "Bloomberg Economics",
+    "url": "https://www.bloomberg.com/news/articles/2026-08-21/euro-area-pay-growth-held-stead-in-second-quarter-ecb-says",
+    "published": "2026-08-21T09:06:55+00:00"
+   },
+   {
+    "title": "Europa en la carrera por el capital: la oportunidad de la Unión del Ahorro y la Inversión",
+    "summary": "Europa necesita mercados de capitales más profundos e integrados para canalizar sus recursos hacia la economía productiva. La Unión del Ahorro y la Inversión busca fortalecer el sistema financiero europeo.",
+    "lang": "es",
+    "source": "El País Economía",
+    "url": "https://cincodias.elpais.com/opinion/2026-08-22/europa-en-la-carrera-por-el-capital-la-oportunidad-de-la-union-del-ahorro-y-la-inversion.html",
+    "published": "2026-08-22T03:40:00+00:00"
+   }
+  ],
+  "economia|america": [
+   {
+    "title": "Canada vows to match US tariffs as trade talks collapse",
+    "summary": "Canada rejected a trade deal as unfair and vowed to match US tariffs dollar-for-dollar after talks collapsed with Washington.",
+    "lang": "en",
+    "source": "Financial Times",
+    "url": "https://www.ft.com/content/24f9c08e-e23f-434e-b0f4-fc1eb55a7b04?syn-25a6b1a6=1",
+    "published": "2026-08-22T04:51:58+00:00"
+   },
+   {
+    "title": "Mexico Optimistic it Can Achieve Lower US Tariffs on Cars, Steel",
+    "summary": "Mexico's top trade negotiator expressed optimism about securing lower US tariffs on Mexican automobiles and steel exports.",
+    "lang": "en",
+    "source": "Bloomberg Markets",
+    "url": "https://www.bloomberg.com/news/articles/2026-08-22/mexico-optimistic-it-can-achieve-lower-us-tariffs-on-cars-steel",
+    "published": "2026-08-22T00:16:57+00:00"
+   },
+   {
+    "title": "Economists Boost US Growth Forecasts for Third Quarter",
+    "summary": "Economists raised US third-quarter growth forecasts, reflecting upward adjustments to consumer spending and private investment.",
+    "lang": "en",
+    "source": "Bloomberg Economics",
+    "url": "https://www.bloomberg.com/news/articles/2026-08-21/economists-boost-us-growth-forecasts-for-third-quarter",
+    "published": "2026-08-21T10:00:00+00:00"
+   }
+  ],
+  "politica|asia": [
+   {
+    "title": "U.S. and Canada fail to reach trade pact to avert Trump tariffs",
+    "summary": "US and Canada failed to reach a trade agreement, allowing 50% tariffs on $20 billion of Canadian exports to take effect Saturday.",
+    "lang": "en",
+    "source": "Japan Times",
+    "url": "https://www.japantimes.co.jp/business/2026/08/22/economy/us-canada-fail-trade-pact/",
+    "published": "2026-08-22T04:21:00+00:00"
+   },
+   {
+    "title": "特朗普想與金正恩做朋友，韓國恐要為此付出代價",
+    "summary": "美韓提前結束聯合軍事演習，北韓正處於實力強勢時期，韓國或為特朗普與金正恩友好關係付出代價。",
+    "lang": "zh",
+    "source": "BBC中文",
+    "url": "https://www.bbc.com/zhongwen/articles/c74g2d2293zo/trad?at_medium=RSS&at_campaign=rss",
+    "published": "2026-08-21T09:40:09+00:00"
+   },
+   {
+    "title": "Why Chinese foreign minister’s trip to South Korea ‘dealt a low blow’ to Seoul",
+    "summary": "China's foreign minister Wang Yi concluded a two-day visit to South Korea but declined to support Seoul's push for multiparty peace talks with North Korea.",
+    "lang": "en",
+    "source": "South China Morning Post (China)",
+    "url": "https://www.scmp.com/news/china/diplomacy/article/3364877/why-chinese-foreign-ministers-trip-south-korea-dealt-low-blow-seoul?utm_source=rss_feed",
+    "published": "2026-08-22T02:00:09+00:00"
+   },
+   {
+    "title": "美國第七艦隊證實 P-8A軍機飛越台海",
+    "summary": "美國第七艦隊證實一架P-8A巡邏機21日在國際空域飛越台灣海峽進行例行偵察。",
+    "lang": "zh",
+    "source": "中央社 CNA",
+    "url": "https://www.cna.com.tw/news/aopl/202608220025.aspx",
+    "published": "2026-08-22T01:14:00+00:00"
+   }
+  ],
+  "politica|europa": [
+   {
+    "title": "线索指向俄特工：柏林附近森林中发现武器藏匿点",
+    "summary": "德國勃蘭登堡森林發現俄羅斯特工設立的武器藏匿點，內含兩把真槍，可能用於籌劃襲擊活動。",
+    "lang": "zh",
+    "source": "德國之聲中文",
+    "url": "https://www.dw.com/zh/线索指向俄特工：柏林附近森林中发现武器藏匿点/a-78460226?maca=chi-rss-chi-all-1127-rdf",
+    "published": "2026-08-21T13:31:00+00:00"
+   },
+   {
+    "title": "German army helps Poland construct a defensive barrier against Russia",
+    "summary": "German military engineers have assisted Poland since June in constructing defensive barriers along its northern and eastern borders against Russia.",
+    "lang": "en",
+    "source": "Deutsche Welle World",
+    "url": "https://www.dw.com/en/german-army-helps-poland-construct-a-defensive-barrier-against-russia/a-78464726?maca=en-rss-en-world-4025-rdf",
+    "published": "2026-08-21T18:44:00+00:00"
+   },
+   {
+    "title": "Russian strikes on Ukraine kill two, officials say, a day after deadly attack on mall",
+    "summary": "Russian strikes on Ukraine killed two people Saturday, one day after at least 16 died in a double-tap attack on a shopping mall.",
+    "lang": "en",
+    "source": "BBC World",
+    "url": "https://www.bbc.co.uk/news/articles/c39egw7nmk2o?at_medium=RSS&at_campaign=rss",
+    "published": "2026-08-22T05:15:58+00:00"
+   },
+   {
+    "title": "Sword attack in Sweden leaves one dead and three wounded",
+    "summary": "A sword-wielding attacker entered a high school in central Sweden Friday, killing one person and injuring three others before arrest.",
+    "lang": "en",
+    "source": "Le Monde International",
+    "url": "https://www.lemonde.fr/en/international/article/2026/08/21/sword-attack-in-sweden-leaves-one-dead-and-three-wounded_6756745_4.html",
+    "published": "2026-08-21T21:46:31+00:00"
+   },
+   {
+    "title": "Ukraine's farmers struggle to sell harvest amid war, drought",
+    "summary": "Russian attacks on Black Sea ships and ports severely restrict Ukraine's grain exports, threatening the agricultural sector amid war and drought.",
+    "lang": "en",
+    "source": "Deutsche Welle World",
+    "url": "https://www.dw.com/en/ukraine-s-farmers-struggle-to-sell-harvest-amid-war-drought/a-78435344?maca=en-rss-en-world-4025-rdf",
+    "published": "2026-08-21T13:51:00+00:00"
+   }
+  ],
+  "politica|america": [
+   {
+    "title": "U.S. imposes 50% tariffs on $20 billion worth of Canadian products",
+    "summary": "The US imposed 50% tariffs on $20 billion of Canadian products Saturday, prompting Canada to immediately announce retaliatory measures.",
+    "lang": "en",
+    "source": "NPR World",
+    "url": "https://www.npr.org/2026/08/22/nx-s1-5941584/us-canada-tariffs",
+    "published": "2026-08-22T04:36:27+00:00"
+   },
+   {
+    "title": "Strangers in their own land: Mexicans deported from Trump’s America find refuge in ‘Little LA’",
+    "summary": "A Mexico City neighborhood has become a haven for deported Mexicans with US residency, offering plentiful jobs and community support.",
+    "lang": "en",
+    "source": "The Guardian World",
+    "url": "https://www.theguardian.com/world/2026/aug/21/mexico-city-little-la-us-deportees",
+    "published": "2026-08-21T10:00:31+00:00"
+   },
+   {
+    "title": "Trump declares economic warfare on Iran. And, SCOTUS to rule on White House ballroom",
+    "summary": "Trump declared economic warfare on Iran to pressure negotiations, and the Supreme Court will rule on the future of Trump's White House ballroom.",
+    "lang": "en",
+    "source": "NPR World",
+    "url": "https://www.npr.org/2026/08/21/g-s1-139542/up-first-newsletter-trump-iran-economy-white-house-ballroom-bond-market",
+    "published": "2026-08-21T11:25:10+00:00"
+   },
+   {
+    "title": "Two injured in stabbing attack at Canada Sikh temple",
+    "summary": "Two people were injured in a stabbing attack at a Canadian Sikh temple; police are investigating whether the attack was motivated by hate.",
+    "lang": "en",
+    "source": "BBC World",
+    "url": "https://www.bbc.co.uk/news/articles/ce8l7w0n0jeo?at_medium=RSS&at_campaign=rss",
+    "published": "2026-08-21T22:45:01+00:00"
+   }
+  ],
+  "tecnologia|asia": [
+   {
+    "title": "夠全球用 780 年！日本開採南鳥島深海「釔」礦，美日聯手打破中國稀土壟斷",
+    "summary": "日本在南鳥島深海開採釔礦，儲量足全球用780年，日本與美國聯手打破中國稀土壟斷。",
+    "lang": "zh",
+    "source": "科技新報 TechNews",
+    "url": "https://technews.tw/2026/08/22/japan-us-minamitorishima-deep-sea-rare-earths-yttrium-780-year-semiconductor-supply/",
+    "published": "2026-08-22T04:00:28+00:00"
+   },
+   {
+    "title": "隱藏式把手終結令，中國啟動史上最大汽車召回案",
+    "summary": "中國啟動史上最大汽車召回案，要求禁用隱藏式把手，涉及數百萬輛新舊車型。",
+    "lang": "zh",
+    "source": "科技新報 TechNews",
+    "url": "https://technews.tw/2026/08/22/china-recall-millions-of-car/",
+    "published": "2026-08-22T05:31:34+00:00"
+   },
+   {
+    "title": "Android惡意軟體Manic讓感染手機接力傳送資料，斷開網際網路仍可能外洩",
+    "summary": "新型Android惡意軟體Manic可竊取銀行資料，還能透過Wi-Fi和藍牙中繼傳送數據以躲避網路斷連。",
+    "lang": "zh",
+    "source": "iThome 台灣",
+    "url": "https://www.ithome.com.tw/news/178345",
+    "published": "2026-08-21T04:08:30+00:00"
+   }
+  ],
+  "tecnologia|europa": [
+   {
+    "title": "From Atari to EVE Online: Building on 15 Years of AI Research in Games",
+    "summary": "Google DeepMind partners with game studios to prototype breakthrough AI gameplay using 15 years of research spanning Atari to EVE Online.",
+    "lang": "en",
+    "source": "Google DeepMind Blog",
+    "url": "https://deepmind.google/blog/from-atari-to-eve-online-building-on-15-years-of-ai-research-in-games/",
+    "published": "2026-08-21T11:59:48+00:00"
+   },
+   {
+    "title": "China lleva años enseñando robots espectaculares. En Hangzhou ya los ha puesto a controlar el tráfico",
+    "summary": "China utiliza robots humanoides para controlar el tráfico en Hangzhou, convirtiéndolos en escaparate tecnológico. Los autómatas avanzan gradualmente hacia aplicaciones comerciales.",
+    "lang": "es",
+    "source": "Xataka",
+    "url": "https://www.xataka.com/robots/china-lleva-anos-ensenando-robots-espectaculares-hangzhou-ha-puesto-a-controlar-trafico",
+    "published": "2026-08-21T17:31:33+00:00"
+   },
+   {
+    "title": "Hasta ahora había que entrenar a un robot para cada tarea nueva. La nueva idea es mucho más simple: que te mire unos segundos",
+    "summary": "Generalist AI presentó GEN-1.5, un modelo que aprende tareas nuevas observando una única demostración. El avance simplifica el entrenamiento de robots respecto a métodos anteriores.",
+    "lang": "es",
+    "source": "Xataka",
+    "url": "https://www.xataka.com/robotica-e-ia/ahora-habia-que-entrenar-a-robot-para-cada-tarea-nueva-nueva-idea-mucho-simple-que-te-mire-unos-segundos",
+    "published": "2026-08-21T16:31:33+00:00"
+   }
+  ],
+  "tecnologia|america": [
+   {
+    "title": "Trump's space transportation policy calls for new spaceport on federal land",
+    "summary": "Trump's space transportation policy calls for developing a new spaceport on federal land capable of heavy and super heavy launch capability.",
+    "lang": "en",
+    "source": "Ars Technica",
+    "url": "https://arstechnica.com/space/2026/08/trump-admin-calls-for-more-spaceports-to-handle-surge-in-launches/",
+    "published": "2026-08-21T23:32:17+00:00"
+   },
+   {
+    "title": "Tesla’s Door Handles Lead to Its Biggest Recall Yet",
+    "summary": "Tesla faces its biggest recall yet affecting 3 million vehicles in China due to door handle issues, mostly fixable by over-the-air updates.",
+    "lang": "en",
+    "source": "Wired",
+    "url": "https://www.wired.com/story/teslas-door-handles-lead-to-its-biggest-recall-yet/",
+    "published": "2026-08-21T23:10:00+00:00"
+   },
+   {
+    "title": "TikTok will pay $400 million to settle DOJ child privacy lawsuit",
+    "summary": "TikTok will pay $400 million to settle a DOJ lawsuit filed in 2024 over allegations of violating children's online privacy protections.",
+    "lang": "en",
+    "source": "The Verge",
+    "url": "https://www.theverge.com/tech/983531/tiktok-settle-doj-lawsuit-coppa",
+    "published": "2026-08-21T22:13:34+00:00"
+   },
+   {
+    "title": "Chinese regulators tell Tesla to fix nearly 3 million cars",
+    "summary": "Chinese safety regulators ordered Tesla to fix nearly 3 million vehicles with door mechanisms that fail to open during crashes.",
+    "lang": "en",
+    "source": "Ars Technica",
+    "url": "https://arstechnica.com/cars/2026/08/chinese-regulators-tell-tesla-to-fix-nearly-3-million-cars/",
+    "published": "2026-08-21T18:07:15+00:00"
+   },
+   {
+    "title": "Nvidia partners with data center developer Cloverleaf",
+    "summary": "Nvidia partnered with data center developer Cloverleaf, continuing investment in data center infrastructure as AI facilities drive company profits.",
+    "lang": "en",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/08/21/nvidia-partners-with-data-center-developer-cloverleaf/",
+    "published": "2026-08-21T22:37:38+00:00"
+   }
+  ]
+ }
+}
