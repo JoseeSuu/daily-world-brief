@@ -1,0 +1,300 @@
+{
+ "date": "2026-08-23",
+ "generated_at": "2026-08-23T05:54:32.062740+00:00",
+ "mode": "full",
+ "cost_usd": 0.025,
+ "market": null,
+ "failed_sources": [],
+ "cells": {
+  "economia|asia": [
+   {
+    "title": "輝達將於8月26日公布上季財報",
+    "summary": "英伟达将于美国时间8月26日公布2027财会年度第二季财报，第三方融资方案细节备受关注。",
+    "lang": "zh",
+    "source": "經濟日報 台灣",
+    "url": "https://money.udn.com/money/story/5612/9708851",
+    "published": "2026-08-23T05:04:11+00:00"
+   },
+   {
+    "title": "封測五雄砸逾4,600億擴產 應對 AI 熱潮引爆產能需求",
+    "summary": "五大芯片封测厂为应对AI需求引爆的产能需求，今年合计投资超4,600亿元进行大规模扩产。",
+    "lang": "zh",
+    "source": "經濟日報 台灣",
+    "url": "https://money.udn.com/money/story/5612/9708191",
+    "published": "2026-08-22T17:36:23+00:00"
+   },
+   {
+    "title": "India’s reliance on Russian oil hits all-time high",
+    "summary": "India's oil imports from Russia reached record levels, exposing energy security vulnerabilities amid Middle East tensions.",
+    "lang": "en",
+    "source": "Financial Times",
+    "url": "https://www.ft.com/content/be3c0c6c-0a65-4add-b675-7a5876f625be?syn-25a6b1a6=1",
+    "published": "2026-08-23T04:00:15+00:00"
+   },
+   {
+    "title": "Global oil inventories on the decline again amid Hormuz stalemate",
+    "summary": "Global oil inventories are declining as the Hormuz Strait blockade persists, affecting worldwide energy supplies.",
+    "lang": "en",
+    "source": "Nikkei Asia",
+    "url": "https://asia.nikkei.com/business/markets/commodities/global-oil-inventories-on-the-decline-again-amid-hormuz-stalemate",
+    "published": null
+   }
+  ],
+  "economia|europa": [
+   {
+    "title": "Canada vows to match US tariffs as trade talks collapse",
+    "summary": "Canada will match US 50% tariffs after trade talks collapsed, with Prime Minister Mark Carney rejecting unfair terms.",
+    "lang": "en",
+    "source": "FT Global Economy",
+    "url": "https://www.ft.com/content/24f9c08e-e23f-434e-b0f4-fc1eb55a7b04?syn-25a6b1a6=1",
+    "published": "2026-08-22T04:51:58+00:00"
+   },
+   {
+    "title": "German Slump Speeds Central Europe’s China Pivot: New Economy",
+    "summary": "Central Europe may cushion China's economic slowdown by pivoting toward Beijing as Germany's economy weakens.",
+    "lang": "en",
+    "source": "Bloomberg Economics",
+    "url": "https://www.bloomberg.com/news/newsletters/2026-08-22/german-slump-speeds-central-europe-s-china-pivot-new-economy",
+    "published": "2026-08-22T10:45:01+00:00"
+   },
+   {
+    "title": "World Economy Latest: UK Employment Declines While Price Pressures Mount",
+    "summary": "UK employment declined while inflation pressures mounted due to higher energy costs in recent months.",
+    "lang": "en",
+    "source": "Bloomberg Economics",
+    "url": "https://www.bloomberg.com/news/articles/2026-08-22/world-economy-latest-uk-employment-declines-while-price-pressures-mount",
+    "published": "2026-08-22T09:00:00+00:00"
+   },
+   {
+    "title": "El transporte marítimo mundial se atasca entre conflictos y crisis climáticas",
+    "summary": "Los precios de los fletes marítimos mundiales se han disparado un 140% desde febrero por bloqueos en rutas clave como el estrecho de Ormuz y el Canal de Panamá.",
+    "lang": "es",
+    "source": "El País Economía",
+    "url": "https://elpais.com/economia/2026-08-22/el-transporte-maritimo-mundial-se-atasca-entre-conflictos-y-crisis-climaticas.html",
+    "published": "2026-08-22T03:45:01+00:00"
+   }
+  ],
+  "economia|america": [
+   {
+    "title": "Bloomberg Previews Jackson Hole Symposium",
+    "summary": "Financial analysts preview the Jackson Hole Symposium focusing on Federal Reserve Chairman Kevin Marsh's remarks.",
+    "lang": "en",
+    "source": "Bloomberg Markets",
+    "url": "https://www.bloomberg.com/news/videos/2026-08-22/bloomberg-previews-jackson-hole-symposium-video",
+    "published": "2026-08-22T19:40:52+00:00"
+   }
+  ],
+  "politica|asia": [
+   {
+    "title": "“特金会”近期举行？专家：手握更多筹码的朝鲜并不着急谈",
+    "summary": "朝鲜对特朗普会面提议的回应表明，若与美谈判，朝鲜希望获得最大程度让步而非急于谈判。",
+    "lang": "zh",
+    "source": "德國之聲中文",
+    "url": "https://www.dw.com/zh/特金会-近期举行？专家：手握更多筹码的朝鲜并不着急谈/a-78469847?maca=chi-rss-chi-all-1127-rdf",
+    "published": "2026-08-22T14:07:00+00:00"
+   },
+   {
+    "title": "哈薩克國會改制後首場大選 批評者：鞏固總統權力",
+    "summary": "哈萨克在修宪改为一院制后举行首次国会大选，当局称有助民主化，但批评者认为只是巩固总统权力。",
+    "lang": "zh",
+    "source": "中央社 CNA",
+    "url": "https://www.cna.com.tw/news/aopl/202608230055.aspx",
+    "published": "2026-08-23T03:18:54+00:00"
+   },
+   {
+    "title": "Chinese J-16 fighters arrive in Egypt ahead of Eagles of Civilisation 2026 joint drill",
+    "summary": "Chinese J-16 fighter jets arrived in Egypt for the Eagles of Civilisation 2026 joint military exercise, marking the aircraft's first African deployment.",
+    "lang": "en",
+    "source": "South China Morning Post (China)",
+    "url": "https://www.scmp.com/news/china/diplomacy/article/3364913/chinese-j-16-fighters-arrive-egypt-ahead-eagles-civilisation-2026-joint-drill?utm_source=rss_feed",
+    "published": "2026-08-22T12:00:05+00:00"
+   },
+   {
+    "title": "Mainland Chinese research ship spotted near Taiwan’s largest naval base",
+    "summary": "A Chinese research vessel sailed near Taiwan's largest naval base for the third time since May.",
+    "lang": "en",
+    "source": "South China Morning Post (China)",
+    "url": "https://www.scmp.com/news/china/diplomacy/article/3364922/mainland-chinese-research-ship-spotted-near-taiwans-largest-naval-base?utm_source=rss_feed",
+    "published": "2026-08-22T09:31:25+00:00"
+   },
+   {
+    "title": "What Trump’s crush on Kim means for the Indo-Pacific",
+    "summary": "US President Trump's outreach to North Korea's Kim Jong-un concerns Indo-Pacific allies building new defense arrangements.",
+    "lang": "en",
+    "source": "Japan Times",
+    "url": "https://www.japantimes.co.jp/commentary/2026/08/23/trump-kim-indo-pacific/",
+    "published": "2026-08-23T01:05:00+00:00"
+   }
+  ],
+  "politica|europa": [
+   {
+    "title": "Rescuers dig through Ukraine mall wreckage as Zelensky condemns 'despicable' Russian strike",
+    "summary": "Rescuers searched wreckage after Russian strikes killed 16 people and wounded 130 at a Ukrainian mall, with four still missing.",
+    "lang": "en",
+    "source": "BBC World",
+    "url": "https://www.bbc.co.uk/news/articles/c39egw7nmk2o?at_medium=RSS&at_campaign=rss",
+    "published": "2026-08-22T13:13:16+00:00"
+   },
+   {
+    "title": "France promises interceptor missiles to Ukraine after latest deadly Russian drone strikes",
+    "summary": "France promised interceptor missiles to Ukraine following deadly Russian drone attacks, emphasizing aid to counter aggression.",
+    "lang": "en",
+    "source": "Le Monde International",
+    "url": "https://www.lemonde.fr/en/international/article/2026/08/22/france-promises-interceptor-missiles-to-ukraine-after-latest-deadly-russian-drone-strikes_6756768_4.html",
+    "published": "2026-08-22T20:59:28+00:00"
+   },
+   {
+    "title": "US federal judge strikes down Trump's permanent visa freeze on 75 countries",
+    "summary": "A US federal judge struck down Trump's visa freeze on 75 countries including Somalia, Russia, and Iran.",
+    "lang": "en",
+    "source": "Le Monde International",
+    "url": "https://www.lemonde.fr/en/international/article/2026/08/22/us-federal-judge-strikes-down-trump-s-permanent-visa-freeze-on-75-countries_6756761_4.html",
+    "published": "2026-08-22T12:48:12+00:00"
+   },
+   {
+    "title": "Heavy rain floods northeastern Spain, injures 11",
+    "summary": "Heavy rains flooded northeastern Spain injuring 11 people, with Catalonia recording over 100 liters per square meter.",
+    "lang": "en",
+    "source": "Le Monde International",
+    "url": "https://www.lemonde.fr/en/environment/article/2026/08/22/heavy-rain-floods-northeastern-spain-injures-at-least-7_6756760_114.html",
+    "published": "2026-08-22T12:35:42+00:00"
+   }
+  ],
+  "politica|america": [
+   {
+    "title": "Hours after U.S. imposes tariffs, Canada says it'll strike back starting Sept. 8",
+    "summary": "Canada announced it will match US 50% tariffs on $20 billion in goods starting September 8, dollar for dollar.",
+    "lang": "en",
+    "source": "NPR World",
+    "url": "https://www.npr.org/2026/08/22/nx-s1-5941584/us-canada-tariffs",
+    "published": "2026-08-22T04:36:27+00:00"
+   },
+   {
+    "title": "Canada vows ‘dollar for dollar’ response as US puts 50% tariffs on some goods",
+    "summary": "US imposed 50% tariffs on Canadian goods after trade talks failed; Canada vowed dollar-for-dollar retaliation amid job loss concerns.",
+    "lang": "en",
+    "source": "The Guardian World",
+    "url": "https://www.theguardian.com/world/2026/aug/22/canada-tariffs-trump-trade-deal-talks-fail",
+    "published": "2026-08-22T14:04:57+00:00"
+   },
+   {
+    "title": "7-Eleven Singapore launches self-care spots at dining spaces islandwide",
+    "summary": "7-Eleven Singapore launched Take Five Spots at 60+ stores offering self-guided breathing exercises and mental wellness resources.",
+    "lang": "en",
+    "source": "Channel NewsAsia",
+    "url": "https://www.channelnewsasia.com/wellness/7-eleven-singapore-take-five-spot-6332681",
+    "published": "2026-08-23T04:04:24+00:00"
+   },
+   {
+    "title": "美對加開徵50%關稅生效 4大重點一次看",
+    "summary": "美国总统川普对加拿大进口商品征收的50%关税于今日生效，系贸易谈判破裂后的报复措施。",
+    "lang": "zh",
+    "source": "中央社 CNA",
+    "url": "https://www.cna.com.tw/news/aopl/202608230021.aspx",
+    "published": "2026-08-23T00:47:40+00:00"
+   }
+  ],
+  "tecnologia|asia": [
+   {
+    "title": "AI 當心理諮商師夠格嗎，專家解析：現有模型有「知識」卻缺乏「智慧」",
+    "summary": "专家指出现有AI模型虽有知识但缺乏智慧，质疑其作为心理咨询工具的可靠性。",
+    "lang": "zh",
+    "source": "科技新報 TechNews",
+    "url": "https://technews.tw/2026/08/23/ai-generated-mental-health-advice-gets-uplifted-via-a-strong-dose-of-artificial-wisdom/",
+    "published": "2026-08-23T05:00:34+00:00"
+   },
+   {
+    "title": "三人小組產出抵 40 人，AI 未釀失業潮卻悄悄顛覆勞動市場遊戲規則",
+    "summary": "Anthropic首席执行官表示AI虽未造成大规模失业，但正在悄悄改变劳动力市场规则。",
+    "lang": "zh",
+    "source": "科技新報 TechNews",
+    "url": "https://technews.tw/2026/08/23/ai-not-causing-job-loss-research-truth-jobs-not-disappearing-vulnerable-positions/",
+    "published": "2026-08-23T04:00:03+00:00"
+   },
+   {
+    "title": "AI 化身第一道篩檢工具，及早揪出全球 10 億人的脂肪肝危機",
+    "summary": "全球脂肪肝患者达10亿人，研究人员利用AI作为首道筛检工具早期发现风险。",
+    "lang": "zh",
+    "source": "科技新報 TechNews",
+    "url": "https://technews.tw/2026/08/23/theres-a-fatty-liver-epidemic-ai-could-help-get-ahead-of-it/",
+    "published": "2026-08-23T02:30:13+00:00"
+   },
+   {
+    "title": "記憶體成本攀升，NVIDIA 明年起調漲 AI 伺服器價格、漲幅逾 15%",
+    "summary": "因内存成本飙升，英伟达将从明年起调涨搭载其芯片的AI伺服器价格，涨幅超过15%。",
+    "lang": "zh",
+    "source": "科技新報 TechNews",
+    "url": "https://technews.tw/2026/08/23/nvidia-notifies-customers-of-ai-related-price-hikes-above-15-percent/",
+    "published": "2026-08-23T02:29:41+00:00"
+   },
+   {
+    "title": "學生負責下令，AI 負責讀大學：AI 代理「幫上課」成高等教育危機",
+    "summary": "学生通过简单指令让AI代理完成在线课程作业和考试，引发高等教育作弊问题新危机。",
+    "lang": "zh",
+    "source": "科技新報 TechNews",
+    "url": "https://technews.tw/2026/08/23/i-found-a-prompt-that-keeps-ai-agents-from-taking-tasks-too-far/",
+    "published": "2026-08-22T23:00:19+00:00"
+   }
+  ],
+  "tecnologia|europa": [
+   {
+    "title": "El Tribunal Superior de Justicia de Canarias multa a un abogado por citar hasta 48 sentencias falsas. Se las había sugerido la IA",
+    "summary": "Un tribunal canario multó a un abogado por citar 48 sentencias falsas sugeridas por inteligencia artificial en un recurso de apelación.",
+    "lang": "es",
+    "source": "Xataka",
+    "url": "https://www.xataka.com/magnet/tribunal-superior-justicia-canarias-multa-a-abogado-citar-48-sentencias-falsas-se-habia-sugerido-ia",
+    "published": "2026-08-22T15:31:33+00:00"
+   },
+   {
+    "title": "China quiere que las renovables superen la mitad de su consumo energético en 2030: así es como va a hacerlo",
+    "summary": "China planea que las energías renovables superen la mitad de su consumo energético para 2030 en su 15º Plan Quinquenal.",
+    "lang": "es",
+    "source": "Xataka",
+    "url": "https://www.xataka.com/energia/china-quiere-que-renovables-superen-mitad-su-consumo-energetico-2030-asi-como-va-a-hacerlo",
+    "published": "2026-08-22T13:31:33+00:00"
+   },
+   {
+    "title": "Hemos necesitado 13 años para crear el mayor mapa 2D del universo. Tiene 5,6 billones de píxeles y casi 4.000 millones de objetos",
+    "summary": "Científicos publicaron el mayor mapa bidimensional del universo con 5,6 billones de píxeles y casi 4.000 millones de objetos celestes tras 13 años de trabajo.",
+    "lang": "es",
+    "source": "Xataka",
+    "url": "https://www.xataka.com/espacio/hemos-necesitado-13-anos-para-crear-mayor-mapa-2d-universo-tiene-5-6-billones-pixeles-casi-4-000-millones-objetos",
+    "published": "2026-08-22T13:01:33+00:00"
+   }
+  ],
+  "tecnologia|america": [
+   {
+    "title": "Two years after launch, Walmart’s Flipkart is closing in on India’s quick-commerce leaders",
+    "summary": "Walmart's Flipkart quick-commerce unit now delivers 1.1-1.2 million orders daily, nearly tripling from November levels.",
+    "lang": "en",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/08/22/two-years-after-launch-walmarts-flipkart-is-closing-in-on-indias-quick-commerce-leaders/",
+    "published": "2026-08-23T03:00:00+00:00"
+   },
+   {
+    "title": "Inherent, founded by DeepMind alumni, says its AI ‘teammate’ just outperformed Anthropic and OpenAI at replicating research",
+    "summary": "Inherent, founded by DeepMind alumni, released Faraday AI agent that outperformed Anthropic and OpenAI at replicating scientific research.",
+    "lang": "en",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/08/22/inherent-founded-by-deepmind-alumni-says-its-ai-teammate-just-outperformed-anthropic-and-openai-at-replicating-research/",
+    "published": "2026-08-22T19:00:00+00:00"
+   },
+   {
+    "title": "OpenAI says California should strengthen its AI safety bill",
+    "summary": "OpenAI called for California to strengthen SB 53, an AI safety bill the company previously opposed.",
+    "lang": "en",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/08/22/openai-says-california-should-strengthen-its-ai-safety-bill/",
+    "published": "2026-08-22T16:30:34+00:00"
+   },
+   {
+    "title": "US battery startups have found a lifeline in defense",
+    "summary": "US battery startups received $500 million in Department of Energy grants as EV incentive cuts threatened the industry.",
+    "lang": "en",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/08/22/us-battery-startups-have-found-a-lifeline-in-defense/",
+    "published": "2026-08-22T15:20:00+00:00"
+   }
+  ]
+ }
+}
