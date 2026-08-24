@@ -1,0 +1,284 @@
+{
+ "date": "2026-08-24",
+ "generated_at": "2026-08-24T06:03:09.374392+00:00",
+ "mode": "full",
+ "cost_usd": 0.0246,
+ "market": null,
+ "failed_sources": [],
+ "cells": {
+  "economia|asia": [
+   {
+    "title": "Alibaba shares plunge after $10bn new share placement to fund AI spending",
+    "summary": "Alibaba's shares fell after the company announced a $10 billion new share placement to fund artificial intelligence spending and expansion.",
+    "lang": "en",
+    "source": "Nikkei Asia",
+    "url": "https://asia.nikkei.com/business/technology/alibaba-shares-plunge-after-10bn-new-share-placement-to-fund-ai-spending",
+    "published": null
+   },
+   {
+    "title": "BOJ Set to Offer Clues as Markets Bet Heavily on September Hike",
+    "summary": "Bank of Japan officials will soon provide guidance on market expectations for a potential September interest-rate hike through multiple communication opportunities.",
+    "lang": "en",
+    "source": "Bloomberg Economics",
+    "url": "https://www.bloomberg.com/news/articles/2026-08-23/boj-set-to-offer-clues-as-markets-bet-heavily-on-september-hike",
+    "published": "2026-08-23T23:50:00+00:00"
+   },
+   {
+    "title": "Shein launches IPO at valuation of up to $27bn, far below past figure",
+    "summary": "Chinese e-commerce company Shein launched its IPO at a valuation of up to $27 billion, significantly below previous valuations.",
+    "lang": "en",
+    "source": "Nikkei Asia",
+    "url": "https://asia.nikkei.com/business/markets/ipo/shein-launches-ipo-at-valuation-of-up-to-27bn-far-below-past-figure",
+    "published": null
+   }
+  ],
+  "economia|europa": [
+   {
+    "title": "La larga escalada de la vivienda: las casas duplican el precio tras 12 años de subidas ininterrumpidas",
+    "summary": "Los precios de vivienda en España han subido ininterrumpidamente durante 48 trimestres desde 2014 y superan el pico de la burbuja en 16 comunidades autónomas, duplicándose en 12 años.",
+    "lang": "es",
+    "source": "El País Economía",
+    "url": "https://elpais.com/economia/vivienda/2026-08-24/la-larga-escalada-de-la-vivienda-las-casas-duplican-el-precio-tras-12-anos-de-subidas-ininterrumpidas.html",
+    "published": "2026-08-24T03:45:01+00:00"
+   },
+   {
+    "title": "Germany must ditch doubts over private capital, says investment tsar",
+    "summary": "Germany's investment chief Martin Blessing urged the country to embrace private capital investment and overcome scepticism from public authorities.",
+    "lang": "en",
+    "source": "Financial Times",
+    "url": "https://www.ft.com/content/7c88554e-8e08-4d9e-a696-daeb82817876?syn-25a6b1a6=1",
+    "published": "2026-08-24T04:00:05+00:00"
+   },
+   {
+    "title": "Turkey’s Central Bank Shifts Funding Back to 37% Policy Rate",
+    "summary": "Turkey's central bank resumed weekly repo auctions at its 37% policy rate, normalizing funding conditions as inflation pressures ease.",
+    "lang": "en",
+    "source": "Bloomberg Economics",
+    "url": "https://www.bloomberg.com/news/articles/2026-08-23/turkey-central-bank-to-shift-funding-back-to-37-policy-rate",
+    "published": "2026-08-23T17:03:34+00:00"
+   }
+  ],
+  "economia|america": [
+   {
+    "title": "Canada Rejected US Tariff Deal. Now Comes the Economic Cost",
+    "summary": "Canada rejected a US tariff deal, and the collapse of negotiations will bring significant economic costs to Canadian workers and businesses.",
+    "lang": "en",
+    "source": "Bloomberg Economics",
+    "url": "https://www.bloomberg.com/news/articles/2026-08-23/canada-turned-down-a-us-tariff-deal-now-comes-the-economic-cost",
+    "published": "2026-08-23T23:00:00+00:00"
+   },
+   {
+    "title": "Canada Sees Long Trade War With US That May Last Beyond Midterms",
+    "summary": "Canada's government expects prolonged trade war with the US lasting beyond midterm elections, with little chance of resuming negotiations soon.",
+    "lang": "en",
+    "source": "Bloomberg Economics",
+    "url": "https://www.bloomberg.com/news/articles/2026-08-23/canada-sees-long-trade-war-with-us-that-may-last-beyond-midterms",
+    "published": "2026-08-23T23:59:52+00:00"
+   },
+   {
+    "title": "Mark Carney says Canada ‘at war’ with US over trade",
+    "summary": "Canadian Prime Minister Mark Carney stated Canada is \"at war\" with the US over trade, accusing Trump of miscalculating the tariff escalation.",
+    "lang": "en",
+    "source": "FT Global Economy",
+    "url": "https://www.ft.com/content/e3b5c236-bd5f-45c2-8ddf-5279a7375d3f?syn-25a6b1a6=1",
+    "published": "2026-08-23T11:58:38+00:00"
+   }
+  ],
+  "politica|asia": [
+   {
+    "title": "北韓準備再派兵赴俄 南韓稱尚無迫近跡象",
+    "summary": "韩国国防部表示，朝鲜正继续为向俄罗斯增派部队做准备，但目前尚未发现该行动的迫近迹象。",
+    "lang": "zh",
+    "source": "中央社 CNA",
+    "url": "https://www.cna.com.tw/news/aopl/202608240107.aspx",
+    "published": "2026-08-24T04:18:14+00:00"
+   },
+   {
+    "title": "中国宣布规模最大汽车召回行动，涉及特斯拉等九家车企",
+    "summary": "中国宣布涉及430万辆汽车的最大规模召回行动，要求包括特斯拉在内的九家车企解决隐藏式门把手安全隐患。",
+    "lang": "zh",
+    "source": "纽约时报中文网",
+    "url": "https://cn.nytimes.com/business/20260824/china-car-recall-doors/?utm_source=RSS",
+    "published": "2026-08-24T01:54:11+00:00"
+   },
+   {
+    "title": "Syria, Israel hold US-mediated talks in Jordan to de-escalate tensions",
+    "summary": "Syria and Israel held US-mediated talks in Jordan to de-escalate tensions following an Israeli military strike near the Turkish border.",
+    "lang": "en",
+    "source": "Al Jazeera English",
+    "url": "https://www.aljazeera.com/news/2026/8/24/syria-israel-hold-us-mediated-talks-in-jordan-to-de-escalate-tensions?traffic_source=rss",
+    "published": "2026-08-24T03:56:59+00:00"
+   },
+   {
+    "title": "详解美加贸易战：北美传统盟友关系因何破裂",
+    "summary": "加拿大总理卡尼表示美方提出不公平条件导致谈判破裂，加拿大将对美国新关税进行报复。",
+    "lang": "zh",
+    "source": "纽约时报中文网",
+    "url": "https://cn.nytimes.com/world/20260824/canada-us-trade-war-trump-carney/?utm_source=RSS",
+    "published": "2026-08-24T03:00:42+00:00"
+   },
+   {
+    "title": "特朗普威胁制裁伊朗盟友，中国为何不为所动",
+    "summary": "尽管特朗普威胁对与伊朗有业务往来的国家施加经济制裁，但中国作为伊朗最大贸易伙伴，因拥有庞大石油储备而能顶住压力。",
+    "lang": "zh",
+    "source": "纽约时报中文网",
+    "url": "https://cn.nytimes.com/world/20260824/china-iran-trump-economic-threats/?utm_source=RSS",
+    "published": "2026-08-24T00:58:36+00:00"
+   }
+  ],
+  "politica|europa": [
+   {
+    "title": "Burnham to hand long-range missile blueprints to Zelensky as he visits Kyiv",
+    "summary": "UK official Burnham will provide long-range missile blueprints to Ukraine's Zelensky during a Kyiv visit, despite Moscow's warnings.",
+    "lang": "en",
+    "source": "BBC World",
+    "url": "https://www.bbc.co.uk/news/articles/clyqypkrzq5o?at_medium=RSS&at_campaign=rss",
+    "published": "2026-08-24T05:16:57+00:00"
+   },
+   {
+    "title": "Could Russia's growing fuel crisis help end the Ukraine war?",
+    "summary": "Russian fuel shortages caused by refinery attacks create economic hardship and public anger, potentially pressuring Moscow toward Ukraine peace negotiations.",
+    "lang": "en",
+    "source": "Deutsche Welle World",
+    "url": "https://www.dw.com/en/could-russia-s-growing-fuel-crisis-help-end-the-ukraine-war/a-78472138?maca=en-rss-en-world-4025-rdf",
+    "published": "2026-08-23T14:42:00+00:00"
+   },
+   {
+    "title": "Ukraine: Zelenskyy rejects wartime elections",
+    "summary": "Ukraine's President Zelenskyy rejected wartime elections proposed by an ex-defense minister, citing risks of national division amid Russian mobilization plans.",
+    "lang": "en",
+    "source": "Deutsche Welle World",
+    "url": "https://www.dw.com/en/ukraine-zelenskyy-rejects-wartime-elections/a-78475087?maca=en-rss-en-world-4025-rdf",
+    "published": "2026-08-23T10:23:00+00:00"
+   },
+   {
+    "title": "Macron hosts Saudi's crown prince for contested visit",
+    "summary": "French President Macron hosted Saudi Arabia's crown prince despite protests from three journalists' unions over human rights concerns.",
+    "lang": "en",
+    "source": "Le Monde International",
+    "url": "https://www.lemonde.fr/en/international/article/2026/08/23/macron-to-host-saudi-s-crown-prince-for-contested-visit_6756782_4.html",
+    "published": "2026-08-23T21:47:21+00:00"
+   },
+   {
+    "title": "Canada hits back with new tariffs after failed trade talks with US",
+    "summary": "Canada announced retaliatory tariffs after failed trade talks with the US, with PM Carney accusing Trump of launching a trade war.",
+    "lang": "en",
+    "source": "Le Monde International",
+    "url": "https://www.lemonde.fr/en/international/article/2026/08/23/canada-hits-back-with-new-tariffs-after-failed-trade-talks-with-us_6756771_4.html",
+    "published": "2026-08-23T03:24:37+00:00"
+   }
+  ],
+  "politica|america": [
+   {
+    "title": "美加貿易協議談崩 卡尼面臨關鍵考驗",
+    "summary": "加拿大总理卡尼放弃与白宫的贸易谈判面临关键考验，需要说服民众这场豪赌值得承受后续代价。",
+    "lang": "zh",
+    "source": "BBC中文",
+    "url": "https://www.bbc.com/zhongwen/articles/c9w0wn0g5zwo/trad?at_medium=RSS&at_campaign=rss",
+    "published": "2026-08-23T13:56:22+00:00"
+   },
+   {
+    "title": "Trump says Canada wants 'benefits' of being US state after trade talks collapse",
+    "summary": "Trump claimed Canada wants benefits of US statehood after trade talks failed, while PM Carney announced reluctant retaliatory tariffs.",
+    "lang": "en",
+    "source": "BBC World",
+    "url": "https://www.bbc.co.uk/news/articles/cx272np7vgyo?at_medium=RSS&at_campaign=rss",
+    "published": "2026-08-23T19:11:30+00:00"
+   },
+   {
+    "title": "Trump administration predicts US trade war 'devastating' for Canada",
+    "summary": "Trump administration warns a US trade war would be devastating for Canada, which depends on the US for roughly 70 percent of its exports.",
+    "lang": "en",
+    "source": "Channel NewsAsia",
+    "url": "https://www.channelnewsasia.com/world/us-canada-trade-war-trump-carney-6336791",
+    "published": "2026-08-24T02:07:00+00:00"
+   },
+   {
+    "title": "Gaokao reforms could leave Chinese public vulnerable to pseudo-history, top academic warns",
+    "summary": "Chinese academics warn that fewer high school students taking history exams could leave the public vulnerable to distorted historical narratives.",
+    "lang": "en",
+    "source": "South China Morning Post (China)",
+    "url": "https://www.scmp.com/news/china/diplomacy/article/3364926/gaokao-reforms-could-leave-chinese-public-vulnerable-pseudo-history-top-academic-warns?utm_source=rss_feed",
+    "published": "2026-08-23T04:00:14+00:00"
+   }
+  ],
+  "tecnologia|asia": [
+   {
+    "title": "輝達傳洽談投資 Perplexity，估值逾 9,583 億元",
+    "summary": "根据媒体报道，AI芯片巨人英伟达正在洽谈投资人工智能搜索初创公司Perplexity，估值超过95亿美元。",
+    "lang": "zh",
+    "source": "科技新報 TechNews",
+    "url": "https://technews.tw/2026/08/24/nvidia-perplexity-investment-valuation-over-958-3-billion-yuan/",
+    "published": "2026-08-24T06:00:52+00:00"
+   },
+   {
+    "title": "美國將向荷蘭施壓，禁止 ASML 出售 DUV 設備與服務給中國",
+    "summary": "美国将向荷兰施压禁止芯片设备制造商艾司摩尔向中国出售DUV设备与服务，加剧美中科技战。",
+    "lang": "zh",
+    "source": "科技新報 TechNews",
+    "url": "https://finance.technews.tw/2026/08/24/the-united-states-has-banned-asml-from-selling-duv-equipment-and-services-to-china/",
+    "published": "2026-08-24T05:50:10+00:00"
+   },
+   {
+    "title": "中國駭客UAT-10147鎖定易受攻擊伺服器，透過AI打造的工具從事攻擊",
+    "summary": "中国黑客组织UAT-10147针对全球Windows与Linux服务器发起大规模攻击，利用AI工具进行SEO欺诈和数据窃取活动。",
+    "lang": "zh",
+    "source": "iThome 台灣",
+    "url": "https://www.ithome.com.tw/news/178368",
+    "published": "2026-08-24T12:08:36+00:00"
+   },
+   {
+    "title": "Hugging Face傳尋求出售，估值上看130億美元",
+    "summary": "开源AI平台Hugging Face正探索出售可能性，若交易成功估值可能超过130亿美元。",
+    "lang": "zh",
+    "source": "iThome 台灣",
+    "url": "https://www.ithome.com.tw/news/178366",
+    "published": "2026-08-24T11:08:54+00:00"
+   }
+  ],
+  "tecnologia|europa": [
+   {
+    "title": "Uber faces fine of nearly $1B over automated driver suspensions",
+    "summary": "Dutch authorities fined Uber €825 million for automated driver suspensions, marking the second-largest GDPR penalty issued in Europe.",
+    "lang": "en",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/08/23/uber-faces-fine-of-nearly-1b-over-automated-driver-suspensions/",
+    "published": "2026-08-23T19:30:00+00:00"
+   },
+   {
+    "title": "Flock CEO calls for ‘compromise’ as surveillance company faces growing backlash",
+    "summary": "Flock Safety CEO called for compromise as the surveillance company faces growing public backlash over potential misuse of its technology.",
+    "lang": "en",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/08/23/flock-ceo-calls-for-compromise-as-surveillance-company-faces-growing-backlash/",
+    "published": "2026-08-23T15:30:00+00:00"
+   },
+   {
+    "title": "Is it legal to train AI models on copyrighted books? It’s complicated",
+    "summary": "The legality of training AI models on copyrighted books remains unresolved, with authors unwittingly contributing to systems threatening their livelihoods.",
+    "lang": "en",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/08/23/is-it-legal-to-train-ai-models-on-copyrighted-books-its-complicated/",
+    "published": "2026-08-23T15:00:00+00:00"
+   }
+  ],
+  "tecnologia|america": [
+   {
+    "title": "TechCrunch Mobility: The custom chip driving Waymo’s robotaxi ambitions",
+    "summary": "Waymo develops a custom chip to power its robotaxi ambitions, advancing autonomous vehicle technology for commercial deployment.",
+    "lang": "en",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/08/23/techcrunch-mobility-the-custom-chip-driving-waymos-robotaxi-ambitions/",
+    "published": "2026-08-23T16:03:00+00:00"
+   },
+   {
+    "title": "Two years after launch, Walmart’s Flipkart is closing in on India’s quick-commerce leaders",
+    "summary": "Walmart's Flipkart quick-commerce service in India is closing on sector leaders, delivering 1.1-1.2 million orders daily, nearly triple November volumes.",
+    "lang": "en",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/08/22/two-years-after-launch-walmarts-flipkart-is-closing-in-on-indias-quick-commerce-leaders/",
+    "published": "2026-08-23T03:00:00+00:00"
+   }
+  ]
+ }
+}
