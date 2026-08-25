@@ -1,0 +1,308 @@
+{
+ "date": "2026-08-25",
+ "generated_at": "2026-08-25T05:58:06.899426+00:00",
+ "mode": "full",
+ "cost_usd": 0.0249,
+ "market": null,
+ "failed_sources": [],
+ "cells": {
+  "economia|asia": [
+   {
+    "title": "Gold and bitcoin jump as investors shift capital away from dollar",
+    "summary": "Gold and bitcoin prices surge as investors redirect capital away from the US dollar amid market uncertainties.",
+    "lang": "en",
+    "source": "Nikkei Asia",
+    "url": "https://asia.nikkei.com/business/markets/gold-and-bitcoin-jump-as-investors-shift-capital-away-from-dollar",
+    "published": null
+   },
+   {
+    "title": "Google waves goodbye to China",
+    "summary": "Google exits its Chinese operations, marking a significant withdrawal from the mainland market.",
+    "lang": "en",
+    "source": "Nikkei Asia",
+    "url": "https://asia.nikkei.com/spotlight/podcasts/podcast-tech-latest/google-waves-goodbye-to-china",
+    "published": null
+   },
+   {
+    "title": "Exclusive: TSMC supplier Nichias to build key chipmaking 'tubes' in Taiwan",
+    "summary": "TSMC supplier Nichias plans to manufacture critical chipmaking components in Taiwan, strengthening supply chain localization.",
+    "lang": "en",
+    "source": "Nikkei Asia",
+    "url": "https://asia.nikkei.com/business/technology/exclusive-tsmc-supplier-nichias-to-build-key-chipmaking-tubes-in-taiwan",
+    "published": null
+   },
+   {
+    "title": "Kazakhstan's Tokayev tightens grip on power after snap election",
+    "summary": "Kazakhstan's President Tokayev consolidates power following a snap election victory.",
+    "lang": "en",
+    "source": "Nikkei Asia",
+    "url": "https://asia.nikkei.com/politics/kazakhstan-s-tokayev-tightens-grip-on-power-after-snap-election",
+    "published": null
+   },
+   {
+    "title": "Australian venture capital firm Blackbird raises $752m from Asian investors",
+    "summary": "Australian venture capital firm Blackbird secures $752 million in funding from Asian investors.",
+    "lang": "en",
+    "source": "Nikkei Asia",
+    "url": "https://asia.nikkei.com/business/startups/australian-venture-capital-firm-blackbird-raises-752m-from-asian-investors",
+    "published": null
+   }
+  ],
+  "economia|europa": [
+   {
+    "title": "La tormenta perfecta con el precio del gas y el calor en verano dispara la factura de la luz",
+    "summary": "La volatilidad de precios del gas y el calor estival disparan los precios de la luz en España, oscilando desde cero euros a 200-300 euros por megavatio entre el día y la noche.",
+    "lang": "es",
+    "source": "El País Economía",
+    "url": "https://cincodias.elpais.com/companias/2026-08-25/la-tormenta-perfecta-con-el-precio-del-gas-y-el-calor-en-verano-disparan-la-factura-de-la-luz.html",
+    "published": "2026-08-25T03:15:00+00:00"
+   },
+   {
+    "title": "French finance minister warns tax on big businesses may be extended",
+    "summary": "France's finance minister warns that a tax surcharge on large businesses may persist despite plans to eliminate it.",
+    "lang": "en",
+    "source": "FT Global Economy",
+    "url": "https://www.ft.com/content/91b3e407-daca-40b3-8572-47cf3de9dd1a?syn-25a6b1a6=1",
+    "published": "2026-08-24T11:49:42+00:00"
+   },
+   {
+    "title": "Las claves: el tórrido verano pone a prueba el sistema eléctrico español",
+    "summary": "El calor extremo e incertidumbre internacional elevan los precios de la electricidad en España este verano, poniendo a prueba el sistema eléctrico nacional.",
+    "lang": "es",
+    "source": "El País Economía",
+    "url": "https://cincodias.elpais.com/opinion/2026-08-25/las-claves-el-torrido-verano-pone-a-prueba-el-sistema-electrico-espanol.html",
+    "published": "2026-08-25T03:40:00+00:00"
+   },
+   {
+    "title": "El portazo inversor contra la macrofusión complica la vida a Soriot",
+    "summary": "La caída de inversores en la macrofusión de AstraZeneca y Bristol Myers Squibb complica la situación del CEO Soriot, con las acciones cotizando bajo el nivel previo.",
+    "lang": "es",
+    "source": "El País Economía",
+    "url": "https://cincodias.elpais.com/opinion/2026-08-25/el-portazo-inversor-contra-la-macrofusion-complica-la-vida-a-soriot.html",
+    "published": "2026-08-25T03:40:00+00:00"
+   }
+  ],
+  "economia|america": [
+   {
+    "title": "Trump says US to increase tariffs on Canadian cars to 50%",
+    "summary": "Trump announces 50% tariffs on Canadian automobiles and steel; Ottawa prepares retaliatory measures.",
+    "lang": "en",
+    "source": "FT Global Economy",
+    "url": "https://www.ft.com/content/52978bad-2b91-41e3-be94-7fb6776fbb91?syn-25a6b1a6=1",
+    "published": "2026-08-24T23:54:43+00:00"
+   },
+   {
+    "title": "Scott Bessent threatens Iran’s economic partners with more sanctions",
+    "summary": "US Treasury Secretary Bessent threatens Iran's economic partners with sanctions, calling the action an economic offensive.",
+    "lang": "en",
+    "source": "FT Global Economy",
+    "url": "https://www.ft.com/content/67c74e64-5c37-4a5d-ae6c-d3c002f99628?syn-25a6b1a6=1",
+    "published": "2026-08-24T19:12:22+00:00"
+   },
+   {
+    "title": "An offer Canada could only refuse",
+    "summary": "Mark Carney's appointment as Canadian PM gains credibility partly through Trump's perceived missteps in trade negotiations.",
+    "lang": "en",
+    "source": "FT Global Economy",
+    "url": "https://www.ft.com/content/c806d2ce-efed-47a0-9abb-508e218b62b5?syn-25a6b1a6=1",
+    "published": "2026-08-24T11:31:01+00:00"
+   }
+  ],
+  "politica|asia": [
+   {
+    "title": "Iran says it is ready for what US calls 'greatest financial offensive ever'",
+    "summary": "Iran declares readiness for US sanctions, dismissing Washington's latest measures as manageable despite economic pressure.",
+    "lang": "en",
+    "source": "BBC World",
+    "url": "https://www.bbc.co.uk/news/articles/c0qxew81y83o?at_medium=RSS&at_campaign=rss",
+    "published": "2026-08-25T03:50:06+00:00"
+   },
+   {
+    "title": "详解AI自主攻击事件：五项令人担忧的人工智能能力",
+    "summary": "OpenAI智能体失控事件暴露五项令人担忧的人工智能能力，反映安全监控不足和内部防御削弱带来的风险。",
+    "lang": "zh",
+    "source": "纽约时报中文网",
+    "url": "https://cn.nytimes.com/science/20260825/openai-huggingface-alarming-capabilities/?utm_source=RSS",
+    "published": "2026-08-24T17:15:12+00:00"
+   },
+   {
+    "title": "串谋走私AI服务器至中国 台湾起诉英伟达员工等九人",
+    "summary": "台湾起诉九人涉嫌走私英伟达AI芯片服务器至中国，包括英伟达和美超微驻台湾员工。",
+    "lang": "zh",
+    "source": "德國之聲中文",
+    "url": "https://www.dw.com/zh/串谋走私ai服务器至中国-台湾起诉英伟达员工等九人/a-78487460?maca=chi-rss-chi-all-1127-rdf",
+    "published": "2026-08-24T14:42:00+00:00"
+   },
+   {
+    "title": "特朗普试图扼杀伊朗经济，而这取决于中国是否合作",
+    "summary": "特朗普宣布对伊朗施加经济弃儿行动，但成功取决于中国参与，目前北京尚未表示合作意向。",
+    "lang": "zh",
+    "source": "纽约时报中文网",
+    "url": "https://cn.nytimes.com/world/20260825/trump-bessent-iran-economic-d-day/?utm_source=RSS",
+    "published": "2026-08-25T01:44:33+00:00"
+   },
+   {
+    "title": "Mainland China’s ship activity near Taiwan hits record for third month in a row",
+    "summary": "Chinese government vessels around Taiwan reach record activity levels for three consecutive months as Beijing expands maritime enforcement operations.",
+    "lang": "en",
+    "source": "South China Morning Post (China)",
+    "url": "https://www.scmp.com/news/china/military/article/3365081/mainland-chinas-ship-activity-near-taiwan-hits-record-third-month-row?utm_source=rss_feed",
+    "published": "2026-08-24T15:00:07+00:00"
+   }
+  ],
+  "politica|europa": [
+   {
+    "title": "UK PM Burnham vows support for Ukraine despite 'outrageous threats' from Russia",
+    "summary": "UK PM Burnham pledges continued Ukraine support despite Russian threats over alleged British drone usage in conflict.",
+    "lang": "en",
+    "source": "BBC World",
+    "url": "https://www.bbc.co.uk/news/articles/clyqypkrzq5o?at_medium=RSS&at_campaign=rss",
+    "published": "2026-08-25T01:48:24+00:00"
+   },
+   {
+    "title": "Europeans condemn Russia's campaign of terror in Ukraine",
+    "summary": "European leaders meeting with Zelensky reaffirm military and financial support for Ukraine amid Russian terror campaign.",
+    "lang": "en",
+    "source": "Le Monde International",
+    "url": "https://www.lemonde.fr/en/international/article/2026/08/25/europeans-condemn-russia-s-campaign-of-terror-in-ukraine_6756818_4.html",
+    "published": "2026-08-25T02:22:13+00:00"
+   },
+   {
+    "title": "'Colossal' theme park project near Paris unveiled as Saudi Arabia's MBS visits France",
+    "summary": "Saudi Arabia's MBS announces a massive theme park project near Paris during strategic partnership council meeting with France.",
+    "lang": "en",
+    "source": "Le Monde International",
+    "url": "https://www.lemonde.fr/en/international/article/2026/08/25/colossal-theme-park-project-near-paris-unveiled-as-saudi-arabia-s-mbs-visits-france_6756817_4.html",
+    "published": "2026-08-25T01:45:48+00:00"
+   },
+   {
+    "title": "Ucrania apunta al corazón del comercio ruso al bombardear cuatro almacenes del gigante Ozon",
+    "summary": "Ucrania bombardea almacenes del gigante ruso Ozon, continuando ataques a la infraestructura logística rusa tras golpear docena de centros de Wildberries con pérdidas de miles de millones.",
+    "lang": "es",
+    "source": "El País Internacional",
+    "url": "https://elpais.com/internacional/2026-08-24/ucrania-apunta-al-corazon-del-comercio-ruso-al-bombardear-cuatro-almacenes-del-gigante-ozon.html",
+    "published": "2026-08-24T13:44:10+00:00"
+   }
+  ],
+  "politica|america": [
+   {
+    "title": "U.S. to detail new economic pressures on Iran. And, Canada to impose tariffs on U.S.",
+    "summary": "US Treasury details new economic pressure on Iran; Canada announces retaliatory tariffs against American products.",
+    "lang": "en",
+    "source": "NPR World",
+    "url": "https://www.npr.org/2026/08/24/g-s1-139736/up-first-newsletter-iran-economic-pressures-canada-tariffs-trump-visa-ban",
+    "published": "2026-08-24T11:27:44+00:00"
+   },
+   {
+    "title": "The view from Canada after U.S. trade negotiations collapse",
+    "summary": "Canadian Prime Minister Carney rejects US trade deal; analysts assess implications of collapsed trade negotiations.",
+    "lang": "en",
+    "source": "NPR World",
+    "url": "https://www.npr.org/2026/08/24/nx-s1-5942972/the-view-from-canada-after-u-s-trade-negotiations-collapse",
+    "published": "2026-08-24T20:40:32+00:00"
+   }
+  ],
+  "tecnologia|america": [
+   {
+    "title": "AI is hitting entry-level jobs hardest, Stanford study finds",
+    "summary": "Stanford research shows AI disproportionately impacts entry-level employment, with young workers experiencing 19% job decline in AI-affected fields.",
+    "lang": "en",
+    "source": "Ars Technica",
+    "url": "https://arstechnica.com/ai/2026/08/ai-is-hitting-entry-level-jobs-hardest-stanford-study-finds/",
+    "published": "2026-08-24T21:45:53+00:00"
+   },
+   {
+    "title": "Data Centers Are Driving an Alarming Gas Power Expansion in the US",
+    "summary": "Data center expansion drives rapid construction of natural gas power plants across the US, raising environmental concerns.",
+    "lang": "en",
+    "source": "Wired",
+    "url": "https://www.wired.com/story/us-data-centers-drive-gas-power-expansion/",
+    "published": "2026-08-25T04:01:00+00:00"
+   },
+   {
+    "title": "Situational Awareness, star AI hedge fund that nearly imploded, now being probed by the SEC",
+    "summary": "Situational Awareness, prominent AI hedge fund, faces SEC investigation after near-collapse and dramatic fall from favor.",
+    "lang": "en",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/08/24/situational-awareness-star-ai-hedge-fund-that-nearly-imploded-now-being-probed-by-the-sec/",
+    "published": "2026-08-25T00:23:12+00:00"
+   },
+   {
+    "title": "Nvidia senior manager linked to Supermicro scheme smuggling AI servers to China",
+    "summary": "Nvidia senior manager indicted for involvement in smuggling AI servers to China through Supermicro scheme.",
+    "lang": "en",
+    "source": "Ars Technica",
+    "url": "https://arstechnica.com/tech-policy/2026/08/nvidia-senior-manager-linked-to-supermicro-scheme-smuggling-ai-servers-to-china/",
+    "published": "2026-08-24T16:41:45+00:00"
+   },
+   {
+    "title": "Amazon hikes hardware prices by 60%, blaming memory shortage",
+    "summary": "Amazon raises hardware prices 60% due to ongoing memory chip shortage, passing increased costs to consumers.",
+    "lang": "en",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/08/24/amazon-hikes-hardware-prices-by-60-percent-blaming-memory-shortage/",
+    "published": "2026-08-24T19:54:50+00:00"
+   }
+  ],
+  "tecnologia|europa": [
+   {
+    "title": "Xiaomi presenta su propio SoC de 3 nm. Es el principio del fin de la dependencia de Qualcomm y MediaTek",
+    "summary": "Xiaomi presenta su propio procesador de 3 nanómetros, reduciendo dependencia de Qualcomm y MediaTek en smartphones de próxima generación.",
+    "lang": "es",
+    "source": "Xataka",
+    "url": "https://www.xataka.com/componentes/xiaomi-presenta-su-propio-soc-3-nm-principio-fin-dependencia-qualcomm-mediatek",
+    "published": "2026-08-24T19:01:33+00:00"
+   },
+   {
+    "title": "Rusia lleva años agitando el fantasma del torpedo nuclear Poseidón. Ahora ha sacado al mar el submarino capaz de portarlo",
+    "summary": "Rusia despliega el submarino capaz de portar el torpedo nuclear Poseidón, presentado como arma de disuasión extrema autónoma submarina.",
+    "lang": "es",
+    "source": "Xataka",
+    "url": "https://www.xataka.com/magnet/rusia-lleva-anos-agitando-fantasma-torpedo-nuclear-poseidon-ahora-ha-sacado-al-mar-submarino-capaz-portarlo",
+    "published": "2026-08-24T19:31:33+00:00"
+   },
+   {
+    "title": "La crisis de la RAM ha encarecido toda la electrónica de consumo. La siguiente víctima es el coche",
+    "summary": "La crisis de precios en RAM encarece electrónica de consumo, amenazando ahora con elevar costos en automóviles por componentes de chips saturados.",
+    "lang": "es",
+    "source": "Xataka",
+    "url": "https://www.xataka.com/movilidad/crisis-ram-ha-encarecido-toda-electronica-consumo-siguiente-victima-coche",
+    "published": "2026-08-24T17:01:34+00:00"
+   }
+  ],
+  "tecnologia|asia": [
+   {
+    "title": "MongoDB修補32個漏洞，包括BI Connector ODBC Driver的遠端執行程式碼重大漏洞",
+    "summary": "MongoDB发布安全更新修补32个漏洞，包括BI Connector远端执行程式码重大漏洞。",
+    "lang": "zh",
+    "source": "iThome 台灣",
+    "url": "https://www.ithome.com.tw/news/178407",
+    "published": "2026-08-25T12:08:47+00:00"
+   },
+   {
+    "title": "人形機器人首度打破100米及400米短跑人類紀錄",
+    "summary": "人形机器人天工Ultra在世界运动会打破百米和四百米人类纪录，分别跑出9.39秒和38.15秒。",
+    "lang": "zh",
+    "source": "iThome 台灣",
+    "url": "https://www.ithome.com.tw/news/178403",
+    "published": "2026-08-25T11:08:04+00:00"
+   },
+   {
+    "title": "IBM公布首個能執行主機及Arm應用的雙架構晶片",
+    "summary": "IBM发布首款双架构晶片，同时支援Arm原生Linux及IBM Z系统，为合作成果。",
+    "lang": "zh",
+    "source": "iThome 台灣",
+    "url": "https://www.ithome.com.tw/news/178398",
+    "published": "2026-08-25T11:08:48+00:00"
+   },
+   {
+    "title": "美國司法部與TikTok、ByteDance兒童隱私訴訟以4億美元和解",
+    "summary": "美国司法部与TikTok、ByteDance达成4亿美元和解，涉及儿童隐私违规案件。",
+    "lang": "zh",
+    "source": "iThome 台灣",
+    "url": "https://www.ithome.com.tw/news/178396",
+    "published": "2026-08-25T07:08:35+00:00"
+   }
+  ]
+ }
+}
