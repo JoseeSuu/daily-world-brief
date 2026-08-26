@@ -1,0 +1,316 @@
+{
+ "date": "2026-08-26",
+ "generated_at": "2026-08-26T05:59:13.394204+00:00",
+ "mode": "full",
+ "cost_usd": 0.0247,
+ "market": null,
+ "failed_sources": [],
+ "cells": {
+  "economia|asia": [
+   {
+    "title": "Xi’s Unprecedented Tax Clawback Hammers Chinese Listed Firms",
+    "summary": "China's tax clawback policy hammers listed firms, ending Heilongjiang Agriculture's two-decade streak of avoiding first-half losses this year.",
+    "lang": "en",
+    "source": "Bloomberg Markets",
+    "url": "https://www.bloomberg.com/news/articles/2026-08-25/xi-s-unpredecented-tax-clawback-hammers-chinese-listed-companies",
+    "published": "2026-08-25T23:00:00+00:00"
+   },
+   {
+    "title": "Bank of Thailand Seen Extending Rate Pause After Slump in Second-Quarter Growth",
+    "summary": "Thailand's central bank expected to keep rates unchanged at third consecutive meeting as economy struggles with high energy prices.",
+    "lang": "en",
+    "source": "Bloomberg Economics",
+    "url": "https://www.bloomberg.com/news/articles/2026-08-26/bank-of-thailand-seen-extending-rate-pause-after-slump-in-second-quarter-growth",
+    "published": "2026-08-26T00:00:00+00:00"
+   },
+   {
+    "title": "BOK to Weigh Back-to-Back Hike as Growth, Inflation Remain Firm",
+    "summary": "Bank of Korea likely to raise rates for second straight meeting this week as growth and inflation remain firm.",
+    "lang": "en",
+    "source": "Bloomberg Economics",
+    "url": "https://www.bloomberg.com/news/articles/2026-08-25/bok-to-weigh-back-to-back-hike-as-growth-inflation-remain-firm",
+    "published": "2026-08-25T21:00:00+00:00"
+   },
+   {
+    "title": "Huawei licenses key Wi-Fi tech to HP ahead of Trump-Xi meeting",
+    "summary": "Huawei licenses key Wi-Fi technology to HP ahead of Xi-Trump meeting, signaling potential tech cooperation.",
+    "lang": "en",
+    "source": "Nikkei Asia",
+    "url": "https://asia.nikkei.com/business/china-tech/huawei-licenses-key-wi-fi-tech-to-hp-ahead-of-trump-xi-meeting",
+    "published": null
+   },
+   {
+    "title": "Asia's rising wealth to propel finance industry past US: report",
+    "summary": "Asia's rising wealth projected to propel finance industry past US, according to new report on regional economic growth.",
+    "lang": "en",
+    "source": "Nikkei Asia",
+    "url": "https://asia.nikkei.com/business/finance/asia-s-rising-wealth-to-propel-finance-industry-past-us-report",
+    "published": null
+   }
+  ],
+  "economia|europa": [
+   {
+    "title": "Bessent’s bond intervention puts US Treasury on collision course with Fed",
+    "summary": "Treasury Secretary Bessent's increased bond purchases threaten to undermine Fed Chair Warsh's inflation-fighting efforts.",
+    "lang": "en",
+    "source": "Financial Times",
+    "url": "https://www.ft.com/content/a50df99b-0621-44ea-a7c7-c9c685e2eba1?syn-25a6b1a6=1",
+    "published": "2026-08-26T04:00:30+00:00"
+   },
+   {
+    "title": "French Showdown Over Next Budget Will Be Macron’s Riskiest Yet",
+    "summary": "France faces political brinkmanship over national budget as towering debt tests investor patience during upcoming fiscal showdown.",
+    "lang": "en",
+    "source": "Bloomberg Economics",
+    "url": "https://www.bloomberg.com/news/articles/2026-08-26/french-showdown-over-next-budget-will-be-macron-s-riskiest-yet",
+    "published": "2026-08-26T04:00:00+00:00"
+   },
+   {
+    "title": "Germany on track for strongest GDP growth since 2022",
+    "summary": "Germany tracks strongest GDP growth since 2022 after better-than-expected second-quarter results and robust business sentiment.",
+    "lang": "en",
+    "source": "FT Global Economy",
+    "url": "https://www.ft.com/content/6b396499-d71d-4e8f-b2a4-66318b1d9426?syn-25a6b1a6=1",
+    "published": "2026-08-25T11:06:40+00:00"
+   },
+   {
+    "title": "La transición renovable no es fácil, ni barata",
+    "summary": "La transición energética europea enfrenta desafíos económicos y de autonomía. El estrecho de Ormuz recuerda la dependencia del suministro global de gas.",
+    "lang": "es",
+    "source": "El País Economía",
+    "url": "https://cincodias.elpais.com/opinion/2026-08-26/la-transicion-renovable-no-es-facil-ni-barata.html",
+    "published": "2026-08-26T03:40:00+00:00"
+   },
+   {
+    "title": "La subida del gas a nuevos máximos agrava la cuenta atrás para almacenar reservas para el invierno",
+    "summary": "Los precios del gas alcanzan máximos mientras el almacenamiento en la UE cae al 63%, el nivel más bajo desde 2009. Crece la preocupación por problemas de suministro invernal.",
+    "lang": "es",
+    "source": "El País Economía",
+    "url": "https://elpais.com/economia/2026-08-26/la-subida-del-gas-a-nuevos-maximos-agrava-la-cuenta-atras-para-almacenar-reservas-para-el-invierno.html",
+    "published": "2026-08-26T03:30:01+00:00"
+   }
+  ],
+  "economia|america": [
+   {
+    "title": "Canada announces $20bn retaliatory tariffs as US trade war escalates",
+    "summary": "Canada announces $20 billion in retaliatory tariffs on US goods effective September 8 as trade war escalates.",
+    "lang": "en",
+    "source": "FT Global Economy",
+    "url": "https://www.ft.com/content/7ced71c2-03b8-4569-a68d-14624a7e83f2?syn-25a6b1a6=1",
+    "published": "2026-08-25T17:22:48+00:00"
+   },
+   {
+    "title": "Minutes of the Board's discount rate meetings on July 20 and July 29, 2026",
+    "summary": "Federal Reserve Board minutes document discount rate meetings held July 20 and 29, 2026.",
+    "lang": "en",
+    "source": "Reserva Federal (notas de prensa)",
+    "url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20260825a.htm",
+    "published": "2026-08-25T18:00:00+00:00"
+   },
+   {
+    "title": "Scott Bessent fires warning shot at Iran’s economic partners",
+    "summary": "Treasury Secretary Bessent issues warning to Iran's economic partners as US intensifies trade pressure campaign.",
+    "lang": "en",
+    "source": "FT Global Economy",
+    "url": "https://www.ft.com/content/b7a62337-c0f8-41f2-b4d4-7afbe6d63af1?syn-25a6b1a6=1",
+    "published": "2026-08-25T13:00:29+00:00"
+   },
+   {
+    "title": "America’s economic war on Iran has a China problem",
+    "summary": "US economic sanctions on Iran face China challenge as Washington cannot fully isolate Tehran without partner cooperation.",
+    "lang": "en",
+    "source": "FT Global Economy",
+    "url": "https://www.ft.com/content/3bce2d44-0067-455a-9b8d-d5e1a27fbf0a?syn-25a6b1a6=1",
+    "published": "2026-08-25T17:11:09+00:00"
+   }
+  ],
+  "politica|asia": [
+   {
+    "title": "Israel takes control of U.N. training center for Palestinians",
+    "summary": "Israel takes control of UN training center for Palestinians established in 1952 that served 340 West Bank residents annually.",
+    "lang": "en",
+    "source": "Japan Times",
+    "url": "https://www.japantimes.co.jp/news/2026/08/26/world/israel-un-training-center-palestinians/",
+    "published": "2026-08-26T05:39:00+00:00"
+   },
+   {
+    "title": "South Korea scrambles jets after Russian military planes enter air defence zone",
+    "summary": "South Korea scrambles fighter jets after Russian military aircraft enter its air defense zone, second incursion in weeks.",
+    "lang": "en",
+    "source": "South China Morning Post (Asia)",
+    "url": "https://www.scmp.com/news/asia/east-asia/article/3365287/south-korea-scrambles-jets-after-russian-military-planes-enter-air-defence-zone?utm_source=rss_feed",
+    "published": "2026-08-26T05:27:19+00:00"
+   },
+   {
+    "title": "俄戰機進南韓防空識別區 數週來第2次",
+    "summary": "俄罗斯军机进入韩国防空识别区，为数周内第二次。韩方派战机升空应对。",
+    "lang": "zh",
+    "source": "中央社 CNA",
+    "url": "https://www.cna.com.tw/news/aopl/202608260073.aspx",
+    "published": "2026-08-26T03:20:25+00:00"
+   },
+   {
+    "title": "Japan, Indonesia, Australia defense chiefs hold first-ever trilateral talks",
+    "summary": "Japan, Indonesia, and Australia defense chiefs hold first-ever trilateral talks to promote defense cooperation weeks after Indonesia-China military agreement.",
+    "lang": "en",
+    "source": "Japan Times",
+    "url": "https://www.japantimes.co.jp/news/2026/08/26/japan/politics/japan-indonesia-australia-defense-ministers/",
+    "published": "2026-08-26T03:28:00+00:00"
+   },
+   {
+    "title": "Japan to diversify crude supplies, back Mideast pipelines in resilience effort, media say",
+    "summary": "Japan seeks to diversify crude supplies and back Middle East pipelines to strengthen energy resilience.",
+    "lang": "en",
+    "source": "Channel NewsAsia",
+    "url": "https://www.channelnewsasia.com/business/japan-diversify-crude-supplies-back-mideast-pipelines-in-resilience-effort-media-say-6341616",
+    "published": "2026-08-26T03:29:54+00:00"
+   }
+  ],
+  "politica|europa": [
+   {
+    "title": "Grain exports stall as Ukraine steps up attacks on Russia's Black Sea ports",
+    "summary": "Ukrainian drone strikes on Russian Black Sea infrastructure disrupt grain and oil exports from Novorossiysk and other key ports.",
+    "lang": "en",
+    "source": "Deutsche Welle World",
+    "url": "https://www.dw.com/en/grain-exports-stall-as-ukraine-steps-up-attacks-on-russia-s-black-sea-ports/a-78499629?maca=en-rss-en-world-4025-rdf",
+    "published": "2026-08-25T18:04:00+00:00"
+   },
+   {
+    "title": "Syria's powerful Kurdish forces chief announces their dissolution",
+    "summary": "Syrian Kurdish Democratic Forces, US-backed group that fought ISIS, announce their dissolution after years of regional influence.",
+    "lang": "en",
+    "source": "Le Monde International",
+    "url": "https://www.lemonde.fr/en/international/article/2026/08/26/syria-s-powerful-kurdish-forces-chief-announces-their-dissolution_6756850_4.html",
+    "published": "2026-08-25T23:51:57+00:00"
+   },
+   {
+    "title": "Will Iran withdraw from nuclear non-proliferation treaty?",
+    "summary": "Iranian lawmakers raise possibility of withdrawing from nuclear non-proliferation treaty, using threat as potential leverage.",
+    "lang": "en",
+    "source": "Deutsche Welle World",
+    "url": "https://www.dw.com/en/will-iran-withdraw-from-nuclear-non-proliferation-treaty/a-78495930?maca=en-rss-en-world-4025-rdf",
+    "published": "2026-08-25T12:01:00+00:00"
+   },
+   {
+    "title": "European rights court orders Turkey to free imprisoned businessman",
+    "summary": "European human rights court orders Turkey to free activist Osman Kavala after nearly a decade in jail on politically motivated charges.",
+    "lang": "en",
+    "source": "BBC World",
+    "url": "https://www.bbc.co.uk/news/articles/cn5drvyg92no?at_medium=RSS&at_campaign=rss",
+    "published": "2026-08-25T15:58:20+00:00"
+   },
+   {
+    "title": "Ulrich Siegmund, the rising star of Germany's far right who electrifies crowds and rattles Berlin",
+    "summary": "Far-right AfD candidate Ulrich Siegmund leads Saxony-Anhalt regional elections September 6, potentially allowing far-right state government.",
+    "lang": "en",
+    "source": "Le Monde International",
+    "url": "https://www.lemonde.fr/en/international/article/2026/08/26/ulrich-siegmund-the-rising-star-of-germany-s-far-right-who-electrifies-crowds-and-rattles-berlin_6756849_4.html",
+    "published": "2026-08-25T23:48:04+00:00"
+   }
+  ],
+  "politica|america": [
+   {
+    "title": "More than 50 kidnapped as violent gang attack in Haiti leaves 47 dead",
+    "summary": "Over 50 kidnapped in Haiti gang attack leaving 47 dead, believed one of largest mass kidnappings in recent years with hostage threats.",
+    "lang": "en",
+    "source": "NPR World",
+    "url": "https://www.npr.org/2026/08/26/nx-s1-5944787/50-kidnapped-haiti-gang-attack-47-dead",
+    "published": "2026-08-26T05:45:34+00:00"
+   },
+   {
+    "title": "Can Trump's economic war against Iran do what airstrikes and negotiations couldn't?",
+    "summary": "New US sanctions on Iran test whether economic pressure can achieve what military action and diplomacy could not over six months.",
+    "lang": "en",
+    "source": "NPR World",
+    "url": "https://www.npr.org/2026/08/25/nx-s1-5943572/trump-iran-sanctions",
+    "published": "2026-08-25T09:07:09+00:00"
+   },
+   {
+    "title": "US: Trump administration plans to revoke up to 200,000 visas from asylum seekers",
+    "summary": "Trump administration plans to revoke visas of up to 200,000 asylum seekers who entered on tourist or business visas.",
+    "lang": "en",
+    "source": "Deutsche Welle World",
+    "url": "https://www.dw.com/en/us-trump-administration-plans-to-revoke-up-to-200-000-visas-from-asylum-seekers/a-78491300?maca=en-rss-en-world-4025-rdf",
+    "published": "2026-08-25T04:44:00+00:00"
+   }
+  ],
+  "tecnologia|america": [
+   {
+    "title": "SpaceX intends to invest up to $100 billion in massive Louisiana spaceport",
+    "summary": "SpaceX plans to invest up to $100 billion in massive Louisiana spaceport development project.",
+    "lang": "en",
+    "source": "Ars Technica",
+    "url": "https://arstechnica.com/space/2026/08/spacex-intends-to-invest-up-to-100-billion-in-massive-louisiana-spaceport/",
+    "published": "2026-08-25T17:26:15+00:00"
+   },
+   {
+    "title": "Stability AI, maker of image generator Stable Diffusion, raises $76 million in fresh funding",
+    "summary": "Stability AI, maker of Stable Diffusion image generator, raises $76 million in funding, bringing total to $232 million.",
+    "lang": "en",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/08/25/stability-ai-maker-of-image-generator-stable-diffusion-raises-76-million-in-fresh-funding/",
+    "published": "2026-08-25T19:03:47+00:00"
+   },
+   {
+    "title": "OpenAI loses a top data center exec, as stream of high-profile departures continues",
+    "summary": "OpenAI loses top data center executive as departures continue, with infrastructure leadership reshuffled under VP Sachin Katti.",
+    "lang": "en",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/08/25/openai-loses-a-top-data-center-exec-as-stream-of-high-profile-departures-continues/",
+    "published": "2026-08-26T00:06:20+00:00"
+   },
+   {
+    "title": "Jalapeño’s first results show industry-leading speed and efficiency in AI inference",
+    "summary": "OpenAI's Jalapeño custom inference chip delivers industry-leading speed and efficiency for AI model deployment with higher throughput and lower latency.",
+    "lang": "en",
+    "source": "OpenAI News",
+    "url": "https://openai.com/index/jalapeno-first-results",
+    "published": "2026-08-25T07:00:00+00:00"
+   }
+  ],
+  "tecnologia|europa": [
+   {
+    "title": "Europa tiene por fin un cohete fiable, Ariane 6. Su gran evolución ha quedado aparcada con un viejo problema de fondo: el coste",
+    "summary": "Europa logra fiabilidad con el cohete Ariane 6 tras décadas de espera. El desafío pendiente sigue siendo reducir sus elevados costes operativos.",
+    "lang": "es",
+    "source": "Xataka",
+    "url": "https://www.xataka.com/espacio/europa-tiene-fin-cohete-fiable-ariane-6-su-gran-evolucion-ha-quedado-aparcada-viejo-problema-fondo-coste",
+    "published": "2026-08-25T21:47:03+00:00"
+   },
+   {
+    "title": "Pillan a AliExpress usando sonidos inaudibles para perfilar a los usuarios (y noquear sus auriculares Bluetooth)",
+    "summary": "AliExpress utiliza sonidos inaudibles para perfilar usuarios y afectar auriculares Bluetooth. Los datos personales quedan registrados sin consentimiento explícito.",
+    "lang": "es",
+    "source": "Xataka",
+    "url": "https://www.xataka.com/aplicaciones/pillan-a-aliexpress-usando-sonidos-inaudibles-para-perfilar-a-usuarios-noquear-sus-auriculares-bluetooth",
+    "published": "2026-08-25T19:01:03+00:00"
+   }
+  ],
+  "tecnologia|asia": [
+   {
+    "title": "AI資安業者Alice募資1.4億美元，AI業務兩年成長逾500%",
+    "summary": "AI安全公司Alice完成1.4亿美元融资，AI业务两年增长超500%，年度经常性收入接近1亿美元。",
+    "lang": "zh",
+    "source": "iThome 台灣",
+    "url": "https://www.ithome.com.tw/news/178446",
+    "published": "2026-08-26T12:08:44+00:00"
+   },
+   {
+    "title": "俄軍 AI 無人機自選目標炸死三平民，輝達 Jetson Orin 模組成關鍵證據",
+    "summary": "俄军AI无人机在乌克兰炸死三名平民，残骸中发现英伟达Jetson Orin芯片作为关键证据。",
+    "lang": "zh",
+    "source": "科技新報 TechNews",
+    "url": "https://technews.tw/2026/08/26/nvidia-chip-guided-the-russian-ai-drone-that-killed-three-ukrainians/",
+    "published": "2026-08-26T04:20:22+00:00"
+   },
+   {
+    "title": "蘋果同步改款Mac mini與Mac Studio，打造專為AI而生的桌機陣容",
+    "summary": "苹果同步更新Mac mini和Mac Studio，两款产品均强化AI性能为核心设计目标。",
+    "lang": "zh",
+    "source": "iThome 台灣",
+    "url": "https://www.ithome.com.tw/news/178445",
+    "published": "2026-08-26T11:08:08+00:00"
+   }
+  ]
+ }
+}
