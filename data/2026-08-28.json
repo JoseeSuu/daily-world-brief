@@ -1,0 +1,268 @@
+{
+ "date": "2026-08-28",
+ "generated_at": "2026-08-28T17:34:43.871347+00:00",
+ "mode": "full",
+ "cost_usd": 0.0233,
+ "market": null,
+ "failed_sources": [],
+ "cells": {
+  "economia|asia": [
+   {
+    "title": "Yen falls past 160 per dollar for first time since joint intervention",
+    "summary": "The yen fell past 160 per dollar for the first time since Japan and allies jointly intervened in currency markets.",
+    "lang": "en",
+    "source": "Nikkei Asia",
+    "url": "https://asia.nikkei.com/business/markets/currencies/yen-falls-past-160-per-dollar-for-first-time-since-joint-intervention",
+    "published": null
+   },
+   {
+    "title": "台積Q2分紅360億 年增50%",
+    "summary": "台積電第2季員工分紅360億元創新高，年增幅50.7%，季獎金增加四至六個月。",
+    "lang": "zh",
+    "source": "經濟日報 台灣",
+    "url": "https://money.udn.com/money/story/5612/9720933",
+    "published": "2026-08-28T16:06:23+00:00"
+   },
+   {
+    "title": "Japan's number of births rises for first time in 11 years",
+    "summary": "Japan's number of births increased for the first time in 11 years, reversing a prolonged declining trend.",
+    "lang": "en",
+    "source": "Nikkei Asia",
+    "url": "https://asia.nikkei.com/economy/demography/japan-s-number-of-births-rises-for-first-time-in-11-years",
+    "published": null
+   }
+  ],
+  "economia|europa": [
+   {
+    "title": "La inflación se dispara en agosto hasta el 4,3% por la subida de los carburantes",
+    "summary": "La inflación alcanzó el 4,3% en agosto por la subida de carburantes, el nivel más alto desde febrero de 2023, aunque el indicador subyacente retrocedió al 2,9%.",
+    "lang": "es",
+    "source": "El País Economía",
+    "url": "https://elpais.com/economia/2026-08-28/la-inflacion-se-dispara-en-agosto-hasta-el-43-por-la-subida-de-los-carburantes.html",
+    "published": "2026-08-28T07:00:08+00:00"
+   },
+   {
+    "title": "Francia se estanca en el segundo trimestre tras una revisión a la baja del PIB",
+    "summary": "Francia se estancó en el segundo trimestre con crecimiento nulo, según revisión a la baja del PIB oficial que corrige estimación inicial del 0,2%.",
+    "lang": "es",
+    "source": "El País Economía",
+    "url": "https://elpais.com/economia/2026-08-28/francia-se-estanca-en-el-segundo-trimestre-tras-una-revision-a-la-baja-del-pib.html",
+    "published": "2026-08-28T11:51:52+00:00"
+   },
+   {
+    "title": "Las claves: la milmillonaria multa a Meta debe servir para no repetir errores con la IA",
+    "summary": "La multa a Meta debe servir para evitar errores futuros con inteligencia artificial, cuyos peligros potenciales superan los daños causados por redes sociales.",
+    "lang": "es",
+    "source": "El País Economía",
+    "url": "https://cincodias.elpais.com/opinion/2026-08-28/las-claves-la-milmillonaria-multa-a-meta-debe-servir-para-no-repetir-errores-con-la-ia.html",
+    "published": "2026-08-28T03:40:00+00:00"
+   }
+  ],
+  "economia|america": [
+   {
+    "title": "Hawkish Warsh hints Fed will raise rates if inflation does not fall soon",
+    "summary": "Fed official Christopher Warsh hinted the central bank may raise rates if inflation doesn't fall, driving Wall Street to increase bets on a September rate increase.",
+    "lang": "en",
+    "source": "Financial Times",
+    "url": "https://www.ft.com/content/d15851dc-9177-4bfe-9039-8d9994a2e4b3?syn-25a6b1a6=1",
+    "published": "2026-08-28T16:50:09+00:00"
+   },
+   {
+    "title": "US corporate profits surge to record as worker payouts wilt",
+    "summary": "U.S. corporate pre-tax profits reached their highest share of national income since World War II, while worker payouts declined.",
+    "lang": "en",
+    "source": "Financial Times",
+    "url": "https://www.ft.com/content/6f3ada65-c56c-499c-8eb6-008fac58949d?syn-25a6b1a6=1",
+    "published": "2026-08-28T04:00:25+00:00"
+   },
+   {
+    "title": "Federal Reserve Board issues enforcement action with former employee of Banco Popular de Puerto Rico",
+    "summary": "The Federal Reserve Board issued an enforcement action against a former employee of Banco Popular de Puerto Rico.",
+    "lang": "en",
+    "source": "Reserva Federal (notas de prensa)",
+    "url": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20260827a.htm",
+    "published": "2026-08-27T15:00:00+00:00"
+   }
+  ],
+  "politica|asia": [
+   {
+    "title": "Hundreds killed, over 1,000 missing after flash floods in Nepal and Tibet",
+    "summary": "Flash floods struck the Nepal-Tibet border, killing hundreds and displacing over 1,000 people, destroying roads, bridges and villages.",
+    "lang": "en",
+    "source": "NPR World",
+    "url": "https://www.npr.org/2026/08/28/nx-s1-5946732/hundreds-killed-over-1-000-missing-after-flash-floods-in-nepal-and-tibet",
+    "published": "2026-08-28T10:56:17+00:00"
+   },
+   {
+    "title": "Japan inks deal to acquire former Nippon Steel site for ‘integrated defense hub’",
+    "summary": "Japan's Defense Minister announced a deal to acquire a former Nippon Steel site for an integrated defense hub deemed critical to national security.",
+    "lang": "en",
+    "source": "Japan Times",
+    "url": "https://www.japantimes.co.jp/news/2026/08/28/japan/japan-defense-hub-nippon-steel/",
+    "published": "2026-08-28T10:24:00+00:00"
+   },
+   {
+    "title": "日本公布砸3兆多元支撐日圓 創史上最大單月干預紀錄",
+    "summary": "日本7月30日至8月26日間動用15兆4000億日圓干預匯市創史上最大單月紀錄，力挺貶至40年低點的日圓。",
+    "lang": "zh",
+    "source": "中央社 CNA",
+    "url": "https://www.cna.com.tw/news/aopl/202608280327.aspx",
+    "published": "2026-08-28T13:53:22+00:00"
+   },
+   {
+    "title": "As Iran war hits six-month mark, Trump says he’s ‘not in a hurry’",
+    "summary": "President Trump arrives amid a six-month milestone of the U.S.-Israel conflict against Iran, stating he is not in a hurry to resolve the situation.",
+    "lang": "en",
+    "source": "South China Morning Post (Asia)",
+    "url": "https://www.scmp.com/news/world/middle-east/article/3365663/iran-war-hits-six-month-mark-trump-says-hes-not-hurry?utm_source=rss_feed",
+    "published": "2026-08-28T17:26:37+00:00"
+   },
+   {
+    "title": "China strips former generals Zhang Youxia and Liu Zhenli of top military positions",
+    "summary": "China removed former generals Zhang Youxia and Liu Zhenli from the supreme military command as part of ongoing investigations.",
+    "lang": "en",
+    "source": "South China Morning Post (China)",
+    "url": "https://www.scmp.com/news/china/military/article/3365646/china-strips-former-generals-zhang-youxia-and-liu-zhenli-top-military-positions?utm_source=rss_feed",
+    "published": "2026-08-28T13:06:16+00:00"
+   }
+  ],
+  "politica|europa": [
+   {
+    "title": "Muere Harald V, rey de Noruega, a los 89 años",
+    "summary": "Harald V, rey de Noruega desde 1991, murió a los 89 años y le sucede su hijo, el príncipe Haakon.",
+    "lang": "es",
+    "source": "El País Internacional",
+    "url": "https://elpais.com/internacional/2026-08-28/muere-harald-v-rey-de-noruega-a-los-89-anos.html",
+    "published": "2026-08-28T08:52:54+00:00"
+   },
+   {
+    "title": "What next? Kurds say yes, Druze still say no to united Syria",
+    "summary": "The Druze minority in Syria remains the only group refusing central government authority as the independent Kurdish area ends.",
+    "lang": "en",
+    "source": "Deutsche Welle World",
+    "url": "https://www.dw.com/en/what-next-kurds-say-yes-druze-still-say-no-to-united-syria/a-78549925?maca=en-rss-en-world-4025-rdf",
+    "published": "2026-08-28T16:47:00+00:00"
+   },
+   {
+    "title": "South Korea says will hold joint military drills with US and Japan",
+    "summary": "South Korea announced joint military drills with the U.S. and Japan covering air defense, maritime operations, and cyber defense amid ongoing diplomatic efforts.",
+    "lang": "en",
+    "source": "Le Monde International",
+    "url": "https://www.lemonde.fr/en/international/article/2026/08/28/south-korea-says-will-hold-joint-military-drills-with-us-and-japan_6756931_4.html",
+    "published": "2026-08-28T08:50:53+00:00"
+   },
+   {
+    "title": "Ukraine reinforces Donetsk as it seeks to disrupt Russia’s weapons flow",
+    "summary": "Ukraine reinforces Donetsk and increasingly uses European weapons to disrupt Russia's weapons supply lines after repeated U.S. Patriot disappointments.",
+    "lang": "en",
+    "source": "Al Jazeera English",
+    "url": "https://www.aljazeera.com/news/2026/8/28/ukraine-reinforces-donetsk-as-it-seeks-to-disrupt-russias-weapons-flow?traffic_source=rss",
+    "published": "2026-08-28T16:42:31+00:00"
+   },
+   {
+    "title": "Norway's King Harald dies at 89",
+    "summary": "Norway's King Harald died at 89 and was succeeded by his son, who took the name King Haakon VIII.",
+    "lang": "en",
+    "source": "Deutsche Welle World",
+    "url": "https://www.dw.com/en/norway-s-king-harald-dies-at-89/a-78524572?maca=en-rss-en-world-4025-rdf",
+    "published": "2026-08-28T08:28:00+00:00"
+   }
+  ],
+  "politica|america": [
+   {
+    "title": "U.S. says pipelines will make Strait of Hormuz irrelevant. Energy experts disagree",
+    "summary": "U.S. Treasury Secretary Scott Bessent claimed pipelines will make the Strait of Hormuz irrelevant in two years, but energy experts dispute this assessment.",
+    "lang": "en",
+    "source": "NPR World",
+    "url": "https://www.npr.org/2026/08/28/g-s1-140309/us-iran-middle-east-oil-pipelines-hormuz",
+    "published": "2026-08-28T09:00:00+00:00"
+   }
+  ],
+  "tecnologia|america": [
+   {
+    "title": "Report: Nvidia to acquire AI model repository Hugging Face for $13 billion",
+    "summary": "Nvidia is acquiring Hugging Face, a critical AI model repository, for $13 billion as open model interest grows.",
+    "lang": "en",
+    "source": "Ars Technica",
+    "url": "https://arstechnica.com/ai/2026/08/report-nvidia-to-acquire-ai-model-repository-hugging-face-for-13-billion/",
+    "published": "2026-08-27T19:55:22+00:00"
+   },
+   {
+    "title": "Elon Musk’s xAI used child porn to train Grok models, lawsuit says",
+    "summary": "A lawsuit alleges xAI trained its Grok models on real and AI-generated child pornography material.",
+    "lang": "en",
+    "source": "Ars Technica",
+    "url": "https://arstechnica.com/tech-policy/2026/08/elon-musks-xai-used-child-porn-to-train-grok-models-lawsuit-says/",
+    "published": "2026-08-27T20:52:31+00:00"
+   },
+   {
+    "title": "Anthropic's new hardware standard lets AI agents control the physical world",
+    "summary": "Anthropic introduced a new standardized hardware driver interface enabling AI agents to control physical devices and communicate with other systems.",
+    "lang": "en",
+    "source": "Ars Technica",
+    "url": "https://arstechnica.com/ai/2026/08/anthropics-new-hardware-standard-lets-ai-agents-control-the-physical-world/",
+    "published": "2026-08-27T22:15:43+00:00"
+   },
+   {
+    "title": "a16z creates a $1.1B ‘Machine Age’ fund to ‘accelerate the physical buildout of AI’",
+    "summary": "Venture firm a16z created a $1.1 billion 'Machine Age' fund to increase hardware investments supporting AI infrastructure buildout.",
+    "lang": "en",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/08/28/a16z-creates-a-1-1b-machine-age-fund-to-accelerate-the-physical-buildout-of-ai/",
+    "published": "2026-08-28T13:24:43+00:00"
+   }
+  ],
+  "tecnologia|europa": [
+   {
+    "title": "Gemini Omni 1.1 Flash lets you build with more control",
+    "summary": "Google DeepMind released Gemini Omni 1.1 Flash, offering enhanced control for AI application development.",
+    "lang": "en",
+    "source": "Google DeepMind Blog",
+    "url": "https://deepmind.google/blog/gemini-omni-1-1-flash-lets-you-build-with-more-control/",
+    "published": "2026-08-27T16:11:32+00:00"
+   },
+   {
+    "title": "Rocket Report: Europe splashes some cash on launch startups; Pallas-1 nears debut",
+    "summary": "Europe allocated funding to launch startups, and SpaceX Starship will launch all future Starlink missions from Florida.",
+    "lang": "en",
+    "source": "Ars Technica",
+    "url": "https://arstechnica.com/space/2026/08/rocket-report-europe-splashes-some-cash-on-launch-startups-pallas-1-nears-debut/",
+    "published": "2026-08-28T11:00:39+00:00"
+   }
+  ],
+  "tecnologia|asia": [
+   {
+    "title": "CISA公布兩起關鍵基礎設施紅隊演練成果，突顯SOC防禦落差並歸納3大關鍵教訓",
+    "summary": "CISA公布紅隊演練成果，企業資安防禦成效差距源於監控機制與組織流程成熟度不足。",
+    "lang": "zh",
+    "source": "iThome 台灣",
+    "url": "https://www.ithome.com.tw/news/178513",
+    "published": "2026-08-28T06:08:01+00:00"
+   },
+   {
+    "title": "Veeam修補Veeam ONE監控平臺重大漏洞，若未更新恐導致攻擊者強制服務帳號發起SMB認證",
+    "summary": "Veeam發布修補版本修復Veeam ONE監控平臺重大漏洞，用戶應升級至13.1.0.7233版以防攻擊者濫用。",
+    "lang": "zh",
+    "source": "iThome 台灣",
+    "url": "https://www.ithome.com.tw/news/178522",
+    "published": "2026-08-28T06:08:33+00:00"
+   },
+   {
+    "title": "【資安週報】0824~0828，再傳中國駭客組織APT24入侵臺灣廣告行銷業者，導致國內知名新聞和小說網站遭供應鏈攻擊",
+    "summary": "中國駭客組織APT24入侵台灣數位行銷業者進行供應鏈攻擊，導致國內新聞小說網站遭殃並蒐集使用者瀏覽器指紋。",
+    "lang": "zh",
+    "source": "iThome 台灣",
+    "url": "https://www.ithome.com.tw/news/178489",
+    "published": "2026-08-28T02:08:03+00:00"
+   },
+   {
+    "title": "德國赴台參加半導體展，鎖定晶片設計、先進封裝",
+    "summary": "德國聯邦外貿與投資署下週赴台參加國際半導體展，鎖定晶片設計與先進封裝領域。",
+    "lang": "zh",
+    "source": "科技新報 TechNews",
+    "url": "https://technews.tw/2026/08/28/germany-in-semicon-taiwan-2026/",
+    "published": "2026-08-28T10:00:47+00:00"
+   }
+  ]
+ }
+}
