@@ -1,0 +1,308 @@
+{
+ "date": "2026-08-29",
+ "generated_at": "2026-08-29T11:45:08.524913+00:00",
+ "mode": "full",
+ "cost_usd": 0.0264,
+ "market": null,
+ "failed_sources": [],
+ "cells": {
+  "economia|asia": [
+   {
+    "title": "China's hypercompetition goes global as Beijing frets over backlash",
+    "summary": "China's intense industrial competition expands globally as Beijing faces potential backlash from other countries. The hypercompetitive approach threatens international economic relations.",
+    "lang": "en",
+    "source": "Nikkei Asia",
+    "url": "https://asia.nikkei.com/spotlight/big-in-asia/china-s-hypercompetition-goes-global-as-beijing-frets-over-backlash",
+    "published": null
+   },
+   {
+    "title": "Putin, Xi to meet on sidelines of SCO summit Monday, Kremlin says",
+    "summary": "Putin and Xi will meet Monday on the sidelines of the SCO summit, according to the Kremlin. The meeting signals continued bilateral cooperation between Russia and China.",
+    "lang": "en",
+    "source": "Nikkei Asia",
+    "url": "https://asia.nikkei.com/politics/international-relations/putin-xi-to-meet-on-sidelines-of-sco-summit-monday-kremlin-says",
+    "published": null
+   },
+   {
+    "title": "藥華藥 Ropeg 繼台、日之後拿下美國 ET 藥證 未來搶攻逾400億美元新市場",
+    "summary": "药华药Ropeg新药获美国FDA批准用于治疗原发性血小板过多症。该药已在台湾和日本获批，公司将进入逾400亿美元的全球市场。",
+    "lang": "zh",
+    "source": "經濟日報 台灣",
+    "url": "https://money.udn.com/money/story/5612/9721368",
+    "published": "2026-08-29T02:44:12+00:00"
+   },
+   {
+    "title": "Japan's Sumitomo joins copper-gold mine project in Chile",
+    "summary": "Japan's Sumitomo joined a copper-gold mining project in Chile. The investment expands Japan's resource security in South America.",
+    "lang": "en",
+    "source": "Nikkei Asia",
+    "url": "https://asia.nikkei.com/business/materials/japan-s-sumitomo-joins-copper-gold-mine-project-in-chile",
+    "published": null
+   }
+  ],
+  "economia|europa": [
+   {
+    "title": "Isabel Schnabel: Central banks on-chain",
+    "summary": "Central banks are exploring blockchain technology according to Isabel Schnabel. The development could reshape monetary policy infrastructure.",
+    "lang": "en",
+    "source": "BCE (notas de prensa)",
+    "url": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp260828~fe9afc86e8.en.html",
+    "published": "2026-08-28T16:00:00+00:00"
+   },
+   {
+    "title": "La elevada inflación de agosto siembra dudas sobre el mecanismo de contención de precios del Gobierno",
+    "summary": "La inflación alcanzó el 4,3% en agosto impulsada por carburantes. Los analistas advierten sobre posibles aumentos en precios de gas y electricidad en otoño.",
+    "lang": "es",
+    "source": "El País Economía",
+    "url": "https://elpais.com/economia/2026-08-29/la-elevada-inflacion-de-agosto-siembra-dudas-sobre-el-mecanismo-de-contencion-de-precios-del-gobierno.html",
+    "published": "2026-08-29T03:30:01+00:00"
+   },
+   {
+    "title": "El desánimo político alemán amenaza a la tímida recuperación",
+    "summary": "Merz es el canciller alemán peor valorado en treinta años antes de elecciones en Sajonia-Anhalt. La AfD roza el 42% de los votos en la región.",
+    "lang": "es",
+    "source": "El País Economía",
+    "url": "https://cincodias.elpais.com/opinion/2026-08-29/el-desanimo-politico-aleman-amenaza-a-la-timida-recuperacion.html",
+    "published": "2026-08-29T03:40:00+00:00"
+   },
+   {
+    "title": "France Dodges Rating Rebuke as Fitch Sticks With Stable Outlook",
+    "summary": "Fitch Ratings maintained France's stable outlook despite warnings about widening deficits and mounting debts. Political uncertainty remains a concern for future downgrades.",
+    "lang": "en",
+    "source": "Bloomberg Economics",
+    "url": "https://www.bloomberg.com/news/articles/2026-08-28/france-dodges-rating-rebuke-as-fitch-sticks-with-stable-outlook",
+    "published": "2026-08-28T21:29:00+00:00"
+   }
+  ],
+  "economia|america": [
+   {
+    "title": "Trump says US to take control of 65bn barrels of Venezuelan oil",
+    "summary": "Trump announced the US will control 65 billion barrels of Venezuelan oil through a joint venture. The deal aims to lower petrol prices for Americans.",
+    "lang": "en",
+    "source": "Financial Times",
+    "url": "https://www.ft.com/content/2f88581f-4fbc-46a2-8127-830bb630c2f2?syn-25a6b1a6=1",
+    "published": "2026-08-29T00:36:22+00:00"
+   },
+   {
+    "title": "Where the US-Canada Trade War Stands After Talks Fell Apart",
+    "summary": "US-Canada trade talks collapsed abruptly, triggering sharp escalation in tensions between the nations. The dispute threatens bilateral economic relations.",
+    "lang": "en",
+    "source": "Bloomberg Economics",
+    "url": "https://www.bloomberg.com/news/articles/2026-08-29/where-the-us-canada-trade-war-stands-after-talks-fell-apart",
+    "published": "2026-08-29T11:00:00+00:00"
+   },
+   {
+    "title": "Finance Chief Says Colombia Must Slash Spending or Face ‘Abyss’",
+    "summary": "Colombia's Finance Minister pledged to slash government spending to address a fiscal crisis. He described it as possibly the worst in the nation's history.",
+    "lang": "en",
+    "source": "Bloomberg Economics",
+    "url": "https://www.bloomberg.com/news/articles/2026-08-28/finance-chief-says-colombia-must-slash-spending-or-face-abyss",
+    "published": "2026-08-28T23:59:21+00:00"
+   },
+   {
+    "title": "Warsh’s Inflation Warning Sets Up September Showdown for the Fed",
+    "summary": "Federal Reserve Chairman Kevin Warsh warned strongly about inflation, setting up September's policy meeting as pivotal. The Fed faces pressure to continue fighting price increases.",
+    "lang": "en",
+    "source": "Bloomberg Economics",
+    "url": "https://www.bloomberg.com/news/articles/2026-08-28/warsh-s-inflation-warning-sets-up-september-showdown-for-the-fed",
+    "published": "2026-08-28T21:41:40+00:00"
+   }
+  ],
+  "politica|asia": [
+   {
+    "title": "Number of missing in Nepal and China floods soars to nearly 3,000",
+    "summary": "Nearly 3,000 people are missing after floods in Nepal and China; up to 93,000 affected. The Red Cross describes the disaster's trauma as enormous.",
+    "lang": "en",
+    "source": "Japan Times",
+    "url": "https://www.japantimes.co.jp/news/2026/08/29/asia-pacific/nepal-china-floods-toll/",
+    "published": "2026-08-29T05:33:00+00:00"
+   },
+   {
+    "title": "伊朗總統承認美國制裁衝擊經濟 傳釋出願意讓步訊號",
+    "summary": "伊朗总统裴澤斯基安承认美国制裁对伊朗经济造成打击。这与他数天前坚称制裁无效的立场相矛盾，传释出让步信号。",
+    "lang": "zh",
+    "source": "中央社 CNA",
+    "url": "https://www.cna.com.tw/news/aopl/202608290175.aspx",
+    "published": "2026-08-29T10:23:30+00:00"
+   },
+   {
+    "title": "尼日國家電視台斷訊 機場、總統府附近激烈槍響",
+    "summary": "尼日首都尼阿美机场附近和总统府一带传出激烈枪响，国家电视台上午断讯。机场今年已两度遭圣战分子攻击。",
+    "lang": "zh",
+    "source": "中央社 CNA",
+    "url": "https://www.cna.com.tw/news/aopl/202608290172.aspx",
+    "published": "2026-08-29T10:19:23+00:00"
+   },
+   {
+    "title": "China removes high-ranking officers from key military body",
+    "summary": "China removed high-ranking officers from its Central Military Commission. Zhang Youxia, the nation's highest-ranked general, lost his position.",
+    "lang": "en",
+    "source": "Japan Times",
+    "url": "https://www.japantimes.co.jp/news/2026/08/29/asia-pacific/politics/china-top-officers-removed/",
+    "published": "2026-08-29T03:15:00+00:00"
+   },
+   {
+    "title": "菲律賓連日大雨成災 至少40死、800萬人受影響",
+    "summary": "菲律宾自8月初连续受台风和西南季风影响，至少40人丧生。超过800万人生活受影响，吕宋岛还将持续降雨。",
+    "lang": "zh",
+    "source": "中央社 CNA",
+    "url": "https://www.cna.com.tw/news/aopl/202608290144.aspx",
+    "published": "2026-08-29T09:01:21+00:00"
+   }
+  ],
+  "politica|europa": [
+   {
+    "title": "Dozens dead after Russian strike on depot near Kyiv",
+    "summary": "A Russian strike on a depot near Kyiv killed dozens; the facility stored explosives. The blast damaged residential areas, a care home, and surrounding infrastructure.",
+    "lang": "en",
+    "source": "Le Monde International",
+    "url": "https://www.lemonde.fr/en/international/article/2026/08/29/dozens-dead-after-russian-strike-on-depot-near-kyiv_6756964_4.html",
+    "published": "2026-08-29T11:16:11+00:00"
+   },
+   {
+    "title": "Norway's King Harald dies at 89",
+    "summary": "Norway's King Harald died at age 89. His son became King Haakon VIII, with Crown Princess Mette-Marit now serving as queen.",
+    "lang": "en",
+    "source": "Deutsche Welle World",
+    "url": "https://www.dw.com/en/norway-s-king-harald-dies-at-89/a-78524572?maca=en-rss-en-world-4025-rdf",
+    "published": "2026-08-28T08:28:00+00:00"
+   },
+   {
+    "title": "Serbia: Keeping EU, Russia in play ahead of key election",
+    "summary": "Serbia balances EU ambitions with Russian ties ahead of a key election. President Vucic navigates growing geopolitical tensions and domestic pressure.",
+    "lang": "en",
+    "source": "Deutsche Welle World",
+    "url": "https://www.dw.com/en/serbia-keeping-eu-russia-in-play-ahead-of-key-election/a-78543495?maca=en-rss-en-world-4025-rdf",
+    "published": "2026-08-29T07:19:00+00:00"
+   },
+   {
+    "title": "What next? Kurds say yes, Druze still say no to united Syria",
+    "summary": "The Druze minority in Syria is the only group refusing central government authority. The end of an independent Kurdish area impacts future Druze decisions.",
+    "lang": "en",
+    "source": "Deutsche Welle World",
+    "url": "https://www.dw.com/en/what-next-kurds-say-yes-druze-still-say-no-to-united-syria/a-78549925?maca=en-rss-en-world-4025-rdf",
+    "published": "2026-08-28T16:47:00+00:00"
+   },
+   {
+    "title": "Public funerals honor fallen PKK fighters in Turkey",
+    "summary": "Public funerals honored fallen PKK fighters in Turkey since August 21. Around 100 fighters killed in recent fighting were memorialized.",
+    "lang": "en",
+    "source": "Le Monde International",
+    "url": "https://www.lemonde.fr/en/international/article/2026/08/29/in-turkey-public-funeral-ceremonies-honor-fallen-pkk-fighters_6756956_4.html",
+    "published": "2026-08-29T02:30:12+00:00"
+   }
+  ],
+  "politica|america": [
+   {
+    "title": "U.S. says pipelines will make Strait of Hormuz irrelevant. Energy experts disagree",
+    "summary": "US Treasury Secretary Scott Bessent claimed pipelines will make the Strait of Hormuz irrelevant within two years. Energy experts dispute this timeline.",
+    "lang": "en",
+    "source": "NPR World",
+    "url": "https://www.npr.org/2026/08/28/g-s1-140309/us-iran-middle-east-oil-pipelines-hormuz",
+    "published": "2026-08-28T09:00:00+00:00"
+   },
+   {
+    "title": "Detroit despairs as ‘insanity’ of Trump’s Canada trade war punishes city",
+    "summary": "Detroit faces economic hardship from Trump's Canada trade war as midterms approach. Daily $1 billion in goods cross the river dividing the city.",
+    "lang": "en",
+    "source": "The Guardian World",
+    "url": "https://www.theguardian.com/us-news/2026/aug/28/trump-canada-trade-war-detroit-michigan",
+    "published": "2026-08-28T11:00:56+00:00"
+   }
+  ],
+  "tecnologia|asia": [
+   {
+    "title": "美國司法部與FBI破壞中國駭客代理網路，查封QScan與QTRouter平臺",
+    "summary": "美国司法部和FBI查封中国国家支持的黑客组织QTFY使用的QScan和QTRouter平台。行动阻断其对美国关键基础设施的攻击。",
+    "lang": "zh",
+    "source": "iThome 台灣",
+    "url": "https://www.ithome.com.tw/news/178507",
+    "published": "2026-08-28T12:08:57+00:00"
+   },
+   {
+    "title": "OpenAI提出網路集體防禦行動，獲Google、Anthropic及微軟等上百家企業呼應",
+    "summary": "OpenAI发起网络集体防御行动，获Google、Anthropic、微软等百家企业响应。应对日益成熟复杂的AI驱动网络攻击威胁。",
+    "lang": "zh",
+    "source": "iThome 台灣",
+    "url": "https://www.ithome.com.tw/news/178506",
+    "published": "2026-08-28T11:08:28+00:00"
+   },
+   {
+    "title": "Nvidia傳以129億美元併購Hugging Face",
+    "summary": "Nvidia同意以129亿美元收购开源AI平台Hugging Face。交易进度因不同媒体报道存在差异。",
+    "lang": "zh",
+    "source": "iThome 台灣",
+    "url": "https://www.ithome.com.tw/news/178502",
+    "published": "2026-08-28T11:08:16+00:00"
+   },
+   {
+    "title": "Google推出Gemini 3.5 Transcribe轉錄模型，可整理口語並區分多名說話者",
+    "summary": "Google推出Gemini 3.5 Transcribe语音转文字模型，可整理口语并区分多名说话者。该模型已在Gemini API和企业版推出。",
+    "lang": "zh",
+    "source": "iThome 台灣",
+    "url": "https://www.ithome.com.tw/news/178499",
+    "published": "2026-08-28T09:08:07+00:00"
+   }
+  ],
+  "tecnologia|europa": [
+   {
+    "title": "Trump blacklisting of \"woke\" Anthropic deemed illegal by federal judge",
+    "summary": "A federal judge ruled Trump's blacklisting of AI company Anthropic illegal. Anthropic had refused to support lethal autonomous warfare and mass surveillance.",
+    "lang": "en",
+    "source": "Ars Technica",
+    "url": "https://arstechnica.com/tech-policy/2026/08/trump-blacklisting-of-woke-anthropic-deemed-illegal-by-federal-judge/",
+    "published": "2026-08-28T18:07:55+00:00"
+   },
+   {
+    "title": "Mientras sus beneficios caen un 42%, Xiaomi acelera en el terreno más caro de todos: los chips",
+    "summary": "Los beneficios de Xiaomi caen 42% mientras acelera inversión en desarrollo de chips propios. La empresa enfrenta crisis de componentes e inflación generalizada.",
+    "lang": "es",
+    "source": "Xataka",
+    "url": "https://www.xataka.com/componentes/sus-beneficios-caen-42-xiaomi-acelera-terreno-caro-todos-chips",
+    "published": "2026-08-29T09:31:04+00:00"
+   }
+  ],
+  "tecnologia|america": [
+   {
+    "title": "The Cybersecurity Apocalypse Is Coming in ‘Months,’ AI Giants Warn",
+    "summary": "AI giants warn a cybersecurity apocalypse could occur in months. Hackers also targeted over 100 US water systems recently.",
+    "lang": "en",
+    "source": "Wired",
+    "url": "https://www.wired.com/story/security-news-this-week-the-cybersecurity-apocalypse-is-coming-in-months-ai-giants-warn/",
+    "published": "2026-08-29T10:30:00+00:00"
+   },
+   {
+    "title": "An Anthropic researcher just gave us a peek at self-improving AI",
+    "summary": "An Anthropic researcher demonstrated self-improving AI systems that enhanced performance on all 10 misaligned behavior benchmarks. Overall performance did not degrade.",
+    "lang": "en",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/08/28/an-anthropic-researcher-just-gave-us-a-peek-at-self-improving-ai/",
+    "published": "2026-08-28T19:30:38+00:00"
+   },
+   {
+    "title": "Apple One and Apple TV subscription prices increase by up to 20 percent",
+    "summary": "Apple increased subscription prices for Apple One and Apple TV by up to 20 percent. Annual Apple TV subscriptions received the largest price increase.",
+    "lang": "en",
+    "source": "Ars Technica",
+    "url": "https://arstechnica.com/gadgets/2026/08/apple-one-and-apple-tv-subscription-prices-increase-by-up-to-20-percent/",
+    "published": "2026-08-28T17:23:53+00:00"
+   },
+   {
+    "title": "Meta makes AI glasses slightly less creepy with limit on nonconsensual recording",
+    "summary": "Meta limited nonconsensual recording on its AI glasses by blocking recording when users cover the safety light. The fix addresses privacy concerns.",
+    "lang": "en",
+    "source": "Ars Technica",
+    "url": "https://arstechnica.com/tech-policy/2026/08/meta-tweaks-ai-glasses-to-block-some-creepy-recordings-but-privacy-risks-remain/",
+    "published": "2026-08-28T15:42:24+00:00"
+   },
+   {
+    "title": "Authorities arrest 2 alleged members of prolific hacking group TeamPCP",
+    "summary": "Authorities arrested two alleged members of prolific hacking group TeamPCP. The group infected over 1,000 organizations in supply-chain attacks.",
+    "lang": "en",
+    "source": "Ars Technica",
+    "url": "https://arstechnica.com/security/2026/08/authorities-arrest-2-alleged-members-of-prolific-hacking-group-teampcp/",
+    "published": "2026-08-28T11:15:05+00:00"
+   }
+  ]
+ }
+}
