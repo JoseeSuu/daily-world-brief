@@ -1,0 +1,292 @@
+{
+ "date": "2026-08-30",
+ "generated_at": "2026-08-30T10:35:50.007154+00:00",
+ "mode": "full",
+ "cost_usd": 0.0239,
+ "market": null,
+ "failed_sources": [],
+ "cells": {
+  "economia|asia": [
+   {
+    "title": "Modi’s Developed-Nation Dream Strains Against India’s Growth Gap",
+    "summary": "India's growth rate exceeds 7%, yet Modi's developed-nation ambitions require faster expansion to close the gap with advanced economies.",
+    "lang": "en",
+    "source": "Bloomberg Economics",
+    "url": "https://www.bloomberg.com/news/articles/2026-08-30/modi-s-developed-nation-dream-strains-against-india-s-growth-gap",
+    "published": "2026-08-30T02:00:05+00:00"
+   },
+   {
+    "title": "Chinese Solar Giant Longi Reports Deeper Net Loss in First Half",
+    "summary": "Longi Green Energy reported widened first-half losses alongside other Chinese solar producers, reflecting sector downturn.",
+    "lang": "en",
+    "source": "Bloomberg Markets",
+    "url": "https://www.bloomberg.com/news/articles/2026-08-30/chinese-solar-giant-longi-reports-deeper-net-loss-in-first-half",
+    "published": "2026-08-30T08:48:01+00:00"
+   },
+   {
+    "title": "TSE's startup IPOs grow bigger in market cap, hitting record",
+    "summary": "Japanese startup IPOs on the Tokyo Stock Exchange reached record market capitalizations in recent listings.",
+    "lang": "en",
+    "source": "Nikkei Asia",
+    "url": "https://asia.nikkei.com/business/markets/ipo/tse-s-startup-ipos-grow-bigger-in-market-cap-hitting-record",
+    "published": null
+   },
+   {
+    "title": "Japan defense forces to use NTT's optical network tech for communications",
+    "summary": "Japan's defense forces will adopt NTT's optical network technology for military communications infrastructure.",
+    "lang": "en",
+    "source": "Nikkei Asia",
+    "url": "https://asia.nikkei.com/politics/defense/japan-defense-forces-to-use-ntt-s-optical-network-tech-for-communications",
+    "published": null
+   }
+  ],
+  "economia|europa": [
+   {
+    "title": "Rising bond yields add tens of billions to G7 countries’ debt costs",
+    "summary": "Rising bond yields since the US-Iran conflict have increased financing costs by tens of billions for G7 developed economies.",
+    "lang": "en",
+    "source": "Financial Times",
+    "url": "https://www.ft.com/content/bbe90db5-64ac-441d-87e4-e984c5ef8629?syn-25a6b1a6=1",
+    "published": "2026-08-30T04:00:19+00:00"
+   },
+   {
+    "title": "De la austeridad al gasto contrarreloj: termina el plan de recuperación europeo que cambió la forma de salir de las crisis",
+    "summary": "España completó la distribución de 80.000 millones en subsidios del plan europeo de recuperación, cumpliendo objetivos de dinamización económica con un proceso con limitaciones.",
+    "lang": "es",
+    "source": "El País Economía",
+    "url": "https://elpais.com/economia/2026-08-30/de-la-austeridad-al-gasto-contrarreloj-termina-el-plan-de-recuperacion-europeo-que-cambio-la-forma-de-salir-de-las-crisis.html",
+    "published": "2026-08-30T03:30:01+00:00"
+   },
+   {
+    "title": "Luigi Lovaglio, el banquero de las remontadas que planta cara a Intesa Sanpaolo",
+    "summary": "Luigi Lovaglio respondió a la opa hostil de Intesa Sanpaolo sobre Monte dei Paschi con dos ofertas simultáneas por BPM y Generali.",
+    "lang": "es",
+    "source": "El País Economía",
+    "url": "https://cincodias.elpais.com/opinion/2026-08-30/luigi-lovaglio-el-banquero-de-las-remontadas-que-planta-cara-a-intesa-sanpaolo.html",
+    "published": "2026-08-30T03:40:00+00:00"
+   },
+   {
+    "title": "EU to help tourism hotspots crack down on Airbnb-style holiday rentals",
+    "summary": "The EU is supporting cities like Florence in enforcing restrictions on Airbnb-style short-term rentals, though implementation faces legal challenges.",
+    "lang": "en",
+    "source": "Financial Times",
+    "url": "https://www.ft.com/content/c4c13303-bc80-41de-81fc-65e9a70791c9?syn-25a6b1a6=1",
+    "published": "2026-08-30T04:00:11+00:00"
+   }
+  ],
+  "economia|america": [
+   {
+    "title": "Warsh puts Fed on collision course with Trump ahead of midterms",
+    "summary": "Fed Chair Warsh's hint that interest rates may rise contradicts President Trump's preference for lower borrowing costs, creating policy tension before midterm elections.",
+    "lang": "en",
+    "source": "FT Global Economy",
+    "url": "https://www.ft.com/content/69452aea-cee0-47de-be8a-dc790fed3db1?syn-25a6b1a6=1",
+    "published": "2026-08-29T12:57:12+00:00"
+   },
+   {
+    "title": "Where the US-Canada Trade War Stands After Talks Fell Apart",
+    "summary": "Collapsed US-Canada trade talks prompted sharp tensions and prompted Trump to order action against Lake border trade issues.",
+    "lang": "en",
+    "source": "Bloomberg Economics",
+    "url": "https://www.bloomberg.com/news/articles/2026-08-29/where-the-us-canada-trade-war-stands-after-talks-fell-apart",
+    "published": "2026-08-29T11:00:00+00:00"
+   },
+   {
+    "title": "Why the FCC Is Becoming America’s China Uber-Hawk: New Economy",
+    "summary": "The FCC is increasingly adopting national-security focused positions to counter Chinese economic influence in America.",
+    "lang": "en",
+    "source": "Bloomberg Economics",
+    "url": "https://www.bloomberg.com/news/newsletters/2026-08-29/why-the-fcc-is-becoming-america-s-china-uber-hawk-new-economy",
+    "published": "2026-08-29T10:45:01+00:00"
+   },
+   {
+    "title": "Can the US Defy Fiscal Gravity?",
+    "summary": "Long-term Treasury yields and real rates have climbed to 25-year highs; DWS's Bianco argues inflation is not the primary driver.",
+    "lang": "en",
+    "source": "Bloomberg Markets",
+    "url": "https://www.bloomberg.com/news/videos/2026-08-29/can-the-us-defy-fiscal-gravity-video",
+    "published": "2026-08-29T14:13:00+00:00"
+   }
+  ],
+  "politica|asia": [
+   {
+    "title": "伊朗最高領袖神隱半年罕見發聲 籲穆斯林共抗美以",
+    "summary": "伊朗最高领袖哈梅内伊发表书面声明，呼吁穆斯林国家团结对抗美国和以色列。",
+    "lang": "zh",
+    "source": "中央社 CNA",
+    "url": "https://www.cna.com.tw/news/aopl/202608300125.aspx",
+    "published": "2026-08-30T08:59:39+00:00"
+   },
+   {
+    "title": "Iran's Khamenei urges Gulf rulers in written message to confront 'real enemy'",
+    "summary": "Iran's Khamenei issued a written message urging Gulf rulers to unite against the United States and Israel.",
+    "lang": "en",
+    "source": "Channel NewsAsia",
+    "url": "https://www.channelnewsasia.com/world/iran-khamenei-message-gulf-rulers-confront-real-enemy-6350241",
+    "published": "2026-08-30T08:47:00+00:00"
+   },
+   {
+    "title": "Xi, Putin to meet in Bishkek for Power of Siberia 2 pipeline talks: Kremlin",
+    "summary": "Chinese President Xi Jinping and Russian leader Vladimir Putin are expected to meet in Bishkek on Monday to discuss the Power of Siberia 2 pipeline project.",
+    "lang": "en",
+    "source": "South China Morning Post (China)",
+    "url": "https://www.scmp.com/news/china/diplomacy/article/3365710/xi-putin-meet-bishkek-power-siberia-2-pipeline-talks-kremlin?utm_source=rss_feed",
+    "published": "2026-08-29T13:00:11+00:00"
+   }
+  ],
+  "politica|europa": [
+   {
+    "title": "At least 37 dead and hundreds evacuated after strike on Kyiv weapons depot",
+    "summary": "A Russian strike on a Kyiv weapons depot killed at least 37 people and prompted evacuation of hundreds, triggering investigation into weapons storage near residential areas.",
+    "lang": "en",
+    "source": "BBC World",
+    "url": "https://www.bbc.co.uk/news/articles/c86xwqez4npo?at_medium=RSS&at_campaign=rss",
+    "published": "2026-08-29T20:13:16+00:00"
+   },
+   {
+    "title": "Greece, Turkey clash over protected Aegean marine areas",
+    "summary": "Turkey announced creation of two protected marine zones in disputed Aegean waters, triggering angry Greek opposition.",
+    "lang": "en",
+    "source": "Deutsche Welle World",
+    "url": "https://www.dw.com/en/greece-turkey-clash-over-protected-aegean-marine-areas/a-78550021?maca=en-rss-en-world-4025-rdf",
+    "published": "2026-08-30T09:07:00+00:00"
+   },
+   {
+    "title": "Iceland rejects bid to resume EU membership talks",
+    "summary": "Icelanders rejected EU membership talks in a referendum dominated by sovereignty concerns and debates over national independence.",
+    "lang": "en",
+    "source": "Le Monde International",
+    "url": "https://www.lemonde.fr/en/international/article/2026/08/30/iceland-rejects-bid-to-resume-eu-membership-talks_6756985_4.html",
+    "published": "2026-08-30T10:07:30+00:00"
+   }
+  ],
+  "politica|america": [
+   {
+    "title": "Trump hails 'historic' deal for US to control 65bn barrels of Venezuela's oil",
+    "summary": "Trump announced a historic agreement granting the US control of Venezuela's 65 billion barrels of oil reserves to revive Venezuela's economy.",
+    "lang": "en",
+    "source": "BBC World",
+    "url": "https://www.bbc.co.uk/news/articles/cx2zlwe7qj1o?at_medium=RSS&at_campaign=rss",
+    "published": "2026-08-30T04:01:02+00:00"
+   },
+   {
+    "title": "Russian strike near Kyiv kills 37, in one of the year's deadliest attacks",
+    "summary": "A Russian strike near Kyiv killed 37 people in one of the year's deadliest attacks amid 72 hours of continuous Ukrainian drone strikes.",
+    "lang": "en",
+    "source": "NPR World",
+    "url": "https://www.npr.org/2026/08/29/nx-s1-5948714/russian-strike-kyiv",
+    "published": "2026-08-29T15:54:40+00:00"
+   },
+   {
+    "title": "厄瓜多因聖嬰現象宣布緊急狀態 拉丁美洲第5國",
+    "summary": "厄瓜多因圣婴现象宣布全国进入紧急状态，成为拉丁美洲第五个因此宣告的国家，官员警告这可能是有记录以来最强的圣婴现象。",
+    "lang": "zh",
+    "source": "中央社 CNA",
+    "url": "https://www.cna.com.tw/news/aopl/202608300122.aspx",
+    "published": "2026-08-30T08:49:33+00:00"
+   }
+  ],
+  "tecnologia|asia": [
+   {
+    "title": "IBM 與 OpenAI 建立策略合作關係，加速企業核心營運安全部署 AI",
+    "summary": "IBM与OpenAI建立战略合作关系，将在企业核心运营和复杂工作流程中大规模部署人工智能应用。",
+    "lang": "zh",
+    "source": "科技新報 TechNews",
+    "url": "https://infosecu.technews.tw/2026/08/30/ibm-openai-forge-strategic-partnership-accelerate-secure-ai-deployment-enterprise-core-operations/",
+    "published": "2026-08-30T06:00:13+00:00"
+   },
+   {
+    "title": "AI 吃電怪獸逼出全球電網重整！全球瘋搶變壓器，台廠靠快交期突圍",
+    "summary": "全球对变压器需求激增，因人工智能用电量巨大导致电网重整，台湾电力设备商凭借快速交期突出重围。",
+    "lang": "zh",
+    "source": "科技新報 TechNews",
+    "url": "https://technews.tw/2026/08/30/ai-power-hungry-nature-forces-global-grid-overhaul-world-scrambles-transformers-taiwanese-firms-emerge-fast-delivery/",
+    "published": "2026-08-30T07:00:41+00:00"
+   },
+   {
+    "title": "科技巨頭決戰空中，亞馬遜、Uber、DoorDash 與沃爾瑪引爆無人機外送大戰",
+    "summary": "亚马逊、Uber、DoorDash与沃尔玛在美国掀起无人机外送大战，竞争战场从街道转向天空。",
+    "lang": "zh",
+    "source": "科技新報 TechNews",
+    "url": "https://technews.tw/2026/08/30/amazon-uber-doordash-walmart-ignite-drone-delivery-war/",
+    "published": "2026-08-30T07:30:41+00:00"
+   },
+   {
+    "title": "AI 化身「政治變色龍」，最新研究警告：大型語言模型恐加劇社會兩極化",
+    "summary": "最新研究警告大型语言模型可能加剧社会两极化，人们日益依赖生成式AI获取信息与分析。",
+    "lang": "zh",
+    "source": "科技新報 TechNews",
+    "url": "https://technews.tw/2026/08/30/ai-ideological-chameleon-exacerbates-political-polarization/",
+    "published": "2026-08-30T06:00:16+00:00"
+   }
+  ],
+  "tecnologia|europa": [
+   {
+    "title": "Sony y Warner demandan a Anthropic: ya pagó 1.500 millones por libros pirateados, ahora le piden 150.000 dólares por canción",
+    "summary": "Sony Music Publishing y Warner Chappell Music demandan a Anthropic por uso no autorizado de canciones, sumándose a litigio previo por libros pirateados.",
+    "lang": "es",
+    "source": "Xataka",
+    "url": "https://www.xataka.com/robotica-e-ia/sony-warner-demandan-a-anthropic-pago-1-500-millones-libros-pirateados-ahora-le-piden-150-000-dolares-cancion",
+    "published": "2026-08-30T07:17:04+00:00"
+   },
+   {
+    "title": "Nadie sabe quién es Jabaroot, pero es el responsable de la mayor filtración de datos de la inteligencia de Marruecos tras la crisis de Ceuta",
+    "summary": "Jabaroot, responsable de la mayor filtración de datos de inteligencia marroquí tras la crisis de Ceuta, continúa siendo una pesadilla para la administración marroquí.",
+    "lang": "es",
+    "source": "Xataka",
+    "url": "https://www.xataka.com/seguridad/nadie-sabe-quien-jabaroot-responsable-mayor-filtracion-datos-inteligencia-marruecos-crisis-ceuta",
+    "published": "2026-08-30T10:31:03+00:00"
+   },
+   {
+    "title": "Nos hemos pasado tres años preocupados por si la IA alucina. Ahora el problema es que haga cosas",
+    "summary": "Tras tres años preocupados por alucinaciones de IA, el nuevo problema es que la IA realice acciones no deseadas, como código malicioso detectado en repositorio de código abierto.",
+    "lang": "es",
+    "source": "Xataka",
+    "url": "https://www.xataka.com/robotica-e-ia/nos-hemos-pasado-tres-anos-preocupados-ia-alucina-ahora-problema-que-haga-cosas",
+    "published": "2026-08-30T09:01:04+00:00"
+   },
+   {
+    "title": "El 'ladrillo' que enfría edificios hasta 15 grados sin aire acondicionado: la tecnología india que recupera el truco del botijo",
+    "summary": "Una tecnología india inspira en el botijo permite enfriar edificios hasta 15 grados sin aire acondicionado, ofreciendo solución ante olas de calor en España y otros países.",
+    "lang": "es",
+    "source": "Xataka",
+    "url": "https://www.xataka.com/energia/ladrillo-que-enfria-edificios-15-grados-aire-acondicionado-tecnologia-india-que-recupera-truco-botijo",
+    "published": "2026-08-30T07:31:04+00:00"
+   }
+  ],
+  "tecnologia|america": [
+   {
+    "title": "Sony Music, Warner sue Anthropic, alleging a “brazen campaign” of intellectual property theft",
+    "summary": "Sony Music and Warner filed suit against Anthropic, alleging systematic intellectual property theft through brazen piracy campaign.",
+    "lang": "en",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/08/29/sony-music-warner-sue-anthropic-alleging-a-brazen-campaign-of-intellectual-property-theft/",
+    "published": "2026-08-29T18:41:59+00:00"
+   },
+   {
+    "title": "Nvidia’s AI advantage is moving beyond the GPU",
+    "summary": "Nvidia's AI advantage expands beyond GPUs as new data center systems improve efficiency through intelligent traffic control rather than processor cycles alone.",
+    "lang": "en",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/08/29/nvidias-ai-advantage-is-moving-beyond-the-gpu/",
+    "published": "2026-08-29T13:00:00+00:00"
+   },
+   {
+    "title": "The Cybersecurity Apocalypse Is Coming in ‘Months,’ AI Giants Warn",
+    "summary": "AI security experts warn of a cybersecurity crisis arriving in months; hackers targeted over 100 US water systems and ICE ordered robot dogs.",
+    "lang": "en",
+    "source": "Wired",
+    "url": "https://www.wired.com/story/security-news-this-week-the-cybersecurity-apocalypse-is-coming-in-months-ai-giants-warn/",
+    "published": "2026-08-29T10:30:00+00:00"
+   },
+   {
+    "title": "Scientists Create the Littlest Big Bang to Study the Universe's Origins",
+    "summary": "Scientists created the smallest big bang simulation to study universe origins, redefining atomic scale requirements for extreme matter states.",
+    "lang": "en",
+    "source": "Wired",
+    "url": "https://www.wired.com/story/scientists-create-littlest-big-bang-to-study-universe-origins/",
+    "published": "2026-08-30T09:00:00+00:00"
+   }
+  ]
+ }
+}
