@@ -1,0 +1,340 @@
+{
+ "date": "2026-09-01",
+ "generated_at": "2026-09-01T10:19:45.665485+00:00",
+ "mode": "full",
+ "cost_usd": 0.0276,
+ "market": null,
+ "failed_sources": [],
+ "cells": {
+  "economia|asia": [
+   {
+    "title": "India’s Economy Grows Faster Than Expected at 7.8%",
+    "summary": "India's economy grew 7.8% in the last quarter, exceeding expectations despite energy shocks. Growth defied external pressures, suggesting strong underlying economic momentum.",
+    "lang": "en",
+    "source": "Bloomberg Economics",
+    "url": "https://www.bloomberg.com/news/videos/2026-09-01/india-s-economy-grows-faster-than-expected-at-7-8-video",
+    "published": "2026-09-01T08:20:49+00:00"
+   },
+   {
+    "title": "China warns its EV makers against launching price wars abroad",
+    "summary": "China warns its EV makers against launching price wars abroad to protect industry competitiveness. Government guidance aims to prevent destructive pricing competition globally.",
+    "lang": "en",
+    "source": "Nikkei Asia",
+    "url": "https://asia.nikkei.com/business/automobiles/china-warns-its-ev-makers-against-launching-price-wars-abroad",
+    "published": null
+   },
+   {
+    "title": "Fast-fashion retailer Shein falls flat after long-awaited Hong Kong IPO",
+    "summary": "Fast-fashion retailer Shein's long-awaited Hong Kong IPO underperformed market expectations. The listing marks a significant setback for the Chinese e-commerce company.",
+    "lang": "en",
+    "source": "Nikkei Asia",
+    "url": "https://asia.nikkei.com/business/markets/ipo/fast-fashion-retailer-shein-falls-flat-after-long-awaited-hong-kong-ipo",
+    "published": null
+   },
+   {
+    "title": "Japan benchmark bond yield hits 30-year high of 3% amid global debt selloff",
+    "summary": "Japan's benchmark bond yield hit 30-year high of 3% amid global debt selloff. Rising yields reflect broader market pressures and inflation concerns.",
+    "lang": "en",
+    "source": "Nikkei Asia",
+    "url": "https://asia.nikkei.com/business/markets/bonds/japan-benchmark-bond-yield-hits-30-year-high-of-3-amid-global-debt-selloff",
+    "published": null
+   },
+   {
+    "title": "Exclusive: Ajinomoto, Daikin expand chip materials ties with Taiwan",
+    "summary": "Ajinomoto and Daikin expand chip materials partnerships with Taiwan. Japanese companies deepen supply chain ties in semiconductor materials sector.",
+    "lang": "en",
+    "source": "Nikkei Asia",
+    "url": "https://asia.nikkei.com/business/technology/exclusive-ajinomoto-daikin-expand-chip-materials-ties-with-taiwan",
+    "published": null
+   }
+  ],
+  "economia|europa": [
+   {
+    "title": "Eurozone inflation rises to 3.3% in August",
+    "summary": "Eurozone inflation rose to 3.3% in August as energy prices increased. ECB expected to raise rates next week to combat price pressures.",
+    "lang": "en",
+    "source": "Financial Times",
+    "url": "https://www.ft.com/content/1b4d308c-3d49-4794-8280-187615c21876?syn-25a6b1a6=1",
+    "published": "2026-09-01T09:40:24+00:00"
+   },
+   {
+    "title": "El turismo repunta en julio y vive el mejor mes de la historia con 11,5 millones de viajeros",
+    "summary": "España registró 11,5 millones de viajeros en julio con gasto disparado 11%, su mejor mes histórico. Las llegadas crecieron 4,6%, impulsadas principalmente por subida de precios.",
+    "lang": "es",
+    "source": "El País Economía",
+    "url": "https://elpais.com/economia/2026-09-01/el-turismo-repunta-en-julio-y-vive-el-mejor-mes-de-la-historia-con-115-millones-de-viajeros.html",
+    "published": "2026-09-01T08:20:41+00:00"
+   },
+   {
+    "title": "Ikea cuts prices in Europe by €1.2bn to counter cost of living crisis",
+    "summary": "Ikea cut prices on 1,500 products across 20 European countries by €1.2 billion. Move addresses consumer confidence crisis amid cost of living pressures.",
+    "lang": "en",
+    "source": "FT Global Economy",
+    "url": "https://www.ft.com/content/d3dc2303-6c8c-4681-b045-25005537f455?syn-25a6b1a6=1",
+    "published": "2026-09-01T07:00:09+00:00"
+   },
+   {
+    "title": "Hacienda rechaza los recursos de la gran banca para rebajar la cuota del impuesto sectorial",
+    "summary": "Hacienda rechaza recursos de bancos para reducir cuota del impuesto sectorial. El TEAC desestimó argumentos de entidades y avaló liquidaciones de la Agencia Tributaria.",
+    "lang": "es",
+    "source": "El País Economía",
+    "url": "https://elpais.com/economia/2026-09-01/hacienda-rechaza-los-recursos-de-la-gran-banca-para-rebajar-la-cuota-del-impuesto-sectorial.html",
+    "published": "2026-09-01T03:30:01+00:00"
+   },
+   {
+    "title": "Tregua comercial como propósito, gobernanza de la IA como estrategia",
+    "summary": "Control tecnológico emerge como nuevo terreno de disputa entre Washington y Pekín. Gobernanza de IA se consolida como estrategia clave en tregua comercial.",
+    "lang": "es",
+    "source": "El País Economía",
+    "url": "https://cincodias.elpais.com/opinion/2026-09-01/tregua-comercial-como-proposito-gobernanza-de-la-ia-como-estrategia.html",
+    "published": "2026-09-01T03:40:00+00:00"
+   }
+  ],
+  "economia|america": [
+   {
+    "title": "Global bond sell-off deepens amid inflation fears",
+    "summary": "Global bond sell-off deepened amid inflation fears, with UK borrowing costs at 2008 highs. Japan yields reached 1990s levels as investors reassess rate expectations.",
+    "lang": "en",
+    "source": "Financial Times",
+    "url": "https://www.ft.com/content/e6f5f97a-b199-444e-aaec-b8199359b08e?syn-25a6b1a6=1",
+    "published": "2026-09-01T09:31:44+00:00"
+   },
+   {
+    "title": "US 30-Year Bond Enters September on Worst Stretch Since 2006",
+    "summary": "US 30-year Treasury yields hit highest levels since 2006 for extended period. Gaping budget deficit and corporate issuance pressure long-maturity bonds.",
+    "lang": "en",
+    "source": "Bloomberg Markets",
+    "url": "https://www.bloomberg.com/news/articles/2026-09-01/us-30-year-bond-enters-september-on-its-worst-stretch-since-2006",
+    "published": "2026-09-01T01:06:47+00:00"
+   },
+   {
+    "title": "US Stocks Fall as Yields Climb on Rate Hike Bets: Markets Wrap",
+    "summary": "US stocks fell as rising yields spurred rate hike bets; oil prices pushed global bond yields higher. September opened weakly amid inflation and monetary tightening concerns.",
+    "lang": "en",
+    "source": "Bloomberg Markets",
+    "url": "https://www.bloomberg.com/news/articles/2026-08-31/asian-stocks-to-fall-as-iran-flare-up-boosts-oil-markets-wrap",
+    "published": "2026-08-31T22:06:14+00:00"
+   }
+  ],
+  "politica|asia": [
+   {
+    "title": "Xi Jinping calls on SCO members to team up for bigger global tech-security role",
+    "summary": "Xi Jinping urged Shanghai Cooperation Organisation members to expand global role in technology and security. Chinese president emphasized Eurasian bloc's strategic importance.",
+    "lang": "en",
+    "source": "South China Morning Post (China)",
+    "url": "https://www.scmp.com/news/china/diplomacy/article/3365957/xi-raises-universal-security-mission-sco-putin-modi-meet-kyrgyzstan?utm_source=rss_feed",
+    "published": "2026-09-01T07:32:21+00:00"
+   },
+   {
+    "title": "Putin-Modi meeting at SCO: Can Russia-India ties hold?",
+    "summary": "Modi and Putin met at SCO summit in Kyrgyzstan as Russia-India relations face rising tensions. Meeting tests diplomatic ties amid geopolitical pressures.",
+    "lang": "en",
+    "source": "Deutsche Welle World",
+    "url": "https://www.dw.com/en/putin-modi-meeting-at-sco-can-russia-india-ties-hold/a-78575121?maca=en-rss-en-world-4025-rdf",
+    "published": "2026-08-31T12:02:00+00:00"
+   },
+   {
+    "title": "印度單季GDP成長7.8% 莫迪籲續用國貨與服務",
+    "summary": "印度总理莫迪庆贺今年第二季GDP增长7.8%，再次呼吁民众选用国产品和服务。增长数据显示经济保持强劲势头。",
+    "lang": "zh",
+    "source": "中央社 CNA",
+    "url": "https://www.cna.com.tw/news/aopl/202609010201.aspx",
+    "published": "2026-09-01T07:57:50+00:00"
+   },
+   {
+    "title": "G20部長級會議揭幕 美擬促各方採取寬鬆AI監管原則",
+    "summary": "全球科技巨头齐聚北卡州参加G20部长级会议，讨论AI监管原则。美国拟促各方采取宽松AI监管政策。",
+    "lang": "zh",
+    "source": "中央社 CNA",
+    "url": "https://www.cna.com.tw/news/aopl/202609010200.aspx",
+    "published": "2026-09-01T07:56:48+00:00"
+   },
+   {
+    "title": "BYD's sales extend growth streak on strong exports",
+    "summary": "BYD's vehicle sales continue growth streak driven by strong export performance. Chinese EV maker maintains momentum in global markets.",
+    "lang": "en",
+    "source": "Channel NewsAsia",
+    "url": "https://www.channelnewsasia.com/business/byds-sales-extend-growth-streak-strong-exports-6354546",
+    "published": "2026-09-01T09:20:16+00:00"
+   }
+  ],
+  "politica|europa": [
+   {
+    "title": "Russian drone and missile barrage kills at least 12 in Ukraine’s Kyiv",
+    "summary": "Russian drone and missile barrage killed at least 12 in Kyiv as attacks escalate. EU defence ministers met in Ireland to address Ukraine air defence gaps.",
+    "lang": "en",
+    "source": "Al Jazeera English",
+    "url": "https://www.aljazeera.com/news/2026/9/1/russian-drone-and-missile-barrage-kills-at-least-12-in-ukraines-kyiv?traffic_source=rss",
+    "published": "2026-09-01T08:57:48+00:00"
+   },
+   {
+    "title": "Tariffs spat: Carney bets Canada can defy Trump",
+    "summary": "Canada faces new US import penalties after PM Carney refused to match US tariffs on China. Other nations watch as Trump trade disputes intensify.",
+    "lang": "en",
+    "source": "Deutsche Welle World",
+    "url": "https://www.dw.com/en/tariffs-spat-carney-bets-canada-can-defy-trump/a-78542754?maca=en-rss-en-world-4025-rdf",
+    "published": "2026-08-31T13:38:00+00:00"
+   },
+   {
+    "title": "Deceived and deployed: How young Cameroonians end up fighting in Russia's war in Ukraine",
+    "summary": "Economic desperation and fraudulent recruitment schemes funnel Cameroonian youth into Russian military in Ukraine war. Young soldiers face deadly consequences fighting abroad.",
+    "lang": "en",
+    "source": "Deutsche Welle World",
+    "url": "https://www.dw.com/en/deceived-and-deployed-how-young-cameroonians-end-up-fighting-in-russia-s-war-in-ukraine/a-78513256?maca=en-rss-en-world-4025-rdf",
+    "published": "2026-08-31T13:39:00+00:00"
+   },
+   {
+    "title": "Niger's failed coup exposes cracks in the military — and Russia's influence",
+    "summary": "Niger's failed coup exposed deep military divisions while highlighting Russia's fading influence. Soldiers continue facing jihadi threats amid institutional instability.",
+    "lang": "en",
+    "source": "Deutsche Welle World",
+    "url": "https://www.dw.com/en/niger-s-failed-coup-exposes-cracks-in-the-military-and-russia-s-influence/a-78572278?maca=en-rss-en-world-4025-rdf",
+    "published": "2026-08-31T11:32:00+00:00"
+   },
+   {
+    "title": "Tunisia faces severe bottled water shortage after scorching August",
+    "summary": "Tunisia faces severe bottled water shortage after scorching August temperatures. Supermarket shelves emptied for weeks in water-dependent nation.",
+    "lang": "en",
+    "source": "Le Monde International",
+    "url": "https://www.lemonde.fr/en/le-monde-africa/article/2026/09/01/tunisia-faces-severe-bottled-water-shortage-after-scorching-august_6757034_124.html",
+    "published": "2026-09-01T01:31:55+00:00"
+   }
+  ],
+  "politica|america": [
+   {
+    "title": "Global finance ministers gather in North Carolina for G-20 summit",
+    "summary": "Global finance ministers gathered in North Carolina for G-20 summit this week. Russia's top economic official made in-person appearance despite geopolitical tensions.",
+    "lang": "en",
+    "source": "NPR World",
+    "url": "https://www.npr.org/2026/09/01/nx-s1-5950481/global-finance-ministers-gather-in-north-carolina-for-g-20-summit",
+    "published": "2026-09-01T08:46:27+00:00"
+   },
+   {
+    "title": "Days after Trump announces Venezuela oil deal, White House fills in some of the details",
+    "summary": "White House detailed Trump's Venezuela oil deal involving private joint venture with North American Blue Energy Partners. Venezuelan businessman Alejandro Betancourt involved in arrangement.",
+    "lang": "en",
+    "source": "NPR World",
+    "url": "https://www.npr.org/2026/09/01/g-s1-141351/us-venezuelan-oil-deal",
+    "published": "2026-09-01T08:30:07+00:00"
+   },
+   {
+    "title": "Trump's plan for economic D-day for Iran has one big hole: China",
+    "summary": "Trump administration seeks voluntary cuts in countries' business with Iran to tighten economic pressure. China, most critical partner, already refuses cooperation.",
+    "lang": "en",
+    "source": "NPR World",
+    "url": "https://www.npr.org/2026/08/31/nx-s1-5950325/trumps-plan-for-economic-d-day-for-iran-has-one-big-hole-china",
+    "published": "2026-08-31T20:48:03+00:00"
+   },
+   {
+    "title": "中國將制止俄羅斯用核武對付烏克蘭？北京稱繼續勸和促談",
+    "summary": "中国外长曾向芬兰总统保证制止俄罗斯在乌克兰战争中使用核武。北京表示将继续勸和促谈，推动政治解决。",
+    "lang": "zh",
+    "source": "中央社 CNA",
+    "url": "https://www.cna.com.tw/news/aopl/202609010237.aspx",
+    "published": "2026-09-01T08:50:07+00:00"
+   },
+   {
+    "title": "Nepal's hesitance to accept foreign help for flood relief comes under scrutiny",
+    "summary": "Nepal's private sector power producers criticized authorities for delaying rescue of hundreds trapped in hydropower tunnels. Country hesitant to accept foreign flood relief help.",
+    "lang": "en",
+    "source": "NPR World",
+    "url": "https://www.npr.org/2026/08/31/nx-s1-5949971/nepals-hesitance-help-flood",
+    "published": "2026-08-31T11:50:17+00:00"
+   }
+  ],
+  "tecnologia|america": [
+   {
+    "title": "John Ternus is now the CEO of Apple",
+    "summary": "John Ternus became Apple's new CEO, first leadership change since 2011 for tech giant. Ternus replaces Tim Cook as head of world's most valuable company.",
+    "lang": "en",
+    "source": "The Verge",
+    "url": "https://www.theverge.com/tech/987150/apple-ceo-john-ternus",
+    "published": "2026-09-01T10:04:02+00:00"
+   },
+   {
+    "title": "OpenAI supports California’s bill to advance youth AI safety",
+    "summary": "OpenAI supports California SB 1119 to advance age-appropriate AI safeguards for youth. Legislation balances safety with opportunities for learning and exploration.",
+    "lang": "en",
+    "source": "OpenAI News",
+    "url": "https://openai.com/index/supporting-california-bill-advance-ai-youth-safety",
+    "published": "2026-08-31T07:00:00+00:00"
+   },
+   {
+    "title": "The Hugging Face hack could indicate cultural issues at OpenAI",
+    "summary": "Hugging Face hack may indicate cultural issues at OpenAI among AI companies. Incident raises questions about security practices in AI development sector.",
+    "lang": "en",
+    "source": "MIT Technology Review",
+    "url": "https://www.technologyreview.com/2026/08/31/1143180/hugging-face-hack-could-indicate-cultural-issues-at-openai/",
+    "published": "2026-08-31T18:00:00+00:00"
+   },
+   {
+    "title": "Apple shares ‘shocking evidence’ against former employee accused of stealing company data for OpenAI",
+    "summary": "Apple claims evidence shows former employee destroyed data theft records after investigation notice. Company accuses worker of stealing data for OpenAI.",
+    "lang": "en",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/08/31/apple-shares-shocking-evidence-against-former-employee-accused-of-stealing-company-data-for-openai/",
+    "published": "2026-09-01T00:13:00+00:00"
+   },
+   {
+    "title": "FTC lawsuit alleges Amazon has been ‘secretly and systematically’ overcharging for ads",
+    "summary": "FTC and 22 state attorneys general sued Amazon for allegedly using secret ad surcharge. Lawsuit alleges systematic overcharging for website and app advertising.",
+    "lang": "en",
+    "source": "The Verge",
+    "url": "https://www.theverge.com/tech/986982/amazon-advertising-prices-ftc-lawsuit",
+    "published": "2026-08-31T21:41:42+00:00"
+   }
+  ],
+  "tecnologia|europa": [
+   {
+    "title": "OpenAI carga contra Apple: \"El lío es solo suyo\"",
+    "summary": "OpenAI carga contra Apple por litigio desencadenado tras su incursión en dispositivos consumo. Demanda presentada a mediados de julio marca enfrentamiento inesperado.",
+    "lang": "es",
+    "source": "Xataka",
+    "url": "https://www.xataka.com/empresas-y-economia/openai-carga-apple-lio-solo-suyo",
+    "published": "2026-09-01T09:45:57+00:00"
+   }
+  ],
+  "tecnologia|asia": [
+   {
+    "title": "勒索軟體Aurora同時借助Cursor AI與Claude Sonnet的力量，鎖定ESXi環境加密檔案",
+    "summary": "勒索软件Aurora借助Cursor AI和Claude Sonnet攻击ESXi环境，截至7月已感染超20家企业。攻击者使用AI编码工具并用俄语对话规划攻击。",
+    "lang": "zh",
+    "source": "iThome 台灣",
+    "url": "https://www.ithome.com.tw/news/178592",
+    "published": "2026-09-01T04:09:53+00:00"
+   },
+   {
+    "title": "Anthropic調整Claude Code每周用量上限，9月14日起較目前減少17%",
+    "summary": "Anthropic调整Claude Code使用上限，9月14日起实际可用额度将减少约17%。用户原享50%临时加码将被取消。",
+    "lang": "zh",
+    "source": "iThome 台灣",
+    "url": "https://www.ithome.com.tw/news/178590",
+    "published": "2026-09-01T04:09:50+00:00"
+   },
+   {
+    "title": "FSB警告AI可能會破壞全球金融穩定",
+    "summary": "金融稳定委员会主席警告前沿AI模型与高杠杆结合威胁全球金融稳定。AI崛起正让金融风险版图趋复杂，恐冲击市场信心。",
+    "lang": "zh",
+    "source": "iThome 台灣",
+    "url": "https://www.ithome.com.tw/news/178584",
+    "published": "2026-09-01T03:09:25+00:00"
+   },
+   {
+    "title": "中國 AI 短劇爆量逾 98% 無法回本，微短劇新規 9 月實施加強監管",
+    "summary": "中国AI短劇今年上半年产量达22万部，其中98.7%無法回本，产業面临严峻困境。微短劇新規9月实施加强监管。",
+    "lang": "zh",
+    "source": "科技新報 TechNews",
+    "url": "https://technews.tw/2026/09/01/china-ai-micro-dramas-98-percent-unprofitable-new-regulations-september/",
+    "published": "2026-09-01T09:30:36+00:00"
+   },
+   {
+    "title": "OpenAI ChatGPT Ads年化收入突破10億美元",
+    "summary": "OpenAI宣布ChatGPT Ads上线约200天年化收入突破10亿美元。廣告業務獲數万家廣告主青睞。",
+    "lang": "zh",
+    "source": "iThome 台灣",
+    "url": "https://www.ithome.com.tw/news/178582",
+    "published": "2026-09-01T03:09:54+00:00"
+   }
+  ]
+ }
+}
