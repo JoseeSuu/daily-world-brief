@@ -1,0 +1,324 @@
+{
+ "date": "2026-09-02",
+ "generated_at": "2026-09-02T09:48:48.527555+00:00",
+ "mode": "full",
+ "cost_usd": 0.0288,
+ "market": null,
+ "failed_sources": [],
+ "cells": {
+  "economia|asia": [
+   {
+    "title": "BOJ Board Hawk Takata Keeps Door Open for Outsized Rate Hike",
+    "summary": "El miembro halcón del Banco de Japón Hajime Takata dejó abierta la puerta a aumentos de tasa más grandes e incrementos consecutivos. Sus comentarios sugieren posibles cambios en la política monetaria japonesa.",
+    "lang": "en",
+    "source": "Bloomberg Economics",
+    "url": "https://www.bloomberg.com/news/articles/2026-09-02/boj-board-hawk-calls-for-nimble-hikes-to-prevent-price-risks",
+    "published": "2026-09-02T01:49:58+00:00"
+   },
+   {
+    "title": "BOJ chief says rate hikes on table at every meeting, including this month's",
+    "summary": "El gobernador del Banco de Japón indicó que los aumentos de tasas están sobre la mesa en cada reunión. El banco considera subidas de tasas incluso en la junta de este mes.",
+    "lang": "en",
+    "source": "Nikkei Asia",
+    "url": "https://asia.nikkei.com/economy/bank-of-japan/boj-chief-says-rate-hikes-on-table-at-every-meeting-including-this-month-s",
+    "published": null
+   },
+   {
+    "title": "韩国、沙特油轮在霍尔木兹海峡遇袭",
+    "summary": "油轮在霍尔木兹海峡遭袭事件增加，尽管美国声称其军队在引导船只安全通过。韩国和沙特的油轮成为最近目标。",
+    "lang": "zh",
+    "source": "FT中文网",
+    "url": "https://www.ftchinese.com/story/001110773",
+    "published": "2026-09-01T16:00:00+00:00"
+   },
+   {
+    "title": "Google to speed up chip rollout to stay ahead in AI, technology chief says",
+    "summary": "Google acelerará su lanzamiento de chips para mantenerse a la vanguardia de la IA, según su director de tecnología. La estrategia busca cerrar la brecha competitiva en el desarrollo de tecnología de IA.",
+    "lang": "en",
+    "source": "Nikkei Asia",
+    "url": "https://asia.nikkei.com/business/technology/artificial-intelligence/google-to-speed-up-chip-rollout-to-stay-ahead-in-ai-technology-chief-says",
+    "published": null
+   }
+  ],
+  "economia|europa": [
+   {
+    "title": "ECB must be prepared to lift interest rates further, says top policymaker",
+    "summary": "Gabriel Makhlouf del BCE señaló que debe estar preparado para subir tasas más. La inflación de la eurozona superior al 3% y el crecimiento robusto lo mantienen preocupado.",
+    "lang": "en",
+    "source": "FT Global Economy",
+    "url": "https://www.ft.com/content/2a41f6a2-468b-44ae-bee7-a6159186c83c?syn-25a6b1a6=1",
+    "published": "2026-09-02T04:00:26+00:00"
+   },
+   {
+    "title": "Nagel Signals ECB Will Hike Next Week, Cautious Beyond That",
+    "summary": "Joachim Nagel del BCE indicó que subirán tasas la próxima semana pero fue cauteloso sobre lo que viene después. Los comentarios reflejan incertidumbre sobre futuras decisiones monetarias.",
+    "lang": "en",
+    "source": "Bloomberg Economics",
+    "url": "https://www.bloomberg.com/news/articles/2026-09-02/nagel-signals-ecb-will-hike-next-week-cautious-beyond-that",
+    "published": "2026-09-02T06:03:01+00:00"
+   },
+   {
+    "title": "Greek Stocks Crown Comeback With Promotion to Europe’s Top Index",
+    "summary": "Grecia regresó a la categoría superior de mercados europeos, abriendo puertas para que sus mayores empresas se unan al índice de referencia de la región. El retorno marca un hito importante para la economía griega.",
+    "lang": "en",
+    "source": "Bloomberg Markets",
+    "url": "https://www.bloomberg.com/news/articles/2026-09-02/greek-stocks-crown-comeback-with-promotion-to-europe-s-top-index",
+    "published": "2026-09-02T09:11:20+00:00"
+   },
+   {
+    "title": "European gas prices hit three-year high",
+    "summary": "Los precios del gas europeo alcanzaron máximos de tres años tras la escalada entre Estados Unidos e Irán. La reanudación de hostilidades genera temores de un conflicto más amplio que afecte el suministro energético.",
+    "lang": "en",
+    "source": "Financial Times",
+    "url": "https://www.ft.com/content/f73c2c95-5c73-4b2f-9f00-9fa8c12c10c9?syn-25a6b1a6=1",
+    "published": "2026-09-02T08:36:49+00:00"
+   }
+  ],
+  "economia|america": [
+   {
+    "title": "US launches further strikes on Iran as conflict flares up",
+    "summary": "Estados Unidos lanzó ataques adicionales contra Irán mientras el conflicto se intensifica en Oriente Medio. La escalada impulsa precios de petróleo más altos e inquieta a inversores sobre presiones inflacionarias.",
+    "lang": "en",
+    "source": "Financial Times",
+    "url": "https://www.ft.com/content/c557ccc2-9fe7-4725-8a1c-c40a0948e8d3?syn-25a6b1a6=1",
+    "published": "2026-09-02T07:35:21+00:00"
+   },
+   {
+    "title": "Bessent Says China Prevented G20 Communique Over Imbalance Spat",
+    "summary": "El Secretario del Tesoro Scott Bessent informó que China bloqueó un comunicado conjunto del G20. China se opuso debido a desacuerdos sobre desequilibrios económicos globales.",
+    "lang": "en",
+    "source": "Bloomberg Economics",
+    "url": "https://www.bloomberg.com/news/articles/2026-09-01/bessent-says-china-prevented-g20-communique-over-imbalance-spat",
+    "published": "2026-09-01T23:37:22+00:00"
+   },
+   {
+    "title": "RBNZ Delivers Back-to-Back Hikes in Challenge for Luxon Campaign",
+    "summary": "El banco central de Nueva Zelanda subió su tasa clave por segunda reunión consecutiva para controlar la inflación. El aumento representa un potencial obstáculo para el gobierno a dos meses de las elecciones.",
+    "lang": "en",
+    "source": "Bloomberg Economics",
+    "url": "https://www.bloomberg.com/news/articles/2026-09-02/new-zealand-delivers-back-to-back-rate-hikes-to-curb-inflation",
+    "published": "2026-09-02T02:05:22+00:00"
+   }
+  ],
+  "politica|asia": [
+   {
+    "title": "黃之鋒「勾結外國勢力危害國家安全」案認罪，最高可囚終身",
+    "summary": "29岁的民主派活动人士黄之锋承认违反香港国安法罪名，认罪后将于另日判刑。黄之锋已失去自由逾2100天。",
+    "lang": "zh",
+    "source": "BBC中文",
+    "url": "https://www.bbc.com/zhongwen/articles/cly7r8yrxe5o/trad?at_medium=RSS&at_campaign=rss",
+    "published": "2026-09-02T08:06:28+00:00"
+   },
+   {
+    "title": "中東戰火再起 伊朗擴大攻擊美國中東利益",
+    "summary": "伊朗继续攻击中东美国利益目标，并誓言对美方攻击进行严厉报复。美军攻击造成婚礼现场4人死亡。",
+    "lang": "zh",
+    "source": "中央社 CNA",
+    "url": "https://www.cna.com.tw/news/aopl/202609020147.aspx",
+    "published": "2026-09-02T05:47:49+00:00"
+   },
+   {
+    "title": "上合组织峰会与G20折射中美全球秩序博弈",
+    "summary": "中国通过上合组织峰会将自己定位为稳定源头，提倡建立有序多极世界秩序以替代美国主导的现有秩序。G20财长会则显示分裂，美国损害同盟关系。",
+    "lang": "zh",
+    "source": "纽约时报中文网",
+    "url": "https://cn.nytimes.com/asia-pacific/20260902/g20-meeting-china-trump-bishkek/?utm_source=RSS",
+    "published": "2026-09-01T17:44:08+00:00"
+   },
+   {
+    "title": "Xi begins busiest travel month since 2019 before Trump talks",
+    "summary": "Xi Jinping inicia su mes de viajes más activo desde 2019 antes de hablar con Trump. El itinerario busca convencer a naciones que China ofrece mejor liderazgo global que Estados Unidos.",
+    "lang": "en",
+    "source": "Japan Times",
+    "url": "https://www.japantimes.co.jp/news/2026/09/02/asia-pacific/politics/xi-jinping-travel-trump-talks/",
+    "published": "2026-09-02T07:30:00+00:00"
+   },
+   {
+    "title": "US universities curb international student internships following federal warning",
+    "summary": "Universidades estadounidenses restringen internados de estudiantes internacionales tras advertencia federal. Los estudiantes extranjeros enfrentan nuevos obstáculos para trabajar fuera del campus.",
+    "lang": "en",
+    "source": "South China Morning Post (China)",
+    "url": "https://www.scmp.com/news/china/diplomacy/article/3366105/us-universities-curb-international-student-internships-following-federal-warning?utm_source=rss_feed",
+    "published": "2026-09-02T09:03:37+00:00"
+   }
+  ],
+  "politica|europa": [
+   {
+    "title": "EU summons Russian envoy, eyes sanctions after Germany drone 'attack'",
+    "summary": "La UE convoca al enviado ruso y considera sanciones tras un ataque con dron en Alemania. Un dron cargado de explosivos en Leipzig aumenta temores sobre sabotaje ruso de respaldos de Ucrania.",
+    "lang": "en",
+    "source": "Le Monde International",
+    "url": "https://www.lemonde.fr/en/germany/article/2026/09/02/eu-summons-russian-envoy-eyes-sanctions-after-germany-drone-attack_6757075_146.html",
+    "published": "2026-09-02T08:38:23+00:00"
+   },
+   {
+    "title": "Netanyahu says security officials deliberately did not wake him on October 7",
+    "summary": "Netanyahu afirma que funcionarios de seguridad deliberadamente no lo despertaron el 7 de octubre. El primer ministro insiste que los ataques de Hamás hubieran sido contenidos si lo hubieran alertado antes.",
+    "lang": "en",
+    "source": "Le Monde International",
+    "url": "https://www.lemonde.fr/en/international/article/2026/09/02/netanyahu-says-security-officials-deliberately-didn-t-wake-him-on-october-7_6757072_4.html",
+    "published": "2026-09-02T03:54:22+00:00"
+   },
+   {
+    "title": "France and Germany push to revitalize coordination of European Union foreign policy",
+    "summary": "Francia y Alemania impulsan la revitalización de la coordinación de política exterior de la UE. Ministros de asuntos exteriores se reunirán en Irlanda para reformar la gobernanza frecuentemente disfuncional.",
+    "lang": "en",
+    "source": "Le Monde International",
+    "url": "https://www.lemonde.fr/en/international/article/2026/09/02/france-and-germany-push-to-revitalize-coordination-of-european-union-foreign-policy_6757064_4.html",
+    "published": "2026-09-02T00:02:44+00:00"
+   },
+   {
+    "title": "Germany accuses Russia of orchestrating attempted drone attack in Leipzig",
+    "summary": "Alemania acusa oficialmente a Rusia de orquestar un intento de ataque con dron en Leipzig. Berlín atribuyó por primera vez a Moscú responsabilidad por lo que califica como un ataque híbrido.",
+    "lang": "en",
+    "source": "Le Monde International",
+    "url": "https://www.lemonde.fr/en/international/article/2026/09/01/germany-accuses-russia-of-orchestrating-attempted-attack-in-leipzig_6757062_4.html",
+    "published": "2026-09-01T21:26:18+00:00"
+   },
+   {
+    "title": "War and sanctions deepen Iran's fuel crisis",
+    "summary": "Largas colas en gasolineras se expanden por Irán debido a daños de guerra y sanciones estadounidenses. La crisis de combustible se agrava por restricciones de importación y nuevas presiones económicas.",
+    "lang": "en",
+    "source": "Deutsche Welle World",
+    "url": "https://www.dw.com/en/war-and-sanctions-deepen-iran-s-fuel-crisis/a-78636429?maca=en-rss-en-world-4025-rdf",
+    "published": "2026-09-01T14:29:00+00:00"
+   }
+  ],
+  "politica|america": [
+   {
+    "title": "Israel bars U.S. citizens over criticism and ties to Palestinian activists, lawyers say",
+    "summary": "Israel rechaza entrada a ciudadanos estadounidenses tras interrogatorios sobre vínculos palestinos. Viajeros enfrentan negación de entrada según opiniones sobre Palestina y planes de visitar territorios ocupados.",
+    "lang": "en",
+    "source": "NPR World",
+    "url": "https://www.npr.org/2026/09/02/nx-s1-5950449/israel-bars-americans-over-palestinian-ties",
+    "published": "2026-09-02T09:00:00+00:00"
+   },
+   {
+    "title": "U.S. military strikes Iran, while Trump vows more for Tehran's retaliation",
+    "summary": "Militares estadounidenses atacaron objetivos en Irán mientras Teherán lanzó misiles y drones en respuesta. Las hostilidades se intensifican nuevamente en la región con represalias de ambos lados.",
+    "lang": "en",
+    "source": "NPR World",
+    "url": "https://www.npr.org/2026/09/02/g-s1-141500/us-iran-war",
+    "published": "2026-09-02T06:15:11+00:00"
+   },
+   {
+    "title": "Global finance ministers gather in North Carolina for G20 summit",
+    "summary": "Ministros de finanzas globales se reúnen en Carolina del Norte para cumbre del G20. El funcionario económico ruso generó revuelo al asistir en persona a la reunión.",
+    "lang": "en",
+    "source": "NPR World",
+    "url": "https://www.npr.org/2026/09/01/nx-s1-5950481/global-finance-ministers-gather-in-north-carolina-for-g-20-summit",
+    "published": "2026-09-01T08:46:27+00:00"
+   },
+   {
+    "title": "A week after the deadly floods in Nepal, rescuers work to find survivors",
+    "summary": "Una semana después de inundaciones mortales en Nepal, rescatistas buscan supervivientes atrapados. Los rescatistas aún localizan plantas hidroeléctricas donde pueden haber personas desaparecidas.",
+    "lang": "en",
+    "source": "NPR World",
+    "url": "https://www.npr.org/2026/09/01/nx-s1-5951528/nepal-floods-rescuers-struggle-to-locate-power-plants-to-find-trapped-survivors",
+    "published": "2026-09-01T22:13:16+00:00"
+   },
+   {
+    "title": "Canada’s ruling Liberals sweep byelections in boost to Mark Carney",
+    "summary": "Los liberales gobernantes de Canadá ganaron tres elecciones especiales, reforzando a Mark Carney. Una legisladora señaló que los resultados muestran que Carney cuenta con apoyo del pueblo canadiense.",
+    "lang": "en",
+    "source": "The Guardian World",
+    "url": "https://www.theguardian.com/world/2026/sep/01/canada-liberals-special-elections-mark-carney",
+    "published": "2026-09-01T07:42:50+00:00"
+   }
+  ],
+  "tecnologia|asia": [
+   {
+    "title": "AI 整合用藥資訊！高通與華碩合作，推「藥事AI Agent」計畫正式啟動",
+    "summary": "高通与华硕推出首个为社区药师打造的药事AI Agent计划。该合作响应行政院的大南方新矽谷智慧健康产业方案。",
+    "lang": "zh",
+    "source": "科技新報 TechNews",
+    "url": "https://technews.tw/2026/09/02/qualcomm-asus-med-ai-agent/",
+    "published": "2026-09-02T09:46:43+00:00"
+   },
+   {
+    "title": "李飛飛發布Atlas，世界模型進入新時代",
+    "summary": "李飞飞创办的World Labs发布新一代世界模型Atlas，可原生处理文字、图像、影片与3D四种资料类型。Atlas将驱动未来版本的Marble及其他产品。",
+    "lang": "zh",
+    "source": "iThome 台灣",
+    "url": "https://www.ithome.com.tw/news/178624",
+    "published": "2026-09-02T04:09:24+00:00"
+   },
+   {
+    "title": "銳澤 AI 擴廠在手訂單飆破 30 億元！下半年美日布局營運動能陸續發酵",
+    "summary": "銳澤實業參與2026年台灣半導體展，公司擴廠在手訂單突破30億元。下半年美日市場布局將陸續發揮營運動能。",
+    "lang": "zh",
+    "source": "科技新報 TechNews",
+    "url": "https://finance.technews.tw/2026/09/02/world-fab-forecast/",
+    "published": "2026-09-02T08:38:33+00:00"
+   }
+  ],
+  "tecnologia|europa": [
+   {
+    "title": "Introducing agentic video understanding with Gemini",
+    "summary": "Google DeepMind introduces agentic video understanding capabilities with Gemini. The advancement enables AI models to understand and interpret video content with new agent-like functionalities.",
+    "lang": "en",
+    "source": "Google DeepMind Blog",
+    "url": "https://deepmind.google/blog/introducing-agentic-video-in-gemini/",
+    "published": "2026-09-01T17:08:51+00:00"
+   },
+   {
+    "title": "\"No hay lenguaje ahí fuera”: Atlas quiere hacer con el mundo físico lo que los LLM hicieron con internet",
+    "summary": "Atlas, un nuevo modelo de IA, busca aplicar a objetos físicos lo que los LLM hicieron con internet. El proyecto promete revolucionar la comprensión del mundo tangible mediante inteligencia artificial avanzada.",
+    "lang": "es",
+    "source": "Xataka",
+    "url": "https://www.xataka.com/robotica-e-ia/no-hay-lenguaje-ahi-fuera-atlas-quiere-hacer-mundo-fisico-que-llm-hicieron-internet",
+    "published": "2026-09-02T09:20:16+00:00"
+   },
+   {
+    "title": "Anthropic acaba de lanzar Fable 5.1, su modelo de IA más potente. Hay un problema: no se atreve a dejarnos utilizarlo entero",
+    "summary": "Anthropic presentó Claude Fable 5.1, su modelo más potente según evaluaciones independientes. La compañía limita el acceso completo al modelo por razones de seguridad y política interna.",
+    "lang": "es",
+    "source": "Xataka",
+    "url": "https://www.xataka.com/robotica-e-ia/anthropic-acaba-lanzar-fable-5-1-su-modelo-ia-potente-hay-problema-no-se-atreve-a-dejarnos-utilizarlo-entero",
+    "published": "2026-09-02T07:14:30+00:00"
+   }
+  ],
+  "tecnologia|america": [
+   {
+    "title": "Larry Page’s flying car company Pivotal loses its CEO",
+    "summary": "The CEO of Larry Page's flying car company Pivotal has left to pursue new endeavors. Mike Ross, an aviation executive, will serve as interim replacement on the company's board.",
+    "lang": "en",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/09/01/larry-pages-flying-car-company-pivotal-loses-its-ceo/",
+    "published": "2026-09-01T23:59:59+00:00"
+   },
+   {
+    "title": "Path to Astra: critical capabilities and frontier safeguards",
+    "summary": "OpenAI's Astra model achieved critical cybersecurity capability status under the Preparedness Framework. The model includes enhanced safeguards designed for responsible release.",
+    "lang": "en",
+    "source": "OpenAI News",
+    "url": "https://openai.com/index/path-to-astra",
+    "published": "2026-09-01T13:00:00+00:00"
+   },
+   {
+    "title": "FTC alleges Amazon illegally made $20 billion by rigging billions of ad auctions",
+    "summary": "The FTC alleges Amazon illegally earned $20 billion by manipulating ad auctions. The agency claims Amazon replaced actual auction results with higher prices set by the company.",
+    "lang": "en",
+    "source": "Ars Technica",
+    "url": "https://arstechnica.com/tech-policy/2026/09/ftc-alleges-amazon-illegally-made-20-billion-by-rigging-billions-of-ad-auctions/",
+    "published": "2026-09-01T17:51:17+00:00"
+   },
+   {
+    "title": "OpenAI’s Astra model is on the way — and very good at breaking into computer systems",
+    "summary": "OpenAI previewed safety measures for Astra, its new cyber-critical LLM that excels at penetrating computer systems. The model demonstrates strong capabilities in identifying cybersecurity vulnerabilities.",
+    "lang": "en",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/09/01/open-ais-astra-model-is-on-the-way-and-very-good-at-breaking-into-computer-systems/",
+    "published": "2026-09-01T21:06:24+00:00"
+   },
+   {
+    "title": "Anthropic launches Claude Fable 5.1 and says it’s up to 45 percent cheaper for agentic work",
+    "summary": "Anthropic released Claude Fable 5.1 and Mythos 5.1, claiming up to 45% cost reduction for agentic work. The models address customer concerns about pricing, data retention, and overly strict safeguards.",
+    "lang": "en",
+    "source": "The Verge",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/987830/anthropic-claude-fable-mythos-5-1",
+    "published": "2026-09-01T22:01:36+00:00"
+   }
+  ]
+ }
+}
