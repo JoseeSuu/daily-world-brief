@@ -1,0 +1,282 @@
+{
+ "date": "2026-09-04",
+ "generated_at": "2026-09-04T09:50:37.401075+00:00",
+ "mode": "full",
+ "cost_usd": 0.0239,
+ "market": null,
+ "failed_sources": [],
+ "cells": {
+  "economia|asia": [
+   {
+    "title": "China lashes back at US over G20 row ahead of Xi-Trump summit",
+    "summary": "China criticized the US ahead of the Xi-Trump summit, attributing global economic damage to American tariffs and energy crisis from Iran tensions.",
+    "lang": "en",
+    "source": "FT Global Economy",
+    "url": "https://www.ft.com/content/443c247b-88fb-4aa5-9aa0-8b819de4ff27?syn-25a6b1a6=1",
+    "published": "2026-09-04T04:03:05+00:00"
+   },
+   {
+    "title": "Speculation of carry trade reversal as yen strengthens to 155 range",
+    "summary": "Speculation of a carry trade reversal emerged as the yen strengthened to the 155 range against major currencies.",
+    "lang": "en",
+    "source": "Nikkei Asia",
+    "url": "https://asia.nikkei.com/business/markets/currencies/speculation-of-carry-trade-reversal-as-yen-strengthens-to-155-range",
+    "published": null
+   },
+   {
+    "title": "South Korea curbs union leverage over AI, chip windfalls",
+    "summary": "South Korea implemented measures to limit union leverage over AI and semiconductor industry windfalls.",
+    "lang": "en",
+    "source": "Nikkei Asia",
+    "url": "https://asia.nikkei.com/business/technology/south-korea-curbs-union-leverage-over-ai-chip-windfalls2",
+    "published": null
+   },
+   {
+    "title": "英伟达以130亿美元收购开源AI平台Hugging Face",
+    "summary": "英伟达以130亿美元收购开源AI平台Hugging Face，该平台拥有数百万个模型和数据集，Hugging Face去年曾拒绝英伟达投资以保持独立。",
+    "lang": "zh",
+    "source": "FT中文网",
+    "url": "https://www.ftchinese.com/story/001110796",
+    "published": "2026-09-03T16:00:00+00:00"
+   },
+   {
+    "title": "China-US yield disparity hits record amid global bond rout",
+    "summary": "China-US yield disparity reached record levels amid a broader global bond market downturn.",
+    "lang": "en",
+    "source": "Nikkei Asia",
+    "url": "https://asia.nikkei.com/business/markets/china-us-yield-disparity-hits-record-amid-global-bond-rout",
+    "published": null
+   }
+  ],
+  "economia|europa": [
+   {
+    "title": "Volkswagen aprueba su gran plan de ajuste: recortará 50.000 empleos y pone en duda el futuro de cuatro plantas alemanas",
+    "summary": "Volkswagen aprueba recortar 50.000 empleos y cuestiona el futuro de cuatro plantas alemanas debido a un excedente de capacidad de producción de 500.000 vehículos anuales en Europa.",
+    "lang": "es",
+    "source": "El País Economía",
+    "url": "https://elpais.com/economia/2026-09-03/volkswagen-aprueba-su-gran-plan-de-ajuste-recortara-50000-empleos-y-pone-en-duda-el-futuro-de-cuatro-plantas-alemanas.html",
+    "published": "2026-09-03T19:32:12+00:00"
+   },
+   {
+    "title": "Volkswagen to slash up to 50,000 jobs in historic restructuring",
+    "summary": "Volkswagen announced plans to slash up to 50,000 jobs in a historic restructuring; shares rose 6% despite potential plant closures.",
+    "lang": "en",
+    "source": "Financial Times",
+    "url": "https://www.ft.com/content/77641f53-8dcb-4adf-9295-9ce44b8d49d6?syn-25a6b1a6=1",
+    "published": "2026-09-04T09:03:21+00:00"
+   },
+   {
+    "title": "Monetary Policy Radar preview: ECB’s September meeting",
+    "summary": "The Financial Times previewed the ECB's September 10 monetary policy meeting.",
+    "lang": "en",
+    "source": "FT Global Economy",
+    "url": "https://www.ft.com/content/8fad4a81-ae66-4248-9669-81138b0d0f2a",
+    "published": "2026-09-03T12:51:08+00:00"
+   },
+   {
+    "title": "European Stocks Muted Before US Data; VW Soars on Restructuring",
+    "summary": "European stock indexes traded sideways as investors awaited US jobs data that could influence Federal Reserve rate-hike decisions this month.",
+    "lang": "en",
+    "source": "Bloomberg Markets",
+    "url": "https://www.bloomberg.com/news/articles/2026-09-04/european-stocks-muted-before-us-data-vw-soars-on-restructuring",
+    "published": "2026-09-04T07:33:15+00:00"
+   }
+  ],
+  "economia|america": [
+   {
+    "title": "Brazil Election: Lula’s ‘Magician’ Eyes Brazil Budget Surplus",
+    "summary": "Brazil's Planning Minister Bruno Moretti, described by President Lula as a budget \"magician,\" now works to achieve a government budget surplus.",
+    "lang": "en",
+    "source": "Bloomberg Economics",
+    "url": "https://www.bloomberg.com/news/articles/2026-09-04/brazil-election-lula-s-magician-eyes-brazil-budget-surplus",
+    "published": "2026-09-04T09:00:00+00:00"
+   },
+   {
+    "title": "Dollar Slumps to Start September as Yen Surges on Rate Bets",
+    "summary": "The dollar slumped at the start of September as traders reduced rate-hike bets and the yen surged across global currency markets.",
+    "lang": "en",
+    "source": "Bloomberg Markets",
+    "url": "https://www.bloomberg.com/news/articles/2026-09-04/us-dollar-slumps-to-start-september-as-yen-surges-on-rate-bets",
+    "published": "2026-09-04T00:29:47+00:00"
+   },
+   {
+    "title": "Manager of Norway’s $2tn oil fund proposes slashing US Treasury holdings",
+    "summary": "Norway's $2 trillion oil fund manager proposed reducing US Treasury holdings to boost investment returns.",
+    "lang": "en",
+    "source": "Financial Times",
+    "url": "https://www.ft.com/content/ecc15aa6-6e7b-409d-8753-2fb6aadd0592?syn-25a6b1a6=1",
+    "published": "2026-09-04T04:00:19+00:00"
+   },
+   {
+    "title": "Trump-linked companies race to secure deals for Venezuela’s oil",
+    "summary": "Trump-linked appointees, donors, and officials are securing deals for Venezuela's oil as the US controls the struggling energy sector.",
+    "lang": "en",
+    "source": "Financial Times",
+    "url": "https://www.ft.com/content/939e55ad-1d5c-45cf-995d-1db6754c8f6b?syn-25a6b1a6=1",
+    "published": "2026-09-04T04:00:18+00:00"
+   }
+  ],
+  "politica|asia": [
+   {
+    "title": "Nepal says it will need billions in funding to rebuild after flash floods",
+    "summary": "Nepal announced it will require billions in funding to rebuild after devastating flash floods swept through the country.",
+    "lang": "en",
+    "source": "BBC World",
+    "url": "https://www.bbc.co.uk/news/videos/ce8x2401zdeo?at_medium=RSS&at_campaign=rss",
+    "published": "2026-09-04T02:20:37+00:00"
+   },
+   {
+    "title": "Europe seeks to deter Russia after attempted attack in Leipzig",
+    "summary": "Europe seeks to deter Russia after an attempted attack in Leipzig; Moscow has faced multiple accusations of sabotage across European countries.",
+    "lang": "en",
+    "source": "Le Monde International",
+    "url": "https://www.lemonde.fr/en/international/article/2026/09/04/europe-seeks-to-deter-russia-after-attempted-attack-in-leipzig_6757151_4.html",
+    "published": "2026-09-04T08:34:07+00:00"
+   },
+   {
+    "title": "50多名新加坡人因傳銷在廣西被捕 中國稱依法查處",
+    "summary": "中国在广西逮捕并扣留52名新加坡公民，中国外交部表示依法查处外国公民的传销及违法犯罪案件。",
+    "lang": "zh",
+    "source": "中央社 CNA",
+    "url": "https://www.cna.com.tw/news/acn/202609040209.aspx",
+    "published": "2026-09-04T08:36:21+00:00"
+   },
+   {
+    "title": "Philippine court issues arrest warrant for VP Duterte",
+    "summary": "A Philippine court issued an arrest warrant for Vice President Duterte.",
+    "lang": "en",
+    "source": "Channel NewsAsia",
+    "url": "https://www.channelnewsasia.com/asia/philippine-court-arrest-warrant-vice-president-sara-duterte-6362626",
+    "published": "2026-09-04T08:48:00+00:00"
+   },
+   {
+    "title": "菲律賓控中國調查船擅闖專屬經濟區 民主礁附近停留約3週",
+    "summary": "菲律宾海岸防卫队指控中国调查船",
+    "lang": "zh",
+    "source": "中央社 CNA",
+    "url": "https://www.cna.com.tw/news/aopl/202609040180.aspx",
+    "published": "2026-09-04T07:31:18+00:00"
+   }
+  ],
+  "politica|europa": [
+   {
+    "title": "Norway seizes Russian ship in Svalbard to compensate Ukraine",
+    "summary": "Norwegian authorities seized a Russian ship, the Professor Molchanov, on court order to compensate Ukraine for damages.",
+    "lang": "en",
+    "source": "Deutsche Welle World",
+    "url": "https://www.dw.com/en/norway-seizes-russian-ship-in-svalbard-to-compensate-ukraine/a-78889005?maca=en-rss-en-world-4025-rdf",
+    "published": "2026-09-03T15:23:00+00:00"
+   },
+   {
+    "title": "Kyiv shootout between intelligence service members exposes rift within Ukraine's security apparatus",
+    "summary": "An armed clash between Ukraine's Security Service and military intelligence unit in Kyiv on September 2 exposed rifts within Ukraine's security apparatus.",
+    "lang": "en",
+    "source": "Le Monde International",
+    "url": "https://www.lemonde.fr/en/international/article/2026/09/04/in-kyiv-a-shootout-between-intelligence-service-members-exposes-rifts-within-ukraine-s-security_6757148_4.html",
+    "published": "2026-09-04T05:00:08+00:00"
+   },
+   {
+    "title": "Germany's low gas reserves spark fears of a new crisis",
+    "summary": "German gas storage facilities are only 53% full, raising new energy crisis concerns as storage economics have shifted unfavorably.",
+    "lang": "en",
+    "source": "Le Monde International",
+    "url": "https://www.lemonde.fr/en/economy/article/2026/09/04/in-germany-low-gas-reserves-spark-fears-of-a-new-crisis_6757144_19.html",
+    "published": "2026-09-04T01:52:38+00:00"
+   },
+   {
+    "title": "Iran bets on shadow networks to evade US sanctions",
+    "summary": "Iran uses complex shadow networks of businesspeople and companies to evade US sanctions, with a previously death-sentenced billionaire at the center.",
+    "lang": "en",
+    "source": "Deutsche Welle World",
+    "url": "https://www.dw.com/en/iran-bets-on-shadow-networks-to-evade-us-sanctions/a-78863283?maca=en-rss-en-world-4025-rdf",
+    "published": "2026-09-03T11:59:00+00:00"
+   }
+  ],
+  "politica|america": [
+   {
+    "title": "Argentina's Milei escalates Falklands dispute, seizing on Trump comments and oil tensions",
+    "summary": "Argentine President Milei escalated the Falklands dispute with Britain, imposing sanctions on companies involved in major offshore oil projects.",
+    "lang": "en",
+    "source": "NPR World",
+    "url": "https://www.npr.org/2026/09/04/g-s1-141945/milei-escalates-falklands-dispute",
+    "published": "2026-09-04T05:30:29+00:00"
+   },
+   {
+    "title": "Families of the missing in Nepal's flash floods perform symbolic cremations",
+    "summary": "Eight days after Nepal's flash floods, families unable to locate missing loved ones performed symbolic cremations.",
+    "lang": "en",
+    "source": "NPR World",
+    "url": "https://www.npr.org/2026/09/03/nx-s1-5954190/families-of-the-missing-in-nepals-flash-floods-perform-symbolic-cremations",
+    "published": "2026-09-03T08:11:30+00:00"
+   }
+  ],
+  "tecnologia|europa": [
+   {
+    "title": "Introducing WeatherNext 3, our most advanced and accurate global weather AI model",
+    "summary": "Google DeepMind introduced WeatherNext 3, its most advanced and accurate global weather AI model.",
+    "lang": "en",
+    "source": "Google DeepMind Blog",
+    "url": "https://deepmind.google/blog/introducing-weathernext-3-our-most-advanced-and-accurate-global-weather-ai-model/",
+    "published": "2026-09-03T15:02:08+00:00"
+   },
+   {
+    "title": "Cientos de empresas están intentando acceder a la misma web: Ucrania está destripando los secretos de las armas rusas recuperadas",
+    "summary": "Ucrania creó TrophyLab, una plataforma para compartir información sobre armas rusas recuperadas en combate, atrayendo acceso masivo de empresas internacionales.",
+    "lang": "es",
+    "source": "Xataka",
+    "url": "https://www.xataka.com/magnet/cientos-empresas-estan-intentando-acceder-a-web-ucrania-esta-destripando-secretos-armas-rusas-recuperadas",
+    "published": "2026-09-04T08:30:25+00:00"
+   },
+   {
+    "title": "La IA ha crecido tan rápido que su propia industria ya avisa sobre la próxima crisis: la de un déficit energético \"significativo\"",
+    "summary": "La industria de inteligencia artificial advierte sobre una próxima crisis de déficit energético significativo debido al enorme consumo de electricidad de estos sistemas.",
+    "lang": "es",
+    "source": "Xataka",
+    "url": "https://www.xataka.com/energia/ia-ha-crecido-rapido-que-su-propia-industria-avisa-proxima-crisis-deficit-energetico-significativo",
+    "published": "2026-09-04T09:15:36+00:00"
+   }
+  ],
+  "tecnologia|america": [
+   {
+    "title": "Data from drones in Ukraine is fueling a new Wild West marketplace",
+    "summary": "Ukraine's battlefields generate drone data fueling a new marketplace for weapons and military intelligence information.",
+    "lang": "en",
+    "source": "MIT Technology Review",
+    "url": "https://www.technologyreview.com/2026/09/04/1143452/drone-data-wild-west/",
+    "published": "2026-09-04T09:25:19+00:00"
+   },
+   {
+    "title": "Daybreak for Frontline Defenders: $1B to protect essential services",
+    "summary": "OpenAI announced a $1 billion commitment called Daybreak for Frontline Defenders to expand cyber AI access and training for essential services.",
+    "lang": "en",
+    "source": "OpenAI News",
+    "url": "https://openai.com/index/daybreak-for-frontline-defenders",
+    "published": "2026-09-03T13:15:00+00:00"
+   },
+   {
+    "title": "Crusoe reportedly raises $3B at a $30B valuation",
+    "summary": "Crusoe raised $3 billion at a $30 billion valuation following a reported $13 billion contract with Jane Street.",
+    "lang": "en",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/09/03/crusoe-reportedly-raises-3b-at-a-30b-valuation/",
+    "published": "2026-09-04T00:48:42+00:00"
+   },
+   {
+    "title": "Four major AI models suffer rare overlapping downtime",
+    "summary": "ChatGPT, Claude, Grok, and Gemini experienced rare simultaneous service interruptions.",
+    "lang": "en",
+    "source": "Ars Technica",
+    "url": "https://arstechnica.com/ai/2026/09/four-major-ai-models-suffer-rare-overlapping-downtime/",
+    "published": "2026-09-03T18:10:19+00:00"
+   },
+   {
+    "title": "Utilities are racing to link up with fusion startups, with Realta Fusion the latest to benefit",
+    "summary": "US utilities are partnering with fusion startups including Realta Fusion to address grid strain from new AI data centers.",
+    "lang": "en",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/09/03/utilities-are-racing-to-link-up-with-fusion-startups-with-realta-fusion-the-latest-to-benefit/",
+    "published": "2026-09-03T19:29:16+00:00"
+   }
+  ]
+ }
+}
