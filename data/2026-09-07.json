@@ -1,0 +1,300 @@
+{
+ "date": "2026-09-07",
+ "generated_at": "2026-09-07T10:36:31.654399+00:00",
+ "mode": "full",
+ "cost_usd": 0.027,
+ "market": null,
+ "failed_sources": [],
+ "cells": {
+  "economia|asia": [
+   {
+    "title": "China's state bank and insurer shares slide after $54bn injection plan",
+    "summary": "China's state bank and insurer shares declined following an announcement of a $54 billion capital injection plan. The move aims to strengthen financial stability as the economy faces headwinds.",
+    "lang": "en",
+    "source": "Nikkei Asia",
+    "url": "https://asia.nikkei.com/business/finance/china-s-state-bank-and-insurer-shares-slide-after-54bn-injection-plan",
+    "published": null
+   },
+   {
+    "title": "Yen makes sudden jump to 154 range against dollar",
+    "summary": "The Japanese yen surged suddenly to the 154 range against the US dollar. The sharp appreciation reflects shifting market dynamics in currency markets.",
+    "lang": "en",
+    "source": "Nikkei Asia",
+    "url": "https://asia.nikkei.com/business/markets/currencies/yen-makes-sudden-jump-to-154-range-against-dollar",
+    "published": null
+   },
+   {
+    "title": "Hybrids drive end of gasoline's dominance in India amid ethanol backlash",
+    "summary": "Hybrid vehicles are displacing gasoline-powered cars as India's dominant vehicle type amid consumer backlash against ethanol. This shift marks a significant change in India's automotive market preferences.",
+    "lang": "en",
+    "source": "Nikkei Asia",
+    "url": "https://asia.nikkei.com/business/automobiles/hybrids-drive-end-of-gasoline-s-dominance-in-india-amid-ethanol-backlash",
+    "published": null
+   },
+   {
+    "title": "Huawei unveils first triple-fold phone with 'US-free' core chips",
+    "summary": "Huawei unveiled its first triple-fold smartphone featuring what the company describes as 'US-free' core chips. The device represents the company's push toward technological independence from American components.",
+    "lang": "en",
+    "source": "Nikkei Asia",
+    "url": "https://asia.nikkei.com/business/electronics/huawei-unveils-first-triple-fold-phone-with-us-free-core-chips",
+    "published": null
+   },
+   {
+    "title": "Thai Inflation Accelerates More Than Expected to 2.53%",
+    "summary": "Thailand's inflation accelerated more than expected to 2.53% in August but remained within the central bank's target range. Policymakers see little reason to shift their current course.",
+    "lang": "en",
+    "source": "Bloomberg Economics",
+    "url": "https://www.bloomberg.com/news/articles/2026-09-07/thai-inflation-accelerates-more-than-expected-to-2-53-in-august",
+    "published": "2026-09-07T03:56:33+00:00"
+   }
+  ],
+  "economia|europa": [
+   {
+    "title": "Far-right AfD surges to victory in German state election",
+    "summary": "Germany's far-right Alternative for Germany became the largest party in Saxony-Anhalt state elections but fell three seats short of a parliamentary majority. The result reflects shifting political dynamics in eastern Germany.",
+    "lang": "en",
+    "source": "Financial Times",
+    "url": "https://www.ft.com/content/a0229455-1822-4de8-ad2f-7453577d95cd?syn-25a6b1a6=1",
+    "published": "2026-09-07T06:28:06+00:00"
+   },
+   {
+    "title": "UK Chancellor Healey Vows Fiscal Rigor in First Big Speech",
+    "summary": "UK Chancellor John Healey vowed fiscal rigor in his first major speech, emphasizing efforts to restore Britain's credibility in international bond markets. His stance reflects commitment to financial stability.",
+    "lang": "en",
+    "source": "Bloomberg Economics",
+    "url": "https://www.bloomberg.com/news/articles/2026-09-07/uk-chancellor-healey-vows-fiscal-discipline-in-first-big-speech",
+    "published": "2026-09-07T09:04:06+00:00"
+   },
+   {
+    "title": "EU to table ‘Buy European’ public procurement rules to push out China",
+    "summary": "The EU is preparing 'Buy European' public procurement rules designed to exclude Chinese companies from government contracts. The measure reflects growing protectionism in European trade policy.",
+    "lang": "en",
+    "source": "FT Global Economy",
+    "url": "https://www.ft.com/content/f8e97cdb-6edb-4cb1-ae38-b3c0ceeba485?syn-25a6b1a6=1",
+    "published": "2026-09-07T05:00:09+00:00"
+   },
+   {
+    "title": "France’s Lescure Says Vast Effort Needed to Contain Budget Gap",
+    "summary": "French Finance Minister Roland Lescure stated that sweeping savings will be needed in the 2027 finance bill to control the country's runaway budget deficit. The challenge intensifies as the global economy weakens and interest rates rise.",
+    "lang": "en",
+    "source": "Bloomberg Economics",
+    "url": "https://www.bloomberg.com/news/articles/2026-09-07/france-s-lescure-says-vast-effort-needed-to-contain-budget-gap",
+    "published": "2026-09-07T07:00:59+00:00"
+   },
+   {
+    "title": "Volkswagen fía su supervivencia a ganar más del doble por cada coche que vende y crecer en nuevos mercados como India",
+    "summary": "Volkswagen enfrentará su supervivencia dependiendo de ganar más dinero por vehículo y expandirse en mercados como India. La empresa acepta su nueva realidad en China, donde las ventas cayeron significativamente desde antes de la pandemia.",
+    "lang": "es",
+    "source": "El País Economía",
+    "url": "https://elpais.com/economia/2026-09-07/volkswagen-fia-su-supervivencia-a-ganar-mas-del-doble-por-cada-coche-que-vende-y-crecer-en-nuevos-mercados-como-india.html",
+    "published": "2026-09-07T03:45:00+00:00"
+   }
+  ],
+  "economia|america": [
+   {
+    "title": "How Canadian companies are navigating Trump’s tariffs",
+    "summary": "Five small Canadian businesses described how US tariffs have impacted their operations during the ongoing trade conflict. The trade war creates significant challenges for cross-border commerce.",
+    "lang": "en",
+    "source": "FT Global Economy",
+    "url": "https://www.ft.com/content/99df992e-0c74-41da-a65a-edd895ebc2c3?syn-25a6b1a6=1",
+    "published": "2026-09-07T04:00:19+00:00"
+   },
+   {
+    "title": "Why America’s debt binge is starting to matter",
+    "summary": "America's growing national debt may begin constraining economic growth if long-term interest rates decisively breach 5%. This threshold could potentially disrupt the current AI investment boom.",
+    "lang": "en",
+    "source": "Financial Times",
+    "url": "https://www.ft.com/content/8827baa7-163d-4122-9ea8-a2c9ff6e8a4d?syn-25a6b1a6=1",
+    "published": "2026-09-07T04:00:19+00:00"
+   },
+   {
+    "title": "South Africa Quarterly Farm Exports Surge, US Shipments Rise",
+    "summary": "South African agricultural exports surged 10% in the second quarter year-over-year, driven by higher volumes and improved prices. The US received increased shipments during the period.",
+    "lang": "en",
+    "source": "Bloomberg Economics",
+    "url": "https://www.bloomberg.com/news/articles/2026-09-07/south-africa-s-quarterly-farm-exports-surge-us-shipments-rise",
+    "published": "2026-09-07T07:34:50+00:00"
+   },
+   {
+    "title": "Iran to raise petrol prices as US war triggers shortages",
+    "summary": "Iran announced plans to raise petrol prices as fuel shortages worsen amid conflicts with the US. The government warns that existing fuel subsidies have become economically unsustainable.",
+    "lang": "en",
+    "source": "Financial Times",
+    "url": "https://www.ft.com/content/15d59180-ea46-4441-9c45-d6be584ae911?syn-25a6b1a6=1",
+    "published": "2026-09-07T08:34:56+00:00"
+   },
+   {
+    "title": "Turkey Cuts 2027 GDP Growth Forecast as Elections Beckon",
+    "summary": "Turkey reduced its 2027 GDP growth forecast amid upcoming elections and regional instability. The move reflects a delicate balance between controlling inflation and supporting economic expansion.",
+    "lang": "en",
+    "source": "Bloomberg Economics",
+    "url": "https://www.bloomberg.com/news/articles/2026-09-06/turkey-cuts-2027-gdp-growth-forecast-to-4-2-as-elections-beckon",
+    "published": "2026-09-06T08:28:54+00:00"
+   }
+  ],
+  "politica|asia": [
+   {
+    "title": "Video: Israeli air strikes kill at least 10 in southern Lebanon",
+    "summary": "Israeli air strikes on southern Lebanon at dawn Sunday killed at least 10 people. The strikes represent escalating military operations in the region.",
+    "lang": "en",
+    "source": "Al Jazeera English",
+    "url": "https://www.aljazeera.com/video/newsfeed/2026/9/7/video-israeli-air-strikes-kill-at-least-10-in-southern-lebanon?traffic_source=rss",
+    "published": "2026-09-07T09:44:27+00:00"
+   },
+   {
+    "title": "Zelensky says he expects war to continue into winter after talks with US envoys",
+    "summary": "President Zelensky stated he expects the war to continue into winter following talks with US envoys Steve Witkoff and Jared Kushner. No major diplomatic breakthrough was announced.",
+    "lang": "en",
+    "source": "BBC World",
+    "url": "https://www.bbc.co.uk/news/articles/c6248nvqy8po?at_medium=RSS&at_campaign=rss",
+    "published": "2026-09-06T20:41:58+00:00"
+   },
+   {
+    "title": "日經亞洲：美中擬透過川習會討論AI安全議題",
+    "summary": "日經亞洲報導，美國準備在9月召開的美中領袖峰會上向中國提出人工智慧安全議題。此舉為兩大強權在科技競爭中開啟對話機會。",
+    "lang": "zh",
+    "source": "中央社 CNA",
+    "url": "https://www.cna.com.tw/news/aopl/202609070178.aspx",
+    "published": "2026-09-07T08:16:57+00:00"
+   },
+   {
+    "title": "尼泊爾洪災奪逾1380命 哀悼期最後一天仍持續搜救",
+    "summary": "尼泊爾洪災已造成逾1380人死亡，政府在傳統印度教哀悼期最後一天仍持續進行搜救行動。過去數天已有4人奇蹟生還。",
+    "lang": "zh",
+    "source": "中央社 CNA",
+    "url": "https://www.cna.com.tw/news/aopl/202609070163.aspx",
+    "published": "2026-09-07T07:53:25+00:00"
+   }
+  ],
+  "politica|europa": [
+   {
+    "title": "US envoys Witkoff and Kushner hold Ukraine talks after meeting Putin",
+    "summary": "US envoys Witkoff and Kushner held talks with Ukrainian President Zelenskyy in Kyiv seeking to revive diplomatic efforts to end the war. The latest diplomatic push follows their recent meeting with Putin.",
+    "lang": "en",
+    "source": "Deutsche Welle World",
+    "url": "https://www.dw.com/en/us-envoys-witkoff-and-kushner-hold-ukraine-talks-after-meeting-putin/a-79054779?maca=en-rss-en-world-4025-rdf",
+    "published": "2026-09-06T22:22:00+00:00"
+   },
+   {
+    "title": "France and South Korea to invest €1 billion to support audiovisual industry",
+    "summary": "France and South Korea announced a €1 billion joint investment to support their audiovisual industries. The commitment was made during the Lumière cinema summit attended by representatives from 55 countries.",
+    "lang": "en",
+    "source": "Le Monde International",
+    "url": "https://www.lemonde.fr/en/france/article/2026/09/07/france-and-south-korea-to-invest-1-billion-to-support-audiovisual-industry_6757246_7.html",
+    "published": "2026-09-07T10:30:38+00:00"
+   },
+   {
+    "title": "New evidence reveals chemical weapons use in Sudan in 2024",
+    "summary": "Internal memos, videos, photos and intercepted communications obtained by Washington Post and New York Times confirm chemical weapons use in Sudan during 2024. The evidence reveals development of chlorine bombs by state forces.",
+    "lang": "en",
+    "source": "Le Monde International",
+    "url": "https://www.lemonde.fr/en/le-monde-africa/article/2026/09/07/new-evidence-reveals-chemical-weapons-use-in-sudan-in-2024_6757239_124.html",
+    "published": "2026-09-07T08:52:06+00:00"
+   },
+   {
+    "title": "Italy's Meloni celebrates record tenure amid crises and setbacks",
+    "summary": "Italy's Prime Minister Meloni celebrated a record tenure as she addresses supporters ahead of 2027 elections. She must navigate a sluggish economy and political challenges while approaching campaign season.",
+    "lang": "en",
+    "source": "Le Monde International",
+    "url": "https://www.lemonde.fr/en/international/article/2026/09/07/italy-s-meloni-celebrates-record-tenure-amid-crises-and-setbacks_6757244_4.html",
+    "published": "2026-09-07T09:44:58+00:00"
+   }
+  ],
+  "politica|america": [
+   {
+    "title": "Rubio to visit 3 Latin American countries this week",
+    "summary": "Secretary of State Marco Rubio is visiting Colombia, Peru and Ecuador this week as the Trump administration emphasizes regional rightward political shifts. The visit signals renewed US engagement in Latin America.",
+    "lang": "en",
+    "source": "NPR World",
+    "url": "https://www.npr.org/2026/09/07/nx-s1-5953950/rubio-to-visit-3-latin-american-countries-this-week",
+    "published": "2026-09-07T08:43:28+00:00"
+   },
+   {
+    "title": "U.S. envoys visit Kyiv for first time after meeting Putin in Moscow",
+    "summary": "US envoys Jared Kushner and Steve Witkoff made their first trip to Kyiv one day after meeting Vladimir Putin in Moscow. The visit continues American diplomatic efforts regarding the Ukraine conflict.",
+    "lang": "en",
+    "source": "NPR World",
+    "url": "https://www.npr.org/2026/09/06/nx-s1-5959728/u-s-envoys-visit-kyiv-for-first-time-after-meeting-putin-in-moscow",
+    "published": "2026-09-06T21:06:49+00:00"
+   },
+   {
+    "title": "Shipping companies are putting sails back on cargo ships",
+    "summary": "Shipping companies are installing sails on cargo ships as part of growing efforts to reduce emissions. One of the world's largest logistics companies plans to outfit a vessel with advanced sail technology.",
+    "lang": "en",
+    "source": "NPR World",
+    "url": "https://www.npr.org/2026/09/06/nx-s1-5955419/shipping-companies-are-putting-sails-back-on-cargo-ships",
+    "published": "2026-09-06T21:06:46+00:00"
+   }
+  ],
+  "tecnologia|asia": [
+   {
+    "title": "疑似北韓駭客將後門植入負載平衡器HAProxy，可攔截流量並讓C2請求避開後端日誌",
+    "summary": "資安業者Rapid7揭露北韓駭客將後門植入南韓媒體與汽車業的HAProxy負載平衡器。該後門可攔截HTTP連線、竊取登入工作階段，攻擊活動從2025年初就已展開。",
+    "lang": "zh",
+    "source": "iThome 台灣",
+    "url": "https://www.ithome.com.tw/news/178748",
+    "published": "2026-09-07T06:09:55+00:00"
+   },
+   {
+    "title": "JetBrains雲端運算服務Cadence遭駭，攻擊者利用TeamCity重大漏洞得逞",
+    "summary": "JetBrains雲端服務Cadence因採用TeamCity未修補重大漏洞CVE-2026-63077而遭駭客入侵。該漏洞於7月底被JetBrains修補，卻在一個月後才被發現遭利用。",
+    "lang": "zh",
+    "source": "iThome 台灣",
+    "url": "https://www.ithome.com.tw/news/178747",
+    "published": "2026-09-07T03:09:09+00:00"
+   },
+   {
+    "title": "偉創力砸 44 億美元收購 EPC Power，下一步攻 SST",
+    "summary": "偉創力以44億美元收購電力轉換方案業者EPC Power，進一步擴大在AI資料中心市場的布局。此次收購標誌著偉創力在半導體生態系的策略性擴張。",
+    "lang": "zh",
+    "source": "科技新報 TechNews",
+    "url": "https://technews.tw/2026/09/07/flex-acquires-epc-power-4-4-billion-targets-sst/",
+    "published": "2026-09-07T10:20:41+00:00"
+   }
+  ],
+  "tecnologia|europa": [
+   {
+    "title": "Europe has its first commercial orbital rocket",
+    "summary": "German company Isar Aerospace successfully launched Europe's first entirely commercial orbital rocket. The achievement follows a failed attempt in March when the rocket flew only briefly.",
+    "lang": "en",
+    "source": "The Verge",
+    "url": "https://www.theverge.com/science/990906/isar-aerospace-europe-orbital-rocket-launch",
+    "published": "2026-09-06T19:04:22+00:00"
+   },
+   {
+    "title": "Para Jensen Huang, \"la AGI ha llegado\" con GPT-6 Astra. El problema es que no es la primera vez que lo dice",
+    "summary": "Jensen Huang de Nvidia afirma que la inteligencia general artificial ha llegado con GPT-6 Astra, aunque ha hecho declaraciones similares previamente. Nvidia se ha convertido en un actor central en la industria de IA a través de recursos financieros y tecnológicos.",
+    "lang": "es",
+    "source": "Xataka",
+    "url": "https://www.xataka.com/robotica-e-ia/para-jensen-huang-agi-ha-llegado-gpt-6-astra-problema-que-no-primera-vez-que-dice",
+    "published": "2026-09-07T09:30:28+00:00"
+   }
+  ],
+  "tecnologia|america": [
+   {
+    "title": "Seattle Times and Newsday sue OpenAI and Microsoft for infringement",
+    "summary": "The Seattle Times and Newsday sued OpenAI and Microsoft alleging copyright infringement. The outlets claim the companies used their journalism to train AI systems without authorization.",
+    "lang": "en",
+    "source": "The Verge",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/990932/seattle-times-newsday-lawsuit-openai-microsoft",
+    "published": "2026-09-06T23:36:04+00:00"
+   },
+   {
+    "title": "Authors push back as publishers and agents make claims on Anthropic settlement",
+    "summary": "Authors are objecting as publishers and agents assert claims to a portion of Anthropic settlement payments. The disagreement concerns the appropriate distribution of settlement funds among stakeholders.",
+    "lang": "en",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/09/06/authors-push-back-as-publishers-and-agents-seek-share-of-anthropic-settlement/",
+    "published": "2026-09-06T20:47:37+00:00"
+   },
+   {
+    "title": "Supporting independent journalism in Ukraine",
+    "summary": "OpenAI, AIRPPU and WAN-IFRA launched an AI program supporting Ukrainian news organizations. The initiative aims to strengthen media innovation, resilience and independent journalism.",
+    "lang": "en",
+    "source": "OpenAI News",
+    "url": "https://openai.com/index/supporting-independent-journalism-in-ukraine",
+    "published": "2026-09-07T00:00:00+00:00"
+   }
+  ]
+ }
+}
