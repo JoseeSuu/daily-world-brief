@@ -1,0 +1,300 @@
+{
+ "date": "2026-09-08",
+ "generated_at": "2026-09-08T09:56:13.206809+00:00",
+ "mode": "full",
+ "cost_usd": 0.0253,
+ "market": null,
+ "failed_sources": [],
+ "cells": {
+  "economia|asia": [
+   {
+    "title": "TSMC, Intel and Samsung all bet on ASML's latest chip tool in AI race",
+    "summary": "TSMC, Intel, and Samsung are all adopting ASML's latest chip-making tool to maintain competitiveness in the artificial intelligence race.",
+    "lang": "en",
+    "source": "Nikkei Asia",
+    "url": "https://asia.nikkei.com/business/tech/semiconductors/tsmc-intel-and-samsung-all-bet-on-asml-s-latest-chip-tool-in-ai-race",
+    "published": null
+   },
+   {
+    "title": "China's exports soar 25% in August; trade surplus tops $800bn for year",
+    "summary": "China's August exports surged 25 percent year-over-year, bringing the country's annual trade surplus to over $800 billion.",
+    "lang": "en",
+    "source": "Nikkei Asia",
+    "url": "https://asia.nikkei.com/economy/trade/china-s-exports-soar-25-in-august-trade-surplus-tops-800bn-for-year",
+    "published": null
+   },
+   {
+    "title": "Yen appreciates sharply against the dollar, touching the 152 level",
+    "summary": "The Japanese yen appreciated sharply against the US dollar, reaching the 152 level in foreign exchange markets.",
+    "lang": "en",
+    "source": "Nikkei Asia",
+    "url": "https://asia.nikkei.com/business/markets/currencies/yen-appreciates-sharply-against-the-dollar-touching-the-152-level",
+    "published": null
+   },
+   {
+    "title": "Can Huawei build China’s answer to ASML?",
+    "summary": "Huawei is attempting to build China's alternative to ASML by taking a project management role to develop components for DUV chip-making machines while circumventing export controls.",
+    "lang": "en",
+    "source": "FT Global Economy",
+    "url": "https://www.ft.com/content/36333a53-4063-4aad-8df9-8d2f9d0048a3?syn-25a6b1a6=1",
+    "published": "2026-09-08T02:57:46+00:00"
+   },
+   {
+    "title": "Apple's Android battle offers US AI companies a playbook for China",
+    "summary": "Apple's competition with Android offers US artificial intelligence companies a strategic approach to competing in China's market.",
+    "lang": "en",
+    "source": "Nikkei Asia",
+    "url": "https://asia.nikkei.com/opinion/apple-s-android-battle-offers-us-ai-companies-a-playbook-for-china",
+    "published": null
+   }
+  ],
+  "economia|europa": [
+   {
+    "title": "Mistral raises record €3bn as Europe strains to keep pace in AI race",
+    "summary": "French AI company Mistral raised a record €3 billion in funding led by Samsung, strengthening Europe's position against US and Chinese AI rivals.",
+    "lang": "en",
+    "source": "Financial Times",
+    "url": "https://www.ft.com/content/adbf5262-c4d5-4312-a9b8-4d3cf30c9e00?syn-25a6b1a6=1",
+    "published": "2026-09-08T05:00:07+00:00"
+   },
+   {
+    "title": "El declive de Volkswagen: es la empresa del automóvil que más factura, pero su gran rival Toyota gana cinco veces más",
+    "summary": "Volkswagen, el mayor fabricante automotriz por ingresos, enfrenta rentabilidad limitada mientras Toyota lidera con ganancias cinco veces superiores. El grupo alemán busca recuperarse mediante ajustes estructurales y su apuesta por vehículos híbridos.",
+    "lang": "es",
+    "source": "El País Economía",
+    "url": "https://elpais.com/economia/2026-09-08/volkswagen-se-queda-fuera-del-podio-de-los-beneficios-del-automovil-pese-a-liderar-la-facturacion.html",
+    "published": "2026-09-08T03:15:00+00:00"
+   },
+   {
+    "title": "UK Set to Pay Most Since 1998 to Borrow After Gilt Selloff",
+    "summary": "The UK faces its highest government borrowing costs since at least 1998 following a global bond market selloff that drove yields upward.",
+    "lang": "en",
+    "source": "Bloomberg Economics",
+    "url": "https://www.bloomberg.com/news/articles/2026-09-08/uk-set-to-pay-most-since-1998-for-borrowing-after-gilt-selloff",
+    "published": "2026-09-08T07:42:16+00:00"
+   },
+   {
+    "title": "Europe warned wealth ‘won’t last’ without car industry",
+    "summary": "Industry leaders warn that Europe's economy cannot sustain prosperity without preserving its automotive sector, which supports steel, aluminum, glass, and chemical industries.",
+    "lang": "en",
+    "source": "FT Global Economy",
+    "url": "https://www.ft.com/content/8c7369b7-a803-4978-99bf-8b13a2550563?syn-25a6b1a6=1",
+    "published": "2026-09-08T04:00:09+00:00"
+   },
+   {
+    "title": "Volkswagen busca su sitio en la reconversión del automóvil",
+    "summary": "Volkswagen reorganiza su estructura con pocas marcas que no compiten entre sí y aplica política estricta de costos. El plan sigue el modelo de reestructuración iniciado bajo Luca de Meo para mejorar eficiencia.",
+    "lang": "es",
+    "source": "El País Economía",
+    "url": "https://cincodias.elpais.com/opinion/2026-09-08/volkswagen-busca-su-sitio-en-la-reconversion-del-automovil.html",
+    "published": "2026-09-08T03:30:01+00:00"
+   }
+  ],
+  "economia|america": [
+   {
+    "title": "Trump calls for Bombardier boycott as Canada hits US with tariffs",
+    "summary": "President Trump called for a boycott of Bombardier hours before Canada imposed retaliatory tariffs against the United States in an escalating trade dispute.",
+    "lang": "en",
+    "source": "FT Global Economy",
+    "url": "https://www.ft.com/content/a7011878-b0b7-4e7f-8f5a-e7d9d662fd47?syn-25a6b1a6=1",
+    "published": "2026-09-08T04:30:04+00:00"
+   }
+  ],
+  "politica|asia": [
+   {
+    "title": "豪雨致日本名古屋市區淹水 新幹線多個區間停駛",
+    "summary": "日本名古屋市因秋雨锋面和热带低气压引发豪雨而发生洪水，部分新干线路段停运。东海地区包括三重县和爱知县遭遇严重降雨。",
+    "lang": "zh",
+    "source": "中央社 CNA",
+    "url": "https://www.cna.com.tw/news/aopl/202609080202.aspx",
+    "published": "2026-09-08T08:18:26+00:00"
+   },
+   {
+    "title": "Nagoya issues highest level heavy rain warning as flood risk rises",
+    "summary": "Nagoya issued its highest level heavy rain warning as flood risk increased, urging residents to take precautions against the rainfall.",
+    "lang": "en",
+    "source": "Japan Times",
+    "url": "https://www.japantimes.co.jp/news/2026/09/08/japan/nagoya-torrential-rain/",
+    "published": "2026-09-08T09:26:00+00:00"
+   },
+   {
+    "title": "美日韩军演之际 朝鲜第二艘可发射核弹的驱逐舰入列",
+    "summary": "美日韩举行联合军演期间，朝鲜第二艘核驱逐舰入列。金正恩表示将扩大核威慑力量建设。",
+    "lang": "zh",
+    "source": "德國之聲中文",
+    "url": "https://www.dw.com/zh/美日韩军演之际-朝鲜第二艘可发射核弹的驱逐舰入列/a-79149381?maca=chi-rss-chi-all-1127-rdf",
+    "published": "2026-09-07T14:29:00+00:00"
+   },
+   {
+    "title": "Inside Japan’s military build-up",
+    "summary": "Japan is undertaking a significant military expansion and modernization effort.",
+    "lang": "en",
+    "source": "South China Morning Post (China)",
+    "url": "https://www.scmp.com/news/china/military/series/3366765/inside-japans-military-build?utm_source=rss_feed",
+    "published": "2026-09-08T08:59:38+00:00"
+   },
+   {
+    "title": "Philippines wants to be a global semiconductor giant by 2030. Can it get there?",
+    "summary": "The Philippines launched a five-year roadmap to become a global semiconductor giant by 2030, though capacity challenges and political stability concerns remain obstacles.",
+    "lang": "en",
+    "source": "South China Morning Post (Asia)",
+    "url": "https://www.scmp.com/week-asia/economics/article/3366779/philippines-wants-be-global-semiconductor-giant-2030-can-it-get-there?utm_source=rss_feed",
+    "published": "2026-09-08T09:18:12+00:00"
+   }
+  ],
+  "politica|europa": [
+   {
+    "title": "Thousands of 'Greater Serbia' supporters attend funeral of Ratko Mladic in Belgrade",
+    "summary": "Thousands of 'Greater Serbia' supporters attended the funeral of Ratko Mladic, the former Serbian army commander convicted of genocide and war crimes during the Bosnian conflict.",
+    "lang": "en",
+    "source": "Le Monde International",
+    "url": "https://www.lemonde.fr/en/international/article/2026/09/08/thousands-of-greater-serbia-supporters-attend-funeral-of-ratko-mladic-in-belgrade_6757281_4.html",
+    "published": "2026-09-08T09:24:14+00:00"
+   },
+   {
+    "title": "European Union pledges closer ties with Greenland",
+    "summary": "The European Union pledged closer ties with Greenland in September, eight months after the US threatened to annex the autonomous Danish territory.",
+    "lang": "en",
+    "source": "Le Monde International",
+    "url": "https://www.lemonde.fr/en/international/article/2026/09/08/european-union-pledges-closer-ties-with-greenland_6757279_4.html",
+    "published": "2026-09-08T08:39:32+00:00"
+   },
+   {
+    "title": "Russia pummels Kyiv after three-day halt",
+    "summary": "Russia renewed attacks on Kyiv after a three-day pause, killing at least two people and wounding seven, marking the first assault since a temporary ceasefire expired.",
+    "lang": "en",
+    "source": "Le Monde International",
+    "url": "https://www.lemonde.fr/en/international/article/2026/09/08/russia-pummels-kyiv-after-three-day-halt_6757273_4.html",
+    "published": "2026-09-08T03:35:37+00:00"
+   },
+   {
+    "title": "Ukraine's chief prosecutor resigns over call centre corruption scandal",
+    "summary": "Ukraine's chief prosecutor Ruslan Kravchenko resigned over allegations involving a call centre corruption scandal, denying wrongdoing in his resignation letter.",
+    "lang": "en",
+    "source": "BBC World",
+    "url": "https://www.bbc.co.uk/news/articles/c780nlgyd79o?at_medium=RSS&at_campaign=rss",
+    "published": "2026-09-08T01:07:47+00:00"
+   },
+   {
+    "title": "Nicaragua challenges German arms exports to Israel at ICJ",
+    "summary": "Nicaragua challenged Germany's military exports to Israel at the International Court of Justice; Germany requested dismissal citing jurisdiction grounds and documentation of legal arms sales.",
+    "lang": "en",
+    "source": "Deutsche Welle World",
+    "url": "https://www.dw.com/en/nicaragua-challenges-german-arms-exports-to-israel-at-icj/a-79148044?maca=en-rss-en-world-4025-rdf",
+    "published": "2026-09-07T16:26:00+00:00"
+   }
+  ],
+  "politica|america": [
+   {
+    "title": "Canada braces for prolonged trade war as counter-tariffs on US take effect",
+    "summary": "Canada implemented counter-tariffs on $20 billion worth of American products, bracing for prolonged trade conflict that threatens the world's largest bilateral trade relationship.",
+    "lang": "en",
+    "source": "BBC World",
+    "url": "https://www.bbc.co.uk/news/articles/c8jdev0422jo?at_medium=RSS&at_campaign=rss",
+    "published": "2026-09-08T04:39:14+00:00"
+   },
+   {
+    "title": "What to know about Canada's escalating trade war with the U.S.",
+    "summary": "Canada struck back at President Trump with tariffs on approximately $20 billion in US goods, with potential consequences extending far beyond bilateral trade.",
+    "lang": "en",
+    "source": "NPR World",
+    "url": "https://www.npr.org/2026/09/08/nx-s1-5960990/canada-escalating-trade-war-us",
+    "published": "2026-09-08T06:04:43+00:00"
+   },
+   {
+    "title": "Kushner and Witkoff visit Ukraine with hopes of restarting peace talks with Russia",
+    "summary": "Trump's top envoys Kushner and Witkoff visited Ukraine for the first time to attempt restarting peace negotiations with Russia following Moscow talks.",
+    "lang": "en",
+    "source": "NPR World",
+    "url": "https://www.npr.org/2026/09/07/nx-s1-5959692/kushner-and-witkoff-visit-ukraine-with-hopes-of-restarting-peace-talks-with-russia",
+    "published": "2026-09-07T10:43:43+00:00"
+   },
+   {
+    "title": "Key ministers, LDP leaders expected to keep positions amid personnel changes",
+    "summary": "Key ministers and Liberal Democratic Party leaders are expected to retain their positions during personnel changes, signaling Prime Minister Sanae Takaichi's preference for stability before parliamentary sessions.",
+    "lang": "en",
+    "source": "Japan Times",
+    "url": "https://www.japantimes.co.jp/news/2026/09/08/japan/politics/cabinet-ldp-reshuffle-update/",
+    "published": "2026-09-08T07:50:00+00:00"
+   },
+   {
+    "title": "5 dead after crash at Miami Airport. And, Germany's far-right wins state election",
+    "summary": "A cargo plane crash at Miami International Airport killed five people and injured several others; Germany's far-right AfD party achieved an electoral victory in a key state election.",
+    "lang": "en",
+    "source": "NPR World",
+    "url": "https://www.npr.org/2026/09/07/g-s1-142210/up-first-newsletter-miami-plane-crash-ukraine-affirmative-for-germany",
+    "published": "2026-09-07T11:11:51+00:00"
+   }
+  ],
+  "tecnologia|asia": [
+   {
+    "title": "長鑫科技：下半年 DRAM 供給緊缺將延續",
+    "summary": "中国第四大DRAM厂商长鑫科技表示，下半年全球DRAM供给紧缺状况将继续延续。",
+    "lang": "zh",
+    "source": "科技新報 TechNews",
+    "url": "https://technews.tw/2026/09/08/cxmt-dram-lack-26h2/",
+    "published": "2026-09-08T09:40:15+00:00"
+   },
+   {
+    "title": "Arm 推手機版 DLSS，小米 18 Fold 搶先用",
+    "summary": "Arm推出手机版DLSS图形技术，小米18 Fold在中国率先搭载该自研芯片。",
+    "lang": "zh",
+    "source": "科技新報 TechNews",
+    "url": "https://technews.tw/2026/09/08/arm-dlss-xiaomi-18-fold/",
+    "published": "2026-09-08T09:22:36+00:00"
+   },
+   {
+    "title": "零組件供需緊繃至 2028 年！MIC：僅 NAND 明年底緩解，消費型產品恐遭排擠",
+    "summary": "资策会预测零组件供需紧张将持续至2028年，仅NAND闪存预计明年底缓解，消费产品面临被排挤风险。",
+    "lang": "zh",
+    "source": "科技新報 TechNews",
+    "url": "https://technews.tw/2026/09/08/mic-see-2026-h2-shortage/",
+    "published": "2026-09-08T08:57:34+00:00"
+   },
+   {
+    "title": "ConnectWise揭露ScreenConnect新漏洞，目前未有修補程式",
+    "summary": "ConnectWise于9月3日警告其ScreenConnect远程监控平台存在文件传输漏洞，云端和本地版本均受影响，修补程序尚未推出。",
+    "lang": "zh",
+    "source": "iThome 台灣",
+    "url": "https://www.ithome.com.tw/news/178776",
+    "published": "2026-09-08T02:09:48+00:00"
+   }
+  ],
+  "tecnologia|europa": [
+   {
+    "title": "Mistral nació para construir modelos europeos. Tres años después ha descubierto que la verdadera batalla está debajo de ellos",
+    "summary": "Mistral, fundada en 2023 como alternativa europea a OpenAI y gigantes chinos de IA, descubre que la verdadera competencia radica en componentes subyacentes. Tres años después continúa enfrentando desafíos tecnológicos fundamentales.",
+    "lang": "es",
+    "source": "Xataka",
+    "url": "https://www.xataka.com/robotica-e-ia/mistral-nacio-para-construir-modelos-europeos-tres-anos-despues-ha-descubierto-que-verdadera-batalla-esta-debajo-ellos",
+    "published": "2026-09-08T08:47:00+00:00"
+   },
+   {
+    "title": "Un país europeo acaba de realizar el mayor ejercicio de defensa civil desde la Segunda Guerra Mundial. Hace frontera con Rusia",
+    "summary": "Finlandia realizó el mayor ejercicio de defensa civil desde la Segunda Guerra Mundial con 2.000 militares, autoridades y ciudadanos. El país fronterizo con Rusia practicó protocolos de crisis tras décadas sin ejercicios de esta magnitud.",
+    "lang": "es",
+    "source": "Xataka",
+    "url": "https://www.xataka.com/magnet/pais-europeo-acaba-realizar-mayor-ejercicio-defensa-civil-segunda-guerra-mundial-hace-frontera-rusia",
+    "published": "2026-09-08T08:01:00+00:00"
+   }
+  ],
+  "tecnologia|america": [
+   {
+    "title": "First Xiaomi, then the world: why Arm might give phone gaming a huge graphics boost",
+    "summary": "Arm's new mobile graphics technology, first deployed in China's Xiaomi 18 Fold, could fundamentally transform how mobile games are developed and played globally.",
+    "lang": "en",
+    "source": "The Verge",
+    "url": "https://www.theverge.com/games/990676/arm-neural-rendering-mali-g2-ultra-xiaomi-xring-o3",
+    "published": "2026-09-08T02:00:00+00:00"
+   },
+   {
+    "title": "The real reason your phone is getting more expensive",
+    "summary": "Major smartphone manufacturers including Apple are likely to raise prices, driven by increased supply-chain costs and component expenses in the coming product generation.",
+    "lang": "en",
+    "source": "The Verge",
+    "url": "https://www.theverge.com/tech/988225/ram-shortage-supply-chain-micron-apple-iphone",
+    "published": "2026-09-07T12:00:00+00:00"
+   }
+  ]
+ }
+}
