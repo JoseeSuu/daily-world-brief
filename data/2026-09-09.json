@@ -1,0 +1,300 @@
+{
+ "date": "2026-09-09",
+ "generated_at": "2026-09-09T09:58:41.320335+00:00",
+ "mode": "full",
+ "cost_usd": 0.0259,
+ "market": null,
+ "failed_sources": [],
+ "cells": {
+  "economia|asia": [
+   {
+    "title": "World’s biggest relationship? Xi and Modi look to rebuild ties for 2.8bn people",
+    "summary": "El líder chino Xi Jinping se espera que visite India por primera vez en siete años para una cumbre del BRICS, buscando reconstruir relaciones bilaterales entre los dos países más poblados del mundo.",
+    "lang": "en",
+    "source": "FT Global Economy",
+    "url": "https://www.ft.com/content/6525cf15-0cf0-4fff-a3a4-298a41569d97?syn-25a6b1a6=1",
+    "published": "2026-09-09T04:00:16+00:00"
+   },
+   {
+    "title": "India's Adani Airport to raise $1bn from BlackRock, Temasek and others",
+    "summary": "El aeropuerto Adani de India recaudará mil millones de dólares de inversores como BlackRock y Temasek para financiar su expansión.",
+    "lang": "en",
+    "source": "Nikkei Asia",
+    "url": "https://asia.nikkei.com/business/business-deals/india-s-adani-airport-to-raise-1bn-from-blackrock-temasek-and-others",
+    "published": null
+   },
+   {
+    "title": "July wage data bolsters case for BoJ tightening this month",
+    "summary": "Los datos salariales de julio en Japón aceleran el crecimiento de salarios nominales y reales, fortaleciendo el caso para que el Banco de Japón suba tasas este mes.",
+    "lang": "en",
+    "source": "FT Global Economy",
+    "url": "https://www.ft.com/content/be7c3d20-4e4f-4a73-8927-cc5a4d6cccca",
+    "published": "2026-09-08T08:18:53+00:00"
+   }
+  ],
+  "economia|europa": [
+   {
+    "title": "What is causing the global bond sell-off?",
+    "summary": "India ofrece pistas sobre las causas de la venta global de bonos, con implicaciones para los mercados financieros internacionales.",
+    "lang": "en",
+    "source": "The Economist (Finance)",
+    "url": "https://www.economist.com/finance-and-economics/2026/09/08/what-is-causing-the-global-bond-sell-off",
+    "published": "2026-09-08T18:15:09+00:00"
+   },
+   {
+    "title": "French Industrial Output Drops in Blow to Economic Outlook",
+    "summary": "La producción industrial francesa cayó inesperadamente en julio, agravando señales de alerta para una economía que ya ronda la recesión.",
+    "lang": "en",
+    "source": "Bloomberg Economics",
+    "url": "https://www.bloomberg.com/news/articles/2026-09-09/french-industrial-output-drops-in-blow-to-economic-outlook",
+    "published": "2026-09-09T06:45:00+00:00"
+   },
+   {
+    "title": "War and weather threaten another burst of UK inflation, BoE governor warns",
+    "summary": "El gobernador del Banco de Inglaterra advierte que la guerra y el clima amenazan con provocar otra ola de inflación en el Reino Unido.",
+    "lang": "en",
+    "source": "FT Global Economy",
+    "url": "https://www.ft.com/content/faa622d9-0faa-4578-b908-4e77b72a8d44?syn-25a6b1a6=1",
+    "published": "2026-09-08T23:02:31+00:00"
+   },
+   {
+    "title": "Poland to Hold Interest Rates With Inflation at 14-Month High",
+    "summary": "Polonia mantiene los tipos de interés sin cambios mientras la inflación se aproxima al máximo de tolerancia del banco central en 14 meses.",
+    "lang": "en",
+    "source": "Bloomberg Economics",
+    "url": "https://www.bloomberg.com/news/articles/2026-09-09/poland-to-hold-interest-rates-with-inflation-at-14-month-high",
+    "published": "2026-09-09T04:00:00+00:00"
+   }
+  ],
+  "economia|america": [
+   {
+    "title": "Oil hits $100 for first time since July",
+    "summary": "El crudo Brent alcanza los 100 dólares por primera vez desde julio, impulsado por temores de una nueva escasez global tras escaladas en el conflicto entre EE.UU. e Irán.",
+    "lang": "en",
+    "source": "Financial Times",
+    "url": "https://www.ft.com/content/c8921e49-1d06-4d27-ab38-7a1d8e3d43fe?syn-25a6b1a6=1",
+    "published": "2026-09-09T08:49:36+00:00"
+   },
+   {
+    "title": "Trump calls for Bombardier boycott as Canada hits US with tariffs",
+    "summary": "Trump pide boicotear Bombardier mientras Canadá implementa medidas arancelarias de represalia contra Estados Unidos en una escalada comercial.",
+    "lang": "en",
+    "source": "FT Global Economy",
+    "url": "https://www.ft.com/content/a7011878-b0b7-4e7f-8f5a-e7d9d662fd47?syn-25a6b1a6=1",
+    "published": "2026-09-08T13:38:43+00:00"
+   },
+   {
+    "title": "Sheinbaum Budget Sees Smaller Deficit, More Public Works",
+    "summary": "El presupuesto 2027 de México de la presidenta Sheinbaum proyecta un déficit fiscal menor mientras aumenta financiamiento para obras públicas.",
+    "lang": "en",
+    "source": "Bloomberg Economics",
+    "url": "https://www.bloomberg.com/news/articles/2026-09-09/sheinbaum-budget-plan-sees-smaller-deficit-more-public-works",
+    "published": "2026-09-09T02:38:57+00:00"
+   }
+  ],
+  "politica|asia": [
+   {
+    "title": "Report that Netanyahu was warned before October 7 triggers political earthquake in Israel",
+    "summary": "Una investigación de Haaretz afirma que Netanyahu fue advertido por el presidente de EAU diez días antes del 7 de octubre, desatando una crisis política en Israel.",
+    "lang": "en",
+    "source": "Le Monde International",
+    "url": "https://www.lemonde.fr/en/international/article/2026/09/09/report-that-netanyahu-was-warned-before-october-7-triggers-political-earthquake-in-israel_6757337_4.html",
+    "published": "2026-09-09T09:48:10+00:00"
+   },
+   {
+    "title": "Caught between US and Iran, South Korea weighs Hormuz role",
+    "summary": "Corea del Sur evalúa un papel militar en el Estrecho de Ormuz tras enviar un equipo de evaluación, presionada por EE.UU. en medio de tensiones con Irán.",
+    "lang": "en",
+    "source": "South China Morning Post (Asia)",
+    "url": "https://www.scmp.com/week-asia/politics/article/3366903/caught-between-us-and-iran-south-korea-weighs-hormuz-role?utm_source=rss_feed",
+    "published": "2026-09-09T09:00:07+00:00"
+   },
+   {
+    "title": "U.S. military says it destroyed 5 Iranian oil tankers after attacks on Navy warship",
+    "summary": "El ejército estadounidense dice haber destruido cinco buques tanques iraníes tras ataques contra buques de guerra estadounidenses; Irán atacó objetivos estadounidenses en Jordania.",
+    "lang": "en",
+    "source": "NPR World",
+    "url": "https://www.npr.org/2026/09/09/nx-s1-5962641/us-destroy-iranian-oil-tankers",
+    "published": "2026-09-09T05:20:45+00:00"
+   },
+   {
+    "title": "因應經濟脅迫風險 駐菲副代表：台灣可善用優勢強化供應鏈韌性",
+    "summary": "駐菲副代表李廷盛表示，台灣可與菲律賓等民主夥伴合作，善用半導體等優勢強化供應鏈韌性，應對經濟脅迫風險。",
+    "lang": "zh",
+    "source": "中央社 CNA",
+    "url": "https://www.cna.com.tw/news/aopl/202609090235.aspx",
+    "published": "2026-09-09T09:14:30+00:00"
+   },
+   {
+    "title": "Gunman shoots and kills kindergarten teacher in Thailand",
+    "summary": "Un tirador mató a una maestra de jardín de infancia en una escuela en Tailandia oriental; 44 niños y tres maestros fueron evacuados con seguridad.",
+    "lang": "en",
+    "source": "South China Morning Post (Asia)",
+    "url": "https://www.scmp.com/news/asia/southeast-asia/article/3366906/gunman-shoots-and-kills-kindergarten-teacher-thailand?utm_source=rss_feed",
+    "published": "2026-09-09T08:36:06+00:00"
+   }
+  ],
+  "politica|europa": [
+   {
+    "title": "Putin rejects mobilization rumors, many Russians unconvinced",
+    "summary": "El presidente Putin niega rumores de movilización militar rusa, pero muchos ciudadanos rusos dicen estar preparándose para esa posibilidad.",
+    "lang": "en",
+    "source": "Deutsche Welle World",
+    "url": "https://www.dw.com/en/putin-rejects-mobilization-rumors-many-russians-unconvinced/a-79193386?maca=en-rss-en-world-4025-rdf",
+    "published": "2026-09-09T05:57:00+00:00"
+   },
+   {
+    "title": "Google to invest €13 billion in AI infrastructure in Finland",
+    "summary": "Google invertirá 13 mil millones de euros en infraestructura de inteligencia artificial en Finlandia, incluyendo centros de datos.",
+    "lang": "en",
+    "source": "Le Monde International",
+    "url": "https://www.lemonde.fr/en/pixels/article/2026/09/09/google-to-invest-13-billion-in-ai-infrastructure-in-finland_6757334_13.html",
+    "published": "2026-09-09T08:02:44+00:00"
+   },
+   {
+    "title": "Ratko Mladic’s funeral casts shadow over Bosnia and Herzegovina vote",
+    "summary": "El funeral de Ratko Mladić en Belgrado, asistido por líderes serbios, ha aumentado tensiones regionales y podría afectar las próximas elecciones en Bosnia y Herzegovina.",
+    "lang": "en",
+    "source": "Deutsche Welle World",
+    "url": "https://www.dw.com/en/ratko-mladic-s-funeral-casts-shadow-over-bosnia-and-herzegovina-vote/a-79189319?maca=en-rss-en-world-4025-rdf",
+    "published": "2026-09-08T14:09:00+00:00"
+   },
+   {
+    "title": "Iceland's no vote does not undermine the EU's appeal",
+    "summary": "El voto negativo de Islandia en referéndum, motivado por preocupaciones sobre derechos de pesca, decepciona a integracionistas europeos pero no erosiona el atractivo de la UE.",
+    "lang": "en",
+    "source": "Le Monde International",
+    "url": "https://www.lemonde.fr/en/opinion/article/2026/09/09/iceland-s-no-vote-does-not-undermine-the-eu-s-appeal_6757329_23.html",
+    "published": "2026-09-09T03:30:12+00:00"
+   }
+  ],
+  "politica|america": [
+   {
+    "title": "Citing the 'Deep State,' Trump overhauls the intelligence community",
+    "summary": "Trump reestructura la comunidad de inteligencia citando la 'burocracia profunda', desmantela cambios implementados tras los ataques del 11 de septiembre.",
+    "lang": "en",
+    "source": "NPR World",
+    "url": "https://www.npr.org/2026/09/09/nx-s1-5955756/deep-state-trump-9-11-national-intelligence",
+    "published": "2026-09-09T09:00:00+00:00"
+   },
+   {
+    "title": "Iceland summons U.S. ambassador after Trump posts countries draped with American flag",
+    "summary": "Islandia convoca al embajador estadounidense tras un mapa publicado por Trump que muestra el país cubierto por la bandera americana en redes sociales.",
+    "lang": "en",
+    "source": "NPR World",
+    "url": "https://www.npr.org/2026/09/09/nx-s1-5961412/iceland-summons-u-s-ambassador-after-trump-posts-countries-draped-with-american-flag",
+    "published": "2026-09-09T08:44:40+00:00"
+   },
+   {
+    "title": "GOP to host unusual midterm convention. And, Canada's retaliatory tariffs take effect",
+    "summary": "Los republicanos organizan una convención partidaria inusual para impulsar votos en las elecciones de mitad de período; aranceles canadienses de represalia entran en vigencia.",
+    "lang": "en",
+    "source": "NPR World",
+    "url": "https://www.npr.org/2026/09/08/g-s1-142302/up-first-newsletter-trumpapalooza-amazon-cargo-plane-crash-canada-tariffs",
+    "published": "2026-09-08T11:20:05+00:00"
+   },
+   {
+    "title": "Chrystia Freeland negotiated with Trump. Now she's watching a trade war unfold",
+    "summary": "Chrystia Freeland, quien negoció con Trump anteriormente, observa cómo se desarrolla una guerra comercial entre EE.UU. y Canadá.",
+    "lang": "en",
+    "source": "NPR World",
+    "url": "https://www.npr.org/2026/09/08/nx-s1-5955613/chrystia-freeland-canada-us-trade-war-tariffs",
+    "published": "2026-09-08T10:46:03+00:00"
+   },
+   {
+    "title": "Kenya's foreign trader crackdown sparks fear among migrant communities",
+    "summary": "La orden del presidente keniano de reprimir a comerciantes extranjeros suscita temores de xenofobia entre comunidades de migrantes.",
+    "lang": "en",
+    "source": "NPR World",
+    "url": "https://www.npr.org/2026/09/08/nx-s1-5958636/kenya-immigration-foreign-xenophobia-africa",
+    "published": "2026-09-08T19:55:43+00:00"
+   }
+  ],
+  "tecnologia|america": [
+   {
+    "title": "AlphaGenome Atlas: A predictive map of every possible DNA letter change in the human genome",
+    "summary": "AlphaGenome Atlas mapea los efectos moleculares de 9 mil millones de variantes de ADN de una sola letra en el genoma humano.",
+    "lang": "en",
+    "source": "Google DeepMind Blog",
+    "url": "https://deepmind.google/blog/alphagenome-atlas-a-predictive-map-of-every-possible-dna-letter-change-in-the-human-genome/",
+    "published": "2026-09-08T14:00:15+00:00"
+   },
+   {
+    "title": "Batteries just broke another record in the US",
+    "summary": "Las instalaciones de baterías alcanzan un nuevo récord en Estados Unidos en el segundo trimestre de 2026, con 20.2 gigavatios-hora de nueva capacidad operativa.",
+    "lang": "en",
+    "source": "MIT Technology Review",
+    "url": "https://www.technologyreview.com/2026/09/09/1143680/batteries-us-record/",
+    "published": "2026-09-09T09:00:00+00:00"
+   },
+   {
+    "title": "Cognition hits $48B valuation, signaling investors believe AI coding is far from a winner-take-all market",
+    "summary": "Cognition alcanza una valoración de 48 mil millones de dólares, indicando que los inversores creen que la programación con IA está lejos de ser un mercado de ganador único.",
+    "lang": "en",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/09/08/cognition-hits-48b-valuation-signaling-investors-believe-ai-coding-is-far-from-a-winner-take-all-market/",
+    "published": "2026-09-08T21:04:06+00:00"
+   },
+   {
+    "title": "Top chipmakers embrace ASML’s $400M machines, agree to crucial chipmaking change",
+    "summary": "Los principales fabricantes de chips adoptan máquinas de 400 millones de dólares de ASML y acuerdan cambios cruciales que podrían aumentar productividad en 40 por ciento.",
+    "lang": "en",
+    "source": "Ars Technica",
+    "url": "https://arstechnica.com/gadgets/2026/09/top-chipmakers-embrace-asmls-400m-machines-agree-to-crucial-chipmaking-change/",
+    "published": "2026-09-08T19:12:53+00:00"
+   },
+   {
+    "title": "Meta bets on AI agent Muse to catch up in AI race",
+    "summary": "Meta introduce a Muse, un asistente de inteligencia artificial personal diseñado para democratizar la IA y hacerla accesible a prácticamente cualquier persona.",
+    "lang": "en",
+    "source": "The Verge",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/991216/meta-bets-on-ai-agent-muse-to-catch-up-in-ai-race",
+    "published": "2026-09-08T19:00:00+00:00"
+   }
+  ],
+  "tecnologia|europa": [
+   {
+    "title": "¿Y si el calor que desprende tu coche se pudiera convertir en frío para tu casa en verano? Estos científicos han encontrado una manera de hacerlo (y sin electricidad)",
+    "summary": "Investigadores del Instituto Tecnológico de Karlsruhe han encontrado una forma de convertir el calor residual de vehículos en frío para casas sin usar electricidad.",
+    "lang": "es",
+    "source": "Xataka",
+    "url": "https://www.xataka.com/energia/calor-que-desprende-tu-coche-se-pudiera-convertir-frio-para-tu-casa-verano-estos-cientificos-han-encontrado-manera-hacerlo-electricidad",
+    "published": "2026-09-09T09:01:01+00:00"
+   }
+  ],
+  "tecnologia|asia": [
+   {
+    "title": "數發部與八大部會啟動AI風險盤點，2027年前完成首輪法規調適",
+    "summary": "數發部與八大部會啟動AI風險盤點，建置AI風險管理檢核系統，預計2027年前完成首輪法規調適。",
+    "lang": "zh",
+    "source": "iThome 台灣",
+    "url": "https://www.ithome.com.tw/news/178826",
+    "published": "2026-09-09T05:09:00+00:00"
+   },
+   {
+    "title": "中國生技業復甦引爆「猴荒」，實驗猴身價飆漲四倍、新藥研發卡關",
+    "summary": "中國生技市場復甦帶動實驗用猴需求激增，猴隻身價飆漲四倍，導致新藥研發出現瓶頸。",
+    "lang": "zh",
+    "source": "科技新報 TechNews",
+    "url": "https://technews.tw/2026/09/09/lab-monkey-chinese-biotech/",
+    "published": "2026-09-09T09:50:25+00:00"
+   },
+   {
+    "title": "可能被逆向工程，美國海軍最新無人潛艇首度被伊朗擄獲",
+    "summary": "伊朗革命衛隊聲稱在荷莫茲海峽入口繳獲美軍Dive-LD無人潛航器，美國警惕其被逆向工程的風險。",
+    "lang": "zh",
+    "source": "科技新報 TechNews",
+    "url": "https://technews.tw/2026/09/09/us-navys-dive-ld-usv-got-captured-by-irgc/",
+    "published": "2026-09-09T09:25:20+00:00"
+   },
+   {
+    "title": "WeChat零點擊蠕蟲利用好友來電擴散，可跨iOS與Android接管帳號",
+    "summary": "WeChat通話漏洞WeWorm可跨iOS與Android平台傳播，攻擊者無需受害者接聽就能接管帳號並自動向好友傳播。",
+    "lang": "zh",
+    "source": "iThome 台灣",
+    "url": "https://www.ithome.com.tw/news/178812",
+    "published": "2026-09-09T04:09:34+00:00"
+   }
+  ]
+ }
+}
