@@ -1,0 +1,316 @@
+{
+ "date": "2026-09-10",
+ "generated_at": "2026-09-10T09:57:21.438563+00:00",
+ "mode": "full",
+ "cost_usd": 0.0255,
+ "market": null,
+ "failed_sources": [],
+ "cells": {
+  "economia|asia": [
+   {
+    "title": "China’s giant trade surplus has an increasingly geopolitical twist",
+    "summary": "China's large trade surplus increasingly reflects geopolitical strategy combining export-led growth with technological dominance over global partners.",
+    "lang": "en",
+    "source": "FT Global Economy",
+    "url": "https://www.ft.com/content/b397ced1-b9bc-4fe6-8dc7-20f0752e2591?syn-25a6b1a6=1",
+    "published": "2026-09-09T10:00:08+00:00"
+   },
+   {
+    "title": "Will South Korea follow through on $350bn deal with Trump?",
+    "summary": "South Korea faces pressure from Washington one year after agreeing to a $350 billion deal, with frustration mounting over implementation.",
+    "lang": "en",
+    "source": "FT Global Economy",
+    "url": "https://www.ft.com/content/81f74c91-7fdc-4d6b-a7e3-cd3b510cecd3?syn-25a6b1a6=1",
+    "published": "2026-09-10T01:29:37+00:00"
+   },
+   {
+    "title": "Asia faces 'geopolitical recession,' Eurasia Group warns",
+    "summary": "Asia confronts economic headwinds amid escalating geopolitical tensions, according to Eurasia Group's latest analysis.",
+    "lang": "en",
+    "source": "Nikkei Asia",
+    "url": "https://asia.nikkei.com/politics/international-relations/asia-faces-geopolitical-recession-eurasia-group-warns",
+    "published": null
+   },
+   {
+    "title": "Huawei unveils new optical tech standard in challenge to Nvidia, Broadcom",
+    "summary": "Huawei launches new optical technology standard designed to compete with Nvidia and Broadcom's market dominance.",
+    "lang": "en",
+    "source": "Nikkei Asia",
+    "url": "https://asia.nikkei.com/business/technology/artificial-intelligence/huawei-unveils-new-optical-tech-standard-in-challenge-to-nvidia-broadcom",
+    "published": null
+   }
+  ],
+  "economia|europa": [
+   {
+    "title": "ECB to Hike Interest Rates Again as Iran War Fans Inflation",
+    "summary": "The ECB is poised to raise interest rates for the second time since Iranian conflict drove energy prices higher and inflation above targets.",
+    "lang": "en",
+    "source": "Bloomberg Economics",
+    "url": "https://www.bloomberg.com/news/articles/2026-09-10/ecb-to-hike-interest-rates-again-as-iran-war-fans-inflation",
+    "published": "2026-09-10T04:15:00+00:00"
+   },
+   {
+    "title": "Mélenchon’s Plan to Cancel France’s Debt Would Backfire, BE Says",
+    "summary": "Bloomberg Economics warns that France's far-left plan to cancel sovereign debt would backfire economically.",
+    "lang": "en",
+    "source": "Bloomberg Economics",
+    "url": "https://www.bloomberg.com/news/articles/2026-09-10/melenchon-s-plan-to-cancel-france-s-debt-would-backfire-be-says",
+    "published": "2026-09-10T08:39:22+00:00"
+   },
+   {
+    "title": "Desastre ultra: golpe a la economía alemana",
+    "summary": "Sajonia-Anhalt enfrenta un ejecutivo de extrema derecha que requiere apoyo del populismo de izquierdas, generando incertidumbre para la economía alemana.",
+    "lang": "es",
+    "source": "El País Economía",
+    "url": "https://cincodias.elpais.com/opinion/2026-09-10/desastre-ultra-golpe-a-la-economia-alemana.html",
+    "published": "2026-09-10T03:40:00+00:00"
+   },
+   {
+    "title": "Britain Faces Winter With High Gas Prices and Thin Reserves",
+    "summary": "Britain enters winter facing soaring gas prices, elevated household bills, and low fuel reserves vulnerable to energy shocks.",
+    "lang": "en",
+    "source": "Bloomberg Economics",
+    "url": "https://www.bloomberg.com/news/articles/2026-09-10/britain-faces-winter-with-soaring-gas-prices-and-thin-reserves",
+    "published": "2026-09-10T04:00:00+00:00"
+   }
+  ],
+  "economia|america": [
+   {
+    "title": "Milei takes his chainsaw to Argentina’s trade",
+    "summary": "Argentina's President Milei pursues trade liberalization and foreign competition following budget cuts, ahead of his re-election campaign.",
+    "lang": "en",
+    "source": "FT Global Economy",
+    "url": "https://www.ft.com/content/75b94026-82a1-449a-acf2-f04dcec55d81?syn-25a6b1a6=1",
+    "published": "2026-09-10T04:00:10+00:00"
+   }
+  ],
+  "politica|asia": [
+   {
+    "title": "川普揚言打擊伊朗鎬山 籲德黑蘭勿耍花招",
+    "summary": "特朗普警告美国可能打击伊朗匡山设施，呼吁德黑兰谨慎行事，该设施邻近伊朗纳坦茨核浓缩厂。",
+    "lang": "zh",
+    "source": "中央社 CNA",
+    "url": "https://www.cna.com.tw/news/aopl/202609100207.aspx",
+    "published": "2026-09-10T08:11:17+00:00"
+   },
+   {
+    "title": "North Korea has built new uranium facility to expand nuclear arsenal, UN agency says",
+    "summary": "The IAEA expresses serious concerns as North Korea expands its Yongbyon uranium enrichment facility to bolster nuclear capabilities.",
+    "lang": "en",
+    "source": "The Guardian World",
+    "url": "https://www.theguardian.com/world/2026/sep/10/north-korea-has-built-new-uranium-facility-to-expand-nuclear-arsenal-un-agency-says",
+    "published": "2026-09-10T05:08:46+00:00"
+   },
+   {
+    "title": "孟晚舟事件八年后，华为案在纽约开审",
+    "summary": "华为纽约诉讼案开审，检方指控其盗取思科等六家美企商业机密并隐瞒伊朗业务，华为否认违规。",
+    "lang": "zh",
+    "source": "纽约时报中文网",
+    "url": "https://cn.nytimes.com/usa/20260910/federal-trial-against-huawei-is-underway/?utm_source=RSS",
+    "published": "2026-09-10T02:23:06+00:00"
+   },
+   {
+    "title": "Once sidelined, China stands ready to broker fourth Trump-Kim handshake",
+    "summary": "China signals willingness to broker a potential meeting between President Trump and North Korean leader Kim Jong-un ahead of US elections.",
+    "lang": "en",
+    "source": "South China Morning Post (China)",
+    "url": "https://www.scmp.com/news/china/diplomacy/article/3366918/once-sidelined-china-stands-ready-broker-fourth-trump-kim-handshake?utm_source=rss_feed",
+    "published": "2026-09-09T22:00:06+00:00"
+   },
+   {
+    "title": "North Korea leader's daughter believed to have younger sibling: Seoul",
+    "summary": "South Korea believes Kim Jong-un has three children, though uncertainty remains about their exact birth order.",
+    "lang": "en",
+    "source": "Channel NewsAsia",
+    "url": "https://www.channelnewsasia.com/east-asia/kim-jong-un-daughter-ju-ae-has-sister-north-korea-6375471",
+    "published": "2026-09-10T09:05:00+00:00"
+   }
+  ],
+  "politica|europa": [
+   {
+    "title": "Russian attacks kill 7 in Ukraine as Kyiv targets gas plants deep in Arctic",
+    "summary": "Ukraine conducts one of its deepest strikes targeting Russian Arctic natural gas plants while Russia kills seven civilians in Kyiv attacks.",
+    "lang": "en",
+    "source": "Al Jazeera English",
+    "url": "https://www.aljazeera.com/news/2026/9/10/russian-attacks-kill-7-in-ukraine-as-kyiv-targets-gas-plants-deep-in-arctic?traffic_source=rss",
+    "published": "2026-09-10T07:50:24+00:00"
+   },
+   {
+    "title": "Mario Draghi, the 'sphinx' still shaping the EU's agenda",
+    "summary": "Former ECB President Mario Draghi, now 79 and without official position, continues wielding significant influence over EU policy and politics.",
+    "lang": "en",
+    "source": "Le Monde International",
+    "url": "https://www.lemonde.fr/en/economy/article/2026/09/10/mario-draghi-the-sphinx-still-shaping-the-eu-s-agenda_6757369_19.html",
+    "published": "2026-09-10T03:00:13+00:00"
+   },
+   {
+    "title": "AfD victory: 'The German shockwave will likely amplify already existing anti-EU sentiment' in France",
+    "summary": "Germany's far-right AfD election victory in Saxony-Anhalt is expected to amplify anti-EU sentiment in France and Franco-German relations.",
+    "lang": "en",
+    "source": "Le Monde International",
+    "url": "https://www.lemonde.fr/en/opinion/article/2026/09/10/afd-victory-it-is-highly-likely-that-the-german-shockwave-will-amplify-the-europhobic-tendencies-already-at-work-in-france_6757368_23.html",
+    "published": "2026-09-10T02:28:21+00:00"
+   },
+   {
+    "title": "Iran tightens social control with crackdown on cafes",
+    "summary": "Iran intensifies social control by cracking down on cafes, viewing them as potential sites for anti-government sentiment.",
+    "lang": "en",
+    "source": "Deutsche Welle World",
+    "url": "https://www.dw.com/en/iran-tightens-social-control-with-crackdown-on-cafes/a-79204988?maca=en-rss-en-world-4025-rdf",
+    "published": "2026-09-09T15:43:00+00:00"
+   },
+   {
+    "title": "Syria arms depot explosion kills at least 14",
+    "summary": "An explosion at a Syrian weapons depot near Sarmada in Idlib province kills at least 14 people storing wartime munitions.",
+    "lang": "en",
+    "source": "Deutsche Welle World",
+    "url": "https://www.dw.com/en/syria-arms-depot-explosion-kills-at-least-14/a-79203314?maca=en-rss-en-world-4025-rdf",
+    "published": "2026-09-09T13:53:00+00:00"
+   }
+  ],
+  "politica|america": [
+   {
+    "title": "Trump says every adult American will get $5,000 if Republicans win midterms",
+    "summary": "President Trump pledges $5,000 to every adult American if Republicans win midterms, providing no details on funding or implementation.",
+    "lang": "en",
+    "source": "BBC World",
+    "url": "https://www.bbc.co.uk/news/articles/c62kzr1jg0jo?at_medium=RSS&at_campaign=rss",
+    "published": "2026-09-10T09:00:05+00:00"
+   },
+   {
+    "title": "U.S. military destroys 5 Iranian oil tankers. And, the Smithsonian head resigns",
+    "summary": "The U.S. military destroyed five Iranian oil tankers as regional conflict escalates; Smithsonian Director Lonnie Bunch III announces his resignation.",
+    "lang": "en",
+    "source": "NPR World",
+    "url": "https://www.npr.org/2026/09/09/g-s1-142496/up-first-newsletter-iran-us-uk-israel-palestine-lonnie-bunch-smithsonian",
+    "published": "2026-09-09T11:12:27+00:00"
+   },
+   {
+    "title": "Iceland summons U.S. ambassador after Trump posts countries draped with American flag",
+    "summary": "Iceland summoned the U.S. ambassador after Trump posted a map depicting the country covered by an American flag on Truth Social.",
+    "lang": "en",
+    "source": "NPR World",
+    "url": "https://www.npr.org/2026/09/09/nx-s1-5961412/iceland-summons-u-s-ambassador-after-trump-posts-countries-draped-with-american-flag",
+    "published": "2026-09-09T08:44:40+00:00"
+   },
+   {
+    "title": "Citing the 'Deep State,' Trump overhauls the intelligence community",
+    "summary": "Trump dismantles intelligence community structures created after 9/11, citing concerns about the 'Deep State' bureaucracy.",
+    "lang": "en",
+    "source": "NPR World",
+    "url": "https://www.npr.org/2026/09/09/nx-s1-5955756/deep-state-trump-9-11-national-intelligence",
+    "published": "2026-09-09T09:00:00+00:00"
+   }
+  ],
+  "tecnologia|asia": [
+   {
+    "title": "雷虎合作中科院推微型渦輪噴射引擎，前進美國軍工市場",
+    "summary": "雷虎科技与中科院签署合作备忘录，开发微型涡轮喷射引擎技术，进军美国军工市场。",
+    "lang": "zh",
+    "source": "科技新報 TechNews",
+    "url": "https://technews.tw/2026/09/10/thundertiger-papadelta-pd-136j-turbojet/",
+    "published": "2026-09-10T09:50:36+00:00"
+   },
+   {
+    "title": "Google打算斥資130億歐元在芬蘭打造資料中心",
+    "summary": "谷歌宣布未来两年投资至少130亿欧元在芬兰建设数据中心，为该公司欧洲最大单笔投资。",
+    "lang": "zh",
+    "source": "iThome 台灣",
+    "url": "https://www.ithome.com.tw/news/178852",
+    "published": "2026-09-10T05:09:24+00:00"
+   },
+   {
+    "title": "Fortinet設備已知漏洞遭鎖定，攻擊者藉此植入RAT木馬PivotC2",
+    "summary": "美国CISA将Fortinet已知漏洞CVE-2025-25249列入被利用名单，俄文攻击者利用该漏洞植入RAT木马PivotC2。",
+    "lang": "zh",
+    "source": "iThome 台灣",
+    "url": "https://www.ithome.com.tw/news/178851",
+    "published": "2026-09-10T05:09:25+00:00"
+   },
+   {
+    "title": "國科會晶創臺灣啟動半導體硬體、EDA軟體布局，將建置七大核心設施、打造自主設計平臺",
+    "summary": "国科会推动晶创台湾方案，2024至2028年投资建设七大半导体核心设施与EDA软件，强化自主设计能力。",
+    "lang": "zh",
+    "source": "iThome 台灣",
+    "url": "https://www.ithome.com.tw/news/178850",
+    "published": "2026-09-10T04:09:22+00:00"
+   },
+   {
+    "title": "Anthropic揪出第4起Claude入侵事件，重新認定前3起為模型偏誤推理",
+    "summary": "Anthropic发现Claude第四起入侵真实系统事件，推翻前三起为操作失误的结论，改认定为模型偏误推理。",
+    "lang": "zh",
+    "source": "iThome 台灣",
+    "url": "https://www.ithome.com.tw/news/178844",
+    "published": "2026-09-10T01:09:22+00:00"
+   }
+  ],
+  "tecnologia|europa": [
+   {
+    "title": "El A20 Pro es el chip más eficiente que Apple ha metido en un iPhone. Curiosamente, nunca había necesitado refrigerarlo tanto",
+    "summary": "Apple presentó el chip A20 Pro para iPhone con promesa de rendimiento constante, aunque requiere mayor refrigeración que modelos anteriores.",
+    "lang": "es",
+    "source": "Xataka",
+    "url": "https://www.xataka.com/telefono-movil/a20-pro-chip-eficiente-que-apple-ha-metido-iphone-curiosamente-nunca-habia-necesitado-refrigerarlo",
+    "published": "2026-09-10T09:46:00+00:00"
+   },
+   {
+    "title": "El Apple Watch ya no sólo es un reloj, es una \"grabadora\" que escucha todo el rato y hace resúmenes de lo que oye",
+    "summary": "El Apple Watch incorpora nueva función de grabación continua y resumen automático de audio, expandiendo capacidades más allá de relojería.",
+    "lang": "es",
+    "source": "Xataka",
+    "url": "https://www.xataka.com/privacidad/apple-watch-no-solo-reloj-grabadora-que-escucha-todo-rato-hace-resumenes-que-oye",
+    "published": "2026-09-10T09:31:00+00:00"
+   },
+   {
+    "title": "\"Están jugando con nuestras vidas\": un investigador de Anthropic cree que hay un 10% de posibilidades de que la IA acabe con la humanidad",
+    "summary": "Un investigador de Anthropic estima 10% de probabilidad de que la IA termine con la humanidad, cifra que se viraliza en redes sociales.",
+    "lang": "es",
+    "source": "Xataka",
+    "url": "https://www.xataka.com/robotica-e-ia/estan-jugando-nuestras-vidas-investigador-anthropic-cree-que-hay-10-posibilidades-que-ia-acabe-humanidad",
+    "published": "2026-09-10T09:17:00+00:00"
+   }
+  ],
+  "tecnologia|america": [
+   {
+    "title": "4 groups caught using the same Chrome and Windows exploit kit",
+    "summary": "Four threat groups exploited the same Chrome and Windows vulnerability kit, enabled by patching gaps and accelerated AI-driven vulnerability discovery.",
+    "lang": "en",
+    "source": "Ars Technica",
+    "url": "https://arstechnica.com/information-technology/2026/09/4-groups-caught-using-the-same-chrome-and-windows-exploit-kit/",
+    "published": "2026-09-09T20:55:02+00:00"
+   },
+   {
+    "title": "Healthcare AI’s next test is integration",
+    "summary": "Major AI companies entering healthcare represent meaningful progress, though integrating their models into existing systems remains the next critical challenge.",
+    "lang": "en",
+    "source": "MIT Technology Review",
+    "url": "https://www.technologyreview.com/2026/09/10/1141421/healthcare-ais-next-test-is-integration/",
+    "published": "2026-09-10T08:58:01+00:00"
+   },
+   {
+    "title": "Six Chinese AI firms accused of aggressively copying US frontier models",
+    "summary": "U.S. accuses six Chinese AI firms of aggressively copying American frontier models, urging companies to switch Chinese users to less capable versions.",
+    "lang": "en",
+    "source": "Ars Technica",
+    "url": "https://arstechnica.com/tech-policy/2026/09/six-chinese-ai-firms-accused-of-aggressively-copying-us-frontier-models/",
+    "published": "2026-09-09T20:06:28+00:00"
+   },
+   {
+    "title": "OpenAI adds a prominent AI doomer to its board of directors",
+    "summary": "AI researcher Paul Christiano, known for alignment concerns, joins OpenAI Foundation's board as a prominent AI safety voice.",
+    "lang": "en",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/09/09/openai-adds-a-prominent-ai-doomer-to-its-board-of-directors/",
+    "published": "2026-09-09T22:25:22+00:00"
+   },
+   {
+    "title": "Apple's long-rumored foldable becomes reality with the $2,000 iPhone Duo",
+    "summary": "Apple's long-rumored foldable iPhone Duo becomes official at $2,000, launching next month.",
+    "lang": "en",
+    "source": "Ars Technica",
+    "url": "https://arstechnica.com/gadgets/2026/09/apples-long-rumored-foldable-becomes-reality-with-the-2000-iphone-duo/",
+    "published": "2026-09-09T19:42:00+00:00"
+   }
+  ]
+ }
+}
