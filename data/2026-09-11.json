@@ -1,0 +1,300 @@
+{
+ "date": "2026-09-11",
+ "generated_at": "2026-09-11T09:55:14.897562+00:00",
+ "mode": "full",
+ "cost_usd": 0.0268,
+ "market": null,
+ "failed_sources": [],
+ "cells": {
+  "economia|asia": [
+   {
+    "title": "China makes its vast market speak with one voice",
+    "summary": "China está coordinando su vasto mercado bajo un enfoque unificado de política económica. Esta estrategia busca fortalecer la competitividad y el control del Estado sobre sectores clave.",
+    "lang": "en",
+    "source": "Nikkei Asia",
+    "url": "https://asia.nikkei.com/opinion/china-makes-its-vast-market-speak-with-one-voice",
+    "published": null
+   },
+   {
+    "title": "Bank of Japan set to raise policy rate to 1.25% next week",
+    "summary": "El Banco de Japón planea elevar su tasa de política a 1.25% la próxima semana. El aumento responde a presiones inflacionarias y cambios en las condiciones económicas globales.",
+    "lang": "en",
+    "source": "Nikkei Asia",
+    "url": "https://asia.nikkei.com/economy/bank-of-japan/bank-of-japan-set-to-raise-policy-rate-to-1.25-next-week",
+    "published": null
+   },
+   {
+    "title": "Chinese Nvidia challenger Enflame jumps 179% in Shanghai market debut",
+    "summary": "Enflame, competidor chino de Nvidia, se disparó 179% en su debut en el mercado de Shanghái. La fuerte acogida refleja la demanda de soluciones de chips de IA en China.",
+    "lang": "en",
+    "source": "Nikkei Asia",
+    "url": "https://asia.nikkei.com/business/markets/ipo/chinese-nvidia-challenger-enflame-jumps-179-in-shanghai-market-debut",
+    "published": null
+   },
+   {
+    "title": "Asia Confronts New Inflation, Fiscal Threat as Oil Tops $100",
+    "summary": "Las economías asiáticas enfrentan nuevas presiones tras superar el petróleo los $100 por barril. La inflación elevada y políticas fiscales ajustadas limitan el margen de maniobra regional.",
+    "lang": "en",
+    "source": "Bloomberg Economics",
+    "url": "https://www.bloomberg.com/news/articles/2026-09-11/asia-confronts-fresh-inflation-fiscal-threats-as-oil-tops-100",
+    "published": "2026-09-11T04:09:30+00:00"
+   }
+  ],
+  "economia|europa": [
+   {
+    "title": "Monetary policy decisions",
+    "summary": "El Banco Central Europeo anuncia decisiones de política monetaria para abordar presiones inflacionarias. Las medidas buscan mantener la estabilidad y controlar el aumento de precios.",
+    "lang": "en",
+    "source": "BCE (notas de prensa)",
+    "url": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.mp260910~314e508016.en.html",
+    "published": "2026-09-10T12:15:00+00:00"
+   },
+   {
+    "title": "ECB prepares for ‘longer-lasting’ inflation as it lifts interest rates to 2.5%",
+    "summary": "El BCE sube tasas a 2.5% mientras advierte sobre inflación persistente hasta 2027. La presidenta Christine Lagarde atribuye presiones al conflicto de Oriente Medio.",
+    "lang": "en",
+    "source": "FT Global Economy",
+    "url": "https://www.ft.com/content/7816ad68-58ed-494c-a66f-091a9cca2cbc?syn-25a6b1a6=1",
+    "published": "2026-09-10T16:59:07+00:00"
+   },
+   {
+    "title": "Bank of France Governor Says Economy in ‘Worrying’ Situation",
+    "summary": "El gobernador del Banco de Francia advierte que la economía enfrenta una situación preocupante. Urge acción gubernamental para resolver el déficit presupuestario creciente.",
+    "lang": "en",
+    "source": "Bloomberg Economics",
+    "url": "https://www.bloomberg.com/news/articles/2026-09-11/bank-of-france-governor-says-economy-in-worrying-situation",
+    "published": "2026-09-11T07:08:05+00:00"
+   },
+   {
+    "title": "Can Germany’s economic recovery outrun the AfD?",
+    "summary": "La economía alemana muestra signos de recuperación, aunque frágiles y limitados. El crecimiento enfrenta desafíos políticos y estructurales persistentes.",
+    "lang": "en",
+    "source": "The Economist (Finance)",
+    "url": "https://www.economist.com/finance-and-economics/2026/09/10/can-germanys-economic-recovery-outrun-the-afd",
+    "published": "2026-09-10T09:17:17+00:00"
+   }
+  ],
+  "economia|america": [
+   {
+    "title": "Agencies reduce regulatory burden for community banks, increase eligibility for 18-month exam cycle",
+    "summary": "Las agencias regulatorias reducen la carga normativa para bancos comunitarios estadounidenses. Aumentan la elegibilidad para ciclos de examen de 18 meses, facilitando cumplimiento.",
+    "lang": "en",
+    "source": "Reserva Federal (notas de prensa)",
+    "url": "https://www.federalreserve.gov/newsevents/pressreleases/bcreg20260910a.htm",
+    "published": "2026-09-10T20:00:00+00:00"
+   },
+   {
+    "title": "America is losing its captive creditors",
+    "summary": "Estados Unidos paga tasas más altas para atraer inversores a sus bonos del Tesoro. Pierde ventaja como deudor de bajo costo a medida que inversionistas buscan mejores rendimientos.",
+    "lang": "en",
+    "source": "FT Global Economy",
+    "url": "https://www.ft.com/content/a441ea66-329a-4f42-8e50-3ff140958e53",
+    "published": "2026-09-10T15:08:22+00:00"
+   }
+  ],
+  "politica|asia": [
+   {
+    "title": "香港支聯會「煽動顛覆」案：李卓人、鄒幸彤、何俊仁判囚5至7年",
+    "summary": "香港法院判处支联会主席李卓人等三人入狱5至7年，罪名涉及煽动颠覆。支联会已宣布解散，结束32年历史。",
+    "lang": "zh",
+    "source": "BBC中文",
+    "url": "https://www.bbc.com/zhongwen/articles/cvgyj1x17vko/trad?at_medium=RSS&at_campaign=rss",
+    "published": "2026-09-11T07:00:19+00:00"
+   },
+   {
+    "title": "Japan’s Digital Agency says personal information possibly leaked",
+    "summary": "La Agencia Digital de Japón reporta posible fuga de información personal de usuarios. Hasta ahora no se han confirmado usos secundarios maliciosos de los datos.",
+    "lang": "en",
+    "source": "Japan Times",
+    "url": "https://www.japantimes.co.jp/news/2026/09/11/japan/digital-agency-information-leakage/",
+    "published": "2026-09-11T09:00:00+00:00"
+   },
+   {
+    "title": "Indonesia grapples with evolving online extremism threat among youth",
+    "summary": "Indonesia enfrenta creciente extremismo violento en línea entre jóvenes. Las redes sociales han transformado cómo los menores se radicalizan, según analistas.",
+    "lang": "en",
+    "source": "Channel NewsAsia",
+    "url": "https://www.channelnewsasia.com/asia/indonesia-grapples-evolving-online-extremism-threat-youth-6378276",
+    "published": "2026-09-11T09:39:15+00:00"
+   },
+   {
+    "title": "From Pakistan to Uzbekistan: how China’s J-10CE is widening its overseas reach",
+    "summary": "El caza J-10CE chino amplía su alcance de exportación hacia Pakistán y Uzbekistán. Las ventas permiten a China probar sistemas armamentistas sin comprometer militarmente sus fuerzas.",
+    "lang": "en",
+    "source": "South China Morning Post (China)",
+    "url": "https://www.scmp.com/news/china/military/article/3367042/pakistan-uzbekistan-how-chinas-j-10ce-widening-its-overseas-reach?utm_source=rss_feed",
+    "published": "2026-09-11T09:00:09+00:00"
+   },
+   {
+    "title": "South China Sea: Manila says flares fired at aircraft near Subi, Mischief reefs",
+    "summary": "Filipinas denuncia que China disparó bengalas cerca de un avión filipino sobre arrecifes controvertidos. El incidente incrementa tensiones en el Mar de China Meridional.",
+    "lang": "en",
+    "source": "South China Morning Post (China)",
+    "url": "https://www.scmp.com/news/china/military/article/3367146/south-china-sea-manila-says-flares-fired-aircraft-near-subi-mischief-reefs?utm_source=rss_feed",
+    "published": "2026-09-11T04:21:33+00:00"
+   }
+  ],
+  "politica|europa": [
+   {
+    "title": "Five killed and 67 injured in Russian strike on shopping centre, Ukraine says",
+    "summary": "Un ataque ruso en un centro comercial ucraniano dejó cinco muertos y 67 heridos. El bombardeo en Pavlohrad fue el tercer ataque a un centro comercial en días.",
+    "lang": "en",
+    "source": "BBC World",
+    "url": "https://www.bbc.co.uk/news/articles/cpvelrmp1vmo?at_medium=RSS&at_campaign=rss",
+    "published": "2026-09-10T22:36:02+00:00"
+   },
+   {
+    "title": "Magyar vs. Moscow: Hungary's new tough stance toward Russia",
+    "summary": "Hungría expulsó 10 diplomáticos rusos bajo el nuevo primer ministro Peter Magyar. El cambio marca un giro radical respecto a la política prorrusa anterior.",
+    "lang": "en",
+    "source": "Deutsche Welle World",
+    "url": "https://www.dw.com/en/magyar-vs-moscow-hungary-s-new-tough-stance-toward-russia/a-79223424?maca=en-rss-en-world-4025-rdf",
+    "published": "2026-09-11T08:20:00+00:00"
+   },
+   {
+    "title": "Emma Bonino, prominent humanist in Italian politics, dies at 78",
+    "summary": "Emma Bonino, destacada defensora humanitaria italiana, murió a los 78 años. Sirvió en parlamentos nacionales y europeos, y como comisaria de la UE.",
+    "lang": "en",
+    "source": "Le Monde International",
+    "url": "https://www.lemonde.fr/en/obituaries/article/2026/09/11/emma-bonino-prominent-humanist-in-italian-politics-dies-at-78_6757412_15.html",
+    "published": "2026-09-11T08:50:21+00:00"
+   },
+   {
+    "title": "25 years after 9/11: Al-Qaeda weakened but not gone",
+    "summary": "Al-Qaeda está debilitada pero aún activa 25 años después del 11 de septiembre. Su liderazgo central ha sido reducido, aunque filiales regionales mantienen influencia.",
+    "lang": "en",
+    "source": "Deutsche Welle World",
+    "url": "https://www.dw.com/en/25-years-after-9-11-al-qaeda-weakened-but-not-gone/a-79202457?maca=en-rss-en-world-4025-rdf",
+    "published": "2026-09-10T18:05:00+00:00"
+   },
+   {
+    "title": "Anthropic says it blocked misuse of its AI that could have supported biological weapons",
+    "summary": "Anthropic bloqueó intentos de abuso de su IA para investigación biológica con fines armamentísticos. Implementó salvaguardas más fuertes en modelos recientes.",
+    "lang": "en",
+    "source": "Le Monde International",
+    "url": "https://www.lemonde.fr/en/international/article/2026/09/11/anthropic-says-it-blocked-misuse-of-its-ai-that-could-have-supported-biological-weapons_6757403_4.html",
+    "published": "2026-09-11T02:41:54+00:00"
+   }
+  ],
+  "politica|america": [
+   {
+    "title": "The U.S.-Canada trade war is creating a headache for auto-parts makers",
+    "summary": "La guerra comercial entre EE.UU. y Canadá amenaza con desunir cadenas de suministro automotriz. Décadas de integración enfrentan riesgo de fragmentación.",
+    "lang": "en",
+    "source": "NPR World",
+    "url": "https://www.npr.org/2026/09/11/nx-s1-5961530/canada-trade-war-auto-parts-supply-chain",
+    "published": "2026-09-11T09:00:00+00:00"
+   },
+   {
+    "title": "Hong Kong court sentences 3 Tiananmen vigil organizers to prison",
+    "summary": "Un tribunal de Hong Kong sentencia a tres organizadores de vigilia de Tiananmen a 5-7 años de cárcel. El caso refleja el deterioro de libertades civiles bajo control político de Beijing.",
+    "lang": "en",
+    "source": "NPR World",
+    "url": "https://www.npr.org/2026/09/11/g-s1-142832/hong-kong-court-sentences-vigil-organizers",
+    "published": "2026-09-11T06:42:04+00:00"
+   },
+   {
+    "title": "Iran-backed Houthi rebels seize strategic Red Sea port in Yemen",
+    "summary": "Rebeldes hutíes respaldados por Irán capturaron el puerto estratégico de Mokha en Yemen. El control del puerto vital intensifica su poder sobre rutas marítimas del Mar Rojo.",
+    "lang": "en",
+    "source": "NPR World",
+    "url": "https://www.npr.org/2026/09/11/g-s1-142822/houthis-red-sea-port",
+    "published": "2026-09-11T05:40:21+00:00"
+   },
+   {
+    "title": "'I'll never trust them again': Some Afghans who helped the U.S. post-9/11 regret it",
+    "summary": "Algunos afganos que colaboraron con Estados Unidos tras el 11-S ahora se arrepienten. La retirada estadounidense de 20 años de guerra genera resentimiento entre aliados locales.",
+    "lang": "en",
+    "source": "NPR World",
+    "url": "https://www.npr.org/2026/09/10/nx-s1-5958661/ill-never-trust-them-again-some-afghans-who-helped-the-u-s-post-9-11-regret-it",
+    "published": "2026-09-10T08:41:01+00:00"
+   }
+  ],
+  "tecnologia|asia": [
+   {
+    "title": "Anthropic details distillation campaigns from Alibaba, Moonshot AI, and DeepSeek",
+    "summary": "Anthropic revela campañas de distilación de IA por empresas chinas como Alibaba y DeepSeek. Los ataques se han intensificado en meses recientes conforme crece la competencia.",
+    "lang": "en",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/09/10/anthropic-details-distillation-campaigns-from-alibaba-moonshot-ai-and-deepseek/",
+    "published": "2026-09-10T20:57:30+00:00"
+   },
+   {
+    "title": "思科防火牆管理平臺弱點遭國家級駭客利用",
+    "summary": "思科防火墙管理平台漏洞被国家级黑客利用实施网络攻击。美国网络安全部门已将此漏洞列入已遭利用名单。",
+    "lang": "zh",
+    "source": "iThome 台灣",
+    "url": "https://www.ithome.com.tw/news/178876",
+    "published": "2026-09-11T03:09:29+00:00"
+   },
+   {
+    "title": "長鑫存儲啟動積極擴產，目標挑戰三星與 SK 海力士 60 萬到 70 萬片月產能",
+    "summary": "中国芯片制造商长鑫存储启动大规模产能扩张计划，目标挑战三星和SK海力士。公司致力于提升DRAM产量和市场竞争力。",
+    "lang": "zh",
+    "source": "科技新報 TechNews",
+    "url": "https://technews.tw/2026/09/11/changxin-memory-initiates-active-capacity-expansion/",
+    "published": "2026-09-11T07:45:01+00:00"
+   }
+  ],
+  "tecnologia|europa": [
+   {
+    "title": "Anthropic ha pillado a China copiando Claude. De paso ha demostrado cuánto sabe sobre lo que hacemos con él",
+    "summary": "Anthropic divulgó un informe detallado sobre campañas de espionaje chino contra su IA Claude. El reporte reveló intentos de ciberespionaje y otras amenazas dirigidas a sus sistemas.",
+    "lang": "es",
+    "source": "Xataka",
+    "url": "https://www.xataka.com/robotica-e-ia/anthropic-ha-pillado-a-china-copiando-claude-paso-ha-demostrado-cuanto-sabe-que-hacemos",
+    "published": "2026-09-11T09:47:00+00:00"
+   },
+   {
+    "title": "Europe will go it alone on Venus mission after NASA yanks radar instrument",
+    "summary": "Europa desarrollará sola su misión a Venus tras retirarse la Casa Blanca de cooperación NASA. Busca alianzas alternativas incluyendo posiblemente con China.",
+    "lang": "en",
+    "source": "Ars Technica",
+    "url": "https://arstechnica.com/space/2026/09/europe-will-go-it-alone-on-venus-mission-after-nasa-yanks-radar-instrument/",
+    "published": "2026-09-10T19:09:29+00:00"
+   }
+  ],
+  "tecnologia|america": [
+   {
+    "title": "The US and Mexico Announce They’re Teaming Up Against Drones",
+    "summary": "EE.UU. y México lanzan operación conjunta contra drones usados en tráfico humano y de drogas. Utilizan tecnología láser para detectar, rastrear y desactivar aeronaves.",
+    "lang": "en",
+    "source": "Wired",
+    "url": "https://www.wired.com/story/us-and-mexico-announce-teaming-up-against-drones/",
+    "published": "2026-09-11T09:15:00+00:00"
+   },
+   {
+    "title": "Powering AI is an architecture problem",
+    "summary": "Una falla de línea de transmisión en Virginia cortó 3 gigavatios del sistema eléctrico estadounidense en 2026. El incidente evidencia desafíos arquitectónicos para alimentar infraestructura de IA.",
+    "lang": "en",
+    "source": "MIT Technology Review",
+    "url": "https://www.technologyreview.com/2026/09/10/1141649/powering-ai-is-an-architecture-problem/",
+    "published": "2026-09-10T11:00:00+00:00"
+   },
+   {
+    "title": "Can the US battery market untangle from China?",
+    "summary": "EE.UU. alcanza récords en crecimiento acelerado del mercado de almacenamiento de energía. Avances refuerzan estabilidad de la red y reducen emisiones de carbono.",
+    "lang": "en",
+    "source": "MIT Technology Review",
+    "url": "https://www.technologyreview.com/2026/09/10/1143791/us-china-batteries/",
+    "published": "2026-09-10T10:00:00+00:00"
+   },
+   {
+    "title": "Universal Music is launching an AI music platform with ElevenLabs",
+    "summary": "Universal Music lanza plataforma de IA con ElevenLabs para remixes y mashups musicales. Permite usuarios crear nuevas versiones usando catálogo con licencia de la compañía.",
+    "lang": "en",
+    "source": "The Verge",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/993465/universal-music-elevenlabs-ai",
+    "published": "2026-09-10T15:38:19+00:00"
+   },
+   {
+    "title": "China’s drone supremacy shows in airlifting bodies and food after Nepal flood disaster",
+    "summary": "Drones DJI chinos demuestran supremacía técnica en operaciones de rescate en Nepal tras inundaciones. Los equipos ya suministraban campamentos del Everest y facilitan distribución de ayuda.",
+    "lang": "en",
+    "source": "Ars Technica",
+    "url": "https://arstechnica.com/gadgets/2026/09/drones-deliver-food-and-remove-bodies-after-nepals-flood-disaster/",
+    "published": "2026-09-10T16:53:52+00:00"
+   }
+  ]
+ }
+}
