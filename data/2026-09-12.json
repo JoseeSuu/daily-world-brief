@@ -1,0 +1,348 @@
+{
+ "date": "2026-09-12",
+ "generated_at": "2026-09-12T09:30:30.599319+00:00",
+ "mode": "full",
+ "cost_usd": 0.0278,
+ "market": null,
+ "failed_sources": [],
+ "cells": {
+  "economia|asia": [
+   {
+    "title": "Saudi Arabia shuts East-West pipeline that bypasses Hormuz after attacks",
+    "summary": "Saudi Arabia shut its East-West pipeline bypassing the Strait of Hormuz following drone attacks. The move is expected to accelerate rising oil prices globally.",
+    "lang": "en",
+    "source": "Financial Times",
+    "url": "https://www.ft.com/content/3bafb3ae-ba94-44f0-984c-ec7c9f54a5e0?syn-25a6b1a6=1",
+    "published": "2026-09-11T20:21:13+00:00"
+   },
+   {
+    "title": "BRICS summit begins in India; Iran-UAE dynamic key to joint statement",
+    "summary": "The BRICS summit begins in India with Iran-UAE relations key to shaping the joint statement. The bloc seeks consensus amid geopolitical tensions.",
+    "lang": "en",
+    "source": "Nikkei Asia",
+    "url": "https://asia.nikkei.com/politics/international-relations/brics-summit-begins-in-india-iran-uae-dynamic-key-to-joint-statement",
+    "published": null
+   },
+   {
+    "title": "Japan's future US investments to focus on power sector: trade minister",
+    "summary": "Japan's trade minister announced future US investments will prioritize the power sector. The focus reflects Japan's energy security strategy.",
+    "lang": "en",
+    "source": "Nikkei Asia",
+    "url": "https://asia.nikkei.com/editor-s-picks/interview/japan-s-future-us-investments-to-focus-on-power-sector-trade-minister",
+    "published": null
+   },
+   {
+    "title": "India’s SEBI Seeks Major Changes to Unpopular Auction System",
+    "summary": "India's securities regulator proposed major changes to the closing auction system for derivatives. The reforms may return to a previous settlement method.",
+    "lang": "en",
+    "source": "Bloomberg Markets",
+    "url": "https://www.bloomberg.com/news/articles/2026-09-12/india-regulator-proposes-changes-to-closing-auction-after-swings",
+    "published": "2026-09-12T06:55:22+00:00"
+   },
+   {
+    "title": "New $11bn canal underscores China's turn toward Southeast Asia",
+    "summary": "An $11 billion canal project signals China's strategic pivot toward Southeast Asia. The infrastructure investment strengthens regional economic ties.",
+    "lang": "en",
+    "source": "Nikkei Asia",
+    "url": "https://asia.nikkei.com/spotlight/big-in-asia/new-11bn-canal-underscores-china-s-turn-toward-southeast-asia",
+    "published": null
+   }
+  ],
+  "economia|europa": [
+   {
+    "title": "High oil prices could force ECB to raise rates further, warns top policymaker",
+    "summary": "Austria's central bank governor warns rising oil prices may force the ECB to raise rates further. Inflation risks remain elevated compared to recent months.",
+    "lang": "en",
+    "source": "FT Global Economy",
+    "url": "https://www.ft.com/content/a83e620a-bb72-478a-ac77-10635ec653bd?syn-25a6b1a6=1",
+    "published": "2026-09-12T04:00:33+00:00"
+   },
+   {
+    "title": "Philip R. Lane: Outlook for the euro area economy",
+    "summary": "ECB economist Philip Lane presents the economic outlook for the euro area. Policy decisions face pressure from persistent inflation concerns.",
+    "lang": "en",
+    "source": "BCE (notas de prensa)",
+    "url": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp260911~a4d6526f00.en.pdf",
+    "published": "2026-09-11T17:00:00+00:00"
+   },
+   {
+    "title": "Italy’s Fragmented Politics Pose Risk to Rating, Fitch Warns",
+    "summary": "Fitch Ratings warns Italy's fractional politics could threaten its credit rating. Deepening political divisions pose risks to the country's economic stability.",
+    "lang": "en",
+    "source": "Bloomberg Economics",
+    "url": "https://www.bloomberg.com/news/articles/2026-09-11/italy-s-fragmented-politics-pose-risk-to-rating-fitch-warns",
+    "published": "2026-09-11T21:25:56+00:00"
+   },
+   {
+    "title": "France’s debt interest bill to jump 25% this year",
+    "summary": "France's debt interest payments will jump 25% this year. The finance minister also lowered GDP growth forecasts for 2026.",
+    "lang": "en",
+    "source": "FT Global Economy",
+    "url": "https://www.ft.com/content/d470e9dd-760c-46ae-93ec-014b59160b37?syn-25a6b1a6=1",
+    "published": "2026-09-11T11:35:03+00:00"
+   },
+   {
+    "title": "La marea de los tipos cambia el mapa de la inversión",
+    "summary": "El aumento de los tipos de interés remodela las estrategias de inversión. Las empresas endeudadas pierden competitividad frente a activos seguros mejor remunerados.",
+    "lang": "es",
+    "source": "El País Economía",
+    "url": "https://cincodias.elpais.com/opinion/2026-09-12/la-marea-de-los-tipos-cambia-el-mapa-de-la-inversion.html",
+    "published": "2026-09-12T03:40:00+00:00"
+   }
+  ],
+  "economia|america": [
+   {
+    "title": "US 2026 Budget Gap Hits $1.97 Trillion With Month Left to Go",
+    "summary": "The US federal budget deficit reached $1.97 trillion in the first 11 months of the fiscal year. The figure ranks among the highest on record with one month remaining.",
+    "lang": "en",
+    "source": "Bloomberg Economics",
+    "url": "https://www.bloomberg.com/news/articles/2026-09-11/us-2026-budget-gap-hits-1-96-trillion-with-a-month-left-to-go",
+    "published": "2026-09-11T18:03:23+00:00"
+   },
+   {
+    "title": "Warsh under mounting pressure to raise rates as US inflation persists",
+    "summary": "Fed policymaker Warsh faces pressure to raise rates as US inflation remained stuck at 3.4% in August. Oil prices surged during the same week.",
+    "lang": "en",
+    "source": "FT Global Economy",
+    "url": "https://www.ft.com/content/24646e74-9506-4718-b1be-789208db86d9?syn-25a6b1a6=1",
+    "published": "2026-09-11T14:44:33+00:00"
+   },
+   {
+    "title": "Higher than expected core CPI gives Fed enough to tighten",
+    "summary": "Higher-than-expected core CPI provides the Federal Reserve sufficient justification to tighten monetary policy. Next week's decision remains close, but inflation data shows little disinflation progress.",
+    "lang": "en",
+    "source": "FT Global Economy",
+    "url": "https://www.ft.com/content/25102821-d86d-4ef0-a858-903e270df3f9",
+    "published": "2026-09-11T13:53:08+00:00"
+   },
+   {
+    "title": "US Consumer Sentiment Slides on Higher Gas, Trade Tensions",
+    "summary": "US consumer sentiment fell in early September amid higher gasoline prices and trade tensions. Rising costs heightened concerns about affordability.",
+    "lang": "en",
+    "source": "Bloomberg Economics",
+    "url": "https://www.bloomberg.com/news/articles/2026-09-11/us-consumer-sentiment-slides-on-higher-gas-trade-tensions",
+    "published": "2026-09-11T14:00:00+00:00"
+   }
+  ],
+  "politica|asia": [
+   {
+    "title": "習近平七年來首次訪印前瞻：中印回暖背後的美國陰影與西藏問題",
+    "summary": "習近平七年來首次訪問印度，時機恰逢金磚機制對抗美國影響力。中印在貿易、直航和邊界對話上悄然升溫。",
+    "lang": "zh",
+    "source": "BBC中文",
+    "url": "https://www.bbc.com/zhongwen/articles/cqxvzdx4d10o/trad?at_medium=RSS&at_campaign=rss",
+    "published": "2026-09-11T10:06:48+00:00"
+   },
+   {
+    "title": "Iran-backed Houthi rebels seize a strategic port and island, opening a new battlefront",
+    "summary": "Iran-backed Houthi rebels seized Yemen's strategic port of Mokha and opened a new battlefront. The capture gives the group control over critical Red Sea shipping routes.",
+    "lang": "en",
+    "source": "NPR World",
+    "url": "https://www.npr.org/2026/09/11/g-s1-142822/houthis-red-sea-port",
+    "published": "2026-09-11T05:40:21+00:00"
+   },
+   {
+    "title": "How a billion-dollar sanctions dodge kept Chinese goods flowing to Iran",
+    "summary": "A secretive trade mechanism allowing Iran to exchange oil for Chinese credits has provided Tehran financial relief despite sanctions. The system has kept Chinese goods flowing to Iran covertly.",
+    "lang": "en",
+    "source": "Japan Times",
+    "url": "https://www.japantimes.co.jp/business/2026/09/12/china-iran-secret-trade-mechanism/",
+    "published": "2026-09-12T07:43:00+00:00"
+   },
+   {
+    "title": "Pakistan faces pressure to pick a side as Saudi tensions with Houthis escalate",
+    "summary": "Pakistan faces pressure to choose sides as Saudi-Houthi tensions escalate in Yemen. The conflict tests Pakistan's ability to maintain balanced regional relationships.",
+    "lang": "en",
+    "source": "Japan Times",
+    "url": "https://www.japantimes.co.jp/news/2026/09/12/asia-pacific/politics/pakistan-pressure-choose-side/",
+    "published": "2026-09-12T06:27:00+00:00"
+   }
+  ],
+  "politica|europa": [
+   {
+    "title": "Russia's drone war comes to Moldova and Romania",
+    "summary": "Russian drones increasingly incur into Moldovan and Romanian airspace. This week Ukrainian President Zelenskyy's plane was prevented from taking off in Chisinau.",
+    "lang": "en",
+    "source": "Deutsche Welle World",
+    "url": "https://www.dw.com/en/russia-s-drone-war-comes-to-moldova-and-romania/a-79239591?maca=en-rss-en-world-4025-rdf",
+    "published": "2026-09-12T06:27:00+00:00"
+   },
+   {
+    "title": "DW exclusive: Zelenskyy offers to meet Putin at G20 in Miami",
+    "summary": "Ukrainian President Zelenskyy told DW he would meet Putin at the G20 summit in Miami. Ukraine claims a strong negotiating position.",
+    "lang": "en",
+    "source": "Deutsche Welle World",
+    "url": "https://www.dw.com/en/dw-exclusive-zelenskyy-offers-to-meet-putin-at-g20-in-miami/a-79241703?maca=en-rss-en-world-4025-rdf",
+    "published": "2026-09-12T05:46:00+00:00"
+   },
+   {
+    "title": "Putin says European troop deployment in Ukraine would be 'war against Russia'",
+    "summary": "Putin warned that European troop deployment in Ukraine would constitute war against Russia. He claimed European leaders are spreading false fears about a non-existent Russian threat.",
+    "lang": "en",
+    "source": "Le Monde International",
+    "url": "https://www.lemonde.fr/en/international/article/2026/09/11/putin-says-european-troop-deployment-in-ukraine-would-be-war-against-russia_6757434_4.html",
+    "published": "2026-09-11T21:49:58+00:00"
+   },
+   {
+    "title": "Ukraine faces 'toughest winter' since Russia's full-scale invasion, UN official tells BBC",
+    "summary": "A UN official told the BBC Ukraine faces its toughest winter since Russia's full-scale invasion. Aid organizations race to ensure access to power and water through the cold season.",
+    "lang": "en",
+    "source": "BBC World",
+    "url": "https://www.bbc.co.uk/news/articles/cwyz59yyqk4o?at_medium=RSS&at_campaign=rss",
+    "published": "2026-09-12T05:55:15+00:00"
+   },
+   {
+    "title": "Turks in Germany anxious after AfD wins in Saxony-Anhalt",
+    "summary": "People of Turkish origin in Germany expressed anxiety after the AfD won in Saxony-Anhalt. Workers and business owners in eastern states worry about the far-right party's rise.",
+    "lang": "en",
+    "source": "Deutsche Welle World",
+    "url": "https://www.dw.com/en/turks-in-germany-anxious-after-afd-wins-in-saxony-anhalt/a-79221764?maca=en-rss-en-world-4025-rdf",
+    "published": "2026-09-11T10:07:00+00:00"
+   }
+  ],
+  "politica|america": [
+   {
+    "title": "BRICS leaders meet in India as wars and US tensions test the bloc",
+    "summary": "Indian Prime Minister Modi hosted BRICS leaders including Putin and Xi for a summit on trade and investment. Wars and US tensions challenge the bloc's unity.",
+    "lang": "en",
+    "source": "NPR World",
+    "url": "https://www.npr.org/2026/09/12/g-s1-143054/brics-leaders-meet-in-india",
+    "published": "2026-09-12T07:18:55+00:00"
+   },
+   {
+    "title": "The U.S.-Canada trade war is creating a headache for auto-parts makers",
+    "summary": "The US-Canada trade war threatens deeply integrated auto-supply chains built over decades. Complex production systems risk unraveling from trade tensions.",
+    "lang": "en",
+    "source": "NPR World",
+    "url": "https://www.npr.org/2026/09/11/nx-s1-5961530/canada-trade-war-auto-parts-supply-chain",
+    "published": "2026-09-11T09:00:00+00:00"
+   },
+   {
+    "title": "El Supremo de Brasil investiga al candidato presidencial Bolsonaro por corrupción",
+    "summary": "La Corte Suprema brasileña investiga al candidato presidencial Bolsonaro por corrupción en el caso Master. El levantamiento del secreto ocurre tres semanas antes de las elecciones.",
+    "lang": "es",
+    "source": "El País Internacional",
+    "url": "https://elpais.com/america/2026-09-11/el-supremo-de-brasil-revela-que-investiga-al-candidato-presidencial-bolsonaro-por-corrupcion.html",
+    "published": "2026-09-11T19:46:37+00:00"
+   },
+   {
+    "title": "The other side of 9/11: Afghans reckon with America's long shadow",
+    "summary": "Nearly 25 years after the US-led invasion, Afghans under Taliban rule grapple with America's long-term legacy. NPR returns to Kabul to assess the ongoing impact.",
+    "lang": "en",
+    "source": "NPR World",
+    "url": "https://www.npr.org/2026/09/11/nx-s1-5949270/the-other-side-of-9-11-afghans-reckon-with-americas-long-shadow",
+    "published": "2026-09-11T21:36:20+00:00"
+   },
+   {
+    "title": "Amid war and sanctions, many Iranians are losing their jobs and struggling to get by",
+    "summary": "Many Iranians lost jobs due to war and US sanctions, now losing backup employment as restrictions tighten. Economic hardship intensifies amid overlapping crises.",
+    "lang": "en",
+    "source": "NPR World",
+    "url": "https://www.npr.org/2026/09/11/g-s1-142935/iran-us-war-jobs-economy",
+    "published": "2026-09-11T19:39:35+00:00"
+   }
+  ],
+  "tecnologia|america": [
+   {
+    "title": "Lawyer fined $5K over AI-hallucinated witnesses in a murder case",
+    "summary": "New Mexico's Supreme Court fined a lawyer $5,000 for including AI-hallucinated witnesses and fabricated police testimony in a murder case appeal. The case highlights AI risks in legal proceedings.",
+    "lang": "en",
+    "source": "The Verge",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/994207/chatgpt-new-mexico-lawyer-fined-murder-appeal",
+    "published": "2026-09-11T20:44:02+00:00"
+   },
+   {
+    "title": "Perplexity trusts GPT-6 Astra with end-to-end systems",
+    "summary": "Perplexity uses GPT-6 Astra to write communications, modify software, and monitor production systems with less frequent oversight. The advanced model improves operational efficiency.",
+    "lang": "en",
+    "source": "OpenAI News",
+    "url": "https://openai.com/index/perplexity-improving-accuracy-with-astra",
+    "published": "2026-09-14T00:00:00+00:00"
+   },
+   {
+    "title": "Anthropic spent this week in hot water over cybersecurity",
+    "summary": "Anthropic faced cybersecurity scrutiny this week after previously admitting its AI models hacked other companies. The firm released a detailed report on AI misuse risks.",
+    "lang": "en",
+    "source": "The Verge",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/994064/anthropic-spent-this-week-in-hot-water-over-cybersecurity",
+    "published": "2026-09-11T16:09:14+00:00"
+   },
+   {
+    "title": "Meta Sued Over Training Data for Its AI and Face-Recognition Systems",
+    "summary": "Meta faces a proposed class action lawsuit over using Facebook and Instagram photos to train AI image models and build an unreleased face-recognition system. The suit alleges illegal data harvesting.",
+    "lang": "en",
+    "source": "Wired",
+    "url": "https://www.wired.com/story/meta-sued-over-training-data-for-its-ai-and-face-recognition-systems/",
+    "published": "2026-09-11T18:59:25+00:00"
+   },
+   {
+    "title": "Cognition helps Devin test its own work with GPT‑6 Astra",
+    "summary": "GPT-6 Astra enhances Devin's ability to test software and demonstrate functionality. The improvement aims to reduce code review workload for engineers.",
+    "lang": "en",
+    "source": "OpenAI News",
+    "url": "https://openai.com/index/cognition-devin-testing-with-astra",
+    "published": "2026-09-11T16:00:00+00:00"
+   }
+  ],
+  "tecnologia|europa": [
+   {
+    "title": "\"Una amenaza general al trabajo intelectual\": las mentes matemáticas más brillantes, contra el modus operandi de la IA",
+    "summary": "Destacados matemáticos cuestionan los métodos de la IA como amenaza al trabajo intelectual. La comunidad científica debate las implicaciones de estos sistemas.",
+    "lang": "es",
+    "source": "Xataka",
+    "url": "https://www.xataka.com/robotica-e-ia/amenaza-general-al-trabajo-intelectual-mentes-matematicas-brillantes-modus-operandi-ia",
+    "published": "2026-09-12T08:31:01+00:00"
+   },
+   {
+    "title": "Hemos dedicado seis años a procesar imágenes de un agujero negro para llegar a una conclusión: Einstein tenía razón",
+    "summary": "El Telescopio del Horizonte de Sucesos confirma tras seis años que Einstein tenía razón sobre los agujeros negros. La investigación valida la primera imagen capturada en 2017.",
+    "lang": "es",
+    "source": "Xataka",
+    "url": "https://www.xataka.com/espacio/hemos-dedicado-seis-anos-a-procesar-imagenes-agujero-negro-para-llegar-a-conclusion-einstein-tenia-razon-2",
+    "published": "2026-09-12T07:31:00+00:00"
+   },
+   {
+    "title": "Necesitamos construir casas en Marte sin llevar ladrillos desde la Tierra: la solución que proponen unos científicos es gelatina y levadura",
+    "summary": "Científicos proponen usar gelatina y levadura para construir casas en Marte sin transportar materiales desde la Tierra. La solución busca reducir costos de colonización.",
+    "lang": "es",
+    "source": "Xataka",
+    "url": "https://www.xataka.com/espacio/necesitamos-construir-casas-marte-llevar-ladrillos-tierra-solucion-que-proponen-unos-cientificos-gelatina-levadura",
+    "published": "2026-09-11T19:01:00+00:00"
+   }
+  ],
+  "tecnologia|asia": [
+   {
+    "title": "自駕AI為何不能只比模型？從Stradvision的跨晶片部署、合成資料到2萬小時驗證",
+    "summary": "韓國AI視覺軟體公司Stradvision展示自駕AI技術，可跨晶片部署並識別車輛、行人與交通標誌。公司通過2萬小時驗證測試確保系統性能。",
+    "lang": "zh",
+    "source": "iThome 台灣",
+    "url": "https://www.ithome.com.tw/news/178887",
+    "published": "2026-09-11T09:09:55+00:00"
+   },
+   {
+    "title": "Anthropic發布AI濫用威脅報告，宣稱7家中國業者蒸餾Claude以訓練自家模型",
+    "summary": "Anthropic發布報告揭露AI濫用威脅，直接指控7家中國AI實驗室非法蒸餾Claude模型。涉及阿里巴巴、月之暗面、DeepSeek等知名廠商。",
+    "lang": "zh",
+    "source": "iThome 台灣",
+    "url": "https://www.ithome.com.tw/news/178864",
+    "published": "2026-09-11T11:09:17+00:00"
+   },
+   {
+    "title": "台積電 CoWoS 產能供不應求，聯電、Amkor 等受惠 AI 訂單外溢",
+    "summary": "台積電CoWoS產能供應短缺，計畫於2028年將產能提升至兩倍。聯電與Amkor等廠商受惠於AI訂單外溢。",
+    "lang": "zh",
+    "source": "科技新報 TechNews",
+    "url": "https://technews.tw/2026/09/12/tsmc-cowos-capacity/",
+    "published": "2026-09-12T05:30:09+00:00"
+   },
+   {
+    "title": "SEMICON Taiwan：薩克森邦定位為全球半導體產業的歐洲首要樞紐",
+    "summary": "德國薩克森邦在SEMICON Taiwan展會上展示「Silicon Saxony」計畫。該地區正定位為全球半導體產業的歐洲首要樞紐。",
+    "lang": "zh",
+    "source": "科技新報 TechNews",
+    "url": "https://finance.technews.tw/2026/09/12/semicon-taiwan-saxony-europe-premier-semiconductor-hub/",
+    "published": "2026-09-12T06:00:59+00:00"
+   }
+  ]
+ }
+}
