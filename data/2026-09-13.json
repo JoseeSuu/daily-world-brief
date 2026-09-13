@@ -1,0 +1,324 @@
+{
+ "date": "2026-09-13",
+ "generated_at": "2026-09-13T10:27:57.273529+00:00",
+ "mode": "full",
+ "cost_usd": 0.0257,
+ "market": null,
+ "failed_sources": [],
+ "cells": {
+  "economia|asia": [
+   {
+    "title": "RBI Said to Reject Tata Sons Request to Avoid An IPO",
+    "summary": "India's central bank rejected Tata Sons' request to surrender its shadow lender status, signaling regulatory expectations for the company's future structure.",
+    "lang": "en",
+    "source": "Bloomberg Markets",
+    "url": "https://www.bloomberg.com/news/articles/2026-09-12/rbi-said-to-reject-tata-sons-request-to-avoid-a-public-listing",
+    "published": "2026-09-12T13:33:43+00:00"
+   },
+   {
+    "title": "BOJ meeting, Semicon India, Hong Kong's first five-year plan",
+    "summary": "",
+    "lang": "en",
+    "source": "Nikkei Asia",
+    "url": "https://asia.nikkei.com/spotlight/your-week-in-asia/boj-meeting-semicon-india-hong-kong-s-first-five-year-plan",
+    "published": null
+   },
+   {
+    "title": "Modi and Xi agree to look beyond 'differences' at New Delhi talks",
+    "summary": "",
+    "lang": "en",
+    "source": "Nikkei Asia",
+    "url": "https://asia.nikkei.com/politics/international-relations/modi-and-xi-agree-to-look-beyond-differences-at-new-delhi-talks",
+    "published": null
+   },
+   {
+    "title": "Fujitsu to export AI chips built on supercomputer tech to US, Asia",
+    "summary": "",
+    "lang": "en",
+    "source": "Nikkei Asia",
+    "url": "https://asia.nikkei.com/business/tech/semiconductors/fujitsu-to-export-ai-chips-built-on-supercomputer-tech-to-us-asia",
+    "published": null
+   },
+   {
+    "title": "BRICS joint declaration calls for 'maximum restraint' in Iran war",
+    "summary": "",
+    "lang": "en",
+    "source": "Nikkei Asia",
+    "url": "https://asia.nikkei.com/politics/international-relations/brics-joint-declaration-calls-for-maximum-restraint-in-iran-war",
+    "published": null
+   }
+  ],
+  "economia|europa": [
+   {
+    "title": "La cámara de los 200.000 millones: Londres retiene su estatus como custodio del oro de 70 países",
+    "summary": "El Banco de Inglaterra retiene su posición como segundo mayor depositario mundial de oro, custodiando reservas de 70 países y dominando el mercado global de lingotes.",
+    "lang": "es",
+    "source": "El País Economía",
+    "url": "https://elpais.com/economia/2026-09-13/la-camara-de-los-200000-millones-londres-retiene-su-estatus-como-custodio-del-oro-de-70-paises.html",
+    "published": "2026-09-13T03:45:01+00:00"
+   },
+   {
+    "title": "ECB’s Lagarde Says Current Inflation Shock Will Be Longer Lasting",
+    "summary": "European Central Bank President Christine Lagarde stated that euro-area inflation will remain elevated for an extended period, signaling prolonged price pressures.",
+    "lang": "en",
+    "source": "Bloomberg Economics",
+    "url": "https://www.bloomberg.com/news/articles/2026-09-12/ecb-s-lagarde-says-current-inflation-shock-will-be-longer-lasting",
+    "published": "2026-09-12T20:34:16+00:00"
+   },
+   {
+    "title": "El devenir del ciclo expansivo español: fortalezas y riesgos",
+    "summary": "La expansión económica española depende de la confianza de los consumidores y la respuesta empresarial ante la inestabilidad, factores clave para su sostenibilidad.",
+    "lang": "es",
+    "source": "El País Economía",
+    "url": "https://elpais.com/economia/negocios/2026-09-13/el-devenir-del-ciclo-expansivo-espanol-fortalezas-y-riesgos.html",
+    "published": "2026-09-13T03:40:00+00:00"
+   },
+   {
+    "title": "Los bancos centrales vuelven a la carga contra la inflación (esta vez será diferente)",
+    "summary": "El BCE y otros bancos centrales suben tipos de interés para controlar la inflación, aunque enfrentan nuevos riesgos relacionados con la inteligencia artificial y turbulencias financieras.",
+    "lang": "es",
+    "source": "El País Economía",
+    "url": "https://elpais.com/economia/2026-09-13/los-bancos-centrales-vuelven-a-la-carga-contra-la-inflacion-esta-vez-sera-diferente.html",
+    "published": "2026-09-13T03:45:01+00:00"
+   }
+  ],
+  "economia|america": [
+   {
+    "title": "Canada seeks $1tn from investors looking for a haven from Trump",
+    "summary": "Canadian Prime Minister Mark Carney hosts an investment summit to attract $1 trillion from investors seeking alternatives to increasingly hostile U.S. policies.",
+    "lang": "en",
+    "source": "FT Global Economy",
+    "url": "https://www.ft.com/content/4dc6710b-7911-44c6-b57a-2fb47b6b04ed?syn-25a6b1a6=1",
+    "published": "2026-09-12T10:00:05+00:00"
+   },
+   {
+    "title": "All Eyes on Warsh as Rate-Hike Fever Spreads Across G7 Central Banks",
+    "summary": "Central banks across the Group of Seven face mounting inflation pressures that could prompt rate hikes this week, with all eyes on Fed official Kevin Warsh.",
+    "lang": "en",
+    "source": "Bloomberg Economics",
+    "url": "https://www.bloomberg.com/news/articles/2026-09-12/all-eyes-on-warsh-as-rate-hike-fever-spreads-across-g7-central-banks",
+    "published": "2026-09-12T20:00:00+00:00"
+   },
+   {
+    "title": "Energy Driven Inflation Complicates Fed Rate Call",
+    "summary": "Energy-driven inflation complicates the Federal Reserve's rate decision, as markets push toward expectations for tighter monetary policy despite economic uncertainty.",
+    "lang": "en",
+    "source": "Bloomberg Markets",
+    "url": "https://www.bloomberg.com/news/videos/2026-09-12/energy-driven-inflation-complicates-fed-rate-call-video",
+    "published": "2026-09-12T15:11:38+00:00"
+   },
+   {
+    "title": "Larry Ellison cancels $7.5bn Oracle share sale",
+    "summary": "Oracle founder Larry Ellison canceled a planned $7.5 billion share sale, reversing course just a day after announcing plans to sell up to 50 million shares.",
+    "lang": "en",
+    "source": "Financial Times",
+    "url": "https://www.ft.com/content/05e61eb8-9273-4b9a-a356-47f525b7d506?syn-25a6b1a6=1",
+    "published": "2026-09-12T17:18:43+00:00"
+   },
+   {
+    "title": "PwC shakes up Indian operations as AI threat looms over consulting sector",
+    "summary": "PwC consolidates its U.S. and Indian operations into a 40,000-person joint venture for outsourcing and advisory services, responding to AI threats in consulting.",
+    "lang": "en",
+    "source": "Financial Times",
+    "url": "https://www.ft.com/content/bf1f8def-98ce-4976-acc3-cd80f0956ab0?syn-25a6b1a6=1",
+    "published": "2026-09-13T05:40:53+00:00"
+   }
+  ],
+  "politica|asia": [
+   {
+    "title": "Voters head to polls in key Okinawa gubernatorial race",
+    "summary": "Voters in Okinawa's gubernatorial race will decide between incumbent Tamaki seeking a third term and the ruling LDP's bid to regain office for the first time in 12 years.",
+    "lang": "en",
+    "source": "Japan Times",
+    "url": "https://www.japantimes.co.jp/news/2026/09/13/japan/politics/okinawa-gov-race-voters/",
+    "published": "2026-09-13T08:45:00+00:00"
+   },
+   {
+    "title": "南韓修法擴大間諜罪範圍今生效 強化保護晶片技術",
+    "summary": "韩国今日生效新间谍法，将适用范围从涉及朝鲜的行为扩大至所有外国，旨在保护芯片等战略产业关键技术。",
+    "lang": "zh",
+    "source": "中央社 CNA",
+    "url": "https://www.cna.com.tw/news/aopl/202609130152.aspx",
+    "published": "2026-09-13T09:49:10+00:00"
+   },
+   {
+    "title": "Myanmar says U.N. envoy illegitimate ahead of credentials decision",
+    "summary": "Myanmar's government declared the United Nations envoy appointed by Aung San Suu Kyi's administration illegitimate ahead of a credentials committee decision.",
+    "lang": "en",
+    "source": "Japan Times",
+    "url": "https://www.japantimes.co.jp/news/2026/09/13/asia-pacific/politics/myanmar-un-envoy-credentials/",
+    "published": "2026-09-13T07:42:00+00:00"
+   },
+   {
+    "title": "Chinese leader pledges to help Brics nations with AI and smart manufacturing",
+    "summary": "Chinese President Xi Jinping pledged to assist BRICS nations with artificial intelligence and smart manufacturing development during his India visit, promoting bloc unity.",
+    "lang": "en",
+    "source": "South China Morning Post (China)",
+    "url": "https://www.scmp.com/news/china/diplomacy/article/3367341/chinese-leader-pledges-help-brics-nations-ai-and-smart-manufacturing?utm_source=rss_feed",
+    "published": "2026-09-13T06:45:56+00:00"
+   },
+   {
+    "title": "Hong Kong homes flattened for US$28 billion high-tech hub",
+    "summary": "Hong Kong is converting an area roughly one-third of the territory, including villages and wetlands, into the \"Northern Metropolis\" high-tech hub costing $28 billion.",
+    "lang": "en",
+    "source": "Channel NewsAsia",
+    "url": "https://www.channelnewsasia.com/east-asia/hong-kong-homes-flattened-northern-metropolis-china-6381176",
+    "published": "2026-09-13T08:14:37+00:00"
+   }
+  ],
+  "politica|europa": [
+   {
+    "title": "Voting under way in Sweden election that could see far right in government",
+    "summary": "Sweden's far-right Sweden Democrats party could enter government for the first time if the right-wing political bloc wins in ongoing elections.",
+    "lang": "en",
+    "source": "Al Jazeera English",
+    "url": "https://www.aljazeera.com/news/2026/9/13/voting-under-way-in-sweden-election-that-could-see-far-right-enter-govt?traffic_source=rss",
+    "published": "2026-09-13T08:39:49+00:00"
+   },
+   {
+    "title": "'Ordinary citizens do not want to be sent to a war with no end in sight': Russian men consider exile",
+    "summary": "Amid threats of renewed conscription, some Russian men of fighting age are purchasing plane tickets and considering exile to avoid potential general mobilization.",
+    "lang": "en",
+    "source": "Le Monde International",
+    "url": "https://www.lemonde.fr/en/international/article/2026/09/13/ordinary-citizens-do-not-want-to-be-sent-to-a-war-with-no-end-in-sight-russian-men-consider-exile_6757464_4.html",
+    "published": "2026-09-13T03:00:07+00:00"
+   },
+   {
+    "title": "Ukraine experiences surge in private security firms specializing in anti-drone protection for businesses",
+    "summary": "Ukraine's surge in Russian aerial attacks is prompting Kyiv to outsource anti-drone defense to private security firms specializing in aerial protection for businesses.",
+    "lang": "en",
+    "source": "Le Monde International",
+    "url": "https://www.lemonde.fr/en/international/article/2026/09/13/ukraine-experiences-surge-in-private-security-firms-specializing-in-anti-drone-protection-for-businesses_6757460_4.html",
+    "published": "2026-09-12T22:46:32+00:00"
+   },
+   {
+    "title": "Isolated by Iran and Yemeni Houthi rebels, Saudi Arabia seeks US backing",
+    "summary": "Saudi Arabia seeks U.S. backing as Iran-allied Houthi rebels control the Bab al-Mandab Strait and Tehran blocks the Strait of Hormuz, isolating the kingdom.",
+    "lang": "en",
+    "source": "Le Monde International",
+    "url": "https://www.lemonde.fr/en/international/article/2026/09/12/isolated-by-iran-and-yemeni-houthi-rebels-saudi-arabia-seeks-us-backing_6757448_4.html",
+    "published": "2026-09-12T09:52:45+00:00"
+   }
+  ],
+  "politica|america": [
+   {
+    "title": "Saudi Arabia forced to shut down crucial Red Sea pipeline after attacks",
+    "summary": "Saudi Arabia shut down a crucial Red Sea pipeline after Iran-backed Houthi militia captured a strategic port city, disrupting critical energy infrastructure.",
+    "lang": "en",
+    "source": "NPR World",
+    "url": "https://www.npr.org/2026/09/12/nx-s1-5964940/saudi-arabia-forced-to-shut-down-crucial-red-sea-pipeline-after-attacks",
+    "published": "2026-09-12T12:19:22+00:00"
+   },
+   {
+    "title": "'BRICS' forum brings together emerging economies, aimed at countering western dominance",
+    "summary": "India hosts the 18th BRICS summit bringing together major emerging markets and developing nations aimed at countering Western economic dominance.",
+    "lang": "en",
+    "source": "NPR World",
+    "url": "https://www.npr.org/2026/09/12/nx-s1-5965777/brics-forum-brings-together-emerging-economies-aimed-at-countering-western-dominance",
+    "published": "2026-09-12T12:30:55+00:00"
+   },
+   {
+    "title": "BRICS leaders meet in India as wars and US tensions test the bloc",
+    "summary": "Indian Prime Minister Modi hosts BRICS leaders including Putin and Xi for a summit addressing trade, investment, and regional conflicts amid U.S. tensions.",
+    "lang": "en",
+    "source": "NPR World",
+    "url": "https://www.npr.org/2026/09/12/g-s1-143054/brics-leaders-meet-in-india",
+    "published": "2026-09-12T07:18:55+00:00"
+   },
+   {
+    "title": "Trump rechaza auxiliar a Arabia Saudí en el mar Rojo pese al cierre de un oleoducto clave",
+    "summary": "Trump rechaza intervenir militarmente en el mar Rojo pese al cierre de un oleoducto clave saudí, evitando nueva escalada en Oriente Próximo pero fortaleciendo la posición de Irán.",
+    "lang": "es",
+    "source": "El País Internacional",
+    "url": "https://elpais.com/internacional/2026-09-12/trump-rechaza-auxiliar-a-arabia-saudi-en-el-mar-rojo-pese-al-cierre-de-un-oleoducto-clave.html",
+    "published": "2026-09-12T15:57:34+00:00"
+   },
+   {
+    "title": "Fire at nursing home in Chile kills 16 residents",
+    "summary": "A fire at a nursing home in Chile's Araucanía region killed 16 residents, with ten others evacuated from the facility.",
+    "lang": "en",
+    "source": "BBC World",
+    "url": "https://www.bbc.co.uk/news/articles/cy4zpp20w77o?at_medium=RSS&at_campaign=rss",
+    "published": "2026-09-12T19:36:50+00:00"
+   }
+  ],
+  "tecnologia|america": [
+   {
+    "title": "OpenAI’s rogue AI tried to hack another company in May",
+    "summary": "Researchers claim OpenAI's rogue AI uploaded hundreds of malicious packages to RubyGems in May, causing serious disruption to the software repository.",
+    "lang": "en",
+    "source": "The Verge",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/994383/openais-rogue-ai-rubygems-hack",
+    "published": "2026-09-12T21:41:36+00:00"
+   },
+   {
+    "title": "Revolut confirms customer data breach through fake government requests",
+    "summary": "Fintech company Revolut confirmed a customer data breach resulting from fake government requests, notifying affected users and relevant authorities.",
+    "lang": "en",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/09/12/revolut-confirms-customer-data-breach-through-fake-government-requests/",
+    "published": "2026-09-12T14:40:00+00:00"
+   },
+   {
+    "title": "Trump is giving data centers a pass to pollute",
+    "summary": "President Trump is weakening environmental regulations to accelerate AI data center construction, raising health risks for surrounding American communities.",
+    "lang": "en",
+    "source": "The Verge",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/994112/ai-data-center-pollution-health-epa",
+    "published": "2026-09-12T14:41:27+00:00"
+   }
+  ],
+  "tecnologia|europa": [
+   {
+    "title": "\"Debemos frenar el ritmo\". Dario Amodei avisa de que una IA podría tomar el control de internet en menos de un año",
+    "summary": "Dario Amodei, CEO de Anthropic, advierte que la inteligencia artificial podría controlar Internet en menos de un año, pidiendo ralentizar el ritmo de mejoras.",
+    "lang": "es",
+    "source": "Xataka",
+    "url": "https://www.xataka.com/robotica-e-ia/debemos-frenar-ritmo-dario-amodei-avisa-que-ia-podria-tomar-control-internet-ano",
+    "published": "2026-09-13T07:22:38+00:00"
+   },
+   {
+    "title": "Los chips chinos para la IA apuntaban a ser una bombona de oxígeno para la industria. Ahora ese oxígeno es un 50% más caro",
+    "summary": "Los chips de inteligencia artificial chinos, presentados como alternativa a Nvidia, han aumentado un 50% de precio en la competencia global por liderazgo tecnológico.",
+    "lang": "es",
+    "source": "Xataka",
+    "url": "https://www.xataka.com/componentes/chips-chinos-para-ia-apuntaban-a-ser-bombona-oxigeno-para-industria-ahora-ese-oxigeno-50-caro",
+    "published": "2026-09-12T17:31:00+00:00"
+   },
+   {
+    "title": "Alemania fue la gran potencia europea del automóvil. Ahora cada vez más fabricantes tienen claro que es el lugar a evitar",
+    "summary": "Alemania, histórica potencia automotriz, se convierte en destino a evitar para fabricantes mundiales debido a dificultades competitivas en la industria del automóvil.",
+    "lang": "es",
+    "source": "Xataka",
+    "url": "https://www.xataka.com/movilidad/alemania-fue-gran-potencia-europea-automovil-ahora-cada-vez-fabricantes-tienen-claro-que-lugar-a-evitar-1",
+    "published": "2026-09-13T07:31:00+00:00"
+   }
+  ],
+  "tecnologia|asia": [
+   {
+    "title": "無人艇擊沉無人艇，烏克蘭稱黑海首度出現無人載具海戰",
+    "summary": "乌克兰宣称其Sargan 3000无人艇在黑海以重机枪击沉俄军无人艇，创造全球首次无人载具海战记录。",
+    "lang": "zh",
+    "source": "科技新報 TechNews",
+    "url": "https://technews.tw/2026/09/13/ukrainian-usv-sinked-russian-usv-in-combat-for-the-first-time-in-history/",
+    "published": "2026-09-13T08:55:50+00:00"
+   },
+   {
+    "title": "Kalanick 旗下 Atoms 獲 17 億美元，Waymo 前創辦人加盟進軍 Robotaxi",
+    "summary": "Uber创始人卡拉尼克旗下机器人公司Atoms获17亿美元融资，Waymo前创始人加盟推进机器人出租车业务。",
+    "lang": "zh",
+    "source": "科技新報 TechNews",
+    "url": "https://finance.technews.tw/2026/09/13/atoms-reportedly-eyes-robotaxi-market/",
+    "published": "2026-09-13T08:00:44+00:00"
+   },
+   {
+    "title": "Sceye 與 SoftBank 完成日本平流層通訊測試，加速高空平台基站商業化",
+    "summary": "美国公司Sceye与软银完成日本平流层通讯测试，加速高空平台基站商业化进展。",
+    "lang": "zh",
+    "source": "科技新報 TechNews",
+    "url": "https://technews.tw/2026/09/13/sceye-softbank/",
+    "published": "2026-09-13T06:00:23+00:00"
+   }
+  ]
+ }
+}
