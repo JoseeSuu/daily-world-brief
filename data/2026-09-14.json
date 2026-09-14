@@ -1,0 +1,364 @@
+{
+ "date": "2026-09-14",
+ "generated_at": "2026-09-14T10:52:49.752745+00:00",
+ "mode": "full",
+ "cost_usd": 0.0261,
+ "market": null,
+ "failed_sources": [],
+ "cells": {
+  "economia|asia": [
+   {
+    "title": "Indonesia's Prabowo fires finance minister, replaces him with deputy",
+    "summary": "Indonesia's President Prabowo replaced the finance minister with the deputy in a cabinet reshuffle.",
+    "lang": "en",
+    "source": "Nikkei Asia",
+    "url": "https://asia.nikkei.com/politics/indonesia-s-prabowo-fires-finance-minister-replaces-him-with-deputy",
+    "published": null
+   },
+   {
+    "title": "China state carmaker FAW poised to take stake in GAC in consolidation bid",
+    "summary": "China's state automaker FAW is preparing to acquire a stake in GAC as part of industry consolidation.",
+    "lang": "en",
+    "source": "Nikkei Asia",
+    "url": "https://asia.nikkei.com/business/business-deals/china-state-carmaker-faw-poised-to-take-stake-in-gac-in-consolidation-bid",
+    "published": null
+   },
+   {
+    "title": "China’s Credit Expansion Misses Forecast as Loan Demand Sags",
+    "summary": "China's August credit expansion fell short of forecasts as household and business borrowing remained weak.",
+    "lang": "en",
+    "source": "Bloomberg Markets",
+    "url": "https://www.bloomberg.com/news/articles/2026-09-14/china-s-credit-expansion-misses-forecast-as-loan-demand-sags",
+    "published": "2026-09-14T09:13:58+00:00"
+   },
+   {
+    "title": "Pakistan's $3bn bond sale signals shift away from G2G borrowing",
+    "summary": "Pakistan successfully raised $3 billion in international bonds, signaling reduced reliance on bilateral government lending.",
+    "lang": "en",
+    "source": "Nikkei Asia",
+    "url": "https://asia.nikkei.com/business/markets/bonds/pakistan-s-3bn-bond-sale-signals-shift-away-from-g2g-borrowing",
+    "published": null
+   },
+   {
+    "title": "TDK to ramp up production of electronic components for AI servers",
+    "summary": "TDK plans to increase production of electronic components required for artificial intelligence server infrastructure.",
+    "lang": "en",
+    "source": "Nikkei Asia",
+    "url": "https://asia.nikkei.com/business/technology/tdk-to-ramp-up-production-of-electronic-components-for-ai-servers",
+    "published": null
+   }
+  ],
+  "economia|europa": [
+   {
+    "title": "ECB Won’t Hesitate to Hike Further If Needed, Kazimir Says",
+    "summary": "ECB Governing Council member Kazimir stated the central bank will raise rates further if economic conditions require it.",
+    "lang": "en",
+    "source": "Bloomberg Economics",
+    "url": "https://www.bloomberg.com/news/articles/2026-09-14/ecb-won-t-hesitate-to-hike-further-if-needed-kazimir-says",
+    "published": "2026-09-14T08:00:00+00:00"
+   },
+   {
+    "title": "Isabel Schnabel: Macroeconomic, fiscal and financial stability in a shock-prone world",
+    "summary": "ECB official discusses macroeconomic, fiscal and financial stability in an unpredictable global economic environment.",
+    "lang": "en",
+    "source": "BCE (notas de prensa)",
+    "url": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp260914~0ffd556bc8.en.pdf",
+    "published": "2026-09-14T09:15:00+00:00"
+   },
+   {
+    "title": "Oil price surge revives prospect of Bank of England rate rise this year",
+    "summary": "Rising oil prices increase expectations that the Bank of England may raise interest rates before year-end.",
+    "lang": "en",
+    "source": "FT Global Economy",
+    "url": "https://www.ft.com/content/050b2863-a164-431f-bd04-2e416adf9a38?syn-25a6b1a6=1",
+    "published": "2026-09-14T04:00:12+00:00"
+   },
+   {
+    "title": "EU-UK reset talks delayed again amid tension over ‘Made in Europe’ rules",
+    "summary": "EU-UK reset talks delayed until late November as trade tensions continue over European manufacturing rules.",
+    "lang": "en",
+    "source": "FT Global Economy",
+    "url": "https://www.ft.com/content/182365c4-a0ac-4670-97e0-22e88d3bc02d?syn-25a6b1a6=1",
+    "published": "2026-09-13T15:00:06+00:00"
+   },
+   {
+    "title": "UniCredit's Orcel to Meet German Finance Minister",
+    "summary": "UniCredit CEO Orcel will meet German Finance Minister to discuss potential acquisition of Commerzbank.",
+    "lang": "en",
+    "source": "Bloomberg Economics",
+    "url": "https://www.bloomberg.com/news/videos/2026-09-14/unicredit-s-orcel-to-meet-german-finance-minister-video",
+    "published": "2026-09-14T06:12:17+00:00"
+   }
+  ],
+  "economia|america": [
+   {
+    "title": "India August Inflation Accelerates, Narrowing RBI Pause Room",
+    "summary": "India's August inflation accelerated, moving closer to the RBI's upper target limit and reducing rate-cut flexibility.",
+    "lang": "en",
+    "source": "Bloomberg Markets",
+    "url": "https://www.bloomberg.com/news/articles/2026-09-14/india-august-inflation-accelerates-narrowing-rbi-pause-room",
+    "published": "2026-09-14T10:36:50+00:00"
+   },
+   {
+    "title": "Anthropic tells investors it will be profitable for second straight quarter",
+    "summary": "Anthropic projects profitability for a second consecutive quarter before its major IPO amid AI development concerns.",
+    "lang": "en",
+    "source": "Financial Times",
+    "url": "https://www.ft.com/content/4564e6a5-69e9-40a6-bf0f-a888f2f4f002?syn-25a6b1a6=1",
+    "published": "2026-09-13T22:29:46+00:00"
+   },
+   {
+    "title": "Will the Fed defy Trump and raise rates?",
+    "summary": "Market analysis examines whether the Federal Reserve will raise interest rates despite potential Trump administration pressure.",
+    "lang": "en",
+    "source": "FT Global Economy",
+    "url": "https://www.ft.com/content/1fd5bbf6-9bb6-4848-a01b-7c94b3e59b6e?syn-25a6b1a6=1",
+    "published": "2026-09-13T11:00:05+00:00"
+   }
+  ],
+  "politica|asia": [
+   {
+    "title": "朝鲜多兵种实弹联演 试射导弹火炮与无人机",
+    "summary": "朝鲜周一宣布成功进行多兵种实弹演习，展示导弹、火炮和无人机整合控制系统的能力。",
+    "lang": "zh",
+    "source": "德國之聲中文",
+    "url": "https://www.dw.com/zh/朝鲜多兵种实弹联演-试射导弹火炮与无人机/a-79259649?maca=chi-rss-chi-all-1127-rdf",
+    "published": "2026-09-14T10:41:00+00:00"
+   },
+   {
+    "title": "Japan eyes quantum sub-hunting drone sensors as China extends undersea reach",
+    "summary": "Japan is developing quantum sensors for aerial drones to detect submarines as China expands undersea capabilities.",
+    "lang": "en",
+    "source": "South China Morning Post (China)",
+    "url": "https://www.scmp.com/news/china/military/article/3367476/japan-eyes-quantum-sub-hunting-drone-sensors-china-extends-undersea-reach?utm_source=rss_feed",
+    "published": "2026-09-14T10:48:01+00:00"
+   },
+   {
+    "title": "Xi touts Brics cooperation on AI as US titans flag tech risks",
+    "summary": "Xi Jinping promoted China's AI vision at BRICS summit while US companies raise technology risk concerns.",
+    "lang": "en",
+    "source": "South China Morning Post (China)",
+    "url": "https://www.scmp.com/plus/news/china/diplomacy/article/3367456/xi-touts-brics-cooperation-ai-us-titans-flag-tech-risks?utm_source=rss_feed",
+    "published": "2026-09-14T09:24:23+00:00"
+   },
+   {
+    "title": "駐加拿大官員前進北極區 展現台灣軟實力外交",
+    "summary": "台湾驻加拿大官员完成北极区访问，推动台湾在医疗、教育和科技领域的软实力外交。",
+    "lang": "zh",
+    "source": "中央社 CNA",
+    "url": "https://www.cna.com.tw/news/aipl/202609140189.aspx",
+    "published": "2026-09-14T09:12:20+00:00"
+   },
+   {
+    "title": "沖繩12年來首見保守派知事 日本強化台海周邊防衛添助力",
+    "summary": "沖繩县选出12年来首位保守派知事古谢玄太，有望扩充军事设施并加强台海周边防卫。",
+    "lang": "zh",
+    "source": "中央社 CNA",
+    "url": "https://www.cna.com.tw/news/aopl/202609140139.aspx",
+    "published": "2026-09-14T07:05:33+00:00"
+   }
+  ],
+  "politica|europa": [
+   {
+    "title": "Russia hits Ukrainian train shortly after Boris Johnson and top European officials leave station",
+    "summary": "Russia conducted drone strikes on a Ukrainian train near Poland shortly after Boris Johnson's departure from the station.",
+    "lang": "en",
+    "source": "BBC World",
+    "url": "https://www.bbc.co.uk/news/articles/cy5zg41dkqwo?at_medium=RSS&at_campaign=rss",
+    "published": "2026-09-14T03:38:13+00:00"
+   },
+   {
+    "title": "Finland to join France's forward nuclear deterrent",
+    "summary": "Finland agreed to join France's nuclear deterrent cooperation with a steering group launching in coming months.",
+    "lang": "en",
+    "source": "Le Monde International",
+    "url": "https://www.lemonde.fr/en/international/article/2026/09/14/finland-to-join-france-s-forward-nuclear-deterrent_6757502_4.html",
+    "published": "2026-09-14T09:55:05+00:00"
+   },
+   {
+    "title": "War in Ukraine: International outcry after Russian drone strikes train near border with Poland",
+    "summary": "Russian drones struck a passenger train near the Poland-Ukraine border, prompting international condemnation.",
+    "lang": "en",
+    "source": "Le Monde International",
+    "url": "https://www.lemonde.fr/en/international/article/2026/09/14/war-in-ukraine-international-outcry-after-russian-drone-strikes-train-near-border-with-poland_6757496_4.html",
+    "published": "2026-09-14T08:52:24+00:00"
+   },
+   {
+    "title": "Sweden elections: Left and right neck-and-neck as far right loses ground",
+    "summary": "Swedish election results show the left-wing bloc narrowly ahead as the right-wing loses ground to opposition parties.",
+    "lang": "en",
+    "source": "Le Monde International",
+    "url": "https://www.lemonde.fr/en/international/article/2026/09/14/sweden-elections-left-and-right-neck-and-neck-as-far-right-loses-ground_6757490_4.html",
+    "published": "2026-09-14T07:39:32+00:00"
+   },
+   {
+    "title": "Israel pursuing 'elimination project' of Palestinians in the occupied West Bank, NGO B'Tselem says",
+    "summary": "Israeli human rights group B'Tselem describes Palestinian situation in occupied West Bank as an 'elimination project.'",
+    "lang": "en",
+    "source": "Le Monde International",
+    "url": "https://www.lemonde.fr/en/international/article/2026/09/14/israel-pursuing-elimination-project-of-palestinians-in-the-occupied-west-bank-ngo-b-tselem-says_6757493_4.html",
+    "published": "2026-09-14T08:34:29+00:00"
+   }
+  ],
+  "politica|america": [
+   {
+    "title": "Indonesia searches for 129 people missing after ferry capsizes in the Java Sea",
+    "summary": "Indonesian authorities search for 129 missing people after a ferry capsized in the Java Sea during bad weather.",
+    "lang": "en",
+    "source": "NPR World",
+    "url": "https://www.npr.org/2026/09/14/nx-s1-5968417/indonesia-search-missing-ferry",
+    "published": "2026-09-14T06:20:28+00:00"
+   },
+   {
+    "title": "World leaders gathered for the annual BRICS summit. Here are the takeaways",
+    "summary": "India hosted annual BRICS summit with leaders from 28 countries including China and Iran; US notably absent.",
+    "lang": "en",
+    "source": "NPR World",
+    "url": "https://www.npr.org/2026/09/13/nx-s1-5967045/world-leaders-gathered-for-the-annual-brics-summit-here-are-the-takeaways",
+    "published": "2026-09-13T21:03:15+00:00"
+   },
+   {
+    "title": "Indonesian passenger ship overturns, sparking search for at least 129 missing",
+    "summary": "Indonesian ferry carrying 240 people sank in the Java Sea; rescuers search for approximately 130 missing passengers.",
+    "lang": "en",
+    "source": "NPR World",
+    "url": "https://www.npr.org/2026/09/13/g-s1-143114/about-130-missing-after-indonesian-passenger-ship-overturns",
+    "published": "2026-09-13T10:31:10+00:00"
+   },
+   {
+    "title": "Trump says he will remove all Irish whiskey tariffs as he ends two-day visit",
+    "summary": "Trump announced removal of all tariffs on Irish whiskey during his two-day visit to Ireland.",
+    "lang": "en",
+    "source": "BBC World",
+    "url": "https://www.bbc.co.uk/news/articles/cx2z79n0eeno?at_medium=RSS&at_campaign=rss",
+    "published": "2026-09-13T19:34:36+00:00"
+   },
+   {
+    "title": "Can Gulf states and Iran negotiate the Strait of Hormuz without the U.S.?",
+    "summary": "Iran and Gulf states pursue direct negotiations on Strait of Hormuz security without US involvement.",
+    "lang": "en",
+    "source": "NPR World",
+    "url": "https://www.npr.org/2026/09/13/nx-s1-5966920/what-to-expect-from-talks-between-iran-and-gulf-states-in-oman",
+    "published": "2026-09-13T21:03:12+00:00"
+   }
+  ],
+  "tecnologia|asia": [
+   {
+    "title": "矽品傳亞利桑那州布局將定案，台廠在美先進封測受矚",
+    "summary": "台湾矽品精密在美国亚利桑那州的投资设厂规划进入最后阶段，即将定案。",
+    "lang": "zh",
+    "source": "科技新報 TechNews",
+    "url": "https://finance.technews.tw/2026/09/14/spil-in-usa/",
+    "published": "2026-09-14T10:20:20+00:00"
+   },
+   {
+    "title": "GovTech月報第56期：數發部公布主權AI模刑評測結果，本地模型對臺灣價值超越國外模型；數發部與八大部會啟動AI風險盤點",
+    "summary": "台湾数发部公布主权AI模型评测结果，本地模型性能超越国外同类产品。",
+    "lang": "zh",
+    "source": "iThome 台灣",
+    "url": "https://www.ithome.com.tw/news/178920",
+    "published": "2026-09-14T06:09:54+00:00"
+   },
+   {
+    "title": "EUV 訂單強、High NA 加速導入！路透：ASML 龍頭地位延續至 2030 年",
+    "summary": "艾司摩爾EUV订单强劲，High NA技术加速导入，龙头地位将延续至2030年。",
+    "lang": "zh",
+    "source": "科技新報 TechNews",
+    "url": "https://technews.tw/2026/09/14/asml-high-na-euv-customers/",
+    "published": "2026-09-14T09:58:53+00:00"
+   },
+   {
+    "title": "史上首見軌道 AI 資料中心，SpaceX 誓言 2027 讓輝達頂規算力升空",
+    "summary": "SpaceX计划2027年将辉达顶规算力送入轨道，创造史上首个轨道AI数据中心。",
+    "lang": "zh",
+    "source": "科技新報 TechNews",
+    "url": "https://technews.tw/2026/09/14/spacex-nvidia-2027/",
+    "published": "2026-09-14T09:50:57+00:00"
+   },
+   {
+    "title": "美國安全研究機構揭露微信重大漏洞，攻擊者撥打通話即可劫持帳號",
+    "summary": "美国安全机构揭露微信重大漏洞，攻击者仅通过语音通话即可劫持用户账号。",
+    "lang": "zh",
+    "source": "科技新報 TechNews",
+    "url": "https://infosecu.technews.tw/2026/09/14/weworm-wechat/",
+    "published": "2026-09-14T09:40:43+00:00"
+   }
+  ],
+  "tecnologia|europa": [
+   {
+    "title": "Hoy llega iOS 27, pero en la Unión Europea nos perdemos la joya de la corona: Siri AI",
+    "summary": "Apple lanza iOS 27 el lunes, pero usuarios de la UE pierden Siri AI por regulaciones locales.",
+    "lang": "es",
+    "source": "Xataka",
+    "url": "https://www.xataka.com/moviles/hoy-llega-ios-27-union-europea-nos-perdemos-joya-corona-siri-ai",
+    "published": "2026-09-14T10:17:00+00:00"
+   },
+   {
+    "title": "“¿Por qué esto no lo está construyendo el Gobierno?”: Dario Amodei cree que la IA es demasiado importante para dejarla en manos privadas",
+    "summary": "CEO de Anthropic cuestiona si gobiernos deberían construir IA en lugar de dejarlo en manos privadas.",
+    "lang": "es",
+    "source": "Xataka",
+    "url": "https://www.xataka.com/robotica-e-ia/que-esto-no-esta-construyendo-gobierno-dario-amodei-cree-que-ia-demasiado-importante-para-dejarla-manos-privadas",
+    "published": "2026-09-14T10:01:01+00:00"
+   },
+   {
+    "title": "La guerra de Ucrania acaba de tener un duelo a muerte en el mar sin precedentes en la historia. Y ninguno de los dos era humano",
+    "summary": "Dron naval destroza dron enemigo en mar Negro, primer combate sin humanos en guerra de Ucrania.",
+    "lang": "es",
+    "source": "Xataka",
+    "url": "https://www.xataka.com/magnet/guerra-ucrania-acaba-regalarnos-duelo-mar-precedentes-historia-ninguno-dos-era-humano",
+    "published": "2026-09-14T08:31:01+00:00"
+   },
+   {
+    "title": "Todos quieren frenar la carrera de la IA. Hay un problema: nadie se fía lo suficiente del otro como para ser el primero",
+    "summary": "CEO Anthropic propone ralentizar desarrollo de IA avanzada, pero falta confianza internacional para implementarlo.",
+    "lang": "es",
+    "source": "Xataka",
+    "url": "https://www.xataka.com/robotica-e-ia/todos-quieren-frenar-carrera-ia-hay-problema-nadie-se-fia-suficiente-otro-como-para-ser-primero",
+    "published": "2026-09-14T07:48:13+00:00"
+   }
+  ],
+  "tecnologia|america": [
+   {
+    "title": "Larry Ellison cancels $7.5 billion sale of Oracle stock",
+    "summary": "Oracle founder Larry Ellison canceled a planned $7.5 billion stock sale previously disclosed to investors.",
+    "lang": "en",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/09/13/larry-ellison-cancels-7-5-billion-sale-of-oracle-stock/",
+    "published": "2026-09-13T20:49:38+00:00"
+   },
+   {
+    "title": "Waymo pulls over, calls cops on riders with a ghost gun",
+    "summary": "Waymo robotaxi detected juveniles with an unregistered firearm and called police, resulting in two arrests in San Francisco.",
+    "lang": "en",
+    "source": "The Verge",
+    "url": "https://www.theverge.com/transportation/994405/waymo-pulls-over-calls-cops-on-riders-with-a-ghost-gun",
+    "published": "2026-09-13T14:28:12+00:00"
+   },
+   {
+    "title": "Obama urges Democrats to have a ‘clear plan’ for AI safeguards",
+    "summary": "Former President Obama urged Democrats to establish clear AI safeguard plans as a central policy priority.",
+    "lang": "en",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/09/13/obama-urges-democrats-to-have-a-clear-plan-for-ai-safeguards/",
+    "published": "2026-09-13T16:30:00+00:00"
+   },
+   {
+    "title": "Fusion power startups find new partners in the defense world",
+    "summary": "Fusion power startups are forming defense-sector partnerships, reviving the connection between fusion energy and national security.",
+    "lang": "en",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/09/13/fusion-power-startups-find-new-partners-in-the-defense-world/",
+    "published": "2026-09-13T13:15:00+00:00"
+   },
+   {
+    "title": "Your car is selling your data",
+    "summary": "Report examines how automobile manufacturers collect and sell customer data through connected vehicle technology.",
+    "lang": "en",
+    "source": "The Verge",
+    "url": "https://www.theverge.com/column/994172/your-car-is-selling-your-data",
+    "published": "2026-09-13T12:00:00+00:00"
+   }
+  ]
+ }
+}
