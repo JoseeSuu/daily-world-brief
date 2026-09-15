@@ -1,0 +1,308 @@
+{
+ "date": "2026-09-15",
+ "generated_at": "2026-09-15T10:16:41.671624+00:00",
+ "mode": "full",
+ "cost_usd": 0.0244,
+ "market": null,
+ "failed_sources": [],
+ "cells": {
+  "economia|asia": [
+   {
+    "title": "India’s Trade Gap Narrows Unexpectedly After Exports Surge",
+    "summary": "India's trade deficit narrowed more than expected in August due to strong export growth, though Middle East instability remains a supply risk.",
+    "lang": "en",
+    "source": "Bloomberg Economics",
+    "url": "https://www.bloomberg.com/news/articles/2026-09-15/india-trade-deficit-narrows-in-august-even-as-oil-risks-loom",
+    "published": "2026-09-15T08:56:26+00:00"
+   },
+   {
+    "title": "Yields surge globally as inflation fears trigger bond sell-off",
+    "summary": "Global bond yields surged as inflation concerns triggered widespread selling of Treasury securities across financial markets.",
+    "lang": "en",
+    "source": "Nikkei Asia",
+    "url": "https://asia.nikkei.com/business/markets/yields-surge-globally-as-inflation-fears-trigger-bond-sell-off",
+    "published": null
+   },
+   {
+    "title": "Hong Kong-founded crypto exchange CoinEx to shut down",
+    "summary": "CoinEx, a Hong Kong-founded cryptocurrency exchange, announced plans to shut down operations.",
+    "lang": "en",
+    "source": "Nikkei Asia",
+    "url": "https://asia.nikkei.com/spotlight/cryptocurrencies/hong-kong-founded-crypto-exchange-coinex-to-shut-down",
+    "published": null
+   },
+   {
+    "title": "MediaTek says new AI phone chip reduces memory use amid supply crunch",
+    "summary": "MediaTek's new AI phone chip reduces memory requirements amid ongoing supply chain constraints.",
+    "lang": "en",
+    "source": "Nikkei Asia",
+    "url": "https://asia.nikkei.com/business/technology/mediatek-says-new-ai-phone-chip-reduces-memory-use-amid-supply-crunch",
+    "published": null
+   }
+  ],
+  "economia|europa": [
+   {
+    "title": "Christine Lagarde: A new age of capital: growth, sovereignty and AI",
+    "summary": "Christine Lagarde discussed capital, economic sovereignty, and artificial intelligence in a speech addressing new economic era challenges.",
+    "lang": "en",
+    "source": "BCE (notas de prensa)",
+    "url": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp260914_2~a3f0efbee4.en.html",
+    "published": "2026-09-14T15:15:00+00:00"
+   },
+   {
+    "title": "Softer UK labour market will keep BoE on hold for now",
+    "summary": "The UK's declining job market strengthens the case for the Bank of England to maintain interest rates at its upcoming decision.",
+    "lang": "en",
+    "source": "FT Global Economy",
+    "url": "https://www.ft.com/content/f651d61d-c4be-430c-bdc1-7bdbc0da5f0d",
+    "published": "2026-09-15T09:16:13+00:00"
+   },
+   {
+    "title": "French Finance Chiefs Say Debt Issuance Assured as Yields Rise",
+    "summary": "France's central bank chief and finance minister assured that debt issuance remains assured despite rising global bond yields.",
+    "lang": "en",
+    "source": "Bloomberg Economics",
+    "url": "https://www.bloomberg.com/news/articles/2026-09-15/french-finance-chiefs-say-debt-issuance-assured-as-yields-rise",
+    "published": "2026-09-15T10:04:05+00:00"
+   },
+   {
+    "title": "Los carburantes disparan la inflación de agosto hasta el 4,3%, su nivel más alto desde 2023",
+    "summary": "La inflación de agosto alcanzó el 4,3%, su nivel más alto desde 2023, impulsada principalmente por los carburantes según el Instituto Nacional de Estadística.",
+    "lang": "es",
+    "source": "El País Economía",
+    "url": "https://elpais.com/economia/2026-09-15/los-carburantes-disparan-la-inflacion-de-agosto-hasta-el-43-su-nivel-mas-alto-desde-2023.html",
+    "published": "2026-09-15T07:00:05+00:00"
+   }
+  ],
+  "economia|america": [
+   {
+    "title": "Supreme Court rejects Trump’s mail-in ballot restrictions for midterms",
+    "summary": "The US Supreme Court rejected Trump's attempts to restrict mail-in voting for midterms, with two justices dissenting in the unsigned ruling.",
+    "lang": "en",
+    "source": "Financial Times",
+    "url": "https://www.ft.com/content/b3674c9d-9db2-448d-bd57-f1c040de2d54?syn-25a6b1a6=1",
+    "published": "2026-09-15T02:43:08+00:00"
+   },
+   {
+    "title": "FirstFT: US equities eclipse Treasuries in rare foreign capital shift",
+    "summary": "US equities are outperforming Treasury bonds in a rare reversal of foreign capital flow patterns.",
+    "lang": "en",
+    "source": "FT Global Economy",
+    "url": "https://www.ft.com/content/18c9a381-1dc2-4b93-8326-405880586aa3?syn-25a6b1a6=1",
+    "published": "2026-09-15T09:33:29+00:00"
+   },
+   {
+    "title": "US manufacturers hit by fresh burst of supply chain cost inflation",
+    "summary": "US manufacturers face rising supply chain costs from trade tensions and tariffs, while AI demand strains component availability.",
+    "lang": "en",
+    "source": "FT Global Economy",
+    "url": "https://www.ft.com/content/e14542d9-2bc5-49c8-8e7e-c9656b0a2d36?syn-25a6b1a6=1",
+    "published": "2026-09-15T04:00:28+00:00"
+   }
+  ],
+  "politica|asia": [
+   {
+    "title": "中國工銀機密文件曝光 揭海外分行成戰略融資樞紐",
+    "summary": "调查显示中国工商银行伦敦分行长期充当北京地缘战略融资枢纽，多次踩踏洗钱防制红线。",
+    "lang": "zh",
+    "source": "中央社 CNA",
+    "url": "https://www.cna.com.tw/news/aopl/202609150211.aspx",
+    "published": "2026-09-15T08:07:00+00:00"
+   },
+   {
+    "title": "Has a Chinese DF missile been used for the first time in the Middle East?",
+    "summary": "Debris from a Chinese short-range ballistic missile was found in Yemen for the first time, suggesting Chinese weapons may be in use in the Middle East.",
+    "lang": "en",
+    "source": "South China Morning Post (China)",
+    "url": "https://www.scmp.com/news/china/military/article/3367581/has-chinese-df-missile-been-used-first-time-middle-east?utm_source=rss_feed",
+    "published": "2026-09-15T10:00:12+00:00"
+   },
+   {
+    "title": "Can Japan and China break their diplomatic deadlock?",
+    "summary": "Japanese lawmakers are in Beijing seeking to improve diplomatic relations following recent tensions with China.",
+    "lang": "en",
+    "source": "Japan Times",
+    "url": "https://www.japantimes.co.jp/news/2026/09/15/japan/politics/china-japan-relations-focus/",
+    "published": "2026-09-15T08:34:00+00:00"
+   },
+   {
+    "title": "China urges ‘constructive dialogue’ with EU in high-level call with France",
+    "summary": "China's foreign minister urged the EU to avoid escalating trade disputes and pursue constructive dialogue during a call with France.",
+    "lang": "en",
+    "source": "South China Morning Post (China)",
+    "url": "https://www.scmp.com/news/china/diplomacy/article/3367556/china-urges-constructive-dialogue-eu-high-level-call-france?utm_source=rss_feed",
+    "published": "2026-09-15T08:00:08+00:00"
+   },
+   {
+    "title": "Japan considers defense spending worth 3.5% of GDP after U.S. pressure",
+    "summary": "Japan is considering increasing defense spending to 3.5% of GDP in response to US pressure and security concerns.",
+    "lang": "en",
+    "source": "Japan Times",
+    "url": "https://www.japantimes.co.jp/news/2026/09/15/japan/japan-defense-spending-35-gdp/",
+    "published": "2026-09-15T07:48:00+00:00"
+   }
+  ],
+  "politica|europa": [
+   {
+    "title": "德国军事反情报局：破坏活动显著增加",
+    "summary": "德国军事反情报局发布报告称，德国是俄罗斯间谍活动的优先目标，中国间谍活动也在德国活跃。",
+    "lang": "zh",
+    "source": "德國之聲中文",
+    "url": "https://www.dw.com/zh/德国军事反情报局：破坏活动显著增加/a-79263791?maca=chi-rss-chi-all-1127-rdf",
+    "published": "2026-09-14T14:29:00+00:00"
+   },
+   {
+    "title": "Netherlands: Suspected sabotage disrupts train services",
+    "summary": "Dutch railway services experienced major disruptions after objects were found placed across tracks in suspected sabotage.",
+    "lang": "en",
+    "source": "Deutsche Welle World",
+    "url": "https://www.dw.com/en/netherlands-suspected-sabotage-disrupts-train-services/a-79269600?maca=en-rss-en-world-4025-rdf",
+    "published": "2026-09-15T08:46:00+00:00"
+   },
+   {
+    "title": "Russian economy increasingly fragile as Ukraine targets infrastructure",
+    "summary": "Ukraine's attacks on Russian refineries and warehouses are destabilizing the Russian economy ahead of September elections.",
+    "lang": "en",
+    "source": "Le Monde International",
+    "url": "https://www.lemonde.fr/en/economy/article/2026/09/15/russian-economy-increasingly-fragile-after-ukraine-drone-attacks_6757546_19.html",
+    "published": "2026-09-15T08:31:31+00:00"
+   },
+   {
+    "title": "Danish military says Russian frigate shot flares at helicopter",
+    "summary": "A Russian frigate fired flares at a Danish military helicopter in Monday's incident, the latest security escalation on NATO's eastern flank.",
+    "lang": "en",
+    "source": "Le Monde International",
+    "url": "https://www.lemonde.fr/en/international/article/2026/09/15/danish-military-says-russian-frigate-shot-flares-at-helicopter_6757545_4.html",
+    "published": "2026-09-15T08:19:50+00:00"
+   },
+   {
+    "title": "Ukraine, Russia set for new round of US-mediated talks",
+    "summary": "Ukraine, Russia, and the US are planning trilateral talks for October, though breakthrough expectations remain low.",
+    "lang": "en",
+    "source": "Deutsche Welle World",
+    "url": "https://www.dw.com/en/ukraine-russia-set-for-new-round-of-us-mediated-talks/a-79261147?maca=en-rss-en-world-4025-rdf",
+    "published": "2026-09-14T18:46:00+00:00"
+   }
+  ],
+  "politica|america": [
+   {
+    "title": "Israel is 'dismantling Palestinian life' says Israeli human rights group",
+    "summary": "An Israeli human rights group documented that Israel is dismantling Palestinian life at an accelerated pace across multiple sectors.",
+    "lang": "en",
+    "source": "NPR World",
+    "url": "https://www.npr.org/2026/09/14/nx-s1-5964897/israel-is-systematically-dismantling-palestinian-life-says-human-rights-group",
+    "published": "2026-09-14T20:34:20+00:00"
+   },
+   {
+    "title": "Key leaders sound the alarm on AI. And, Iran-Gulf diplomacy hits a setback",
+    "summary": "AI industry leaders are calling for slower development, while Iran-Gulf diplomatic talks face delays over Strait of Hormuz discussions.",
+    "lang": "en",
+    "source": "NPR World",
+    "url": "https://www.npr.org/2026/09/14/g-s1-143148/up-first-newsletter-ai-anthropic-openai-midterms-trump-oman-iran-talks",
+    "published": "2026-09-14T11:39:06+00:00"
+   },
+   {
+    "title": "Talks between Iran and Gulf states to discuss Strait of Hormuz postponed",
+    "summary": "Iran and Gulf states postponed talks regarding the Strait of Hormuz, setback for efforts to reopen crucial waterway access.",
+    "lang": "en",
+    "source": "NPR World",
+    "url": "https://www.npr.org/2026/09/14/nx-s1-5968072/talks-between-iran-and-gulf-states-to-discuss-strait-of-hormuz-postponed",
+    "published": "2026-09-14T08:43:00+00:00"
+   }
+  ],
+  "tecnologia|asia": [
+   {
+    "title": "暴露在網路的開發伺服器Vite被鎖定，攻擊者試圖竊取雲端憑證與組態設定",
+    "summary": "F5公司警告大规模针对开发工具的攻击，黑客利用漏洞试图从暴露的Vite服务器窃取云端凭证和配置信息。",
+    "lang": "zh",
+    "source": "iThome 台灣",
+    "url": "https://www.ithome.com.tw/news/178959",
+    "published": "2026-09-15T05:09:46+00:00"
+   },
+   {
+    "title": "歐盟CRA通報義務上路，臺灣廠商建置PSIRT升溫，資安院提醒成熟度仍有落差",
+    "summary": "欧盟网络韧性法案通报义务生效，台湾厂商建置PSIRT能力升温，资安院指出成熟度仍有落差。",
+    "lang": "zh",
+    "source": "iThome 台灣",
+    "url": "https://www.ithome.com.tw/news/178953",
+    "published": "2026-09-15T05:09:01+00:00"
+   },
+   {
+    "title": "駭客濫用AI從事網釣，冒充高階主管與ServiceNow向財務人員進行詐騙",
+    "summary": "微软警告黑客利用生成式AI改进鱼叉式钓鱼和冒充高管诈骗，8月期间发送超过100万封欺诈邮件。",
+    "lang": "zh",
+    "source": "iThome 台灣",
+    "url": "https://www.ithome.com.tw/news/178954",
+    "published": "2026-09-15T04:09:05+00:00"
+   },
+   {
+    "title": "微軟發布AI行為準則，要求AI始終接受人類控制",
+    "summary": "微软发布AI行为准则草案，要求AI模型始终接受人类控制，不得拒绝人类中断或自行扩大任务范围。",
+    "lang": "zh",
+    "source": "iThome 台灣",
+    "url": "https://www.ithome.com.tw/news/178943",
+    "published": "2026-09-15T02:09:05+00:00"
+   }
+  ],
+  "tecnologia|europa": [
+   {
+    "title": "Qué es y quién está detrás de METR, el organismo que Anthropic propone para supervisar que la IA no sea un peligro para la sociedad",
+    "summary": "Anthropic propone METR, un organismo para supervisar que la inteligencia artificial no represente un peligro para la sociedad, según carta del CEO Dario Amodei.",
+    "lang": "es",
+    "source": "Xataka",
+    "url": "https://www.xataka.com/robotica-e-ia/que-quien-esta-detras-metr-organismo-que-anthropic-propone-para-supervisar-que-ia-no-sea-peligro-para-sociedad",
+    "published": "2026-09-15T09:31:01+00:00"
+   },
+   {
+    "title": "MediaTek ya no compite solo en potencia: el Dimensity 9600 Pro apuesta todo a que la IA corra dentro del móvil y no en la nube",
+    "summary": "MediaTek presentó el Dimensity 9600 Pro, nuevo chip de gama alta que prioriza ejecutar IA en el móvil en lugar de depender de la nube.",
+    "lang": "es",
+    "source": "Xataka",
+    "url": "https://www.xataka.com/componentes/mediatek-no-compite-solo-potencia-dimensity-9600-pro-apuesta-todo-a-que-ia-corra-dentro-movil-no-nube",
+    "published": "2026-09-15T07:31:00+00:00"
+   }
+  ],
+  "tecnologia|america": [
+   {
+    "title": "For the first time, the US military confirms it has deployed weapons in orbit",
+    "summary": "The US military publicly confirmed for the first time that it has deployed space control weapons capable of defending military forces in orbit.",
+    "lang": "en",
+    "source": "Ars Technica",
+    "url": "https://arstechnica.com/space/2026/09/for-the-first-time-the-us-military-confirms-it-has-deployed-weapons-in-orbit/",
+    "published": "2026-09-15T03:47:36+00:00"
+   },
+   {
+    "title": "Nvidia CEO Jensen Huang tells Trump ‘we’re not going to let [an AI slowdown] happen’",
+    "summary": "Nvidia CEO Jensen Huang stated the company will not allow an AI slowdown despite some industry leaders' calls for decelerated development.",
+    "lang": "en",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/09/14/nvidia-ceo-jensen-huang-tells-trump-were-not-going-to-let-an-ai-slowdown-happen/",
+    "published": "2026-09-14T21:51:02+00:00"
+   },
+   {
+    "title": "OpenAI buys smartphone camera maker Glass Imaging for $300 million, report says",
+    "summary": "OpenAI acquired Glass Imaging, a smartphone camera company founded by former Apple engineers who developed Portrait Mode technology.",
+    "lang": "en",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/09/14/openai-buys-smartphone-camera-maker-glass-imaging-for-300-million-report-says/",
+    "published": "2026-09-14T20:44:14+00:00"
+   },
+   {
+    "title": "Is Big Tech’s AI slowdown a safety pact or a cartel?",
+    "summary": "Tech CEOs including Sam Altman and Elon Musk loosely agreed to slow AI development, raising questions about whether it's a safety measure or potential cartel.",
+    "lang": "en",
+    "source": "The Verge",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/995186/is-big-techs-ai-slowdown-a-safety-pact-or-a-cartel",
+    "published": "2026-09-14T22:59:41+00:00"
+   },
+   {
+    "title": "Jensen Huang puts Trump on speakerphone onstage to announce robots won’t take over the world",
+    "summary": "Nvidia CEO Jensen Huang took a call from President Trump onstage at the All-In Summit to discuss AI and robots.",
+    "lang": "en",
+    "source": "The Verge",
+    "url": "https://www.theverge.com/tech/995079/president-donald-trump-calls-nvidia-ceo-jensen-huang-all-in-summit",
+    "published": "2026-09-14T20:03:37+00:00"
+   }
+  ]
+ }
+}
