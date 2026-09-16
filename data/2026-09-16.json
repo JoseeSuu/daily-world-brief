@@ -1,0 +1,332 @@
+{
+ "date": "2026-09-16",
+ "generated_at": "2026-09-16T10:10:11.195000+00:00",
+ "mode": "full",
+ "cost_usd": 0.0277,
+ "market": null,
+ "failed_sources": [],
+ "cells": {
+  "economia|asia": [
+   {
+    "title": "Japan's MUFG Bank to finance defense industry in shift from cautious stance",
+    "summary": "Japan's MUFG Bank is financing the defense industry, marking a significant shift from its traditionally cautious approach. This change reflects Japan's evolving defense strategy amid regional security concerns.",
+    "lang": "en",
+    "source": "Nikkei Asia",
+    "url": "https://asia.nikkei.com/business/finance/japan-s-mufg-bank-to-finance-defense-industry-in-shift-from-cautious-stance",
+    "published": null
+   },
+   {
+    "title": "Grab accelerates fintech expansion through acquisitions",
+    "summary": "Grab is accelerating its fintech expansion through strategic acquisitions. The Southeast Asian platform is strengthening its financial services offerings to compete in the regional market.",
+    "lang": "en",
+    "source": "Nikkei Asia",
+    "url": "https://asia.nikkei.com/business/business-deals/grab-accelerates-fintech-expansion-through-acquisitions2",
+    "published": null
+   },
+   {
+    "title": "Hong Kong unveils first-ever five-year plan to align goals with Beijing",
+    "summary": "Hong Kong has unveiled its first five-year plan designed to align its development goals with Beijing. The plan reflects closer integration between the territory and mainland China's national objectives.",
+    "lang": "en",
+    "source": "Nikkei Asia",
+    "url": "https://asia.nikkei.com/politics/hong-kong-unveils-first-ever-five-year-plan-to-align-goals-with-beijing",
+    "published": null
+   },
+   {
+    "title": "Can India's data center boom create enough jobs?",
+    "summary": "India's data center boom is creating significant job opportunities across the country. However, questions remain about whether growth can generate sufficient employment to meet workforce demand.",
+    "lang": "en",
+    "source": "Nikkei Asia",
+    "url": "https://asia.nikkei.com/business/technology/can-india-s-data-center-boom-create-enough-jobs",
+    "published": null
+   },
+   {
+    "title": "美国检方称中国公司通过币安为伊朗石油交易洗钱",
+    "summary": "美国检方指控两家中国公司利用币安平台为伊朗石油交易进行洗钱。这些资金被用于向伊朗政府转账并资助恐怖活动，违反美国制裁。",
+    "lang": "zh",
+    "source": "FT中文网",
+    "url": "https://www.ftchinese.com/story/001110899",
+    "published": "2026-09-15T16:00:00+00:00"
+   }
+  ],
+  "economia|europa": [
+   {
+    "title": "ECB wage tracker at 2.7% in H1 2027, pointing to a modest uptick in negotiated wage growth",
+    "summary": "The ECB wage tracker shows negotiated wage growth at 2.7% in the first half of 2027. This indicates a modest uptick in eurozone wage growth from earlier levels.",
+    "lang": "en",
+    "source": "BCE (notas de prensa)",
+    "url": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr260916~7bc58ebef4.en.html",
+    "published": "2026-09-16T08:00:00+00:00"
+   },
+   {
+    "title": "Decepcionar al mercado o enfurecer a Trump: el dilema de Warsh en su primera gran decisión al frente de la Fed",
+    "summary": "La Reserva Federal enfrenta presión para subir tipos de interés debido a la inflación persistente, desafiando las presiones de la Casa Blanca. La decisión de Warsh como nuevo presidente podría decepcionar mercados o enfurecer al Gobierno Trump.",
+    "lang": "es",
+    "source": "El País Economía",
+    "url": "https://elpais.com/economia/2026-09-16/decepcionar-al-mercado-o-enfurecer-a-trump-el-dilema-de-warsh-en-su-primera-gran-decision-al-frente-de-la-fed.html",
+    "published": "2026-09-16T03:45:01+00:00"
+   },
+   {
+    "title": "EU rebuffs Carney’s ‘unique alliance’ with Canada",
+    "summary": "The EU has rejected Canadian Prime Minister Carney's proposal for a 'unique alliance' of middle powers against the US and China. Some European governments expressed reluctance to join the initiative.",
+    "lang": "en",
+    "source": "FT Global Economy",
+    "url": "https://www.ft.com/content/2e2e0c1e-51d6-49e2-9f4a-6ef793908b85?syn-25a6b1a6=1",
+    "published": "2026-09-16T04:00:23+00:00"
+   },
+   {
+    "title": "Von der Leyen backs Canada’s ‘associate membership’ bid",
+    "summary": "European Commission President von der Leyen backs Canada's bid for 'associate membership' with the EU. She stated that the EU and Canada share similar global perspectives.",
+    "lang": "en",
+    "source": "Financial Times",
+    "url": "https://www.ft.com/content/8fed428e-7bcc-435c-9487-cb4e6a795328?syn-25a6b1a6=1",
+    "published": "2026-09-16T08:38:57+00:00"
+   },
+   {
+    "title": "Bessent to meet He Lifeng in New York ahead of Trump-Xi summit",
+    "summary": "US Treasury Secretary Bessent will meet Chinese Vice-Premier He Lifeng in New York ahead of the Trump-Xi summit. The talks aim to address trade negotiations as a one-year tariff truce nears expiration.",
+    "lang": "en",
+    "source": "FT Global Economy",
+    "url": "https://www.ft.com/content/7cc04edd-2897-4655-99d4-ede1ccfcd91c?syn-25a6b1a6=1",
+    "published": "2026-09-15T22:32:47+00:00"
+   }
+  ],
+  "economia|america": [
+   {
+    "title": "ARS/USD: Argentina's Milei Defied by Governor Handing Out Own Money",
+    "summary": "Argentina's provincial governor is issuing alternative currency in a province, undermining President Milei's radical libertarian reforms. The 'chacho' currency highlights persistent economic challenges beneath reform efforts.",
+    "lang": "en",
+    "source": "Bloomberg Economics",
+    "url": "https://www.bloomberg.com/news/features/2026-09-16/ars-usd-argentina-s-milei-defied-by-governor-handing-out-own-money",
+    "published": "2026-09-16T09:30:10+00:00"
+   },
+   {
+    "title": "US-China Discuss Cutting Some Tariffs as Leaders Prepare to Meet",
+    "summary": "The US and China are discussing tariff reductions on energy and agricultural goods ahead of planned leadership meetings. Prospects for extending the trade war truce appear to be strengthening.",
+    "lang": "en",
+    "source": "Bloomberg Economics",
+    "url": "https://www.bloomberg.com/news/articles/2026-09-16/us-china-discuss-cutting-some-tariffs-as-leaders-prepare-to-meet",
+    "published": "2026-09-16T00:53:27+00:00"
+   }
+  ],
+  "politica|asia": [
+   {
+    "title": "原油價格飆升 日本8月貿易逆差逾1.1兆日圓",
+    "summary": "日本8月贸易逆差超1.1万亿日圆，连续第四个月出现逆差。原油价格飙升是导致进口增加的主要原因。",
+    "lang": "zh",
+    "source": "中央社 CNA",
+    "url": "https://www.cna.com.tw/news/aopl/202609160261.aspx",
+    "published": "2026-09-16T09:17:08+00:00"
+   },
+   {
+    "title": "日本在野黨中道分裂 立民出身議員將組新政黨",
+    "summary": "日本中道党议员大会同意党员离党，中道党领导人宣布立宪民主党出身议员将组建新政党",
+    "lang": "zh",
+    "source": "中央社 CNA",
+    "url": "https://www.cna.com.tw/news/aopl/202609160234.aspx",
+    "published": "2026-09-16T08:53:09+00:00"
+   },
+   {
+    "title": "路透：SK海力士洽談英特爾 擬赴美生產記憶體晶片",
+    "summary": "韩国存储芯片大厂SK海力士与英特尔正在洽谈协议。该协议将使SK海力士首次在美国本土制造存储芯片。",
+    "lang": "zh",
+    "source": "中央社 CNA",
+    "url": "https://www.cna.com.tw/news/aopl/202609160231.aspx",
+    "published": "2026-09-16T08:45:03+00:00"
+   },
+   {
+    "title": "美国司法部称两家中国公司利用必安帮助伊朗洗钱",
+    "summary": "美国司法部指控两家中国公司利用币安帮助伊朗洗钱，资金来自伊朗石油销售所得。这些资金被转移给伊朗政府用于资助恐怖活动。",
+    "lang": "zh",
+    "source": "纽约时报中文网",
+    "url": "https://cn.nytimes.com/technology/20260916/binance-iran-china/?utm_source=RSS",
+    "published": "2026-09-16T01:51:51+00:00"
+   },
+   {
+    "title": "伊朗企圖奪無人艇 美軍荷莫茲海峽開火摧毀2小船",
+    "summary": "美军在霍尔木兹海峡摧毁两艘伊朗小船，原因是伊朗伊斯兰革命卫队试图夺取美军巡逻的无人艇。 这次事件再次引发海峡安全紧张。",
+    "lang": "zh",
+    "source": "中央社 CNA",
+    "url": "https://www.cna.com.tw/news/aopl/202609160191.aspx",
+    "published": "2026-09-16T07:18:37+00:00"
+   }
+  ],
+  "politica|europa": [
+   {
+    "title": "Kosovo ex-president Thaci sentenced to 25 years for war crimes",
+    "summary": "A Hague tribunal sentenced former Kosovo President Hashim Thaci to 25 years for war crimes committed during Kosovo's independence war. The conviction addresses atrocities allegedly carried out by KLA forces.",
+    "lang": "en",
+    "source": "Deutsche Welle World",
+    "url": "https://www.dw.com/en/kosovo-ex-president-thaci-sentenced-to-25-years-for-war-crimes/a-79286344?maca=en-rss-en-world-4025-rdf",
+    "published": "2026-09-16T09:58:00+00:00"
+   },
+   {
+    "title": "EU's von der Leyen calls for 'European Security Council'",
+    "summary": "EU Commission President von der Leyen has proposed creating a European Security Council comprising EU members and partners. The initiative aims to enhance European strategic autonomy and defense coordination.",
+    "lang": "en",
+    "source": "Le Monde International",
+    "url": "https://www.lemonde.fr/en/international/article/2026/09/16/eu-chief-calls-to-set-up-european-security-council_6757581_4.html",
+    "published": "2026-09-16T09:02:15+00:00"
+   },
+   {
+    "title": "Turkey's rights groups, EU call out LGBTQ+ crackdown",
+    "summary": "Turkish rights groups and the EU have criticized a crackdown on LGBTQ+ persons in Turkey, citing raids and arrests. The actions have drawn sharp condemnation from both domestic organizations and Brussels.",
+    "lang": "en",
+    "source": "Deutsche Welle World",
+    "url": "https://www.dw.com/en/turkey-s-rights-groups-eu-call-out-lgbtq-crackdown/a-79284021?maca=en-rss-en-world-4025-rdf",
+    "published": "2026-09-15T19:32:00+00:00"
+   },
+   {
+    "title": "How Russia became the 'FSB state': 'They were given the country'",
+    "summary": "Russia operates as an 'FSB state' where security services control the country, according to analysis of the Putin system. Upcoming September elections face minimal democratic stakes in a nation dominated by the Federal Security Service.",
+    "lang": "en",
+    "source": "Le Monde International",
+    "url": "https://www.lemonde.fr/en/international/article/2026/09/16/how-russia-became-the-fsb-state-they-were-given-the-country_6757573_4.html",
+    "published": "2026-09-16T02:30:06+00:00"
+   },
+   {
+    "title": "Netherlands: Suspected sabotage disrupts train services",
+    "summary": "Parts of the Dutch railway system experienced major disruptions after objects were found placed across train lines. Authorities suspect sabotage as the cause of the widespread service outages.",
+    "lang": "en",
+    "source": "Deutsche Welle World",
+    "url": "https://www.dw.com/en/netherlands-suspected-sabotage-disrupts-train-services/a-79269600?maca=en-rss-en-world-4025-rdf",
+    "published": "2026-09-15T08:46:00+00:00"
+   }
+  ],
+  "politica|america": [
+   {
+    "title": "EU chief opens door for Canada to become 'associate member'",
+    "summary": "The EU has opened the door for Canada to become an 'associate member' seeking closer ties after tensions with the US. This reflects Canada's strategic pivot following deteriorated relations with the Trump administration.",
+    "lang": "en",
+    "source": "BBC World",
+    "url": "https://www.bbc.co.uk/news/articles/cjwyzrr9d3dko?at_medium=RSS&at_campaign=rss",
+    "published": "2026-09-16T09:34:50+00:00"
+   },
+   {
+    "title": "State of U.S. democracy reaches new low, report finds",
+    "summary": "A global democracy report shows the US has reached its lowest level of democratic performance in 50 years of measurement. The decline reflects growing concerns about democratic institutions and governance.",
+    "lang": "en",
+    "source": "NPR World",
+    "url": "https://www.npr.org/2026/09/15/nx-s1-5969741/state-of-u-s-democracy-reaches-new-low-report-finds",
+    "published": "2026-09-15T18:57:42+00:00"
+   },
+   {
+    "title": "SCOTUS rejects Trump's mail voting limits. And, the Kennedy Center financial crisis",
+    "summary": "The Supreme Court rejected Trump's mail-in voting restrictions ahead of midterm elections. Additionally, the Kennedy Center faces a financial crisis and warns of potential closure due to bankruptcy.",
+    "lang": "en",
+    "source": "NPR World",
+    "url": "https://www.npr.org/2026/09/15/g-s1-143294/up-first-newsletter-bernie-sanders-steve-bannon-ai-mail-in-ballots-kennedy-center-emmys",
+    "published": "2026-09-15T11:35:49+00:00"
+   },
+   {
+    "title": "Trump says Ukraine and Russia agreed to stop attacks on energy sites",
+    "summary": "President Trump claims Ukraine and Russia have agreed to halt strikes on each other's energy infrastructure. The alleged agreement aims to address soaring diesel prices caused by ongoing conflict.",
+    "lang": "en",
+    "source": "NPR World",
+    "url": "https://www.npr.org/2026/09/15/nx-s1-5968728/trump-says-ukraine-and-russia-agreed-to-stop-attacks-on-energy-sites",
+    "published": "2026-09-15T10:42:10+00:00"
+   },
+   {
+    "title": "Air pollution spiked after the Trump administration stopped embassy monitoring",
+    "summary": "Air pollution levels spiked after the Trump administration ended an embassy air monitoring program in 2025. Studies indicate local pollution increased by 24-33% following program termination.",
+    "lang": "en",
+    "source": "NPR World",
+    "url": "https://www.npr.org/2026/09/15/nx-s1-5966503/air-pollution-spiked-after-the-trump-administration-stopped-embassy-monitoring",
+    "published": "2026-09-15T10:26:08+00:00"
+   }
+  ],
+  "tecnologia|america": [
+   {
+    "title": "What’s at stake in AI’s trillion-dollar gamble",
+    "summary": "Finance experts assess AI's economic impact over coming years amid trillion-dollar investment bets. The analysis examines whether massive AI spending will deliver proportional economic returns.",
+    "lang": "en",
+    "source": "MIT Technology Review",
+    "url": "https://www.technologyreview.com/2026/09/15/1144028/ai-infrastructure-boom-investment-bubble-risk/",
+    "published": "2026-09-15T10:00:00+00:00"
+   },
+   {
+    "title": "The AI data center boom is colliding with cities scarred by big industry",
+    "summary": "Data center construction is encountering national opposition, including in Philadelphia where environmental concerns dominate. Communities already affected by industrial pollution resist new development projects.",
+    "lang": "en",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/09/15/the-ai-data-center-boom-is-colliding-with-cities-scarred-by-big-industry/",
+    "published": "2026-09-15T21:47:38+00:00"
+   },
+   {
+    "title": "US data centers could consume more natural gas than Germany and Japan combined by 2035",
+    "summary": "US data centers could consume more natural gas than Germany and Japan combined by 2035 due to AI growth. The surge reflects expanding computational demands from artificial intelligence infrastructure.",
+    "lang": "en",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/09/15/us-data-centers-could-consume-more-natural-gas-than-germany-and-japan-combined-by-2035/",
+    "published": "2026-09-15T18:29:20+00:00"
+   },
+   {
+    "title": "AI models need more data about biology, and OpenAI is paying to create it",
+    "summary": "OpenAI is funding the creation of additional biology data to improve AI medical systems. The strategy addresses data shortages by acquiring information from failed biotech companies.",
+    "lang": "en",
+    "source": "MIT Technology Review",
+    "url": "https://www.technologyreview.com/2026/09/15/1144129/ai-models-need-more-data-about-biology-and-openai-is-paying-to-create-it/",
+    "published": "2026-09-15T12:00:00+00:00"
+   },
+   {
+    "title": "Introducing Gemini 3.8 Live and 3.8 Live Extended Thinking",
+    "summary": "Google DeepMind has introduced Gemini 3.8 Live and 3.8 Live Extended Thinking capabilities. The new features enhance AI interaction and reasoning for advanced applications.",
+    "lang": "en",
+    "source": "Google DeepMind Blog",
+    "url": "https://deepmind.google/blog/introducing-gemini-3-8-live-and-3-8-live-extended-thinking/",
+    "published": "2026-09-15T17:05:57+00:00"
+   }
+  ],
+  "tecnologia|europa": [
+   {
+    "title": "El rechazo a las Ray-Ban Meta es tan grande que están preparando un modelo sin cámara, según The Information",
+    "summary": "Meta prepara gafas Ray-Ban sin cámara debido al rechazo masivo del mercado por preocupaciones de privacidad. La compañía responde a la creciente inquietud sobre dispositivos con cámaras integradas.",
+    "lang": "es",
+    "source": "Xataka",
+    "url": "https://www.xataka.com/privacidad/rechazo-a-ray-ban-meta-grande-que-estan-preparando-modelo-camara-the-information",
+    "published": "2026-09-16T09:30:12+00:00"
+   }
+  ],
+  "tecnologia|asia": [
+   {
+    "title": "記憶體短缺延燒至 2027 年！中小型手機、筆電業者改產品設計、搶貨",
+    "summary": "由于供应链材料持续短缺，中小型手机和笔电厂商正重新设计产品并检测芯片。内存短缺预计将延续至2027年。",
+    "lang": "zh",
+    "source": "科技新報 TechNews",
+    "url": "https://technews.tw/2026/09/16/smaller-phone-and-laptop-makers-memory/",
+    "published": "2026-09-16T10:02:49+00:00"
+   },
+   {
+    "title": "新加坡政府推 AI 課程送工具，拚三年培養 10 萬人才",
+    "summary": "新加坡政府推出AI人才培育计划，为参加精选AI课程的公民提供AI工具订阅。目标是在三年内培养十万AI人才。",
+    "lang": "zh",
+    "source": "科技新報 TechNews",
+    "url": "https://technews.tw/2026/09/16/singapore-government-launches-ai-courses-provides-tools-aims-cultivate-100000-talents-3-years/",
+    "published": "2026-09-16T09:40:20+00:00"
+   },
+   {
+    "title": "Salesforce與Nvidia合推CRM模型Koa",
+    "summary": "Salesforce与Nvidia合作开发专用于客户关系管理的AI模型Koa。双方联合推进CRM领域的人工智能应用。",
+    "lang": "zh",
+    "source": "iThome 台灣",
+    "url": "https://www.ithome.com.tw/news/178987",
+    "published": "2026-09-16T04:09:54+00:00"
+   },
+   {
+    "title": "黃仁勳反對新增AI監管，與Anthropic、OpenAI立場分歧",
+    "summary": "Nvidia首席执行官黄仁勳表示AI安全是工程问题而非法律问题，反对新增AI监管。其立场与主张加强监管的Anthropic和OpenAI不同。",
+    "lang": "zh",
+    "source": "iThome 台灣",
+    "url": "https://www.ithome.com.tw/news/178985",
+    "published": "2026-09-16T03:09:02+00:00"
+   },
+   {
+    "title": "駭客利用資料分析工具Marimo重大漏洞從事攻擊，8秒完成竊取AWS憑證與SSH主機橫向移動",
+    "summary": "黑客利用数据分析工具Marimo的重大漏洞CVE-2026-39987进行攻击，八秒内窃取AWS凭证。近月来多起攻击事件结合AI技术快速实现漏洞利用。",
+    "lang": "zh",
+    "source": "iThome 台灣",
+    "url": "https://www.ithome.com.tw/news/178988",
+    "published": "2026-09-16T04:09:59+00:00"
+   }
+  ]
+ }
+}
