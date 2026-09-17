@@ -1,0 +1,308 @@
+{
+ "date": "2026-09-17",
+ "generated_at": "2026-09-17T10:14:31.570614+00:00",
+ "mode": "full",
+ "cost_usd": 0.0244,
+ "market": null,
+ "failed_sources": [],
+ "cells": {
+  "economia|asia": [
+   {
+    "title": "China cuts US Treasury holdings to lowest level since 2008",
+    "summary": "China has reduced its US Treasury holdings to the lowest level since 2008, reflecting deepening tensions between the world's two largest economies.",
+    "lang": "en",
+    "source": "Financial Times",
+    "url": "https://www.ft.com/content/69f02abc-e0dc-46e5-aa6c-61d209e095d9?syn-25a6b1a6=1",
+    "published": "2026-09-17T07:43:48+00:00"
+   },
+   {
+    "title": "Japan, US in talks to build chip factory as part of tariff deal",
+    "summary": "Japan and the US are negotiating to build a chip factory as part of a tariff deal arrangement.",
+    "lang": "en",
+    "source": "Nikkei Asia",
+    "url": "https://asia.nikkei.com/economy/trade-war/trump-tariffs/japan-us-in-talks-to-build-chip-factory-as-part-of-tariff-deal2",
+    "published": null
+   },
+   {
+    "title": "Yen weakens to 156-level as Fed fulfills rate hike expectations",
+    "summary": "The yen weakened to 156 level as the Federal Reserve met rate hike expectations.",
+    "lang": "en",
+    "source": "Nikkei Asia",
+    "url": "https://asia.nikkei.com/business/markets/currencies/yen-weakens-to-156-level-as-fed-fulfills-rate-hike-expectations",
+    "published": null
+   },
+   {
+    "title": "RBI Drains 500 Billion Rupees of Banking Cash Through Debt Sales",
+    "summary": "India's central bank sold 500 billion rupees of bonds to drain surplus cash from the banking system as part of monetary management efforts.",
+    "lang": "en",
+    "source": "Bloomberg Economics",
+    "url": "https://www.bloomberg.com/news/articles/2026-09-17/rbi-drains-500-billion-rupees-of-banking-cash-through-debt-sales",
+    "published": "2026-09-17T09:22:59+00:00"
+   },
+   {
+    "title": "Singapore exports surge 46% in August, strongest in 38 years",
+    "summary": "Singapore's exports surged 46% in August, marking the strongest growth in 38 years.",
+    "lang": "en",
+    "source": "Nikkei Asia",
+    "url": "https://asia.nikkei.com/economy/singapore-exports-surge-46-in-august-strongest-in-38-years",
+    "published": null
+   }
+  ],
+  "economia|europa": [
+   {
+    "title": "ECB wage tracker at 2.7% in H1 2027, pointing to a modest uptick in negotiated wage growth",
+    "summary": "The ECB's wage tracker shows 2.7% growth in H1 2027, indicating modest uptick in negotiated wage growth across the eurozone.",
+    "lang": "en",
+    "source": "BCE (notas de prensa)",
+    "url": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr260916~7bc58ebef4.en.html",
+    "published": "2026-09-16T08:00:00+00:00"
+   },
+   {
+    "title": "España propone reestructurar la deuda del fondo europeo de recuperación para dar 70.000 millones extra a la UE",
+    "summary": "España propone reestructurar la deuda del fondo de recuperación europeo para liberar 11.000 millones anuales al presupuesto de la UE mediante el reperfil de intereses del Next Generation.",
+    "lang": "es",
+    "source": "El País Economía",
+    "url": "https://elpais.com/economia/2026-09-17/espana-propone-reestructurar-la-deuda-del-fondo-europeo-de-recuperacion-para-dar-70000-millones-extra-a-la-ue.html",
+    "published": "2026-09-17T03:45:01+00:00"
+   },
+   {
+    "title": "ECB’s Makhlouf Says Each Meeting Is ‘Live’ Including October",
+    "summary": "ECB Governing Council member Gabriel Makhlouf indicated that interest-rate decisions remain open at each meeting, including a potential October hike.",
+    "lang": "en",
+    "source": "Bloomberg Economics",
+    "url": "https://www.bloomberg.com/news/articles/2026-09-17/ecb-s-makhlouf-says-every-meeting-is-live-including-october",
+    "published": "2026-09-17T08:23:24+00:00"
+   },
+   {
+    "title": "BOE Seen Holding Rates With Focus on Vote Split",
+    "summary": "The Bank of England is expected to hold rates at 3.75% at Thursday's meeting, with focus on vote split and member commentary.",
+    "lang": "en",
+    "source": "Bloomberg Economics",
+    "url": "https://www.bloomberg.com/news/videos/2026-09-17/boe-seen-holding-rates-with-focus-on-vote-split-video",
+    "published": "2026-09-17T09:58:20+00:00"
+   }
+  ],
+  "economia|america": [
+   {
+    "title": "Federal Reserve issues FOMC statement",
+    "summary": "The Federal Reserve issued its FOMC statement regarding monetary policy decisions.",
+    "lang": "en",
+    "source": "Reserva Federal (notas de prensa)",
+    "url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20260916a.htm",
+    "published": "2026-09-16T18:00:00+00:00"
+   },
+   {
+    "title": "Canada’s Tech Startups Head to the US, and Carney Wants Them Back",
+    "summary": "Canadian tech startups are relocating to the US, prompting former central banker Mark Carney to work on bringing them back.",
+    "lang": "en",
+    "source": "Bloomberg Economics",
+    "url": "https://www.bloomberg.com/news/articles/2026-09-17/canada-s-tech-startups-head-to-the-us-and-carney-wants-them-back",
+    "published": "2026-09-17T10:00:00+00:00"
+   }
+  ],
+  "politica|asia": [
+   {
+    "title": "Donald Trump presses China on fentanyl precursors ahead of US summit",
+    "summary": "US President Trump urged China to take aggressive action against fentanyl precursor exports ahead of a scheduled summit.",
+    "lang": "en",
+    "source": "South China Morning Post (China)",
+    "url": "https://www.scmp.com/news/china/diplomacy/article/3367840/donald-trump-presses-xi-jinping-fentanyl-precursors-ahead-washington-summit?utm_source=rss_feed",
+    "published": "2026-09-17T08:02:28+00:00"
+   },
+   {
+    "title": "IAEA大會談非核化 金與正：北韓擁核地位不可動搖",
+    "summary": "金正恩胞妹金与正表示北韓的擁核地位「絕不可動搖」，並批評寄望北韓棄核的人是「笨蛋」。",
+    "lang": "zh",
+    "source": "中央社 CNA",
+    "url": "https://www.cna.com.tw/news/aopl/202609170147.aspx",
+    "published": "2026-09-17T06:07:06+00:00"
+   },
+   {
+    "title": "India warns U.S. new tariffs to deter buyers of Russian oil could impact ties",
+    "summary": "India warned that US tariffs on Russian oil buyers could harm bilateral relations after the House passed a sanctions measure.",
+    "lang": "en",
+    "source": "Japan Times",
+    "url": "https://www.japantimes.co.jp/news/2026/09/17/asia-pacific/politics/india-energy-security-us-tariffs/",
+    "published": "2026-09-17T07:28:00+00:00"
+   },
+   {
+    "title": "Modi pitches India as global chipmaking hub",
+    "summary": "Indian Prime Minister Modi positioned India as a global chipmaking hub to attract semiconductor manufacturing investment.",
+    "lang": "en",
+    "source": "Channel NewsAsia",
+    "url": "https://www.channelnewsasia.com/business/modi-pitches-india-global-chipmaking-hub-6391456",
+    "published": "2026-09-17T09:57:06+00:00"
+   }
+  ],
+  "politica|europa": [
+   {
+    "title": "US Congress passes sanctions bill targeting Russia",
+    "summary": "The US Congress passed a sanctions bill targeting Russia's energy and defense sectors, now awaiting Trump's signature.",
+    "lang": "en",
+    "source": "Le Monde International",
+    "url": "https://www.lemonde.fr/en/international/article/2026/09/17/us-congress-passes-sanctions-bill-targeting-russia_6757612_4.html",
+    "published": "2026-09-16T23:03:23+00:00"
+   },
+   {
+    "title": "Canada-EU alliance plan 'not against anyone,' European Commision says after Trump threat",
+    "summary": "The European Commission denied that its proposal to make Canada an associate EU member was an offensive move following Trump's criticism.",
+    "lang": "en",
+    "source": "Le Monde International",
+    "url": "https://www.lemonde.fr/en/international/article/2026/09/17/canada-eu-alliance-plan-not-against-anyone-european-commision-says-after-trump-threat_6757624_4.html",
+    "published": "2026-09-17T09:22:24+00:00"
+   },
+   {
+    "title": "Can Canada and the EU deepen ties to counter Trump?",
+    "summary": "Canadian PM Mark Carney seeks to forge a unique alliance with Europe to counter Trump while deepening transatlantic ties.",
+    "lang": "en",
+    "source": "Deutsche Welle World",
+    "url": "https://www.dw.com/en/can-canada-and-the-eu-deepen-ties-to-counter-trump/a-79295388?maca=en-rss-en-world-4025-rdf",
+    "published": "2026-09-16T16:50:00+00:00"
+   },
+   {
+    "title": "Poland reaffirms support for Ukraine after drone strikes",
+    "summary": "Poland reaffirmed support for Ukraine and pledged serious but nonprovocative measures after Russia's drone strikes near the border.",
+    "lang": "en",
+    "source": "Deutsche Welle World",
+    "url": "https://www.dw.com/en/poland-reaffirms-support-for-ukraine-after-drone-strikes/a-79291144?maca=en-rss-en-world-4025-rdf",
+    "published": "2026-09-16T12:04:00+00:00"
+   },
+   {
+    "title": "Paris hosts security talks on replacing UN mission to Lebanon",
+    "summary": "France hosted security talks with Lebanon and Jordan leaders on strengthening support for the Lebanese army as UNIFIL mission faces questions.",
+    "lang": "en",
+    "source": "Le Monde International",
+    "url": "https://www.lemonde.fr/en/international/article/2026/09/17/paris-hosts-security-talks-on-replacing-un-mission-to-lebanon_6757623_4.html",
+    "published": "2026-09-17T09:04:31+00:00"
+   }
+  ],
+  "politica|america": [
+   {
+    "title": "Big questions - and key logistical details - loom ahead of China-U.S. summit",
+    "summary": "Key logistical and diplomatic questions remain ahead of the China-US summit despite China's optimism about the talks.",
+    "lang": "en",
+    "source": "NPR World",
+    "url": "https://www.npr.org/2026/09/17/nx-s1-5971293/trump-xi-summit-china",
+    "published": "2026-09-17T09:00:00+00:00"
+   },
+   {
+    "title": "With invite to join EU bloc, Canada's prime minister speaks to European Parliament",
+    "summary": "Canada's Prime Minister Mark Carney addressed the European Parliament following the EU's invitation for Canada to become an associate member.",
+    "lang": "en",
+    "source": "NPR World",
+    "url": "https://www.npr.org/2026/09/17/nx-s1-5971428/with-invite-to-join-eu-bloc-canadas-prime-minister-speaks-to-european-parliament",
+    "published": "2026-09-17T08:43:44+00:00"
+   },
+   {
+    "title": "EU offers Canada 'associate member' role; Trump calls it 'laughable'",
+    "summary": "The EU backs Canada's bid for associate member status as Trump calls the arrangement laughable.",
+    "lang": "en",
+    "source": "NPR World",
+    "url": "https://www.npr.org/2026/09/16/nx-s1-5971043/eu-canada-carney-tariffs-trump",
+    "published": "2026-09-16T20:08:27+00:00"
+   },
+   {
+    "title": "How Jared Kushner is mixing U.S. diplomacy with his billion-dollar business",
+    "summary": "Trump's son-in-law Jared Kushner serves as US special envoy negotiating peace while simultaneously pursuing billion-dollar private business deals.",
+    "lang": "en",
+    "source": "NPR World",
+    "url": "https://www.npr.org/2026/09/16/nx-s1-5971125/how-jared-kushner-is-mixing-u-s-diplomacy-with-his-billion-dollar-business",
+    "published": "2026-09-16T16:14:19+00:00"
+   },
+   {
+    "title": "Russia seizes Ukrainian POWs, then it demands favors from their relatives",
+    "summary": "Russia holds thousands of Ukrainian POWs and reportedly demands favors from their relatives through social media contact.",
+    "lang": "en",
+    "source": "NPR World",
+    "url": "https://www.npr.org/2026/09/16/nx-s1-5904423/russia-seizes-ukrainian-pows-then-it-demands-favors-from-their-relatives",
+    "published": "2026-09-16T13:33:53+00:00"
+   }
+  ],
+  "tecnologia|america": [
+   {
+    "title": "Apple reportedly building server packed with M-series Ultra chips for AI",
+    "summary": "Apple is reportedly building an enterprise server packed with M-series Ultra chips for AI, planned for 2029 debut.",
+    "lang": "en",
+    "source": "Ars Technica",
+    "url": "https://arstechnica.com/ai/2026/09/apple-reportedly-building-server-packed-with-m-series-ultra-chips-for-ai/",
+    "published": "2026-09-16T22:02:46+00:00"
+   },
+   {
+    "title": "Building the materials foundation for AI",
+    "summary": "The AI boom is driving a materials challenge as infrastructure demands become as critical as algorithmic advances.",
+    "lang": "en",
+    "source": "MIT Technology Review",
+    "url": "https://www.technologyreview.com/2026/09/16/1144014/building-the-materials-foundation-for-ai/",
+    "published": "2026-09-16T12:47:34+00:00"
+   },
+   {
+    "title": "The AI data center e-waste problem is huge — and getting bigger",
+    "summary": "E-waste from the AI boom has been vastly underestimated and could fill 23 million shipping containers by 2050.",
+    "lang": "en",
+    "source": "The Verge",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/996470/ai-data-center-e-waste-ban",
+    "published": "2026-09-16T20:40:46+00:00"
+   },
+   {
+    "title": "California may gut state net neutrality law to comply with Trump admin demand",
+    "summary": "California may weaken its net neutrality law to comply with Trump administration demands tied to broadband grant conditions.",
+    "lang": "en",
+    "source": "Ars Technica",
+    "url": "https://arstechnica.com/tech-policy/2026/09/california-may-gut-state-net-neutrality-law-to-comply-with-trump-admin-demand/",
+    "published": "2026-09-16T19:36:44+00:00"
+   }
+  ],
+  "tecnologia|europa": [
+   {
+    "title": "Jensen Huang, CEO de Nvidia: \"No necesitamos nuevas leyes, no necesitamos nuevas regulaciones\"",
+    "summary": "El CEO de Nvidia, Jensen Huang, argumentó en la conferencia Dreamforce que la inteligencia artificial no requiere nuevas leyes ni regulaciones adicionales.",
+    "lang": "es",
+    "source": "Xataka",
+    "url": "https://www.xataka.com/empresas-y-economia/jensen-huang-ceo-nvidia-no-necesitamos-nuevas-leyes-no-necesitamos-nuevas-regulaciones",
+    "published": "2026-09-17T10:00:14+00:00"
+   },
+   {
+    "title": "The EU Wants to Break Up Kids and Their Chatbots",
+    "summary": "The EU's AI Kids Act targets minor-facing chatbots like ChatGPT to strip features that make them appealing to children.",
+    "lang": "en",
+    "source": "Wired",
+    "url": "https://www.wired.com/story/the-eu-wants-to-break-up-kids-and-their-chatbots/",
+    "published": "2026-09-17T10:06:50+00:00"
+   }
+  ],
+  "tecnologia|asia": [
+   {
+    "title": "中華電信GSN IDC新機房啟用，政府服務開始分階段搬移，預期2027年全面移轉",
+    "summary": "中華電信完成GSN IDC新機房建置，政府機關將分階段遷移相關服務，預計2027年全面移轉。",
+    "lang": "zh",
+    "source": "iThome 台灣",
+    "url": "https://www.ithome.com.tw/news/179032",
+    "published": "2026-09-17T06:09:50+00:00"
+   },
+   {
+    "title": "英特爾布局邊緣AI生態系，從零售、製造到交通推動Physical AI落地",
+    "summary": "英特爾推動Physical AI發展，將AI模型應用於零售、製造和交通等產業場景，邊緣端成為關鍵環節。",
+    "lang": "zh",
+    "source": "iThome 台灣",
+    "url": "https://www.ithome.com.tw/news/179031",
+    "published": "2026-09-17T05:09:48+00:00"
+   },
+   {
+    "title": "Google Home MCP 登場，第三方 AI Agent 與居家環境智慧接軌",
+    "summary": "Google推出Google Home MCP，向第三方AI Agent開放智慧家庭產品接口，促進AI與居家環境整合。",
+    "lang": "zh",
+    "source": "科技新報 TechNews",
+    "url": "https://ccc.technews.tw/2026/09/17/google-opens-early-access-to-model-context-protocol-for-google-home/",
+    "published": "2026-09-17T08:44:54+00:00"
+   },
+   {
+    "title": "Intel與AMD機密運算防護可遭到突破，DDRop攻擊手法利用記憶體寫入機制弱點",
+    "summary": "研究人員揭露DDRop攻擊手法，利用DDR5記憶體寫入機制漏洞突破Intel TDX和AMD機密運算防護。",
+    "lang": "zh",
+    "source": "iThome 台灣",
+    "url": "https://www.ithome.com.tw/news/179025",
+    "published": "2026-09-17T01:09:12+00:00"
+   }
+  ]
+ }
+}
