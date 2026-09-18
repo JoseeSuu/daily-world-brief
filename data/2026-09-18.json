@@ -1,0 +1,300 @@
+{
+ "date": "2026-09-18",
+ "generated_at": "2026-09-18T09:58:16.202703+00:00",
+ "mode": "full",
+ "cost_usd": 0.0285,
+ "market": null,
+ "failed_sources": [],
+ "cells": {
+  "economia|asia": [
+   {
+    "title": "BOJ hikes rates to 1.25% as chief Ueda cites shift in policy phase",
+    "summary": "El Banco de Japón eleva las tasas de interés a 1,25%, señalando un cambio en su fase de política monetaria. El gobernador Ueda citó razones económicas para el incremento.",
+    "lang": "en",
+    "source": "Nikkei Asia",
+    "url": "https://asia.nikkei.com/economy/bank-of-japan/boj-hikes-rates-to-1.25-as-chief-ueda-cites-shift-in-policy-phase",
+    "published": null
+   },
+   {
+    "title": "China rebuffs AI slowdown calls ahead of Trump-Xi summit: 5 things to know",
+    "summary": "China rechaza llamados para desacelerar el desarrollo de inteligencia artificial antes de la cumbre Trump-Xi. Pekín mantiene su impulso en tecnología de IA.",
+    "lang": "en",
+    "source": "Nikkei Asia",
+    "url": "https://asia.nikkei.com/politics/international-relations/us-china-tensions/china-rebuffs-ai-slowdown-calls-ahead-of-trump-xi-summit-5-things-to-know",
+    "published": null
+   },
+   {
+    "title": "NSE’s $2.4 Billion India IPO Fully Subscribed on Second Day",
+    "summary": "La oferta pública inicial de la Bolsa Nacional de Valores de India por $2.4 mil millones se suscribió completamente el segundo día. Es la bolsa de derivados más activa del mundo.",
+    "lang": "en",
+    "source": "Bloomberg Markets",
+    "url": "https://www.bloomberg.com/news/articles/2026-09-18/nse-s-2-4-billion-india-ipo-fully-subscribed-on-second-day",
+    "published": "2026-09-18T09:30:43+00:00"
+   },
+   {
+    "title": "AirAsia expects $1bn financing by January amid fuel cost pressure",
+    "summary": "AirAsia espera obtener $1 mil millones en financiamiento antes de enero debido a presión de costos de combustible. La aerolínea busca mejorar su situación financiera.",
+    "lang": "en",
+    "source": "Nikkei Asia",
+    "url": "https://asia.nikkei.com/business/transportation/airasia-expects-1bn-financing-by-january-amid-fuel-cost-pressure",
+    "published": null
+   }
+  ],
+  "economia|europa": [
+   {
+    "title": "Lagarde Says She’ll Leave ECB in 2027, Won’t Give Exact Date",
+    "summary": "Christine Lagarde reitera que se retirará como presidenta del BCE en 2027 sin precisar la fecha exacta. Declinó confirmar si permanecerá hasta octubre.",
+    "lang": "en",
+    "source": "Bloomberg Economics",
+    "url": "https://www.bloomberg.com/news/articles/2026-09-18/lagarde-says-she-ll-leave-ecb-in-2027-won-t-give-exact-timing",
+    "published": "2026-09-18T08:36:29+00:00"
+   },
+   {
+    "title": "El INE corrige dos décimas a la baja, hasta el 2,6%, el crecimiento económico del año pasado",
+    "summary": "El INE reduce el crecimiento económico de 2024 a 2,6% por menor gasto de familias y exportaciones. El retroceso también afecta al dato de 2023.",
+    "lang": "es",
+    "source": "El País Economía",
+    "url": "https://elpais.com/economia/2026-09-18/el-ine-corrige-dos-decimas-a-la-baja-hasta-el-26-el-crecimiento-economico-del-ano-pasado.html",
+    "published": "2026-09-18T09:52:14+00:00"
+   },
+   {
+    "title": "France Seeks to Pare Deficit After Missing Its 2026 Target",
+    "summary": "Francia busca reducir su déficit después de incumplir su objetivo para 2026, con un plan de control de gastos. El Primer Ministro Lecornu presentará propuestas al parlamento.",
+    "lang": "en",
+    "source": "Bloomberg Economics",
+    "url": "https://www.bloomberg.com/news/articles/2026-09-17/french-premier-eyes-54-billion-effort-to-stop-deficit-blowout",
+    "published": "2026-09-17T16:10:28+00:00"
+   },
+   {
+    "title": "Bank of England says rates likely to rise as it overhauls gilt sales",
+    "summary": "El Banco de Inglaterra mantiene tasas en 3,75% pero señala que aumentos en costos de endeudamiento son probables. Reformula sus ventas de bonos del gobierno.",
+    "lang": "en",
+    "source": "FT Global Economy",
+    "url": "https://www.ft.com/content/44bc4245-f235-4c1d-af93-deb5810f635a?syn-25a6b1a6=1",
+    "published": "2026-09-17T16:12:23+00:00"
+   }
+  ],
+  "economia|america": [
+   {
+    "title": "Venezuela nears deal to tap disputed $4bn gold reserve",
+    "summary": "Venezuela está cerca de un acuerdo para transferir una reserva de oro de $4 mil millones desde Londres a Nueva York. El gobierno interino de Delcy Rodríguez busca acceder a fondos.",
+    "lang": "en",
+    "source": "Financial Times",
+    "url": "https://www.ft.com/content/8f1f3047-372d-425f-bcd6-cfe9d5d4890c?syn-25a6b1a6=1",
+    "published": "2026-09-18T04:00:29+00:00"
+   }
+  ],
+  "politica|asia": [
+   {
+    "title": "菲律賓：中國海警船南海「衝撞」公務船",
+    "summary": "菲律宾指控中国海警船在南海与其渔业部公务船发生碰撞。事件发生在南海海域，显示两国海上紧张局势持续。",
+    "lang": "zh",
+    "source": "中央社 CNA",
+    "url": "https://www.cna.com.tw/news/aopl/202609180151.aspx",
+    "published": "2026-09-18T07:22:43+00:00"
+   },
+   {
+    "title": "美国提出延长对伊朗核计划监督期限，中俄投票否决",
+    "summary": "美国提议延长对伊朗核计划的监督期限，遭中俄否决。中俄认为相关制裁已过期，伊朗问题将成习特会重要议题。",
+    "lang": "zh",
+    "source": "纽约时报中文网",
+    "url": "https://cn.nytimes.com/world/20260918/un-iran-resolution-russia-china-veto/?utm_source=RSS",
+    "published": "2026-09-18T01:52:20+00:00"
+   },
+   {
+    "title": "Kim’s sister says U.S. drills push North Korea nuclear arms growth",
+    "summary": "La hermana de Kim Jong Un acusa a EE.UU. de impulsar el crecimiento de armas nucleares norcoreanas mediante ejercicios militares. Kim Yo Jong critica maniobras con Corea del Sur y Japón.",
+    "lang": "en",
+    "source": "Japan Times",
+    "url": "https://www.japantimes.co.jp/news/2026/09/18/asia-pacific/north-korea-us-drills/",
+    "published": "2026-09-18T05:44:00+00:00"
+   },
+   {
+    "title": "馬來西亞前首相納吉涉貪入獄 獲有條件特赦居家服刑",
+    "summary": "马来西亚前首相纳吉因贪腐服刑获有条件特赦，改为居家服刑至2028年。纳吉曾因贪腐案被定罪入狱。",
+    "lang": "zh",
+    "source": "中央社 CNA",
+    "url": "https://www.cna.com.tw/news/aopl/202609180126.aspx",
+    "published": "2026-09-18T06:00:49+00:00"
+   }
+  ],
+  "politica|europa": [
+   {
+    "title": "As UN peacekeepers in Lebanon pack up, fears grow that Israel could 'do anything, without witnesses'",
+    "summary": "La fuerza de paz de la ONU en Líbano terminará operaciones el 31 de diciembre tras 48 años de despliegue. Crece preocupación sobre posibles acciones israelíes sin supervisión.",
+    "lang": "en",
+    "source": "Le Monde International",
+    "url": "https://www.lemonde.fr/en/international/article/2026/09/18/as-un-peacekeepers-in-lebanon-pack-up-fears-grow-that-israel-could-do-anything-without-witnesses_6757665_4.html",
+    "published": "2026-09-18T09:30:04+00:00"
+   },
+   {
+    "title": "Russia seizes assets of Nestlé and French firms Auchan and Leroy Merlin",
+    "summary": "Rusia confisca activos de Nestlé y empresas francesas Auchan y Leroy Merlin mediante decreto presidencial. Putin ordena la incautación de bienes residuales extranjeros.",
+    "lang": "en",
+    "source": "Le Monde International",
+    "url": "https://www.lemonde.fr/en/international/article/2026/09/18/russia-seizes-assets-of-french-firms-auchan-and-leroy-merlin_6757662_4.html",
+    "published": "2026-09-18T08:49:50+00:00"
+   },
+   {
+    "title": "French jihadists held in Iraq set to be tried from Sunday",
+    "summary": "Alrededor de 50 ciudadanos franceses que lucharon para ISIS enfrentan juicio en Irak desde el domingo. Sus abogados denuncian una denegación de justicia por riesgo de pena de muerte.",
+    "lang": "en",
+    "source": "Le Monde International",
+    "url": "https://www.lemonde.fr/en/france/article/2026/09/18/french-jihadists-held-in-iraq-set-to-be-tried-from-sunday_6757658_7.html",
+    "published": "2026-09-18T07:42:05+00:00"
+   },
+   {
+    "title": "A war-fatigued and anxious Russia picks a new parliament",
+    "summary": "Rusia elige nuevo parlamento en contexto de fatiga por guerra y ansiedad ciudadana por escasez de combustible. Crece apoyo para conversaciones de paz entre los rusos.",
+    "lang": "en",
+    "source": "Deutsche Welle World",
+    "url": "https://www.dw.com/en/a-war-fatigued-and-anxious-russia-picks-a-new-parliament/a-79312440?maca=en-rss-en-world-4025-rdf",
+    "published": "2026-09-17T16:42:00+00:00"
+   },
+   {
+    "title": "In Russia, anti-war activists seek to resist Putin's electoral machine",
+    "summary": "Activistas antiguerra en Rusia buscan resistir la maquinaria electoral del Kremlin en elecciones de septiembre. Los comicios serán controlados y se espera victoria de Rusia Unida.",
+    "lang": "en",
+    "source": "Le Monde International",
+    "url": "https://www.lemonde.fr/en/international/article/2026/09/18/in-russia-anti-war-activists-seek-to-resist-putin-s-electoral-machine_6757650_4.html",
+    "published": "2026-09-18T02:54:12+00:00"
+   }
+  ],
+  "politica|america": [
+   {
+    "title": "South Korea will not send military to support US war on Iran, defying Trump pressure",
+    "summary": "Corea del Sur rechaza enviar militares para apoyar la guerra estadounidense contra Irán, desafiando presión de Trump. Seúl descarta despliegue en el Estrecho de Ormuz.",
+    "lang": "en",
+    "source": "The Guardian World",
+    "url": "https://www.theguardian.com/world/2026/sep/18/south-korea-will-not-send-military-to-support-us-war-on-iran-defying-trump-pressure",
+    "published": "2026-09-18T05:54:29+00:00"
+   },
+   {
+    "title": "Canada welcomes EU proposal to become 'associate member'",
+    "summary": "Canadá acoge propuesta de la UE para convertirse en miembro asociado, según el Primer Ministro Mark Carney. La alianza crearía un «faro para otras democracias».",
+    "lang": "en",
+    "source": "BBC World",
+    "url": "https://www.bbc.co.uk/news/articles/cwly7vkke4jxo?at_medium=RSS&at_campaign=rss",
+    "published": "2026-09-17T12:27:18+00:00"
+   },
+   {
+    "title": "Behind the overture from the European Union to Canada",
+    "summary": "NPR entrevista a Ian Bremmer sobre desarrollos entre Canadá, la UE y EE.UU. Analiza implicaciones geopolíticas de la posible asociación canadiense con Europa.",
+    "lang": "en",
+    "source": "NPR World",
+    "url": "https://www.npr.org/2026/09/17/nx-s1-5973029/behind-the-overture-from-the-european-union-to-canada",
+    "published": "2026-09-17T20:24:33+00:00"
+   },
+   {
+    "title": "U.N.-backed experts cite possible U.S. war crimes in Iran, including a school attack",
+    "summary": "Expertos de derechos humanos de la ONU hallan «fundamentos razonables» de crímenes de guerra estadounidenses en Irán, incluyendo ataque a escuela. Investigación comisionada por Naciones Unidas documenta presuntos delitos.",
+    "lang": "en",
+    "source": "NPR World",
+    "url": "https://www.npr.org/2026/09/17/nx-s1-5972934/us-iran-war-un-report-alleged-war-crimes",
+    "published": "2026-09-17T12:33:36+00:00"
+   },
+   {
+    "title": "Pressure on global chokepoints drives Asia's increased use of Arctic Trade Routes",
+    "summary": "Naciones asiáticas aumentan uso de rutas comerciales árticas para evitar choques geopolíticos y presiones en puntos estratégicos. Los viajes piloto comenzaron hace una década.",
+    "lang": "en",
+    "source": "NPR World",
+    "url": "https://www.npr.org/2026/09/17/g-s1-143712/pressure-on-global-chokepoints-drives-asias-increased-use-of-arctic-trade-routes",
+    "published": "2026-09-17T10:00:00+00:00"
+   }
+  ],
+  "tecnologia|asia": [
+   {
+    "title": "北京市 11/15 開始禁存無人機，二手平台出現拋售潮",
+    "summary": "北京市无人机全域禁存新规11月15日生效，二手平台出现大量抛售潮。北京市民积极处理手中无人机以应对新规。",
+    "lang": "zh",
+    "source": "科技新報 TechNews",
+    "url": "https://technews.tw/2026/09/18/beijing-drone-storage-ban-11-15-sell-off-second-hand-platforms/",
+    "published": "2026-09-18T09:50:57+00:00"
+   },
+   {
+    "title": "繞道突破美晶片封鎖：中科院藉 GAA 創新延壽 DUV，5 奈米密度成短期極限",
+    "summary": "中科院发表新型GAA晶体架构，利用旧款DUV光刻延长芯片寿命。该技术在美国芯片制裁背景下突破发展限制。",
+    "lang": "zh",
+    "source": "科技新報 TechNews",
+    "url": "https://technews.tw/2026/09/18/china-duv-breakthrough-5nm-advance/",
+    "published": "2026-09-18T09:00:36+00:00"
+   },
+   {
+    "title": "任天堂修補Switch高風險弱點，鄰近的攻擊者可透過QR Code執行程式碼",
+    "summary": "任天堂为Switch发布系统更新修补高风险漏洞CVE-2026-82079，攻击者可通过二维码执行代码。官方呼吁用户尽快安装更新应对威胁。",
+    "lang": "zh",
+    "source": "iThome 台灣",
+    "url": "https://www.ithome.com.tw/news/179051",
+    "published": "2026-09-18T01:09:51+00:00"
+   },
+   {
+    "title": "OpenAI推出法律業版GPT-6 Astra，可搜尋逾2.3億網址法律資料",
+    "summary": "OpenAI推出法律专用AI Astra for Law，整合GPT-6 Astra模型与法律搜索资源。可用于法律研究、案件分析、合约审查等工作。",
+    "lang": "zh",
+    "source": "iThome 台灣",
+    "url": "https://www.ithome.com.tw/news/179053",
+    "published": "2026-09-18T01:09:51+00:00"
+   }
+  ],
+  "tecnologia|europa": [
+   {
+    "title": "\"Está usted intentando acceder a un sitio web ilegal\": algo extraño está pasando con Archive.today en España y apunta en una dirección",
+    "summary": "El servicio de archivado web Archive.today presenta problemas de acceso desde España desde hace días. La causa exacta del bloqueo aún es desconocida.",
+    "lang": "es",
+    "source": "Xataka",
+    "url": "https://www.xataka.com/legislacion-y-derechos/esta-usted-intentando-acceder-a-sitio-web-ilegal-algo-extrano-esta-pasando-archive-today-espana-apunta-direccion",
+    "published": "2026-09-18T08:46:03+00:00"
+   },
+   {
+    "title": "Google DeepMind launches institute to widen the AGI debate",
+    "summary": "Google DeepMind lanza instituto para ampliar debate sobre IA general (AGI) con perspectivas diversas. Reconoce desacuerdos entre Google, DeepMind y comunidad investigadora global.",
+    "lang": "en",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/09/17/google-deepmind-launches-institute-to-widen-the-agi-debate/",
+    "published": "2026-09-17T23:21:17+00:00"
+   }
+  ],
+  "tecnologia|america": [
+   {
+    "title": "The specter of AI-enabled bioweapons is a wake-up call for biotech",
+    "summary": "Líderes de empresas de IA advierten sobre peligros de tecnología de armas biológicas habilitadas por IA. El CEO de Anthropic argumenta sobre riesgos existenciales recientes.",
+    "lang": "en",
+    "source": "MIT Technology Review",
+    "url": "https://www.technologyreview.com/2026/09/18/1144329/the-specter-of-ai-enabled-bioweapons-is-a-wake-up-call-for-biotech/",
+    "published": "2026-09-18T09:00:00+00:00"
+   },
+   {
+    "title": "Small AI models let drones autonomously identify and attack battlefield targets",
+    "summary": "Modelos pequeños de IA permiten a drones identificar y atacar objetivos militares autónomamente en combate. Scaleout despliega aprendizaje descentralizado basado en IA en bases militares.",
+    "lang": "en",
+    "source": "Ars Technica",
+    "url": "https://arstechnica.com/ai/2026/09/nato-backed-startup-adapts-ai-for-autonomous-drone-recon-and-attack-missions/",
+    "published": "2026-09-17T22:12:58+00:00"
+   },
+   {
+    "title": "Microsoft exec called AI scraping the “largest theft of labor in human history”",
+    "summary": "Ejecutivo de Microsoft llamó al scraping de IA el «mayor robo de trabajo en la historia humana». Correos revelan temor de ciclo de «ruina» que mata medios de noticias.",
+    "lang": "en",
+    "source": "Ars Technica",
+    "url": "https://arstechnica.com/tech-policy/2026/09/microsoft-exec-called-ai-scraping-the-largest-theft-of-labor-in-human-history/",
+    "published": "2026-09-17T20:10:41+00:00"
+   },
+   {
+    "title": "Amazon-owned Zoox’s 100-robotaxi limit in Nevada is about to disappear",
+    "summary": "El límite de 100 robotaxis de Zoox (propiedad de Amazon) en Nevada expirará a fin de mes. Competencia en Las Vegas se intensifica mientras aumenta el número permitido.",
+    "lang": "en",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/09/17/amazon-owned-zooxs-100-robotaxi-limit-in-nevada-is-about-to-disappear/",
+    "published": "2026-09-17T23:08:24+00:00"
+   },
+   {
+    "title": "The FAA’s plan to fix air traffic? $875M worth of AI",
+    "summary": "La FAA lanza programa de software basado en IA por $875 millones para mejorar control del tráfico aéreo. Busca ayudar a controladores a gestionar mejor sus responsabilidades.",
+    "lang": "en",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/09/17/the-faas-plan-to-fix-air-traffic-875-million-worth-of-ai/",
+    "published": "2026-09-17T22:14:59+00:00"
+   }
+  ]
+ }
+}
