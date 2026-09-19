@@ -1,0 +1,294 @@
+{
+ "date": "2026-09-19",
+ "generated_at": "2026-09-19T09:40:22.585337+00:00",
+ "mode": "full",
+ "cost_usd": 0.0251,
+ "market": null,
+ "failed_sources": [
+  "Reserva Federal (notas de prensa)"
+ ],
+ "cells": {
+  "economia|asia": [
+   {
+    "title": "Yen sinks after BoJ raises rates to highest level since 1995",
+    "summary": "The yen weakened after the Bank of Japan raised rates to their highest level since 1995. Authorities warn of potential further currency intervention following the central bank's move.",
+    "lang": "en",
+    "source": "FT Global Economy",
+    "url": "https://www.ft.com/content/97a0bed5-0580-4ccc-bd3c-fe9a714259e2?syn-25a6b1a6=1",
+    "published": "2026-09-18T16:28:24+00:00"
+   },
+   {
+    "title": "China Opens Probes Into Four Online Travel Booking Platforms",
+    "summary": "China launched investigations into four online travel booking platforms over suspected unfair competition practices. The probes examine potential violations affecting market fairness and merchant rights.",
+    "lang": "en",
+    "source": "Bloomberg Economics",
+    "url": "https://www.bloomberg.com/news/articles/2026-09-19/china-opens-probes-into-four-online-travel-booking-platforms",
+    "published": "2026-09-19T03:46:50+00:00"
+   },
+   {
+    "title": "Turkey moves to calm nervous markets after fund crisis sparks selloff",
+    "summary": "Turkey moves to stabilize nervous markets after a fund crisis triggered significant asset selloffs. Authorities implement measures to restore investor confidence and market stability.",
+    "lang": "en",
+    "source": "Nikkei Asia",
+    "url": "https://asia.nikkei.com/business/markets/turkey-moves-to-calm-nervous-markets-after-fund-crisis-sparks-selloff",
+    "published": null
+   }
+  ],
+  "economia|europa": [
+   {
+    "title": "ECB Consumer Expectations Survey results – August 2026",
+    "summary": "The ECB released its Consumer Expectations Survey results for August 2026. The data provides insights into consumer sentiment and inflation expectations across the eurozone.",
+    "lang": "en",
+    "source": "BCE (notas de prensa)",
+    "url": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr260918~295b3ab978.en.html",
+    "published": "2026-09-18T08:00:00+00:00"
+   },
+   {
+    "title": "Bank of Japan raises rates and accelerates tightening",
+    "summary": "The Bank of Japan raised rates to 1.25% as expected and accelerates tightening pace. Quarterly rate increases will continue according to the central bank's guidance.",
+    "lang": "en",
+    "source": "FT Global Economy",
+    "url": "https://www.ft.com/content/14f9df6a-5a70-42d9-86ee-37e6242aae6e",
+    "published": "2026-09-18T09:32:39+00:00"
+   },
+   {
+    "title": "Lagarde vuelve a sugerir la opción de abandonar el BCE antes de tiempo: “Veremos”",
+    "summary": "Lagarde sugiere nuevamente la posibilidad de abandonar el BCE antes de finalizar su mandato. España reclama un rol importante en el próximo órgano de gobierno de la entidad monetaria.",
+    "lang": "es",
+    "source": "El País Economía",
+    "url": "https://elpais.com/economia/2026-09-18/lagarde-vuelve-a-sugerir-la-opcion-de-abandonar-el-bce-antes-de-tiempo-veremos.html",
+    "published": "2026-09-18T14:11:48+00:00"
+   },
+   {
+    "title": "Alemania y los frugales rechazan de plano la propuesta española para el presupuesto europeo",
+    "summary": "Alemania y países frugales rechazan la propuesta española para el presupuesto europeo. Exigen recortes de cientos de miles de millones y se niegan a considerar el plan de reestructuración de fondos.",
+    "lang": "es",
+    "source": "El País Economía",
+    "url": "https://elpais.com/economia/2026-09-18/alemania-y-los-frugales-rechazan-de-plano-la-propuesta-espanola-para-el-presupuesto-europeo.html",
+    "published": "2026-09-18T12:08:40+00:00"
+   }
+  ],
+  "economia|america": [
+   {
+    "title": "FirstFT: Venezuela nears deal to transfer $4bn gold reserve to New York",
+    "summary": "Venezuela nears a deal to transfer its $4 billion gold reserve to New York. Top Republican warns Hispanic voters feel betrayed by Trump amid Wall Street trading decline.",
+    "lang": "en",
+    "source": "FT Global Economy",
+    "url": "https://www.ft.com/content/f89ed081-c025-4d69-bc41-9f5564c8b441?syn-25a6b1a6=1",
+    "published": "2026-09-18T09:57:32+00:00"
+   },
+   {
+    "title": "Economía argentina pierde impulso y amenaza reelección de Milei",
+    "summary": "Argentina's economy loses momentum, threatening Milei's reelection prospects. Economic slowdown poses challenges for the administration's political future.",
+    "lang": "en",
+    "source": "Bloomberg Economics",
+    "url": "https://www.bloomberg.com/news/articles/2026-09-18/economia-argentina-pierde-impulso-y-amenaza-reeleccion-de-milei-mu77pb75",
+    "published": "2026-09-18T17:08:00+00:00"
+   },
+   {
+    "title": "Colombia’s New Finance Chief Woos Wall Street After Budget Shock",
+    "summary": "Colombia's new finance chief woos Wall Street investors after budget shock. Officials expressed optimism that the austerity plan will gain Congressional approval.",
+    "lang": "en",
+    "source": "Bloomberg Economics",
+    "url": "https://www.bloomberg.com/news/articles/2026-09-18/colombia-s-new-finance-chief-woos-wall-street-after-budget-shock",
+    "published": "2026-09-18T20:02:11+00:00"
+   }
+  ],
+  "politica|asia": [
+   {
+    "title": "Trump signs sweeping Russia sanctions bill",
+    "summary": "Trump signed a sweeping Russia sanctions bill named after late Senator Lindsey Graham. The legislation supports continued aid for Ukraine against Russian aggression.",
+    "lang": "en",
+    "source": "BBC World",
+    "url": "https://www.bbc.co.uk/news/articles/cqvgy34ndj4eo?at_medium=RSS&at_campaign=rss",
+    "published": "2026-09-18T22:05:47+00:00"
+   },
+   {
+    "title": "Koizumi and U.S. defense chief Hegseth agree to boost security cooperation",
+    "summary": "Japan's Defense Minister Koizumi and U.S. Defense Secretary Hegseth agreed to boost security cooperation. The officials have conducted eight rounds of talks since assuming their positions.",
+    "lang": "en",
+    "source": "Japan Times",
+    "url": "https://www.japantimes.co.jp/news/2026/09/19/japan/politics/koizumi-hegseth-japan-us-talks/",
+    "published": "2026-09-19T05:06:00+00:00"
+   },
+   {
+    "title": "Seoul affirms U.S. investment pledges, intent to help with Strait of Hormuz free passage",
+    "summary": "Seoul affirmed U.S. investment pledges and intent to help maintain free passage through the Strait of Hormuz. South Korea ruled out sending troops to the strategic waterway.",
+    "lang": "en",
+    "source": "Japan Times",
+    "url": "https://www.japantimes.co.jp/news/2026/09/19/asia-pacific/politics/south-korea-us-top-diplomats-hormuz/",
+    "published": "2026-09-19T03:10:00+00:00"
+   },
+   {
+    "title": "North Korean hackers behind crypto thefts across 100 countries, including Japan",
+    "summary": "North Korean hackers called WaterPlum targeted crypto assets across 100 countries, including Japan. The group infected over 30,000 devices with malware between December and July.",
+    "lang": "en",
+    "source": "Japan Times",
+    "url": "https://www.japantimes.co.jp/news/2026/09/19/japan/crime-legal/north-korean-hackers-crypto-thefts-japan/",
+    "published": "2026-09-19T02:48:00+00:00"
+   },
+   {
+    "title": "Death toll from attack at police HQ in Pakistan rises to 31",
+    "summary": "Death toll from an attack on a police headquarters in Kohat, Pakistan rose to 31. Attackers stormed the Old Police Lines complex on September 18.",
+    "lang": "en",
+    "source": "Channel NewsAsia",
+    "url": "https://www.channelnewsasia.com/asia/pakistan-militant-attack-police-hq-death-toll-rises-6396396",
+    "published": "2026-09-19T04:54:22+00:00"
+   }
+  ],
+  "politica|europa": [
+   {
+    "title": "Trump announces security deal with Greenland, ending dispute with Denmark, EU and NATO",
+    "summary": "Trump announced a security deal with Greenland, resolving disputes with Denmark, the EU, and NATO. The U.S. will establish a significant military presence in the Arctic territory.",
+    "lang": "en",
+    "source": "Le Monde International",
+    "url": "https://www.lemonde.fr/en/international/article/2026/09/19/trump-announces-security-deal-with-greenland-ending-dispute-with-denmark-eu-and-nato_6757701_4.html",
+    "published": "2026-09-19T09:19:46+00:00"
+   },
+   {
+    "title": "German chancellor Friedrich Merz faces mounting criticism ahead of September 20 regional elections",
+    "summary": "German Chancellor Friedrich Merz faces mounting criticism ahead of September 20 regional elections. The far-right AfD party is expected to continue gaining support in upcoming votes.",
+    "lang": "en",
+    "source": "Le Monde International",
+    "url": "https://www.lemonde.fr/en/international/article/2026/09/19/german-chancellor-friedrich-merz-faces-mounting-criticism-ahead-of-september-20-regional-elections_6757700_4.html",
+    "published": "2026-09-19T08:01:06+00:00"
+   },
+   {
+    "title": "Iran's 'new Hezbollah:' How powerful are the Houthis now?",
+    "summary": "The Houthis have grown significantly in importance to Iran's regional strategy following victories in Yemen. The group is now considered a powerful component of Iran's geopolitical influence.",
+    "lang": "en",
+    "source": "Deutsche Welle World",
+    "url": "https://www.dw.com/en/iran-s-new-hezbollah-how-powerful-are-the-houthis-now/a-79331945?maca=en-rss-en-world-4025-rdf",
+    "published": "2026-09-18T19:22:00+00:00"
+   },
+   {
+    "title": "Why Macron is warning against risk of Russian hybrid warfare in France",
+    "summary": "Macron warned against Russian hybrid warfare risks in France during a confidential briefing. He gathered presidential candidates and party leaders to discuss evolving security threats.",
+    "lang": "en",
+    "source": "Le Monde International",
+    "url": "https://www.lemonde.fr/en/international/article/2026/09/19/why-macron-is-warning-against-risk-of-russian-hybrid-warfare-in-france_6757694_4.html",
+    "published": "2026-09-19T01:24:43+00:00"
+   },
+   {
+    "title": "Los ataques atribuidos a Rusia se multiplican en Europa y llegan a las puertas de la OTAN",
+    "summary": "Ataques atribuidos a Rusia se multiplican en Europa cerca de fronteras de la OTAN. Macron ordena proteger infraestructuras críticas francesas tras seis semanas de incidentes.",
+    "lang": "es",
+    "source": "El País Internacional",
+    "url": "https://elpais.com/internacional/2026-09-19/los-ataques-atribuidos-a-rusia-se-multiplican-en-europa-y-llegan-a-las-puertas-de-la-otan.html",
+    "published": "2026-09-19T03:30:01+00:00"
+   }
+  ],
+  "politica|america": [
+   {
+    "title": "US and Denmark reach deal over Greenland after Trump annexation threats",
+    "summary": "The U.S. and Denmark reached a deal over Greenland after Trump's annexation threats. Trump says the agreement grants the U.S. permanent control over Greenland's security needs.",
+    "lang": "en",
+    "source": "BBC World",
+    "url": "https://www.bbc.co.uk/news/articles/c63d7lexyym1o?at_medium=RSS&at_campaign=rss",
+    "published": "2026-09-18T22:58:55+00:00"
+   },
+   {
+    "title": "Judge says Trump can't demolish Kennedy Center. And, lawsuits target voter intimidation",
+    "summary": "A federal judge ruled Trump cannot demolish the Kennedy Center without 30 days' notice. Recent lawsuits seek to prevent armed federal officers from voter intimidation activities.",
+    "lang": "en",
+    "source": "NPR World",
+    "url": "https://www.npr.org/2026/09/18/g-s1-143913/up-first-newsletter-kennedy-center-trump-voter-intimidation-lawsuit-poland-russia-ukraine",
+    "published": "2026-09-18T11:09:24+00:00"
+   },
+   {
+    "title": "Syrian regime planned American journalist's kidnapping for weeks",
+    "summary": "Syrian regime planned American journalist Austin Tice's kidnapping for weeks, new reporting reveals. The abduction was orchestrated by the Syrian government, not a spontaneous act.",
+    "lang": "en",
+    "source": "NPR World",
+    "url": "https://www.npr.org/2026/09/18/nx-s1-5974166/assad-austin-tice-kidnapping-bbc-embedded",
+    "published": "2026-09-18T19:13:52+00:00"
+   },
+   {
+    "title": "Could US pull one-third of troops from Europe? What that would mean",
+    "summary": "The U.S. Pentagon reportedly considers reducing military footprint across Europe by one-third. The proposal would significantly alter America's defense posture on the continent.",
+    "lang": "en",
+    "source": "Al Jazeera English",
+    "url": "https://www.aljazeera.com/news/2026/9/19/could-us-pull-one-third-of-troops-from-europe-what-that-would-mean?traffic_source=rss",
+    "published": "2026-09-19T06:30:24+00:00"
+   }
+  ],
+  "tecnologia|america": [
+   {
+    "title": "AI hallucination of Chinese nuclear components almost led to US military attack",
+    "summary": "An AI hallucination of Chinese nuclear components nearly triggered a U.S. military response. The incident highlights risks as military AI adoption continues accelerating.",
+    "lang": "en",
+    "source": "Ars Technica",
+    "url": "https://arstechnica.com/ai/2026/09/report-us-almost-boarded-chinese-ship-over-hallucinated-ai-arms-report/",
+    "published": "2026-09-18T20:26:33+00:00"
+   },
+   {
+    "title": "The specter of AI-enabled bioweapons is a wake-up call for biotech",
+    "summary": "AI company leaders warn that their technology poses bioweapon risks, prompting urgent biotech caution. Anthropic CEO Amodei argues the dangers warrant immediate attention from the sector.",
+    "lang": "en",
+    "source": "MIT Technology Review",
+    "url": "https://www.technologyreview.com/2026/09/18/1144329/the-specter-of-ai-enabled-bioweapons-is-a-wake-up-call-for-biotech/",
+    "published": "2026-09-18T09:00:00+00:00"
+   },
+   {
+    "title": "Researchers used Claude to hack OpenAI",
+    "summary": "Researchers used Claude to hack into an OpenAI employee account and access sensitive GitHub data. The incident demonstrates vulnerabilities in AI system security protocols.",
+    "lang": "en",
+    "source": "Ars Technica",
+    "url": "https://arstechnica.com/ai/2026/09/researchers-used-claude-to-hack-openai/",
+    "published": "2026-09-18T13:30:12+00:00"
+   }
+  ],
+  "tecnologia|europa": [
+   {
+    "title": "Aragón se está llenando de centros de datos, así que la Universidad de Zaragoza ha lanzado 39 cursos para nutrir los datacenters",
+    "summary": "La Universidad de Zaragoza lanza 39 cursos nuevos para preparar profesionales en centros de datos. Aragón se está llenando de instalaciones de este tipo que demandan personal especializado.",
+    "lang": "es",
+    "source": "Xataka",
+    "url": "https://www.xataka.com/robotica-e-ia/aragon-se-esta-llenando-centros-datos-asi-que-universidad-zaragoza-ha-lanzado-39-cursos-para-nutrir-datacenters",
+    "published": "2026-09-19T09:30:12+00:00"
+   },
+   {
+    "title": "Cuatro de cada diez webs usan WordPress. Su cofundador acaba de enfrentarse a una rebelión dentro de su propia empresa",
+    "summary": "El cofundador de WordPress enfrenta una rebelión dentro de su propia empresa. Cuatro de cada diez webs utilizan esta plataforma de creación de contenidos.",
+    "lang": "es",
+    "source": "Xataka",
+    "url": "https://www.xataka.com/empresas-y-economia/cuatro-cada-diez-webs-usan-wordpress-su-cofundador-acaba-enfrentarse-a-rebelion-dentro-su-propia-empresa",
+    "published": "2026-09-18T19:00:12+00:00"
+   }
+  ],
+  "tecnologia|asia": [
+   {
+    "title": "TWNIC籲企業將網域納入資安治理，臺灣DNSSEC部署率僅2.47%",
+    "summary": "台湾网络信息中心敦促企业将域名纳入安全管理，台湾DNSSEC部署率仅2.47%。企业应检视网站基础安全并利用健检服务了解防护状况。",
+    "lang": "zh",
+    "source": "iThome 台灣",
+    "url": "https://www.ithome.com.tw/news/179047",
+    "published": "2026-09-18T11:09:07+00:00"
+   },
+   {
+    "title": "CISA發布首份網路誘餌實務指南，協助關鍵基礎設施及早偵測已入侵攻擊者",
+    "summary": "美国网络安全基础设施安全局发布首份网络诱饵实务指南。该指南帮助关键基础设施通过欺敌技术及早发现已入侵的攻击者。",
+    "lang": "zh",
+    "source": "iThome 台灣",
+    "url": "https://www.ithome.com.tw/news/179046",
+    "published": "2026-09-18T06:09:14+00:00"
+   },
+   {
+    "title": "Docker沙箱環境存在重大漏洞，攻擊者有機會讀取及竄改macOS主機檔案",
+    "summary": "Docker沙箱环境存在重大漏洞，攻击者可读取和篡改macOS主机文件。Docker已在0.42.0版安全更新中修补两个资安漏洞。",
+    "lang": "zh",
+    "source": "iThome 台灣",
+    "url": "https://www.ithome.com.tw/news/179050",
+    "published": "2026-09-18T12:09:09+00:00"
+   },
+   {
+    "title": "BIND 9修補14個弱點，其中包含可透過DNS-over-HTTPS造成服務中斷的漏洞",
+    "summary": "互联网系统协会发布BIND 9 DNS软件更新，修补14个资安漏洞。其中7个高风险、7个中等风险，IT人员应立即升级至最新版本。",
+    "lang": "zh",
+    "source": "iThome 台灣",
+    "url": "https://www.ithome.com.tw/news/179043",
+    "published": "2026-09-18T10:09:18+00:00"
+   }
+  ]
+ }
+}
