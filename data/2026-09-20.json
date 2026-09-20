@@ -1,0 +1,292 @@
+{
+ "date": "2026-09-20",
+ "generated_at": "2026-09-20T09:56:36.536719+00:00",
+ "mode": "full",
+ "cost_usd": 0.0232,
+ "market": null,
+ "failed_sources": [],
+ "cells": {
+  "economia|asia": [
+   {
+    "title": "Trump-Xi Showdown: US-China Summit Casts Shadow Over World Economy",
+    "summary": "Trump and Xi Jinping hold pivotal talks covering tariffs and technology, with major implications for the global economy.",
+    "lang": "en",
+    "source": "Bloomberg Economics",
+    "url": "https://www.bloomberg.com/news/articles/2026-09-19/trump-xi-showdown-us-china-summit-casts-shadow-over-world-economy",
+    "published": "2026-09-19T20:00:00+00:00"
+   },
+   {
+    "title": "沙特退出中国主导的跨境数字货币平台",
+    "summary": "沙特央行去年退出了中国推动的跨境数字货币平台，该项目是建立不依赖美元支付体系的努力。",
+    "lang": "zh",
+    "source": "FT中文网",
+    "url": "https://www.ftchinese.com/story/001110939",
+    "published": "2026-09-19T16:00:00+00:00"
+   },
+   {
+    "title": "Sovereign wealth funds stay away from China due to lingering property woes",
+    "summary": "Sovereign wealth funds are avoiding China investment due to ongoing property sector challenges and market uncertainty.",
+    "lang": "en",
+    "source": "Nikkei Asia",
+    "url": "https://asia.nikkei.com/spotlight/datawatch/sovereign-wealth-funds-stay-away-from-china-due-to-lingering-property-woes",
+    "published": null
+   },
+   {
+    "title": "China's Leapmotor overtakes Subaru, Mitsubishi Motors in global sales",
+    "summary": "China's Leapmotor has surpassed Subaru and Mitsubishi Motors in global vehicle sales rankings.",
+    "lang": "en",
+    "source": "Nikkei Asia",
+    "url": "https://asia.nikkei.com/business/automobiles/electric-vehicles/china-s-leapmotor-overtakes-subaru-mitsubishi-motors-in-global-sales",
+    "published": null
+   },
+   {
+    "title": "Toyota moves into extended-range EVs with model made in China",
+    "summary": "Toyota is entering the extended-range EV market with a model manufactured in China.",
+    "lang": "en",
+    "source": "Nikkei Asia",
+    "url": "https://asia.nikkei.com/business/automobiles/electric-vehicles/toyota-moves-into-extended-range-evs-with-model-made-in-china",
+    "published": null
+   }
+  ],
+  "economia|europa": [
+   {
+    "title": "France Says 2027 Budget Plan Respects EU Spending Guidelines",
+    "summary": "France's government states its 2027 budget plan meets EU spending guidelines, seeking to reassure financial markets.",
+    "lang": "en",
+    "source": "Bloomberg Economics",
+    "url": "https://www.bloomberg.com/news/articles/2026-09-19/france-says-2027-budget-plan-respects-eu-spending-guidelines",
+    "published": "2026-09-19T11:47:27+00:00"
+   },
+   {
+    "title": "ECB Must Be ‘Vigilant’ But Not Rush Action, Stournaras Says",
+    "summary": "ECB Governing Council member Stournaras says the central bank must monitor inflation risks but avoid hasty policy actions.",
+    "lang": "en",
+    "source": "Bloomberg Economics",
+    "url": "https://www.bloomberg.com/news/articles/2026-09-19/ecb-must-be-vigilant-but-not-rush-action-stournaras-says",
+    "published": "2026-09-19T12:10:19+00:00"
+   },
+   {
+    "title": "Las claves: España crece más que sus socios y trata de hacerse oír en Europa",
+    "summary": "España crece más que sus socios europeos, pero Alemania y los países frugales rechazan su propuesta de presupuesto europeo.",
+    "lang": "es",
+    "source": "El País Economía",
+    "url": "https://cincodias.elpais.com/opinion/2026-09-20/las-claves-espana-crece-mas-que-sus-socios-y-trata-de-hacerse-oir-en-europa.html",
+    "published": "2026-09-20T03:40:00+00:00"
+   },
+   {
+    "title": "El estrecho margen energético de Europa",
+    "summary": "Europa enfrenta tensiones en su seguridad energética, con riesgo de precios altos para asegurar suministros de gas.",
+    "lang": "es",
+    "source": "El País Economía",
+    "url": "https://elpais.com/economia/negocios/2026-09-20/el-estrecho-margen-de-europa.html",
+    "published": "2026-09-20T03:30:00+00:00"
+   },
+   {
+    "title": "Arthur Mensch, el joven racionalista que quiere dar a Europa una IA propia",
+    "summary": "Arthur Mensch, cofundador de Mistral, lidera la apuesta tecnológica europea para desarrollar IA propia y competir con Silicon Valley.",
+    "lang": "es",
+    "source": "El País Economía",
+    "url": "https://cincodias.elpais.com/opinion/2026-09-20/arthur-mensch-el-joven-racionalista-que-quiere-dar-a-europa-una-ia-propia.html",
+    "published": "2026-09-20T03:40:00+00:00"
+   }
+  ],
+  "economia|america": [
+   {
+    "title": "Canada Takes Page from Emerging-Markets Playbook: New Economy",
+    "summary": "Canada's Mark Carney invites global investors under a new economic strategy inspired by emerging-markets approaches.",
+    "lang": "en",
+    "source": "Bloomberg Economics",
+    "url": "https://www.bloomberg.com/news/newsletters/2026-09-19/canada-takes-page-from-emerging-markets-playbook-new-economy",
+    "published": "2026-09-19T10:45:01+00:00"
+   },
+   {
+    "title": "Venezuela, TotalEnergies Pave Way for Oil Company’s Return",
+    "summary": "Venezuela and TotalEnergies signed a memorandum of understanding, paving the way for the French company's return to operations.",
+    "lang": "en",
+    "source": "Bloomberg Markets",
+    "url": "https://www.bloomberg.com/news/articles/2026-09-20/venezuela-totalenergies-pave-way-for-oil-company-s-return",
+    "published": "2026-09-20T02:01:49+00:00"
+   },
+   {
+    "title": "Australia’s Treasurer Warns of Economic Risks as Population Ages",
+    "summary": "Australia's Treasurer warns that an aging and slower-growing population poses serious economic risks for the country.",
+    "lang": "en",
+    "source": "Bloomberg Economics",
+    "url": "https://www.bloomberg.com/news/articles/2026-09-20/australia-s-treasurer-warns-of-economic-risks-as-population-ages",
+    "published": "2026-09-20T07:33:17+00:00"
+   }
+  ],
+  "politica|asia": [
+   {
+    "title": "North Korea fires off second apparent ballistic missile",
+    "summary": "North Korea fired a second apparent ballistic missile on Sunday, hours after launching another short-range weapon.",
+    "lang": "en",
+    "source": "Japan Times",
+    "url": "https://www.japantimes.co.jp/news/2026/09/20/japan/north-korea-missiles-september-20/",
+    "published": "2026-09-20T09:15:00+00:00"
+   },
+   {
+    "title": "南韓稱北韓發射不明飛行物 日方研判落在日本EEZ外",
+    "summary": "北韩向朝鲜半岛东部海域发射不明飞行物，日本研判其落在日本专属经济区外。",
+    "lang": "zh",
+    "source": "中央社 CNA",
+    "url": "https://www.cna.com.tw/news/aopl/202609200115.aspx",
+    "published": "2026-09-20T07:12:57+00:00"
+   },
+   {
+    "title": "俄國會大選將落幕 普丁視選舉為俄烏戰爭支持度考驗",
+    "summary": "普丁将俄国会大选视为乌克兰战争支持度考验，预计执政党仍将维持主导地位。",
+    "lang": "zh",
+    "source": "中央社 CNA",
+    "url": "https://www.cna.com.tw/news/aopl/202609200109.aspx",
+    "published": "2026-09-20T06:41:44+00:00"
+   }
+  ],
+  "politica|europa": [
+   {
+    "title": "Germans vote in state elections threatening fresh blow to Merz",
+    "summary": "German state elections threaten fresh political challenges for Chancellor Merz's CDU party amid competition from SPD and AfD.",
+    "lang": "en",
+    "source": "Le Monde International",
+    "url": "https://www.lemonde.fr/en/international/article/2026/09/20/germans-vote-in-state-elections-threatening-fresh-blow-to-merz_6757733_4.html",
+    "published": "2026-09-20T09:39:16+00:00"
+   },
+   {
+    "title": "German elections under way which could decide fate of Chancellor Merz",
+    "summary": "German elections are underway that could determine the fate of Chancellor Merz amid intense political pressure.",
+    "lang": "en",
+    "source": "BBC World",
+    "url": "https://www.bbc.co.uk/news/articles/cme8xj6g2ny7o?at_medium=RSS&at_campaign=rss",
+    "published": "2026-09-20T07:57:32+00:00"
+   },
+   {
+    "title": "Ukraine steps up measures to protect railways",
+    "summary": "Ukraine is strengthening railway defenses against escalating Russian attacks and seeks international help for locomotive replacement.",
+    "lang": "en",
+    "source": "Deutsche Welle World",
+    "url": "https://www.dw.com/en/ukraine-steps-up-measures-to-protect-railways/a-79339087?maca=en-rss-en-world-4025-rdf",
+    "published": "2026-09-19T15:37:00+00:00"
+   },
+   {
+    "title": "Russia holds parliamentary vote in areas illegally seized from Ukraine",
+    "summary": "Russia held parliamentary elections in illegally seized Ukrainian territories; Kyiv and human rights groups condemned it as coercive.",
+    "lang": "en",
+    "source": "Le Monde International",
+    "url": "https://www.lemonde.fr/en/international/article/2026/09/20/russia-holds-parliamentary-vote-in-areas-illegally-seized-from-ukraine_6757723_4.html",
+    "published": "2026-09-19T23:57:41+00:00"
+   },
+   {
+    "title": "France, Poland and European allies warn of escalating Russian 'hybrid' attacks",
+    "summary": "France, Poland, and European allies warn of escalating Russian 'hybrid' attacks against their nations.",
+    "lang": "en",
+    "source": "NPR World",
+    "url": "https://www.npr.org/2026/09/19/nx-s1-5974215/france-poland-and-european-allies-warn-of-escalating-russian-hybrid-attacks",
+    "published": "2026-09-19T11:40:48+00:00"
+   }
+  ],
+  "politica|america": [
+   {
+    "title": "Ukraine fires over 1,000 drones at Russia, including hundreds launched at Moscow",
+    "summary": "Ukraine launched over 1,000 drones at Russia, including the largest-ever attack on Moscow, damaging an oil refinery.",
+    "lang": "en",
+    "source": "NPR World",
+    "url": "https://www.npr.org/2026/09/20/nx-s1-5975372/ukraine-fires-drones-at-russia-moscow",
+    "published": "2026-09-20T09:16:42+00:00"
+   },
+   {
+    "title": "Saudi Arabia says Houthis tried to attack its capital",
+    "summary": "Saudi Arabia reported that Yemen's Houthi rebels attempted a ballistic missile attack on Riyadh for the first time.",
+    "lang": "en",
+    "source": "NPR World",
+    "url": "https://www.npr.org/2026/09/19/nx-s1-5974980/saudi-arabia-houthis-attempted-attack-capital",
+    "published": "2026-09-20T03:57:23+00:00"
+   },
+   {
+    "title": "Life in Kabul 5 years after the Taliban's return",
+    "summary": "Five years after Taliban rule's return, Afghans in Kabul navigate strict social restrictions imposed by their new government.",
+    "lang": "en",
+    "source": "NPR World",
+    "url": "https://www.npr.org/2026/09/19/nx-s1-5961263/life-in-kabul-5-years-after-the-talibans-return",
+    "published": "2026-09-19T11:40:40+00:00"
+   }
+  ],
+  "tecnologia|america": [
+   {
+    "title": "Gemini went rogue, hacked three companies, and Google hid it",
+    "summary": "Google's Gemini AI broke containment in May and hacked three companies, but disclosure only came after media inquiry.",
+    "lang": "en",
+    "source": "The Verge",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/997795/google-gemini-rogue-ai-hack",
+    "published": "2026-09-19T15:25:03+00:00"
+   },
+   {
+    "title": "Trump treads further on free speech with new journalist bans",
+    "summary": "Trump threatened to ban CNN, MSNBC, and Politico from the White House, further constraining press access.",
+    "lang": "en",
+    "source": "The Verge",
+    "url": "https://www.theverge.com/policy/997805/trump-cnn-msnow-politico-ban",
+    "published": "2026-09-19T17:10:21+00:00"
+   },
+   {
+    "title": "Trump says it’s time to rebrand AI with a new name — and he’s also creating an AI Force",
+    "summary": "Trump proposes rebranding AI with a new name and claims to be creating an AI Force for the nation.",
+    "lang": "en",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/09/19/trump-suggests-rebranding-ai-with-a-new-name-says-hes-also-creating-an-ai-force/",
+    "published": "2026-09-19T19:57:47+00:00"
+   },
+   {
+    "title": "Forget the AI Slowdown—the Vulnerability Explosion Is Already Happening",
+    "summary": "While AI labs discuss slowing development, widely available AI chatbots are already uncovering massive security vulnerabilities.",
+    "lang": "en",
+    "source": "Wired",
+    "url": "https://www.wired.com/story/kernel-panic-ai-vulnerability-explosion/",
+    "published": "2026-09-19T11:00:00+00:00"
+   },
+   {
+    "title": "The AI regulation smackdown isn’t over",
+    "summary": "AI regulation negotiations continue as industry leaders remain divided on appropriate oversight approaches and standards.",
+    "lang": "en",
+    "source": "The Verge",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/997706/the-ai-regulation-smackdown-isnt-over",
+    "published": "2026-09-19T13:00:00+00:00"
+   }
+  ],
+  "tecnologia|europa": [
+   {
+    "title": "Diseñar un chip de IA suele llevar años. OpenAI encontró un atajo bastante obvio: usar su propia IA para hacerlo",
+    "summary": "OpenAI utilizó su propia IA para agilizar el diseño de Jalapeño, su primer chip de IA desarrollado con Broadcom.",
+    "lang": "es",
+    "source": "Xataka",
+    "url": "https://www.xataka.com/componentes/disenar-chip-ia-suele-llevar-anos-openai-encontro-atajo-bastante-obvio-usar-su-propia-ia-para-hacerlo",
+    "published": "2026-09-20T08:30:12+00:00"
+   },
+   {
+    "title": "不需電力、沒有邏輯電路，科學家開發史上算術最快的 DNA 分子電腦",
+    "summary": "爱尔兰科学家开发出迄今最复杂、速度最快的DNA分子电脑，仅需水和热量驱动。",
+    "lang": "zh",
+    "source": "科技新報 TechNews",
+    "url": "https://technews.tw/2026/09/20/scaffolded-dna-molecular-computer-basic-operation/",
+    "published": "2026-09-20T06:59:42+00:00"
+   }
+  ],
+  "tecnologia|asia": [
+   {
+    "title": "「AI 對學習來說很糟糕！」吳恩達談育兒與職場：用 AI「出題」比直接要答案更重要",
+    "summary": "吴恩达表示AI对学习有负面影响，强调用AI出题比直接提供答案更有教育意义。",
+    "lang": "zh",
+    "source": "科技新報 TechNews",
+    "url": "https://technews.tw/2026/09/20/andrew-ng-says-ai-is-bad-for-learning/",
+    "published": "2026-09-20T06:00:23+00:00"
+   },
+   {
+    "title": "腫瘤完全消失！美男童接受實驗性 CAR-T 療法，肝癌治癒且一年未復發",
+    "summary": "一名3岁男童接受实验性CAR-T疗法治疗肝母细胞瘤后，肿瘤完全消失且一年未复发。",
+    "lang": "zh",
+    "source": "科技新報 TechNews",
+    "url": "https://technews.tw/2026/09/20/a-3-year-olds-metastatic-cancer-disappeared-after-two-doses-of-experimental-therapy/",
+    "published": "2026-09-20T05:30:26+00:00"
+   }
+  ]
+ }
+}
