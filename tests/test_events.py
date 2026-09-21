@@ -43,7 +43,6 @@ def test_cross_section_sources_preserved_and_distinct_appeal_kept(cells):
 
 
 @pytest.mark.parametrize("groups", [
-    [group(["c0", "c1"])],
     [group(["c0", "c1"]), group(["c1", "c2"])],
     [group(["c0", "c1", "invented"])],
     [group(["c0", "c0", "c1", "c2"])],
@@ -63,6 +62,17 @@ def test_api_failure_keeps_original_coverage(cells):
         raise RuntimeError("Test failure")
     out, meta = events.group_events(cells, None, None, fail, summarize.summary_language_ok)
     assert out == cells and meta["mode"] == "unavailable"
+
+
+def test_omitted_article_is_preserved_without_claiming_a_comparison(cells):
+    call = lambda *args: ({"groups": [group(["c0", "c1"])]}, SimpleNamespace(input_tokens=100, output_tokens=50))
+    out, meta = events.group_events(cells, {"date": "2026-09-20", "cells": {}}, None,
+                                    call, summarize.summary_language_ok)
+    assert meta["mode"] == "full" and meta["uncompared_articles"] == 1
+    cards = [s for stories in out.values() for s in stories]
+    assert sum(len(s["sources"]) for s in cards) == 3
+    missing = next(s for s in cards if s["url"] == "https://c")
+    assert missing["status"] == "unavailable" and missing["change_summary"] == ""
 
 
 def test_stable_event_id_and_unchanged_last(cells):

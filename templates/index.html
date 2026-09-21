@@ -108,7 +108,7 @@ const SECTIONS = {
 const CONTINENTS = { asia:"Asia", europa:"Europa", america:"América" };
 const LANG_TAG = { es:"ES", en:"EN", zh:"中文" };
 const STATUS = {new:"Nuevo en el brief", updated:"Con novedades", unchanged:"Sin cambios detectados",
-  unclear:"Cambio sin confirmar", uncompared:"Sin edición de ayer para comparar"};
+  unclear:"Cambio sin confirmar", uncompared:"Sin edición de ayer para comparar", unavailable:"Comparación no disponible"};
 
 let brief = JSON.parse(document.getElementById("brief-data").textContent);
 const dates = JSON.parse(document.getElementById("dates-data").textContent);
@@ -207,6 +207,8 @@ function render(){
     foot += `<div class="warn">${brief.events.articles} artículos seleccionados, agrupados por acontecimiento. Comparación basada en titulares y resúmenes${brief.events.compared_with ? " del " + esc(brief.events.compared_with) : " disponibles"}. Los hechos sin cambios detectados aparecen al final de cada bloque.</div>`;
   else if (brief.events)
     foot += `<div class="warn">Agrupación y comparación no disponibles hoy.</div>`;
+  if (brief.events?.uncompared_articles)
+    foot += `<div class="warn">${brief.events.uncompared_articles} artículos conservados individualmente porque no se pudo completar su agrupación y comparación.</div>`;
   if (brief.mode === "headlines-only")
     foot += `<div class="warn">⚠️ Modo reducido: hoy solo titulares (falló el resumen automático).</div>`;
   if (brief.failed_sources && brief.failed_sources.length)

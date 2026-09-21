@@ -85,6 +85,11 @@ def contains_quote(quote, text):
 
 def apply_groups(groups, current, previous, previous_date, language_ok):
     out, used, event_ids = defaultdict(list), set(), set()
+    covered = {i for g in groups for i in g["item_ids"]}
+    groups = list(groups) + [{"item_ids": [i], "primary_id": i,
+        "section": s["section"], "continent": s["continent"], "previous_ids": [],
+        "status": "new", "current_fact": "", "previous_fact": "", "uncompared": True}
+        for i, s in current.items() if i not in covered]
     grouped_ids = {i for g in groups if len(g["item_ids"]) > 1 for i in g["item_ids"]}
     for group in groups:
         ids = group["item_ids"]
@@ -109,6 +114,8 @@ def apply_groups(groups, current, previous, previous_date, language_ok):
             status = "uncompared"
         elif matches and status not in ("updated", "unchanged", "unclear"):
             status = "unclear"
+        if group.get("uncompared"):
+            status = "unavailable"
         current_fact, previous_fact = group["current_fact"].strip(), group["previous_fact"].strip()
         supported = (current_fact and previous_fact
                      and any(contains_quote(current_fact, primary.get(k)) for k in ("title", "summary"))
@@ -152,6 +159,8 @@ def group_events(cells, yesterday, client, call_json, language_ok):
         result, usage = call_json(client, PROMPT + json.dumps(payload, ensure_ascii=False), SCHEMA, 8000)
         meta.update(input_tokens=usage.input_tokens, output_tokens=usage.output_tokens)
         grouped = apply_groups(result["groups"], current, previous, previous_date, language_ok)
+        covered = {i for g in result["groups"] for i in g["item_ids"]}
+        meta["uncompared_articles"] = len(set(current) - covered)
         meta.update(mode="full", events=sum(len(s) for s in grouped.values()))
         return grouped, meta
     except Exception as ex:

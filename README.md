@@ -57,8 +57,10 @@ feeds.yaml ──► scripts/collect.py ──► work/collected.json
   detectados y cambio sin confirmar. Valida citas literales de ambos días y
   muestra el dato nuevo en su idioma original; coloca las tarjetas sin cambios al final de cada bloque
   y enlaza la edición anterior. Si falta esa edición, no afirma una novedad.
-  No lee artículos completos y la comparación puede equivocarse. Si la
-  agrupación falla o pierde alguna fuente, publica las tarjetas originales
+  No lee artículos completos y la comparación puede equivocarse. Los artículos
+  omitidos por el modelo se conservan individualmente con comparación no
+  disponible; `events.uncompared_articles` registra cuántos. Si la agrupación
+  falla o devuelve grupos contradictorios, publica las tarjetas originales
   y muestra que la comparación no está disponible.
 - **Control de idioma**: los resúmenes se piden agrupados por idioma (un campo
   `lang` por línea no bastaba: el modelo mezclaba idiomas entre ítems vecinos) y
