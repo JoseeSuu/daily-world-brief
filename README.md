@@ -1,6 +1,6 @@
 # Daily World Brief
 
-Agregador de noticias diario, automático, gratuito y accesible desde el móvil.
+Agregador de noticias diario, automático y accesible desde el móvil.
 Cada día a las **05:30 UTC** genera una página estática en GitHub Pages con las
 noticias más importantes en una matriz de **3 secciones × 3 continentes**:
 
@@ -54,8 +54,8 @@ feeds.yaml ──► scripts/collect.py ──► work/collected.json
   sobre un mismo protagonista deben mantenerse separados.
 - **Qué cambió desde ayer**: compara los titulares y resúmenes con la edición
   del día anterior. Distingue nuevo en el brief, con novedades, sin cambios
-  detectados y cambio sin confirmar. Solo describe una novedad si encuentra
-  un hecho concreto; coloca las tarjetas sin cambios al final de cada bloque
+  detectados y cambio sin confirmar. Valida citas literales de ambos días y
+  muestra el dato nuevo en su idioma original; coloca las tarjetas sin cambios al final de cada bloque
   y enlaza la edición anterior. Si falta esa edición, no afirma una novedad.
   No lee artículos completos y la comparación puede equivocarse. Si la
   agrupación falla o pierde alguna fuente, publica las tarjetas originales

@@ -341,6 +341,7 @@ def run_ai(collected: dict) -> tuple:
         summary = s["summary"]
         if not summary_language_ok(summary, lang):
             mismatches += 1
+            summary = ""
             print(f"[AVISO] resumen en idioma distinto de '{lang}': {item['title'][:60]}",
                   file=sys.stderr)
         cells[f"{section}|{continent}"].append({

@@ -98,6 +98,12 @@ def test_duplicate_url_is_preserved_once(cells):
     assert len(events.current_items(cells)) == 3
 
 
+def test_quotes_allow_typography_but_reject_changed_facts():
+    assert events.contains_quote("an 'AI Force'", "an ‘AI Force’")
+    assert not events.contains_quote("a 404 million fine", "a 403 million fine")
+    assert not events.contains_quote("German elections have ended", "German elections are underway")
+
+
 def test_secondary_sources_marked_selected_and_present_in_rss(cells, monkeypatch, tmp_path):
     grouped = events.apply_groups([group(["c0", "c1"]), group(["c2"])],
                                   events.current_items(cells), {}, "2026-09-20", summarize.summary_language_ok)

@@ -2,6 +2,7 @@
 import hashlib
 import json
 import sys
+import unicodedata
 from collections import defaultdict
 
 SCHEMA = {"type": "object", "properties": {"groups": {
@@ -41,11 +42,13 @@ updated = a concrete new fact absent from yesterday's supplied coverage;
 unchanged = materially the same facts; unclear = insufficient evidence to tell.
 Different wording, a new outlet, interpretation or a newer publication date
 is NOT a factual update. If uncertain, use unclear; do not invent a development.
-When previous_ids is not empty, FIRST extract previous_fact as an EXACT short
-contiguous quote from one matched yesterday title or summary, and current_fact
-as an EXACT short quote from the primary source's supplied title or summary.
+When previous_ids is not empty, FIRST copy previous_fact as the ENTIRE title
+of one matched yesterday story, and current_fact as the ENTIRE title of the
+primary current source. Copy character for character, never reconstruct a
+title from memory. Prefer titles because a supplied summary may have the wrong
+language. Only if titles omit the relevant fact, copy a complete summary sentence.
 THEN compare these two factual claims to choose status. NEVER translate,
-paraphrase or add facts. Maximum 35 words per quote (Chinese: 70 characters).
+paraphrase or add facts.
 Use empty quotes for new events. If evidence is insufficient, use unclear.
 Examples: yesterday 'elections are underway' versus today 'historic defeat'
 is UPDATED: results were not known yesterday. A confirmed visit with specific
@@ -73,6 +76,13 @@ def current_items(cells):
     return items
 
 
+def contains_quote(quote, text):
+    def normalize(value):
+        return " ".join(unicodedata.normalize("NFKC", value or "").translate(
+            str.maketrans({"‘": "'", "’": "'", "“": '"', "”": '"'})).casefold().split())
+    return bool(quote) and normalize(quote) in normalize(text)
+
+
 def apply_groups(groups, current, previous, previous_date, language_ok):
     out, used, event_ids = defaultdict(list), set(), set()
     for group in groups:
@@ -98,8 +108,8 @@ def apply_groups(groups, current, previous, previous_date, language_ok):
             status = "unclear"
         current_fact, previous_fact = group["current_fact"].strip(), group["previous_fact"].strip()
         supported = (current_fact and previous_fact
-                     and any(current_fact in (primary.get(k) or "") for k in ("title", "summary"))
-                     and any(previous_fact in (s.get(k) or "") for s in matches for k in ("title", "summary")))
+                     and any(contains_quote(current_fact, primary.get(k)) for k in ("title", "summary"))
+                     and any(contains_quote(previous_fact, s.get(k)) for s in matches for k in ("title", "summary")))
         if status in ("updated", "unchanged") and (not supported or not language_ok(current_fact, primary["lang"])):
             status = "unclear"
         change = current_fact if status == "updated" else ""
