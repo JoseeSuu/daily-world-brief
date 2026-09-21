@@ -1,9 +1,9 @@
 {
  "date": "2026-09-21",
- "collected_at": "2026-09-21T13:15:49.413351+00:00",
- "total": 492,
+ "collected_at": "2026-09-21T13:20:27.950383+00:00",
+ "total": 493,
  "seen_by_model": 250,
- "selected": 40,
+ "selected": 38,
  "failed_sources": [],
  "items": [
   {
@@ -64,7 +64,7 @@
    "url": "https://www.ft.com/content/f2dca0b0-6387-4022-8dba-dc8015823dfe?syn-25a6b1a6=1",
    "published": "2026-09-21T04:00:11+00:00",
    "seen_by_model": true,
-   "selected": false
+   "selected": true
   },
   {
    "id": "3e9f02130f",
@@ -100,7 +100,7 @@
    "url": "https://www.ft.com/content/eeef7db4-b26d-426f-896b-f7b95bb84223?syn-25a6b1a6=1",
    "published": "2026-09-21T07:45:45+00:00",
    "seen_by_model": true,
-   "selected": true
+   "selected": false
   },
   {
    "id": "5f2c581dad",
@@ -220,7 +220,7 @@
    "url": "https://www.ft.com/content/bfe6fc60-51b3-41f0-b6c9-32583735150e?syn-25a6b1a6=1",
    "published": "2026-09-20T11:58:50+00:00",
    "seen_by_model": true,
-   "selected": false
+   "selected": true
   },
   {
    "id": "8873b89b5f",
@@ -268,7 +268,7 @@
    "url": "https://www.bloomberg.com/news/newsletters/2026-09-21/trump-xi-summit-prep-gathers-pace-as-officials-make-headway-on-ai-trade",
    "published": "2026-09-21T11:00:01+00:00",
    "seen_by_model": true,
-   "selected": true
+   "selected": false
   },
   {
    "id": "6c9ef56554",
@@ -463,6 +463,18 @@
    "selected": false
   },
   {
+   "id": "1ba81835ce",
+   "source": "Bloomberg Markets",
+   "section": "economia",
+   "continent": "global",
+   "lang": "en",
+   "title": "Odd Lots Is Coming Back to Chicago",
+   "url": "https://www.bloomberg.com/news/newsletters/2026-09-21/odd-lots-is-coming-back-to-chicago",
+   "published": "2026-09-21T13:17:24+00:00",
+   "seen_by_model": true,
+   "selected": false
+  },
+  {
    "id": "0294a281cd",
    "source": "Bloomberg Markets",
    "section": "economia",
@@ -472,7 +484,7 @@
    "url": "https://www.bloomberg.com/news/articles/2026-09-21/trump-y-venezuela-acuerdo-petrolero-enfrenta-campos-deteriorados",
    "published": "2026-09-21T13:05:48+00:00",
    "seen_by_model": true,
-   "selected": false
+   "selected": true
   },
   {
    "id": "9079222a46",
@@ -567,8 +579,8 @@
    "title": "Brazil’s Patria Sells Colombia Solar Park to Isagen",
    "url": "https://www.bloomberg.com/news/articles/2026-09-21/brazil-s-patria-sells-colombia-solar-park-to-isagen",
    "published": "2026-09-21T12:30:00+00:00",
-   "seen_by_model": true,
-   "selected": true
+   "seen_by_model": false,
+   "selected": false
   },
   {
    "id": "16cfb42100",
@@ -687,18 +699,6 @@
    "title": "HKEX Seeks Further Listing Rule Easing to Help Deals, Spinoffs",
    "url": "https://www.bloomberg.com/news/articles/2026-09-21/hkex-seeks-further-listing-rule-easing-to-help-deals-spinoffs",
    "published": "2026-09-21T11:26:00+00:00",
-   "seen_by_model": false,
-   "selected": false
-  },
-  {
-   "id": "7bdd7cfd88",
-   "source": "Bloomberg Markets",
-   "section": "economia",
-   "continent": "global",
-   "lang": "en",
-   "title": "Oil, Energy Common Denominator to Market Risks: Citi",
-   "url": "https://www.bloomberg.com/news/videos/2026-09-21/oil-energy-common-denominator-to-market-risks-citi-video",
-   "published": "2026-09-21T11:25:33+00:00",
    "seen_by_model": false,
    "selected": false
   },
@@ -1492,7 +1492,7 @@
    "url": "https://www.bbc.co.uk/news/articles/cvwyz29n0nn2o?at_medium=RSS&at_campaign=rss",
    "published": "2026-09-21T08:56:27+00:00",
    "seen_by_model": true,
-   "selected": false
+   "selected": true
   },
   {
    "id": "5c4e0f49cf",
@@ -1924,7 +1924,7 @@
    "url": "https://cn.nytimes.com/world/20260921/us-china-ai-warning-system-national-security/?utm_source=RSS",
    "published": "2026-09-21T01:54:52+00:00",
    "seen_by_model": true,
-   "selected": true
+   "selected": false
   },
   {
    "id": "f347e6d9b5",
@@ -2791,6 +2791,18 @@
    "selected": false
   },
   {
+   "id": "f09feb125f",
+   "source": "Le Monde International",
+   "section": "politica",
+   "continent": "europa",
+   "lang": "en",
+   "title": "Merz vows to keep ruling coalition together for Germany's 'democratic future'",
+   "url": "https://www.lemonde.fr/en/international/article/2026/09/21/merz-vows-to-keep-ruling-coalition-together-for-germany-s-democratic-future_6757770_4.html",
+   "published": "2026-09-21T13:12:11+00:00",
+   "seen_by_model": true,
+   "selected": true
+  },
+  {
    "id": "e2cb2eff58",
    "source": "Le Monde International",
    "section": "politica",
@@ -2860,7 +2872,7 @@
    "url": "https://www.lemonde.fr/en/international/article/2026/09/21/france-and-canada-strengthen-ties-in-response-to-trump-s-provocations_6757758_4.html",
    "published": "2026-09-21T08:22:33+00:00",
    "seen_by_model": true,
-   "selected": false
+   "selected": true
   },
   {
    "id": "2bcd9334fc",
@@ -2884,7 +2896,7 @@
    "url": "https://www.lemonde.fr/en/international/article/2026/09/21/trump-to-meet-macron-in-new-york-on-sidelines-of-un-general-assembly_6757756_4.html",
    "published": "2026-09-21T06:58:46+00:00",
    "seen_by_model": true,
-   "selected": true
+   "selected": false
   },
   {
    "id": "addfdcf095",
@@ -2895,8 +2907,8 @@
    "title": "Kremlin orchestrates Russian elections by manipulating votes and barring observers",
    "url": "https://www.lemonde.fr/en/international/article/2026/09/21/kremlin-orchestrates-russian-elections-by-manipulating-votes-and-barring-observers_6757755_4.html",
    "published": "2026-09-21T06:17:54+00:00",
-   "seen_by_model": true,
-   "selected": true
+   "seen_by_model": false,
+   "selected": false
   },
   {
    "id": "5ca91c0d67",
@@ -3019,18 +3031,6 @@
    "selected": false
   },
   {
-   "id": "a9ded8f9f1",
-   "source": "Le Monde International",
-   "section": "politica",
-   "continent": "europa",
-   "lang": "en",
-   "title": "Germany's far-right AfD celebrates another state election win",
-   "url": "https://www.lemonde.fr/en/international/article/2026/09/20/germans-vote-in-state-elections-threatening-fresh-blow-to-merz_6757733_4.html",
-   "published": "2026-09-20T09:39:13+00:00",
-   "seen_by_model": false,
-   "selected": false
-  },
-  {
    "id": "3dafd7f454",
    "source": "Deutsche Welle World",
    "section": "politica",
@@ -3076,7 +3076,7 @@
    "url": "https://www.npr.org/2026/09/21/g-s1-144238/up-first-newsletter-united-nations-general-assembly-trump-arch-faa-ai-federal-agent-shooting",
    "published": "2026-09-21T11:24:27+00:00",
    "seen_by_model": true,
-   "selected": false
+   "selected": true
   },
   {
    "id": "761a8fca28",
@@ -3112,7 +3112,7 @@
    "url": "https://www.npr.org/2026/09/21/nx-s1-5971262/united-nations-general-assembly",
    "published": "2026-09-21T09:00:00+00:00",
    "seen_by_model": true,
-   "selected": true
+   "selected": false
   },
   {
    "id": "da169c15aa",
@@ -3160,7 +3160,7 @@
    "url": "https://www.npr.org/2026/09/20/nx-s1-5973116/defining-global-leadership-in-ai-at-trump-xi-summit",
    "published": "2026-09-20T21:15:56+00:00",
    "seen_by_model": true,
-   "selected": true
+   "selected": false
   },
   {
    "id": "e15c2775fe",
@@ -3172,7 +3172,7 @@
    "url": "https://www.npr.org/2026/09/20/g-s1-144211/germanys-merz-vows-to-press-ahead-with-reforms-after-historic-state-election-defeat",
    "published": "2026-09-20T17:29:29+00:00",
    "seen_by_model": true,
-   "selected": false
+   "selected": true
   },
   {
    "id": "08e15447ac",
@@ -3208,7 +3208,7 @@
    "url": "https://www.japantimes.co.jp/news/2026/09/21/world/gaza-students-return-school/",
    "published": "2026-09-21T11:20:00+00:00",
    "seen_by_model": true,
-   "selected": false
+   "selected": true
   },
   {
    "id": "0e56d4ff18",
@@ -3508,7 +3508,7 @@
    "url": "https://www.channelnewsasia.com/world/putins-party-secures-record-score-in-russia-election-6399171",
    "published": "2026-09-21T12:41:02+00:00",
    "seen_by_model": true,
-   "selected": false
+   "selected": true
   },
   {
    "id": "554c02bfa2",
@@ -3736,7 +3736,7 @@
    "url": "https://www.scmp.com/news/china/politics/article/3368287/former-top-pla-generals-expelled-communist-party-factionalism-and-disloyalty?utm_source=rss_feed",
    "published": "2026-09-21T13:10:07+00:00",
    "seen_by_model": true,
-   "selected": false
+   "selected": true
   },
   {
    "id": "92eca5abe1",
@@ -3748,7 +3748,7 @@
    "url": "https://www.scmp.com/opinion/china-opinion/article/3368013/success-trump-xi-summit-lies-what-happens-afterwards?utm_source=rss_feed",
    "published": "2026-09-21T12:30:05+00:00",
    "seen_by_model": true,
-   "selected": true
+   "selected": false
   },
   {
    "id": "57b7dfbe06",
@@ -3792,7 +3792,7 @@
    "section": "politica",
    "continent": "asia",
    "lang": "en",
-   "title": "Djibouti base upgrade may offer PLA window on foreign military Middle East operations",
+   "title": "China’s Djibouti base upgrade may give PLA eyes on foreign military in Middle East",
    "url": "https://www.scmp.com/news/china/military/article/3368246/djibouti-base-upgrade-may-offer-pla-window-foreign-military-middle-east-operations?utm_source=rss_feed",
    "published": "2026-09-21T09:58:37+00:00",
    "seen_by_model": true,
@@ -3808,7 +3808,7 @@
    "url": "https://www.scmp.com/plus/news/china/diplomacy/article/3368245/us-china-agree-ai-dialogue-ahead-trump-xi-summit?utm_source=rss_feed",
    "published": "2026-09-21T09:01:49+00:00",
    "seen_by_model": true,
-   "selected": true
+   "selected": false
   },
   {
    "id": "4952ec373d",
@@ -3831,7 +3831,7 @@
    "title": "Chinese President Xi Jinping will pay state visit to US this week, Beijing confirms",
    "url": "https://www.scmp.com/news/china/diplomacy/article/3368223/chinese-president-xi-jinping-will-pay-state-visit-us-week-beijing-confirms?utm_source=rss_feed",
    "published": "2026-09-21T07:06:43+00:00",
-   "seen_by_model": true,
+   "seen_by_model": false,
    "selected": false
   },
   {
@@ -4183,6 +4183,30 @@
    "selected": false
   },
   {
+   "id": "71ce36dc0a",
+   "source": "Al Jazeera English",
+   "section": "politica",
+   "continent": "global",
+   "lang": "en",
+   "title": "Moroccan parties mobilise in markets and online for parliamentary elections",
+   "url": "https://www.aljazeera.com/news/2026/9/21/moroccan-parties-mobilise-in-markets-and-online-for-parliamentary-elections?traffic_source=rss",
+   "published": "2026-09-21T12:49:23+00:00",
+   "seen_by_model": true,
+   "selected": false
+  },
+  {
+   "id": "684c6995b0",
+   "source": "Al Jazeera English",
+   "section": "politica",
+   "continent": "global",
+   "lang": "en",
+   "title": "NFL’s Azeez Al-Shaair honours another Palestinian girl killed by Israel",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/9/21/nfls-azeez-al-shaair-honours-another-palestinian-girl-killed-by-israel?traffic_source=rss",
+   "published": "2026-09-21T12:49:07+00:00",
+   "seen_by_model": true,
+   "selected": false
+  },
+  {
    "id": "51a25651a2",
    "source": "Al Jazeera English",
    "section": "politica",
@@ -4263,7 +4287,7 @@
    "title": "Mystery object spotted hovering over Tehran",
    "url": "https://www.aljazeera.com/video/newsfeed/2026/9/21/mystery-object-spotted-hovering-over-tehran?traffic_source=rss",
    "published": "2026-09-21T10:10:14+00:00",
-   "seen_by_model": true,
+   "seen_by_model": false,
    "selected": false
   },
   {
@@ -4275,7 +4299,7 @@
    "title": "A simple guide to the Yemen conflict",
    "url": "https://www.aljazeera.com/news/2026/9/21/a-brief-history-of-the-yemen-conflict?traffic_source=rss",
    "published": "2026-09-21T10:01:30+00:00",
-   "seen_by_model": true,
+   "seen_by_model": false,
    "selected": false
   },
   {
@@ -4459,30 +4483,6 @@
    "selected": false
   },
   {
-   "id": "d3dfcf2b6c",
-   "source": "Al Jazeera English",
-   "section": "politica",
-   "continent": "global",
-   "lang": "en",
-   "title": "Imran Khan’s family says three sisters detained ahead of Islamabad march",
-   "url": "https://www.aljazeera.com/video/newsfeed/2026/9/21/09-21-aleema-khan-arrest-sv?traffic_source=rss",
-   "published": "2026-09-21T02:31:37+00:00",
-   "seen_by_model": false,
-   "selected": false
-  },
-  {
-   "id": "d360cce279",
-   "source": "Al Jazeera English",
-   "section": "politica",
-   "continent": "global",
-   "lang": "en",
-   "title": "Powerful explosions at Syrian army site near Aleppo injure at least four",
-   "url": "https://www.aljazeera.com/news/2026/9/21/powerful-explosions-at-syrian-army-site-near-aleppo-injures-at-least-four?traffic_source=rss",
-   "published": "2026-09-21T01:30:46+00:00",
-   "seen_by_model": false,
-   "selected": false
-  },
-  {
    "id": "cc15858c0c",
    "source": "MIT Technology Review",
    "section": "tecnologia",
@@ -4492,7 +4492,7 @@
    "url": "https://www.technologyreview.com/2026/09/21/1144834/the-download-investigating-deaths-at-the-us-borders-virtual-wall/",
    "published": "2026-09-21T12:20:00+00:00",
    "seen_by_model": true,
-   "selected": true
+   "selected": false
   },
   {
    "id": "f8c4e8d06d",
@@ -4563,6 +4563,18 @@
    "title": "Don't call it an SUV: The Ferrari Purosangue review",
    "url": "https://arstechnica.com/cars/2026/09/dont-call-it-an-suv-the-ferrari-purosangue-review/",
    "published": "2026-09-20T10:00:02+00:00",
+   "seen_by_model": true,
+   "selected": false
+  },
+  {
+   "id": "45095f0138",
+   "source": "The Verge",
+   "section": "tecnologia",
+   "continent": "america",
+   "lang": "en",
+   "title": "Vivo’s X500 Pro Max has 17 stops of dynamic range and 4K240 slo-mo",
+   "url": "https://www.theverge.com/gadgets/998165/vivo-x500-pro-max-launch-specs-release-date-lofic-china",
+   "published": "2026-09-21T13:16:25+00:00",
    "seen_by_model": true,
    "selected": false
   },
@@ -4659,7 +4671,7 @@
    "title": "Teardown details the iPhone 18 Pro’s mechanical camera",
    "url": "https://www.theverge.com/tech/998108/apple-iphone-18-pro-max-camera-ifixit-teardown",
    "published": "2026-09-21T10:57:27+00:00",
-   "seen_by_model": true,
+   "seen_by_model": false,
    "selected": false
   },
   {
@@ -4671,18 +4683,6 @@
    "title": "UN says AI safeguards can’t wait for certainty",
    "url": "https://www.theverge.com/ai-artificial-intelligence/998090/un-ai-panel-hugging-face-hack-precautionary-principle",
    "published": "2026-09-21T10:18:06+00:00",
-   "seen_by_model": false,
-   "selected": false
-  },
-  {
-   "id": "fbef9683fb",
-   "source": "The Verge",
-   "section": "tecnologia",
-   "continent": "america",
-   "lang": "en",
-   "title": "Amazon doesn’t trust Meta’s Muse AI agent",
-   "url": "https://www.theverge.com/tech/998078/amazon-blocks-meta-muse-ai-agent-shopping",
-   "published": "2026-09-21T09:21:47+00:00",
    "seen_by_model": false,
    "selected": false
   },
@@ -5011,6 +5011,18 @@
    "selected": false
   },
   {
+   "id": "d1749ba76a",
+   "source": "OpenAI News",
+   "section": "tecnologia",
+   "continent": "america",
+   "lang": "en",
+   "title": "How V7 gives AI agents institutional memory",
+   "url": "https://openai.com/index/v7",
+   "published": "2026-09-21T00:00:00+00:00",
+   "seen_by_model": true,
+   "selected": false
+  },
+  {
    "id": "0fc0f50b7a",
    "source": "Xataka",
    "section": "tecnologia",
@@ -5092,7 +5104,7 @@
    "url": "https://www.xataka.com/robotica-e-ia/probabilidad-que-ia-destruya-mundo-0-jensen-huang-director-general-nvidia",
    "published": "2026-09-21T11:30:16+00:00",
    "seen_by_model": true,
-   "selected": true
+   "selected": false
   },
   {
    "id": "622ffedc3c",
@@ -5680,7 +5692,7 @@
    "url": "https://www.ithome.com.tw/news/179086",
    "published": "2026-09-21T03:09:00+00:00",
    "seen_by_model": true,
-   "selected": true
+   "selected": false
   },
   {
    "id": "9563c942cd",
@@ -5912,7 +5924,7 @@
   }
  ],
  "radar": {
-  "collected_at": "2026-09-21T13:15:51.648183+00:00",
+  "collected_at": "2026-09-21T13:20:29.714920+00:00",
   "items": [
    {
     "id": "gh-1342935078",
@@ -5925,7 +5937,7 @@
     "lang": "zh",
     "excerpt": "《深入理解 AI Infra：量化分析与系统设计》（李博杰 著）开源书稿：从硬件约束和模型架构出发，量化推导 LLM 推理与训练系统设计。含全书正文、PDF、配套计算工具与实验",
     "signal": {
-     "stars_total": 4849
+     "stars_total": 4850
     },
     "seen_by_model": true,
     "selected": false
@@ -5960,7 +5972,7 @@
      "stars_total": 2906
     },
     "seen_by_model": true,
-    "selected": false
+    "selected": true
    },
    {
     "id": "gh-1349253750",
@@ -5976,7 +5988,7 @@
      "stars_total": 2736
     },
     "seen_by_model": true,
-    "selected": true
+    "selected": false
    },
    {
     "id": "gh-1351859098",
@@ -5992,7 +6004,7 @@
      "stars_total": 1235
     },
     "seen_by_model": true,
-    "selected": false
+    "selected": true
    },
    {
     "id": "gh-1347982389",
@@ -6008,7 +6020,7 @@
      "stars_total": 1212
     },
     "seen_by_model": true,
-    "selected": true
+    "selected": false
    },
    {
     "id": "gh-1354059245",
@@ -6053,7 +6065,7 @@
     "lang": "en",
     "excerpt": "A curated list of public projects, integrations, and discussions built on Jev — TypeSafe AI's System One model for typed decisions.",
     "signal": {
-     "stars_total": 848
+     "stars_total": 849
     },
     "seen_by_model": true,
     "selected": false
@@ -6165,8 +6177,8 @@
     "lang": "en",
     "excerpt": "",
     "signal": {
-     "points": 9,
-     "comments": 0
+     "points": 10,
+     "comments": 1
     },
     "seen_by_model": true,
     "selected": false
@@ -6182,8 +6194,8 @@
     "lang": "en",
     "excerpt": "",
     "signal": {
-     "points": 127,
-     "comments": 61
+     "points": 128,
+     "comments": 62
     },
     "seen_by_model": true,
     "selected": false

@@ -1,34 +1,19 @@
 {
  "date": "2026-09-21",
- "generated_at": "2026-09-21T13:17:05.707613+00:00",
+ "generated_at": "2026-09-21T13:21:25.187651+00:00",
  "mode": "full",
- "cost_usd": 0.0554,
- "radar_cost_usd": 0.005,
+ "cost_usd": 0.0496,
+ "radar_cost_usd": 0.0049,
  "events": {
-  "mode": "unavailable",
+  "mode": "full",
   "compared_with": "2026-09-20",
-  "articles": 40,
-  "cost_usd": 0.023
+  "articles": 38,
+  "uncompared_articles": 0,
+  "events": 32,
+  "cost_usd": 0.0179
  },
  "radar": {
   "items": [
-   {
-    "id": "gh-1349253750",
-    "source": "GitHub",
-    "kind": "project",
-    "title": "Nanako0129/sepia",
-    "url": "https://github.com/Nanako0129/sepia",
-    "discussion_url": "",
-    "published": "2026-08-28T05:56:49Z",
-    "lang": "en",
-    "excerpt": "De-AI writing skill for any Agent Skills-compatible agent (77+ via the Skills CLI), with native plugins for Claude Code, Codex, Grok Build, and Antigravity. Narrative-architecture repair for fiction, venue-matched rules for professional prose. Based on StoryScope (arXiv:2604.03136).",
-    "signal": {
-     "stars_total": 2736
-    },
-    "summary": "De-AI writing skill plugin for 77+ agent frameworks, with narrative repair for fiction and professional prose based on StoryScope research.",
-    "usefulness": "Could help developers build writing-quality enforcement into Python agent tools if the plugin architecture integrates cleanly with your deployment stack.",
-    "to_verify": "Whether the StoryScope arXiv reference (2604.03136) exists and what specific narrative-repair techniques the plugin actually implements."
-   },
    {
     "id": "gh-1351879111",
     "source": "GitHub",
@@ -42,26 +27,43 @@
     "signal": {
      "stars_total": 3897
     },
-    "summary": "Continual learning infrastructure for self-improving agents, enabling recursive improvement loops without external retraining.",
-    "usefulness": "If you need agents that learn from their own outputs, could reduce operational overhead for document analysis tools that improve accuracy over time.",
-    "to_verify": "What 'continual learning' concretely means here: online fine-tuning, retrieval augmentation, or inference-time adaptation; which models it supports."
+    "summary": "Reef provides continual learning infrastructure for self-improving agents, enabling recursive agent development.",
+    "usefulness": "Could support building agents that adapt behavior over time if the learning mechanism handles document context retention and governance constraints.",
+    "to_verify": "What learning persistence mechanism is actually implemented, and does it preserve audit trails for governance compliance?"
    },
    {
-    "id": "gh-1347982389",
+    "id": "gh-1349507889",
     "source": "GitHub",
     "kind": "project",
-    "title": "datawhalechina/zero-to-sglang",
-    "url": "https://github.com/datawhalechina/zero-to-sglang",
+    "title": "Player-YN/BrowserKitten",
+    "url": "https://github.com/Player-YN/BrowserKitten",
     "discussion_url": "",
-    "published": "2026-08-27T02:24:12Z",
+    "published": "2026-08-28T10:56:56Z",
     "lang": "en",
-    "excerpt": "Official SGLang x Datawhale course on LLM inference: understand inference, build a mini-sglang from scratch, then read the real SGLang source and land your first PR. Available in English and Chinese.",
+    "excerpt": "Paw Work - selection-first web agent for Chrome: select on the live page, describe the outcome, take away an editable office file. BYOK, sandboxed, no server.",
     "signal": {
-     "stars_total": 1212
+     "stars_total": 2906
     },
-    "summary": "Official SGLang and Datawhale course teaching LLM inference fundamentals, building a mini-SGLang implementation, then reading production source and contributing patches.",
-    "usefulness": "If building Python inference tools, this structured pathway from theory to code to real repository contributions teaches systems thinking applicable to document processing pipelines.",
-    "to_verify": "Whether the course materials and mini-sglang implementation are complete and whether 'landing your first PR' is instructional or promotional claim."
+    "summary": "BrowserKitten is a selection-first web agent for Chrome that converts user selections and descriptions into editable office files, running sandboxed without server or API key requirement.",
+    "usefulness": "Could prototype document extraction and automation tools for Python by studying its local-first architecture and Chrome automation patterns.",
+    "to_verify": "Whether the sandboxing model actually prevents access to sensitive data and how editable output accuracy compares to manual extraction."
+   },
+   {
+    "id": "gh-1351859098",
+    "source": "GitHub",
+    "kind": "project",
+    "title": "2akouwu/reverify",
+    "url": "https://github.com/2akouwu/reverify",
+    "discussion_url": "",
+    "published": "2026-08-31T01:02:18Z",
+    "lang": "en",
+    "excerpt": "Stop your AI from making things up — it proposes, deterministic tools decide, every claim checked against ground truth with evidence. Grounded facts and context survive resets. Reverse engineering is the proving ground. MCP server + CLI.",
+    "signal": {
+     "stars_total": 1235
+    },
+    "summary": "Reverify stops AI hallucination by proposing claims, checking against ground truth with deterministic tools, and preserving grounded facts across resets; includes MCP server and CLI.",
+    "usefulness": "If conditionally integrated, could help Python tools verify AI-generated document analysis claims against reference data before users trust them.",
+    "to_verify": "How ground-truth checking performs on multi-document reasoning, and whether the evidence chain remains auditable for governance review."
    }
   ],
   "mode": "full",
@@ -73,339 +75,801 @@
   "economia|asia": [
    {
     "title": "US says China talks yield progress on tariff carve-outs, AI dialogue",
-    "summary": "US and China made progress on tariff carve-outs and established an AI dialogue ahead of Xi's Washington visit. Negotiations addressed trade and emerging technology cooperation.",
+    "summary": "US and China agreed to launch AI dialogue and establish a trade council in recent talks. The discussions yielded progress on tariff carve-outs ahead of upcoming leadership meetings.",
     "lang": "en",
     "source": "Nikkei Asia",
     "url": "https://asia.nikkei.com/politics/international-relations/us-china-tensions/us-says-china-talks-yield-progress-on-tariff-carve-outs-ai-dialogue",
-    "published": null
-   },
-   {
-    "title": "Japan-China ties wither as Trump readies red carpet for Xi Jinping",
-    "summary": "Japan-China relations deteriorate as Trump prepares to meet Xi Jinping at the White House. Diplomatic tensions continue amid shifting US-China engagement.",
-    "lang": "en",
-    "source": "Nikkei Asia",
-    "url": "https://asia.nikkei.com/politics/international-relations/japan-china-tensions/japan-china-ties-wither-as-trump-readies-red-carpet-for-xi-jinping",
-    "published": null
-   },
-   {
-    "title": "“习特会”前夕，中美同意启动人工智能对话",
-    "summary": "中美同意在习近平访美前启动人工智能对话机制。双方建立贸易理事会并讨论国家安全相关的人工智能突发事件通报制度。",
-    "lang": "zh",
-    "source": "FT中文网",
-    "url": "https://www.ftchinese.com/story/001110946",
-    "published": "2026-09-20T16:00:00+00:00"
+    "published": null,
+    "event_id": "99471f69450b",
+    "sources": [
+     {
+      "title": "US says China talks yield progress on tariff carve-outs, AI dialogue",
+      "summary": "US and China agreed to launch AI dialogue and establish a trade council in recent talks. The discussions yielded progress on tariff carve-outs ahead of upcoming leadership meetings.",
+      "lang": "en",
+      "source": "Nikkei Asia",
+      "url": "https://asia.nikkei.com/politics/international-relations/us-china-tensions/us-says-china-talks-yield-progress-on-tariff-carve-outs-ai-dialogue",
+      "published": null
+     },
+     {
+      "title": "“习特会”前夕，中美同意启动人工智能对话",
+      "summary": "中美同意在习特会前启动人工智能对话机制。美方还提议建立通报机制处理涉及国家安全的AI突发事件，双方正式成立贸易理事会。",
+      "lang": "zh",
+      "source": "FT中文网",
+      "url": "https://www.ftchinese.com/story/001110946",
+      "published": "2026-09-20T16:00:00+00:00"
+     },
+     {
+      "title": "US and China Discuss Alerting Each Other to AI National Security Threats",
+      "summary": "US and China officials discussed establishing an alert mechanism for AI national security threats. The two countries proposed notifying each other of AI-related security incidents.",
+      "lang": "en",
+      "source": "Wired",
+      "url": "https://www.wired.com/story/us-and-china-discuss-alerting-each-other-to-ai-national-security-threats/",
+      "published": "2026-09-21T10:34:43+00:00"
+     }
+    ],
+    "status": "updated",
+    "change_summary": "US says China talks yield progress on tariff carve-outs, AI dialogue",
+    "previous_date": "2026-09-20",
+    "previous_event_id": ""
    },
    {
     "title": "Vietnam enters FTSE emerging-market ranks, eyes billions in inflows",
-    "summary": "Vietnam joined FTSE emerging-market index and expects significant capital inflows. The move reflects growing investor interest in Southeast Asian markets.",
+    "summary": "Vietnam achieved emerging-market status in the FTSE index. The classification is expected to attract billions in investment flows.",
     "lang": "en",
     "source": "Nikkei Asia",
     "url": "https://asia.nikkei.com/business/markets/vietnam-enters-ftse-emerging-market-ranks-eyes-billions-in-inflows",
-    "published": null
+    "published": null,
+    "event_id": "844548fa278b",
+    "sources": [
+     {
+      "title": "Vietnam enters FTSE emerging-market ranks, eyes billions in inflows",
+      "summary": "Vietnam achieved emerging-market status in the FTSE index. The classification is expected to attract billions in investment flows.",
+      "lang": "en",
+      "source": "Nikkei Asia",
+      "url": "https://asia.nikkei.com/business/markets/vietnam-enters-ftse-emerging-market-ranks-eyes-billions-in-inflows",
+      "published": null
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
    },
    {
-    "title": "Chinese rare earth shipments to US drop ahead of Trump-Xi summit",
-    "summary": "Chinese rare earth shipments to the US declined 20% in August from July amid US pressure on Beijing over critical mineral supplies. The drop precedes Trump-Xi summit talks.",
+    "title": "CATL develops pick-up truck batteries for US despite trade barriers",
+    "summary": "CATL is developing pickup truck batteries for the US market despite trade barriers. The Chinese company's move comes ahead of Xi Jinping's Washington visit.",
     "lang": "en",
-    "source": "Financial Times",
-    "url": "https://www.ft.com/content/eeef7db4-b26d-426f-896b-f7b95bb84223?syn-25a6b1a6=1",
-    "published": "2026-09-21T07:45:45+00:00"
+    "source": "FT Global Economy",
+    "url": "https://www.ft.com/content/bfe6fc60-51b3-41f0-b6c9-32583735150e?syn-25a6b1a6=1",
+    "published": "2026-09-20T11:58:50+00:00",
+    "event_id": "05f0e8647f5d",
+    "sources": [
+     {
+      "title": "CATL develops pick-up truck batteries for US despite trade barriers",
+      "summary": "CATL is developing pickup truck batteries for the US market despite trade barriers. The Chinese company's move comes ahead of Xi Jinping's Washington visit.",
+      "lang": "en",
+      "source": "FT Global Economy",
+      "url": "https://www.ft.com/content/bfe6fc60-51b3-41f0-b6c9-32583735150e?syn-25a6b1a6=1",
+      "published": "2026-09-20T11:58:50+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "軟銀砸 100 億美元加碼 OpenAI！發行 110 億美元債券籌資",
+    "summary": "软银宣布发行100亿美元及11.5亿美元欧元债券。这笔融资将用于加码对OpenAI的投资。",
+    "lang": "zh",
+    "source": "科技新報 TechNews",
+    "url": "https://technews.tw/2026/09/21/softbank-launches-11-billion-bonds-openai-investment/",
+    "published": "2026-09-21T12:06:29+00:00",
+    "event_id": "cf2149b51e8e",
+    "sources": [
+     {
+      "title": "軟銀砸 100 億美元加碼 OpenAI！發行 110 億美元債券籌資",
+      "summary": "软银宣布发行100亿美元及11.5亿美元欧元债券。这笔融资将用于加码对OpenAI的投资。",
+      "lang": "zh",
+      "source": "科技新報 TechNews",
+      "url": "https://technews.tw/2026/09/21/softbank-launches-11-billion-bonds-openai-investment/",
+      "published": "2026-09-21T12:06:29+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   }
+  ],
+  "politica|asia": [
+   {
+    "title": "Japan-China ties wither as Trump readies red carpet for Xi Jinping",
+    "summary": "Japan-China relations deteriorate as Trump prepares to welcome Xi Jinping. The warming US-China ties contrast sharply with Tokyo's concerns.",
+    "lang": "en",
+    "source": "Nikkei Asia",
+    "url": "https://asia.nikkei.com/politics/international-relations/japan-china-tensions/japan-china-ties-wither-as-trump-readies-red-carpet-for-xi-jinping",
+    "published": null,
+    "event_id": "62dac391e16c",
+    "sources": [
+     {
+      "title": "Japan-China ties wither as Trump readies red carpet for Xi Jinping",
+      "summary": "Japan-China relations deteriorate as Trump prepares to welcome Xi Jinping. The warming US-China ties contrast sharply with Tokyo's concerns.",
+      "lang": "en",
+      "source": "Nikkei Asia",
+      "url": "https://asia.nikkei.com/politics/international-relations/japan-china-tensions/japan-china-ties-wither-as-trump-readies-red-carpet-for-xi-jinping",
+      "published": null
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "China confirms Xi’s first trip to U.S. in nearly three years",
+    "summary": "China confirmed Xi Jinping's first visit to Washington in nearly three years. The trip comes as a one-year trade truce winds down between the countries.",
+    "lang": "en",
+    "source": "Japan Times",
+    "url": "https://www.japantimes.co.jp/news/2026/09/21/asia-pacific/politics/china-xi-us-trip-confirm/",
+    "published": "2026-09-21T09:04:00+00:00",
+    "event_id": "0e56d4ff18c8",
+    "sources": [
+     {
+      "title": "China confirms Xi’s first trip to U.S. in nearly three years",
+      "summary": "China confirmed Xi Jinping's first visit to Washington in nearly three years. The trip comes as a one-year trade truce winds down between the countries.",
+      "lang": "en",
+      "source": "Japan Times",
+      "url": "https://www.japantimes.co.jp/news/2026/09/21/asia-pacific/politics/china-xi-us-trip-confirm/",
+      "published": "2026-09-21T09:04:00+00:00"
+     }
+    ],
+    "status": "updated",
+    "change_summary": "China confirms Xi's first trip to U.S. in nearly three years",
+    "previous_date": "2026-09-20",
+    "previous_event_id": ""
+   },
+   {
+    "title": "韓國軍人淪共諜 用偷拍手錶洩露軍事機密遭判刑4年",
+    "summary": "韩国陆军士兵因出售韓美联演机密文件给中国情报机构被判刑4年。该士兵用中方提供的手表型摄影机进行偷拍以规避检测。",
+    "lang": "zh",
+    "source": "中央社 CNA",
+    "url": "https://www.cna.com.tw/news/aopl/202609210249.aspx",
+    "published": "2026-09-21T10:41:08+00:00",
+    "event_id": "227068f27664",
+    "sources": [
+     {
+      "title": "韓國軍人淪共諜 用偷拍手錶洩露軍事機密遭判刑4年",
+      "summary": "韩国陆军士兵因出售韓美联演机密文件给中国情报机构被判刑4年。该士兵用中方提供的手表型摄影机进行偷拍以规避检测。",
+      "lang": "zh",
+      "source": "中央社 CNA",
+      "url": "https://www.cna.com.tw/news/aopl/202609210249.aspx",
+      "published": "2026-09-21T10:41:08+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "Former top PLA generals expelled from Communist Party for factionalism and disloyalty",
+    "summary": "The Communist Party expelled former top PLA generals Zhang Youxia and Liu Zhenli for factionalism and disloyalty. Both were removed from the party and armed forces.",
+    "lang": "en",
+    "source": "South China Morning Post (China)",
+    "url": "https://www.scmp.com/news/china/politics/article/3368287/former-top-pla-generals-expelled-communist-party-factionalism-and-disloyalty?utm_source=rss_feed",
+    "published": "2026-09-21T13:10:07+00:00",
+    "event_id": "08c360911baa",
+    "sources": [
+     {
+      "title": "Former top PLA generals expelled from Communist Party for factionalism and disloyalty",
+      "summary": "The Communist Party expelled former top PLA generals Zhang Youxia and Liu Zhenli for factionalism and disloyalty. Both were removed from the party and armed forces.",
+      "lang": "en",
+      "source": "South China Morning Post (China)",
+      "url": "https://www.scmp.com/news/china/politics/article/3368287/former-top-pla-generals-expelled-communist-party-factionalism-and-disloyalty?utm_source=rss_feed",
+      "published": "2026-09-21T13:10:07+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "Gaza students return to in-person schooling for first time in three years",
+    "summary": "Gaza students returned to in-person schooling for the first time in three years. UNICEF reports 98% of schools were destroyed or damaged during the war.",
+    "lang": "en",
+    "source": "Japan Times",
+    "url": "https://www.japantimes.co.jp/news/2026/09/21/world/gaza-students-return-school/",
+    "published": "2026-09-21T11:20:00+00:00",
+    "event_id": "6d2e3019f807",
+    "sources": [
+     {
+      "title": "Gaza students return to in-person schooling for first time in three years",
+      "summary": "Gaza students returned to in-person schooling for the first time in three years. UNICEF reports 98% of schools were destroyed or damaged during the war.",
+      "lang": "en",
+      "source": "Japan Times",
+      "url": "https://www.japantimes.co.jp/news/2026/09/21/world/gaza-students-return-school/",
+      "published": "2026-09-21T11:20:00+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
    }
   ],
   "economia|europa": [
    {
     "title": "ECB to invest part of own funds in tokenised securities, with settlement via Pontes",
-    "summary": "ECB announced plans to invest part of its own funds in tokenised securities, with settlement through the Pontes platform. The move supports digital asset infrastructure development.",
+    "summary": "The ECB will invest part of its own funds in tokenised securities with settlement via Pontes. This represents a significant step in digital financial infrastructure.",
     "lang": "en",
     "source": "BCE (notas de prensa)",
     "url": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr260921_1~5a011ecbea.en.html",
-    "published": "2026-09-21T10:00:00+00:00"
-   },
-   {
-    "title": "EU Executive Challenged Over Fiscal Control of Italy and France",
-    "summary": "EU fiscal watchdog questioned enforcement of budget rules on France and Italy. The challenge comes as both indebted nations face critical fiscal policy decisions.",
-    "lang": "en",
-    "source": "Bloomberg Economics",
-    "url": "https://www.bloomberg.com/news/articles/2026-09-21/eu-executive-challenged-over-fiscal-control-of-italy-and-france",
-    "published": "2026-09-21T12:00:00+00:00"
-   },
-   {
-    "title": "German Economy to Gain Momentum Toward Year-End, Bundesbank Says",
-    "summary": "German economy will lose momentum in Q3 but recover toward year-end due to temporary factors, the Bundesbank said. Recovery expected as headwinds ease.",
-    "lang": "en",
-    "source": "Bloomberg Economics",
-    "url": "https://www.bloomberg.com/news/articles/2026-09-21/german-economy-to-gain-momentum-toward-year-end-bundesbank-says",
-    "published": "2026-09-21T10:00:00+00:00"
-   },
-   {
-    "title": "Irlanda multa a Google con 403 millones por infringir la normativa de protección de datos",
-    "summary": "Irlanda multó a Google con 403 millones de euros por violar normas de protección de datos entre 2018 y 2020. La autoridad concluyó que incumplió en el tratamiento de datos de localización.",
-    "lang": "es",
-    "source": "El País Economía",
-    "url": "https://cincodias.elpais.com/companias/2026-09-21/irlanda-multa-a-google-con-403-millones-por-infringir-la-normativa-de-proteccion-de-datos.html",
-    "published": "2026-09-21T10:09:39+00:00"
+    "published": "2026-09-21T10:00:00+00:00",
+    "event_id": "1517bc72795f",
+    "sources": [
+     {
+      "title": "ECB to invest part of own funds in tokenised securities, with settlement via Pontes",
+      "summary": "The ECB will invest part of its own funds in tokenised securities with settlement via Pontes. This represents a significant step in digital financial infrastructure.",
+      "lang": "en",
+      "source": "BCE (notas de prensa)",
+      "url": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr260921_1~5a011ecbea.en.html",
+      "published": "2026-09-21T10:00:00+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
    },
    {
     "title": "La inversión extranjera en España se dispara en la primera mitad del año y roza los 12.500 millones de euros",
-    "summary": "La inversión extranjera en España creció 30% anual en la primera mitad del año, alcanzando casi 12.500 millones de euros. El Gobierno busca reforzar el control de estas operaciones.",
+    "summary": "La inversión extranjera en España creció un 30% anual en el primer semestre, alcanzando cerca de 12.500 millones de euros. El Gobierno busca reforzar el control de estas operaciones.",
     "lang": "es",
     "source": "El País Economía",
     "url": "https://elpais.com/economia/2026-09-21/la-inversion-extranjera-en-espana-se-dispara-en-la-primera-mitad-del-ano-y-roza-los-12500-millones-de-euros.html",
-    "published": "2026-09-21T08:59:34+00:00"
+    "published": "2026-09-21T08:59:34+00:00",
+    "event_id": "f7aa0715893e",
+    "sources": [
+     {
+      "title": "La inversión extranjera en España se dispara en la primera mitad del año y roza los 12.500 millones de euros",
+      "summary": "La inversión extranjera en España creció un 30% anual en el primer semestre, alcanzando cerca de 12.500 millones de euros. El Gobierno busca reforzar el control de estas operaciones.",
+      "lang": "es",
+      "source": "El País Economía",
+      "url": "https://elpais.com/economia/2026-09-21/la-inversion-extranjera-en-espana-se-dispara-en-la-primera-mitad-del-ano-y-roza-los-12500-millones-de-euros.html",
+      "published": "2026-09-21T08:59:34+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "EU Executive Challenged Over Fiscal Control of Italy and France",
+    "summary": "The EU's fiscal watchdog questioned enforcement of budget rules on France and Italy. The scrutiny comes as both indebted nations face critical fiscal periods.",
+    "lang": "en",
+    "source": "Bloomberg Economics",
+    "url": "https://www.bloomberg.com/news/articles/2026-09-21/eu-executive-challenged-over-fiscal-control-of-italy-and-france",
+    "published": "2026-09-21T12:00:00+00:00",
+    "event_id": "7c85a2d1f238",
+    "sources": [
+     {
+      "title": "EU Executive Challenged Over Fiscal Control of Italy and France",
+      "summary": "The EU's fiscal watchdog questioned enforcement of budget rules on France and Italy. The scrutiny comes as both indebted nations face critical fiscal periods.",
+      "lang": "en",
+      "source": "Bloomberg Economics",
+      "url": "https://www.bloomberg.com/news/articles/2026-09-21/eu-executive-challenged-over-fiscal-control-of-italy-and-france",
+      "published": "2026-09-21T12:00:00+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "Irlanda multa a Google con 403 millones por infringir la normativa de protección de datos",
+    "summary": "Irlanda multa a Google con 403 millones de euros por violar la normativa de protección de datos. Las autoridades concluyeron que incumplió en el tratamiento de la localización entre 2018 y 2020.",
+    "lang": "es",
+    "source": "El País Economía",
+    "url": "https://cincodias.elpais.com/companias/2026-09-21/irlanda-multa-a-google-con-403-millones-por-infringir-la-normativa-de-proteccion-de-datos.html",
+    "published": "2026-09-21T10:09:39+00:00",
+    "event_id": "af062f261485",
+    "sources": [
+     {
+      "title": "Irlanda multa a Google con 403 millones por infringir la normativa de protección de datos",
+      "summary": "Irlanda multa a Google con 403 millones de euros por violar la normativa de protección de datos. Las autoridades concluyeron que incumplió en el tratamiento de la localización entre 2018 y 2020.",
+      "lang": "es",
+      "source": "El País Economía",
+      "url": "https://cincodias.elpais.com/companias/2026-09-21/irlanda-multa-a-google-con-403-millones-por-infringir-la-normativa-de-proteccion-de-datos.html",
+      "published": "2026-09-21T10:09:39+00:00"
+     },
+     {
+      "title": "Ireland fines Google €403 million on behalf of EU for location data breach",
+      "summary": "Ireland fined Google €403 million for location data breach on behalf of the EU. Google failed to inform users their location data was used for targeted advertising.",
+      "lang": "en",
+      "source": "Le Monde International",
+      "url": "https://www.lemonde.fr/en/international/article/2026/09/21/european-union-fines-google-403-million-for-data-location-breach_6757763_4.html",
+      "published": "2026-09-21T10:04:43+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "German Economy to Gain Momentum Toward Year-End, Bundesbank Says",
+    "summary": "Germany's economy will slow in Q3 before accelerating toward year-end, the Bundesbank said. Temporary factors are expected to dampen near-term growth momentum.",
+    "lang": "en",
+    "source": "Bloomberg Economics",
+    "url": "https://www.bloomberg.com/news/articles/2026-09-21/german-economy-to-gain-momentum-toward-year-end-bundesbank-says",
+    "published": "2026-09-21T10:00:00+00:00",
+    "event_id": "c5fa9d584620",
+    "sources": [
+     {
+      "title": "German Economy to Gain Momentum Toward Year-End, Bundesbank Says",
+      "summary": "Germany's economy will slow in Q3 before accelerating toward year-end, the Bundesbank said. Temporary factors are expected to dampen near-term growth momentum.",
+      "lang": "en",
+      "source": "Bloomberg Economics",
+      "url": "https://www.bloomberg.com/news/articles/2026-09-21/german-economy-to-gain-momentum-toward-year-end-bundesbank-says",
+      "published": "2026-09-21T10:00:00+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
    }
   ],
   "economia|america": [
    {
     "title": "Brazil Economists Lower 2026 Selic Forecast Following Rate Cut",
-    "summary": "Brazilian economists lowered their 2026 year-end forecast for the benchmark interest rate. The reduction reflects expectations of economic cooling before next month's election.",
+    "summary": "Brazilian economists lowered their 2026 benchmark interest rate forecast following recent cuts. Latin America's largest economy is cooling ahead of next month's presidential election.",
     "lang": "en",
     "source": "Bloomberg Economics",
     "url": "https://www.bloomberg.com/news/articles/2026-09-21/brazil-economists-lower-2026-selic-forecast-following-rate-cut",
-    "published": "2026-09-21T12:06:31+00:00"
+    "published": "2026-09-21T12:06:31+00:00",
+    "event_id": "a32634fce72e",
+    "sources": [
+     {
+      "title": "Brazil Economists Lower 2026 Selic Forecast Following Rate Cut",
+      "summary": "Brazilian economists lowered their 2026 benchmark interest rate forecast following recent cuts. Latin America's largest economy is cooling ahead of next month's presidential election.",
+      "lang": "en",
+      "source": "Bloomberg Economics",
+      "url": "https://www.bloomberg.com/news/articles/2026-09-21/brazil-economists-lower-2026-selic-forecast-following-rate-cut",
+      "published": "2026-09-21T12:06:31+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
    },
    {
-    "title": "Brazil’s Patria Sells Colombia Solar Park to Isagen",
-    "summary": "Patria Investments and Ashmore Colombia sold one of Colombia's largest solar parks to power generator Isagen SA. The transaction marks a major renewable energy portfolio shift.",
+    "title": "Trump y Venezuela: Acuerdo petrolero enfrenta campos deteriorados",
+    "summary": "A major oil deal between Trump's administration and Venezuela faces challenges from aging, deteriorated fields. The agreement's success depends on costly-to-exploit petroleum reserves.",
     "lang": "en",
     "source": "Bloomberg Markets",
-    "url": "https://www.bloomberg.com/news/articles/2026-09-21/brazil-s-patria-sells-colombia-solar-park-to-isagen",
-    "published": "2026-09-21T12:30:00+00:00"
-   },
-   {
-    "title": "Trump-Xi Summit Prep Gathers Pace as Officials Make Headway on AI, Trade",
-    "summary": "US Treasury Secretary Scott Bessent reported 'very successful' talks with Chinese counterparts on AI and trade ahead of Trump-Xi summit. Officials made significant headway on negotiations.",
-    "lang": "en",
-    "source": "Bloomberg Economics",
-    "url": "https://www.bloomberg.com/news/newsletters/2026-09-21/trump-xi-summit-prep-gathers-pace-as-officials-make-headway-on-ai-trade",
-    "published": "2026-09-21T11:00:01+00:00"
-   }
-  ],
-  "politica|asia": [
-   {
-    "title": "China confirms Xi’s first trip to U.S. in nearly three years",
-    "summary": "China confirmed Xi Jinping's first US visit in nearly three years to Washington this week. The visit occurs as a one-year trade truce winds down.",
-    "lang": "en",
-    "source": "Japan Times",
-    "url": "https://www.japantimes.co.jp/news/2026/09/21/asia-pacific/politics/china-xi-us-trip-confirm/",
-    "published": "2026-09-21T09:04:00+00:00"
-   },
-   {
-    "title": "美中讨论建立人工智能国家安全问题通报机制",
-    "summary": "美中官员召开经济会谈，讨论建立人工智能国家安全问题通报机制。财政部长贝森特表示该系统将处理涉及国家安全的人工智能事项。",
-    "lang": "zh",
-    "source": "纽约时报中文网",
-    "url": "https://cn.nytimes.com/world/20260921/us-china-ai-warning-system-national-security/?utm_source=RSS",
-    "published": "2026-09-21T01:54:52+00:00"
-   },
-   {
-    "title": "US, China agree AI dialogue ahead of Trump-Xi summit",
-    "summary": "US and China negotiators agreed to establish an AI dialogue ahead of Xi's White House visit. Progress made on artificial intelligence and trade issues.",
-    "lang": "en",
-    "source": "South China Morning Post (China)",
-    "url": "https://www.scmp.com/plus/news/china/diplomacy/article/3368245/us-china-agree-ai-dialogue-ahead-trump-xi-summit?utm_source=rss_feed",
-    "published": "2026-09-21T09:01:49+00:00"
-   },
-   {
-    "title": "Success of Trump-Xi summit lies in what happens afterwards",
-    "summary": "Xi Jinping will meet Trump in Washington this week following May talks in Beijing and before November's Apec summit in Shenzhen. Summit success depends on follow-up actions.",
-    "lang": "en",
-    "source": "South China Morning Post (China)",
-    "url": "https://www.scmp.com/opinion/china-opinion/article/3368013/success-trump-xi-summit-lies-what-happens-afterwards?utm_source=rss_feed",
-    "published": "2026-09-21T12:30:05+00:00"
-   },
-   {
-    "title": "韓國軍人淪共諜 用偷拍手錶洩露軍事機密遭判刑4年",
-    "summary": "韩国陆军士兵将军事机密文件出售给中国情报机构，被判刑4年。此人使用中方提供的手表型摄像机进行偷拍。",
-    "lang": "zh",
-    "source": "中央社 CNA",
-    "url": "https://www.cna.com.tw/news/aopl/202609210249.aspx",
-    "published": "2026-09-21T10:41:08+00:00"
-   }
-  ],
-  "politica|europa": [
-   {
-    "title": "German regional elections: Chancellor Merz and his party suffer historic defeat",
-    "summary": "Chancellor Merz and the CDU suffered historic defeat in German regional elections, falling below 5% in Mecklenburg-Western Pomerania for the first time since 1949.",
-    "lang": "en",
-    "source": "Le Monde International",
-    "url": "https://www.lemonde.fr/en/international/article/2026/09/21/german-regional-elections-chancellor-merz-and-his-party-suffer-historic-defeat_6757759_4.html",
-    "published": "2026-09-21T08:33:24+00:00"
-   },
-   {
-    "title": "Ireland fines Google €403 million on behalf of EU for location data breach",
-    "summary": "Ireland fined Google 403 million euros on behalf of the EU for location data breach. Individuals were unaware their location data was used for targeted advertising and profiling.",
-    "lang": "en",
-    "source": "Le Monde International",
-    "url": "https://www.lemonde.fr/en/international/article/2026/09/21/european-union-fines-google-403-million-for-data-location-breach_6757763_4.html",
-    "published": "2026-09-21T10:04:43+00:00"
-   },
-   {
-    "title": "Far-right AfD's rise in German regional elections worries EU",
-    "summary": "Far-right AfD's rise in German regional elections concerns EU partners, fueling distrust and fear among neighboring nations. Germany's inward turn worries Europe.",
-    "lang": "en",
-    "source": "Le Monde International",
-    "url": "https://www.lemonde.fr/en/international/article/2026/09/21/far-right-afd-s-rise-in-germany-s-regional-elections-worries-eu_6757760_4.html",
-    "published": "2026-09-21T09:05:20+00:00"
-   },
-   {
-    "title": "Kremlin orchestrates Russian elections by manipulating votes and barring observers",
-    "summary": "Kremlin orchestrated Russian elections through vote manipulation and barred observers during the three-day voting period. Journalists and observers documented irregularities inside polling stations.",
-    "lang": "en",
-    "source": "Le Monde International",
-    "url": "https://www.lemonde.fr/en/international/article/2026/09/21/kremlin-orchestrates-russian-elections-by-manipulating-votes-and-barring-observers_6757755_4.html",
-    "published": "2026-09-21T06:17:54+00:00"
-   },
-   {
-    "title": "Trump to meet Macron in New York on sidelines of UN General Assembly",
-    "summary": "Trump scheduled to meet Macron in New York on the sidelines of UN General Assembly at 5:35 pm. Meeting reflects ongoing bilateral engagement.",
-    "lang": "en",
-    "source": "Le Monde International",
-    "url": "https://www.lemonde.fr/en/international/article/2026/09/21/trump-to-meet-macron-in-new-york-on-sidelines-of-un-general-assembly_6757756_4.html",
-    "published": "2026-09-21T06:58:46+00:00"
+    "url": "https://www.bloomberg.com/news/articles/2026-09-21/trump-y-venezuela-acuerdo-petrolero-enfrenta-campos-deteriorados",
+    "published": "2026-09-21T13:05:48+00:00",
+    "event_id": "0294a281cd03",
+    "sources": [
+     {
+      "title": "Trump y Venezuela: Acuerdo petrolero enfrenta campos deteriorados",
+      "summary": "A major oil deal between Trump's administration and Venezuela faces challenges from aging, deteriorated fields. The agreement's success depends on costly-to-exploit petroleum reserves.",
+      "lang": "en",
+      "source": "Bloomberg Markets",
+      "url": "https://www.bloomberg.com/news/articles/2026-09-21/trump-y-venezuela-acuerdo-petrolero-enfrenta-campos-deteriorados",
+      "published": "2026-09-21T13:05:48+00:00"
+     }
+    ],
+    "status": "updated",
+    "change_summary": "Trump y Venezuela: Acuerdo petrolero enfrenta campos deteriorados",
+    "previous_date": "2026-09-20",
+    "previous_event_id": ""
    }
   ],
   "politica|america": [
    {
+    "title": "The cartel civil war tearing apart a Mexican state",
+    "summary": "Mexico's Sinaloa cartel descended into civil war when El Chapo's son kidnapped his father's co-founder and handed him to US authorities. The internal conflict has torn apart the cartel's control of a state.",
+    "lang": "en",
+    "source": "Financial Times",
+    "url": "https://www.ft.com/content/f2dca0b0-6387-4022-8dba-dc8015823dfe?syn-25a6b1a6=1",
+    "published": "2026-09-21T04:00:11+00:00",
+    "event_id": "e5bc1277bde6",
+    "sources": [
+     {
+      "title": "The cartel civil war tearing apart a Mexican state",
+      "summary": "Mexico's Sinaloa cartel descended into civil war when El Chapo's son kidnapped his father's co-founder and handed him to US authorities. The internal conflict has torn apart the cartel's control of a state.",
+      "lang": "en",
+      "source": "Financial Times",
+      "url": "https://www.ft.com/content/f2dca0b0-6387-4022-8dba-dc8015823dfe?syn-25a6b1a6=1",
+      "published": "2026-09-21T04:00:11+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "World leaders convene for UNGA. And, Trump says D.C. arch will be a 'military complex'",
+    "summary": "World leaders convened for the UN General Assembly amid ongoing conflicts in Ukraine and the Gulf. Trump proposed converting a Washington arch into a military complex.",
+    "lang": "en",
+    "source": "NPR World",
+    "url": "https://www.npr.org/2026/09/21/g-s1-144238/up-first-newsletter-united-nations-general-assembly-trump-arch-faa-ai-federal-agent-shooting",
+    "published": "2026-09-21T11:24:27+00:00",
+    "event_id": "f2c282509b7f",
+    "sources": [
+     {
+      "title": "World leaders convene for UNGA. And, Trump says D.C. arch will be a 'military complex'",
+      "summary": "World leaders convened for the UN General Assembly amid ongoing conflicts in Ukraine and the Gulf. Trump proposed converting a Washington arch into a military complex.",
+      "lang": "en",
+      "source": "NPR World",
+      "url": "https://www.npr.org/2026/09/21/g-s1-144238/up-first-newsletter-united-nations-general-assembly-trump-arch-faa-ai-federal-agent-shooting",
+      "published": "2026-09-21T11:24:27+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
     "title": "18 suspects accused in the 2021 killing of Haiti's president being extradited to U.S.",
-    "summary": "Eighteen suspects arrested in Haiti's 2021 president Jovenel Moïse killing were extradited to the US on Sunday. They will face justice in Florida courts.",
+    "summary": "Eighteen suspects in Haiti's 2021 presidential assassination were extradited to the US. The suspects will face justice in Florida for the July 2021 killing of President Jovenel Moïse.",
     "lang": "en",
     "source": "NPR World",
     "url": "https://www.npr.org/2026/09/21/nx-s1-5976026/suspects-killing-haiti-president-extradited",
-    "published": "2026-09-21T08:41:50+00:00"
-   },
-   {
-    "title": "What to know as world leaders converge at the United Nations this week",
-    "summary": "UN head António Guterres returns for his final General Assembly amid faltering diplomacy over Ukraine and Middle East conflicts. Global challenges continue to test multilateral cooperation.",
-    "lang": "en",
-    "source": "NPR World",
-    "url": "https://www.npr.org/2026/09/21/nx-s1-5971262/united-nations-general-assembly",
-    "published": "2026-09-21T09:00:00+00:00"
-   },
-   {
-    "title": "Defining global leadership in AI at Trump-Xi summit",
-    "summary": "Former US deputy national security advisor Anne Neuberger watches for competition and cooperation on artificial intelligence at Trump-Xi summit. AI leadership is a key agenda item.",
-    "lang": "en",
-    "source": "NPR World",
-    "url": "https://www.npr.org/2026/09/20/nx-s1-5973116/defining-global-leadership-in-ai-at-trump-xi-summit",
-    "published": "2026-09-20T21:15:56+00:00"
+    "published": "2026-09-21T08:41:50+00:00",
+    "event_id": "da169c15aa90",
+    "sources": [
+     {
+      "title": "18 suspects accused in the 2021 killing of Haiti's president being extradited to U.S.",
+      "summary": "Eighteen suspects in Haiti's 2021 presidential assassination were extradited to the US. The suspects will face justice in Florida for the July 2021 killing of President Jovenel Moïse.",
+      "lang": "en",
+      "source": "NPR World",
+      "url": "https://www.npr.org/2026/09/21/nx-s1-5976026/suspects-killing-haiti-president-extradited",
+      "published": "2026-09-21T08:41:50+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
    },
    {
     "title": "Las tensiones entre México y Estados Unidos por la “narcopolítica” entran en campaña",
-    "summary": "Tensiones entre México y Estados Unidos sobre narcopolítica entran en campaña electoral. Trump amplifica temores sobre crimen organizado mientras Sheinbaum rechaza injerencias estadounidenses.",
+    "summary": "Las tensiones entre México y Estados Unidos por narcopolítica entran en campaña electoral. Trump amplifica preocupaciones sobre el crimen organizado mientras Sheinbaum rechaza injerencias de Washington.",
     "lang": "es",
     "source": "El País Internacional",
     "url": "https://elpais.com/mexico/2026-09-21/las-tensiones-entre-mexico-y-estados-unidos-por-la-narcopolitica-entran-en-campana.html",
-    "published": "2026-09-21T09:30:00+00:00"
+    "published": "2026-09-21T09:30:00+00:00",
+    "event_id": "cf913737ca29",
+    "sources": [
+     {
+      "title": "Las tensiones entre México y Estados Unidos por la “narcopolítica” entran en campaña",
+      "summary": "Las tensiones entre México y Estados Unidos por narcopolítica entran en campaña electoral. Trump amplifica preocupaciones sobre el crimen organizado mientras Sheinbaum rechaza injerencias de Washington.",
+      "lang": "es",
+      "source": "El País Internacional",
+      "url": "https://elpais.com/mexico/2026-09-21/las-tensiones-entre-mexico-y-estados-unidos-por-la-narcopolitica-entran-en-campana.html",
+      "published": "2026-09-21T09:30:00+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "France and Canada strengthen ties in response to Trump's provocations",
+    "summary": "France and Canada strengthened ties in response to Trump's provocations. Canadian PM Mark Carney visited the French territory of Saint Pierre and Miquelon for symbolic and tactical purposes.",
+    "lang": "en",
+    "source": "Le Monde International",
+    "url": "https://www.lemonde.fr/en/international/article/2026/09/21/france-and-canada-strengthen-ties-in-response-to-trump-s-provocations_6757758_4.html",
+    "published": "2026-09-21T08:22:33+00:00",
+    "event_id": "137db322d303",
+    "sources": [
+     {
+      "title": "France and Canada strengthen ties in response to Trump's provocations",
+      "summary": "France and Canada strengthened ties in response to Trump's provocations. Canadian PM Mark Carney visited the French territory of Saint Pierre and Miquelon for symbolic and tactical purposes.",
+      "lang": "en",
+      "source": "Le Monde International",
+      "url": "https://www.lemonde.fr/en/international/article/2026/09/21/france-and-canada-strengthen-ties-in-response-to-trump-s-provocations_6757758_4.html",
+      "published": "2026-09-21T08:22:33+00:00"
+     }
+    ],
+    "status": "updated",
+    "change_summary": "France and Canada strengthen ties in response to Trump's provocations",
+    "previous_date": "2026-09-20",
+    "previous_event_id": ""
+   }
+  ],
+  "politica|europa": [
+   {
+    "title": "Putin's party secures record score in Russia election",
+    "summary": "Putin's party secured a record score in Russia's recent election. The result strengthens the ruling party's parliamentary position.",
+    "lang": "en",
+    "source": "Channel NewsAsia",
+    "url": "https://www.channelnewsasia.com/world/putins-party-secures-record-score-in-russia-election-6399171",
+    "published": "2026-09-21T12:41:02+00:00",
+    "event_id": "321995dcee32",
+    "sources": [
+     {
+      "title": "Putin's party secures record score in Russia election",
+      "summary": "Putin's party secured a record score in Russia's recent election. The result strengthens the ruling party's parliamentary position.",
+      "lang": "en",
+      "source": "Channel NewsAsia",
+      "url": "https://www.channelnewsasia.com/world/putins-party-secures-record-score-in-russia-election-6399171",
+      "published": "2026-09-21T12:41:02+00:00"
+     }
+    ],
+    "status": "updated",
+    "change_summary": "Putin's party secures record score in Russia election",
+    "previous_date": "2026-09-20",
+    "previous_event_id": ""
+   },
+   {
+    "title": "German regional elections: Chancellor Merz and his party suffer historic defeat",
+    "summary": "Chancellor Merz's CDU party suffered a historic defeat in German regional elections. For the first time since 1949, the party fell below 5% in Mecklenburg-Western Pomerania.",
+    "lang": "en",
+    "source": "Le Monde International",
+    "url": "https://www.lemonde.fr/en/international/article/2026/09/21/german-regional-elections-chancellor-merz-and-his-party-suffer-historic-defeat_6757759_4.html",
+    "published": "2026-09-21T08:33:24+00:00",
+    "event_id": "11f94f80bc96",
+    "sources": [
+     {
+      "title": "German regional elections: Chancellor Merz and his party suffer historic defeat",
+      "summary": "Chancellor Merz's CDU party suffered a historic defeat in German regional elections. For the first time since 1949, the party fell below 5% in Mecklenburg-Western Pomerania.",
+      "lang": "en",
+      "source": "Le Monde International",
+      "url": "https://www.lemonde.fr/en/international/article/2026/09/21/german-regional-elections-chancellor-merz-and-his-party-suffer-historic-defeat_6757759_4.html",
+      "published": "2026-09-21T08:33:24+00:00"
+     },
+     {
+      "title": "German Chancellor Merz calls state election a 'disaster' for his party but vows to stay on",
+      "summary": "German Chancellor Merz called state election results a disaster for his CDU party but vowed to stay on. Exit polls showed significant losses in Mecklenburg-Vorpommern and Berlin.",
+      "lang": "en",
+      "source": "BBC World",
+      "url": "https://www.bbc.co.uk/news/articles/cvwyz29n0nn2o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-09-21T08:56:27+00:00"
+     },
+     {
+      "title": "Merz vows to keep ruling coalition together for Germany's 'democratic future'",
+      "summary": "Chancellor Merz pledged to maintain Germany's ruling coalition despite electoral setbacks. He emphasized the government's responsibility to address historic challenges facing the nation.",
+      "lang": "en",
+      "source": "Le Monde International",
+      "url": "https://www.lemonde.fr/en/international/article/2026/09/21/merz-vows-to-keep-ruling-coalition-together-for-germany-s-democratic-future_6757770_4.html",
+      "published": "2026-09-21T13:12:11+00:00"
+     },
+     {
+      "title": "Germany's Merz vows to press ahead with reforms after historic state election defeat",
+      "summary": "German Chancellor Merz vowed to press ahead with reforms after a historic state election defeat. His centre-right party lost significant ground to the far-right Alternative for Germany.",
+      "lang": "en",
+      "source": "NPR World",
+      "url": "https://www.npr.org/2026/09/20/g-s1-144211/germanys-merz-vows-to-press-ahead-with-reforms-after-historic-state-election-defeat",
+      "published": "2026-09-20T17:29:29+00:00"
+     }
+    ],
+    "status": "unclear",
+    "change_summary": "",
+    "previous_date": "2026-09-20",
+    "previous_event_id": ""
+   },
+   {
+    "title": "Far-right AfD's rise in German regional elections worries EU",
+    "summary": "The far-right AfD's gains in German regional elections concern EU partners. Berlin's neighbors fear Germany's political shift inward will increase distrust and instability.",
+    "lang": "en",
+    "source": "Le Monde International",
+    "url": "https://www.lemonde.fr/en/international/article/2026/09/21/far-right-afd-s-rise-in-germany-s-regional-elections-worries-eu_6757760_4.html",
+    "published": "2026-09-21T09:05:20+00:00",
+    "event_id": "80a15912008d",
+    "sources": [
+     {
+      "title": "Far-right AfD's rise in German regional elections worries EU",
+      "summary": "The far-right AfD's gains in German regional elections concern EU partners. Berlin's neighbors fear Germany's political shift inward will increase distrust and instability.",
+      "lang": "en",
+      "source": "Le Monde International",
+      "url": "https://www.lemonde.fr/en/international/article/2026/09/21/far-right-afd-s-rise-in-germany-s-regional-elections-worries-eu_6757760_4.html",
+      "published": "2026-09-21T09:05:20+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "Una idea ha tomado fuerza el fin de semana: suenan tambores de guerra en Europa, y una isla del Báltico está avisando al resto",
+    "summary": "Crece el debate europeo sobre riesgos de conflicto entre Rusia y la OTAN. Una isla del Báltico advierte sobre tensiones geopolíticas crecientes en la región.",
+    "lang": "es",
+    "source": "Xataka",
+    "url": "https://www.xataka.com/magnet/idea-ha-tomado-fuerza-fin-semana-suenan-tambores-guerra-europa-isla-baltico-esta-avisando-al-resto",
+    "published": "2026-09-21T12:30:15+00:00",
+    "event_id": "6cfe27b80e01",
+    "sources": [
+     {
+      "title": "Una idea ha tomado fuerza el fin de semana: suenan tambores de guerra en Europa, y una isla del Báltico está avisando al resto",
+      "summary": "Crece el debate europeo sobre riesgos de conflicto entre Rusia y la OTAN. Una isla del Báltico advierte sobre tensiones geopolíticas crecientes en la región.",
+      "lang": "es",
+      "source": "Xataka",
+      "url": "https://www.xataka.com/magnet/idea-ha-tomado-fuerza-fin-semana-suenan-tambores-guerra-europa-isla-baltico-esta-avisando-al-resto",
+      "published": "2026-09-21T12:30:15+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
    }
   ],
   "tecnologia|america": [
    {
-    "title": "The US spent billions on border surveillance. Why can’t it catch people before they die?",
-    "summary": "Despite billions spent on border surveillance technology, the US struggles to prevent migrant deaths. Systems failed to trigger alerts for José Morales Bernal in April 2024.",
-    "lang": "en",
-    "source": "MIT Technology Review",
-    "url": "https://www.technologyreview.com/2026/09/21/1144166/border-towers-surveillance-investigation/",
-    "published": "2026-09-21T12:00:00+00:00"
-   },
-   {
     "title": "An undercover Google analyst infiltrated a notorious supply-chain hacking gang",
-    "summary": "Google's threat intelligence group infiltrated TeamPCP, a notorious supply-chain hacking gang, with an undercover analyst. The operation provided inside intelligence on criminal operations.",
+    "summary": "Google's threat intelligence group infiltrated TeamPCP's supply-chain hacking operation with an undercover analyst. The mole provided intelligence from within the notorious gang's inner circle.",
     "lang": "en",
     "source": "Ars Technica",
     "url": "https://arstechnica.com/security/2026/09/an-undercover-google-analyst-infiltrated-a-notorious-supply-chain-hacking-gang/",
-    "published": "2026-09-20T11:07:00+00:00"
+    "published": "2026-09-20T11:07:00+00:00",
+    "event_id": "2fab1312f6e2",
+    "sources": [
+     {
+      "title": "An undercover Google analyst infiltrated a notorious supply-chain hacking gang",
+      "summary": "Google's threat intelligence group infiltrated TeamPCP's supply-chain hacking operation with an undercover analyst. The mole provided intelligence from within the notorious gang's inner circle.",
+      "lang": "en",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/security/2026/09/an-undercover-google-analyst-infiltrated-a-notorious-supply-chain-hacking-gang/",
+      "published": "2026-09-20T11:07:00+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
    },
    {
-    "title": "US and China Discuss Alerting Each Other to AI National Security Threats",
-    "summary": "US and China discussed establishing a mechanism to alert each other of AI national security threats. Both nations seek to manage AI-related security incidents.",
-    "lang": "en",
-    "source": "Wired",
-    "url": "https://www.wired.com/story/us-and-china-discuss-alerting-each-other-to-ai-national-security-threats/",
-    "published": "2026-09-21T10:34:43+00:00"
-   },
-   {
-    "title": "The Download: investigating deaths at the US border’s “virtual wall”",
-    "summary": "The Download newsletter investigates deaths at the US border's 'virtual wall' despite billions spent on surveillance technology. Systems fail to protect vulnerable migrants.",
+    "title": "The US spent billions on border surveillance. Why can’t it catch people before they die?",
+    "summary": "The US spent billions on border surveillance technology that failed to prevent deaths. The system did not trigger alerts for José Morales Bernal before his fatal border crossing.",
     "lang": "en",
     "source": "MIT Technology Review",
-    "url": "https://www.technologyreview.com/2026/09/21/1144834/the-download-investigating-deaths-at-the-us-borders-virtual-wall/",
-    "published": "2026-09-21T12:20:00+00:00"
+    "url": "https://www.technologyreview.com/2026/09/21/1144166/border-towers-surveillance-investigation/",
+    "published": "2026-09-21T12:00:00+00:00",
+    "event_id": "cd25620efbb8",
+    "sources": [
+     {
+      "title": "The US spent billions on border surveillance. Why can’t it catch people before they die?",
+      "summary": "The US spent billions on border surveillance technology that failed to prevent deaths. The system did not trigger alerts for José Morales Bernal before his fatal border crossing.",
+      "lang": "en",
+      "source": "MIT Technology Review",
+      "url": "https://www.technologyreview.com/2026/09/21/1144166/border-towers-surveillance-investigation/",
+      "published": "2026-09-21T12:00:00+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "Anthropic 跨足生物研究，自建實驗室瞄準罕病新療法",
+    "summary": "Anthropic在旧金山湾区建立实验室从事生物研究。公司探索利用Claude模型开发罕见疾病新疗法。",
+    "lang": "zh",
+    "source": "科技新報 TechNews",
+    "url": "https://technews.tw/2026/09/21/anthropic-builds-in-house-biology-lab-to-accelerate-ai-drug-program/",
+    "published": "2026-09-21T09:44:27+00:00",
+    "event_id": "38390bcadc9e",
+    "sources": [
+     {
+      "title": "Anthropic 跨足生物研究，自建實驗室瞄準罕病新療法",
+      "summary": "Anthropic在旧金山湾区建立实验室从事生物研究。公司探索利用Claude模型开发罕见疾病新疗法。",
+      "lang": "zh",
+      "source": "科技新報 TechNews",
+      "url": "https://technews.tw/2026/09/21/anthropic-builds-in-house-biology-lab-to-accelerate-ai-drug-program/",
+      "published": "2026-09-21T09:44:27+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
    },
    {
     "title": "Is the AI industry really ready to slow down?",
-    "summary": "Tech leaders debate whether AI industry executives are genuinely committed to slowing development. Equity podcast questions sincerity of AI executives' stated intentions.",
+    "summary": "Industry debate questions whether AI executives genuinely want to slow development. The discussion challenges claims from AI leaders about moderating innovation pace.",
     "lang": "en",
     "source": "TechCrunch",
     "url": "https://techcrunch.com/2026/09/20/is-the-ai-industry-really-ready-to-slow-down/",
-    "published": "2026-09-20T18:56:04+00:00"
-   }
-  ],
-  "tecnologia|europa": [
-   {
-    "title": "MediaTek ya tiene lista su alternativa a los SoC Snapdragon para portátiles prémium: el chip Dimensity CX C10 Max",
-    "summary": "MediaTek presenta el chip Dimensity CX C10 Max para computadoras premium, compitiendo directamente contra los procesadores Snapdragon de Qualcomm.",
-    "lang": "es",
-    "source": "Xataka",
-    "url": "https://www.xataka.com/componentes/mediatek-dimensity-cx-c10-max-caracteristicas-ficha-tecnica",
-    "published": "2026-09-21T13:00:16+00:00"
-   },
-   {
-    "title": "Una idea ha tomado fuerza el fin de semana: suenan tambores de guerra en Europa, y una isla del Báltico está avisando al resto",
-    "summary": "Crece inquietud en debates europeos sobre posible conflicto entre Rusia y la OTAN. Una isla báltica advierte al resto de Europa sobre tensiones crecientes.",
-    "lang": "es",
-    "source": "Xataka",
-    "url": "https://www.xataka.com/magnet/idea-ha-tomado-fuerza-fin-semana-suenan-tambores-guerra-europa-isla-baltico-esta-avisando-al-resto",
-    "published": "2026-09-21T12:30:15+00:00"
-   },
-   {
-    "title": "\"La probabilidad de que la IA destruya el mundo es del 0%\": Jensen Huang, director general de Nvidia",
-    "summary": "Jensen Huang, CEO de Nvidia, aseguró que la probabilidad de que la inteligencia artificial destruya el mundo es del 0%. Minimizó riesgos existenciales del avance de la IA.",
-    "lang": "es",
-    "source": "Xataka",
-    "url": "https://www.xataka.com/robotica-e-ia/probabilidad-que-ia-destruya-mundo-0-jensen-huang-director-general-nvidia",
-    "published": "2026-09-21T11:30:16+00:00"
+    "published": "2026-09-20T18:56:04+00:00",
+    "event_id": "9515eed3cd4b",
+    "sources": [
+     {
+      "title": "Is the AI industry really ready to slow down?",
+      "summary": "Industry debate questions whether AI executives genuinely want to slow development. The discussion challenges claims from AI leaders about moderating innovation pace.",
+      "lang": "en",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/09/20/is-the-ai-industry-really-ready-to-slow-down/",
+      "published": "2026-09-20T18:56:04+00:00"
+     }
+    ],
+    "status": "unchanged",
+    "change_summary": "",
+    "previous_date": "2026-09-20",
+    "previous_event_id": ""
    }
   ],
   "tecnologia|asia": [
    {
-    "title": "軟銀砸 100 億美元加碼 OpenAI！發行 110 億美元債券籌資",
-    "summary": "软银集团发行100亿美元及10亿欧元债券，筹资用于增加对OpenAI的投资。融资规模达约115亿美元。",
-    "lang": "zh",
-    "source": "科技新報 TechNews",
-    "url": "https://technews.tw/2026/09/21/softbank-launches-11-billion-bonds-openai-investment/",
-    "published": "2026-09-21T12:06:29+00:00"
-   },
-   {
-    "title": "路透：中國監管機構對尋求上市人型機器人企業踩煞車",
-    "summary": "中国监管机构对寻求上市的人型机器人企业施加制约。重点审视企业估值上升和官方支持情况。",
-    "lang": "zh",
-    "source": "科技新報 TechNews",
-    "url": "https://finance.technews.tw/2026/09/21/reuters-china-regulators-brakes-humanoid-robot-firms-seeking-ipo/",
-    "published": "2026-09-21T10:00:15+00:00"
-   },
-   {
-    "title": "Anthropic 跨足生物研究，自建實驗室瞄準罕病新療法",
-    "summary": "Anthropic在旧金山湾区建立湿式实验室，探索生物研究和罕病新疗法。公司扩展业务至生物医学领域。",
-    "lang": "zh",
-    "source": "科技新報 TechNews",
-    "url": "https://technews.tw/2026/09/21/anthropic-builds-in-house-biology-lab-to-accelerate-ai-drug-program/",
-    "published": "2026-09-21T09:44:27+00:00"
-   },
-   {
-    "title": "npm惡意套件避開GitHub安裝指令碼防護，改於執行時期發動攻擊",
-    "summary": "恶意npm套件indexed-btree伪装热门库，已累计获数百万次下载。套件通过运行时执行代码而非安装脚本发动攻击。",
-    "lang": "zh",
-    "source": "iThome 台灣",
-    "url": "https://www.ithome.com.tw/news/179086",
-    "published": "2026-09-21T03:09:00+00:00"
+    "title": "MediaTek ya tiene lista su alternativa a los SoC Snapdragon para portátiles prémium: el chip Dimensity CX C10 Max",
+    "summary": "MediaTek presentó el chip Dimensity CX C10 Max como alternativa a Snapdragon para portátiles prémium. El procesador taiwanés busca abrirse paso en el mercado de dispositivos de gama alta.",
+    "lang": "es",
+    "source": "Xataka",
+    "url": "https://www.xataka.com/componentes/mediatek-dimensity-cx-c10-max-caracteristicas-ficha-tecnica",
+    "published": "2026-09-21T13:00:16+00:00",
+    "event_id": "0fc0f50b7a91",
+    "sources": [
+     {
+      "title": "MediaTek ya tiene lista su alternativa a los SoC Snapdragon para portátiles prémium: el chip Dimensity CX C10 Max",
+      "summary": "MediaTek presentó el chip Dimensity CX C10 Max como alternativa a Snapdragon para portátiles prémium. El procesador taiwanés busca abrirse paso en el mercado de dispositivos de gama alta.",
+      "lang": "es",
+      "source": "Xataka",
+      "url": "https://www.xataka.com/componentes/mediatek-dimensity-cx-c10-max-caracteristicas-ficha-tecnica",
+      "published": "2026-09-21T13:00:16+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
    },
    {
     "title": "中國智慧眼鏡銷量前 8 月翻倍！心電圖監測設備、運動相機同步成長",
-    "summary": "中国智能眼镜销量前8月翻倍增长，心电图监测设备和运动相机销量同步上升。消费电子产品市场保持强劲增长。",
+    "summary": "中国今年前8月智慧眼镜销量翻倍增长，同比增幅超100%。心电图监测设备和运动相机销售也同步增长。",
     "lang": "zh",
     "source": "科技新報 TechNews",
     "url": "https://technews.tw/2026/09/21/china-smart-glasses-sales/",
-    "published": "2026-09-21T12:02:39+00:00"
+    "published": "2026-09-21T12:02:39+00:00",
+    "event_id": "86bc1ea7f695",
+    "sources": [
+     {
+      "title": "中國智慧眼鏡銷量前 8 月翻倍！心電圖監測設備、運動相機同步成長",
+      "summary": "中国今年前8月智慧眼镜销量翻倍增长，同比增幅超100%。心电图监测设备和运动相机销售也同步增长。",
+      "lang": "zh",
+      "source": "科技新報 TechNews",
+      "url": "https://technews.tw/2026/09/21/china-smart-glasses-sales/",
+      "published": "2026-09-21T12:02:39+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "路透：中國監管機構對尋求上市人型機器人企業踩煞車",
+    "summary": "中国监管机构对申请上市的人型机器人企业施加审查。当局重点审视这些企业的高估值及与官方支持的关系。",
+    "lang": "zh",
+    "source": "科技新報 TechNews",
+    "url": "https://finance.technews.tw/2026/09/21/reuters-china-regulators-brakes-humanoid-robot-firms-seeking-ipo/",
+    "published": "2026-09-21T10:00:15+00:00",
+    "event_id": "9546c2811432",
+    "sources": [
+     {
+      "title": "路透：中國監管機構對尋求上市人型機器人企業踩煞車",
+      "summary": "中国监管机构对申请上市的人型机器人企业施加审查。当局重点审视这些企业的高估值及与官方支持的关系。",
+      "lang": "zh",
+      "source": "科技新報 TechNews",
+      "url": "https://finance.technews.tw/2026/09/21/reuters-china-regulators-brakes-humanoid-robot-firms-seeking-ipo/",
+      "published": "2026-09-21T10:00:15+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
    }
   ]
  }
