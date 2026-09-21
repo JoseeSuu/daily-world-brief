@@ -104,6 +104,16 @@ def test_quotes_allow_typography_but_reject_changed_facts():
     assert not events.contains_quote("German elections have ended", "German elections are underway")
 
 
+@pytest.mark.parametrize("singleton_first", [True, False])
+def test_redundant_singleton_does_not_lose_grouped_coverage(cells, singleton_first):
+    groups = [group(["c0", "c1"]), group(["c2"])]
+    groups.insert(0 if singleton_first else len(groups), group(["c1"]))
+    out = events.apply_groups(groups, events.current_items(cells), {}, None, summarize.summary_language_ok)
+    cards = out["economia|europa"]
+    assert len(cards) == 2
+    assert sum(len(s["sources"]) for s in cards) == 3
+
+
 def test_secondary_sources_marked_selected_and_present_in_rss(cells, monkeypatch, tmp_path):
     grouped = events.apply_groups([group(["c0", "c1"]), group(["c2"])],
                                   events.current_items(cells), {}, "2026-09-20", summarize.summary_language_ok)
@@ -121,7 +131,8 @@ def test_secondary_sources_marked_selected_and_present_in_rss(cells, monkeypatch
     assert items[0].findtext("guid").startswith("2026-09-21:")
 
 
-def test_pipeline_loads_yesterday_and_includes_grouping_cost(monkeypatch, tmp_path):
+@pytest.mark.parametrize("wrong_language", [False, True])
+def test_pipeline_loads_yesterday_and_includes_grouping_cost(monkeypatch, tmp_path, wrong_language):
     import anthropic
     import datetime as dt
     monkeypatch.setattr(summarize, "ROOT", tmp_path)
@@ -134,10 +145,11 @@ def test_pipeline_loads_yesterday_and_includes_grouping_cost(monkeypatch, tmp_pa
         if schema is summarize.SELECT_SCHEMA:
             result = {"cells": [{"continent": "europa", "item_ids": ["a"]}]}
         elif schema is summarize.SUMMARY_SCHEMA:
-            result = {"stories": [{"id": "a", "summary": "The fine has been confirmed."}]}
+            result = {"stories": [{"id": "a", "summary": "El gobierno ha confirmado la multa en la ciudad."
+                                   if wrong_language else "The fine has been confirmed."}]}
         else:
             assert schema is events.SCHEMA and '"id": "p0"' in prompt
-            result = {"groups": [group(["c0"], ["p0"], "unchanged", "The fine has been confirmed.")]}
+            result = {"groups": [group(["c0"], ["p0"], "unchanged", "Fine confirmed")]}
         return result, SimpleNamespace(input_tokens=120, output_tokens=10)
     monkeypatch.setattr(summarize, "call_json", call)
     item = {**story("https://a", "Fine confirmed"), "id": "a", "section": "economia",
@@ -146,5 +158,6 @@ def test_pipeline_loads_yesterday_and_includes_grouping_cost(monkeypatch, tmp_pa
     assert mode == "full" and meta["mode"] == "full"
     assert meta["compared_with"] == str(yesterday)
     assert cells["economia|europa"][0]["status"] == "unchanged"
+    assert bool(cells["economia|europa"][0]["summary"]) is not wrong_language
     assert cost == pytest.approx((360 * summarize.PRICE_IN + 30 * summarize.PRICE_OUT) / 1e6)
     assert meta["cost_usd"] == round((120 * summarize.PRICE_IN + 10 * summarize.PRICE_OUT) / 1e6, 4)

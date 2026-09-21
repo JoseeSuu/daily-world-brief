@@ -85,9 +85,12 @@ def contains_quote(quote, text):
 
 def apply_groups(groups, current, previous, previous_date, language_ok):
     out, used, event_ids = defaultdict(list), set(), set()
+    grouped_ids = {i for g in groups if len(g["item_ids"]) > 1 for i in g["item_ids"]}
     for group in groups:
         ids = group["item_ids"]
         primary_id = group["primary_id"]
+        if len(ids) == 1 and ids[0] in grouped_ids and primary_id == ids[0]:
+            continue  # Coverage already belongs to a multi-source event.
         if (not ids or len(ids) != len(set(ids)) or primary_id not in ids
                 or any(i not in current or i in used for i in ids)):
             raise ValueError("Invalid or overlapping event members")
