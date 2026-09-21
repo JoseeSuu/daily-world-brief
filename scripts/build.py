@@ -71,6 +71,16 @@ def build_rss(brief: dict, site_url: str) -> str:
             title = html.escape(it["title"])
             desc = html.escape(it["summary"] or it["title"])
             link = html.escape(it["url"])
+            guid = f'<guid isPermaLink="true">{link}</guid>'
+            if it.get("event_id"):
+                coverage = "<p>" + html.escape(it["summary"] or it["title"]) + "</p>"
+                if it.get("change_summary"):
+                    coverage += "<p>Qué cambió: " + html.escape(it["change_summary"]) + "</p>"
+                coverage += "<ul>" + "".join(
+                    f'<li><a href="{html.escape(s["url"], quote=True)}">{html.escape(s["title"])}</a> ({html.escape(s["source"])})</li>'
+                    for s in it["sources"]) + "</ul>"
+                desc = html.escape(coverage)
+                guid = f'<guid isPermaLink="false">{html.escape(brief["date"] + ":" + it["event_id"])}</guid>'
             pub = ""
             if it.get("published"):
                 try:
@@ -81,7 +91,7 @@ def build_rss(brief: dict, site_url: str) -> str:
             items_xml.append(
                 f"<item><title>{title}</title><link>{link}</link>"
                 f"<description>{desc} ({html.escape(it['source'])})</description>{pub}"
-                f"<guid isPermaLink=\"true\">{link}</guid></item>"
+                f"{guid}</item>"
             )
     now = email.utils.format_datetime(dt.datetime.now(dt.timezone.utc))
     return (

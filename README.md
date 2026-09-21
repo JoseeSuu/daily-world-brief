@@ -1,6 +1,6 @@
 # Daily World Brief
 
-Agregador de noticias diario, automático, gratuito y accesible desde el móvil.
+Agregador de noticias diario, automático y accesible desde el móvil.
 Cada día a las **05:30 UTC** genera una página estática en GitHub Pages con las
 noticias más importantes en una matriz de **3 secciones × 3 continentes**:
 
@@ -26,11 +26,12 @@ feed RSS propio y "dato del día" con indicadores de mercado.
 ```
 feeds.yaml ──► scripts/collect.py ──► work/collected.json
                                           │
-              API de Anthropic (claude-haiku-4-5, 4 llamadas):
+              API de Anthropic (claude-haiku-4-5, hasta 6 llamadas):
               · 3 de selección, una por sección (dedup + continente)
               · 1 de resumen, agrupada por idioma
                                           ▼
-                        dedup determinista por titular
+              · 1 de agrupación y comparación con ayer
+              · 1 opcional para Radar IA
                                           ▼
                                  data/YYYY-MM-DD.json
                                           │
@@ -39,17 +40,26 @@ feeds.yaml ──► scripts/collect.py ──► work/collected.json
               site/ (index.html + data/ + feed.xml + PWA) ──► GitHub Pages
 ```
 
-- **Coste**: ~0,025 $/día en tokens (Haiku, prompts compactos, solo titulares
-  + extractos como entrada). El coste real de cada día queda registrado en el
-  campo `cost_usd` del JSON.
+- **Coste estimado**: `cost_usd` registra el total calculado con los tokens y
+  precios configurados en el código; no es una factura. Incluye la agrupación
+  (`events.cost_usd`) y el Radar (`radar_cost_usd`).
 - **Selección por secciones**: con las 9 celdas en una sola llamada, Haiku
   dejaba pasar duplicados y confundía continentes (DeepMind en Asia, Colombia
   en Europa). Una llamada por sección lo corrige y cuesta lo mismo, porque cada
   noticia se envía una sola vez.
-- **Deduplicación en dos pasadas**: el modelo agrupa las versiones de una misma
-  noticia y elige la fuente más autorizada; después, `dedupe_cells()` compara
-  titulares por solapamiento de palabras (bigramas de caracteres en chino) y
-  elimina los repetidos que se le hayan escapado, incluso entre celdas distintas.
+- **Una tarjeta por acontecimiento**: tras seleccionar y resumir, una llamada
+  agrupa coberturas del mismo hecho entre secciones e idiomas. Conserva todas
+  las fuentes seleccionadas y sus enlaces originales en `sources`; el filtro
+  de idioma puede mostrar otra fuente de la misma tarjeta. Hechos distintos
+  sobre un mismo protagonista deben mantenerse separados.
+- **Qué cambió desde ayer**: compara los titulares y resúmenes con la edición
+  del día anterior. Distingue nuevo en el brief, con novedades, sin cambios
+  detectados y cambio sin confirmar. Valida citas literales de ambos días y
+  muestra el dato nuevo en su idioma original; coloca las tarjetas sin cambios al final de cada bloque
+  y enlaza la edición anterior. Si falta esa edición, no afirma una novedad.
+  No lee artículos completos y la comparación puede equivocarse. Si la
+  agrupación falla o pierde alguna fuente, publica las tarjetas originales
+  y muestra que la comparación no está disponible.
 - **Control de idioma**: los resúmenes se piden agrupados por idioma (un campo
   `lang` por línea no bastaba: el modelo mezclaba idiomas entre ítems vecinos) y
   después se validan; cualquier resumen sospechoso se registra en el log.
