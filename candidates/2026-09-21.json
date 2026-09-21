@@ -1,9 +1,9 @@
 {
  "date": "2026-09-21",
- "collected_at": "2026-09-21T12:40:30.517120+00:00",
- "total": 489,
+ "collected_at": "2026-09-21T13:15:49.413351+00:00",
+ "total": 492,
  "seen_by_model": 250,
- "selected": 36,
+ "selected": 40,
  "failed_sources": [],
  "items": [
   {
@@ -88,7 +88,7 @@
    "url": "https://www.ft.com/content/d29d769e-039c-4d11-9152-e63ccd397b32?syn-25a6b1a6=1",
    "published": "2026-09-21T04:11:57+00:00",
    "seen_by_model": true,
-   "selected": true
+   "selected": false
   },
   {
    "id": "6ed2d32b06",
@@ -136,6 +136,18 @@
    "url": "https://www.ft.com/content/f1d9d398-0666-44cf-96f4-390e6c3f5173?syn-25a6b1a6=1",
    "published": "2026-09-21T04:00:11+00:00",
    "seen_by_model": false,
+   "selected": false
+  },
+  {
+   "id": "d8ee59985c",
+   "source": "FT Global Economy",
+   "section": "economia",
+   "continent": "global",
+   "lang": "en",
+   "title": "Trump’s crusade against tariff cheats may tangle up trade in red tape",
+   "url": "https://www.ft.com/content/71016c06-d9bb-49ab-8584-6989d974d2f7?syn-25a6b1a6=1",
+   "published": "2026-09-21T11:31:00+00:00",
+   "seen_by_model": true,
    "selected": false
   },
   {
@@ -208,7 +220,7 @@
    "url": "https://www.ft.com/content/bfe6fc60-51b3-41f0-b6c9-32583735150e?syn-25a6b1a6=1",
    "published": "2026-09-20T11:58:50+00:00",
    "seen_by_model": true,
-   "selected": true
+   "selected": false
   },
   {
    "id": "8873b89b5f",
@@ -244,7 +256,7 @@
    "url": "https://www.bloomberg.com/news/articles/2026-09-21/eu-executive-challenged-over-fiscal-control-of-italy-and-france",
    "published": "2026-09-21T12:00:00+00:00",
    "seen_by_model": true,
-   "selected": false
+   "selected": true
   },
   {
    "id": "b67d5ea98c",
@@ -316,7 +328,7 @@
    "url": "https://www.bloomberg.com/news/articles/2026-09-21/ecb-launches-key-link-between-blockchain-and-euro-payment-system",
    "published": "2026-09-21T10:00:00+00:00",
    "seen_by_model": true,
-   "selected": true
+   "selected": false
   },
   {
    "id": "c5fa9d5846",
@@ -451,6 +463,90 @@
    "selected": false
   },
   {
+   "id": "0294a281cd",
+   "source": "Bloomberg Markets",
+   "section": "economia",
+   "continent": "global",
+   "lang": "en",
+   "title": "Trump y Venezuela: Acuerdo petrolero enfrenta campos deteriorados",
+   "url": "https://www.bloomberg.com/news/articles/2026-09-21/trump-y-venezuela-acuerdo-petrolero-enfrenta-campos-deteriorados",
+   "published": "2026-09-21T13:05:48+00:00",
+   "seen_by_model": true,
+   "selected": false
+  },
+  {
+   "id": "9079222a46",
+   "source": "Bloomberg Markets",
+   "section": "economia",
+   "continent": "global",
+   "lang": "en",
+   "title": "Latest Oil Market News and Analysis for Sept. 21",
+   "url": "https://www.bloomberg.com/news/articles/2026-09-20/latest-oil-market-news-and-analysis-for-sept-21",
+   "published": "2026-09-20T22:05:05+00:00",
+   "seen_by_model": true,
+   "selected": false
+  },
+  {
+   "id": "7966b41971",
+   "source": "Bloomberg Markets",
+   "section": "economia",
+   "continent": "global",
+   "lang": "en",
+   "title": "Saylor’s Strategy Makes First Purchase of Bitcoin Since August",
+   "url": "https://www.bloomberg.com/news/articles/2026-09-21/saylor-s-strategy-makes-first-purchase-of-bitcoin-since-august",
+   "published": "2026-09-21T12:56:06+00:00",
+   "seen_by_model": true,
+   "selected": false
+  },
+  {
+   "id": "d35af4cac0",
+   "source": "Bloomberg Markets",
+   "section": "economia",
+   "continent": "global",
+   "lang": "en",
+   "title": "AMC Is Overhauling Billions in Debt After Box Office Successes",
+   "url": "https://www.bloomberg.com/news/articles/2026-09-21/amc-is-overhauling-billions-in-debt-after-box-office-successes",
+   "published": "2026-09-21T12:44:51+00:00",
+   "seen_by_model": true,
+   "selected": false
+  },
+  {
+   "id": "d67dc56c85",
+   "source": "Bloomberg Markets",
+   "section": "economia",
+   "continent": "global",
+   "lang": "en",
+   "title": "Turkey to Consider Pooling Fund Assets to Repay Investors",
+   "url": "https://www.bloomberg.com/news/articles/2026-09-21/turkey-said-to-consider-pooling-fund-assets-to-repay-investors",
+   "published": "2026-09-21T11:47:51+00:00",
+   "seen_by_model": true,
+   "selected": false
+  },
+  {
+   "id": "6f0e4d198b",
+   "source": "Bloomberg Markets",
+   "section": "economia",
+   "continent": "global",
+   "lang": "en",
+   "title": "UBS AM’s Zhao Is Ready to Sell Yen If Japan Intervenes Again",
+   "url": "https://www.bloomberg.com/news/articles/2026-09-21/ubs-am-s-zhao-is-ready-to-sell-yen-if-japan-intervenes-again",
+   "published": "2026-09-21T12:42:48+00:00",
+   "seen_by_model": true,
+   "selected": false
+  },
+  {
+   "id": "a74e7b4d1a",
+   "source": "Bloomberg Markets",
+   "section": "economia",
+   "continent": "global",
+   "lang": "en",
+   "title": "Satellite Snapshot Points to Increase in Saudis’ Gulf Oil Flows",
+   "url": "https://www.bloomberg.com/news/articles/2026-09-21/satellite-snapshot-points-to-increase-in-saudis-gulf-oil-flows",
+   "published": "2026-09-21T12:42:20+00:00",
+   "seen_by_model": true,
+   "selected": false
+  },
+  {
    "id": "dada479a2e",
    "source": "Bloomberg Markets",
    "section": "economia",
@@ -472,7 +568,7 @@
    "url": "https://www.bloomberg.com/news/articles/2026-09-21/brazil-s-patria-sells-colombia-solar-park-to-isagen",
    "published": "2026-09-21T12:30:00+00:00",
    "seen_by_model": true,
-   "selected": false
+   "selected": true
   },
   {
    "id": "16cfb42100",
@@ -483,7 +579,7 @@
    "title": "Traders Can Handle a Hawkish Fed But Not Cracks in AI Bull Case",
    "url": "https://www.bloomberg.com/news/articles/2026-09-21/markets-can-handle-a-hawkish-fed-not-uncertainty-taking-stock",
    "published": "2026-09-21T06:16:02+00:00",
-   "seen_by_model": true,
+   "seen_by_model": false,
    "selected": false
   },
   {
@@ -495,7 +591,7 @@
    "title": "FX’s Biggest Market Takes Another Run at Ditching Phone Trading",
    "url": "https://www.bloomberg.com/news/articles/2026-09-21/fx-s-biggest-market-takes-another-run-at-ditching-phone-trading",
    "published": "2026-09-21T10:13:12+00:00",
-   "seen_by_model": true,
+   "seen_by_model": false,
    "selected": false
   },
   {
@@ -507,7 +603,7 @@
    "title": "US Stock Futures Climb Ahead of Trump-Xi Meeting as Oil Slips",
    "url": "https://www.bloomberg.com/news/articles/2026-09-21/us-stock-futures-climb-ahead-of-trump-xi-meeting-as-oil-slips",
    "published": "2026-09-21T12:14:29+00:00",
-   "seen_by_model": true,
+   "seen_by_model": false,
    "selected": false
   },
   {
@@ -519,7 +615,7 @@
    "title": "How a US Diesel Export Ban Can Impact Prices, Oil Market",
    "url": "https://www.bloomberg.com/news/videos/2026-09-21/how-a-us-diesel-export-ban-can-impact-prices-oil-market-video",
    "published": "2026-09-21T12:06:33+00:00",
-   "seen_by_model": true,
+   "seen_by_model": false,
    "selected": false
   },
   {
@@ -531,7 +627,7 @@
    "title": "Wheat, Corn Rise With China Talks and Black Sea Risks in Focus",
    "url": "https://www.bloomberg.com/news/articles/2026-09-21/wheat-jumps-after-positive-signals-from-initial-us-china-talks",
    "published": "2026-09-21T02:37:47+00:00",
-   "seen_by_model": true,
+   "seen_by_model": false,
    "selected": false
   },
   {
@@ -543,19 +639,7 @@
    "title": "Stocks Rise as US, China Hail Positive Talks Ahead of Trump-Xi Summit",
    "url": "https://www.bloomberg.com/news/videos/2026-09-21/bloomberg-brief-09-21-2026-video",
    "published": "2026-09-21T11:52:58+00:00",
-   "seen_by_model": true,
-   "selected": false
-  },
-  {
-   "id": "d67dc56c85",
-   "source": "Bloomberg Markets",
-   "section": "economia",
-   "continent": "global",
-   "lang": "en",
-   "title": "Turkey Said to Consider Pooling Fund Assets to Repay Investors",
-   "url": "https://www.bloomberg.com/news/articles/2026-09-21/turkey-said-to-consider-pooling-fund-assets-to-repay-investors",
-   "published": "2026-09-21T11:47:51+00:00",
-   "seen_by_model": true,
+   "seen_by_model": false,
    "selected": false
   },
   {
@@ -616,90 +700,6 @@
    "url": "https://www.bloomberg.com/news/videos/2026-09-21/oil-energy-common-denominator-to-market-risks-citi-video",
    "published": "2026-09-21T11:25:33+00:00",
    "seen_by_model": false,
-   "selected": false
-  },
-  {
-   "id": "8c77ccc3a5",
-   "source": "Bloomberg Markets",
-   "section": "economia",
-   "continent": "global",
-   "lang": "en",
-   "title": "Nuveen Plans Dollar Bonds, Debut in Sterling for Schroders Deal",
-   "url": "https://www.bloomberg.com/news/articles/2026-09-21/nuveen-plans-dollar-bonds-debut-in-sterling-for-schroders-deal",
-   "published": "2026-09-21T11:25:07+00:00",
-   "seen_by_model": false,
-   "selected": false
-  },
-  {
-   "id": "c0faa8ff2b",
-   "source": "Bloomberg Markets",
-   "section": "economia",
-   "continent": "global",
-   "lang": "en",
-   "title": "Wealth Effect Maintaining Growth: McCormick",
-   "url": "https://www.bloomberg.com/news/videos/2026-09-21/wealth-effect-maintaining-growth-mccormick-video",
-   "published": "2026-09-21T11:17:25+00:00",
-   "seen_by_model": false,
-   "selected": false
-  },
-  {
-   "id": "1956b7f7f8",
-   "source": "Bloomberg Markets",
-   "section": "economia",
-   "continent": "global",
-   "lang": "en",
-   "title": "Turkey Freezes Fund Executives’ Assets in Redemption Crisis",
-   "url": "https://www.bloomberg.com/news/articles/2026-09-21/turkey-freezes-assets-of-fund-executives-in-redemption-crisis",
-   "published": "2026-09-21T07:13:20+00:00",
-   "seen_by_model": false,
-   "selected": false
-  },
-  {
-   "id": "cb21de152e",
-   "source": "Bloomberg Markets",
-   "section": "economia",
-   "continent": "global",
-   "lang": "en",
-   "title": "Foreign Cash Pours In as Chile Fiscal Stance Reassures Investors",
-   "url": "https://www.bloomberg.com/news/articles/2026-09-21/foreign-cash-pours-in-as-chile-fiscal-stance-reassures-investors",
-   "published": "2026-09-21T11:00:00+00:00",
-   "seen_by_model": false,
-   "selected": false
-  },
-  {
-   "id": "1624560202",
-   "source": "Bloomberg Markets",
-   "section": "economia",
-   "continent": "global",
-   "lang": "en",
-   "title": "Dimon Heads to India as Wall Street Steps Up Fight for Deal Boom",
-   "url": "https://www.bloomberg.com/news/articles/2026-09-21/dimon-heads-to-india-as-wall-street-steps-up-fight-for-deal-boom",
-   "published": "2026-09-21T08:29:20+00:00",
-   "seen_by_model": false,
-   "selected": false
-  },
-  {
-   "id": "d9a8dfe179",
-   "source": "Bloomberg Markets",
-   "section": "economia",
-   "continent": "global",
-   "lang": "en",
-   "title": "Dubai, Abu Dhabi Property Firms Eye $12 Billion Maldives Project",
-   "url": "https://www.bloomberg.com/news/articles/2026-09-21/dubai-abu-dhabi-property-firms-eye-12-billion-maldives-project",
-   "published": "2026-09-21T06:51:07+00:00",
-   "seen_by_model": false,
-   "selected": false
-  },
-  {
-   "id": "48288e1c20",
-   "source": "The Economist (Finance)",
-   "section": "economia",
-   "continent": "global",
-   "lang": "en",
-   "title": "House prices survived the last interest-rate rise. Will they this time?",
-   "url": "https://www.economist.com/finance-and-economics/2026/09/20/house-prices-survived-the-last-interest-rate-rise-will-they-this-time",
-   "published": "2026-09-20T09:05:41+00:00",
-   "seen_by_model": true,
    "selected": false
   },
   {
@@ -835,6 +835,18 @@
    "selected": false
   },
   {
+   "id": "5325c61f2d",
+   "source": "Nikkei Asia",
+   "section": "economia",
+   "continent": "asia",
+   "lang": "en",
+   "title": "Swipe east: Tinder operator steps up expansion in Japan, CEO says",
+   "url": "https://asia.nikkei.com/business/technology/swipe-east-tinder-operator-steps-up-expansion-in-japan-ceo-says",
+   "published": null,
+   "seen_by_model": true,
+   "selected": false
+  },
+  {
    "id": "99471f6945",
    "source": "Nikkei Asia",
    "section": "economia",
@@ -856,7 +868,7 @@
    "url": "https://asia.nikkei.com/politics/international-relations/japan-china-tensions/japan-china-ties-wither-as-trump-readies-red-carpet-for-xi-jinping",
    "published": null,
    "seen_by_model": true,
-   "selected": false
+   "selected": true
   },
   {
    "id": "eb5d10605b",
@@ -939,7 +951,7 @@
    "title": "China's Unitree Robotics stock falls by half in month after listing",
    "url": "https://asia.nikkei.com/business/markets/equities/china-s-unitree-robotics-stock-falls-by-half-in-month-after-listing",
    "published": null,
-   "seen_by_model": true,
+   "seen_by_model": false,
    "selected": false
   },
   {
@@ -1123,18 +1135,6 @@
    "selected": false
   },
   {
-   "id": "d2799d9306",
-   "source": "Nikkei Asia",
-   "section": "economia",
-   "continent": "asia",
-   "lang": "en",
-   "title": "A cornered Putin might recklessly provoke NATO",
-   "url": "https://asia.nikkei.com/spotlight/comment/a-cornered-putin-might-recklessly-provoke-nato",
-   "published": null,
-   "seen_by_model": false,
-   "selected": false
-  },
-  {
    "id": "1517bc7279",
    "source": "BCE (notas de prensa)",
    "section": "economia",
@@ -1243,6 +1243,30 @@
    "selected": false
   },
   {
+   "id": "3299a462db",
+   "source": "經濟日報 台灣",
+   "section": "economia",
+   "continent": "asia",
+   "lang": "zh",
+   "title": "威剛董事長陳立白 獲亞太傑出企業獎「卓越企業領袖獎」",
+   "url": "https://money.udn.com/money/story/5612/9768989",
+   "published": "2026-09-21T12:48:21+00:00",
+   "seen_by_model": true,
+   "selected": false
+  },
+  {
+   "id": "9739f06c04",
+   "source": "經濟日報 台灣",
+   "section": "economia",
+   "continent": "asia",
+   "lang": "zh",
+   "title": "輸歐鋼鐵配額遭疑黑箱 經部：均徵詢業者意見決定",
+   "url": "https://money.udn.com/money/story/5612/9768977",
+   "published": "2026-09-21T12:38:18+00:00",
+   "seen_by_model": true,
+   "selected": false
+  },
+  {
    "id": "25cf0b4b76",
    "source": "經濟日報 台灣",
    "section": "economia",
@@ -1335,7 +1359,7 @@
    "title": "高端疫苗跨足越南市場 賽諾菲與超肽開拓生醫創新應用",
    "url": "https://money.udn.com/money/story/5612/9768846",
    "published": "2026-09-21T11:30:30+00:00",
-   "seen_by_model": true,
+   "seen_by_model": false,
    "selected": false
   },
   {
@@ -1347,7 +1371,7 @@
    "title": "遠雄交屋潮啟動 決議上半年配息1元",
    "url": "https://money.udn.com/money/story/5612/9768803",
    "published": "2026-09-21T11:10:39+00:00",
-   "seen_by_model": true,
+   "seen_by_model": false,
    "selected": false
   },
   {
@@ -1459,30 +1483,6 @@
    "selected": false
   },
   {
-   "id": "f5db0f9092",
-   "source": "經濟日報 台灣",
-   "section": "economia",
-   "continent": "asia",
-   "lang": "zh",
-   "title": "豐興開新盤 鋼筋漲每噸200元",
-   "url": "https://money.udn.com/money/story/5612/9768619",
-   "published": "2026-09-21T09:37:12+00:00",
-   "seen_by_model": false,
-   "selected": false
-  },
-  {
-   "id": "365d6d9285",
-   "source": "經濟日報 台灣",
-   "section": "economia",
-   "continent": "asia",
-   "lang": "zh",
-   "title": "汽車業關注美製車零關稅政策 估明年台灣車市小幅成長",
-   "url": "https://money.udn.com/money/story/5612/9768593",
-   "published": "2026-09-21T09:31:25+00:00",
-   "seen_by_model": false,
-   "selected": false
-  },
-  {
    "id": "c346ef593f",
    "source": "BBC World",
    "section": "politica",
@@ -1543,14 +1543,14 @@
    "selected": false
   },
   {
-   "id": "9fa6589b34",
+   "id": "6ced8f992f",
    "source": "BBC World",
    "section": "politica",
    "continent": "global",
    "lang": "en",
-   "title": "British Museum bans visitors from photographing Bayeux Tapestry",
-   "url": "https://www.bbc.co.uk/news/articles/cmd79p4z98lzo?at_medium=RSS&at_campaign=rss",
-   "published": "2026-09-21T12:21:40+00:00",
+   "title": "Xhaka under investigation over Covid-19 certificate",
+   "url": "https://www.bbc.co.uk/sport/football/articles/c3qjkpgengn7o?at_medium=RSS&at_campaign=rss",
+   "published": "2026-09-21T12:21:52+00:00",
    "seen_by_model": true,
    "selected": false
   },
@@ -1924,7 +1924,7 @@
    "url": "https://cn.nytimes.com/world/20260921/us-china-ai-warning-system-national-security/?utm_source=RSS",
    "published": "2026-09-21T01:54:52+00:00",
    "seen_by_model": true,
-   "selected": false
+   "selected": true
   },
   {
    "id": "f347e6d9b5",
@@ -2450,7 +2450,19 @@
    "lang": "en",
    "title": "Germany’s Merz ‘grateful’ centre-left SPD wants to stay in coalition after CDU’s heavy losses – Europe live",
    "url": "https://www.theguardian.com/world/live/2026/sep/21/merz-german-chancellor-state-elections-russia-ukraine-europe-live-latest-news",
-   "published": "2026-09-21T12:13:58+00:00",
+   "published": "2026-09-21T12:50:03+00:00",
+   "seen_by_model": false,
+   "selected": false
+  },
+  {
+   "id": "de21b6709e",
+   "source": "The Guardian World",
+   "section": "politica",
+   "continent": "global",
+   "lang": "en",
+   "title": "German chancellor meets CDU leaders to shore up support after more defeats",
+   "url": "https://www.theguardian.com/world/2026/sep/21/germany-chancellor-freidrich-merz-cdu-christian-democratic-union-state-election-defeats-mecklenburg-western-pomerania-berlin",
+   "published": "2026-09-21T12:44:59+00:00",
    "seen_by_model": false,
    "selected": false
   },
@@ -2491,18 +2503,6 @@
    "selected": false
   },
   {
-   "id": "6b7c864acd",
-   "source": "The Guardian World",
-   "section": "politica",
-   "continent": "global",
-   "lang": "en",
-   "title": "‘It’s unrecognisable’: How being a tax haven has changed Jersey",
-   "url": "https://www.theguardian.com/uk-news/2026/sep/21/its-unrecognisable-how-being-a-tax-haven-has-changed-jersey",
-   "published": "2026-09-21T04:00:35+00:00",
-   "seen_by_model": false,
-   "selected": false
-  },
-  {
    "id": "5b74440e4c",
    "source": "The Guardian World",
    "section": "politica",
@@ -2522,7 +2522,7 @@
    "lang": "en",
    "title": "Farage names new leader for Reform UK in Wales after predecessor arrested – UK politics live",
    "url": "https://www.theguardian.com/politics/live/2026/sep/21/ed-davey-liberal-democrats-party-conference-brighton-labour-conservatives-andy-burnham-kemi-badenoch-nigel-farage-reform-uk-politics-latest-news",
-   "published": "2026-09-21T12:24:52+00:00",
+   "published": "2026-09-21T13:09:15+00:00",
    "seen_by_model": false,
    "selected": false
   },
@@ -2544,7 +2544,7 @@
    "section": "politica",
    "continent": "global",
    "lang": "en",
-   "title": "Infected blood victims and their relatives are left struggling to claim compensation",
+   "title": "‘I have to keep reliving it’: infected blood claimants being asked to prove eligibility",
    "url": "https://www.theguardian.com/uk-news/2026/sep/21/infected-blood-victims-and-relatives-struggle-to-claim-compensation",
    "published": "2026-09-21T11:48:35+00:00",
    "seen_by_model": false,
@@ -2582,7 +2582,7 @@
    "lang": "en",
    "title": "Trump denies ‘assault’ on free press as three outlets plan to sue over White House ban – live",
    "url": "https://www.theguardian.com/us-news/live/2026/sep/21/donald-trump-arch-media-white-house-press-ban-mamdani-ai-unga-latest-news-updates",
-   "published": "2026-09-21T12:23:41+00:00",
+   "published": "2026-09-21T12:57:43+00:00",
    "seen_by_model": false,
    "selected": false
   },
@@ -2832,7 +2832,7 @@
    "section": "politica",
    "continent": "europa",
    "lang": "en",
-   "title": "Far-right AfD's rise in Germany's regional elections worries EU",
+   "title": "Far-right AfD's rise in German regional elections worries EU",
    "url": "https://www.lemonde.fr/en/international/article/2026/09/21/far-right-afd-s-rise-in-germany-s-regional-elections-worries-eu_6757760_4.html",
    "published": "2026-09-21T09:05:20+00:00",
    "seen_by_model": true,
@@ -3031,6 +3031,18 @@
    "selected": false
   },
   {
+   "id": "3dafd7f454",
+   "source": "Deutsche Welle World",
+   "section": "politica",
+   "continent": "europa",
+   "lang": "en",
+   "title": "India's road rage: When cars become weapons",
+   "url": "https://www.dw.com/en/india-s-road-rage-when-cars-become-weapons/a-79355073?maca=en-rss-en-world-4025-rdf",
+   "published": "2026-09-21T12:47:00+00:00",
+   "seen_by_model": true,
+   "selected": false
+  },
+  {
    "id": "127310cb47",
    "source": "Deutsche Welle World",
    "section": "politica",
@@ -3064,7 +3076,7 @@
    "url": "https://www.npr.org/2026/09/21/g-s1-144238/up-first-newsletter-united-nations-general-assembly-trump-arch-faa-ai-federal-agent-shooting",
    "published": "2026-09-21T11:24:27+00:00",
    "seen_by_model": true,
-   "selected": true
+   "selected": false
   },
   {
    "id": "761a8fca28",
@@ -3148,7 +3160,7 @@
    "url": "https://www.npr.org/2026/09/20/nx-s1-5973116/defining-global-leadership-in-ai-at-trump-xi-summit",
    "published": "2026-09-20T21:15:56+00:00",
    "seen_by_model": true,
-   "selected": false
+   "selected": true
   },
   {
    "id": "e15c2775fe",
@@ -3160,7 +3172,7 @@
    "url": "https://www.npr.org/2026/09/20/g-s1-144211/germanys-merz-vows-to-press-ahead-with-reforms-after-historic-state-election-defeat",
    "published": "2026-09-20T17:29:29+00:00",
    "seen_by_model": true,
-   "selected": true
+   "selected": false
   },
   {
    "id": "08e15447ac",
@@ -3475,6 +3487,30 @@
    "selected": false
   },
   {
+   "id": "21213d04b5",
+   "source": "Channel NewsAsia",
+   "section": "politica",
+   "continent": "asia",
+   "lang": "en",
+   "title": "Pakistan says it killed 28 militants, Taliban reports three civilian deaths",
+   "url": "https://www.channelnewsasia.com/asia/pakistan-says-it-killed-28-militants-taliban-reports-three-civilian-deaths-6399366",
+   "published": "2026-09-21T13:08:00+00:00",
+   "seen_by_model": true,
+   "selected": false
+  },
+  {
+   "id": "321995dcee",
+   "source": "Channel NewsAsia",
+   "section": "politica",
+   "continent": "asia",
+   "lang": "en",
+   "title": "Putin's party secures record score in Russia election",
+   "url": "https://www.channelnewsasia.com/world/putins-party-secures-record-score-in-russia-election-6399171",
+   "published": "2026-09-21T12:41:02+00:00",
+   "seen_by_model": true,
+   "selected": false
+  },
+  {
    "id": "554c02bfa2",
    "source": "Channel NewsAsia",
    "section": "politica",
@@ -3482,7 +3518,19 @@
    "lang": "en",
    "title": "South Africa makes arrests over one of nine women found murdered",
    "url": "https://www.channelnewsasia.com/world/south-africa-johannesburg-serial-murders-women-arrests-6399746",
-   "published": "2026-09-21T12:37:18+00:00",
+   "published": "2026-09-21T12:37:00+00:00",
+   "seen_by_model": true,
+   "selected": false
+  },
+  {
+   "id": "6a0fb6f0a8",
+   "source": "Channel NewsAsia",
+   "section": "politica",
+   "continent": "asia",
+   "lang": "en",
+   "title": "Priority Technology to go private in $1.6 billion CEO-led deal",
+   "url": "https://www.channelnewsasia.com/business/priority-technology-go-private-in-16-billion-ceo-led-deal-6399766",
+   "published": "2026-09-21T12:36:27+00:00",
    "seen_by_model": true,
    "selected": false
   },
@@ -3555,7 +3603,7 @@
    "title": "Italy's Daniel Maldini cleared of drug use after Milan car crash",
    "url": "https://www.channelnewsasia.com/sport/italys-daniel-maldini-cleared-drug-use-after-milan-car-crash-6399606",
    "published": "2026-09-21T11:12:16+00:00",
-   "seen_by_model": true,
+   "seen_by_model": false,
    "selected": false
   },
   {
@@ -3567,7 +3615,7 @@
    "title": "Malaysian PM Anwar says he flagged concerns over Najib’s pardon to king",
    "url": "https://www.channelnewsasia.com/asia/malaysia-anwar-ibrahim-najib-razak-conditional-pardon-public-international-perceptions-6399336",
    "published": "2026-09-21T10:45:00+00:00",
-   "seen_by_model": true,
+   "seen_by_model": false,
    "selected": false
   },
   {
@@ -3579,7 +3627,7 @@
    "title": "Bangladesh raises fuel prices as Middle East conflict drives up costs",
    "url": "https://www.channelnewsasia.com/business/bangladesh-raises-fuel-prices-middle-east-conflict-drives-up-costs-6399501",
    "published": "2026-09-21T10:22:19+00:00",
-   "seen_by_model": true,
+   "seen_by_model": false,
    "selected": false
   },
   {
@@ -3679,39 +3727,15 @@
    "selected": false
   },
   {
-   "id": "9c0fb39405",
-   "source": "Channel NewsAsia",
+   "id": "08c360911b",
+   "source": "South China Morning Post (China)",
    "section": "politica",
    "continent": "asia",
    "lang": "en",
-   "title": "Irish privacy regulator fines Google €403 million over location data processing",
-   "url": "https://www.channelnewsasia.com/business/irish-privacy-regulator-fines-google-eu403-million-over-location-data-processing-6399301",
-   "published": "2026-09-21T09:22:19+00:00",
-   "seen_by_model": false,
-   "selected": false
-  },
-  {
-   "id": "291fbcbf0c",
-   "source": "Channel NewsAsia",
-   "section": "politica",
-   "continent": "asia",
-   "lang": "en",
-   "title": "Germany coach Klopp earns praise for split squad idea",
-   "url": "https://www.channelnewsasia.com/sport/germany-coach-klopp-earns-praise-split-squad-idea-6399306",
-   "published": "2026-09-21T09:21:41+00:00",
-   "seen_by_model": false,
-   "selected": false
-  },
-  {
-   "id": "c821e5fc6c",
-   "source": "Channel NewsAsia",
-   "section": "politica",
-   "continent": "asia",
-   "lang": "en",
-   "title": "Australia says it protects tech, after report F-35 fighter parts diverted",
-   "url": "https://www.channelnewsasia.com/world/australia-says-it-protects-tech-after-report-f-35-fighter-parts-diverted-6399291",
-   "published": "2026-09-21T09:12:56+00:00",
-   "seen_by_model": false,
+   "title": "Former top PLA generals expelled from Communist Party for factionalism and disloyalty",
+   "url": "https://www.scmp.com/news/china/politics/article/3368287/former-top-pla-generals-expelled-communist-party-factionalism-and-disloyalty?utm_source=rss_feed",
+   "published": "2026-09-21T13:10:07+00:00",
+   "seen_by_model": true,
    "selected": false
   },
   {
@@ -3724,7 +3748,7 @@
    "url": "https://www.scmp.com/opinion/china-opinion/article/3368013/success-trump-xi-summit-lies-what-happens-afterwards?utm_source=rss_feed",
    "published": "2026-09-21T12:30:05+00:00",
    "seen_by_model": true,
-   "selected": false
+   "selected": true
   },
   {
    "id": "57b7dfbe06",
@@ -3736,7 +3760,7 @@
    "url": "https://www.scmp.com/news/china/politics/article/3368265/nearly-half-taiwanese-lack-confidence-us-defence-commitments-survey-finds?utm_source=rss_feed",
    "published": "2026-09-21T12:00:08+00:00",
    "seen_by_model": true,
-   "selected": true
+   "selected": false
   },
   {
    "id": "f559ead82c",
@@ -3784,7 +3808,7 @@
    "url": "https://www.scmp.com/plus/news/china/diplomacy/article/3368245/us-china-agree-ai-dialogue-ahead-trump-xi-summit?utm_source=rss_feed",
    "published": "2026-09-21T09:01:49+00:00",
    "seen_by_model": true,
-   "selected": false
+   "selected": true
   },
   {
    "id": "4952ec373d",
@@ -3808,7 +3832,7 @@
    "url": "https://www.scmp.com/news/china/diplomacy/article/3368223/chinese-president-xi-jinping-will-pay-state-visit-us-week-beijing-confirms?utm_source=rss_feed",
    "published": "2026-09-21T07:06:43+00:00",
    "seen_by_model": true,
-   "selected": true
+   "selected": false
   },
   {
    "id": "36902cad00",
@@ -3819,7 +3843,7 @@
    "title": "Why China is weighing into the debate on how to respond to shrinking coastlines",
    "url": "https://www.scmp.com/news/china/diplomacy/article/3368220/why-china-weighing-debate-how-respond-shrinking-coastlines?utm_source=rss_feed",
    "published": "2026-09-21T06:35:12+00:00",
-   "seen_by_model": true,
+   "seen_by_model": false,
    "selected": false
   },
   {
@@ -3943,6 +3967,54 @@
    "selected": false
   },
   {
+   "id": "cc2f28f6cf",
+   "source": "South China Morning Post (Asia)",
+   "section": "politica",
+   "continent": "asia",
+   "lang": "en",
+   "title": "Foreign chambers back Hong Kong 5-year plan, urge progress on Northern Metropolis",
+   "url": "https://www.scmp.com/news/hong-kong/hong-kong-economy/article/3368284/foreign-chambers-back-hong-kong-5-year-plan-urge-progress-northern-metropolis?utm_source=rss_feed",
+   "published": "2026-09-21T13:05:09+00:00",
+   "seen_by_model": true,
+   "selected": false
+  },
+  {
+   "id": "e15845ed1f",
+   "source": "South China Morning Post (Asia)",
+   "section": "politica",
+   "continent": "asia",
+   "lang": "en",
+   "title": "Subsidised physiotherapy places slashed by third amid graduate job crunch",
+   "url": "https://www.scmp.com/news/hong-kong/education/article/3368286/subsidised-physiotherapy-places-slashed-third-amid-graduate-job-crunch?utm_source=rss_feed",
+   "published": "2026-09-21T13:05:04+00:00",
+   "seen_by_model": true,
+   "selected": false
+  },
+  {
+   "id": "ddcec91b8d",
+   "source": "South China Morning Post (Asia)",
+   "section": "politica",
+   "continent": "asia",
+   "lang": "en",
+   "title": "As AI safety fears mount, can a US-China hotline prevent a global crisis?",
+   "url": "https://www.scmp.com/tech/tech-war/article/3368281/ai-safety-fears-mount-can-us-china-hotline-prevent-global-crisis?utm_source=rss_feed",
+   "published": "2026-09-21T13:00:08+00:00",
+   "seen_by_model": true,
+   "selected": false
+  },
+  {
+   "id": "6e76bd2c95",
+   "source": "South China Morning Post (Asia)",
+   "section": "politica",
+   "continent": "asia",
+   "lang": "en",
+   "title": "South Korea gets a new internet star as Busan shark sighting goes viral",
+   "url": "https://www.scmp.com/week-asia/lifestyle-culture/article/3368283/south-korea-gets-new-internet-star-busan-shark-sighting-goes-viral?utm_source=rss_feed",
+   "published": "2026-09-21T12:53:18+00:00",
+   "seen_by_model": true,
+   "selected": false
+  },
+  {
    "id": "f3de79fe32",
    "source": "South China Morning Post (Asia)",
    "section": "politica",
@@ -3999,7 +4071,7 @@
    "title": "Over 1.6 million in Japan urged to evacuate as Typhoon Dujuan nears Tokyo",
    "url": "https://www.scmp.com/news/asia/east-asia/article/3368271/over-16-million-japan-urged-evacuate-typhoon-dujuan-nears-tokyo?utm_source=rss_feed",
    "published": "2026-09-21T10:44:38+00:00",
-   "seen_by_model": true,
+   "seen_by_model": false,
    "selected": false
   },
   {
@@ -4011,7 +4083,7 @@
    "title": "Hong Kong woman, 80, loses HK$6 million to fake online investment expert",
    "url": "https://www.scmp.com/news/hong-kong/law-and-crime/article/3368267/hong-kong-woman-80-loses-hk6-million-fake-online-investment-expert?utm_source=rss_feed",
    "published": "2026-09-21T10:33:54+00:00",
-   "seen_by_model": true,
+   "seen_by_model": false,
    "selected": false
   },
   {
@@ -4023,7 +4095,7 @@
    "title": "South Korea beats foreign student target, but struggles to keep them",
    "url": "https://www.scmp.com/week-asia/lifestyle-culture/article/3368268/south-korea-beats-foreign-student-target-struggles-keep-them?utm_source=rss_feed",
    "published": "2026-09-21T10:30:36+00:00",
-   "seen_by_model": true,
+   "seen_by_model": false,
    "selected": false
   },
   {
@@ -4035,7 +4107,7 @@
    "title": "Chinese woman, 65, plays dual roles of beautiful doctor and mum to con man out of US$25,000",
    "url": "https://www.scmp.com/news/people-culture/trending-china/article/3368264/chinese-woman-65-plays-dual-roles-beautiful-doctor-and-mum-con-man-out-us25000?utm_source=rss_feed",
    "published": "2026-09-21T10:16:27+00:00",
-   "seen_by_model": true,
+   "seen_by_model": false,
    "selected": false
   },
   {
@@ -4047,7 +4119,7 @@
    "title": "Expect ‘high tide’ of Chinese biotech deals as threat of US curbs fades: analysts",
    "url": "https://www.scmp.com/business/china-business/article/3368249/expect-high-tide-chinese-biotech-deals-threat-us-curbs-fades-analysts?utm_source=rss_feed",
    "published": "2026-09-21T10:00:10+00:00",
-   "seen_by_model": true,
+   "seen_by_model": false,
    "selected": false
   },
   {
@@ -4111,51 +4183,27 @@
    "selected": false
   },
   {
-   "id": "c61cbc1501",
-   "source": "South China Morning Post (Asia)",
+   "id": "51a25651a2",
+   "source": "Al Jazeera English",
    "section": "politica",
-   "continent": "asia",
+   "continent": "global",
    "lang": "en",
-   "title": "Top official to determine responsible department in complex 1823 cases",
-   "url": "https://www.scmp.com/news/hong-kong/politics/article/3368239/no-more-not-our-job-top-official-pick-lead-department-complex-1823-cases?utm_source=rss_feed",
-   "published": "2026-09-21T08:40:01+00:00",
-   "seen_by_model": false,
+   "title": "Israeli attacks on Gaza kill three, including a child",
+   "url": "https://www.aljazeera.com/news/2026/9/21/israeli-attacks-on-gaza-kill-three-including-a-child?traffic_source=rss",
+   "published": "2026-09-21T12:32:43+00:00",
+   "seen_by_model": true,
    "selected": false
   },
   {
-   "id": "6c4dd9d752",
-   "source": "South China Morning Post (Asia)",
+   "id": "b7350eb4a8",
+   "source": "Al Jazeera English",
    "section": "politica",
-   "continent": "asia",
+   "continent": "global",
    "lang": "en",
-   "title": "Cargo ship slams into Chinese fishing boat in Singapore Strait",
-   "url": "https://www.scmp.com/week-asia/health-environment/article/3368229/cargo-ship-slams-chinese-fishing-boat-singapore-strait?utm_source=rss_feed",
-   "published": "2026-09-21T08:19:09+00:00",
-   "seen_by_model": false,
-   "selected": false
-  },
-  {
-   "id": "1e93243868",
-   "source": "South China Morning Post (Asia)",
-   "section": "politica",
-   "continent": "asia",
-   "lang": "en",
-   "title": "Cathay calls on Hong Kong to map out long-term sustainable fuel plan beyond 2030",
-   "url": "https://www.scmp.com/news/hong-kong/hong-kong-economy/article/3368234/cathay-calls-hong-kong-map-out-long-term-sustainable-fuel-plan-beyond-2030?utm_source=rss_feed",
-   "published": "2026-09-21T08:14:11+00:00",
-   "seen_by_model": false,
-   "selected": false
-  },
-  {
-   "id": "2db5fc83de",
-   "source": "South China Morning Post (Asia)",
-   "section": "politica",
-   "continent": "asia",
-   "lang": "en",
-   "title": "China boosts crude oil, LNG imports from Canada as Ottawa-Washington relations sour",
-   "url": "https://www.scmp.com/economy/global-economy/article/3368210/china-boosts-crude-oil-lng-imports-canada-ottawa-washington-relations-sour?utm_source=rss_feed",
-   "published": "2026-09-21T08:00:08+00:00",
-   "seen_by_model": false,
+   "title": "Israeli forces arrest dozens of Palestinians in occupied West Bank raid",
+   "url": "https://www.aljazeera.com/news/2026/9/21/israeli-forces-arrest-dozens-of-palestinians-in-occupied-west-bank-raid?traffic_source=rss",
+   "published": "2026-09-21T12:31:10+00:00",
+   "seen_by_model": true,
    "selected": false
   },
   {
@@ -4239,7 +4287,7 @@
    "title": "Do Israelis feel any safer now than they did on October 6, 2023?",
    "url": "https://www.aljazeera.com/news/2026/9/21/do-israelis-feel-any-safer-now-than-they-did-on-october-6-2023?traffic_source=rss",
    "published": "2026-09-21T09:54:05+00:00",
-   "seen_by_model": true,
+   "seen_by_model": false,
    "selected": false
   },
   {
@@ -4251,7 +4299,7 @@
    "title": "Can the US win the AI cold war with China?",
    "url": "https://www.aljazeera.com/opinions/2026/9/21/can-the-us-win-the-ai-cold-war-with-china?traffic_source=rss",
    "published": "2026-09-21T09:50:16+00:00",
-   "seen_by_model": true,
+   "seen_by_model": false,
    "selected": false
   },
   {
@@ -4435,28 +4483,16 @@
    "selected": false
   },
   {
-   "id": "3a86b0a29e",
-   "source": "Al Jazeera English",
-   "section": "politica",
-   "continent": "global",
+   "id": "cc15858c0c",
+   "source": "MIT Technology Review",
+   "section": "tecnologia",
+   "continent": "america",
    "lang": "en",
-   "title": "Trump administration readies sweeping sanctions against ICC, reports say",
-   "url": "https://www.aljazeera.com/news/2026/9/21/trump-administration-readies-sweeping-sanctions-against-icc-reports-say?traffic_source=rss",
-   "published": "2026-09-21T01:19:42+00:00",
-   "seen_by_model": false,
-   "selected": false
-  },
-  {
-   "id": "138d04930c",
-   "source": "Al Jazeera English",
-   "section": "politica",
-   "continent": "global",
-   "lang": "en",
-   "title": "The Sahel and the UN: a smaller footprint, a different role",
-   "url": "https://www.aljazeera.com/news/2026/9/21/the-sahel-and-the-un-a-smaller-footprint-a-different-role?traffic_source=rss",
-   "published": "2026-09-21T00:53:15+00:00",
-   "seen_by_model": false,
-   "selected": false
+   "title": "The Download: investigating deaths at the US border’s “virtual wall”",
+   "url": "https://www.technologyreview.com/2026/09/21/1144834/the-download-investigating-deaths-at-the-us-borders-virtual-wall/",
+   "published": "2026-09-21T12:20:00+00:00",
+   "seen_by_model": true,
+   "selected": true
   },
   {
    "id": "f8c4e8d06d",
@@ -4516,7 +4552,7 @@
    "url": "https://arstechnica.com/security/2026/09/an-undercover-google-analyst-infiltrated-a-notorious-supply-chain-hacking-gang/",
    "published": "2026-09-20T11:07:00+00:00",
    "seen_by_model": true,
-   "selected": false
+   "selected": true
   },
   {
    "id": "6449f8efc3",
@@ -4531,14 +4567,74 @@
    "selected": false
   },
   {
-   "id": "130f9eb678",
-   "source": "Ars Technica",
+   "id": "433544038d",
+   "source": "The Verge",
    "section": "tecnologia",
    "continent": "america",
    "lang": "en",
-   "title": "T. rex teeth indicate it ran as warm as an elephant",
-   "url": "https://arstechnica.com/science/2026/09/t-rex-teeth-indicate-it-ran-as-warm-as-an-elephant/",
-   "published": "2026-09-20T09:00:11+00:00",
+   "title": "These are the first five Googlebook laptops",
+   "url": "https://www.theverge.com/gadgets/997659/googlebooks-breakdown-acer-asus-hp-lenovo-dell",
+   "published": "2026-09-21T13:01:00+00:00",
+   "seen_by_model": true,
+   "selected": false
+  },
+  {
+   "id": "2e626434a6",
+   "source": "The Verge",
+   "section": "tecnologia",
+   "continent": "america",
+   "lang": "en",
+   "title": "The long dream of the Googlebook",
+   "url": "https://www.theverge.com/tech/997972/googlebook-laptop-chromeos-android-history",
+   "published": "2026-09-21T13:00:00+00:00",
+   "seen_by_model": true,
+   "selected": false
+  },
+  {
+   "id": "cc6438358e",
+   "source": "The Verge",
+   "section": "tecnologia",
+   "continent": "america",
+   "lang": "en",
+   "title": "I got to see Google’s wild ideas about the future of laptops",
+   "url": "https://www.theverge.com/tech/997986/google-googlebooks-android-laptops-dell-hp-lenovo-acer-asus-price-specs",
+   "published": "2026-09-21T13:00:00+00:00",
+   "seen_by_model": true,
+   "selected": false
+  },
+  {
+   "id": "b8b7927bfa",
+   "source": "The Verge",
+   "section": "tecnologia",
+   "continent": "america",
+   "lang": "en",
+   "title": "The Mac Mini is still mighty, just not as cheap",
+   "url": "https://www.theverge.com/tech/998006/apple-mac-mini-m6-m5-pro-review",
+   "published": "2026-09-21T13:00:00+00:00",
+   "seen_by_model": true,
+   "selected": false
+  },
+  {
+   "id": "6803d73701",
+   "source": "The Verge",
+   "section": "tecnologia",
+   "continent": "america",
+   "lang": "en",
+   "title": "The M5 Ultra Mac Studio tears through our benchmark tests",
+   "url": "https://www.theverge.com/tech/998040/apple-mac-studio-m5-ultra-initial-impressions-testing-review",
+   "published": "2026-09-21T13:00:00+00:00",
+   "seen_by_model": true,
+   "selected": false
+  },
+  {
+   "id": "0f33111a6f",
+   "source": "The Verge",
+   "section": "tecnologia",
+   "continent": "america",
+   "lang": "en",
+   "title": "Googlebooks feel like the first laptops built for Android owners",
+   "url": "https://www.theverge.com/tech/998095/googlebook-laptop-android-continue-on-app-cast",
+   "published": "2026-09-21T13:00:00+00:00",
    "seen_by_model": true,
    "selected": false
   },
@@ -4575,8 +4671,8 @@
    "title": "UN says AI safeguards can’t wait for certainty",
    "url": "https://www.theverge.com/ai-artificial-intelligence/998090/un-ai-panel-hugging-face-hack-precautionary-principle",
    "published": "2026-09-21T10:18:06+00:00",
-   "seen_by_model": true,
-   "selected": true
+   "seen_by_model": false,
+   "selected": false
   },
   {
    "id": "fbef9683fb",
@@ -4587,78 +4683,6 @@
    "title": "Amazon doesn’t trust Meta’s Muse AI agent",
    "url": "https://www.theverge.com/tech/998078/amazon-blocks-meta-muse-ai-agent-shopping",
    "published": "2026-09-21T09:21:47+00:00",
-   "seen_by_model": true,
-   "selected": false
-  },
-  {
-   "id": "32a3dc1883",
-   "source": "The Verge",
-   "section": "tecnologia",
-   "continent": "america",
-   "lang": "en",
-   "title": "No Dogs in Space is back to feed your need for obsessive music history",
-   "url": "https://www.theverge.com/report/997948/no-dogs-in-space-is-back-punk-2-0-music-history-podcast",
-   "published": "2026-09-20T20:51:57+00:00",
-   "seen_by_model": true,
-   "selected": false
-  },
-  {
-   "id": "cb03d7f13b",
-   "source": "The Verge",
-   "section": "tecnologia",
-   "continent": "america",
-   "lang": "en",
-   "title": "No one is surprised that Nvidia’s Jensen Huang thinks AI fears are overblown",
-   "url": "https://www.theverge.com/ai-artificial-intelligence/997936/nvidia-jensen-huang-ai-fears-overblown",
-   "published": "2026-09-20T18:50:18+00:00",
-   "seen_by_model": true,
-   "selected": false
-  },
-  {
-   "id": "27e3a6e424",
-   "source": "The Verge",
-   "section": "tecnologia",
-   "continent": "america",
-   "lang": "en",
-   "title": "Kojima Productions disputes reports the studio is in trouble",
-   "url": "https://www.theverge.com/games/997880/hideo-kojima-productions-physint-xbox-sony-playstation",
-   "published": "2026-09-20T18:15:10+00:00",
-   "seen_by_model": true,
-   "selected": false
-  },
-  {
-   "id": "ba91ca5849",
-   "source": "The Verge",
-   "section": "tecnologia",
-   "continent": "america",
-   "lang": "en",
-   "title": "Trump now says he wants to form an ‘AI Force’",
-   "url": "https://www.theverge.com/ai-artificial-intelligence/997867/trump-ai-force-ai-czar",
-   "published": "2026-09-20T15:39:22+00:00",
-   "seen_by_model": true,
-   "selected": true
-  },
-  {
-   "id": "336a67b1c3",
-   "source": "The Verge",
-   "section": "tecnologia",
-   "continent": "america",
-   "lang": "en",
-   "title": "A24’s reputation is on the line with the SCP Foundation movie",
-   "url": "https://www.theverge.com/entertainment/997853/a24-scp-movie-creative-commons-license",
-   "published": "2026-09-20T12:45:48+00:00",
-   "seen_by_model": false,
-   "selected": false
-  },
-  {
-   "id": "3168d688c9",
-   "source": "The Verge",
-   "section": "tecnologia",
-   "continent": "america",
-   "lang": "en",
-   "title": "A great new video game movie",
-   "url": "https://www.theverge.com/tech/997322/resident-evil-steam-frame-fire-emblem-fortunes-weave",
-   "published": "2026-09-20T12:00:00+00:00",
    "seen_by_model": false,
    "selected": false
   },
@@ -4708,7 +4732,7 @@
    "url": "https://techcrunch.com/2026/09/20/is-the-ai-industry-really-ready-to-slow-down/",
    "published": "2026-09-20T18:56:04+00:00",
    "seen_by_model": true,
-   "selected": false
+   "selected": true
   },
   {
    "id": "71efe47bc5",
@@ -4771,6 +4795,30 @@
    "selected": false
   },
   {
+   "id": "acfd285237",
+   "source": "Wired",
+   "section": "tecnologia",
+   "continent": "america",
+   "lang": "en",
+   "title": "Got an Android Phone? Google Thinks You’ll Probably Want a Googlebook Laptop",
+   "url": "https://www.wired.com/story/google-launches-googlebook-laptops/",
+   "published": "2026-09-21T13:00:00+00:00",
+   "seen_by_model": true,
+   "selected": false
+  },
+  {
+   "id": "6c5e1a1bd6",
+   "source": "Wired",
+   "section": "tecnologia",
+   "continent": "america",
+   "lang": "en",
+   "title": "Apple Mac Mini (M6) Review: For the AI Curious",
+   "url": "https://www.wired.com/review/apple-mac-mini-m6/",
+   "published": "2026-09-21T13:00:00+00:00",
+   "seen_by_model": true,
+   "selected": false
+  },
+  {
    "id": "bfcae31e7c",
    "source": "Wired",
    "section": "tecnologia",
@@ -4795,18 +4843,6 @@
    "selected": false
   },
   {
-   "id": "6f5ee7562f",
-   "source": "Wired",
-   "section": "tecnologia",
-   "continent": "america",
-   "lang": "en",
-   "title": "Justice for CSS",
-   "url": "https://www.wired.com/story/justice-for-css/",
-   "published": "2026-09-21T10:00:00+00:00",
-   "seen_by_model": true,
-   "selected": false
-  },
-  {
    "id": "5c27bef721",
    "source": "Wired",
    "section": "tecnologia",
@@ -4814,6 +4850,18 @@
    "lang": "en",
    "title": "The Search for Silicon Valley’s Most Powerful Woman",
    "url": "https://www.wired.com/story/searching-for-powerful-women-silicon-valley/",
+   "published": "2026-09-21T10:00:00+00:00",
+   "seen_by_model": true,
+   "selected": false
+  },
+  {
+   "id": "6f5ee7562f",
+   "source": "Wired",
+   "section": "tecnologia",
+   "continent": "america",
+   "lang": "en",
+   "title": "Justice for CSS",
+   "url": "https://www.wired.com/story/justice-for-css/",
    "published": "2026-09-21T10:00:00+00:00",
    "seen_by_model": true,
    "selected": false
@@ -4851,7 +4899,7 @@
    "title": "Factor Delivery Meals Review (2026): Tender Salmon, Room to Grow",
    "url": "https://www.wired.com/review/factor-perpared-meals-2026/",
    "published": "2026-09-21T09:37:00+00:00",
-   "seen_by_model": true,
+   "seen_by_model": false,
    "selected": false
   },
   {
@@ -4863,7 +4911,7 @@
    "title": "After 8 Years in Space, ‘BepiColombo’ Is Finally Approaching Mercury",
    "url": "https://www.wired.com/story/after-8-years-in-space-bepicolombo-finally-approaching-mercury/",
    "published": "2026-09-21T09:00:00+00:00",
-   "seen_by_model": true,
+   "seen_by_model": false,
    "selected": false
   },
   {
@@ -4963,15 +5011,27 @@
    "selected": false
   },
   {
-   "id": "0d691aab90",
-   "source": "Wired",
+   "id": "0fc0f50b7a",
+   "source": "Xataka",
    "section": "tecnologia",
-   "continent": "america",
-   "lang": "en",
-   "title": "Tiny Hairs That Help Corals Breathe May Malfunction in Warming Oceans",
-   "url": "https://www.wired.com/story/tiny-hairs-that-help-corals-breathe-may-malfunction-in-warming-oceans/",
-   "published": "2026-09-20T09:00:00+00:00",
-   "seen_by_model": false,
+   "continent": "europa",
+   "lang": "es",
+   "title": "MediaTek ya tiene lista su alternativa a los SoC Snapdragon para portátiles prémium: el chip Dimensity CX C10 Max",
+   "url": "https://www.xataka.com/componentes/mediatek-dimensity-cx-c10-max-caracteristicas-ficha-tecnica",
+   "published": "2026-09-21T13:00:16+00:00",
+   "seen_by_model": true,
+   "selected": true
+  },
+  {
+   "id": "45b5257494",
+   "source": "Xataka",
+   "section": "tecnologia",
+   "continent": "europa",
+   "lang": "es",
+   "title": "“Es como si llovieran lingotes de oro del cielo”: la IA está generando millonarios en el lugar más inesperado",
+   "url": "https://www.xataka.com/empresas-y-economia/como-llovieran-lingotes-oro-cielo-ia-esta-generando-millonarios-lugar-inesperado",
+   "published": "2026-09-21T12:46:15+00:00",
+   "seen_by_model": true,
    "selected": false
   },
   {
@@ -5032,7 +5092,7 @@
    "url": "https://www.xataka.com/robotica-e-ia/probabilidad-que-ia-destruya-mundo-0-jensen-huang-director-general-nvidia",
    "published": "2026-09-21T11:30:16+00:00",
    "seen_by_model": true,
-   "selected": false
+   "selected": true
   },
   {
    "id": "622ffedc3c",
@@ -5055,7 +5115,7 @@
    "title": "El miércoles empieza el otoño, pero nadie se lo ha dicho al termómetro. AEMET sabe que el culpable de todo esto es el Mediterráneo",
    "url": "https://www.xataka.com/ecologia-y-naturaleza/miercoles-empieza-otono-nadie-se-ha-dicho-al-termometro-aemet-sabe-que-culpable-todo-esto-mediterraneo",
    "published": "2026-09-21T10:30:15+00:00",
-   "seen_by_model": true,
+   "seen_by_model": false,
    "selected": false
   },
   {
@@ -5067,7 +5127,7 @@
    "title": "Ya disponible la nueva Huawei MatePad Air 12: muy ligera, con un pantallón OLED antirreflejos y más de 10.000 mAh de batería",
    "url": "https://www.xataka.com/seleccion/disponible-nueva-huawei-matepad-air-12-muy-ligera-pantallon-oled-antirreflejos-10-000-mah-bateria",
    "published": "2026-09-21T10:16:15+00:00",
-   "seen_by_model": true,
+   "seen_by_model": false,
    "selected": false
   },
   {
@@ -5247,30 +5307,6 @@
    "title": "El pueblo que España sepultó bajo su propia mina: nació en el siglo XVIII y allí se jugó el primer partido de fútbol",
    "url": "https://www.xataka.com/magnet/pueblo-que-espana-sepulto-su-propia-mina-nacio-siglo-xviii-alli-se-jugo-primer-partido-futbol",
    "published": "2026-09-20T17:30:12+00:00",
-   "seen_by_model": false,
-   "selected": false
-  },
-  {
-   "id": "8c2e615306",
-   "source": "Xataka",
-   "section": "tecnologia",
-   "continent": "europa",
-   "lang": "es",
-   "title": "20 años anticipando el Apocalipsis: todas las veces que alguien ha dicho que la IA nos iba a matar a todos",
-   "url": "https://www.xataka.com/robotica-e-ia/20-anos-anticipando-apocalipsis-todas-veces-que-alguien-ha-dicho-que-ia-nos-iba-a-matar-a-todos",
-   "published": "2026-09-20T17:00:12+00:00",
-   "seen_by_model": false,
-   "selected": false
-  },
-  {
-   "id": "878e044c9d",
-   "source": "Xataka",
-   "section": "tecnologia",
-   "continent": "europa",
-   "lang": "es",
-   "title": "15.000 monedas de plata y un posible récord: Gales está ante el mayor tesoro romano jamás encontrado allí",
-   "url": "https://www.xataka.com/magnet/15-000-monedas-plata-posible-record-gales-esta-mayor-tesoro-romano-jamas-encontrado-alli",
-   "published": "2026-09-20T16:30:11+00:00",
    "seen_by_model": false,
    "selected": false
   },
@@ -5644,7 +5680,7 @@
    "url": "https://www.ithome.com.tw/news/179086",
    "published": "2026-09-21T03:09:00+00:00",
    "seen_by_model": true,
-   "selected": false
+   "selected": true
   },
   {
    "id": "9563c942cd",
@@ -5876,7 +5912,7 @@
   }
  ],
  "radar": {
-  "collected_at": "2026-09-21T12:40:32.671926+00:00",
+  "collected_at": "2026-09-21T13:15:51.648183+00:00",
   "items": [
    {
     "id": "gh-1342935078",
@@ -5889,10 +5925,10 @@
     "lang": "zh",
     "excerpt": "《深入理解 AI Infra：量化分析与系统设计》（李博杰 著）开源书稿：从硬件约束和模型架构出发，量化推导 LLM 推理与训练系统设计。含全书正文、PDF、配套计算工具与实验",
     "signal": {
-     "stars_total": 4847
+     "stars_total": 4849
     },
     "seen_by_model": true,
-    "selected": true
+    "selected": false
    },
    {
     "id": "gh-1351879111",
@@ -5905,10 +5941,10 @@
     "lang": "en",
     "excerpt": "Continual learning infra for self-improving agents",
     "signal": {
-     "stars_total": 3890
+     "stars_total": 3897
     },
     "seen_by_model": true,
-    "selected": false
+    "selected": true
    },
    {
     "id": "gh-1349507889",
@@ -5924,7 +5960,7 @@
      "stars_total": 2906
     },
     "seen_by_model": true,
-    "selected": true
+    "selected": false
    },
    {
     "id": "gh-1349253750",
@@ -5940,7 +5976,7 @@
      "stars_total": 2736
     },
     "seen_by_model": true,
-    "selected": false
+    "selected": true
    },
    {
     "id": "gh-1351859098",
@@ -5969,7 +6005,7 @@
     "lang": "en",
     "excerpt": "Official SGLang x Datawhale course on LLM inference: understand inference, build a mini-sglang from scratch, then read the real SGLang source and land your first PR. Available in English and Chinese.",
     "signal": {
-     "stars_total": 1210
+     "stars_total": 1212
     },
     "seen_by_model": true,
     "selected": true
@@ -6001,7 +6037,7 @@
     "lang": "zh",
     "excerpt": "大模型（LLM）全栈学习路线与中文教程🔥：覆盖 Prompt Engineering、RAG、AI Agent、MCP、微调、模型部署、Transformer、AI 编程与大厂面试，从入门到生产实践。",
     "signal": {
-     "stars_total": 860
+     "stars_total": 861
     },
     "seen_by_model": true,
     "selected": false
@@ -6017,7 +6053,7 @@
     "lang": "en",
     "excerpt": "A curated list of public projects, integrations, and discussions built on Jev — TypeSafe AI's System One model for typed decisions.",
     "signal": {
-     "stars_total": 836
+     "stars_total": 848
     },
     "seen_by_model": true,
     "selected": false
@@ -6033,7 +6069,7 @@
     "lang": "en",
     "excerpt": "NeoHorse-1: Towards Recursive Self-Improvement via Agentic Post-Training with Routing Harness.",
     "signal": {
-     "stars_total": 726
+     "stars_total": 729
     },
     "seen_by_model": true,
     "selected": false
@@ -6065,7 +6101,7 @@
     "lang": "en",
     "excerpt": "A curated list of tools  built for Jev — TypeSafe AI's System One model for typed decisions.",
     "signal": {
-     "stars_total": 605
+     "stars_total": 606
     },
     "seen_by_model": false,
     "selected": false
@@ -6081,7 +6117,7 @@
     "lang": "en",
     "excerpt": "",
     "signal": {
-     "stars_total": 528
+     "stars_total": 529
     },
     "seen_by_model": true,
     "selected": false
@@ -6119,17 +6155,17 @@
     "selected": false
    },
    {
-    "id": "hn-49784816",
+    "id": "hn-49786419",
     "source": "Hacker News",
     "kind": "discussion",
-    "title": "Don't Use AI to Write",
-    "url": "https://paulbakker.io/writing/no-ai-for-writing/",
-    "discussion_url": "https://news.ycombinator.com/item?id=49784816",
-    "published": "2026-09-21T08:54:44+00:00",
+    "title": "Show HN: Lossless-memory – a personal AI memory that never summarizes",
+    "url": "https://github.com/aru-labs/lossless-memory",
+    "discussion_url": "https://news.ycombinator.com/item?id=49786419",
+    "published": "2026-09-21T12:28:17+00:00",
     "lang": "en",
     "excerpt": "",
     "signal": {
-     "points": 3,
+     "points": 9,
      "comments": 0
     },
     "seen_by_model": true,
@@ -6146,8 +6182,25 @@
     "lang": "en",
     "excerpt": "",
     "signal": {
-     "points": 124,
-     "comments": 59
+     "points": 127,
+     "comments": 61
+    },
+    "seen_by_model": true,
+    "selected": false
+   },
+   {
+    "id": "hn-49784816",
+    "source": "Hacker News",
+    "kind": "discussion",
+    "title": "Don't Use AI to Write",
+    "url": "https://paulbakker.io/writing/no-ai-for-writing/",
+    "discussion_url": "https://news.ycombinator.com/item?id=49784816",
+    "published": "2026-09-21T08:54:44+00:00",
+    "lang": "en",
+    "excerpt": "",
+    "signal": {
+     "points": 5,
+     "comments": 1
     },
     "seen_by_model": true,
     "selected": false
@@ -6163,7 +6216,7 @@
     "lang": "en",
     "excerpt": "",
     "signal": {
-     "points": 28,
+     "points": 29,
      "comments": 1
     },
     "seen_by_model": true,
@@ -6180,7 +6233,7 @@
     "lang": "en",
     "excerpt": "",
     "signal": {
-     "points": 101,
+     "points": 102,
      "comments": 147
     },
     "seen_by_model": true,
