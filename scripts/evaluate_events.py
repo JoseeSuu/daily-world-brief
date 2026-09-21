@@ -8,11 +8,15 @@ from summarize import call_json, summary_language_ok, PRICE_IN, PRICE_OUT
 root = Path(__file__).resolve().parent.parent
 today = json.loads((root / "data/2026-09-21.json").read_text())
 yesterday = json.loads((root / "data/2026-09-20.json").read_text())
-cells, meta = group_events(today["cells"], yesterday, anthropic.Anthropic(), call_json, summary_language_ok)
-meta["cost_usd"] = round(meta["input_tokens"] / 1e6 * PRICE_IN + meta["output_tokens"] / 1e6 * PRICE_OUT, 4)
-today.update(cells=cells, events=meta)
 out = root / "evaluation"
 out.mkdir(exist_ok=True)
+def capture(*args):
+    result, usage = call_json(*args)
+    (out / "groups.json").write_text(json.dumps(result, ensure_ascii=False, indent=2))
+    return result, usage
+cells, meta = group_events(today["cells"], yesterday, anthropic.Anthropic(), capture, summary_language_ok)
+meta["cost_usd"] = round(meta["input_tokens"] / 1e6 * PRICE_IN + meta["output_tokens"] / 1e6 * PRICE_OUT, 4)
+today.update(cells=cells, events=meta)
 (out / "2026-09-21.json").write_text(json.dumps(today, ensure_ascii=False, indent=2))
 cards = [s for stories in cells.values() for s in stories]
 assert meta["mode"] == "full", meta
