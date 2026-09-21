@@ -138,7 +138,7 @@ function render(){
     for (const it of items){
       html += `<article class="card">
         <h4><a href="${esc(it.url)}" target="_blank" rel="noopener">${esc(it.title)}</a></h4>
-        <p>${esc(it.summary)}</p>
+        <p><b>Según la fuente:</b> ${esc(it.summary)}</p>
         <p><b>Posible utilidad:</b> ${esc(it.usefulness)}</p>
         <p><b>Por comprobar:</b> ${esc(it.to_verify)}</p>
         <div class="meta"><span class="tag">${LANG_TAG[it.lang] || "EN"}</span>
