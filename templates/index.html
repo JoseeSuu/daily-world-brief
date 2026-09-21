@@ -63,6 +63,14 @@ footer{max-width:760px; margin:2.2rem auto 0; padding:1rem .9rem 2rem; font-size
   color:var(--muted); border-top:1px solid var(--border)}
 footer a{color:var(--accent)}
 .warn{margin-top:.3rem}
+.event-status{display:inline-block; margin-bottom:.4rem; color:var(--muted); font-size:.75rem}
+.change{border-left:2px solid var(--accent); padding-left:.5rem}
+.sources{margin-top:.55rem; font-size:.8rem}
+.sources summary{cursor:pointer; color:var(--accent)}
+.sources ul{padding-left:1.1rem; margin-top:.4rem}
+.sources li{margin-bottom:.4rem}
+.sources a{color:var(--accent)}
+.card[id]{scroll-margin-top:6rem}
 @media(min-width:640px){
   .grid{display:grid; grid-template-columns:repeat(3,1fr); gap:.9rem}
   .continent{margin-top:0}
@@ -99,6 +107,8 @@ const SECTIONS = {
 };
 const CONTINENTS = { asia:"Asia", europa:"Europa", america:"América" };
 const LANG_TAG = { es:"ES", en:"EN", zh:"中文" };
+const STATUS = {new:"Nuevo en el brief", updated:"Con novedades", unchanged:"Sin cambios detectados",
+  unclear:"Cambio sin confirmar", uncompared:"Sin edición de ayer para comparar"};
 
 let brief = JSON.parse(document.getElementById("brief-data").textContent);
 const dates = JSON.parse(document.getElementById("dates-data").textContent);
@@ -159,21 +169,31 @@ function render(){
     let html = `<section class="section"><h2>${SECTIONS[sec]}</h2><div class="grid">`;
     for (const cont of Object.keys(CONTINENTS)){
       const all = (brief.cells && brief.cells[`${sec}|${cont}`]) || [];
-      const items = all.filter(it => active.has(it.lang || "en"));
+      const items = all.filter(it => (it.sources || [it]).some(s => active.has(s.lang || "en")));
       shown += items.length;
       html += `<div class="continent"><h3>${CONTINENTS[cont]}</h3>`;
       if (!items.length)
         html += `<div class="empty">${all.length ? "Sin noticias en los idiomas elegidos."
                                                  : "Sin noticias destacadas hoy."}</div>`;
       for (const it of items){
-        html += `<article class="card">
-          <h4><a href="${esc(it.url)}" target="_blank" rel="noopener">${esc(it.title)}</a></h4>
-          ${it.summary ? `<p>${esc(it.summary)}</p>` : ""}
+        const sources = it.sources || [it];
+        const display = sources.find(s => active.has(s.lang || "en"));
+        const previous = it.previous_date && dates.includes(it.previous_date)
+          ? `?date=${encodeURIComponent(it.previous_date)}${it.previous_event_id ? "#event-" + encodeURIComponent(it.previous_event_id) : ""}` : "";
+        html += `<article class="card"${it.event_id ? ` id="event-${esc(it.event_id)}"` : ""}>
+          ${STATUS[it.status] ? `<span class="event-status">${STATUS[it.status]}</span>` : ""}
+          <h4><a href="${esc(display.url)}" target="_blank" rel="noopener">${esc(display.title)}</a></h4>
+          ${display.summary ? `<p>${esc(display.summary)}</p>` : ""}
+          ${it.change_summary && active.has(it.lang) ? `<p class="change"><b>Qué cambió:</b> ${esc(it.change_summary)}</p>` : ""}
           <div class="meta">
-            <span class="tag">${LANG_TAG[it.lang] || "EN"}</span>
-            <a href="${esc(it.url)}" target="_blank" rel="noopener">${esc(it.source)}</a>
-            <span>${fmtTime(it.published)}</span>
-          </div></article>`;
+            <span class="tag">${LANG_TAG[display.lang] || "EN"}</span>
+            <a href="${esc(display.url)}" target="_blank" rel="noopener">${esc(display.source)}</a>
+            <span>${fmtTime(display.published)}</span>
+            ${previous ? `<a href="${esc(previous)}">Ver ayer</a>` : ""}
+          </div>
+          ${sources.length > 1 ? `<details class="sources"><summary>${sources.length} fuentes · ver cobertura original</summary><ul>${sources.map(s =>
+            `<li><span class="tag">${LANG_TAG[s.lang] || "EN"}</span> <a href="${esc(s.url)}" target="_blank" rel="noopener">${esc(s.title)}</a> · ${esc(s.source)}</li>`).join("")}</ul></details>` : ""}
+          </article>`;
       }
       html += `</div>`;
     }
@@ -181,8 +201,12 @@ function render(){
   }
 
   const f = document.getElementById("footer");
-  let foot = `${shown} noticias · Generado: ${fmtTime(brief.generated_at)} UTC · `
+  let foot = `${shown} ${brief.events?.mode === "full" ? "acontecimientos" : "noticias"} · Generado: ${fmtTime(brief.generated_at)} · `
            + `<a href="feed.xml">Suscríbete por RSS</a>`;
+  if (brief.events?.mode === "full")
+    foot += `<div class="warn">${brief.events.articles} artículos seleccionados, agrupados por acontecimiento. Comparación basada en titulares y resúmenes${brief.events.compared_with ? " del " + esc(brief.events.compared_with) : " disponibles"}. Los hechos sin cambios detectados aparecen al final de cada bloque.</div>`;
+  else if (brief.events)
+    foot += `<div class="warn">Agrupación y comparación no disponibles hoy.</div>`;
   if (brief.mode === "headlines-only")
     foot += `<div class="warn">⚠️ Modo reducido: hoy solo titulares (falló el resumen automático).</div>`;
   if (brief.failed_sources && brief.failed_sources.length)
@@ -198,11 +222,20 @@ dates.forEach(d=>{
   sel.appendChild(o);
 });
 sel.value = brief.date;
-sel.addEventListener("change", async ()=>{
+async function loadDate(date){
   try{
-    const r = await fetch(`data/${sel.value}.json`, {cache:"no-cache"});
-    if (r.ok){ brief = await r.json(); render(); }
-  }catch(e){ /* sin conexión: se mantiene el brief actual */ }
+    const r = await fetch(`data/${date}.json`, {cache:"no-cache"});
+    if (!r.ok) throw new Error("Edition unavailable");
+    brief = await r.json(); sel.value = brief.date; render();
+    document.getElementById(location.hash.slice(1))?.scrollIntoView();
+  }catch(e){
+    sel.value = brief.date;
+    document.getElementById("footer").insertAdjacentHTML("beforeend", '<div class="warn">No se pudo abrir esa edición. Se mantiene la anterior.</div>');
+  }
+}
+sel.addEventListener("change", ()=>{
+  history.replaceState(null, "", `?date=${encodeURIComponent(sel.value)}`);
+  loadDate(sel.value);
 });
 
 document.querySelectorAll(".filt").forEach(b=>
@@ -215,6 +248,9 @@ document.querySelectorAll(".filt").forEach(b=>
   }));
 
 render();
+const requestedDate = new URLSearchParams(location.search).get("date");
+if (requestedDate && dates.includes(requestedDate) && requestedDate !== brief.date) loadDate(requestedDate);
+else document.getElementById(location.hash.slice(1))?.scrollIntoView();
 
 if ("serviceWorker" in navigator)
   navigator.serviceWorker.register("sw.js").catch(()=>{});

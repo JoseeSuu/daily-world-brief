@@ -272,7 +272,7 @@ def call_json(client, prompt: str, schema: dict, max_tokens: int) -> tuple:
 
 
 def run_ai(collected: dict) -> tuple:
-    """Devuelve (cells, mode, cost). Lanza excepción si la API falla."""
+    """Return cells, mode, estimated cost and event-grouping metadata."""
     import anthropic
     client = anthropic.Anthropic()
 
@@ -355,13 +355,23 @@ def run_ai(collected: dict) -> tuple:
         print(f"[AVISO] {mismatches}/{len(chosen)} resúmenes con idioma dudoso",
               file=sys.stderr)
 
-    cells, removed = dedupe_cells(dict(cells))
-    if removed:
-        print(f"Deduplicación: {removed} noticias repetidas eliminadas")
+    from events import group_events
+    yesterday = None
+    previous_day = dt.datetime.now(dt.timezone.utc).date() - dt.timedelta(days=1)
+    previous_path = ROOT / "data" / f"{previous_day}.json"
+    try:
+        yesterday = load_collected(previous_path)
+    except (OSError, ValueError):
+        pass
+    cells, events = group_events(dict(cells), yesterday, client, call_json, summary_language_ok)
+    events["cost_usd"] = round(events["input_tokens"] / 1e6 * PRICE_IN
+                               + events["output_tokens"] / 1e6 * PRICE_OUT, 4)
+    usage_total[0] += events.pop("input_tokens")
+    usage_total[1] += events.pop("output_tokens")
 
     cost = usage_total[0] / 1e6 * PRICE_IN + usage_total[1] / 1e6 * PRICE_OUT
     print(f"Tokens: {usage_total[0]} in / {usage_total[1]} out -> ${cost:.4f}")
-    return cells, "full", cost
+    return cells, "full", cost, events
 
 
 def run_fallback(collected: dict) -> dict:
@@ -391,7 +401,7 @@ def run_radar(collected: dict, cells: dict) -> tuple:
     raw = collected.get("radar", {})
     radar = {"items": [], "mode": "empty", "seen_ids": [],
              "failed_sources": raw.get("failed_sources", [])}
-    excluded = [s for group in cells.values() for s in group]
+    excluded = [source for group in cells.values() for s in group for source in s.get("sources", [s])]
     today = dt.datetime.now(dt.timezone.utc).date()
     for path in (ROOT / "data").glob("????-??-??.json"):
         try:
@@ -473,7 +483,8 @@ def save_candidates(collected: dict, cells: dict, today: str, radar=None) -> Pat
     exactamente la información que tuvo delante.
     """
     sent_ids = {i["id"] for i in interleave_by_source(collected["items"])[:MAX_INPUT_ITEMS]}
-    published_urls = {s["url"] for items in cells.values() for s in items}
+    published_urls = {source["url"] for items in cells.values() for s in items
+                      for source in s.get("sources", [s])}
     rows = [{
         "id": i["id"], "source": i["source"], "section": i["section"],
         "continent": i["continent"], "lang": i.get("lang", "en"),
@@ -506,10 +517,11 @@ def main():
     today = dt.datetime.now(dt.timezone.utc).strftime("%Y-%m-%d")
 
     cost = 0.0
+    events = {"mode": "unavailable", "cost_usd": 0.0}
     try:
         if not os.environ.get("ANTHROPIC_API_KEY"):
             raise RuntimeError("ANTHROPIC_API_KEY no definida")
-        cells, mode, cost = run_ai(collected)
+        cells, mode, cost, events = run_ai(collected)
     except Exception as ex:
         print(f"[AVISO] Fallback sin IA: {ex}", file=sys.stderr)
         cells, mode = run_fallback(collected), "headlines-only"
@@ -521,6 +533,7 @@ def main():
         "mode": mode,
         "cost_usd": round(cost + radar_cost, 4),
         "radar_cost_usd": round(radar_cost, 4),
+        "events": events,
         "radar": {k: v for k, v in radar.items() if k != "seen_ids"},
         "market": get_market(),
         "failed_sources": [f["name"] for f in collected["failed_sources"]],
