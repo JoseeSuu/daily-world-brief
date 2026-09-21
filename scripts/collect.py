@@ -115,6 +115,8 @@ def main():
     print(f"\nTotal: {len(data['items'])} ítems, {len(data['failed_sources'])} feeds caídos")
     if args.check:
         return
+    from radar import collect_radar
+    data["radar"] = collect_radar()
     out = Path(args.out)
     out.parent.mkdir(parents=True, exist_ok=True)
     out.write_text(json.dumps(data, ensure_ascii=False, indent=1), encoding="utf-8")
