@@ -78,7 +78,8 @@ def test_stable_event_id_and_unchanged_last(cells):
 
 @pytest.mark.parametrize("previous_date,status,change,expected", [
     (None, "updated", "La multa sube a 403 millones de euros.", "uncompared"),
-    ("2026-09-20", "updated", "La multa sube a 403 millones de euros.", "updated"),
+    ("2026-09-20", "updated", "La UE multa a Google con 403 millones", "updated"),
+    ("2026-09-20", "updated", "La multa sube a 403 millones de euros.", "unclear"),
     ("2026-09-20", "updated", "", "unclear"),
     ("2026-09-20", "updated", "The fine is now higher than the previous fine.", "unclear"),
     ("2026-09-20", "new", "", "unclear"),
@@ -112,3 +113,32 @@ def test_secondary_sources_marked_selected_and_present_in_rss(cells, monkeypatch
     assert "https://b" in items[0].findtext("description")
     assert items[0].find("guid").attrib["isPermaLink"] == "false"
     assert items[0].findtext("guid").startswith("2026-09-21:")
+
+
+def test_pipeline_loads_yesterday_and_includes_grouping_cost(monkeypatch, tmp_path):
+    import anthropic
+    import datetime as dt
+    monkeypatch.setattr(summarize, "ROOT", tmp_path)
+    monkeypatch.setattr(anthropic, "Anthropic", lambda: None)
+    yesterday = dt.datetime.now(dt.timezone.utc).date() - dt.timedelta(days=1)
+    (tmp_path / "data").mkdir()
+    (tmp_path / "data" / f"{yesterday}.json").write_text(json.dumps({
+        "date": str(yesterday), "cells": {"economia|europa": [story("https://old", "Old fine")]}}))
+    def call(client, prompt, schema, max_tokens):
+        if schema is summarize.SELECT_SCHEMA:
+            result = {"cells": [{"continent": "europa", "item_ids": ["a"]}]}
+        elif schema is summarize.SUMMARY_SCHEMA:
+            result = {"stories": [{"id": "a", "summary": "The fine has been confirmed."}]}
+        else:
+            assert schema is events.SCHEMA and '"id": "p0"' in prompt
+            result = {"groups": [group(["c0"], ["p0"], "unchanged")]}
+        return result, SimpleNamespace(input_tokens=120, output_tokens=10)
+    monkeypatch.setattr(summarize, "call_json", call)
+    item = {**story("https://a", "Fine confirmed"), "id": "a", "section": "economia",
+            "continent": "europa", "excerpt": "Confirmed fine"}
+    cells, mode, cost, meta = summarize.run_ai({"items": [item]})
+    assert mode == "full" and meta["mode"] == "full"
+    assert meta["compared_with"] == str(yesterday)
+    assert cells["economia|europa"][0]["status"] == "unchanged"
+    assert cost == pytest.approx((360 * summarize.PRICE_IN + 30 * summarize.PRICE_OUT) / 1e6)
+    assert meta["cost_usd"] == round((120 * summarize.PRICE_IN + 10 * summarize.PRICE_OUT) / 1e6, 4)
