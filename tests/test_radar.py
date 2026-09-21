@@ -104,6 +104,22 @@ def test_radar_excludes_current_news_and_previous_week(monkeypatch, tmp_path):
     assert result["items"] == [] and result["mode"] == "empty"
 
 
+@pytest.mark.parametrize("field", ["summary", "usefulness", "to_verify"])
+def test_rejects_wrong_language_in_any_radar_field(monkeypatch, tmp_path, field):
+    monkeypatch.setattr(summarize, "ROOT", tmp_path)
+    monkeypatch.setenv("ANTHROPIC_API_KEY", "test-only-not-a-real-key")
+    item = {**candidate(1), "lang": "zh"}
+    row = {"id": "1", "summary": "作者介绍了一个工具。", "usefulness": "可能帮助分析文档。",
+           "to_verify": "需要验证结果准确性。"}
+    row[field] = "The author describes a tool for document extraction."
+    def select(client, prompt, schema, max_tokens):
+        assert "every field below in SIMPLIFIED CHINESE" in prompt
+        return {"stories": [row]}, SimpleNamespace(input_tokens=100, output_tokens=100)
+    monkeypatch.setattr(summarize, "call_json", select)
+    result, cost = summarize.run_radar({"radar": {"items": [item]}}, {})
+    assert result["items"] == [] and result["mode"] == "unavailable" and cost > 0
+
+
 def test_build_includes_radar_rss_and_escapes_script_end(monkeypatch, tmp_path):
     monkeypatch.setattr(build, "DATA", tmp_path / "data")
     monkeypatch.setattr(build, "SITE", tmp_path / "site")
