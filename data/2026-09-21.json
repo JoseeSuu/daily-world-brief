@@ -1,0 +1,308 @@
+{
+ "date": "2026-09-21",
+ "generated_at": "2026-09-21T10:57:17.807372+00:00",
+ "mode": "full",
+ "cost_usd": 0.0246,
+ "market": null,
+ "failed_sources": [],
+ "cells": {
+  "economia|asia": [
+   {
+    "title": "US says China talks yield progress on tariff carve-outs, AI dialogue",
+    "summary": "US and China made progress on tariff carve-outs and artificial intelligence dialogue during negotiations. The talks set the stage for an upcoming Trump-Xi meeting.",
+    "lang": "en",
+    "source": "Nikkei Asia",
+    "url": "https://asia.nikkei.com/politics/international-relations/us-china-tensions/us-says-china-talks-yield-progress-on-tariff-carve-outs-ai-dialogue",
+    "published": null
+   },
+   {
+    "title": "“习特会”前夕，中美同意启动人工智能对话",
+    "summary": "中美同意启动人工智能对话，美方提议建立通报机制处理AI国家安全事件。双方正式成立贸易理事会。",
+    "lang": "zh",
+    "source": "FT中文网",
+    "url": "https://www.ftchinese.com/story/001110946",
+    "published": "2026-09-20T16:00:00+00:00"
+   },
+   {
+    "title": "Bessent hails US-China AI dialogue ahead of Trump-Xi meeting",
+    "summary": "US Treasury Secretary Bessent praised US-China AI dialogue, saying both sides are working toward a shared vision. The discussions occur before a Trump-Xi meeting.",
+    "lang": "en",
+    "source": "Financial Times",
+    "url": "https://www.ft.com/content/d29d769e-039c-4d11-9152-e63ccd397b32?syn-25a6b1a6=1",
+    "published": "2026-09-21T04:11:57+00:00"
+   },
+   {
+    "title": "Vietnam enters FTSE emerging-market ranks, eyes billions in inflows",
+    "summary": "Vietnam joined FTSE emerging-market indices, positioning itself to attract billions in foreign investment inflows.",
+    "lang": "en",
+    "source": "Nikkei Asia",
+    "url": "https://asia.nikkei.com/business/markets/vietnam-enters-ftse-emerging-market-ranks-eyes-billions-in-inflows",
+    "published": null
+   }
+  ],
+  "economia|europa": [
+   {
+    "title": "ECB to invest part of own funds in tokenised securities, with settlement via Pontes",
+    "summary": "The ECB will invest part of its own funds in tokenised securities with settlement via Pontes, advancing digital asset infrastructure.",
+    "lang": "en",
+    "source": "BCE (notas de prensa)",
+    "url": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr260921_1~5a011ecbea.en.html",
+    "published": "2026-09-21T10:00:00+00:00"
+   },
+   {
+    "title": "German Economy to Gain Momentum Toward Year-End, Bundesbank Says",
+    "summary": "Germany's economy will lose momentum in Q3 due to temporary factors but recover toward year-end, according to the Bundesbank.",
+    "lang": "en",
+    "source": "Bloomberg Economics",
+    "url": "https://www.bloomberg.com/news/articles/2026-09-21/german-economy-to-gain-momentum-toward-year-end-bundesbank-says",
+    "published": "2026-09-21T10:00:00+00:00"
+   },
+   {
+    "title": "La inversión extranjera en España se dispara en la primera mitad del año y roza los 12.500 millones de euros",
+    "summary": "La inversión extranjera en España creció 30% anual en el primer semestre, alcanzando casi 12.500 millones de euros. El Gobierno refuerza el control de estas operaciones.",
+    "lang": "es",
+    "source": "El País Economía",
+    "url": "https://elpais.com/economia/2026-09-21/la-inversion-extranjera-en-espana-se-dispara-en-la-primera-mitad-del-ano-y-roza-los-12500-millones-de-euros.html",
+    "published": "2026-09-21T08:59:34+00:00"
+   },
+   {
+    "title": "Poland’s Rating Downgrade Deals a Pre-Election Blow to Tusk",
+    "summary": "Poland received its first credit rating downgrade in a decade, complicating Prime Minister Tusk's spending plans ahead of crucial elections next year.",
+    "lang": "en",
+    "source": "Bloomberg Economics",
+    "url": "https://www.bloomberg.com/news/articles/2026-09-21/poland-s-rating-downgrade-deals-a-pre-election-blow-to-tusk",
+    "published": "2026-09-21T04:30:00+00:00"
+   }
+  ],
+  "economia|america": [
+   {
+    "title": "Fed’s Goolsbee Says Road to 2% Inflation May Not Be Painless",
+    "summary": "Federal Reserve Chicago President Goolsbee warned the path to 2% inflation may not be painless, as the Fed must respond to persistent supply shocks.",
+    "lang": "en",
+    "source": "Bloomberg Economics",
+    "url": "https://www.bloomberg.com/news/articles/2026-09-21/fed-s-goolsbee-says-road-to-2-inflation-may-not-be-painless",
+    "published": "2026-09-21T10:30:00+00:00"
+   },
+   {
+    "title": "Fuel subsidies weigh on public finances as energy crisis deepens",
+    "summary": "Over 90 countries now provide consumer fuel subsidies, straining public finances as the global energy crisis deepens.",
+    "lang": "en",
+    "source": "FT Global Economy",
+    "url": "https://www.ft.com/content/2cf96368-8f17-4b5d-88e0-9c5e4058ffe4?syn-25a6b1a6=1",
+    "published": "2026-09-21T04:00:18+00:00"
+   },
+   {
+    "title": "Rising bond yields should prompt central banks to tighten further",
+    "summary": "Rising bond yields should prompt central banks to tighten policy further, testing policymakers' credibility amid worsening inflation outlooks.",
+    "lang": "en",
+    "source": "FT Global Economy",
+    "url": "https://www.ft.com/content/984d32cd-184a-4334-8b40-93608c8c0fbc",
+    "published": "2026-09-21T08:47:13+00:00"
+   }
+  ],
+  "politica|asia": [
+   {
+    "title": "China confirms Xi’s first trip to U.S. in nearly three years",
+    "summary": "China confirmed President Xi will visit Washington, his first US trip in nearly three years, as a one-year trade truce winds down.",
+    "lang": "en",
+    "source": "Japan Times",
+    "url": "https://www.japantimes.co.jp/news/2026/09/21/asia-pacific/politics/china-xi-us-trip-confirm/",
+    "published": "2026-09-21T09:04:00+00:00"
+   },
+   {
+    "title": "中美高层纽约会谈 为特朗普习近平峰会铺路",
+    "summary": "美国财政部长贝森特与中国副总理何立峰在纽约会谈，为特朗普习近平白宫峰会做准备。双方就贸易、AI监管等议题磋商。",
+    "lang": "zh",
+    "source": "德國之聲中文",
+    "url": "https://www.dw.com/zh/中美高层纽约会谈-为特朗普习近平峰会铺路/a-79346677?maca=chi-rss-chi-all-1127-rdf",
+    "published": "2026-09-20T15:58:00+00:00"
+   },
+   {
+    "title": "Chinese President Xi Jinping will pay state visit to US this week, Beijing confirms",
+    "summary": "China's Foreign Ministry confirmed President Xi Jinping will pay a state visit to the United States from Wednesday to Friday.",
+    "lang": "en",
+    "source": "South China Morning Post (China)",
+    "url": "https://www.scmp.com/news/china/diplomacy/article/3368223/chinese-president-xi-jinping-will-pay-state-visit-us-week-beijing-confirms?utm_source=rss_feed",
+    "published": "2026-09-21T07:06:43+00:00"
+   },
+   {
+    "title": "Former South Korean military officers sentenced to prison over 2024 martial law incident",
+    "summary": "Former South Korean military officers were sentenced to prison for their role in the 2024 martial law incident ordered by ex-President Yoon Suk Yeol.",
+    "lang": "en",
+    "source": "Japan Times",
+    "url": "https://www.japantimes.co.jp/news/2026/09/21/asia-pacific/south-korea-commanders-martial-law/",
+    "published": "2026-09-21T08:24:00+00:00"
+   }
+  ],
+  "politica|europa": [
+   {
+    "title": "German regional elections: Chancellor Merz and his party suffer historic defeat",
+    "summary": "Chancellor Merz's CDU party suffered a historic defeat in German regional elections, falling below 5% in Mecklenburg-Western Pomerania for the first time since 1949.",
+    "lang": "en",
+    "source": "Le Monde International",
+    "url": "https://www.lemonde.fr/en/international/article/2026/09/21/german-regional-elections-chancellor-merz-and-his-party-suffer-historic-defeat_6757759_4.html",
+    "published": "2026-09-21T08:33:24+00:00"
+   },
+   {
+    "title": "Ireland fines Google €403 million on behalf of EU for location data breach",
+    "summary": "Ireland fined Google €403 million on behalf of the EU for a location data breach that exposed users to undisclosed ad targeting.",
+    "lang": "en",
+    "source": "Le Monde International",
+    "url": "https://www.lemonde.fr/en/international/article/2026/09/21/european-union-fines-google-403-million-for-data-location-breach_6757763_4.html",
+    "published": "2026-09-21T10:04:43+00:00"
+   },
+   {
+    "title": "Far-right AfD's rise in Germany's regional elections worries EU",
+    "summary": "The far-right AfD's gains in German regional elections concern EU partners, as Germany turns inward and fuels distrust among neighbors.",
+    "lang": "en",
+    "source": "Le Monde International",
+    "url": "https://www.lemonde.fr/en/international/article/2026/09/21/far-right-afd-s-rise-in-germany-s-regional-elections-worries-eu_6757760_4.html",
+    "published": "2026-09-21T09:05:20+00:00"
+   },
+   {
+    "title": "France and Canada strengthen ties in response to Trump's provocations",
+    "summary": "France and Canada strengthened ties during Prime Minister Carrey's visit to French territory Saint Pierre and Miquelon in response to Trump's provocations.",
+    "lang": "en",
+    "source": "Le Monde International",
+    "url": "https://www.lemonde.fr/en/international/article/2026/09/21/france-and-canada-strengthen-ties-in-response-to-trump-s-provocations_6757758_4.html",
+    "published": "2026-09-21T08:22:33+00:00"
+   },
+   {
+    "title": "Kremlin orchestrates Russian elections by manipulating votes and barring observers",
+    "summary": "The Kremlin orchestrated Sunday's Russian elections through vote manipulation and observer restrictions, according to journalists and monitors on the ground.",
+    "lang": "en",
+    "source": "Le Monde International",
+    "url": "https://www.lemonde.fr/en/international/article/2026/09/21/kremlin-orchestrates-russian-elections-by-manipulating-votes-and-barring-observers_6757755_4.html",
+    "published": "2026-09-21T06:17:54+00:00"
+   }
+  ],
+  "politica|america": [
+   {
+    "title": "What to know as world leaders converge at the United Nations this week",
+    "summary": "UN Secretary-General Guterres returns to New York for his final General Assembly as diplomacy falters over conflicts in Ukraine and the Middle East.",
+    "lang": "en",
+    "source": "NPR World",
+    "url": "https://www.npr.org/2026/09/21/nx-s1-5971262/united-nations-general-assembly",
+    "published": "2026-09-21T09:00:00+00:00"
+   },
+   {
+    "title": "18 suspects accused in the 2021 killing of Haiti's president being extradited to U.S.",
+    "summary": "Eighteen suspects arrested for the July 2021 killing of Haitian President Jovenel Moïse are being extradited to the US to face justice.",
+    "lang": "en",
+    "source": "NPR World",
+    "url": "https://www.npr.org/2026/09/21/nx-s1-5976026/suspects-killing-haiti-president-extradited",
+    "published": "2026-09-21T08:41:50+00:00"
+   },
+   {
+    "title": "Defining global leadership in AI at Trump-Xi summit",
+    "summary": "Former US deputy national security advisor Neuberger is monitoring signs of competition and cooperation on artificial intelligence at the Trump-Xi summit.",
+    "lang": "en",
+    "source": "NPR World",
+    "url": "https://www.npr.org/2026/09/20/nx-s1-5973116/defining-global-leadership-in-ai-at-trump-xi-summit",
+    "published": "2026-09-20T21:15:56+00:00"
+   },
+   {
+    "title": "UK should 'team up' with Canada in new Europe alliance, Canadian minister tells BBC",
+    "summary": "A Canadian minister told the BBC that the UK should team up with Canada in a new European alliance following EU associate membership proposals.",
+    "lang": "en",
+    "source": "BBC World",
+    "url": "https://www.bbc.co.uk/news/articles/cmed7p06epxjo?at_medium=RSS&at_campaign=rss",
+    "published": "2026-09-21T04:00:38+00:00"
+   },
+   {
+    "title": "Protests in Texas after ICE agent shoots Venezuelan man",
+    "summary": "Protests erupted in Texas after an ICE agent shot a Venezuelan man during an immigration enforcement operation.",
+    "lang": "en",
+    "source": "Al Jazeera English",
+    "url": "https://www.aljazeera.com/video/newsfeed/2026/9/21/protests-in-texas-after-ice-agent-shoots-venezuelan-man?traffic_source=rss",
+    "published": "2026-09-21T09:42:24+00:00"
+   }
+  ],
+  "tecnologia|america": [
+   {
+    "title": "US and China Discuss Alerting Each Other to AI National Security Threats",
+    "summary": "US and China discussed establishing a mechanism to alert each other to AI incidents threatening national security.",
+    "lang": "en",
+    "source": "Wired",
+    "url": "https://www.wired.com/story/us-and-china-discuss-alerting-each-other-to-ai-national-security-threats/",
+    "published": "2026-09-21T10:34:43+00:00"
+   },
+   {
+    "title": "UN says AI safeguards can’t wait for certainty",
+    "summary": "A UN scientific panel warned that governments must regulate increasingly capable AI agents before fully understanding their risks.",
+    "lang": "en",
+    "source": "The Verge",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/998090/un-ai-panel-hugging-face-hack-precautionary-principle",
+    "published": "2026-09-21T10:18:06+00:00"
+   },
+   {
+    "title": "An undercover Google analyst infiltrated a notorious supply-chain hacking gang",
+    "summary": "Google's threat intelligence group infiltrated TeamPCP, a notorious supply-chain hacking gang, by placing an undercover analyst in their inner circle.",
+    "lang": "en",
+    "source": "Ars Technica",
+    "url": "https://arstechnica.com/security/2026/09/an-undercover-google-analyst-infiltrated-a-notorious-supply-chain-hacking-gang/",
+    "published": "2026-09-20T11:07:00+00:00"
+   },
+   {
+    "title": "Trump now says he wants to form an ‘AI Force’",
+    "summary": "President Trump announced on Truth Social that he wants to appoint an AI czar to lead a new AI force amid growing political calls for AI governance.",
+    "lang": "en",
+    "source": "The Verge",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/997867/trump-ai-force-ai-czar",
+    "published": "2026-09-20T15:39:22+00:00"
+   }
+  ],
+  "tecnologia|europa": [
+   {
+    "title": "UBTech pone en marcha la mayor fábrica del mundo de robots humanoides que fabrican robots humanoides",
+    "summary": "UBTech inauguró en China la mayor fábrica mundial de robots humanoides. Los robots son clave en la estrategia de China para convertirse en potencia mundial.",
+    "lang": "es",
+    "source": "Xataka",
+    "url": "https://www.xataka.com/robots/china-hay-megafabrica-robots-humanoides-fabricando-robots-humanoides-mensaje-claro-no-solo-monos-feria",
+    "published": "2026-09-21T10:00:16+00:00"
+   },
+   {
+    "title": "德國法院要求Meta對臉書及IG上的假廣告負責",
+    "summary": "德国法院判决Meta败诉，要求停止散布冒用网站商标的投资诈骗广告并赔偿损失。",
+    "lang": "zh",
+    "source": "iThome 台灣",
+    "url": "https://www.ithome.com.tw/news/179085",
+    "published": "2026-09-21T03:09:51+00:00"
+   }
+  ],
+  "tecnologia|asia": [
+   {
+    "title": "路透：中國監管機構對尋求上市人型機器人企業踩煞車",
+    "summary": "中国监管机构对寻求上市的人型机器人企业进行审查，重点关注其估值和官方支持问题。",
+    "lang": "zh",
+    "source": "科技新報 TechNews",
+    "url": "https://finance.technews.tw/2026/09/21/reuters-china-regulators-brakes-humanoid-robot-firms-seeking-ipo/",
+    "published": "2026-09-21T10:00:15+00:00"
+   },
+   {
+    "title": "Anthropic 跨足生物研究，自建實驗室瞄準罕病新療法",
+    "summary": "Anthropic在旧金山湾区建立湿式实验室，探索使用AI进行生物研究以开发罕见疾病新疗法。",
+    "lang": "zh",
+    "source": "科技新報 TechNews",
+    "url": "https://technews.tw/2026/09/21/anthropic-builds-in-house-biology-lab-to-accelerate-ai-drug-program/",
+    "published": "2026-09-21T09:44:27+00:00"
+   },
+   {
+    "title": "npm惡意套件避開GitHub安裝指令碼防護，改於執行時期發動攻擊",
+    "summary": "恶意npm套件indexed-btree伪装成热门库，在运行时期发动攻击避开安装防护。该套件及相关套件已获数百万次下载。",
+    "lang": "zh",
+    "source": "iThome 台灣",
+    "url": "https://www.ithome.com.tw/news/179086",
+    "published": "2026-09-21T03:09:00+00:00"
+   },
+   {
+    "title": "漢磊第五代 SiC 技術亮相，導通損耗降 12%、搶攻 AI 與車用商機",
+    "summary": "漢磊推出第五代SiC技术，导通损耗降低12%，针对电动车和AI数据中心的高效电力转换需求。",
+    "lang": "zh",
+    "source": "科技新報 TechNews",
+    "url": "https://technews.tw/2026/09/21/hanlei-unveils-5th-gen-sic-12-conduction-loss-ai-automotive-market/",
+    "published": "2026-09-21T09:10:10+00:00"
+   }
+  ]
+ }
+}
