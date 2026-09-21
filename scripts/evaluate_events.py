@@ -26,6 +26,10 @@ visits = [s for s in cards if any("Beijing confirms" in p["title"] or "China con
 assert len(fine) == 1 and len(fine[0]["sources"]) >= 2, "Google fine duplicates remain"
 assert len(visits) == 1 and len(visits[0]["sources"]) == 2, "Xi visit not grouped narrowly"
 assert all("rare earth" not in p["title"].lower() and "AI" not in p["title"] for p in visits[0]["sources"])
+german = [(key, s) for key, stories in cells.items() for s in stories
+          if any("historic" in p["title"] and ("Merz" in p["title"] or "Chancellor" in p["title"]) for p in s["sources"])]
+assert all(key.endswith("|europa") and s["status"] == "updated" for key, s in german), "Election results must be new facts in Europe"
+assert next(s for s in cards if "AI Force" in s["title"])["status"] == "unchanged", "Repeated announcement is not an update"
 print(json.dumps(meta))
 for key, stories in cells.items():
     for s in stories:

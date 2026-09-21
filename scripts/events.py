@@ -11,9 +11,10 @@ SCHEMA = {"type": "object", "properties": {"groups": {
         "section": {"type": "string", "enum": ["economia", "politica", "tecnologia"]},
         "continent": {"type": "string", "enum": ["asia", "europa", "america"]},
         "previous_ids": {"type": "array", "items": {"type": "string"}},
-        "status": {"type": "string", "enum": ["new", "updated", "unchanged", "unclear"]},
-        "change_summary": {"type": "string"}},
-        "required": ["item_ids", "primary_id", "section", "continent", "previous_ids", "status", "change_summary"],
+        "previous_fact": {"type": "string"},
+        "current_fact": {"type": "string"},
+        "status": {"type": "string", "enum": ["new", "updated", "unchanged", "unclear"]}},
+        "required": ["item_ids", "primary_id", "section", "continent", "previous_ids", "previous_fact", "current_fact", "status"],
         "additionalProperties": False}}}, "required": ["groups"], "additionalProperties": False}
 
 PROMPT = """Group today's selected news into distinct real-world EVENTS across
@@ -40,14 +41,21 @@ updated = a concrete new fact absent from yesterday's supplied coverage;
 unchanged = materially the same facts; unclear = insufficient evidence to tell.
 Different wording, a new outlet, interpretation or a newer publication date
 is NOT a factual update. If uncertain, use unclear; do not invent a development.
-For updated only, change_summary must be an EXACT contiguous quote from the
-primary source's supplied title or summary that states the new fact, in its
-original language. NEVER translate, paraphrase or add facts. Maximum 35 words
-(Chinese: 70 characters). If no quote states a verifiable new fact, use unclear.
+When previous_ids is not empty, FIRST extract previous_fact as an EXACT short
+contiguous quote from one matched yesterday title or summary, and current_fact
+as an EXACT short quote from the primary source's supplied title or summary.
+THEN compare these two factual claims to choose status. NEVER translate,
+paraphrase or add facts. Maximum 35 words per quote (Chinese: 70 characters).
+Use empty quotes for new events. If evidence is insufficient, use unclear.
+Examples: yesterday 'elections are underway' versus today 'historic defeat'
+is UPDATED: results were not known yesterday. A confirmed visit with specific
+dates versus yesterday's undated summit preview is UPDATED. Yesterday and
+today both announcing the same AI Force is UNCHANGED. Matching an event does
+NOT mean its facts are unchanged. Do not confuse a forecast with a result.
 An announcement already described yesterday remains unchanged when another
 outlet reports it today. A broad summit preview is NOT previous coverage of
 every new agreement announced at that summit; match the specific action.
-For other statuses use an empty change_summary. No speculation or inference
+No speculation or inference
 beyond the supplied evidence. If yesterday is empty, use new and no previous_ids.
 """
 
@@ -88,10 +96,13 @@ def apply_groups(groups, current, previous, previous_date, language_ok):
             status = "uncompared"
         elif matches and status not in ("updated", "unchanged", "unclear"):
             status = "unclear"
-        change = group["change_summary"].strip() if status == "updated" else ""
-        supported = change and any(change in (primary.get(k) or "") for k in ("title", "summary"))
-        if status == "updated" and (not supported or not language_ok(change, primary["lang"])):
-            status, change = "unclear", ""
+        current_fact, previous_fact = group["current_fact"].strip(), group["previous_fact"].strip()
+        supported = (current_fact and previous_fact
+                     and any(current_fact in (primary.get(k) or "") for k in ("title", "summary"))
+                     and any(previous_fact in (s.get(k) or "") for s in matches for k in ("title", "summary")))
+        if status in ("updated", "unchanged") and (not supported or not language_ok(current_fact, primary["lang"])):
+            status = "unclear"
+        change = current_fact if status == "updated" else ""
         previous_event_id = next((s["event_id"] for s in matches if s.get("event_id")), "")
         event_id = previous_event_id or hashlib.sha1(primary["url"].encode()).hexdigest()[:12]
         if event_id in event_ids:
@@ -118,7 +129,7 @@ def group_events(cells, yesterday, client, call_json, language_ok):
     if not current:
         meta["mode"] = "full"
         return cells, meta
-    fields = ("title", "summary", "source", "lang", "published", "section", "continent")
+    fields = ("title", "summary", "source", "lang", "published")
     payload = {"today_by_language": {lang: [
         {"id": i, **{k: s.get(k) for k in fields}} for i, s in current.items() if s.get("lang") == lang]
         for lang in ("es", "en", "zh")},

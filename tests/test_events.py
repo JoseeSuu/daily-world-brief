@@ -21,7 +21,7 @@ def story(url, title, lang="en"):
 def group(ids, previous=(), status="new", change="", section="economia"):
     return {"item_ids": ids, "primary_id": ids[0], "section": section,
             "continent": "europa", "previous_ids": list(previous),
-            "status": status, "change_summary": change}
+            "status": status, "current_fact": change, "previous_fact": "Old fine" if previous else ""}
 
 
 @pytest.fixture
@@ -66,8 +66,8 @@ def test_api_failure_keeps_original_coverage(cells):
 
 
 def test_stable_event_id_and_unchanged_last(cells):
-    previous = {"p0": {**story("https://old", "Same fine"), "event_id": "stable"}}
-    out = events.apply_groups([group(["c0", "c1"], ["p0"], "unchanged"), group(["c2"])],
+    previous = {"p0": {**story("https://old", "Old fine"), "event_id": "stable"}}
+    out = events.apply_groups([group(["c0", "c1"], ["p0"], "unchanged", "La UE multa a Google con 403 millones"), group(["c2"])],
                               events.current_items(cells), previous, "2026-09-20", summarize.summary_language_ok)
     cards = out["economia|europa"]
     assert cards[0]["url"] == "https://c"
@@ -131,7 +131,7 @@ def test_pipeline_loads_yesterday_and_includes_grouping_cost(monkeypatch, tmp_pa
             result = {"stories": [{"id": "a", "summary": "The fine has been confirmed."}]}
         else:
             assert schema is events.SCHEMA and '"id": "p0"' in prompt
-            result = {"groups": [group(["c0"], ["p0"], "unchanged")]}
+            result = {"groups": [group(["c0"], ["p0"], "unchanged", "The fine has been confirmed.")]}
         return result, SimpleNamespace(input_tokens=120, output_tokens=10)
     monkeypatch.setattr(summarize, "call_json", call)
     item = {**story("https://a", "Fine confirmed"), "id": "a", "section": "economia",
