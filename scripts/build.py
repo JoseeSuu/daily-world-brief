@@ -65,7 +65,8 @@ def recent_briefs() -> list:
 
 def build_rss(brief: dict, site_url: str) -> str:
     items_xml = []
-    for key, items in sorted(brief.get("cells", {}).items()):
+    groups = {**brief.get("cells", {}), "radar": brief.get("radar", {}).get("items", [])}
+    for key, items in sorted(groups.items()):
         for it in items:
             title = html.escape(it["title"])
             desc = html.escape(it["summary"] or it["title"])
@@ -112,7 +113,7 @@ def build(site_url: str = "https://example.github.io/daily-world-brief/") -> Pat
 
     template = (ROOT / "templates" / "index.html").read_text(encoding="utf-8")
     page = (template
-            .replace("__BRIEF_JSON__", json.dumps(latest, ensure_ascii=False))
+            .replace("__BRIEF_JSON__", json.dumps(latest, ensure_ascii=False).replace("<", "\\u003c"))
             .replace("__DATES_JSON__", json.dumps(dates)))
     (SITE / "index.html").write_text(page, encoding="utf-8")
 

@@ -112,7 +112,7 @@ function fmtTime(iso){
       day:"numeric", month:"short"});
   }catch(e){ return ""; }
 }
-function esc(s){ const d=document.createElement("span"); d.textContent=s||""; return d.innerHTML; }
+function esc(s){ const d=document.createElement("span"); d.textContent=s||""; return d.innerHTML.replace(/"/g,"&quot;"); }
 
 function render(){
   document.querySelectorAll(".filt").forEach(b=>
@@ -130,6 +130,30 @@ function render(){
 
   const root = document.getElementById("content");
   root.innerHTML = "";
+  if (brief.radar){
+    const radar = brief.radar;
+    const items = radar.items.filter(it => active.has(it.lang || "en"));
+    let html = `<section class="section" id="radar"><h2>Radar IA</h2>
+      <p class="empty">Hasta 3 descubrimientos para aprender y trabajar con IA. Utilidad por comprobar.</p>`;
+    for (const it of items){
+      html += `<article class="card">
+        <h4><a href="${esc(it.url)}" target="_blank" rel="noopener">${esc(it.title)}</a></h4>
+        <p>${esc(it.summary)}</p>
+        <p><b>Posible utilidad:</b> ${esc(it.usefulness)}</p>
+        <p><b>Por comprobar:</b> ${esc(it.to_verify)}</p>
+        <div class="meta"><span class="tag">${LANG_TAG[it.lang] || "EN"}</span>
+          <span>${it.kind === "project" ? "Proyecto · descripción del autor" : "Comunidad · publicación sin verificar"}</span>
+          <a href="${esc(it.url)}" target="_blank" rel="noopener">${esc(it.source)}</a>
+          ${it.discussion_url ? `<a href="${esc(it.discussion_url)}" target="_blank" rel="noopener">Conversación</a>` : ""}
+          <span>${it.kind === "project" ? "Repositorio creado" : "Publicado en HN"}: ${fmtTime(it.published)}</span>
+        </div></article>`;
+    }
+    if (!items.length) html += `<p class="empty">${radar.mode === "unavailable"
+      ? "Radar no disponible hoy: no se pudo completar la selección."
+      : radar.items.length ? "Sin novedades en los idiomas elegidos." : "Sin novedades suficientemente relevantes hoy."}</p>`;
+    if (radar.failed_sources.length) html += `<p class="empty">Fuentes del radar no disponibles o incompletas: ${esc(radar.failed_sources.map(f=>f.name).join(", "))}.</p>`;
+    root.innerHTML = html + "</section>";
+  }
   let shown = 0;
   for (const sec of Object.keys(SECTIONS)){
     let html = `<section class="section"><h2>${SECTIONS[sec]}</h2><div class="grid">`;

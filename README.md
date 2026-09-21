@@ -58,6 +58,38 @@ feeds.yaml ──► scripts/collect.py ──► work/collected.json
   se publica igualmente un brief con titulares sin resumen (`mode:
   "headlines-only"`).
 
+## Radar IA
+
+El bloque inicial ofrece **hasta tres descubrimientos**, con una posible utilidad
+para aprender Python, analizar documentos o estudiar gobernanza de IA, y una
+comprobación pendiente concreta. Conserva los filtros de idioma y aparece en el RSS.
+
+- **GitHub**: API oficial, repositorios con etiqueta `llm` creados en los últimos
+  30 días y al menos 10 estrellas; hasta 15 candidatos, ordenados por estrellas
+  totales. Es descubrimiento de proyectos recientes, no el ranking Trending ni
+  una medida de crecimiento diario.
+- **Hacker News**: API oficial, hasta 60 publicaciones de la lista principal;
+  conserva hasta 15 relacionadas con IA publicadas en las últimas 48 horas.
+  Enlaza tanto el recurso compartido como la conversación.
+
+La selección usa títulos, descripciones de repositorios y el texto del post de
+HN cuando existe. **No lee artículos completos, README, código ni comentarios**;
+las utilidades son hipótesis y la popularidad no equivale a calidad. Puede
+publicar menos de tres resultados o ninguno. Excluye duplicados del brief actual
+y del Radar de los siete días anteriores, por URL o similitud de título.
+
+Añade como máximo una llamada al modelo actual; su coste queda registrado en
+`radar_cost_usd` y sumado al total. Los candidatos y la selección quedan en el
+archivo diario `candidates/`. Si una fuente falla, se conserva la otra; si no se
+puede completar la selección, el Radar muestra su estado sin inventar resultados
+ni impedir el brief habitual. No necesita nuevas claves ni dependencias.
+
+Para comprobar solo la recogida del Radar:
+
+```bash
+python -c "import sys; sys.path.insert(0, 'scripts'); from radar import collect_radar; print(collect_radar())"
+```
+
 ## Añadir o quitar fuentes
 
 Edita [`feeds.yaml`](feeds.yaml). Cada fuente tiene:
