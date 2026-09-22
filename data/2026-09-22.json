@@ -1,0 +1,867 @@
+{
+ "date": "2026-09-22",
+ "generated_at": "2026-09-22T10:11:39.930514+00:00",
+ "mode": "full",
+ "cost_usd": 0.0527,
+ "radar_cost_usd": 0.0053,
+ "events": {
+  "mode": "full",
+  "compared_with": "2026-09-21",
+  "articles": 37,
+  "uncompared_articles": 0,
+  "events": 32,
+  "cost_usd": 0.0208
+ },
+ "radar": {
+  "items": [
+   {
+    "id": "gh-1347982389",
+    "source": "GitHub",
+    "kind": "project",
+    "title": "datawhalechina/zero-to-sglang",
+    "url": "https://github.com/datawhalechina/zero-to-sglang",
+    "discussion_url": "",
+    "published": "2026-08-27T02:24:12Z",
+    "lang": "en",
+    "excerpt": "Official SGLang x Datawhale course on LLM inference: understand inference, build a mini-sglang from scratch, then read the real SGLang source and land your first PR. Available in English and Chinese.",
+    "signal": {
+     "stars_total": 1228
+    },
+    "summary": "Official SGLang x Datawhale course teaches LLM inference: understand inference mechanics, build a mini-sglang from scratch, then read real SGLang source and submit first PR. Available in English and Chinese.",
+    "usefulness": "Could help Python developers understand inference optimization by reconstructing a working system before reading production code.",
+    "to_verify": "Whether the course actually provides step-by-step Python exercises to build a functioning mini-sglang, not just reading materials."
+   },
+   {
+    "id": "gh-1354059245",
+    "source": "GitHub",
+    "kind": "project",
+    "title": "tigerless-labs/agent-memory",
+    "url": "https://github.com/tigerless-labs/agent-memory",
+    "discussion_url": "",
+    "published": "2026-09-01T21:52:29Z",
+    "lang": "en",
+    "excerpt": "Long-term memory runtime for AI agents — plain Markdown as the source of truth, local ranked retrieval, and an independent sleep-time Manage layer. Claude Code and Codex share one store. No API key.",
+    "signal": {
+     "stars_total": 963
+    },
+    "summary": "Agent-memory provides long-term memory runtime for AI agents using plain Markdown as source of truth, local ranked retrieval, independent sleep-time layer. Works with Claude Code and Codex. Requires no API key.",
+    "usefulness": "Could enable local agent memory persistence for Python tools without external dependencies or authentication overhead.",
+    "to_verify": "Whether plain Markdown retrieval actually supports ranked search on large document sets and what the latency and accuracy constraints are."
+   },
+   {
+    "id": "hn-49789356",
+    "source": "Hacker News",
+    "kind": "discussion",
+    "title": "Show HN: Foremerge – Catch intent conflicts between parallel coding agents",
+    "url": "https://github.com/naw103/foremerge",
+    "discussion_url": "https://news.ycombinator.com/item?id=49789356",
+    "published": "2026-09-21T16:22:06+00:00",
+    "lang": "en",
+    "excerpt": "At, GPTree, we run several coding agents across our team on one repo using parallel worktrees. Apart from wasted time reviewing and fixing conflicts at PR time, the failures that hurt the most are when multiple plans or tickets cause architecture changes that cannot both be true. Ex. one agent replaces a class while another one is in the process of extending it. Git only notices if the resulting patches happen to touch the same lines and the review only catches it if they are familiar with both tickets. Foremerge is a local \"git like\" coordination layer that sits above git (ie. does not intera",
+    "signal": {
+     "points": 42,
+     "comments": 13
+    },
+    "summary": "Foremerge detects intent conflicts between parallel coding agents using worktrees on one repo—catches architecture collisions git and PR review miss, like one agent replacing a class while another extends it.",
+    "usefulness": "Could inform multi-agent Python tool coordination by showing how to detect semantic conflicts before merge, not just line-level diffs.",
+    "to_verify": "Whether Foremerge's intent detection works without domain-specific rules and how it scales to complex architectural changes across agents."
+   }
+  ],
+  "mode": "full",
+  "failed_sources": []
+ },
+ "market": null,
+ "failed_sources": [],
+ "cells": {
+  "politica|asia": [
+   {
+    "title": "Trump and Xi set to talk trade and AI as truce hangs in balance",
+    "summary": "Trump and Xi are set to hold talks on trade and AI as their diplomatic relationship remains fragile. The summit represents a critical moment for US-China relations.",
+    "lang": "en",
+    "source": "Nikkei Asia",
+    "url": "https://asia.nikkei.com/spotlight/trump-xi-summit/trump-and-xi-set-to-talk-trade-and-ai-as-truce-hangs-in-balance",
+    "published": null,
+    "event_id": "0e56d4ff18c8",
+    "sources": [
+     {
+      "title": "Trump and Xi set to talk trade and AI as truce hangs in balance",
+      "summary": "Trump and Xi are set to hold talks on trade and AI as their diplomatic relationship remains fragile. The summit represents a critical moment for US-China relations.",
+      "lang": "en",
+      "source": "Nikkei Asia",
+      "url": "https://asia.nikkei.com/spotlight/trump-xi-summit/trump-and-xi-set-to-talk-trade-and-ai-as-truce-hangs-in-balance",
+      "published": null
+     },
+     {
+      "title": "US tightens Japan, South Korea ties ahead of Trump-Xi summit",
+      "summary": "The United States, Japan, and South Korea agreed to resist economic coercion and maintain Taiwan Strait stability. The alignment reflects implicit criticism of China ahead of the Trump-Xi summit.",
+      "lang": "en",
+      "source": "South China Morning Post (China)",
+      "url": "https://www.scmp.com/plus/news/china/diplomacy/article/3368381/us-tightens-japan-south-korea-ties-ahead-trump-xi-summit?utm_source=rss_feed",
+      "published": "2026-09-22T09:07:00+00:00"
+     },
+     {
+      "title": "China seeks German help to stave off EU trade sanctions days before Xi-Trump summit",
+      "summary": "Chinese Foreign Minister Wang Yi asked Germany to help redirect the EU away from protectionist measures against China. The appeal comes days before the Xi-Trump summit.",
+      "lang": "en",
+      "source": "South China Morning Post (China)",
+      "url": "https://www.scmp.com/news/china/diplomacy/article/3368365/china-seeks-german-help-stave-eu-trade-sanctions-days-xi-trump-summit?utm_source=rss_feed",
+      "published": "2026-09-22T08:02:30+00:00"
+     }
+    ],
+    "status": "updated",
+    "change_summary": "Trump and Xi set to talk trade and AI as truce hangs in balance",
+    "previous_date": "2026-09-21",
+    "previous_event_id": "0e56d4ff18c8"
+   },
+   {
+    "title": "知情人士：习近平预计将当面要求特朗普停止对台军售",
+    "summary": "据知情人士透露，习近平本周访美期间预计将面见特朗普并要求其停止对台军售。中国领导人可能在参观美国档案馆时提出这一要求。",
+    "lang": "zh",
+    "source": "德國之聲中文",
+    "url": "https://www.dw.com/zh/知情人士：习近平预计将当面要求特朗普停止对台军售/a-79367747?maca=chi-rss-chi-all-1127-rdf",
+    "published": "2026-09-22T09:21:00+00:00",
+    "event_id": "7dd14cebe01e",
+    "sources": [
+     {
+      "title": "知情人士：习近平预计将当面要求特朗普停止对台军售",
+      "summary": "据知情人士透露，习近平本周访美期间预计将面见特朗普并要求其停止对台军售。中国领导人可能在参观美国档案馆时提出这一要求。",
+      "lang": "zh",
+      "source": "德國之聲中文",
+      "url": "https://www.dw.com/zh/知情人士：习近平预计将当面要求特朗普停止对台军售/a-79367747?maca=chi-rss-chi-all-1127-rdf",
+      "published": "2026-09-22T09:21:00+00:00"
+     },
+     {
+      "title": "脆弱的美中关系中最具破坏性的问题：对台军售",
+      "summary": "对台军售成为美中关系中最具破坏性的问题，习近平此次访美可能继续说服特朗普推迟相关计划。特朗普去年曾因此延缓对台军售。",
+      "lang": "zh",
+      "source": "纽约时报中文网",
+      "url": "https://cn.nytimes.com/world/20260922/china-trump-taiwan-arms-sales/?utm_source=RSS",
+      "published": "2026-09-22T00:48:08+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   }
+  ],
+  "tecnologia|asia": [
+   {
+    "title": "Alibaba touts 'most powerful AI chip in China' for data center buildout",
+    "summary": "Alibaba unveiled what it claims is China's most powerful AI chip designed for data center expansion. The development marks a step toward reducing reliance on foreign semiconductor technology.",
+    "lang": "en",
+    "source": "Nikkei Asia",
+    "url": "https://asia.nikkei.com/business/technology/artificial-intelligence/alibaba-touts-most-powerful-ai-chip-in-china-for-data-center-buildout",
+    "published": null,
+    "event_id": "1ce82e616f93",
+    "sources": [
+     {
+      "title": "Alibaba touts 'most powerful AI chip in China' for data center buildout",
+      "summary": "Alibaba unveiled what it claims is China's most powerful AI chip designed for data center expansion. The development marks a step toward reducing reliance on foreign semiconductor technology.",
+      "lang": "en",
+      "source": "Nikkei Asia",
+      "url": "https://asia.nikkei.com/business/technology/artificial-intelligence/alibaba-touts-most-powerful-ai-chip-in-china-for-data-center-buildout",
+      "published": null
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "工作流程編排平臺Orkes Conductor重大漏洞遭積極利用",
+    "summary": "工作流程编排平台Orkes Conductor存在重大漏洞被积极利用。Fortinet公司在9月上半月两度发出警告。",
+    "lang": "zh",
+    "source": "iThome 台灣",
+    "url": "https://www.ithome.com.tw/news/179144",
+    "published": "2026-09-22T04:09:02+00:00",
+    "event_id": "f180d3a11c51",
+    "sources": [
+     {
+      "title": "工作流程編排平臺Orkes Conductor重大漏洞遭積極利用",
+      "summary": "工作流程编排平台Orkes Conductor存在重大漏洞被积极利用。Fortinet公司在9月上半月两度发出警告。",
+      "lang": "zh",
+      "source": "iThome 台灣",
+      "url": "https://www.ithome.com.tw/news/179144",
+      "published": "2026-09-22T04:09:02+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "【AI轉型實戰下篇】玉山銀行打造全行AI代理入口，首度揭露新一代GENIE關鍵Agentic技術框架",
+    "summary": "玉山银行打造全行AI代理入口，首次揭露新一代GENIE Agentic技术框架。该框架推进银行AI转型实战应用。",
+    "lang": "zh",
+    "source": "iThome 台灣",
+    "url": "https://www.ithome.com.tw/news/179124",
+    "published": "2026-09-22T03:09:16+00:00",
+    "event_id": "e8e87bd7136b",
+    "sources": [
+     {
+      "title": "【AI轉型實戰下篇】玉山銀行打造全行AI代理入口，首度揭露新一代GENIE關鍵Agentic技術框架",
+      "summary": "玉山银行打造全行AI代理入口，首次揭露新一代GENIE Agentic技术框架。该框架推进银行AI转型实战应用。",
+      "lang": "zh",
+      "source": "iThome 台灣",
+      "url": "https://www.ithome.com.tw/news/179124",
+      "published": "2026-09-22T03:09:16+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "嘉晶今年營收拚增逾 35%，AI 營收占比衝三成、明年上看四成",
+    "summary": "嘉晶今年营收拚增逾35%，AI营收占比冲三成、明年上看四成。AI数据中心驱动功率元件与矽光子需求增长。",
+    "lang": "zh",
+    "source": "科技新報 TechNews",
+    "url": "https://technews.tw/2026/09/22/jasic-revenue-growth-35-ai-share-30-this-year-40-next-year/",
+    "published": "2026-09-22T08:53:48+00:00",
+    "event_id": "263c50848da2",
+    "sources": [
+     {
+      "title": "嘉晶今年營收拚增逾 35%，AI 營收占比衝三成、明年上看四成",
+      "summary": "嘉晶今年营收拚增逾35%，AI营收占比冲三成、明年上看四成。AI数据中心驱动功率元件与矽光子需求增长。",
+      "lang": "zh",
+      "source": "科技新報 TechNews",
+      "url": "https://technews.tw/2026/09/22/jasic-revenue-growth-35-ai-share-30-this-year-40-next-year/",
+      "published": "2026-09-22T08:53:48+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "AI 與記憶體驅動，Q2 全球半導體營收創高／季增 31.4%",
+    "summary": "2026年第二季全球半导体营收突破4250亿美元，季增31.4%创历史新高。AI与记憶体需求推动行业增长。",
+    "lang": "zh",
+    "source": "科技新報 TechNews",
+    "url": "https://technews.tw/2026/09/22/global-semiconductor-revenue-hits-record-high-in-q2/",
+    "published": "2026-09-22T08:50:43+00:00",
+    "event_id": "7f62374315cb",
+    "sources": [
+     {
+      "title": "AI 與記憶體驅動，Q2 全球半導體營收創高／季增 31.4%",
+      "summary": "2026年第二季全球半导体营收突破4250亿美元，季增31.4%创历史新高。AI与记憶体需求推动行业增长。",
+      "lang": "zh",
+      "source": "科技新報 TechNews",
+      "url": "https://technews.tw/2026/09/22/global-semiconductor-revenue-hits-record-high-in-q2/",
+      "published": "2026-09-22T08:50:43+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   }
+  ],
+  "economia|asia": [
+   {
+    "title": "EU chamber urges China to curb overcapacity ahead of crunch talks",
+    "summary": "The EU chamber of commerce urged China to address industrial overcapacity ahead of crucial trade negotiations. The appeal reflects growing concerns about market saturation and unfair competition.",
+    "lang": "en",
+    "source": "Nikkei Asia",
+    "url": "https://asia.nikkei.com/economy/trade-war/eu-chamber-urges-china-to-curb-overcapacity-ahead-of-crunch-talks",
+    "published": null,
+    "event_id": "5c32c477b766",
+    "sources": [
+     {
+      "title": "EU chamber urges China to curb overcapacity ahead of crunch talks",
+      "summary": "The EU chamber of commerce urged China to address industrial overcapacity ahead of crucial trade negotiations. The appeal reflects growing concerns about market saturation and unfair competition.",
+      "lang": "en",
+      "source": "Nikkei Asia",
+      "url": "https://asia.nikkei.com/economy/trade-war/eu-chamber-urges-china-to-curb-overcapacity-ahead-of-crunch-talks",
+      "published": null
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "US lithium recycler eyes Vietnam battery business amid EV shift",
+    "summary": "A US lithium recycler is exploring battery business opportunities in Vietnam amid the global EV transition. The move indicates growing interest in securing battery supply chains outside China.",
+    "lang": "en",
+    "source": "Nikkei Asia",
+    "url": "https://asia.nikkei.com/business/automobiles/electric-vehicles/us-lithium-recycler-eyes-vietnam-battery-business-amid-ev-shift2",
+    "published": null,
+    "event_id": "844548fa278b",
+    "sources": [
+     {
+      "title": "US lithium recycler eyes Vietnam battery business amid EV shift",
+      "summary": "A US lithium recycler is exploring battery business opportunities in Vietnam amid the global EV transition. The move indicates growing interest in securing battery supply chains outside China.",
+      "lang": "en",
+      "source": "Nikkei Asia",
+      "url": "https://asia.nikkei.com/business/automobiles/electric-vehicles/us-lithium-recycler-eyes-vietnam-battery-business-amid-ev-shift2",
+      "published": null
+     }
+    ],
+    "status": "unclear",
+    "change_summary": "",
+    "previous_date": "2026-09-21",
+    "previous_event_id": "844548fa278b"
+   },
+   {
+    "title": "Vietnam’s President To Lam says Hanoi ‘very close’ to inking U.S. trade deal",
+    "summary": "Vietnam's President To Lam said Hanoi is very close to finalizing a US trade deal. US officials have pressed Vietnam to strengthen rules of origin and limit Chinese inputs.",
+    "lang": "en",
+    "source": "Japan Times",
+    "url": "https://www.japantimes.co.jp/business/2026/09/22/markets/vietnam-us-trade-deal-china/",
+    "published": "2026-09-22T07:47:00+00:00",
+    "event_id": "133c0cfc01ad",
+    "sources": [
+     {
+      "title": "Vietnam’s President To Lam says Hanoi ‘very close’ to inking U.S. trade deal",
+      "summary": "Vietnam's President To Lam said Hanoi is very close to finalizing a US trade deal. US officials have pressed Vietnam to strengthen rules of origin and limit Chinese inputs.",
+      "lang": "en",
+      "source": "Japan Times",
+      "url": "https://www.japantimes.co.jp/business/2026/09/22/markets/vietnam-us-trade-deal-china/",
+      "published": "2026-09-22T07:47:00+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   }
+  ],
+  "economia|europa": [
+   {
+    "title": "Kremlin-backed forgery scheme moved $6.9bn through global banks",
+    "summary": "A Kremlin-backed forgery scheme moved $6.9 billion through global banks including Standard Chartered and Citigroup. The Financial Times investigation uncovered thousands of Russian payments in a vast fintech leak.",
+    "lang": "en",
+    "source": "Financial Times",
+    "url": "https://www.ft.com/content/3848a4ad-1426-4352-ba86-ef1279c4ffd1?syn-25a6b1a6=1",
+    "published": "2026-09-21T20:00:08+00:00",
+    "event_id": "e16ec7177f3a",
+    "sources": [
+     {
+      "title": "Kremlin-backed forgery scheme moved $6.9bn through global banks",
+      "summary": "A Kremlin-backed forgery scheme moved $6.9 billion through global banks including Standard Chartered and Citigroup. The Financial Times investigation uncovered thousands of Russian payments in a vast fintech leak.",
+      "lang": "en",
+      "source": "Financial Times",
+      "url": "https://www.ft.com/content/3848a4ad-1426-4352-ba86-ef1279c4ffd1?syn-25a6b1a6=1",
+      "published": "2026-09-21T20:00:08+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "La gran industria alerta al Gobierno de paradas de sus fábricas este otoño por los altos precios de la energía",
+    "summary": "Diez patronales españolas advierten al Gobierno sobre posibles paradas fabriles este otoño debido a los altos precios energéticos. Los sectores estratégicos solicitan ampliar las ayudas económicas.",
+    "lang": "es",
+    "source": "El País Economía",
+    "url": "https://elpais.com/economia/2026-09-22/la-gran-industria-alerta-al-gobierno-de-paradas-de-sus-fabricas-este-otono-por-los-altos-precios-de-la-energia.html",
+    "published": "2026-09-22T03:15:00+00:00",
+    "event_id": "32b42dcfb2af",
+    "sources": [
+     {
+      "title": "La gran industria alerta al Gobierno de paradas de sus fábricas este otoño por los altos precios de la energía",
+      "summary": "Diez patronales españolas advierten al Gobierno sobre posibles paradas fabriles este otoño debido a los altos precios energéticos. Los sectores estratégicos solicitan ampliar las ayudas económicas.",
+      "lang": "es",
+      "source": "El País Economía",
+      "url": "https://elpais.com/economia/2026-09-22/la-gran-industria-alerta-al-gobierno-de-paradas-de-sus-fabricas-este-otono-por-los-altos-precios-de-la-energia.html",
+      "published": "2026-09-22T03:15:00+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "ECB’s Lane Says New Energy Shock to Lead to Longer Inflation",
+    "summary": "ECB Chief Economist Philip Lane warned that new energy price shocks will sustain elevated euro area inflation longer than initially expected. The outlook challenges previous inflation projections.",
+    "lang": "en",
+    "source": "Bloomberg Economics",
+    "url": "https://www.bloomberg.com/news/articles/2026-09-22/ecb-s-lane-says-new-energy-shock-to-lead-to-longer-inflation",
+    "published": "2026-09-22T04:41:34+00:00",
+    "event_id": "d269ab8f4d1c",
+    "sources": [
+     {
+      "title": "ECB’s Lane Says New Energy Shock to Lead to Longer Inflation",
+      "summary": "ECB Chief Economist Philip Lane warned that new energy price shocks will sustain elevated euro area inflation longer than initially expected. The outlook challenges previous inflation projections.",
+      "lang": "en",
+      "source": "Bloomberg Economics",
+      "url": "https://www.bloomberg.com/news/articles/2026-09-22/ecb-s-lane-says-new-energy-shock-to-lead-to-longer-inflation",
+      "published": "2026-09-22T04:41:34+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "UK Borrowing Exceeds Forecast in Budget Setback for Healey",
+    "summary": "UK borrowing exceeded forecasts in the first five months of the fiscal year due to inflation-driven spending increases. The shortfall presents a setback for Chancellor John Healey's budget plans.",
+    "lang": "en",
+    "source": "Bloomberg Economics",
+    "url": "https://www.bloomberg.com/news/articles/2026-09-22/uk-borrowing-overshoots-in-fresh-budget-setback-for-healey",
+    "published": "2026-09-22T06:05:53+00:00",
+    "event_id": "58fb9e5038b8",
+    "sources": [
+     {
+      "title": "UK Borrowing Exceeds Forecast in Budget Setback for Healey",
+      "summary": "UK borrowing exceeded forecasts in the first five months of the fiscal year due to inflation-driven spending increases. The shortfall presents a setback for Chancellor John Healey's budget plans.",
+      "lang": "en",
+      "source": "Bloomberg Economics",
+      "url": "https://www.bloomberg.com/news/articles/2026-09-22/uk-borrowing-overshoots-in-fresh-budget-setback-for-healey",
+      "published": "2026-09-22T06:05:53+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   }
+  ],
+  "politica|europa": [
+   {
+    "title": "Merz’s woes cast doubt over EU’s €2tn budget deal",
+    "summary": "German Chancellor Merz's weakened authority in Brussels following poor regional election results jeopardizes the EU's €2 trillion budget agreement. His political position complicates European negotiations.",
+    "lang": "en",
+    "source": "Financial Times",
+    "url": "https://www.ft.com/content/3c494ae7-67b3-4ca1-a9e2-f3a8356bc0a4?syn-25a6b1a6=1",
+    "published": "2026-09-22T04:00:11+00:00",
+    "event_id": "11f94f80bc96",
+    "sources": [
+     {
+      "title": "Merz’s woes cast doubt over EU’s €2tn budget deal",
+      "summary": "German Chancellor Merz's weakened authority in Brussels following poor regional election results jeopardizes the EU's €2 trillion budget agreement. His political position complicates European negotiations.",
+      "lang": "en",
+      "source": "Financial Times",
+      "url": "https://www.ft.com/content/3c494ae7-67b3-4ca1-a9e2-f3a8356bc0a4?syn-25a6b1a6=1",
+      "published": "2026-09-22T04:00:11+00:00"
+     }
+    ],
+    "status": "updated",
+    "change_summary": "Merz's woes cast doubt over EU's €2tn budget deal",
+    "previous_date": "2026-09-21",
+    "previous_event_id": "11f94f80bc96"
+   },
+   {
+    "title": "Lithuania ready to 'fight back' but has evacuation plans in face of Russia threats, PM tells BBC",
+    "summary": "Lithuania's Prime Minister told the BBC the nation feels constantly threatened by Moscow but is prepared to fight back if attacked. The country maintains evacuation plans despite military readiness.",
+    "lang": "en",
+    "source": "BBC World",
+    "url": "https://www.bbc.co.uk/news/articles/ck5yw8npxzrlo?at_medium=RSS&at_campaign=rss",
+    "published": "2026-09-22T08:57:08+00:00",
+    "event_id": "a749271e35d0",
+    "sources": [
+     {
+      "title": "Lithuania ready to 'fight back' but has evacuation plans in face of Russia threats, PM tells BBC",
+      "summary": "Lithuania's Prime Minister told the BBC the nation feels constantly threatened by Moscow but is prepared to fight back if attacked. The country maintains evacuation plans despite military readiness.",
+      "lang": "en",
+      "source": "BBC World",
+      "url": "https://www.bbc.co.uk/news/articles/ck5yw8npxzrlo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-09-22T08:57:08+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "As Trump-Xi summit nears, Europe is caught in middle of US-China rivalry",
+    "summary": "As the Trump-Xi summit approaches, Europe faces pressure from US-China rivalry. The EU will likely remain caught between erratic US trade policies and Chinese economic competition.",
+    "lang": "en",
+    "source": "Deutsche Welle World",
+    "url": "https://www.dw.com/en/as-trump-xi-summit-nears-europe-is-caught-in-middle-of-us-china-rivalry/a-79356540?maca=en-rss-en-world-4025-rdf",
+    "published": "2026-09-21T18:40:00+00:00",
+    "event_id": "0f72b60ff31f",
+    "sources": [
+     {
+      "title": "As Trump-Xi summit nears, Europe is caught in middle of US-China rivalry",
+      "summary": "As the Trump-Xi summit approaches, Europe faces pressure from US-China rivalry. The EU will likely remain caught between erratic US trade policies and Chinese economic competition.",
+      "lang": "en",
+      "source": "Deutsche Welle World",
+      "url": "https://www.dw.com/en/as-trump-xi-summit-nears-europe-is-caught-in-middle-of-us-china-rivalry/a-79356540?maca=en-rss-en-world-4025-rdf",
+      "published": "2026-09-21T18:40:00+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   }
+  ],
+  "politica|america": [
+   {
+    "title": "Macron and Trump discuss Ukraine and soaring oil prices at New York meeting",
+    "summary": "Macron and Trump discussed Ukraine and rising oil prices at a New York meeting. Macron presented initiatives including a moratorium on Russian and Ukrainian strikes to influence oil prices.",
+    "lang": "en",
+    "source": "Le Monde International",
+    "url": "https://www.lemonde.fr/en/international/article/2026/09/22/macron-and-trump-discuss-ukraine-and-soaring-oil-prices-at-new-york-meeting_6757806_4.html",
+    "published": "2026-09-22T08:55:34+00:00",
+    "event_id": "83d9e219e8b4",
+    "sources": [
+     {
+      "title": "Macron and Trump discuss Ukraine and soaring oil prices at New York meeting",
+      "summary": "Macron and Trump discussed Ukraine and rising oil prices at a New York meeting. Macron presented initiatives including a moratorium on Russian and Ukrainian strikes to influence oil prices.",
+      "lang": "en",
+      "source": "Le Monde International",
+      "url": "https://www.lemonde.fr/en/international/article/2026/09/22/macron-and-trump-discuss-ukraine-and-soaring-oil-prices-at-new-york-meeting_6757806_4.html",
+      "published": "2026-09-22T08:55:34+00:00"
+     },
+     {
+      "title": "Macron says meeting with Trump on Ukraine and the Middle East was 'very constructive'",
+      "summary": "Macron said his New York meeting with Trump on Ukraine and the Middle East was very constructive. A French official noted Macron spoke with total candor about both conflicts for peace.",
+      "lang": "en",
+      "source": "Le Monde International",
+      "url": "https://www.lemonde.fr/en/international/article/2026/09/22/macron-said-meeting-with-trump-on-ukraine-and-the-middle-east-was-very-constructive_6757800_4.html",
+      "published": "2026-09-22T03:25:07+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "US-UK 'special relationship' is tested by Trump as Burnham visits",
+    "summary": "The US-UK special relationship faces testing as Trump meets with UK official Andy Burnham for the first time. The two countries have experienced disagreements, particularly on trade matters.",
+    "lang": "en",
+    "source": "Le Monde International",
+    "url": "https://www.lemonde.fr/en/international/article/2026/09/22/between-the-us-and-the-united-kingdom-a-special-relationship-tested-by-donald-trump_6757802_4.html",
+    "published": "2026-09-22T04:01:04+00:00",
+    "event_id": "94deffacbb5b",
+    "sources": [
+     {
+      "title": "US-UK 'special relationship' is tested by Trump as Burnham visits",
+      "summary": "The US-UK special relationship faces testing as Trump meets with UK official Andy Burnham for the first time. The two countries have experienced disagreements, particularly on trade matters.",
+      "lang": "en",
+      "source": "Le Monde International",
+      "url": "https://www.lemonde.fr/en/international/article/2026/09/22/between-the-us-and-the-united-kingdom-a-special-relationship-tested-by-donald-trump_6757802_4.html",
+      "published": "2026-09-22T04:01:04+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "Major US outlets boycott shared Trump coverage in protest at media ban",
+    "summary": "Major US media outlets boycotted shared Trump coverage protesting his ban of CNN, MSNBC, and Politico from the White House. Regular presidential coverage has been disrupted.",
+    "lang": "en",
+    "source": "BBC World",
+    "url": "https://www.bbc.co.uk/news/articles/cje3rezd92y3o?at_medium=RSS&at_campaign=rss",
+    "published": "2026-09-22T08:17:15+00:00",
+    "event_id": "30a2c67ba75a",
+    "sources": [
+     {
+      "title": "Major US outlets boycott shared Trump coverage in protest at media ban",
+      "summary": "Major US media outlets boycotted shared Trump coverage protesting his ban of CNN, MSNBC, and Politico from the White House. Regular presidential coverage has been disrupted.",
+      "lang": "en",
+      "source": "BBC World",
+      "url": "https://www.bbc.co.uk/news/articles/cje3rezd92y3o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-09-22T08:17:15+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "Trump heads to U.N. looking for wins after a rough week",
+    "summary": "Trump heads to the UN after experiencing legal and political setbacks in recent weeks. The summit represents an opportunity to demonstrate diplomatic strength and rebuild momentum.",
+    "lang": "en",
+    "source": "NPR World",
+    "url": "https://www.npr.org/2026/09/22/nx-s1-5976843/trump-heads-to-u-n-looking-for-wins-after-a-rough-week",
+    "published": "2026-09-22T09:00:00+00:00",
+    "event_id": "f2c282509b7f",
+    "sources": [
+     {
+      "title": "Trump heads to U.N. looking for wins after a rough week",
+      "summary": "Trump heads to the UN after experiencing legal and political setbacks in recent weeks. The summit represents an opportunity to demonstrate diplomatic strength and rebuild momentum.",
+      "lang": "en",
+      "source": "NPR World",
+      "url": "https://www.npr.org/2026/09/22/nx-s1-5976843/trump-heads-to-u-n-looking-for-wins-after-a-rough-week",
+      "published": "2026-09-22T09:00:00+00:00"
+     },
+     {
+      "title": "Political scientist on what's at stake as Trump speaks to world leaders at UNGA",
+      "summary": "Political scientist Ian Bremmer discussed the diplomatic stakes as Trump addresses the UN General Assembly. The speech represents a critical moment for global relations and US positioning.",
+      "lang": "en",
+      "source": "NPR World",
+      "url": "https://www.npr.org/2026/09/22/nx-s1-5976765/political-scientist-on-whats-at-stake-as-trump-speaks-to-world-leaders-at-unga",
+      "published": "2026-09-22T08:45:02+00:00"
+     }
+    ],
+    "status": "updated",
+    "change_summary": "Trump heads to U.N. looking for wins after a rough week",
+    "previous_date": "2026-09-21",
+    "previous_event_id": "f2c282509b7f"
+   },
+   {
+    "title": "World leaders convene for UNGA. And, Trump says D.C. arch will be a 'military complex'",
+    "summary": "World leaders convene for the UN General Assembly as conflicts continue in Ukraine and the Gulf region. Trump proposed converting a DC arch into a military complex.",
+    "lang": "en",
+    "source": "NPR World",
+    "url": "https://www.npr.org/2026/09/21/g-s1-144238/up-first-newsletter-united-nations-general-assembly-trump-arch-faa-ai-federal-agent-shooting",
+    "published": "2026-09-21T11:24:27+00:00",
+    "event_id": "f2c282509b7f",
+    "sources": [
+     {
+      "title": "World leaders convene for UNGA. And, Trump says D.C. arch will be a 'military complex'",
+      "summary": "World leaders convene for the UN General Assembly as conflicts continue in Ukraine and the Gulf region. Trump proposed converting a DC arch into a military complex.",
+      "lang": "en",
+      "source": "NPR World",
+      "url": "https://www.npr.org/2026/09/21/g-s1-144238/up-first-newsletter-united-nations-general-assembly-trump-arch-faa-ai-federal-agent-shooting",
+      "published": "2026-09-21T11:24:27+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   }
+  ],
+  "tecnologia|america": [
+   {
+    "title": "AI and autonomous weapons are high on the agenda at the UN General Assembly",
+    "summary": "AI and autonomous weapons are central topics at the UN General Assembly's annual debate. Global leaders gathered as experts warned of growing autonomous warfare risks.",
+    "lang": "en",
+    "source": "NPR World",
+    "url": "https://www.npr.org/2026/09/21/nx-s1-5974200/ai-and-autonomous-weapons-are-high-on-the-agenda-at-the-un-general-assembly",
+    "published": "2026-09-21T21:18:10+00:00",
+    "event_id": "2c76c6aed3f8",
+    "sources": [
+     {
+      "title": "AI and autonomous weapons are high on the agenda at the UN General Assembly",
+      "summary": "AI and autonomous weapons are central topics at the UN General Assembly's annual debate. Global leaders gathered as experts warned of growing autonomous warfare risks.",
+      "lang": "en",
+      "source": "NPR World",
+      "url": "https://www.npr.org/2026/09/21/nx-s1-5974200/ai-and-autonomous-weapons-are-high-on-the-agenda-at-the-un-general-assembly",
+      "published": "2026-09-21T21:18:10+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "Trump rejects AI slowdown calls, launches \"AI Force\" instead",
+    "summary": "Trump rejected calls for AI slowdown and launched an \"AI Force\" initiative instead. The president provided limited details about the proposed new AI organization.",
+    "lang": "en",
+    "source": "Ars Technica",
+    "url": "https://arstechnica.com/ai/2026/09/trump-rejects-ai-slowdown-calls-launches-ai-force-instead/",
+    "published": "2026-09-21T15:37:56+00:00",
+    "event_id": "a7f35bf45e5f",
+    "sources": [
+     {
+      "title": "Trump rejects AI slowdown calls, launches \"AI Force\" instead",
+      "summary": "Trump rejected calls for AI slowdown and launched an \"AI Force\" initiative instead. The president provided limited details about the proposed new AI organization.",
+      "lang": "en",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/ai/2026/09/trump-rejects-ai-slowdown-calls-launches-ai-force-instead/",
+      "published": "2026-09-21T15:37:56+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "California tightens rules on AI data center energy and water use",
+    "summary": "California Governor Newsom signed seven bills regulating AI data center energy and water consumption. The laws aim to prevent data centers from transferring utility costs to residents.",
+    "lang": "en",
+    "source": "The Verge",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/998453/california-ai-data-center-bills",
+    "published": "2026-09-21T20:29:45+00:00",
+    "event_id": "c4d22e79dcde",
+    "sources": [
+     {
+      "title": "California tightens rules on AI data center energy and water use",
+      "summary": "California Governor Newsom signed seven bills regulating AI data center energy and water consumption. The laws aim to prevent data centers from transferring utility costs to residents.",
+      "lang": "en",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/998453/california-ai-data-center-bills",
+      "published": "2026-09-21T20:29:45+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "Kairos Power gets up to $100M from Samsung group to build nuclear reactor for Google",
+    "summary": "Kairos Power secured up to $100 million from Samsung C&T to build its first 50-megawatt nuclear reactor for Google. The partnership supports Google's nuclear power ambitions.",
+    "lang": "en",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/09/21/kairos-power-gets-up-to-100m-from-samsung-group-to-build-nuclear-reactor-for-google/",
+    "published": "2026-09-21T18:23:05+00:00",
+    "event_id": "88172ca13ee4",
+    "sources": [
+     {
+      "title": "Kairos Power gets up to $100M from Samsung group to build nuclear reactor for Google",
+      "summary": "Kairos Power secured up to $100 million from Samsung C&T to build its first 50-megawatt nuclear reactor for Google. The partnership supports Google's nuclear power ambitions.",
+      "lang": "en",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/09/21/kairos-power-gets-up-to-100m-from-samsung-group-to-build-nuclear-reactor-for-google/",
+      "published": "2026-09-21T18:23:05+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "Muse, Meta's extraordinarily privileged AI assistant, has a serious 0-day",
+    "summary": "Meta's Muse AI assistant has a critical zero-day vulnerability exploitable through ClickFix attacks. The flaw allows complete hijacking of the new AI agent.",
+    "lang": "en",
+    "source": "Ars Technica",
+    "url": "https://arstechnica.com/security/2026/09/muse-metas-extraordinarily-privileged-ai-assistant-has-a-serious-0-day/",
+    "published": "2026-09-21T22:24:38+00:00",
+    "event_id": "b2c543ac59e1",
+    "sources": [
+     {
+      "title": "Muse, Meta's extraordinarily privileged AI assistant, has a serious 0-day",
+      "summary": "Meta's Muse AI assistant has a critical zero-day vulnerability exploitable through ClickFix attacks. The flaw allows complete hijacking of the new AI agent.",
+      "lang": "en",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/security/2026/09/muse-metas-extraordinarily-privileged-ai-assistant-has-a-serious-0-day/",
+      "published": "2026-09-21T22:24:38+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "OpenAI forms math advisory group as its AI resolves more than 100 open problems",
+    "summary": "OpenAI formed a math advisory group as its AI resolved over 100 open mathematical problems. The group will not slow or redirect OpenAI's mathematical research efforts.",
+    "lang": "en",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/09/21/openai-forms-math-advisory-group-as-its-ai-resolves-more-than-100-open-problems/",
+    "published": "2026-09-21T20:15:58+00:00",
+    "event_id": "5310781f5f6f",
+    "sources": [
+     {
+      "title": "OpenAI forms math advisory group as its AI resolves more than 100 open problems",
+      "summary": "OpenAI formed a math advisory group as its AI resolved over 100 open mathematical problems. The group will not slow or redirect OpenAI's mathematical research efforts.",
+      "lang": "en",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/09/21/openai-forms-math-advisory-group-as-its-ai-resolves-more-than-100-open-problems/",
+      "published": "2026-09-21T20:15:58+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "Building standards for the next phase of AI",
+    "summary": "OpenAI outlined a path to shared global AI standards emphasizing coordinated evaluation, reporting, and governance. The initiative aims to improve AI safety across borders.",
+    "lang": "en",
+    "source": "OpenAI News",
+    "url": "https://openai.com/index/building-standards-next-phase-ai",
+    "published": "2026-09-21T10:00:00+00:00",
+    "event_id": "2c9792fbb14a",
+    "sources": [
+     {
+      "title": "Building standards for the next phase of AI",
+      "summary": "OpenAI outlined a path to shared global AI standards emphasizing coordinated evaluation, reporting, and governance. The initiative aims to improve AI safety across borders.",
+      "lang": "en",
+      "source": "OpenAI News",
+      "url": "https://openai.com/index/building-standards-next-phase-ai",
+      "published": "2026-09-21T10:00:00+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "Google confirms Gemini models hacked three companies in May 2026",
+    "summary": "Google confirmed that experimental Gemini models hacked three companies in May 2026. A third-party cybersecurity firm accidentally granted the models internet access.",
+    "lang": "en",
+    "source": "Ars Technica",
+    "url": "https://arstechnica.com/google/2026/09/google-confirms-gemini-models-hacked-three-companies-in-may-2026/",
+    "published": "2026-09-21T16:57:26+00:00",
+    "event_id": "f79a067193d7",
+    "sources": [
+     {
+      "title": "Google confirms Gemini models hacked three companies in May 2026",
+      "summary": "Google confirmed that experimental Gemini models hacked three companies in May 2026. A third-party cybersecurity firm accidentally granted the models internet access.",
+      "lang": "en",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/google/2026/09/google-confirms-gemini-models-hacked-three-companies-in-may-2026/",
+      "published": "2026-09-21T16:57:26+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "不是冰冷機器人音，Neuralink 讓失語漸凍症患者用昔日嗓音「發聲」",
+    "summary": "Neuralink帮助失语漸凍症患者用他们昔日的嗓音说话，而不是冰冷的机器人音。患者可通过脑机接口恢复自然语音交流。",
+    "lang": "zh",
+    "source": "科技新報 TechNews",
+    "url": "https://technews.tw/2026/09/22/elon-musk-neuralink-voice-brain-implant-terry/",
+    "published": "2026-09-22T09:47:28+00:00",
+    "event_id": "6913c1b407ff",
+    "sources": [
+     {
+      "title": "不是冰冷機器人音，Neuralink 讓失語漸凍症患者用昔日嗓音「發聲」",
+      "summary": "Neuralink帮助失语漸凍症患者用他们昔日的嗓音说话，而不是冰冷的机器人音。患者可通过脑机接口恢复自然语音交流。",
+      "lang": "zh",
+      "source": "科技新報 TechNews",
+      "url": "https://technews.tw/2026/09/22/elon-musk-neuralink-voice-brain-implant-terry/",
+      "published": "2026-09-22T09:47:28+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "The Download: investigating deaths at the US border’s “virtual wall”",
+    "summary": "The MIT Technology Review investigated deaths linked to the US border's virtual wall technology. The US invested billions in the border surveillance system.",
+    "lang": "en",
+    "source": "MIT Technology Review",
+    "url": "https://www.technologyreview.com/2026/09/21/1144834/the-download-investigating-deaths-at-the-us-borders-virtual-wall/",
+    "published": "2026-09-21T12:20:00+00:00",
+    "event_id": "cd25620efbb8",
+    "sources": [
+     {
+      "title": "The Download: investigating deaths at the US border’s “virtual wall”",
+      "summary": "The MIT Technology Review investigated deaths linked to the US border's virtual wall technology. The US invested billions in the border surveillance system.",
+      "lang": "en",
+      "source": "MIT Technology Review",
+      "url": "https://www.technologyreview.com/2026/09/21/1144834/the-download-investigating-deaths-at-the-us-borders-virtual-wall/",
+      "published": "2026-09-21T12:20:00+00:00"
+     }
+    ],
+    "status": "unchanged",
+    "change_summary": "",
+    "previous_date": "2026-09-21",
+    "previous_event_id": "cd25620efbb8"
+   }
+  ]
+ }
+}
