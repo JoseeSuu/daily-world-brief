@@ -1,0 +1,908 @@
+{
+ "date": "2026-09-23",
+ "generated_at": "2026-09-23T10:12:45.429239+00:00",
+ "mode": "full",
+ "cost_usd": 0.0506,
+ "radar_cost_usd": 0.0052,
+ "events": {
+  "mode": "full",
+  "compared_with": "2026-09-22",
+  "articles": 38,
+  "uncompared_articles": 0,
+  "events": 35,
+  "cost_usd": 0.0188
+ },
+ "radar": {
+  "items": [
+   {
+    "id": "hn-49800566",
+    "source": "Hacker News",
+    "kind": "discussion",
+    "title": "Show HN: Training a model to identify AI web content from structure alone",
+    "url": "https://arxiv.org/abs/2609.15369",
+    "discussion_url": "https://news.ycombinator.com/item?id=49800566",
+    "published": "2026-09-22T13:00:49+00:00",
+    "lang": "en",
+    "excerpt": "Hey HN! We’re Vincent and Jochen from Sitefire ( https://sitefire.ai ). We have been working together for years, with backgrounds in RL/optimization at Stanford and software engineering from Technical University Munich (TUM). With Sitefire (YC W26), we help marketing teams get recommended by AI Search (ChatGPT, Google AI Overviews, AI Mode, Claude, etc.). Our software monitors prompts, sees which web pages get cited, and uses these insights to help marketing teams take action, e.g. create YouTube videos or write the right blog posts. This means we have a commercial stake in AI-generated web co",
+    "signal": {
+     "points": 60,
+     "comments": 15
+    },
+    "summary": "Sitefire authors describe training a model to identify AI-generated web content using structural features alone, with commercial application to help marketing teams optimize visibility in AI search systems.",
+    "usefulness": "Could inform document analysis tools that detect AI authorship patterns when building content evaluation features.",
+    "to_verify": "Whether the structural-only approach actually distinguishes AI from human writing without semantic features, and reported accuracy on labeled datasets."
+   },
+   {
+    "id": "hn-49803683",
+    "source": "Hacker News",
+    "kind": "discussion",
+    "title": "Show HN: AI·rete·RAG – a Rete rule engine decides, RAG explains why",
+    "url": "https://ai-rete-rag.com/",
+    "discussion_url": "https://news.ycombinator.com/item?id=49803683",
+    "published": "2026-09-22T16:15:06+00:00",
+    "lang": "en",
+    "excerpt": "Hi HN, I built ai·rete·rag because I kept seeing teams put an LLM in charge of decisions that need to be auditable (lending, fraud, clinical triage), then bolt on \"guardrails\" after the fact. It runs the two in series instead: 1. A pure-Python Rete engine evaluates YAML rules against your facts. The verdict comes only from here. Same facts, same verdict, every time, with salience-based conflict resolution.\n2. RAG retrieves passages from your own policy documents, and an LLM writes a plain-English explanation of the decision that was already made, citing those passages. It can't change the verd",
+    "signal": {
+     "points": 37,
+     "comments": 3
+    },
+    "summary": "Author presents ai·rete·rag: a system running Rete rule engine first for auditable decisions (lending, fraud, clinical), then RAG retrieves policy documents to explain decisions via LLM without allowing the LLM to alter verdicts.",
+    "usefulness": "Directly applicable when building Python tools for regulated document analysis where decision logic must remain transparent and reproducible regardless of LLM behavior.",
+    "to_verify": "Whether Rete engine truly prevents RAG/LLM from influencing the verdict in practice, and what happens when policy documents contradict the rule outcome."
+   }
+  ],
+  "mode": "full",
+  "failed_sources": []
+ },
+ "market": null,
+ "failed_sources": [],
+ "cells": {
+  "politica|asia": [
+   {
+    "title": "Trump-Xi summit live: Chinese president en route to US",
+    "summary": "Chinese President Xi is en route to the US for a summit with Trump. The high-level meeting addresses major bilateral issues between the two nations.",
+    "lang": "en",
+    "source": "Nikkei Asia",
+    "url": "https://asia.nikkei.com/spotlight/trump-xi-summit/trump-xi-summit-live-chinese-president-en-route-to-us",
+    "published": null,
+    "event_id": "0e56d4ff18c8",
+    "sources": [
+     {
+      "title": "Trump-Xi summit live: Chinese president en route to US",
+      "summary": "Chinese President Xi is en route to the US for a summit with Trump. The high-level meeting addresses major bilateral issues between the two nations.",
+      "lang": "en",
+      "source": "Nikkei Asia",
+      "url": "https://asia.nikkei.com/spotlight/trump-xi-summit/trump-xi-summit-live-chinese-president-en-route-to-us",
+      "published": null
+     },
+     {
+      "title": "美中元首峰会聚焦人工智能议题，但恐难有实质进展",
+      "summary": "中美元首峰会将以人工智能为核心议题，但专家预计难以取得实质进展。美中科技竞争激烈，且美国国内对AI监管方向缺乏共识，制约会谈成果。",
+      "lang": "zh",
+      "source": "纽约时报中文网",
+      "url": "https://cn.nytimes.com/business/20260923/us-china-ai-competition/?utm_source=RSS",
+      "published": "2026-09-23T03:51:00+00:00"
+     },
+     {
+      "title": "脆弱的美中关系中最具破坏性的问题：对台军售",
+      "summary": "对台军售成为中美关系中最具破坏性的问题，习近平5月会晤特朗普时发出警告。特朗普已推迟对台军售计划，习近平此访可能继续施压推迟交付。",
+      "lang": "zh",
+      "source": "纽约时报中文网",
+      "url": "https://cn.nytimes.com/world/20260922/china-trump-taiwan-arms-sales/?utm_source=RSS",
+      "published": "2026-09-23T01:59:28+00:00"
+     },
+     {
+      "title": "Before Xi Jinping's US visit, Taiwan worries about postponed arms deliveries",
+      "summary": "Taiwan is concerned about delayed US arms deliveries as Trump prepares to visit China. The president has described weapons sales to Taiwan as a negotiating tool in broader US-China talks.",
+      "lang": "en",
+      "source": "Le Monde International",
+      "url": "https://www.lemonde.fr/en/international/article/2026/09/23/before-xi-jinping-s-visit-to-the-us-taiwanese-worry-about-postponed-arms-deliveries_6757834_4.html",
+      "published": "2026-09-23T01:27:48+00:00"
+     }
+    ],
+    "status": "updated",
+    "change_summary": "Trump-Xi summit live: Chinese president en route to US",
+    "previous_date": "2026-09-22",
+    "previous_event_id": "0e56d4ff18c8"
+   },
+   {
+    "title": "US and Iran hold first talks since June after Trump's 'annihilation' threat",
+    "summary": "The US and Iran held their first talks since June after Trump's threats intensified regional tensions. Negotiations resumed following a ceasefire collapse with intermittent military exchanges.",
+    "lang": "en",
+    "source": "BBC World",
+    "url": "https://www.bbc.co.uk/news/articles/ck62m1631d7po?at_medium=RSS&at_campaign=rss",
+    "published": "2026-09-23T06:12:56+00:00",
+    "event_id": "934a7d163373",
+    "sources": [
+     {
+      "title": "US and Iran hold first talks since June after Trump's 'annihilation' threat",
+      "summary": "The US and Iran held their first talks since June after Trump's threats intensified regional tensions. Negotiations resumed following a ceasefire collapse with intermittent military exchanges.",
+      "lang": "en",
+      "source": "BBC World",
+      "url": "https://www.bbc.co.uk/news/articles/ck62m1631d7po?at_medium=RSS&at_campaign=rss",
+      "published": "2026-09-23T06:12:56+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "China’s purges of top military commanders spur questions about war-waging ability",
+    "summary": "China's purge of senior military commanders has strengthened Xi Jinping's control over the military institution. The crackdown raises questions about the institution's war-fighting capabilities.",
+    "lang": "en",
+    "source": "Japan Times",
+    "url": "https://www.japantimes.co.jp/news/2026/09/23/asia-pacific/china-purge-war-ability/",
+    "published": "2026-09-23T08:56:00+00:00",
+    "event_id": "280e0039c608",
+    "sources": [
+     {
+      "title": "China’s purges of top military commanders spur questions about war-waging ability",
+      "summary": "China's purge of senior military commanders has strengthened Xi Jinping's control over the military institution. The crackdown raises questions about the institution's war-fighting capabilities.",
+      "lang": "en",
+      "source": "Japan Times",
+      "url": "https://www.japantimes.co.jp/news/2026/09/23/asia-pacific/china-purge-war-ability/",
+      "published": "2026-09-23T08:56:00+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "Did North Korea’s missile launches target the Xi-Trump summit agenda?",
+    "summary": "North Korea may be conducting missile launches to influence the Xi-Trump summit agenda and demand recognition as a nuclear power. The tests potentially signal pressure on US-China negotiations.",
+    "lang": "en",
+    "source": "South China Morning Post (China)",
+    "url": "https://www.scmp.com/news/china/military/article/3368428/did-north-koreas-missile-launches-target-xi-trump-summit-agenda?utm_source=rss_feed",
+    "published": "2026-09-23T05:00:06+00:00",
+    "event_id": "55785832e118",
+    "sources": [
+     {
+      "title": "Did North Korea’s missile launches target the Xi-Trump summit agenda?",
+      "summary": "North Korea may be conducting missile launches to influence the Xi-Trump summit agenda and demand recognition as a nuclear power. The tests potentially signal pressure on US-China negotiations.",
+      "lang": "en",
+      "source": "South China Morning Post (China)",
+      "url": "https://www.scmp.com/news/china/military/article/3368428/did-north-koreas-missile-launches-target-xi-trump-summit-agenda?utm_source=rss_feed",
+      "published": "2026-09-23T05:00:06+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "Iran war spreads through region as Trump seeks way out",
+    "summary": "The Iran war continues spreading through the region as the US, Iran, and Gulf states pursue divergent objectives. All parties are simultaneously seeking a diplomatic resolution to the conflict.",
+    "lang": "en",
+    "source": "Deutsche Welle World",
+    "url": "https://www.dw.com/en/iran-war-spreads-through-region-as-trump-seeks-way-out/a-79370506?maca=en-rss-en-world-4025-rdf",
+    "published": "2026-09-22T11:29:00+00:00",
+    "event_id": "b51bc5e5651f",
+    "sources": [
+     {
+      "title": "Iran war spreads through region as Trump seeks way out",
+      "summary": "The Iran war continues spreading through the region as the US, Iran, and Gulf states pursue divergent objectives. All parties are simultaneously seeking a diplomatic resolution to the conflict.",
+      "lang": "en",
+      "source": "Deutsche Welle World",
+      "url": "https://www.dw.com/en/iran-war-spreads-through-region-as-trump-seeks-way-out/a-79370506?maca=en-rss-en-world-4025-rdf",
+      "published": "2026-09-22T11:29:00+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   }
+  ],
+  "tecnologia|asia": [
+   {
+    "title": "China reviews use of Broadcom hardware in data centres",
+    "summary": "China is reviewing Broadcom hardware use in data centres to boost domestic players and reduce foreign AI infrastructure reliance. The survey reflects broader efforts to enhance technological independence.",
+    "lang": "en",
+    "source": "FT Global Economy",
+    "url": "https://www.ft.com/content/b97dde39-7813-4a51-8176-3699e2a468b1?syn-25a6b1a6=1",
+    "published": "2026-09-23T04:00:19+00:00",
+    "event_id": "db42952e12f3",
+    "sources": [
+     {
+      "title": "China reviews use of Broadcom hardware in data centres",
+      "summary": "China is reviewing Broadcom hardware use in data centres to boost domestic players and reduce foreign AI infrastructure reliance. The survey reflects broader efforts to enhance technological independence.",
+      "lang": "en",
+      "source": "FT Global Economy",
+      "url": "https://www.ft.com/content/b97dde39-7813-4a51-8176-3699e2a468b1?syn-25a6b1a6=1",
+      "published": "2026-09-23T04:00:19+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "馬斯克：中國 2-3 年內將能補齊 AI 算力缺口",
+    "summary": "特斯拉与SpaceX执行长马斯克表示中国将在2-3年内补齐AI算力缺口。这反映中国在人工智能基础设施建设上的快速进展。",
+    "lang": "zh",
+    "source": "科技新報 TechNews",
+    "url": "https://technews.tw/2026/09/23/elon-musk-says-china-could-close-ai-compute-gap-within-3-years/",
+    "published": "2026-09-23T08:50:30+00:00",
+    "event_id": "3023cd65f1b5",
+    "sources": [
+     {
+      "title": "馬斯克：中國 2-3 年內將能補齊 AI 算力缺口",
+      "summary": "特斯拉与SpaceX执行长马斯克表示中国将在2-3年内补齐AI算力缺口。这反映中国在人工智能基础设施建设上的快速进展。",
+      "lang": "zh",
+      "source": "科技新報 TechNews",
+      "url": "https://technews.tw/2026/09/23/elon-musk-says-china-could-close-ai-compute-gap-within-3-years/",
+      "published": "2026-09-23T08:50:30+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "前 Google 首席科學家看好專用晶片，AI 自動化將顛覆晶片設計週期",
+    "summary": "前Google首席科学家迪恩看好专用芯片在AI领域的前景，认为人工智能将颠覆芯片设计周期。AI有助于芯片设计者克服设计挑战。",
+    "lang": "zh",
+    "source": "科技新報 TechNews",
+    "url": "https://technews.tw/2026/09/23/ai-helps-chip-designers-break-traditional-design-cycle-limits/",
+    "published": "2026-09-23T09:44:55+00:00",
+    "event_id": "86f80d43c59c",
+    "sources": [
+     {
+      "title": "前 Google 首席科學家看好專用晶片，AI 自動化將顛覆晶片設計週期",
+      "summary": "前Google首席科学家迪恩看好专用芯片在AI领域的前景，认为人工智能将颠覆芯片设计周期。AI有助于芯片设计者克服设计挑战。",
+      "lang": "zh",
+      "source": "科技新報 TechNews",
+      "url": "https://technews.tw/2026/09/23/ai-helps-chip-designers-break-traditional-design-cycle-limits/",
+      "published": "2026-09-23T09:44:55+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "China acaba de lograr algo asombroso: ha encontrado la forma de abrir el camino hacia los 3 nm sin litografía UVE",
+    "summary": "China ha desarrollado una tecnología para fabricar chips de 3 nm sin litografía UVE, evitando sanciones estadounidenses y neerlandesas. Este avance reduce su dependencia de equipos de fabricación extranjeros.",
+    "lang": "es",
+    "source": "Xataka",
+    "url": "https://www.xataka.com/empresas-y-economia/china-acaba-lograr-algo-asombroso-ha-encontrado-forma-abrir-camino-3-nm-litografia-uve",
+    "published": "2026-09-23T10:01:03+00:00",
+    "event_id": "1ce82e616f93",
+    "sources": [
+     {
+      "title": "China acaba de lograr algo asombroso: ha encontrado la forma de abrir el camino hacia los 3 nm sin litografía UVE",
+      "summary": "China ha desarrollado una tecnología para fabricar chips de 3 nm sin litografía UVE, evitando sanciones estadounidenses y neerlandesas. Este avance reduce su dependencia de equipos de fabricación extranjeros.",
+      "lang": "es",
+      "source": "Xataka",
+      "url": "https://www.xataka.com/empresas-y-economia/china-acaba-lograr-algo-asombroso-ha-encontrado-forma-abrir-camino-3-nm-litografia-uve",
+      "published": "2026-09-23T10:01:03+00:00"
+     }
+    ],
+    "status": "updated",
+    "change_summary": "China acaba de lograr algo asombroso: ha encontrado la forma de abrir el camino hacia los 3 nm sin litografía UVE",
+    "previous_date": "2026-09-22",
+    "previous_event_id": "1ce82e616f93"
+   }
+  ],
+  "economia|asia": [
+   {
+    "title": "India's battery cell firms scale back ambition as China partnerships sour",
+    "summary": "India's battery cell firms are scaling back expansion plans as China partnerships deteriorate. Geopolitical tensions and trade pressures are reshaping India's battery sector strategy.",
+    "lang": "en",
+    "source": "Nikkei Asia",
+    "url": "https://asia.nikkei.com/business/energy/india-s-battery-cell-firms-scale-back-ambition-as-china-partnerships-sour",
+    "published": null,
+    "event_id": "b5e6a318dece",
+    "sources": [
+     {
+      "title": "India's battery cell firms scale back ambition as China partnerships sour",
+      "summary": "India's battery cell firms are scaling back expansion plans as China partnerships deteriorate. Geopolitical tensions and trade pressures are reshaping India's battery sector strategy.",
+      "lang": "en",
+      "source": "Nikkei Asia",
+      "url": "https://asia.nikkei.com/business/energy/india-s-battery-cell-firms-scale-back-ambition-as-china-partnerships-sour",
+      "published": null
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "Bank Indonesia Keeps Key Rate Steady Despite Renewed Pressure on Rupiah",
+    "summary": "Indonesia's central bank held its key interest rate steady for a third consecutive meeting amid rupiah pressure. The bank relies on intervention and hedging incentives to support the currency.",
+    "lang": "en",
+    "source": "Bloomberg Economics",
+    "url": "https://www.bloomberg.com/news/articles/2026-09-23/bank-indonesia-keeps-key-rate-steady-despite-renewed-pressure-on-rupiah",
+    "published": "2026-09-23T07:22:48+00:00",
+    "event_id": "95470de558e5",
+    "sources": [
+     {
+      "title": "Bank Indonesia Keeps Key Rate Steady Despite Renewed Pressure on Rupiah",
+      "summary": "Indonesia's central bank held its key interest rate steady for a third consecutive meeting amid rupiah pressure. The bank relies on intervention and hedging incentives to support the currency.",
+      "lang": "en",
+      "source": "Bloomberg Economics",
+      "url": "https://www.bloomberg.com/news/articles/2026-09-23/bank-indonesia-keeps-key-rate-steady-despite-renewed-pressure-on-rupiah",
+      "published": "2026-09-23T07:22:48+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "Vietnam's Vingroup inks $1bn bullet train deal with Siemens",
+    "summary": "Vietnam's Vingroup has signed a $1 billion bullet train deal with Siemens. The agreement marks a major infrastructure investment for Vietnam's rail transport system.",
+    "lang": "en",
+    "source": "Nikkei Asia",
+    "url": "https://asia.nikkei.com/business/transportation/vietnam-s-vingroup-inks-1bn-bullet-train-deal-with-siemens",
+    "published": null,
+    "event_id": "adfa826886cd",
+    "sources": [
+     {
+      "title": "Vietnam's Vingroup inks $1bn bullet train deal with Siemens",
+      "summary": "Vietnam's Vingroup has signed a $1 billion bullet train deal with Siemens. The agreement marks a major infrastructure investment for Vietnam's rail transport system.",
+      "lang": "en",
+      "source": "Nikkei Asia",
+      "url": "https://asia.nikkei.com/business/transportation/vietnam-s-vingroup-inks-1bn-bullet-train-deal-with-siemens",
+      "published": null
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   }
+  ],
+  "economia|europa": [
+   {
+    "title": "El Gobierno estudia una intervención de los precios del gas para frenar la subida de la factura eléctrica",
+    "summary": "El Gobierno analiza fijar un tope de precios del gas similar a la excepción ibérica para frenar la factura eléctrica. No existe consenso debido al impacto negativo en renovables y ruptura de reglas del mercado europeo.",
+    "lang": "es",
+    "source": "El País Economía",
+    "url": "https://cincodias.elpais.com/companias/2026-09-23/el-gobierno-estudia-una-intervencion-de-los-precios-del-gas-para-frenar-la-subida-de-la-factura-electrica.html",
+    "published": "2026-09-23T03:15:00+00:00",
+    "event_id": "785ff8350acc",
+    "sources": [
+     {
+      "title": "El Gobierno estudia una intervención de los precios del gas para frenar la subida de la factura eléctrica",
+      "summary": "El Gobierno analiza fijar un tope de precios del gas similar a la excepción ibérica para frenar la factura eléctrica. No existe consenso debido al impacto negativo en renovables y ruptura de reglas del mercado europeo.",
+      "lang": "es",
+      "source": "El País Economía",
+      "url": "https://cincodias.elpais.com/companias/2026-09-23/el-gobierno-estudia-una-intervencion-de-los-precios-del-gas-para-frenar-la-subida-de-la-factura-electrica.html",
+      "published": "2026-09-23T03:15:00+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "Global banks warn UK windfall tax will trigger shift away from London",
+    "summary": "Global banks warn the UK windfall tax will trigger financial sector relocation from London. Chancellor John Healey seeks budget revenues to offset higher borrowing costs from regional conflicts.",
+    "lang": "en",
+    "source": "Financial Times",
+    "url": "https://www.ft.com/content/ab694096-0acf-4e13-9726-ec339a082a99?syn-25a6b1a6=1",
+    "published": "2026-09-23T04:00:29+00:00",
+    "event_id": "d9c4166e64bd",
+    "sources": [
+     {
+      "title": "Global banks warn UK windfall tax will trigger shift away from London",
+      "summary": "Global banks warn the UK windfall tax will trigger financial sector relocation from London. Chancellor John Healey seeks budget revenues to offset higher borrowing costs from regional conflicts.",
+      "lang": "en",
+      "source": "Financial Times",
+      "url": "https://www.ft.com/content/ab694096-0acf-4e13-9726-ec339a082a99?syn-25a6b1a6=1",
+      "published": "2026-09-23T04:00:29+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "Diesel surge costs European drivers €203mn per day",
+    "summary": "European diesel prices have surged, costing drivers €203 million daily. Motorists spend 40% more per refill compared to early this year.",
+    "lang": "en",
+    "source": "Financial Times",
+    "url": "https://www.ft.com/content/76b51a19-0387-4eed-a343-980b1135de2c?syn-25a6b1a6=1",
+    "published": "2026-09-23T04:00:29+00:00",
+    "event_id": "27e2278301f5",
+    "sources": [
+     {
+      "title": "Diesel surge costs European drivers €203mn per day",
+      "summary": "European diesel prices have surged, costing drivers €203 million daily. Motorists spend 40% more per refill compared to early this year.",
+      "lang": "en",
+      "source": "Financial Times",
+      "url": "https://www.ft.com/content/76b51a19-0387-4eed-a343-980b1135de2c?syn-25a6b1a6=1",
+      "published": "2026-09-23T04:00:29+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "Euro at Two-Month Low as Options Traders Add Downside Hedges",
+    "summary": "The euro fell to a two-month low against the dollar as options traders increased downside hedges. The decline follows the Federal Reserve's interest-rate increase.",
+    "lang": "en",
+    "source": "Bloomberg Markets",
+    "url": "https://www.bloomberg.com/news/articles/2026-09-23/euro-hits-two-month-low-as-options-traders-add-downside-hedges",
+    "published": "2026-09-23T07:03:00+00:00",
+    "event_id": "5cfc1119fe1c",
+    "sources": [
+     {
+      "title": "Euro at Two-Month Low as Options Traders Add Downside Hedges",
+      "summary": "The euro fell to a two-month low against the dollar as options traders increased downside hedges. The decline follows the Federal Reserve's interest-rate increase.",
+      "lang": "en",
+      "source": "Bloomberg Markets",
+      "url": "https://www.bloomberg.com/news/articles/2026-09-23/euro-hits-two-month-low-as-options-traders-add-downside-hedges",
+      "published": "2026-09-23T07:03:00+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "A more hawkish ECB will respond to prolonged high energy prices",
+    "summary": "The ECB is expected to adopt a more hawkish stance in response to prolonged high energy prices. Rate decisions reflect persistent inflation concerns across the eurozone.",
+    "lang": "en",
+    "source": "FT Global Economy",
+    "url": "https://www.ft.com/content/c557b92a-48bc-4d82-8fdb-f45cdc96ed77",
+    "published": "2026-09-23T04:30:08+00:00",
+    "event_id": "d269ab8f4d1c",
+    "sources": [
+     {
+      "title": "A more hawkish ECB will respond to prolonged high energy prices",
+      "summary": "The ECB is expected to adopt a more hawkish stance in response to prolonged high energy prices. Rate decisions reflect persistent inflation concerns across the eurozone.",
+      "lang": "en",
+      "source": "FT Global Economy",
+      "url": "https://www.ft.com/content/c557b92a-48bc-4d82-8fdb-f45cdc96ed77",
+      "published": "2026-09-23T04:30:08+00:00"
+     }
+    ],
+    "status": "unchanged",
+    "change_summary": "",
+    "previous_date": "2026-09-22",
+    "previous_event_id": "d269ab8f4d1c"
+   }
+  ],
+  "economia|america": [
+   {
+    "title": "Federal Reserve Board announces approval of application by BancFirst Corporation",
+    "summary": "The Federal Reserve approved BancFirst Corporation's banking application. The approval allows the company to proceed with its proposed operations.",
+    "lang": "en",
+    "source": "Reserva Federal (notas de prensa)",
+    "url": "https://www.federalreserve.gov/newsevents/pressreleases/orders20260922a.htm",
+    "published": "2026-09-22T20:30:00+00:00",
+    "event_id": "bb3326ddb25c",
+    "sources": [
+     {
+      "title": "Federal Reserve Board announces approval of application by BancFirst Corporation",
+      "summary": "The Federal Reserve approved BancFirst Corporation's banking application. The approval allows the company to proceed with its proposed operations.",
+      "lang": "en",
+      "source": "Reserva Federal (notas de prensa)",
+      "url": "https://www.federalreserve.gov/newsevents/pressreleases/orders20260922a.htm",
+      "published": "2026-09-22T20:30:00+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "South Korea bets on Texas gas plant to satisfy Trump",
+    "summary": "South Korea is funding a $22 billion Texas gas plant to satisfy Trump's investment demands. Seoul is working to fulfill its $350 billion US investment commitment amid political pressure.",
+    "lang": "en",
+    "source": "FT Global Economy",
+    "url": "https://www.ft.com/content/7a977d6f-fdbc-425a-8881-7c43716c77f5?syn-25a6b1a6=1",
+    "published": "2026-09-23T04:28:42+00:00",
+    "event_id": "2fcdb94600a1",
+    "sources": [
+     {
+      "title": "South Korea bets on Texas gas plant to satisfy Trump",
+      "summary": "South Korea is funding a $22 billion Texas gas plant to satisfy Trump's investment demands. Seoul is working to fulfill its $350 billion US investment commitment amid political pressure.",
+      "lang": "en",
+      "source": "FT Global Economy",
+      "url": "https://www.ft.com/content/7a977d6f-fdbc-425a-8881-7c43716c77f5?syn-25a6b1a6=1",
+      "published": "2026-09-23T04:28:42+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   }
+  ],
+  "politica|america": [
+   {
+    "title": "The battle between the Fed and Trump",
+    "summary": "The Federal Reserve faces tension with the Trump administration over economic policy direction. A fundamentally strong economy confronts potentially destabilizing government decisions.",
+    "lang": "en",
+    "source": "Financial Times",
+    "url": "https://www.ft.com/content/d2e5ed9c-a123-4275-afc7-14b75b9337a0?syn-25a6b1a6=1",
+    "published": "2026-09-23T04:00:29+00:00",
+    "event_id": "dc3cc63ba1a8",
+    "sources": [
+     {
+      "title": "The battle between the Fed and Trump",
+      "summary": "The Federal Reserve faces tension with the Trump administration over economic policy direction. A fundamentally strong economy confronts potentially destabilizing government decisions.",
+      "lang": "en",
+      "source": "Financial Times",
+      "url": "https://www.ft.com/content/d2e5ed9c-a123-4275-afc7-14b75b9337a0?syn-25a6b1a6=1",
+      "published": "2026-09-23T04:00:29+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "At UN, Trump feigns hesitation between 'deal' and 'annihilation' of Iran",
+    "summary": "Trump rhetorically presented military options against Iran during his UN address, framing intervention as choice between negotiation and military action. His stance reflects ongoing US-Iran tensions.",
+    "lang": "en",
+    "source": "Le Monde International",
+    "url": "https://www.lemonde.fr/en/international/article/2026/09/23/at-un-trump-feigns-hesitation-between-deal-and-annihilation-of-iran_6757841_4.html",
+    "published": "2026-09-23T07:46:03+00:00",
+    "event_id": "bda9c47590d6",
+    "sources": [
+     {
+      "title": "At UN, Trump feigns hesitation between 'deal' and 'annihilation' of Iran",
+      "summary": "Trump rhetorically presented military options against Iran during his UN address, framing intervention as choice between negotiation and military action. His stance reflects ongoing US-Iran tensions.",
+      "lang": "en",
+      "source": "Le Monde International",
+      "url": "https://www.lemonde.fr/en/international/article/2026/09/23/at-un-trump-feigns-hesitation-between-deal-and-annihilation-of-iran_6757841_4.html",
+      "published": "2026-09-23T07:46:03+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "Trump meets US-backed Venezuelan president for first time since Maduro seized",
+    "summary": "Trump met Venezuela's US-backed opposition president Juan Guaidó for the first time since Maduro consolidated power. Guaidó, handpicked by Trump, was previously arrested and extradited to the US.",
+    "lang": "en",
+    "source": "BBC World",
+    "url": "https://www.bbc.co.uk/news/articles/cj207y30wp0lo?at_medium=RSS&at_campaign=rss",
+    "published": "2026-09-23T09:48:50+00:00",
+    "event_id": "2dbbfc735b2c",
+    "sources": [
+     {
+      "title": "Trump meets US-backed Venezuelan president for first time since Maduro seized",
+      "summary": "Trump met Venezuela's US-backed opposition president Juan Guaidó for the first time since Maduro consolidated power. Guaidó, handpicked by Trump, was previously arrested and extradited to the US.",
+      "lang": "en",
+      "source": "BBC World",
+      "url": "https://www.bbc.co.uk/news/articles/cj207y30wp0lo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-09-23T09:48:50+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "Hurricane Polo intensifies into rare category 5 storm off the coast of Mexico",
+    "summary": "Hurricane Polo intensified into a rare Category 5 storm off Mexico's coast with remarkable sudden strengthening. US hurricane monitors characterized the development as exceptional.",
+    "lang": "en",
+    "source": "BBC World",
+    "url": "https://www.bbc.co.uk/news/articles/ckddvlrlr5qeo?at_medium=RSS&at_campaign=rss",
+    "published": "2026-09-23T02:54:56+00:00",
+    "event_id": "966d88a00af4",
+    "sources": [
+     {
+      "title": "Hurricane Polo intensifies into rare category 5 storm off the coast of Mexico",
+      "summary": "Hurricane Polo intensified into a rare Category 5 storm off Mexico's coast with remarkable sudden strengthening. US hurricane monitors characterized the development as exceptional.",
+      "lang": "en",
+      "source": "BBC World",
+      "url": "https://www.bbc.co.uk/news/articles/ckddvlrlr5qeo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-09-23T02:54:56+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "Trump lays out his agenda as middle powers call for more cooperation at UNGA",
+    "summary": "Middle powers called for increased international cooperation at the UN General Assembly as Trump presented his America First agenda. The president defended US military action against Iran.",
+    "lang": "en",
+    "source": "NPR World",
+    "url": "https://www.npr.org/2026/09/23/nx-s1-5976960/trump-lays-out-his-agenda-as-middle-powers-call-for-more-cooperation-at-unga",
+    "published": "2026-09-23T08:41:10+00:00",
+    "event_id": "da5901656e55",
+    "sources": [
+     {
+      "title": "Trump lays out his agenda as middle powers call for more cooperation at UNGA",
+      "summary": "Middle powers called for increased international cooperation at the UN General Assembly as Trump presented his America First agenda. The president defended US military action against Iran.",
+      "lang": "en",
+      "source": "NPR World",
+      "url": "https://www.npr.org/2026/09/23/nx-s1-5976960/trump-lays-out-his-agenda-as-middle-powers-call-for-more-cooperation-at-unga",
+      "published": "2026-09-23T08:41:10+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "Trump heads to the U.N. looking for wins after a rough week",
+    "summary": "Trump attended the UN seeking diplomatic victories after facing legal and political setbacks in recent weeks. The challenging period includes multiple concurrent challenges to his administration.",
+    "lang": "en",
+    "source": "NPR World",
+    "url": "https://www.npr.org/2026/09/22/nx-s1-5976843/trump-heads-to-u-n-looking-for-wins-after-a-rough-week",
+    "published": "2026-09-22T09:00:00+00:00",
+    "event_id": "f2c282509b7f",
+    "sources": [
+     {
+      "title": "Trump heads to the U.N. looking for wins after a rough week",
+      "summary": "Trump attended the UN seeking diplomatic victories after facing legal and political setbacks in recent weeks. The challenging period includes multiple concurrent challenges to his administration.",
+      "lang": "en",
+      "source": "NPR World",
+      "url": "https://www.npr.org/2026/09/22/nx-s1-5976843/trump-heads-to-u-n-looking-for-wins-after-a-rough-week",
+      "published": "2026-09-22T09:00:00+00:00"
+     }
+    ],
+    "status": "unchanged",
+    "change_summary": "",
+    "previous_date": "2026-09-22",
+    "previous_event_id": "f2c282509b7f"
+   }
+  ],
+  "politica|europa": [
+   {
+    "title": "Famine threatens the Ukrainian town of Oleshky in the southern Kherson region as Russia delays creating a humanitarian evacuation corridor",
+    "summary": "Famine threatens Oleshky in occupied southern Kherson region as Russia delays creating a humanitarian evacuation corridor. Food supplies have been cut off since May amid ongoing conflict.",
+    "lang": "en",
+    "source": "Deutsche Welle World",
+    "url": "https://www.dw.com/en/famine-threatens-the-ukrainian-town-of-oleshky-in-the-southern-kherson-region-as-russia-delays-creating-a-humanitarian-evacuation-corridor/a-79380887?maca=en-rss-en-world-4025-rdf",
+    "published": "2026-09-23T08:23:00+00:00",
+    "event_id": "b43d3a0a5cf1",
+    "sources": [
+     {
+      "title": "Famine threatens the Ukrainian town of Oleshky in the southern Kherson region as Russia delays creating a humanitarian evacuation corridor",
+      "summary": "Famine threatens Oleshky in occupied southern Kherson region as Russia delays creating a humanitarian evacuation corridor. Food supplies have been cut off since May amid ongoing conflict.",
+      "lang": "en",
+      "source": "Deutsche Welle World",
+      "url": "https://www.dw.com/en/famine-threatens-the-ukrainian-town-of-oleshky-in-the-southern-kherson-region-as-russia-delays-creating-a-humanitarian-evacuation-corridor/a-79380887?maca=en-rss-en-world-4025-rdf",
+      "published": "2026-09-23T08:23:00+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "Military aircraft crashes near US air base in Spangdahlem, Germany",
+    "summary": "An F-16 fighter jet crashed near Spangdahlem Air Base in Germany with the pilot safely ejecting. The incident occurred at a key US military installation in the German state of Rhineland-Palatinate.",
+    "lang": "en",
+    "source": "Deutsche Welle World",
+    "url": "https://www.dw.com/en/military-aircraft-crashes-near-us-air-base-in-spangdahlem-germany/a-79376025?maca=en-rss-en-world-4025-rdf",
+    "published": "2026-09-22T14:12:00+00:00",
+    "event_id": "9871a4cb0200",
+    "sources": [
+     {
+      "title": "Military aircraft crashes near US air base in Spangdahlem, Germany",
+      "summary": "An F-16 fighter jet crashed near Spangdahlem Air Base in Germany with the pilot safely ejecting. The incident occurred at a key US military installation in the German state of Rhineland-Palatinate.",
+      "lang": "en",
+      "source": "Deutsche Welle World",
+      "url": "https://www.dw.com/en/military-aircraft-crashes-near-us-air-base-in-spangdahlem-germany/a-79376025?maca=en-rss-en-world-4025-rdf",
+      "published": "2026-09-22T14:12:00+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "Ukraine's Zelenskyy proposes energy truce with Russia during meeting with Trump",
+    "summary": "Ukraine's President Zelenskyy met Trump at the UN and proposed a mutual energy system ceasefire with Russia. The proposal aims to halt attacks on critical infrastructure by both nations.",
+    "lang": "en",
+    "source": "NPR World",
+    "url": "https://www.npr.org/2026/09/23/nx-s1-5978127/ukraines-zelenskyy-proposes-energy-truce-with-russia-during-meeting-with-trump",
+    "published": "2026-09-23T08:45:17+00:00",
+    "event_id": "9008e551cfbd",
+    "sources": [
+     {
+      "title": "Ukraine's Zelenskyy proposes energy truce with Russia during meeting with Trump",
+      "summary": "Ukraine's President Zelenskyy met Trump at the UN and proposed a mutual energy system ceasefire with Russia. The proposal aims to halt attacks on critical infrastructure by both nations.",
+      "lang": "en",
+      "source": "NPR World",
+      "url": "https://www.npr.org/2026/09/23/nx-s1-5978127/ukraines-zelenskyy-proposes-energy-truce-with-russia-during-meeting-with-trump",
+      "published": "2026-09-23T08:45:17+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   }
+  ],
+  "tecnologia|america": [
+   {
+    "title": "Check Point警告兩個重大漏洞遭積極利用",
+    "summary": "美国网络安全部门警告Check Point系统存在两个重大漏洞CVE-2026-85102和CVE-2026-93616遭积极利用。四个严重漏洞总体上正被黑客主动开发利用。",
+    "lang": "zh",
+    "source": "iThome 台灣",
+    "url": "https://www.ithome.com.tw/news/179183",
+    "published": "2026-09-23T05:09:04+00:00",
+    "event_id": "f180d3a11c51",
+    "sources": [
+     {
+      "title": "Check Point警告兩個重大漏洞遭積極利用",
+      "summary": "美国网络安全部门警告Check Point系统存在两个重大漏洞CVE-2026-85102和CVE-2026-93616遭积极利用。四个严重漏洞总体上正被黑客主动开发利用。",
+      "lang": "zh",
+      "source": "iThome 台灣",
+      "url": "https://www.ithome.com.tw/news/179183",
+      "published": "2026-09-23T05:09:04+00:00"
+     }
+    ],
+    "status": "updated",
+    "change_summary": "Check Point警告兩個重大漏洞遭積極利用",
+    "previous_date": "2026-09-22",
+    "previous_event_id": "f180d3a11c51"
+   },
+   {
+    "title": "Microsoft disrupts AI-assisted platform that compromised 12,000 accounts",
+    "summary": "Microsoft disrupted an AI-assisted platform called EvilTokens that had compromised 12,000 user accounts. The tool streamlined mass account breaches using automated techniques.",
+    "lang": "en",
+    "source": "Ars Technica",
+    "url": "https://arstechnica.com/security/2026/09/microsoft-disrupts-ai-assisted-platform-that-compromised-12000/",
+    "published": "2026-09-22T19:45:47+00:00",
+    "event_id": "69bd5b227657",
+    "sources": [
+     {
+      "title": "Microsoft disrupts AI-assisted platform that compromised 12,000 accounts",
+      "summary": "Microsoft disrupted an AI-assisted platform called EvilTokens that had compromised 12,000 user accounts. The tool streamlined mass account breaches using automated techniques.",
+      "lang": "en",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/security/2026/09/microsoft-disrupts-ai-assisted-platform-that-compromised-12000/",
+      "published": "2026-09-22T19:45:47+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "New Anthropic, OpenAI models make same promise: A little more for a lot less money",
+    "summary": "Anthropic and OpenAI released new frontier AI models emphasizing cost efficiency and improved performance. The announcements mark competition shifting to value-for-money comparisons.",
+    "lang": "en",
+    "source": "Ars Technica",
+    "url": "https://arstechnica.com/ai/2026/09/new-anthropic-openai-models-make-same-promise-a-little-more-for-a-lot-less-money/",
+    "published": "2026-09-22T21:25:18+00:00",
+    "event_id": "5618ffbe19d5",
+    "sources": [
+     {
+      "title": "New Anthropic, OpenAI models make same promise: A little more for a lot less money",
+      "summary": "Anthropic and OpenAI released new frontier AI models emphasizing cost efficiency and improved performance. The announcements mark competition shifting to value-for-money comparisons.",
+      "lang": "en",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/ai/2026/09/new-anthropic-openai-models-make-same-promise-a-little-more-for-a-lot-less-money/",
+      "published": "2026-09-22T21:25:18+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "Qualcomm launches two new smartphone chips with emphasis on AI",
+    "summary": "Qualcomm launched two new smartphone chips with enhanced AI capabilities and local processing power. The flagship chip can run 30-billion-parameter mixture-of-expert models directly on devices.",
+    "lang": "en",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/09/22/qualcomm-launches-two-new-smartphone-chips-with-emphasis-on-ai/",
+    "published": "2026-09-22T20:00:00+00:00",
+    "event_id": "948ab460c8b3",
+    "sources": [
+     {
+      "title": "Qualcomm launches two new smartphone chips with emphasis on AI",
+      "summary": "Qualcomm launched two new smartphone chips with enhanced AI capabilities and local processing power. The flagship chip can run 30-billion-parameter mixture-of-expert models directly on devices.",
+      "lang": "en",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/09/22/qualcomm-launches-two-new-smartphone-chips-with-emphasis-on-ai/",
+      "published": "2026-09-22T20:00:00+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "Review: Resident Evil might just be the best gaming adaptation yet",
+    "summary": "Director Zach Cregger's Resident Evil film adaptation balances horror, humor, and gore effectively. Critics praise the reboot as potentially the best video game movie adaptation to date.",
+    "lang": "en",
+    "source": "Ars Technica",
+    "url": "https://arstechnica.com/culture/2026/09/review-resident-evil-is-the-fresh-take-this-flagging-franchise-really-needed/",
+    "published": "2026-09-22T17:30:07+00:00",
+    "event_id": "69c7a870c1ad",
+    "sources": [
+     {
+      "title": "Review: Resident Evil might just be the best gaming adaptation yet",
+      "summary": "Director Zach Cregger's Resident Evil film adaptation balances horror, humor, and gore effectively. Critics praise the reboot as potentially the best video game movie adaptation to date.",
+      "lang": "en",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/culture/2026/09/review-resident-evil-is-the-fresh-take-this-flagging-franchise-really-needed/",
+      "published": "2026-09-22T17:30:07+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "Adobe Premiere finally brings powerful video editing to Android, and it's free",
+    "summary": "Adobe Premiere brought comprehensive video editing to Android as a free application. Users can edit clips without Creative Cloud login, though advanced AI features require paid subscription.",
+    "lang": "en",
+    "source": "Ars Technica",
+    "url": "https://arstechnica.com/gadgets/2026/09/adobe-premiere-finally-brings-powerful-video-editing-to-android-and-its-free/",
+    "published": "2026-09-22T19:08:58+00:00",
+    "event_id": "ebd8c3d9c440",
+    "sources": [
+     {
+      "title": "Adobe Premiere finally brings powerful video editing to Android, and it's free",
+      "summary": "Adobe Premiere brought comprehensive video editing to Android as a free application. Users can edit clips without Creative Cloud login, though advanced AI features require paid subscription.",
+      "lang": "en",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/gadgets/2026/09/adobe-premiere-finally-brings-powerful-video-editing-to-android-and-its-free/",
+      "published": "2026-09-22T19:08:58+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   }
+  ],
+  "tecnologia|europa": [
+   {
+    "title": "\"No vendemos ni un euro en Europa\": ASML es la joya tecnológica europea. También un retrato de nuestra debilidad industrial",
+    "summary": "ASML, empresa tecnológica europea líder, no vende semiconductores en Europa. La ausencia de inversión europea y falta de fábricas de chips locales explican esta debilidad industrial.",
+    "lang": "es",
+    "source": "Xataka",
+    "url": "https://www.xataka.com/componentes/no-vendemos-euro-europa-asml-joya-tecnologica-europea-tambien-retrato-nuestra-debilidad-industrial",
+    "published": "2026-09-23T07:46:05+00:00",
+    "event_id": "de59f6b53f87",
+    "sources": [
+     {
+      "title": "\"No vendemos ni un euro en Europa\": ASML es la joya tecnológica europea. También un retrato de nuestra debilidad industrial",
+      "summary": "ASML, empresa tecnológica europea líder, no vende semiconductores en Europa. La ausencia de inversión europea y falta de fábricas de chips locales explican esta debilidad industrial.",
+      "lang": "es",
+      "source": "Xataka",
+      "url": "https://www.xataka.com/componentes/no-vendemos-euro-europa-asml-joya-tecnologica-europea-tambien-retrato-nuestra-debilidad-industrial",
+      "published": "2026-09-23T07:46:05+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   }
+  ]
+ }
+}
