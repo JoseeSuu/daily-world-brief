@@ -1,0 +1,878 @@
+{
+ "date": "2026-09-24",
+ "generated_at": "2026-09-24T10:20:46.555750+00:00",
+ "mode": "full",
+ "cost_usd": 0.0477,
+ "radar_cost_usd": 0.0055,
+ "events": {
+  "mode": "full",
+  "compared_with": "2026-09-23",
+  "articles": 40,
+  "uncompared_articles": 1,
+  "events": 32,
+  "cost_usd": 0.0179
+ },
+ "radar": {
+  "items": [
+   {
+    "id": "gh-1349253750",
+    "source": "GitHub",
+    "kind": "project",
+    "title": "Nanako0129/sepia",
+    "url": "https://github.com/Nanako0129/sepia",
+    "discussion_url": "",
+    "published": "2026-08-28T05:56:49Z",
+    "lang": "en",
+    "excerpt": "De-AI writing skill for any Agent Skills-compatible agent (77+ via the Skills CLI), with native plugins for Claude Code, Codex, Grok Build, and Antigravity. Narrative-architecture repair for fiction, venue-matched rules for professional prose. Based on StoryScope (arXiv:2604.03136).",
+    "signal": {
+     "stars_total": 2825
+    },
+    "summary": "Sepia offers de-AI writing repair for agents across 77+ frameworks, with plugins for Claude Code and others. Author claims narrative-architecture and prose-rule matching based on StoryScope research.",
+    "usefulness": "If building Python document-analysis tools, might conditionally help detect and adjust AI-generated text patterns in batch processing pipelines.",
+    "to_verify": "Whether StoryScope (arXiv:2604.03136) actually exists and what 'narrative-architecture repair' operationally does beyond marketing language."
+   },
+   {
+    "id": "hn-49814947",
+    "source": "Hacker News",
+    "kind": "discussion",
+    "title": "Claude Code reads AGENTS.md only when telemetry is on [fixed]",
+    "url": "https://blog.szypowi.cz/p/claude-code-reads-agents.md-only-when-telemetry-is-on/",
+    "discussion_url": "https://news.ycombinator.com/item?id=49814947",
+    "published": "2026-09-23T12:15:33+00:00",
+    "lang": "en",
+    "excerpt": "",
+    "signal": {
+     "points": 469,
+     "comments": 269
+    },
+    "summary": "Hacker News post reports Claude Code reads AGENTS.md file only when telemetry is enabled, later marked fixed. No original post text supplied.",
+    "usefulness": "If building AI governance frameworks, this conditional behavior pattern exemplifies why telemetry-gating of agent capability access warrants audit design.",
+    "to_verify": "What the actual fix changed, whether telemetry-gating remains in other Claude products, and if AGENTS.md controls are documented in official policy."
+   }
+  ],
+  "mode": "full",
+  "failed_sources": []
+ },
+ "market": null,
+ "failed_sources": [],
+ "cells": {
+  "politica|america": [
+   {
+    "title": "US, China agree two-month trade truce extension ahead of summit",
+    "summary": "US and China extend trade war ceasefire by two months until January 10 as Xi arrives for summit with Trump.",
+    "lang": "en",
+    "source": "South China Morning Post (China)",
+    "url": "https://www.scmp.com/plus/news/china/diplomacy/article/3368652/us-china-agree-two-month-trade-truce-extension-ahead-summit?utm_source=rss_feed",
+    "published": "2026-09-24T09:17:46+00:00",
+    "event_id": "0e56d4ff18c8",
+    "sources": [
+     {
+      "title": "US, China agree two-month trade truce extension ahead of summit",
+      "summary": "US and China extend trade war ceasefire by two months until January 10 as Xi arrives for summit with Trump.",
+      "lang": "en",
+      "source": "South China Morning Post (China)",
+      "url": "https://www.scmp.com/plus/news/china/diplomacy/article/3368652/us-china-agree-two-month-trade-truce-extension-ahead-summit?utm_source=rss_feed",
+      "published": "2026-09-24T09:17:46+00:00"
+     },
+     {
+      "title": "Trump offers warm welcome as China's Xi arrives for US visit",
+      "summary": "Trump welcomes Xi Jinping to Washington as US and China agree to extend two-month trade truce.",
+      "lang": "en",
+      "source": "BBC World",
+      "url": "https://www.bbc.co.uk/news/articles/cqgmrk7187lzo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-09-24T03:52:21+00:00"
+     }
+    ],
+    "status": "updated",
+    "change_summary": "US, China agree two-month trade truce extension ahead of summit",
+    "previous_date": "2026-09-23",
+    "previous_event_id": "0e56d4ff18c8"
+   },
+   {
+    "title": "Trump and Xi meet at moment of global consequence",
+    "summary": "Trump and Xi meet for second time this year amid significant global challenges and US-China tensions.",
+    "lang": "en",
+    "source": "NPR World",
+    "url": "https://www.npr.org/2026/09/23/nx-s1-5978733/trump-xi-meeting-china",
+    "published": "2026-09-23T18:23:19+00:00",
+    "event_id": "d255d8217344",
+    "sources": [
+     {
+      "title": "Trump and Xi meet at moment of global consequence",
+      "summary": "Trump and Xi meet for second time this year amid significant global challenges and US-China tensions.",
+      "lang": "en",
+      "source": "NPR World",
+      "url": "https://www.npr.org/2026/09/23/nx-s1-5978733/trump-xi-meeting-china",
+      "published": "2026-09-23T18:23:19+00:00"
+     },
+     {
+      "title": "Trump-Xi summit live: What to expect in the coming hours",
+      "summary": "",
+      "lang": "en",
+      "source": "Nikkei Asia",
+      "url": "https://asia.nikkei.com/spotlight/trump-xi-summit/trump-xi-summit-live-what-to-expect-in-the-coming-hours",
+      "published": null
+     }
+    ],
+    "status": "updated",
+    "change_summary": "Trump and Xi meet at moment of global consequence",
+    "previous_date": "2026-09-23",
+    "previous_event_id": "0e56d4ff18c8"
+   },
+   {
+    "title": "US judge blocks Trump ban of CNN, MS NOW, Politico from White House, orders him to restore access",
+    "summary": "US federal judge orders Trump to restore White House media access for CNN, MS NOW, and Politico after ban.",
+    "lang": "en",
+    "source": "Deutsche Welle World",
+    "url": "https://www.dw.com/en/us-judge-blocks-trump-ban-of-cnn-ms-now-politico-from-white-house-orders-him-to-restore-access/a-79405693?maca=en-rss-en-world-4025-rdf",
+    "published": "2026-09-24T05:42:00+00:00",
+    "event_id": "a4cd12b47c5d",
+    "sources": [
+     {
+      "title": "US judge blocks Trump ban of CNN, MS NOW, Politico from White House, orders him to restore access",
+      "summary": "US federal judge orders Trump to restore White House media access for CNN, MS NOW, and Politico after ban.",
+      "lang": "en",
+      "source": "Deutsche Welle World",
+      "url": "https://www.dw.com/en/us-judge-blocks-trump-ban-of-cnn-ms-now-politico-from-white-house-orders-him-to-restore-access/a-79405693?maca=en-rss-en-world-4025-rdf",
+      "published": "2026-09-24T05:42:00+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "Outgoing UN chief makes final push for action on climate change at New York summit",
+    "summary": "Outgoing UN Secretary-General Guterres calls for urgent climate action, noting clean energy has become unstoppable.",
+    "lang": "en",
+    "source": "Le Monde International",
+    "url": "https://www.lemonde.fr/en/international/article/2026/09/23/outgoing-un-chief-makes-final-push-for-action-on-climate-change-at-new-york-summit_6757876_4.html",
+    "published": "2026-09-23T19:57:03+00:00",
+    "event_id": "524a034b1435",
+    "sources": [
+     {
+      "title": "Outgoing UN chief makes final push for action on climate change at New York summit",
+      "summary": "Outgoing UN Secretary-General Guterres calls for urgent climate action, noting clean energy has become unstoppable.",
+      "lang": "en",
+      "source": "Le Monde International",
+      "url": "https://www.lemonde.fr/en/international/article/2026/09/23/outgoing-un-chief-makes-final-push-for-action-on-climate-change-at-new-york-summit_6757876_4.html",
+      "published": "2026-09-23T19:57:03+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "To the victor belong Venezuela’s spoils: Delcy Rodriguez’s UNGA about-face",
+    "summary": "Venezuela's interim president thanks US at UN after previously warning against regime change, signaling diplomatic shift.",
+    "lang": "en",
+    "source": "Al Jazeera English",
+    "url": "https://www.aljazeera.com/opinions/2026/9/24/to-the-victor-belong-venezuelas-spoils-delcy-rodriguezs-unga-about-face?traffic_source=rss",
+    "published": "2026-09-24T09:31:15+00:00",
+    "event_id": "2dbbfc735b2c",
+    "sources": [
+     {
+      "title": "To the victor belong Venezuela’s spoils: Delcy Rodriguez’s UNGA about-face",
+      "summary": "Venezuela's interim president thanks US at UN after previously warning against regime change, signaling diplomatic shift.",
+      "lang": "en",
+      "source": "Al Jazeera English",
+      "url": "https://www.aljazeera.com/opinions/2026/9/24/to-the-victor-belong-venezuelas-spoils-delcy-rodriguezs-unga-about-face?traffic_source=rss",
+      "published": "2026-09-24T09:31:15+00:00"
+     },
+     {
+      "title": "Venezuela's acting leader promises elections at the 'right moment'",
+      "summary": "Venezuela's acting president pledges elections at appropriate moment, affirming democratic processes.",
+      "lang": "en",
+      "source": "NPR World",
+      "url": "https://www.npr.org/2026/09/24/g-s1-144837/venezuela-leader-un-general-assembly",
+      "published": "2026-09-24T05:40:49+00:00"
+     }
+    ],
+    "status": "updated",
+    "change_summary": "To the victor belong Venezuela's spoils: Delcy Rodriguez's UNGA about-face",
+    "previous_date": "2026-09-23",
+    "previous_event_id": "2dbbfc735b2c"
+   },
+   {
+    "title": "Here's what happened on day 2 of the UN General Assembly",
+    "summary": "UN General Assembly's second day focuses on Iran and Ukraine as diplomats work to contain two escalating conflicts.",
+    "lang": "en",
+    "source": "NPR World",
+    "url": "https://www.npr.org/2026/09/23/nx-s1-5978852/heres-what-happened-on-day-2-of-the-un-general-assembly",
+    "published": "2026-09-23T22:06:37+00:00",
+    "event_id": "56e6fd63095a",
+    "sources": [
+     {
+      "title": "Here's what happened on day 2 of the UN General Assembly",
+      "summary": "UN General Assembly's second day focuses on Iran and Ukraine as diplomats work to contain two escalating conflicts.",
+      "lang": "en",
+      "source": "NPR World",
+      "url": "https://www.npr.org/2026/09/23/nx-s1-5978852/heres-what-happened-on-day-2-of-the-un-general-assembly",
+      "published": "2026-09-23T22:06:37+00:00"
+     }
+    ],
+    "status": "unavailable",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   }
+  ],
+  "economia|europa": [
+   {
+    "title": "El plan de Trump para vetar las exportaciones de diésel agrava la crisis en Europa",
+    "summary": "Trump planea vetar las exportaciones de diésel estadounidenses antes de las elecciones, agravando la crisis de precios en Europa y afectando económicamente al continente.",
+    "lang": "es",
+    "source": "El País Economía",
+    "url": "https://elpais.com/economia/2026-09-24/la-amenaza-de-trump-de-vetar-las-exportaciones-de-diesel-deja-en-el-alambre-a-america-latina-y-a-europa.html",
+    "published": "2026-09-24T03:30:01+00:00",
+    "event_id": "27e2278301f5",
+    "sources": [
+     {
+      "title": "El plan de Trump para vetar las exportaciones de diésel agrava la crisis en Europa",
+      "summary": "Trump planea vetar las exportaciones de diésel estadounidenses antes de las elecciones, agravando la crisis de precios en Europa y afectando económicamente al continente.",
+      "lang": "es",
+      "source": "El País Economía",
+      "url": "https://elpais.com/economia/2026-09-24/la-amenaza-de-trump-de-vetar-las-exportaciones-de-diesel-deja-en-el-alambre-a-america-latina-y-a-europa.html",
+      "published": "2026-09-24T03:30:01+00:00"
+     }
+    ],
+    "status": "updated",
+    "change_summary": "El plan de Trump para vetar las exportaciones de diésel agrava la crisis en Europa",
+    "previous_date": "2026-09-23",
+    "previous_event_id": "27e2278301f5"
+   },
+   {
+    "title": "La UE pone tope a los coches chinos y enciende una luz ámbar",
+    "summary": "La UE implementa restricciones comerciales contra vehículos chinos para frenar la expansión del gigante asiático en el mercado europeo.",
+    "lang": "es",
+    "source": "El País Economía",
+    "url": "https://cincodias.elpais.com/opinion/2026-09-24/la-ue-pone-tope-a-los-coches-chinos-y-enciende-una-luz-ambar.html",
+    "published": "2026-09-24T03:40:00+00:00",
+    "event_id": "9a4f9953873a",
+    "sources": [
+     {
+      "title": "La UE pone tope a los coches chinos y enciende una luz ámbar",
+      "summary": "La UE implementa restricciones comerciales contra vehículos chinos para frenar la expansión del gigante asiático en el mercado europeo.",
+      "lang": "es",
+      "source": "El País Economía",
+      "url": "https://cincodias.elpais.com/opinion/2026-09-24/la-ue-pone-tope-a-los-coches-chinos-y-enciende-una-luz-ambar.html",
+      "published": "2026-09-24T03:40:00+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "Philip R. Lane: The outlook for the euro area economy",
+    "summary": "ECB official Philip Lane discusses eurozone economic outlook amid global monetary and inflation challenges.",
+    "lang": "en",
+    "source": "BCE (notas de prensa)",
+    "url": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp260924~e0eceef02c.en.pdf",
+    "published": "2026-09-24T09:00:00+00:00",
+    "event_id": "d269ab8f4d1c",
+    "sources": [
+     {
+      "title": "Philip R. Lane: The outlook for the euro area economy",
+      "summary": "ECB official Philip Lane discusses eurozone economic outlook amid global monetary and inflation challenges.",
+      "lang": "en",
+      "source": "BCE (notas de prensa)",
+      "url": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp260924~e0eceef02c.en.pdf",
+      "published": "2026-09-24T09:00:00+00:00"
+     }
+    ],
+    "status": "unclear",
+    "change_summary": "",
+    "previous_date": "2026-09-23",
+    "previous_event_id": "d269ab8f4d1c"
+   },
+   {
+    "title": "France and Germany spar over ‘Made in Europe’ as EU moves to protect its own",
+    "summary": "France and Germany debate EU industrial policy as bloc seeks to protect its manufacturers from competition.",
+    "lang": "en",
+    "source": "FT Global Economy",
+    "url": "https://www.ft.com/content/f51d9570-73e8-4780-a21b-948a989bd73d?syn-25a6b1a6=1",
+    "published": "2026-09-24T05:00:01+00:00",
+    "event_id": "519174b93b3d",
+    "sources": [
+     {
+      "title": "France and Germany spar over ‘Made in Europe’ as EU moves to protect its own",
+      "summary": "France and Germany debate EU industrial policy as bloc seeks to protect its manufacturers from competition.",
+      "lang": "en",
+      "source": "FT Global Economy",
+      "url": "https://www.ft.com/content/f51d9570-73e8-4780-a21b-948a989bd73d?syn-25a6b1a6=1",
+      "published": "2026-09-24T05:00:01+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   }
+  ],
+  "tecnologia|america": [
+   {
+    "title": "Meta renueva su gama de gafas inteligentes y apuesta por su primer modelo sin cámara",
+    "summary": "Meta lanza nuevas gafas inteligentes con un modelo sin cámara, reorientando su estrategia de hardware de realidad aumentada.",
+    "lang": "es",
+    "source": "Xataka",
+    "url": "https://www.xataka.com/wearables/meta-renueva-su-gama-gafas-inteligentes-apuesta-su-primer-modelo-camara",
+    "published": "2026-09-24T07:29:52+00:00",
+    "event_id": "e4d658c15dcd",
+    "sources": [
+     {
+      "title": "Meta renueva su gama de gafas inteligentes y apuesta por su primer modelo sin cámara",
+      "summary": "Meta lanza nuevas gafas inteligentes con un modelo sin cámara, reorientando su estrategia de hardware de realidad aumentada.",
+      "lang": "es",
+      "source": "Xataka",
+      "url": "https://www.xataka.com/wearables/meta-renueva-su-gama-gafas-inteligentes-apuesta-su-primer-modelo-camara",
+      "published": "2026-09-24T07:29:52+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "Gemini 4 is almost ready, says new Google DeepMind chief",
+    "summary": "Google DeepMind nears launch of Gemini 4 AI model, closing gap with rival developers on flagship releases.",
+    "lang": "en",
+    "source": "The Verge",
+    "url": "https://www.theverge.com/tech/999802/google-deepmind-gemini-4-timeline-koray-kavukcuoglu",
+    "published": "2026-09-24T09:04:18+00:00",
+    "event_id": "864189f9e259",
+    "sources": [
+     {
+      "title": "Gemini 4 is almost ready, says new Google DeepMind chief",
+      "summary": "Google DeepMind nears launch of Gemini 4 AI model, closing gap with rival developers on flagship releases.",
+      "lang": "en",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/tech/999802/google-deepmind-gemini-4-timeline-koray-kavukcuoglu",
+      "published": "2026-09-24T09:04:18+00:00"
+     },
+     {
+      "title": "Google DeepMind 希望年底前推出 Gemini 4，加速追趕領先集團",
+      "summary": "谷歌DeepMind加速推进Gemini 4发布计划，争取年底前推出以追赶竞争对手。",
+      "lang": "zh",
+      "source": "科技新報 TechNews",
+      "url": "https://technews.tw/2026/09/24/google-deepmind-nears-launch-of-gemini-4-ai-model/",
+      "published": "2026-09-24T10:00:45+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "Sam Altman’s remarks at the United Nations Security Council",
+    "summary": "OpenAI CEO Altman discusses AI safety, human oversight, and international cooperation at UN Security Council.",
+    "lang": "en",
+    "source": "OpenAI News",
+    "url": "https://openai.com/index/sam-altman-un-security-council-remarks",
+    "published": "2026-09-23T12:00:00+00:00",
+    "event_id": "01d4e543c941",
+    "sources": [
+     {
+      "title": "Sam Altman’s remarks at the United Nations Security Council",
+      "summary": "OpenAI CEO Altman discusses AI safety, human oversight, and international cooperation at UN Security Council.",
+      "lang": "en",
+      "source": "OpenAI News",
+      "url": "https://openai.com/index/sam-altman-un-security-council-remarks",
+      "published": "2026-09-23T12:00:00+00:00"
+     },
+     {
+      "title": "AI巨頭警示失控風險 聯合國安理會討論國際治理",
+      "summary": "全球AI企业在联合国安理会警示AI风险，呼吁各国政府合作制定国际治理标准以管理这项快速发展的技术。",
+      "lang": "zh",
+      "source": "中央社 CNA",
+      "url": "https://www.cna.com.tw/news/aopl/202609240111.aspx",
+      "published": "2026-09-24T04:37:11+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "Trump’s China rivalry and “AI race” delusion may endanger US, experts say",
+    "summary": "Experts warn Trump's focus on AI race competition with China may discourage safety intelligence sharing.",
+    "lang": "en",
+    "source": "Ars Technica",
+    "url": "https://arstechnica.com/tech-policy/2026/09/china-silent-as-us-touts-plan-for-ai-safety-alerts-that-omits-tech-experts/",
+    "published": "2026-09-23T20:52:28+00:00",
+    "event_id": "c1c97de161b0",
+    "sources": [
+     {
+      "title": "Trump’s China rivalry and “AI race” delusion may endanger US, experts say",
+      "summary": "Experts warn Trump's focus on AI race competition with China may discourage safety intelligence sharing.",
+      "lang": "en",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/tech-policy/2026/09/china-silent-as-us-touts-plan-for-ai-safety-alerts-that-omits-tech-experts/",
+      "published": "2026-09-23T20:52:28+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "Anthropic says its biology lab has already found something big",
+    "summary": "Anthropic's biology lab makes significant discovery while maintaining human oversight of Claude AI operations.",
+    "lang": "en",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/09/23/anthropic-says-its-biology-lab-has-already-found-something-big/",
+    "published": "2026-09-23T22:17:39+00:00",
+    "event_id": "72bffe5e6639",
+    "sources": [
+     {
+      "title": "Anthropic says its biology lab has already found something big",
+      "summary": "Anthropic's biology lab makes significant discovery while maintaining human oversight of Claude AI operations.",
+      "lang": "en",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/09/23/anthropic-says-its-biology-lab-has-already-found-something-big/",
+      "published": "2026-09-23T22:17:39+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "Advancing Private AI Compute with secure, server-side memory",
+    "summary": "Google DeepMind introduces private server-side memory feature for secure personal AI computing.",
+    "lang": "en",
+    "source": "Google DeepMind Blog",
+    "url": "https://deepmind.google/blog/advancing-private-ai-compute-with-secure-server-side-memory/",
+    "published": "2026-09-23T16:00:57+00:00",
+    "event_id": "4c4abcff4acd",
+    "sources": [
+     {
+      "title": "Advancing Private AI Compute with secure, server-side memory",
+      "summary": "Google DeepMind introduces private server-side memory feature for secure personal AI computing.",
+      "lang": "en",
+      "source": "Google DeepMind Blog",
+      "url": "https://deepmind.google/blog/advancing-private-ai-compute-with-secure-server-side-memory/",
+      "published": "2026-09-23T16:00:57+00:00"
+     },
+     {
+      "title": "Gemini 3.8 text-to-speech says hello",
+      "summary": "Google DeepMind unveils Gemini 3.8 text-to-speech capability for improved voice interaction.",
+      "lang": "en",
+      "source": "Google DeepMind Blog",
+      "url": "https://deepmind.google/blog/say-hello-to-gemini-38-text-to-speech/",
+      "published": "2026-09-23T15:25:14+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "Nightmare Eclipse揭露Microsoft Defender零時差漏洞BigDiskBuster",
+    "summary": "研究人员披露Microsoft Defender零时差漏洞BigDiskBuster，这是一种拒绝服务类型的安全弱点。",
+    "lang": "zh",
+    "source": "iThome 台灣",
+    "url": "https://www.ithome.com.tw/news/179219",
+    "published": "2026-09-24T05:09:57+00:00",
+    "event_id": "dc2b44ca14fe",
+    "sources": [
+     {
+      "title": "Nightmare Eclipse揭露Microsoft Defender零時差漏洞BigDiskBuster",
+      "summary": "研究人员披露Microsoft Defender零时差漏洞BigDiskBuster，这是一种拒绝服务类型的安全弱点。",
+      "lang": "zh",
+      "source": "iThome 台灣",
+      "url": "https://www.ithome.com.tw/news/179219",
+      "published": "2026-09-24T05:09:57+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "ChatGPT Voice升級，可用語音操作AI代理人",
+    "summary": "OpenAI升级ChatGPT Voice功能，支持语音操作AI代理人执行复杂任务和文档创建。",
+    "lang": "zh",
+    "source": "iThome 台灣",
+    "url": "https://www.ithome.com.tw/news/179210",
+    "published": "2026-09-24T02:09:59+00:00",
+    "event_id": "31f8ef28e8c9",
+    "sources": [
+     {
+      "title": "ChatGPT Voice升級，可用語音操作AI代理人",
+      "summary": "OpenAI升级ChatGPT Voice功能，支持语音操作AI代理人执行复杂任务和文档创建。",
+      "lang": "zh",
+      "source": "iThome 台灣",
+      "url": "https://www.ithome.com.tw/news/179210",
+      "published": "2026-09-24T02:09:59+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   }
+  ],
+  "economia|asia": [
+   {
+    "title": "Saudi Aramco chief says any interruption can be fixed 'within days'",
+    "summary": "Saudi Aramco's chief states production disruptions can be resolved rapidly, reassuring markets about energy supply continuity.",
+    "lang": "en",
+    "source": "Nikkei Asia",
+    "url": "https://asia.nikkei.com/spotlight/iran-tensions/iran-war/saudi-aramco-chief-says-any-interruption-can-be-fixed-within-days",
+    "published": null,
+    "event_id": "1eda34da8ea1",
+    "sources": [
+     {
+      "title": "Saudi Aramco chief says any interruption can be fixed 'within days'",
+      "summary": "Saudi Aramco's chief states production disruptions can be resolved rapidly, reassuring markets about energy supply continuity.",
+      "lang": "en",
+      "source": "Nikkei Asia",
+      "url": "https://asia.nikkei.com/spotlight/iran-tensions/iran-war/saudi-aramco-chief-says-any-interruption-can-be-fixed-within-days",
+      "published": null
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "India's NSE bourse rises slightly after country's biggest IPO of year",
+    "summary": "India's NSE bourse gains slightly following the country's largest initial public offering of the year.",
+    "lang": "en",
+    "source": "Nikkei Asia",
+    "url": "https://asia.nikkei.com/business/markets/ipo/india-s-nse-bourse-rises-slightly-after-country-s-biggest-ipo-of-year",
+    "published": null,
+    "event_id": "aa5d7c12979a",
+    "sources": [
+     {
+      "title": "India's NSE bourse rises slightly after country's biggest IPO of year",
+      "summary": "India's NSE bourse gains slightly following the country's largest initial public offering of the year.",
+      "lang": "en",
+      "source": "Nikkei Asia",
+      "url": "https://asia.nikkei.com/business/markets/ipo/india-s-nse-bourse-rises-slightly-after-country-s-biggest-ipo-of-year",
+      "published": null
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "科技產品拉抬中國出超暴增，預料成為新一輪川習會攻防焦點",
+    "summary": "中国出口因AI建设热潮强劲增长，8月出口年增25%，成为新一轮贸易谈判的焦点。",
+    "lang": "zh",
+    "source": "科技新報 TechNews",
+    "url": "https://finance.technews.tw/2026/09/24/technology-products-drive-a-surge-in-chinas-trade-surplus/",
+    "published": "2026-09-24T09:00:33+00:00",
+    "event_id": "cc5f8c9d551e",
+    "sources": [
+     {
+      "title": "科技產品拉抬中國出超暴增，預料成為新一輪川習會攻防焦點",
+      "summary": "中国出口因AI建设热潮强劲增长，8月出口年增25%，成为新一轮贸易谈判的焦点。",
+      "lang": "zh",
+      "source": "科技新報 TechNews",
+      "url": "https://finance.technews.tw/2026/09/24/technology-products-drive-a-surge-in-chinas-trade-surplus/",
+      "published": "2026-09-24T09:00:33+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   }
+  ],
+  "economia|america": [
+   {
+    "title": "Honda to build hybrid vehicle plant in US for nearly $2.5bn",
+    "summary": "Honda invests nearly $2.5 billion in a US hybrid vehicle plant, expanding American manufacturing capacity.",
+    "lang": "en",
+    "source": "Nikkei Asia",
+    "url": "https://asia.nikkei.com/business/automobiles/honda-to-build-hybrid-vehicle-plant-in-us-for-nearly-2.5bn",
+    "published": null,
+    "event_id": "76c0bdc83d1a",
+    "sources": [
+     {
+      "title": "Honda to build hybrid vehicle plant in US for nearly $2.5bn",
+      "summary": "Honda invests nearly $2.5 billion in a US hybrid vehicle plant, expanding American manufacturing capacity.",
+      "lang": "en",
+      "source": "Nikkei Asia",
+      "url": "https://asia.nikkei.com/business/automobiles/honda-to-build-hybrid-vehicle-plant-in-us-for-nearly-2.5bn",
+      "published": null
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "Fed’s Williams Says More Work Needed to Lower US Inflation",
+    "summary": "Fed's New York President Williams indicates significant work remains to combat US inflation driven by energy prices and investment demand.",
+    "lang": "en",
+    "source": "Bloomberg Economics",
+    "url": "https://www.bloomberg.com/news/articles/2026-09-24/fed-s-williams-says-more-work-needed-to-bring-down-us-inflation",
+    "published": "2026-09-24T09:38:31+00:00",
+    "event_id": "fc886ff1aaa5",
+    "sources": [
+     {
+      "title": "Fed’s Williams Says More Work Needed to Lower US Inflation",
+      "summary": "Fed's New York President Williams indicates significant work remains to combat US inflation driven by energy prices and investment demand.",
+      "lang": "en",
+      "source": "Bloomberg Economics",
+      "url": "https://www.bloomberg.com/news/articles/2026-09-24/fed-s-williams-says-more-work-needed-to-bring-down-us-inflation",
+      "published": "2026-09-24T09:38:31+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "Global Bond Selloff Sends US 30-Year Yield to Highest Since 2004",
+    "summary": "US 30-year Treasury yields reach highest level since 2004 amid global bond selloff fueled by inflation concerns.",
+    "lang": "en",
+    "source": "Bloomberg Markets",
+    "url": "https://www.bloomberg.com/news/articles/2026-09-24/us-30-year-yield-hits-highest-since-2004-as-bond-selloff-deepens",
+    "published": "2026-09-24T08:37:06+00:00",
+    "event_id": "a68aa6297507",
+    "sources": [
+     {
+      "title": "Global Bond Selloff Sends US 30-Year Yield to Highest Since 2004",
+      "summary": "US 30-year Treasury yields reach highest level since 2004 amid global bond selloff fueled by inflation concerns.",
+      "lang": "en",
+      "source": "Bloomberg Markets",
+      "url": "https://www.bloomberg.com/news/articles/2026-09-24/us-30-year-yield-hits-highest-since-2004-as-bond-selloff-deepens",
+      "published": "2026-09-24T08:37:06+00:00"
+     },
+     {
+      "title": "Global bond sell-off deepens as oil climbs back to $105",
+      "summary": "Global bond yields surge to multi-year highs as oil climbs back to $105, straining public finances worldwide.",
+      "lang": "en",
+      "source": "Financial Times",
+      "url": "https://www.ft.com/content/2d87f8bf-d529-4997-90c5-393ef65d280c?syn-25a6b1a6=1",
+      "published": "2026-09-24T10:03:23+00:00"
+     },
+     {
+      "title": "Stocks Fall as Oil Surge Fuels Deeper Bond Selloff: Markets Wrap",
+      "summary": "Stock markets decline as rising oil prices deepen bond sell-off, strengthening expectations for interest rate increases.",
+      "lang": "en",
+      "source": "Bloomberg Markets",
+      "url": "https://www.bloomberg.com/news/articles/2026-09-23/stock-market-today-dow-s-p-live-updates",
+      "published": "2026-09-23T22:17:23+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   }
+  ],
+  "politica|asia": [
+   {
+    "title": "Iran threatens to expand war to Indian Ocean if US attacks again",
+    "summary": "Iran's adviser warns of expanding military action to Indian Ocean if US launches further attacks.",
+    "lang": "en",
+    "source": "Channel NewsAsia",
+    "url": "https://www.channelnewsasia.com/world/iran-indian-ocean-threat-expand-war-us-6407876",
+    "published": "2026-09-24T09:28:00+00:00",
+    "event_id": "934a7d163373",
+    "sources": [
+     {
+      "title": "Iran threatens to expand war to Indian Ocean if US attacks again",
+      "summary": "Iran's adviser warns of expanding military action to Indian Ocean if US launches further attacks.",
+      "lang": "en",
+      "source": "Channel NewsAsia",
+      "url": "https://www.channelnewsasia.com/world/iran-indian-ocean-threat-expand-war-us-6407876",
+      "published": "2026-09-24T09:28:00+00:00"
+     }
+    ],
+    "status": "updated",
+    "change_summary": "Iran threatens to expand war to Indian Ocean if US attacks again",
+    "previous_date": "2026-09-23",
+    "previous_event_id": "934a7d163373"
+   },
+   {
+    "title": "北韓試射具導引功能火箭炮 射程最遠可達115公里",
+    "summary": "朝鲜试射改良型制导火箭炮，最远射程达115公里，采用自主精准导引系统增强打击能力。",
+    "lang": "zh",
+    "source": "中央社 CNA",
+    "url": "https://www.cna.com.tw/news/aopl/202609240089.aspx",
+    "published": "2026-09-24T03:46:23+00:00",
+    "event_id": "55785832e118",
+    "sources": [
+     {
+      "title": "北韓試射具導引功能火箭炮 射程最遠可達115公里",
+      "summary": "朝鲜试射改良型制导火箭炮，最远射程达115公里，采用自主精准导引系统增强打击能力。",
+      "lang": "zh",
+      "source": "中央社 CNA",
+      "url": "https://www.cna.com.tw/news/aopl/202609240089.aspx",
+      "published": "2026-09-24T03:46:23+00:00"
+     }
+    ],
+    "status": "updated",
+    "change_summary": "北韓試射具導引功能火箭炮 射程最遠可達115公里",
+    "previous_date": "2026-09-23",
+    "previous_event_id": "55785832e118"
+   },
+   {
+    "title": "Macron's error on Hamas during UN speech sparks Israeli anger",
+    "summary": "Israeli officials criticize Macron for claiming Hamas never operated in West Bank during UN speech.",
+    "lang": "en",
+    "source": "Le Monde International",
+    "url": "https://www.lemonde.fr/en/international/article/2026/09/24/at-the-un-general-assembly-emmanuel-macron-s-error-on-hamas-sparks-israeli-anger_6757883_4.html",
+    "published": "2026-09-24T03:01:03+00:00",
+    "event_id": "250a7cc98d0e",
+    "sources": [
+     {
+      "title": "Macron's error on Hamas during UN speech sparks Israeli anger",
+      "summary": "Israeli officials criticize Macron for claiming Hamas never operated in West Bank during UN speech.",
+      "lang": "en",
+      "source": "Le Monde International",
+      "url": "https://www.lemonde.fr/en/international/article/2026/09/24/at-the-un-general-assembly-emmanuel-macron-s-error-on-hamas-sparks-israeli-anger_6757883_4.html",
+      "published": "2026-09-24T03:01:03+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   }
+  ],
+  "politica|europa": [
+   {
+    "title": "Zelensky defends strikes on Russia as necessary 'not to die' at the UN General Assembly",
+    "summary": "Ukraine's Zelensky defends strikes on Russian energy infrastructure at UN as necessary for national survival during winter.",
+    "lang": "en",
+    "source": "Le Monde International",
+    "url": "https://www.lemonde.fr/en/international/article/2026/09/24/at-the-un-general-assembly-volodymyr-zelensky-defends-strikes-on-russia-as-necessary-not-to-die_6757884_4.html",
+    "published": "2026-09-24T03:32:42+00:00",
+    "event_id": "9008e551cfbd",
+    "sources": [
+     {
+      "title": "Zelensky defends strikes on Russia as necessary 'not to die' at the UN General Assembly",
+      "summary": "Ukraine's Zelensky defends strikes on Russian energy infrastructure at UN as necessary for national survival during winter.",
+      "lang": "en",
+      "source": "Le Monde International",
+      "url": "https://www.lemonde.fr/en/international/article/2026/09/24/at-the-un-general-assembly-volodymyr-zelensky-defends-strikes-on-russia-as-necessary-not-to-die_6757884_4.html",
+      "published": "2026-09-24T03:32:42+00:00"
+     }
+    ],
+    "status": "updated",
+    "change_summary": "Zelensky defends strikes on Russia as necessary 'not to die' at the UN General Assembly",
+    "previous_date": "2026-09-23",
+    "previous_event_id": "9008e551cfbd"
+   },
+   {
+    "title": "Slovakia: PM Robert Fico's NATO Article 5 remarks spark criticism and raise questions about his country's NATO commitment",
+    "summary": "Slovak PM Fico's NATO Article 5 remarks raise concerns about country's security commitment within alliance.",
+    "lang": "en",
+    "source": "Deutsche Welle World",
+    "url": "https://www.dw.com/en/slovakia-pm-robert-fico-s-nato-article-5-remarks-spark-criticism-and-raise-questions-about-his-country-s-nato-commitment/a-79387050?maca=en-rss-en-world-4025-rdf",
+    "published": "2026-09-23T13:32:00+00:00",
+    "event_id": "2b6e31aaf5f5",
+    "sources": [
+     {
+      "title": "Slovakia: PM Robert Fico's NATO Article 5 remarks spark criticism and raise questions about his country's NATO commitment",
+      "summary": "Slovak PM Fico's NATO Article 5 remarks raise concerns about country's security commitment within alliance.",
+      "lang": "en",
+      "source": "Deutsche Welle World",
+      "url": "https://www.dw.com/en/slovakia-pm-robert-fico-s-nato-article-5-remarks-spark-criticism-and-raise-questions-about-his-country-s-nato-commitment/a-79387050?maca=en-rss-en-world-4025-rdf",
+      "published": "2026-09-23T13:32:00+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "英國成立新太空軍中隊，保衛衛星資產支援作戰",
+    "summary": "英国国防大臣宣布成立第三太空作战效能中隊，负责保卫卫星资产并支持军事行动。",
+    "lang": "zh",
+    "source": "科技新報 TechNews",
+    "url": "https://technews.tw/2026/09/24/uk-no-iii-space-effects-squadron/",
+    "published": "2026-09-24T09:50:19+00:00",
+    "event_id": "bd86f0b46d28",
+    "sources": [
+     {
+      "title": "英國成立新太空軍中隊，保衛衛星資產支援作戰",
+      "summary": "英国国防大臣宣布成立第三太空作战效能中隊，负责保卫卫星资产并支持军事行动。",
+      "lang": "zh",
+      "source": "科技新報 TechNews",
+      "url": "https://technews.tw/2026/09/24/uk-no-iii-space-effects-squadron/",
+      "published": "2026-09-24T09:50:19+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   }
+  ],
+  "tecnologia|asia": [
+   {
+    "title": "OpenAI's breach of Australian health department website prompts rebuke",
+    "summary": "Australian PM condemns OpenAI for unauthorized access to health department website, citing security concerns.",
+    "lang": "en",
+    "source": "NPR World",
+    "url": "https://www.npr.org/2026/09/24/g-s1-144835/openai-breach-australia",
+    "published": "2026-09-24T05:14:11+00:00",
+    "event_id": "f2814b9b5ff5",
+    "sources": [
+     {
+      "title": "OpenAI's breach of Australian health department website prompts rebuke",
+      "summary": "Australian PM condemns OpenAI for unauthorized access to health department website, citing security concerns.",
+      "lang": "en",
+      "source": "NPR World",
+      "url": "https://www.npr.org/2026/09/24/g-s1-144835/openai-breach-australia",
+      "published": "2026-09-24T05:14:11+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   }
+  ],
+  "tecnologia|europa": [
+   {
+    "title": "OpenAI extends cyber access to Ukraine for civilian defense",
+    "summary": "OpenAI extends Daybreak cyber program access to Ukraine for protecting civilian infrastructure defense.",
+    "lang": "en",
+    "source": "OpenAI News",
+    "url": "https://openai.com/index/openai-extends-cyber-access-to-ukraine-for-civilian-defense",
+    "published": "2026-09-23T13:00:00+00:00",
+    "event_id": "1d77064cbebb",
+    "sources": [
+     {
+      "title": "OpenAI extends cyber access to Ukraine for civilian defense",
+      "summary": "OpenAI extends Daybreak cyber program access to Ukraine for protecting civilian infrastructure defense.",
+      "lang": "en",
+      "source": "OpenAI News",
+      "url": "https://openai.com/index/openai-extends-cyber-access-to-ukraine-for-civilian-defense",
+      "published": "2026-09-23T13:00:00+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   }
+  ]
+ }
+}
