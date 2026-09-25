@@ -1,0 +1,779 @@
+{
+ "date": "2026-09-25",
+ "generated_at": "2026-09-25T10:23:43.840054+00:00",
+ "mode": "full",
+ "cost_usd": 0.0453,
+ "radar_cost_usd": 0.005,
+ "events": {
+  "mode": "full",
+  "compared_with": "2026-09-24",
+  "articles": 34,
+  "uncompared_articles": 0,
+  "events": 30,
+  "cost_usd": 0.0161
+ },
+ "radar": {
+  "items": [
+   {
+    "id": "hn-49821438",
+    "source": "Hacker News",
+    "kind": "discussion",
+    "title": "Show HN: AgentRun: DSL to turn agents into workflows",
+    "url": "https://github.com/Parcha-ai/agentrun",
+    "discussion_url": "https://news.ycombinator.com/item?id=49821438",
+    "published": "2026-09-23T19:42:58+00:00",
+    "lang": "en",
+    "excerpt": "Hi HN, I just open sourced the DSL that our harness in grep.ai uses to turn repeatable parts of agent work into workflows. You can combine tool calls, code, Jev-powered system one decisions for things like routing and screening evidence, and agents when a step needs more investigation. Our harness uses the traces and retro notes agents leave behind when doing a job to figure out which parts can become a workflow. The idea is to make the work easier to understand and avoid paying for a full agent loop where one isn’t needed.\nFor example, a research workflow can split a question into subquestion",
+    "signal": {
+     "points": 43,
+     "comments": 10
+    },
+    "summary": "AgentRun is a DSL that converts repeatable agent work into workflows by combining tool calls, code, typed decisions, and agents; traces from agent jobs identify which parts can become workflows to reduce unnecessary agent loop costs.",
+    "usefulness": "If building Python document analysis tools, could structure multi-step agent tasks (research, routing, evidence screening) into reusable workflows to lower inference costs on repetitive patterns.",
+    "to_verify": "Whether AgentRun actually reduces costs versus full agent loops on real document analysis tasks, and what 'Jev-powered system one decisions' concretely implements."
+   }
+  ],
+  "mode": "full",
+  "failed_sources": []
+ },
+ "market": null,
+ "failed_sources": [],
+ "cells": {
+  "politica|america": [
+   {
+    "title": "Trump and Xi exchange warm words at state dinner but little progress on key issues",
+    "summary": "Trump and Xi exchanged warm words and gifts at a state dinner but made little progress on key issues. Diplomatic niceties masked substantive disagreements.",
+    "lang": "en",
+    "source": "BBC World",
+    "url": "https://www.bbc.co.uk/news/articles/cxq63dqp93n1o?at_medium=RSS&at_campaign=rss",
+    "published": "2026-09-25T10:05:07+00:00",
+    "event_id": "d255d8217344",
+    "sources": [
+     {
+      "title": "Trump and Xi exchange warm words at state dinner but little progress on key issues",
+      "summary": "Trump and Xi exchanged warm words and gifts at a state dinner but made little progress on key issues. Diplomatic niceties masked substantive disagreements.",
+      "lang": "en",
+      "source": "BBC World",
+      "url": "https://www.bbc.co.uk/news/articles/cxq63dqp93n1o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-09-25T10:05:07+00:00"
+     },
+     {
+      "title": "Trump welcomes Xi with great pomp to mark US-China 'strategic stability'",
+      "summary": "Trump welcomed Xi to the White House with grand ceremony to mark US-China strategic stability. Diplomatic pomp masked limited progress on substantive issues.",
+      "lang": "en",
+      "source": "Le Monde International",
+      "url": "https://www.lemonde.fr/en/international/article/2026/09/25/trump-welcomes-xi-with-great-pomp-to-mark-us-china-strategic-stability_6757938_4.html",
+      "published": "2026-09-25T09:00:28+00:00"
+     },
+     {
+      "title": "Trump and Xi strike cordial tone at summit amid underlying tensions",
+      "summary": "Trump and Xi maintained a cordial tone at their summit despite underlying tensions. Expectations for breakthroughs on AI, Iran, and trade remain low.",
+      "lang": "en",
+      "source": "NPR World",
+      "url": "https://www.npr.org/2026/09/24/g-s1-144806/trump-xi-summit",
+      "published": "2026-09-24T12:43:15+00:00"
+     }
+    ],
+    "status": "updated",
+    "change_summary": "Trump and Xi exchange warm words at state dinner but little progress on key issues",
+    "previous_date": "2026-09-24",
+    "previous_event_id": "d255d8217344"
+   },
+   {
+    "title": "Lula says Trump wants to ‘colonise’ and capture Brazil’s resources by meddling in election",
+    "summary": "Lula's campaign claims Trump wants to colonize Brazil and capture its resources through election interference. The accusation shapes campaign messaging.",
+    "lang": "en",
+    "source": "The Guardian World",
+    "url": "https://www.theguardian.com/world/2026/sep/25/lula-says-trump-wants-to-colonise-and-capture-brazils-resources-by-meddling-in-election",
+    "published": "2026-09-25T03:33:48+00:00",
+    "event_id": "cd1a4cfbc6dd",
+    "sources": [
+     {
+      "title": "Lula says Trump wants to ‘colonise’ and capture Brazil’s resources by meddling in election",
+      "summary": "Lula's campaign claims Trump wants to colonize Brazil and capture its resources through election interference. The accusation shapes campaign messaging.",
+      "lang": "en",
+      "source": "The Guardian World",
+      "url": "https://www.theguardian.com/world/2026/sep/25/lula-says-trump-wants-to-colonise-and-capture-brazils-resources-by-meddling-in-election",
+      "published": "2026-09-25T03:33:48+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "Democratic lawmakers accuse Trump administration of interference in Brazilian elections",
+    "summary": "Democratic lawmakers accused the Trump administration of interfering in Brazilian elections. They wrote to Secretary Rubio warning of democratic institution threats.",
+    "lang": "en",
+    "source": "The Guardian World",
+    "url": "https://www.theguardian.com/world/2026/sep/24/trump-brazil-election-interference",
+    "published": "2026-09-24T17:56:06+00:00",
+    "event_id": "9e79c4fa5d1e",
+    "sources": [
+     {
+      "title": "Democratic lawmakers accuse Trump administration of interference in Brazilian elections",
+      "summary": "Democratic lawmakers accused the Trump administration of interfering in Brazilian elections. They wrote to Secretary Rubio warning of democratic institution threats.",
+      "lang": "en",
+      "source": "The Guardian World",
+      "url": "https://www.theguardian.com/world/2026/sep/24/trump-brazil-election-interference",
+      "published": "2026-09-24T17:56:06+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   }
+  ],
+  "politica|asia": [
+   {
+    "title": "Xi calls for U.S. to ‘oppose’ Taiwan independence as Trump hails China as WWII ally",
+    "summary": "Xi urged Trump to oppose Taiwan independence while Trump called China a WWII ally. Trump's remarks on US-China wartime cooperation may concern Japan.",
+    "lang": "en",
+    "source": "Japan Times",
+    "url": "https://www.japantimes.co.jp/news/2026/09/25/asia-pacific/politics/trump-xi-taiwan-world-war-ii/",
+    "published": "2026-09-25T07:37:00+00:00",
+    "event_id": "f5a8c96d6044",
+    "sources": [
+     {
+      "title": "Xi calls for U.S. to ‘oppose’ Taiwan independence as Trump hails China as WWII ally",
+      "summary": "Xi urged Trump to oppose Taiwan independence while Trump called China a WWII ally. Trump's remarks on US-China wartime cooperation may concern Japan.",
+      "lang": "en",
+      "source": "Japan Times",
+      "url": "https://www.japantimes.co.jp/news/2026/09/25/asia-pacific/politics/trump-xi-taiwan-world-war-ii/",
+      "published": "2026-09-25T07:37:00+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "Taiwan says Xi 'distorted facts' to Trump as analysts read between lines",
+    "summary": "Taiwan accused Xi of distorting facts in statements to Trump. Analysts are interpreting the diplomatic tensions between the two sides.",
+    "lang": "en",
+    "source": "Nikkei Asia",
+    "url": "https://asia.nikkei.com/spotlight/trump-xi-summit/taiwan-says-xi-distorted-facts-to-trump-as-analysts-read-between-lines",
+    "published": null,
+    "event_id": "64b6e14b29fb",
+    "sources": [
+     {
+      "title": "Taiwan says Xi 'distorted facts' to Trump as analysts read between lines",
+      "summary": "Taiwan accused Xi of distorting facts in statements to Trump. Analysts are interpreting the diplomatic tensions between the two sides.",
+      "lang": "en",
+      "source": "Nikkei Asia",
+      "url": "https://asia.nikkei.com/spotlight/trump-xi-summit/taiwan-says-xi-distorted-facts-to-trump-as-analysts-read-between-lines",
+      "published": null
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "前日本外相岩屋毅27日訪中 共同社：營造修復雙邊關係環境",
+    "summary": "前日本外相岩屋毅将于27日访中以修复日中关系。日中关系严重降温之际，此访旨在营造改善双边关系的环境。",
+    "lang": "zh",
+    "source": "中央社 CNA",
+    "url": "https://www.cna.com.tw/news/acn/202609250130.aspx",
+    "published": "2026-09-25T06:44:13+00:00",
+    "event_id": "c48aa7bc45b7",
+    "sources": [
+     {
+      "title": "前日本外相岩屋毅27日訪中 共同社：營造修復雙邊關係環境",
+      "summary": "前日本外相岩屋毅将于27日访中以修复日中关系。日中关系严重降温之际，此访旨在营造改善双边关系的环境。",
+      "lang": "zh",
+      "source": "中央社 CNA",
+      "url": "https://www.cna.com.tw/news/acn/202609250130.aspx",
+      "published": "2026-09-25T06:44:13+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   }
+  ],
+  "economia|asia": [
+   {
+    "title": "Trump Shared Concerns Over Weak Yen With Japan’s Takaichi",
+    "summary": "Trump shared concerns about the weak yen with Japanese Prime Minister Takaichi during a meeting in New York. The discussion highlights US attention to Japanese currency movements.",
+    "lang": "en",
+    "source": "Bloomberg Economics",
+    "url": "https://www.bloomberg.com/news/articles/2026-09-25/japan-s-katayama-says-trump-shared-yen-concerns-with-takaichi-mugc3g4o",
+    "published": "2026-09-25T02:20:54+00:00",
+    "event_id": "27662e388def",
+    "sources": [
+     {
+      "title": "Trump Shared Concerns Over Weak Yen With Japan’s Takaichi",
+      "summary": "Trump shared concerns about the weak yen with Japanese Prime Minister Takaichi during a meeting in New York. The discussion highlights US attention to Japanese currency movements.",
+      "lang": "en",
+      "source": "Bloomberg Economics",
+      "url": "https://www.bloomberg.com/news/articles/2026-09-25/japan-s-katayama-says-trump-shared-yen-concerns-with-takaichi-mugc3g4o",
+      "published": "2026-09-25T02:20:54+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "China's auto industry reaches consolidation tipping point",
+    "summary": "China's auto industry is reaching a consolidation tipping point. The sector faces significant restructuring amid competitive pressures.",
+    "lang": "en",
+    "source": "Nikkei Asia",
+    "url": "https://asia.nikkei.com/business/automobiles/china-s-auto-industry-reaches-consolidation-tipping-point",
+    "published": null,
+    "event_id": "07e5ce394531",
+    "sources": [
+     {
+      "title": "China's auto industry reaches consolidation tipping point",
+      "summary": "China's auto industry is reaching a consolidation tipping point. The sector faces significant restructuring amid competitive pressures.",
+      "lang": "en",
+      "source": "Nikkei Asia",
+      "url": "https://asia.nikkei.com/business/automobiles/china-s-auto-industry-reaches-consolidation-tipping-point",
+      "published": null
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "BOJ’s Price Trend Indicator Quickens in Support of Another Hike",
+    "summary": "The Bank of Japan's underlying inflation gauge accelerated well above target last month. The data supports the case for further benchmark rate increases.",
+    "lang": "en",
+    "source": "Bloomberg Economics",
+    "url": "https://www.bloomberg.com/news/articles/2026-09-25/boj-s-price-trend-indicator-quickens-in-support-of-another-hike",
+    "published": "2026-09-25T05:54:20+00:00",
+    "event_id": "9d979ee3b3ae",
+    "sources": [
+     {
+      "title": "BOJ’s Price Trend Indicator Quickens in Support of Another Hike",
+      "summary": "The Bank of Japan's underlying inflation gauge accelerated well above target last month. The data supports the case for further benchmark rate increases.",
+      "lang": "en",
+      "source": "Bloomberg Economics",
+      "url": "https://www.bloomberg.com/news/articles/2026-09-25/boj-s-price-trend-indicator-quickens-in-support-of-another-hike",
+      "published": "2026-09-25T05:54:20+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "Suzuki aims to halve vehicle development time to stay on China's tail",
+    "summary": "Suzuki aims to halve vehicle development time to compete effectively in China. The automaker is accelerating production innovation.",
+    "lang": "en",
+    "source": "Nikkei Asia",
+    "url": "https://asia.nikkei.com/business/automobiles/suzuki-aims-to-halve-vehicle-development-time-to-stay-on-china-s-tail",
+    "published": null,
+    "event_id": "7f4a0acfc2aa",
+    "sources": [
+     {
+      "title": "Suzuki aims to halve vehicle development time to stay on China's tail",
+      "summary": "Suzuki aims to halve vehicle development time to compete effectively in China. The automaker is accelerating production innovation.",
+      "lang": "en",
+      "source": "Nikkei Asia",
+      "url": "https://asia.nikkei.com/business/automobiles/suzuki-aims-to-halve-vehicle-development-time-to-stay-on-china-s-tail",
+      "published": null
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   }
+  ],
+  "politica|europa": [
+   {
+    "title": "ECB Executive Board member Isabel Schnabel to resign to take senior role at IMF",
+    "summary": "ECB Executive Board member Isabel Schnabel will resign to take a senior role at the IMF. The move marks a significant shift in European economic leadership.",
+    "lang": "en",
+    "source": "BCE (notas de prensa)",
+    "url": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr260924~bea1dd9824.en.html",
+    "published": "2026-09-24T12:00:00+00:00",
+    "event_id": "a3f17a038f4a",
+    "sources": [
+     {
+      "title": "ECB Executive Board member Isabel Schnabel to resign to take senior role at IMF",
+      "summary": "ECB Executive Board member Isabel Schnabel will resign to take a senior role at the IMF. The move marks a significant shift in European economic leadership.",
+      "lang": "en",
+      "source": "BCE (notas de prensa)",
+      "url": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr260924~bea1dd9824.en.html",
+      "published": "2026-09-24T12:00:00+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "Zelensky says Trump 'made final decision' to give Ukraine license for Patriot missiles",
+    "summary": "Zelensky said Trump made a final decision to grant Ukraine licenses for Patriot missiles. Trump had previously wavered on the issue.",
+    "lang": "en",
+    "source": "Le Monde International",
+    "url": "https://www.lemonde.fr/en/international/article/2026/09/25/zelensky-says-trump-made-final-decision-to-give-ukraine-license-for-patriot-missiles_6757940_4.html",
+    "published": "2026-09-25T09:30:22+00:00",
+    "event_id": "7f67142bfd7d",
+    "sources": [
+     {
+      "title": "Zelensky says Trump 'made final decision' to give Ukraine license for Patriot missiles",
+      "summary": "Zelensky said Trump made a final decision to grant Ukraine licenses for Patriot missiles. Trump had previously wavered on the issue.",
+      "lang": "en",
+      "source": "Le Monde International",
+      "url": "https://www.lemonde.fr/en/international/article/2026/09/25/zelensky-says-trump-made-final-decision-to-give-ukraine-license-for-patriot-missiles_6757940_4.html",
+      "published": "2026-09-25T09:30:22+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "Macron deploys 'military means' to address international crises and fuel prices",
+    "summary": "Macron announced plans to deploy military means to address crises and fuel prices. He pledged efforts to reopen the Strait of Hormuz.",
+    "lang": "en",
+    "source": "Le Monde International",
+    "url": "https://www.lemonde.fr/en/politics/article/2026/09/25/macron-deploys-military-means-to-address-international-crises-and-fuel-prices_6757935_5.html",
+    "published": "2026-09-25T08:49:57+00:00",
+    "event_id": "64a0bd38daf5",
+    "sources": [
+     {
+      "title": "Macron deploys 'military means' to address international crises and fuel prices",
+      "summary": "Macron announced plans to deploy military means to address crises and fuel prices. He pledged efforts to reopen the Strait of Hormuz.",
+      "lang": "en",
+      "source": "Le Monde International",
+      "url": "https://www.lemonde.fr/en/politics/article/2026/09/25/macron-deploys-military-means-to-address-international-crises-and-fuel-prices_6757935_5.html",
+      "published": "2026-09-25T08:49:57+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "Cazas de Finlandia y Suecia interceptan a un escuadrón de aviones rusos en el Báltico",
+    "summary": "Cazas finlandeses y suecos interceptaron una patrulla rusa en el Báltico formada por un Tu-134 y cazas MiG-31 y Su-30. El incidente ocurrió en el espacio aéreo báltico.",
+    "lang": "es",
+    "source": "El País Internacional",
+    "url": "https://elpais.com/internacional/2026-09-25/cazas-de-finlandia-y-suecia-interceptan-a-un-escuadron-de-aviones-rusos-en-el-baltico.html",
+    "published": "2026-09-25T09:31:05+00:00",
+    "event_id": "ac9d20175177",
+    "sources": [
+     {
+      "title": "Cazas de Finlandia y Suecia interceptan a un escuadrón de aviones rusos en el Báltico",
+      "summary": "Cazas finlandeses y suecos interceptaron una patrulla rusa en el Báltico formada por un Tu-134 y cazas MiG-31 y Su-30. El incidente ocurrió en el espacio aéreo báltico.",
+      "lang": "es",
+      "source": "El País Internacional",
+      "url": "https://elpais.com/internacional/2026-09-25/cazas-de-finlandia-y-suecia-interceptan-a-un-escuadron-de-aviones-rusos-en-el-baltico.html",
+      "published": "2026-09-25T09:31:05+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "Robots make combat airdrops, clear mines as Ukraine defeats Russian pincer",
+    "summary": "Ukraine used robots for combat airdrops and mine clearance during Operation Vivaldi. The robotic systems helped erase Russian territorial gains.",
+    "lang": "en",
+    "source": "Ars Technica",
+    "url": "https://arstechnica.com/gadgets/2026/09/robots-make-combat-airdrops-clear-mines-as-ukraine-defeats-russian-pincer/",
+    "published": "2026-09-24T18:39:47+00:00",
+    "event_id": "f864c96bc66d",
+    "sources": [
+     {
+      "title": "Robots make combat airdrops, clear mines as Ukraine defeats Russian pincer",
+      "summary": "Ukraine used robots for combat airdrops and mine clearance during Operation Vivaldi. The robotic systems helped erase Russian territorial gains.",
+      "lang": "en",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/gadgets/2026/09/robots-make-combat-airdrops-clear-mines-as-ukraine-defeats-russian-pincer/",
+      "published": "2026-09-24T18:39:47+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   }
+  ],
+  "economia|europa": [
+   {
+    "title": "Bank of England to raise rates in November if energy prices remain high",
+    "summary": "The Bank of England may raise rates in November if energy prices remain elevated. The central bank signals inflation concerns ahead.",
+    "lang": "en",
+    "source": "FT Global Economy",
+    "url": "https://www.ft.com/content/eb8cd27d-cffc-4d43-bf4e-7a46943a0f68",
+    "published": "2026-09-25T04:30:08+00:00",
+    "event_id": "9f52479c2187",
+    "sources": [
+     {
+      "title": "Bank of England to raise rates in November if energy prices remain high",
+      "summary": "The Bank of England may raise rates in November if energy prices remain elevated. The central bank signals inflation concerns ahead.",
+      "lang": "en",
+      "source": "FT Global Economy",
+      "url": "https://www.ft.com/content/eb8cd27d-cffc-4d43-bf4e-7a46943a0f68",
+      "published": "2026-09-25T04:30:08+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "ArcelorMittal to shutter Ukraine plant after Russian strikes kill workers",
+    "summary": "ArcelorMittal will shut its Ukraine plant after Russian strikes killed workers in Kryvyi Rih. The steel giant faces a $1 billion impairment charge.",
+    "lang": "en",
+    "source": "Financial Times",
+    "url": "https://www.ft.com/content/218f8e15-8c1e-4ed4-9d51-7879faca8e73?syn-25a6b1a6=1",
+    "published": "2026-09-25T09:03:43+00:00",
+    "event_id": "5bc57f712cd2",
+    "sources": [
+     {
+      "title": "ArcelorMittal to shutter Ukraine plant after Russian strikes kill workers",
+      "summary": "ArcelorMittal will shut its Ukraine plant after Russian strikes killed workers in Kryvyi Rih. The steel giant faces a $1 billion impairment charge.",
+      "lang": "en",
+      "source": "Financial Times",
+      "url": "https://www.ft.com/content/218f8e15-8c1e-4ed4-9d51-7879faca8e73?syn-25a6b1a6=1",
+      "published": "2026-09-25T09:03:43+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "Washington and Moscow are responsible for the energy crisis",
+    "summary": "Washington and Moscow bear responsibility for the energy crisis according to analysts. Trump considers banning diesel exports amid geopolitical tensions.",
+    "lang": "en",
+    "source": "Le Monde International",
+    "url": "https://www.lemonde.fr/en/opinion/article/2026/09/25/washington-and-moscow-are-responsible-for-the-energy-crisis_6757939_23.html",
+    "published": "2026-09-25T09:30:06+00:00",
+    "event_id": "27e2278301f5",
+    "sources": [
+     {
+      "title": "Washington and Moscow are responsible for the energy crisis",
+      "summary": "Washington and Moscow bear responsibility for the energy crisis according to analysts. Trump considers banning diesel exports amid geopolitical tensions.",
+      "lang": "en",
+      "source": "Le Monde International",
+      "url": "https://www.lemonde.fr/en/opinion/article/2026/09/25/washington-and-moscow-are-responsible-for-the-energy-crisis_6757939_23.html",
+      "published": "2026-09-25T09:30:06+00:00"
+     }
+    ],
+    "status": "unclear",
+    "change_summary": "",
+    "previous_date": "2026-09-24",
+    "previous_event_id": "27e2278301f5"
+   },
+   {
+    "title": "El INE rebaja al 2,6% el crecimiento del PIB en el segundo trimestre",
+    "summary": "El INE rebaja el crecimiento del PIB al 2,6% en el segundo trimestre de 2024. El avance interanual se mantiene en el 0,7%, impulsado principalmente por el consumo.",
+    "lang": "es",
+    "source": "El País Economía",
+    "url": "https://elpais.com/economia/2026-09-25/el-ine-rebaja-al-26-el-crecimiento-del-pib-en-el-segundo-trimestre.html",
+    "published": "2026-09-25T08:27:39+00:00",
+    "event_id": "19ae6150cd9e",
+    "sources": [
+     {
+      "title": "El INE rebaja al 2,6% el crecimiento del PIB en el segundo trimestre",
+      "summary": "El INE rebaja el crecimiento del PIB al 2,6% en el segundo trimestre de 2024. El avance interanual se mantiene en el 0,7%, impulsado principalmente por el consumo.",
+      "lang": "es",
+      "source": "El País Economía",
+      "url": "https://elpais.com/economia/2026-09-25/el-ine-rebaja-al-26-el-crecimiento-del-pib-en-el-segundo-trimestre.html",
+      "published": "2026-09-25T08:27:39+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "Philip R. Lane: The outlook for the euro area economy",
+    "summary": "Philip R. Lane discusses the outlook for the euro area economy. The ECB provides guidance on regional economic conditions.",
+    "lang": "en",
+    "source": "BCE (notas de prensa)",
+    "url": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp260924~e0eceef02c.en.pdf",
+    "published": "2026-09-24T09:00:00+00:00",
+    "event_id": "d269ab8f4d1c",
+    "sources": [
+     {
+      "title": "Philip R. Lane: The outlook for the euro area economy",
+      "summary": "Philip R. Lane discusses the outlook for the euro area economy. The ECB provides guidance on regional economic conditions.",
+      "lang": "en",
+      "source": "BCE (notas de prensa)",
+      "url": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp260924~e0eceef02c.en.pdf",
+      "published": "2026-09-24T09:00:00+00:00"
+     }
+    ],
+    "status": "unchanged",
+    "change_summary": "",
+    "previous_date": "2026-09-24",
+    "previous_event_id": "d269ab8f4d1c"
+   }
+  ],
+  "tecnologia|america": [
+   {
+    "title": "Federal Reserve Board requests public comment on two proposals related to establishing a regulatory framework for Board-supervised payment stablecoin issuers under the GENIUS Act",
+    "summary": "The Federal Reserve seeks public comment on regulatory frameworks for payment stablecoin issuers under the GENIUS Act. The proposals aim to establish oversight guidelines.",
+    "lang": "en",
+    "source": "Reserva Federal (notas de prensa)",
+    "url": "https://www.federalreserve.gov/newsevents/pressreleases/bcreg20260924a.htm",
+    "published": "2026-09-24T18:30:00+00:00",
+    "event_id": "a09909ffdb68",
+    "sources": [
+     {
+      "title": "Federal Reserve Board requests public comment on two proposals related to establishing a regulatory framework for Board-supervised payment stablecoin issuers under the GENIUS Act",
+      "summary": "The Federal Reserve seeks public comment on regulatory frameworks for payment stablecoin issuers under the GENIUS Act. The proposals aim to establish oversight guidelines.",
+      "lang": "en",
+      "source": "Reserva Federal (notas de prensa)",
+      "url": "https://www.federalreserve.gov/newsevents/pressreleases/bcreg20260924a.htm",
+      "published": "2026-09-24T18:30:00+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "Anthropic向Akamai採購116億美元CPU算力，取得最高5%認股權",
+    "summary": "Anthropic同意向Akamai采购116亿美元云计算服务，7年内满足CPU工作负载需求。双方合作规模可能增加至200亿美元，Anthropic获得认购Akamai最高5%股权的权利。",
+    "lang": "zh",
+    "source": "iThome 台灣",
+    "url": "https://www.ithome.com.tw/news/179230",
+    "published": "2026-09-25T03:09:48+00:00",
+    "event_id": "b613920d2a42",
+    "sources": [
+     {
+      "title": "Anthropic向Akamai採購116億美元CPU算力，取得最高5%認股權",
+      "summary": "Anthropic同意向Akamai采购116亿美元云计算服务，7年内满足CPU工作负载需求。双方合作规模可能增加至200亿美元，Anthropic获得认购Akamai最高5%股权的权利。",
+      "lang": "zh",
+      "source": "iThome 台灣",
+      "url": "https://www.ithome.com.tw/news/179230",
+      "published": "2026-09-25T03:09:48+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "馬斯克：Colossus 2 年底前輝達晶片數量將翻倍，上看 120 萬顆",
+    "summary": "马斯克表示xAI的Colossus 2集群年底前英伟达芯片数量将翻倍至120万颗。该AI运算设施继续大规模扩展。",
+    "lang": "zh",
+    "source": "科技新報 TechNews",
+    "url": "https://technews.tw/2026/09/25/elon-musk-aims-to-double-colossus-2s-nvidia-chips-by-year-end/",
+    "published": "2026-09-25T08:20:27+00:00",
+    "event_id": "87082fd9d56c",
+    "sources": [
+     {
+      "title": "馬斯克：Colossus 2 年底前輝達晶片數量將翻倍，上看 120 萬顆",
+      "summary": "马斯克表示xAI的Colossus 2集群年底前英伟达芯片数量将翻倍至120万颗。该AI运算设施继续大规模扩展。",
+      "lang": "zh",
+      "source": "科技新報 TechNews",
+      "url": "https://technews.tw/2026/09/25/elon-musk-aims-to-double-colossus-2s-nvidia-chips-by-year-end/",
+      "published": "2026-09-25T08:20:27+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "Google太空資料中心計畫邁入實測，下周發射首顆AI衛星",
+    "summary": "Google太空AI项目下周发射首颗搭载TPU的原型卫星进行实测。\"太阳捕手\"计划通过SpaceX Transporter-18任务验证AI芯片在太空的运作。",
+    "lang": "zh",
+    "source": "iThome 台灣",
+    "url": "https://www.ithome.com.tw/news/179228",
+    "published": "2026-09-25T03:09:32+00:00",
+    "event_id": "144510662973",
+    "sources": [
+     {
+      "title": "Google太空資料中心計畫邁入實測，下周發射首顆AI衛星",
+      "summary": "Google太空AI项目下周发射首颗搭载TPU的原型卫星进行实测。\"太阳捕手\"计划通过SpaceX Transporter-18任务验证AI芯片在太空的运作。",
+      "lang": "zh",
+      "source": "iThome 台灣",
+      "url": "https://www.ithome.com.tw/news/179228",
+      "published": "2026-09-25T03:09:32+00:00"
+     },
+     {
+      "title": "Google's first Suncatcher orbital data center test launches October 1",
+      "summary": "Google's experimental Suncatcher orbital data center test launches October 1. The satellite will run for 15 minutes with four TPUs.",
+      "lang": "en",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/google/2026/09/googles-first-suncatcher-orbital-data-center-test-launches-october-1/",
+      "published": "2026-09-24T16:16:34+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "Anthropic動用近千Claude代理搜尋DNA，21小時找出新型ART酵素系統",
+    "summary": "Anthropic动用近950个Claude AI代理搜索DNA数据，21小时内发现新型ART酵素系统。该生命科学研究成果展示AI在生物研究中的应用潜力。",
+    "lang": "zh",
+    "source": "iThome 台灣",
+    "url": "https://www.ithome.com.tw/news/179222",
+    "published": "2026-09-25T11:09:12+00:00",
+    "event_id": "72bffe5e6639",
+    "sources": [
+     {
+      "title": "Anthropic動用近千Claude代理搜尋DNA，21小時找出新型ART酵素系統",
+      "summary": "Anthropic动用近950个Claude AI代理搜索DNA数据，21小时内发现新型ART酵素系统。该生命科学研究成果展示AI在生物研究中的应用潜力。",
+      "lang": "zh",
+      "source": "iThome 台灣",
+      "url": "https://www.ithome.com.tw/news/179222",
+      "published": "2026-09-25T11:09:12+00:00"
+     }
+    ],
+    "status": "updated",
+    "change_summary": "Anthropic動用近千Claude代理搜尋DNA，21小時找出新型ART酵素系統",
+    "previous_date": "2026-09-24",
+    "previous_event_id": "72bffe5e6639"
+   },
+   {
+    "title": "Introducing Gemini 3.8 Live with Live Avatar",
+    "summary": "Google DeepMind introduced Gemini 3.8 Live with Live Avatar technology. The new feature enhances interactive AI capabilities.",
+    "lang": "en",
+    "source": "Google DeepMind Blog",
+    "url": "https://deepmind.google/blog/introducing-gemini-38-live-with-live-avatar/",
+    "published": "2026-09-24T16:20:39+00:00",
+    "event_id": "e7107d9a76d9",
+    "sources": [
+     {
+      "title": "Introducing Gemini 3.8 Live with Live Avatar",
+      "summary": "Google DeepMind introduced Gemini 3.8 Live with Live Avatar technology. The new feature enhances interactive AI capabilities.",
+      "lang": "en",
+      "source": "Google DeepMind Blog",
+      "url": "https://deepmind.google/blog/introducing-gemini-38-live-with-live-avatar/",
+      "published": "2026-09-24T16:20:39+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "La carrera por la memoria de PlayStation 6 ha comenzado: Samsung y SK hynix compiten por suministrarla",
+    "summary": "Samsung y SK hynix compiten por suministrar la memoria para PlayStation 6. Mark Cerny confirmó que la próxima consola de Sony está en desarrollo.",
+    "lang": "es",
+    "source": "Xataka",
+    "url": "https://www.xataka.com/componentes/carrera-memoria-playstation-6-ha-comenzado-samsung-sk-hynix-compiten-suministrarla",
+    "published": "2026-09-25T09:45:08+00:00",
+    "event_id": "0cd45d9cdcad",
+    "sources": [
+     {
+      "title": "La carrera por la memoria de PlayStation 6 ha comenzado: Samsung y SK hynix compiten por suministrarla",
+      "summary": "Samsung y SK hynix compiten por suministrar la memoria para PlayStation 6. Mark Cerny confirmó que la próxima consola de Sony está en desarrollo.",
+      "lang": "es",
+      "source": "Xataka",
+      "url": "https://www.xataka.com/componentes/carrera-memoria-playstation-6-ha-comenzado-samsung-sk-hynix-compiten-suministrarla",
+      "published": "2026-09-25T09:45:08+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "The Pentagon wants $30 million to build an AI-powered lie detector",
+    "summary": "The Pentagon seeks $30.3 million over five years to develop an improved AI-powered lie detector. The Department of Defense program aims to enhance detection technology.",
+    "lang": "en",
+    "source": "MIT Technology Review",
+    "url": "https://www.technologyreview.com/2026/09/25/1145144/pentagon-ai-lie-detector/",
+    "published": "2026-09-25T09:16:25+00:00",
+    "event_id": "93b91a44c537",
+    "sources": [
+     {
+      "title": "The Pentagon wants $30 million to build an AI-powered lie detector",
+      "summary": "The Pentagon seeks $30.3 million over five years to develop an improved AI-powered lie detector. The Department of Defense program aims to enhance detection technology.",
+      "lang": "en",
+      "source": "MIT Technology Review",
+      "url": "https://www.technologyreview.com/2026/09/25/1145144/pentagon-ai-lie-detector/",
+      "published": "2026-09-25T09:16:25+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "Waymo is scaling fast: Here’s what the fleet data shows",
+    "summary": "Waymo expanded its fleet in Texas by 49% in the past month. The autonomous vehicle company continues rapid geographic expansion.",
+    "lang": "en",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/09/24/waymo-is-scaling-fast-heres-what-the-fleet-data-shows/",
+    "published": "2026-09-24T23:24:33+00:00",
+    "event_id": "2c6cdd30ec1f",
+    "sources": [
+     {
+      "title": "Waymo is scaling fast: Here’s what the fleet data shows",
+      "summary": "Waymo expanded its fleet in Texas by 49% in the past month. The autonomous vehicle company continues rapid geographic expansion.",
+      "lang": "en",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/09/24/waymo-is-scaling-fast-heres-what-the-fleet-data-shows/",
+      "published": "2026-09-24T23:24:33+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   }
+  ],
+  "economia|america": [
+   {
+    "title": "US long-term borrowing costs touch highest level since 2004",
+    "summary": "US long-term borrowing costs reached their highest level since 2004 amid a Treasury sell-off. Rising yields strain public finances.",
+    "lang": "en",
+    "source": "FT Global Economy",
+    "url": "https://www.ft.com/content/2d87f8bf-d529-4997-90c5-393ef65d280c?syn-25a6b1a6=1",
+    "published": "2026-09-24T20:32:49+00:00",
+    "event_id": "a68aa6297507",
+    "sources": [
+     {
+      "title": "US long-term borrowing costs touch highest level since 2004",
+      "summary": "US long-term borrowing costs reached their highest level since 2004 amid a Treasury sell-off. Rising yields strain public finances.",
+      "lang": "en",
+      "source": "FT Global Economy",
+      "url": "https://www.ft.com/content/2d87f8bf-d529-4997-90c5-393ef65d280c?syn-25a6b1a6=1",
+      "published": "2026-09-24T20:32:49+00:00"
+     },
+     {
+      "title": "Why High Yields on US Treasury Bonds, Government Debt Look Like the New Normal",
+      "summary": "High yields on US Treasury bonds increasingly appear to be the new normal as government borrowing costs climb worldwide. Investors demand more compensation for longer-maturity debt.",
+      "lang": "en",
+      "source": "Bloomberg Markets",
+      "url": "https://www.bloomberg.com/news/articles/2026-09-25/why-high-yields-on-us-treasury-bonds-government-debt-look-like-the-new-normal",
+      "published": "2026-09-25T09:42:21+00:00"
+     }
+    ],
+    "status": "unchanged",
+    "change_summary": "",
+    "previous_date": "2026-09-24",
+    "previous_event_id": "a68aa6297507"
+   }
+  ]
+ }
+}
