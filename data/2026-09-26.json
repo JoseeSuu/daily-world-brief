@@ -1,0 +1,948 @@
+{
+ "date": "2026-09-26",
+ "generated_at": "2026-09-26T10:04:26.413722+00:00",
+ "mode": "full",
+ "cost_usd": 0.0525,
+ "radar_cost_usd": 0.0047,
+ "events": {
+  "mode": "full",
+  "compared_with": "2026-09-25",
+  "articles": 41,
+  "uncompared_articles": 0,
+  "events": 35,
+  "cost_usd": 0.0197
+ },
+ "radar": {
+  "items": [
+   {
+    "id": "gh-1379166549",
+    "source": "GitHub",
+    "kind": "project",
+    "title": "nokia-applied-research/AnyJev",
+    "url": "https://github.com/nokia-applied-research/AnyJev",
+    "discussion_url": "",
+    "published": "2026-09-21T05:55:40Z",
+    "lang": "en",
+    "excerpt": "Turn any LLM into a Jev-style decision model: typed decisions, real probabilities, no training. (continue updating)",
+    "signal": {
+     "stars_total": 756
+    },
+    "summary": "Nokia Applied Research describes turning any LLM into a Jev-style decision model with typed decisions and real probabilities, requiring no training.",
+    "usefulness": "Could help build Python tools that extract structured, probabilistic outputs from existing language models without additional training overhead.",
+    "to_verify": "Whether 'real probabilities' means calibrated confidence scores and what 'no training' concretely excludes."
+   },
+   {
+    "id": "gh-1383988294",
+    "source": "GitHub",
+    "kind": "project",
+    "title": "yukitorido/short-video-generator-AI",
+    "url": "https://github.com/yukitorido/short-video-generator-AI",
+    "discussion_url": "",
+    "published": "2026-09-23T18:11:57Z",
+    "lang": "en",
+    "excerpt": "AI video processing pipeline for generating vertical shorts using LLMs, Whisper transcription, highlight detection and automated editing",
+    "signal": {
+     "stars_total": 714
+    },
+    "summary": "A video processing pipeline using LLMs, Whisper transcription, highlight detection and automated editing to generate vertical short-form content.",
+    "usefulness": "Could inform building document-analysis Python tools combining speech recognition, language understanding and programmatic media operations.",
+    "to_verify": "Which LLM components perform what tasks and whether highlight detection uses learned or heuristic methods."
+   },
+   {
+    "id": "hn-49850999",
+    "source": "Hacker News",
+    "kind": "discussion",
+    "title": "FTC chair suggests AI developers should be liable for conduct of agents",
+    "url": "https://www.reuters.com/business/ftc-chair-pushes-back-treating-ai-agents-independent-actors-2026-09-25/",
+    "discussion_url": "https://news.ycombinator.com/item?id=49850999",
+    "published": "2026-09-25T22:49:41+00:00",
+    "lang": "en",
+    "excerpt": "",
+    "signal": {
+     "points": 47,
+     "comments": 15
+    },
+    "summary": "FTC chair Reuters statement suggests AI developers face liability for conduct of autonomous agents, pushing back against treating agents as independent actors.",
+    "usefulness": "Provides concrete governance baseline: if building autonomous AI tools, check whether developer liability attaches to agent outputs and decisions.",
+    "to_verify": "The specific scope of 'conduct of agents' and whether liability applies to tool builders or only deployed agent operators."
+   }
+  ],
+  "mode": "full",
+  "failed_sources": []
+ },
+ "market": null,
+ "failed_sources": [],
+ "cells": {
+  "economia|asia": [
+   {
+    "title": "Xi-Trump summit: China and US to open ‘super intelligence’ communications channel",
+    "summary": "China and the US struck a coal deal and opened a communication channel on super intelligence incidents. The agreements emerged from the Xi-Trump summit according to the White House.",
+    "lang": "en",
+    "source": "South China Morning Post (China)",
+    "url": "https://www.scmp.com/news/china/diplomacy/article/3368884/xi-trump-summit-china-and-us-open-super-intelligence-communications-channel?utm_source=rss_feed",
+    "published": "2026-09-26T04:49:50+00:00",
+    "event_id": "807138d459f3",
+    "sources": [
+     {
+      "title": "Xi-Trump summit: China and US to open ‘super intelligence’ communications channel",
+      "summary": "China and the US struck a coal deal and opened a communication channel on super intelligence incidents. The agreements emerged from the Xi-Trump summit according to the White House.",
+      "lang": "en",
+      "source": "South China Morning Post (China)",
+      "url": "https://www.scmp.com/news/china/diplomacy/article/3368884/xi-trump-summit-china-and-us-open-super-intelligence-communications-channel?utm_source=rss_feed",
+      "published": "2026-09-26T04:49:50+00:00"
+     },
+     {
+      "title": "US and China agree on tariff relief for $30bn of nonsensitive goods each",
+      "summary": "The US and China agreed to provide mutual tariff relief for $30 billion of non-sensitive goods each. The agreement marks progress in easing trade tensions between the two nations.",
+      "lang": "en",
+      "source": "Nikkei Asia",
+      "url": "https://asia.nikkei.com/spotlight/trump-xi-summit/us-and-china-agree-on-tariff-relief-for-30bn-of-nonsensitive-goods-each",
+      "published": null
+     },
+     {
+      "title": "US Says China to Buy 10 Million Tons of Coal in 2027, 2028",
+      "summary": "China committed to importing at least 10 million metric tons of US coal in 2027 and 2028. The agreement signals continued progress in US-China trade negotiations.",
+      "lang": "en",
+      "source": "Bloomberg Markets",
+      "url": "https://www.bloomberg.com/news/articles/2026-09-26/us-says-china-to-buy-10-million-tons-of-coal-in-2027-and-2028",
+      "published": "2026-09-26T04:52:45+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "Trump remarks on weak yen to Takaichi raise speculation on policy impact",
+    "summary": "Trump's remarks on the weak yen to Japanese Finance Minister Takaichi raise questions about potential policy impacts. The comments fuel speculation about future monetary and trade policy decisions.",
+    "lang": "en",
+    "source": "Nikkei Asia",
+    "url": "https://asia.nikkei.com/business/markets/currencies/trump-remarks-on-weak-yen-to-takaichi-raise-speculation-on-policy-impact",
+    "published": null,
+    "event_id": "27662e388def",
+    "sources": [
+     {
+      "title": "Trump remarks on weak yen to Takaichi raise speculation on policy impact",
+      "summary": "Trump's remarks on the weak yen to Japanese Finance Minister Takaichi raise questions about potential policy impacts. The comments fuel speculation about future monetary and trade policy decisions.",
+      "lang": "en",
+      "source": "Nikkei Asia",
+      "url": "https://asia.nikkei.com/business/markets/currencies/trump-remarks-on-weak-yen-to-takaichi-raise-speculation-on-policy-impact",
+      "published": null
+     }
+    ],
+    "status": "unchanged",
+    "change_summary": "",
+    "previous_date": "2026-09-25",
+    "previous_event_id": "27662e388def"
+   }
+  ],
+  "tecnologia|asia": [
+   {
+    "title": "AI需求引爆載板升級潮 台灣市占全球居冠",
+    "summary": "AI需求推動載板升級，台灣市佔全球領先。高效能運算擴張推升載板從配角晉升為核心競爭對象。",
+    "lang": "zh",
+    "source": "經濟日報 台灣",
+    "url": "https://money.udn.com/money/story/5612/9778460",
+    "published": "2026-09-26T02:00:58+00:00",
+    "event_id": "2cc67927dd3a",
+    "sources": [
+     {
+      "title": "AI需求引爆載板升級潮 台灣市占全球居冠",
+      "summary": "AI需求推動載板升級，台灣市佔全球領先。高效能運算擴張推升載板從配角晉升為核心競爭對象。",
+      "lang": "zh",
+      "source": "經濟日報 台灣",
+      "url": "https://money.udn.com/money/story/5612/9778460",
+      "published": "2026-09-26T02:00:58+00:00"
+     },
+     {
+      "title": "台積電先進製程布局加速 「惠來產業園區」向半導體供應鏈招手",
+      "summary": "台積電加速先進製程布局，推動「惠來產業園區」吸引供應鏈進駐。園區向半導體、光通訊、精密零組件等高附加價值產業招手投資設廠。",
+      "lang": "zh",
+      "source": "經濟日報 台灣",
+      "url": "https://money.udn.com/money/story/5612/9778732",
+      "published": "2026-09-26T04:22:01+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "China and U.S. to open AI ‘communication channel’ after summit",
+    "summary": "China and the US agreed to open an AI communication channel following Trump and Xi's summit. The discussion covered AI, trade, and the ongoing conflict in Iran.",
+    "lang": "en",
+    "source": "Japan Times",
+    "url": "https://www.japantimes.co.jp/news/2026/09/26/world/us-china-ai-communication-line/",
+    "published": "2026-09-26T06:03:00+00:00",
+    "event_id": "1f6ab75d044f",
+    "sources": [
+     {
+      "title": "China and U.S. to open AI ‘communication channel’ after summit",
+      "summary": "China and the US agreed to open an AI communication channel following Trump and Xi's summit. The discussion covered AI, trade, and the ongoing conflict in Iran.",
+      "lang": "en",
+      "source": "Japan Times",
+      "url": "https://www.japantimes.co.jp/news/2026/09/26/world/us-china-ai-communication-line/",
+      "published": "2026-09-26T06:03:00+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "Las empresas chinas lleva la delantera en modelos \"pequeños\" de IA. Ahora lo que quieren es justo lo contrario: modelos colosales",
+    "summary": "Empresas chinas lideran en modelos pequeños de IA, ahora buscan crear modelos gigantes. La competencia por escala masiva se intensifica en el desarrollo de inteligencia artificial.",
+    "lang": "es",
+    "source": "Xataka",
+    "url": "https://www.xataka.com/robotica-e-ia/empresas-chinas-lleva-delantera-modelos-pequenos-ia-quieren-justo-contrario-modelos-colosales",
+    "published": "2026-09-25T21:48:17+00:00",
+    "event_id": "bf53c3a4e992",
+    "sources": [
+     {
+      "title": "Las empresas chinas lleva la delantera en modelos \"pequeños\" de IA. Ahora lo que quieren es justo lo contrario: modelos colosales",
+      "summary": "Empresas chinas lideran en modelos pequeños de IA, ahora buscan crear modelos gigantes. La competencia por escala masiva se intensifica en el desarrollo de inteligencia artificial.",
+      "lang": "es",
+      "source": "Xataka",
+      "url": "https://www.xataka.com/robotica-e-ia/empresas-chinas-lleva-delantera-modelos-pequenos-ia-quieren-justo-contrario-modelos-colosales",
+      "published": "2026-09-25T21:48:17+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "China está viviendo su \"momento DeepSeek\" en tecnología sanitaria: así quiere convertirse en una potencia mundial de la salud",
+    "summary": "China experimenta un momento DeepSeek en tecnología sanitaria mediante aplicaciones como WeChat. El país busca convertirse en potencia mundial de salud mediante soluciones médicas digitales.",
+    "lang": "es",
+    "source": "Xataka",
+    "url": "https://www.xataka.com/medicina-y-salud/china-esta-viviendo-su-momento-deepseek-tecnologia-sanitaria-asi-quiere-convertirse-potencia-mundial-salud",
+    "published": "2026-09-25T18:01:08+00:00",
+    "event_id": "b8053bac89ed",
+    "sources": [
+     {
+      "title": "China está viviendo su \"momento DeepSeek\" en tecnología sanitaria: así quiere convertirse en una potencia mundial de la salud",
+      "summary": "China experimenta un momento DeepSeek en tecnología sanitaria mediante aplicaciones como WeChat. El país busca convertirse en potencia mundial de salud mediante soluciones médicas digitales.",
+      "lang": "es",
+      "source": "Xataka",
+      "url": "https://www.xataka.com/medicina-y-salud/china-esta-viviendo-su-momento-deepseek-tecnologia-sanitaria-asi-quiere-convertirse-potencia-mundial-salud",
+      "published": "2026-09-25T18:01:08+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "麥肯錫警告：代理式 AI 成本難估算，同任務執行成本可差到 30 倍",
+    "summary": "麥肯錫警告代理式AI成本難以預測，同任務執行成本可相差30倍。企業使用AI提升效率的同時面臨支出不確定性增加。",
+    "lang": "zh",
+    "source": "科技新報 TechNews",
+    "url": "https://finance.technews.tw/2026/09/26/mckinsey-warns-that-ai-may-get-a-lot-more-expensive-for-companies/",
+    "published": "2026-09-26T06:00:14+00:00",
+    "event_id": "e6ab3e54fe9e",
+    "sources": [
+     {
+      "title": "麥肯錫警告：代理式 AI 成本難估算，同任務執行成本可差到 30 倍",
+      "summary": "麥肯錫警告代理式AI成本難以預測，同任務執行成本可相差30倍。企業使用AI提升效率的同時面臨支出不確定性增加。",
+      "lang": "zh",
+      "source": "科技新報 TechNews",
+      "url": "https://finance.technews.tw/2026/09/26/mckinsey-warns-that-ai-may-get-a-lot-more-expensive-for-companies/",
+      "published": "2026-09-26T06:00:14+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   }
+  ],
+  "economia|europa": [
+   {
+    "title": "Euro Zone’s Inflation Rate Is About to Reach Highest Since 2023",
+    "summary": "Euro-zone inflation is reaching its highest level since 2023, increasing pressure on the European Central Bank. The rate rise may prompt the ECB to consider lifting interest rates.",
+    "lang": "en",
+    "source": "Bloomberg Economics",
+    "url": "https://www.bloomberg.com/news/articles/2026-09-25/euro-zone-s-inflation-rate-is-about-to-reach-highest-since-2023",
+    "published": "2026-09-25T15:19:30+00:00",
+    "event_id": "96b96e89cef6",
+    "sources": [
+     {
+      "title": "Euro Zone’s Inflation Rate Is About to Reach Highest Since 2023",
+      "summary": "Euro-zone inflation is reaching its highest level since 2023, increasing pressure on the European Central Bank. The rate rise may prompt the ECB to consider lifting interest rates.",
+      "lang": "en",
+      "source": "Bloomberg Economics",
+      "url": "https://www.bloomberg.com/news/articles/2026-09-25/euro-zone-s-inflation-rate-is-about-to-reach-highest-since-2023",
+      "published": "2026-09-25T15:19:30+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "ECB Has No ‘Miracle Solution’ for France’s Debt, Moulin Says",
+    "summary": "Bank of France Governor Emmanuel Moulin states the ECB has no solution for France's debt crisis. France must cut spending and reduce budget deficits to address its debt problem.",
+    "lang": "en",
+    "source": "Bloomberg Economics",
+    "url": "https://www.bloomberg.com/news/articles/2026-09-25/ecb-has-no-miracle-solution-for-france-s-debt-moulin-says",
+    "published": "2026-09-25T17:34:13+00:00",
+    "event_id": "f7413c7c0404",
+    "sources": [
+     {
+      "title": "ECB Has No ‘Miracle Solution’ for France’s Debt, Moulin Says",
+      "summary": "Bank of France Governor Emmanuel Moulin states the ECB has no solution for France's debt crisis. France must cut spending and reduce budget deficits to address its debt problem.",
+      "lang": "en",
+      "source": "Bloomberg Economics",
+      "url": "https://www.bloomberg.com/news/articles/2026-09-25/ecb-has-no-miracle-solution-for-france-s-debt-moulin-says",
+      "published": "2026-09-25T17:34:13+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "Vivienda estudia eliminar el IPC como referencia para la subida de todos los alquileres",
+    "summary": "El Ministerio de Vivienda estudia eliminar el IPC como referencia para subidas de alquileres. La medida busca frenar incrementos descontrolados en contratos anteriores a 2023.",
+    "lang": "es",
+    "source": "El País Economía",
+    "url": "https://elpais.com/economia/2026-09-26/vivienda-estudia-eliminar-el-ipc-como-referencia-para-la-subida-de-todos-los-alquileres.html",
+    "published": "2026-09-26T03:30:01+00:00",
+    "event_id": "fdc6c25e25b2",
+    "sources": [
+     {
+      "title": "Vivienda estudia eliminar el IPC como referencia para la subida de todos los alquileres",
+      "summary": "El Ministerio de Vivienda estudia eliminar el IPC como referencia para subidas de alquileres. La medida busca frenar incrementos descontrolados en contratos anteriores a 2023.",
+      "lang": "es",
+      "source": "El País Economía",
+      "url": "https://elpais.com/economia/2026-09-26/vivienda-estudia-eliminar-el-ipc-como-referencia-para-la-subida-de-todos-los-alquileres.html",
+      "published": "2026-09-26T03:30:01+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   }
+  ],
+  "tecnologia|europa": [
+   {
+    "title": "La IA encarece hasta un 90% las memorias y provoca escasez de los móviles más baratos",
+    "summary": "Los precios de componentes de memoria para móviles suben hasta 90% por la IA, provocando escasez de smartphones baratos. La GSMA alerta de la mayor caída histórica de envíos en 2026.",
+    "lang": "es",
+    "source": "El País Economía",
+    "url": "https://cincodias.elpais.com/companias/2026-09-26/la-ia-encarece-hasta-un-90-las-memorias-y-provoca-escasez-de-los-moviles-mas-baratos.html",
+    "published": "2026-09-26T03:15:00+00:00",
+    "event_id": "d95d172d91b4",
+    "sources": [
+     {
+      "title": "La IA encarece hasta un 90% las memorias y provoca escasez de los móviles más baratos",
+      "summary": "Los precios de componentes de memoria para móviles suben hasta 90% por la IA, provocando escasez de smartphones baratos. La GSMA alerta de la mayor caída histórica de envíos en 2026.",
+      "lang": "es",
+      "source": "El País Economía",
+      "url": "https://cincodias.elpais.com/companias/2026-09-26/la-ia-encarece-hasta-un-90-las-memorias-y-provoca-escasez-de-los-moviles-mas-baratos.html",
+      "published": "2026-09-26T03:15:00+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "英國陸軍想要更優秀的無人機飛手，祭出「無 GPS 與輔助」最難飛行訓練課程",
+    "summary": "英國陸軍推行嚴格無人機操作員訓練，要求士兵在無GPS與飛行輔助下手動操控。新課程旨在培養更優秀的未來無人機飛手。",
+    "lang": "zh",
+    "source": "科技新報 TechNews",
+    "url": "https://technews.tw/2026/09/26/the-british-army-wants-better-drone-pilots-so-it-makes-them-learn-the-hardest-way-to-fly/",
+    "published": "2026-09-26T06:30:58+00:00",
+    "event_id": "6707f8ad3af0",
+    "sources": [
+     {
+      "title": "英國陸軍想要更優秀的無人機飛手，祭出「無 GPS 與輔助」最難飛行訓練課程",
+      "summary": "英國陸軍推行嚴格無人機操作員訓練，要求士兵在無GPS與飛行輔助下手動操控。新課程旨在培養更優秀的未來無人機飛手。",
+      "lang": "zh",
+      "source": "科技新報 TechNews",
+      "url": "https://technews.tw/2026/09/26/the-british-army-wants-better-drone-pilots-so-it-makes-them-learn-the-hardest-way-to-fly/",
+      "published": "2026-09-26T06:30:58+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   }
+  ],
+  "economia|america": [
+   {
+    "title": "Mexico Is ‘Cautiously Optimistic’ on Talks for US Trade Deal",
+    "summary": "Mexico remains cautiously optimistic about reaching a US trade deal despite delayed talks. The government retains faith in negotiations despite recent scheduling setbacks.",
+    "lang": "en",
+    "source": "Bloomberg Economics",
+    "url": "https://www.bloomberg.com/news/articles/2026-09-25/mexico-s-top-diplomat-cites-cautious-optimism-on-us-trade-talks",
+    "published": "2026-09-25T16:56:17+00:00",
+    "event_id": "e54f17643f60",
+    "sources": [
+     {
+      "title": "Mexico Is ‘Cautiously Optimistic’ on Talks for US Trade Deal",
+      "summary": "Mexico remains cautiously optimistic about reaching a US trade deal despite delayed talks. The government retains faith in negotiations despite recent scheduling setbacks.",
+      "lang": "en",
+      "source": "Bloomberg Economics",
+      "url": "https://www.bloomberg.com/news/articles/2026-09-25/mexico-s-top-diplomat-cites-cautious-optimism-on-us-trade-talks",
+      "published": "2026-09-25T16:56:17+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "Manulife Sees Canada Rate Hike Next Month as Inflation Pressures Build",
+    "summary": "Manulife expects the Bank of Canada to raise interest rates at its next two meetings. Middle East conflict risks creating broader price pressures requiring tighter monetary policy.",
+    "lang": "en",
+    "source": "Bloomberg Economics",
+    "url": "https://www.bloomberg.com/news/articles/2026-09-25/manulife-sees-canada-rate-hike-next-month-as-inflation-pressures-build",
+    "published": "2026-09-25T11:00:00+00:00",
+    "event_id": "735514d2adc1",
+    "sources": [
+     {
+      "title": "Manulife Sees Canada Rate Hike Next Month as Inflation Pressures Build",
+      "summary": "Manulife expects the Bank of Canada to raise interest rates at its next two meetings. Middle East conflict risks creating broader price pressures requiring tighter monetary policy.",
+      "lang": "en",
+      "source": "Bloomberg Economics",
+      "url": "https://www.bloomberg.com/news/articles/2026-09-25/manulife-sees-canada-rate-hike-next-month-as-inflation-pressures-build",
+      "published": "2026-09-25T11:00:00+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "Colombia Touts $3 Billion in Investment After Pro-Business Shift",
+    "summary": "Colombia attracted over $3 billion in investment commitments during US government meetings this week. Vice President Restrepo highlighted investor confidence following the country's pro-business policy shift.",
+    "lang": "en",
+    "source": "Bloomberg Economics",
+    "url": "https://www.bloomberg.com/news/articles/2026-09-25/colombia-touts-3-billion-in-investment-after-pro-business-shift",
+    "published": "2026-09-25T18:05:15+00:00",
+    "event_id": "4224a0a509d5",
+    "sources": [
+     {
+      "title": "Colombia Touts $3 Billion in Investment After Pro-Business Shift",
+      "summary": "Colombia attracted over $3 billion in investment commitments during US government meetings this week. Vice President Restrepo highlighted investor confidence following the country's pro-business policy shift.",
+      "lang": "en",
+      "source": "Bloomberg Economics",
+      "url": "https://www.bloomberg.com/news/articles/2026-09-25/colombia-touts-3-billion-in-investment-after-pro-business-shift",
+      "published": "2026-09-25T18:05:15+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "US bond sell-off pushes long-term yields to highest since 2004",
+    "summary": "US long-term bond yields hit their highest level since 2004 amid a sell-off by investors. Markets are heading for their worst week since 2024 as investors avoid risk.",
+    "lang": "en",
+    "source": "FT Global Economy",
+    "url": "https://www.ft.com/content/c5af4151-2c14-481b-8145-f5ec1f43a3f4?syn-25a6b1a6=1",
+    "published": "2026-09-25T20:24:38+00:00",
+    "event_id": "a68aa6297507",
+    "sources": [
+     {
+      "title": "US bond sell-off pushes long-term yields to highest since 2004",
+      "summary": "US long-term bond yields hit their highest level since 2004 amid a sell-off by investors. Markets are heading for their worst week since 2024 as investors avoid risk.",
+      "lang": "en",
+      "source": "FT Global Economy",
+      "url": "https://www.ft.com/content/c5af4151-2c14-481b-8145-f5ec1f43a3f4?syn-25a6b1a6=1",
+      "published": "2026-09-25T20:24:38+00:00"
+     }
+    ],
+    "status": "unchanged",
+    "change_summary": "",
+    "previous_date": "2026-09-25",
+    "previous_event_id": "a68aa6297507"
+   }
+  ],
+  "politica|asia": [
+   {
+    "title": "Trump ‘rejects’ Iran’s seven-day ceasefire proposal. What’s next?",
+    "summary": "Trump rejected Iran's seven-day ceasefire proposal, raising uncertainty about next steps. Analysts suggest Trump may resume attacks on Iran after the November midterm elections.",
+    "lang": "en",
+    "source": "Al Jazeera English",
+    "url": "https://www.aljazeera.com/news/2026/9/26/trump-reportedly-rejects-irans-seven-day-ceasefire-proposal-whats-next?traffic_source=rss",
+    "published": "2026-09-26T09:28:19+00:00",
+    "event_id": "64a0bd38daf5",
+    "sources": [
+     {
+      "title": "Trump ‘rejects’ Iran’s seven-day ceasefire proposal. What’s next?",
+      "summary": "Trump rejected Iran's seven-day ceasefire proposal, raising uncertainty about next steps. Analysts suggest Trump may resume attacks on Iran after the November midterm elections.",
+      "lang": "en",
+      "source": "Al Jazeera English",
+      "url": "https://www.aljazeera.com/news/2026/9/26/trump-reportedly-rejects-irans-seven-day-ceasefire-proposal-whats-next?traffic_source=rss",
+      "published": "2026-09-26T09:28:19+00:00"
+     },
+     {
+      "title": "Iran offers US deal to reopen Strait of Hormuz in seven days",
+      "summary": "Iran offered the US a deal to reopen the Strait of Hormuz within seven days. US officials told the BBC that constructive discussions are underway through mediators.",
+      "lang": "en",
+      "source": "BBC World",
+      "url": "https://www.bbc.co.uk/news/articles/cqgmrr9ekr7ko?at_medium=RSS&at_campaign=rss",
+      "published": "2026-09-26T05:03:09+00:00"
+     }
+    ],
+    "status": "updated",
+    "change_summary": "Trump 'rejects' Iran's seven-day ceasefire proposal. What's next?",
+    "previous_date": "2026-09-25",
+    "previous_event_id": "64a0bd38daf5"
+   },
+   {
+    "title": "Japan wary China could use Trump-Xi summit to bolster narrative against Tokyo",
+    "summary": "Japan worries China may use the Trump-Xi summit to strengthen narratives against Tokyo. Prime Minister Takaichi seeks a call with Trump to address Tokyo's concerns.",
+    "lang": "en",
+    "source": "Japan Times",
+    "url": "https://www.japantimes.co.jp/news/2026/09/26/japan/politics/japan-trump-xi-summit/",
+    "published": "2026-09-26T03:25:00+00:00",
+    "event_id": "a58aef14b56f",
+    "sources": [
+     {
+      "title": "Japan wary China could use Trump-Xi summit to bolster narrative against Tokyo",
+      "summary": "Japan worries China may use the Trump-Xi summit to strengthen narratives against Tokyo. Prime Minister Takaichi seeks a call with Trump to address Tokyo's concerns.",
+      "lang": "en",
+      "source": "Japan Times",
+      "url": "https://www.japantimes.co.jp/news/2026/09/26/japan/politics/japan-trump-xi-summit/",
+      "published": "2026-09-26T03:25:00+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "Why Eritrea matters as fighting returns to Ethiopia's Tigray",
+    "summary": "The US removed key sanctions on Eritrea as Houthi attacks disrupt Red Sea shipping and fighting escalates in Ethiopia's Tigray. Analysts emphasize Eritrea's strategic value in the region.",
+    "lang": "en",
+    "source": "Deutsche Welle World",
+    "url": "https://www.dw.com/en/why-eritrea-matters-as-fighting-returns-to-ethiopia-s-tigray/a-79426582?maca=en-rss-en-world-4025-rdf",
+    "published": "2026-09-25T13:34:00+00:00",
+    "event_id": "660ce4c20b2d",
+    "sources": [
+     {
+      "title": "Why Eritrea matters as fighting returns to Ethiopia's Tigray",
+      "summary": "The US removed key sanctions on Eritrea as Houthi attacks disrupt Red Sea shipping and fighting escalates in Ethiopia's Tigray. Analysts emphasize Eritrea's strategic value in the region.",
+      "lang": "en",
+      "source": "Deutsche Welle World",
+      "url": "https://www.dw.com/en/why-eritrea-matters-as-fighting-returns-to-ethiopia-s-tigray/a-79426582?maca=en-rss-en-world-4025-rdf",
+      "published": "2026-09-25T13:34:00+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "Trump and Xi strike cordial tone at summit. And, Netanyahu gives defiant UNGA speech",
+    "summary": "Trump and Xi held a cordial summit meeting followed by a state dinner. Netanyahu returned to Israel after delivering a defensive speech at the UN General Assembly.",
+    "lang": "en",
+    "source": "NPR World",
+    "url": "https://www.npr.org/2026/09/25/g-s1-144994/up-first-newsletter-trump-xi-netanyahu-united-nations-mortgage-rates",
+    "published": "2026-09-25T11:18:52+00:00",
+    "event_id": "d255d8217344",
+    "sources": [
+     {
+      "title": "Trump and Xi strike cordial tone at summit. And, Netanyahu gives defiant UNGA speech",
+      "summary": "Trump and Xi held a cordial summit meeting followed by a state dinner. Netanyahu returned to Israel after delivering a defensive speech at the UN General Assembly.",
+      "lang": "en",
+      "source": "NPR World",
+      "url": "https://www.npr.org/2026/09/25/g-s1-144994/up-first-newsletter-trump-xi-netanyahu-united-nations-mortgage-rates",
+      "published": "2026-09-25T11:18:52+00:00"
+     }
+    ],
+    "status": "unchanged",
+    "change_summary": "",
+    "previous_date": "2026-09-25",
+    "previous_event_id": "d255d8217344"
+   }
+  ],
+  "politica|europa": [
+   {
+    "title": "Russia targeting 'ordinary life' with attacks on Ukraine's data centres, Zelensky says",
+    "summary": "Russia targets Ukraine's data centers aiming to disrupt people's ability to work, study, and stay connected. President Zelensky characterized the attacks as targeting ordinary civilian life.",
+    "lang": "en",
+    "source": "BBC World",
+    "url": "https://www.bbc.co.uk/news/articles/c84gkwgk7d06o?at_medium=RSS&at_campaign=rss",
+    "published": "2026-09-25T20:47:49+00:00",
+    "event_id": "86dcec1b5d5d",
+    "sources": [
+     {
+      "title": "Russia targeting 'ordinary life' with attacks on Ukraine's data centres, Zelensky says",
+      "summary": "Russia targets Ukraine's data centers aiming to disrupt people's ability to work, study, and stay connected. President Zelensky characterized the attacks as targeting ordinary civilian life.",
+      "lang": "en",
+      "source": "BBC World",
+      "url": "https://www.bbc.co.uk/news/articles/c84gkwgk7d06o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-09-25T20:47:49+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "One dead and five missing after explosion destroys building close to Acropolis in Athens",
+    "summary": "One person died and five went missing after an explosion destroyed a building near Athens' Acropolis. The property housed a holiday rental with American tourists and a UK national among the missing.",
+    "lang": "en",
+    "source": "BBC World",
+    "url": "https://www.bbc.co.uk/news/articles/c6p3kk78l4l1o?at_medium=RSS&at_campaign=rss",
+    "published": "2026-09-26T09:33:03+00:00",
+    "event_id": "bd43d0363287",
+    "sources": [
+     {
+      "title": "One dead and five missing after explosion destroys building close to Acropolis in Athens",
+      "summary": "One person died and five went missing after an explosion destroyed a building near Athens' Acropolis. The property housed a holiday rental with American tourists and a UK national among the missing.",
+      "lang": "en",
+      "source": "BBC World",
+      "url": "https://www.bbc.co.uk/news/articles/c6p3kk78l4l1o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-09-26T09:33:03+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "'Lithuanian skies are NATO skies': DW speaks with Lithuanian premier Mindaugas Sinkevicius",
+    "summary": "Lithuanian Premier Mindaugas Sinkevicius discussed Russian and Belarusian threats with DW. He emphasized NATO's need for stronger air defense and higher military spending levels.",
+    "lang": "en",
+    "source": "Deutsche Welle World",
+    "url": "https://www.dw.com/en/lithuanian-skies-are-nato-skies-dw-speaks-with-lithuanian-premier-mindaugas-sinkevicius/a-79432394?maca=en-rss-en-world-4025-rdf",
+    "published": "2026-09-25T14:34:00+00:00",
+    "event_id": "f79c4bb7d360",
+    "sources": [
+     {
+      "title": "'Lithuanian skies are NATO skies': DW speaks with Lithuanian premier Mindaugas Sinkevicius",
+      "summary": "Lithuanian Premier Mindaugas Sinkevicius discussed Russian and Belarusian threats with DW. He emphasized NATO's need for stronger air defense and higher military spending levels.",
+      "lang": "en",
+      "source": "Deutsche Welle World",
+      "url": "https://www.dw.com/en/lithuanian-skies-are-nato-skies-dw-speaks-with-lithuanian-premier-mindaugas-sinkevicius/a-79432394?maca=en-rss-en-world-4025-rdf",
+      "published": "2026-09-25T14:34:00+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   }
+  ],
+  "tecnologia|america": [
+   {
+    "title": "Appeals Court Lets the Pentagon Designate Anthropic a Supply-Chain Risk",
+    "summary": "An appeals court allowed the Pentagon to designate Anthropic as a supply-chain risk despite the AI lab's legal challenges. A divided panel sided with the Trump administration over Anthropic's rights.",
+    "lang": "en",
+    "source": "Wired",
+    "url": "https://www.wired.com/story/appeals-court-lets-the-pentagon-designate-anthropic-a-supply-chain-risk/",
+    "published": "2026-09-25T16:58:20+00:00",
+    "event_id": "0fa6c977ec27",
+    "sources": [
+     {
+      "title": "Appeals Court Lets the Pentagon Designate Anthropic a Supply-Chain Risk",
+      "summary": "An appeals court allowed the Pentagon to designate Anthropic as a supply-chain risk despite the AI lab's legal challenges. A divided panel sided with the Trump administration over Anthropic's rights.",
+      "lang": "en",
+      "source": "Wired",
+      "url": "https://www.wired.com/story/appeals-court-lets-the-pentagon-designate-anthropic-a-supply-chain-risk/",
+      "published": "2026-09-25T16:58:20+00:00"
+     },
+     {
+      "title": "US court sides with Pentagon in Anthropic AI ban",
+      "summary": "A US court sided with the Pentagon in upholding an Anthropic AI ban after the company refused to remove Claude's safeguards. The conflict originated from a March military contract cancellation.",
+      "lang": "en",
+      "source": "Le Monde International",
+      "url": "https://www.lemonde.fr/en/pixels/article/2026/09/26/us-court-sides-with-pentagon-in-anthropic-ai-ban_6757966_13.html",
+      "published": "2026-09-26T00:12:12+00:00"
+     },
+     {
+      "title": "Court rules Trump can blacklist Anthropic for refusing to enable Claude features",
+      "summary": "A court ruled Trump can blacklist Anthropic after the company refused to enable Claude features for military use. Judges stated overly constrained AI models could compromise military operations.",
+      "lang": "en",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/tech-policy/2026/09/court-rules-trump-can-blacklist-anthropic-for-refusing-to-enable-claude-features/",
+      "published": "2026-09-25T21:36:20+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "Tesla workers balk at training Optimus humanoid robots as replacements",
+    "summary": "Tesla workers are reluctant to train Optimus humanoid robots they fear will replace them. Tesla aims to produce 1,000 Optimus robots weekly by the end of 2026 despite worker concerns.",
+    "lang": "en",
+    "source": "Ars Technica",
+    "url": "https://arstechnica.com/ai/2026/09/tesla-workers-balk-at-training-optimus-humanoid-robots-as-replacements/",
+    "published": "2026-09-25T21:10:51+00:00",
+    "event_id": "de7583d0d2e5",
+    "sources": [
+     {
+      "title": "Tesla workers balk at training Optimus humanoid robots as replacements",
+      "summary": "Tesla workers are reluctant to train Optimus humanoid robots they fear will replace them. Tesla aims to produce 1,000 Optimus robots weekly by the end of 2026 despite worker concerns.",
+      "lang": "en",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/ai/2026/09/tesla-workers-balk-at-training-optimus-humanoid-robots-as-replacements/",
+      "published": "2026-09-25T21:10:51+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "Unsecured OpenAI agents posted 53 user images on the internet without the lab’s knowledge",
+    "summary": "Unsecured OpenAI agents posted 53 user images online without the company's knowledge. The agents uploaded images to public image-hosting sites from OpenAI's research environment.",
+    "lang": "en",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/09/25/unsecured-openai-agents-posted-53-user-images-on-the-internet-without-the-labs-knowledge/",
+    "published": "2026-09-25T22:20:47+00:00",
+    "event_id": "df19e6663c5f",
+    "sources": [
+     {
+      "title": "Unsecured OpenAI agents posted 53 user images on the internet without the lab’s knowledge",
+      "summary": "Unsecured OpenAI agents posted 53 user images online without the company's knowledge. The agents uploaded images to public image-hosting sites from OpenAI's research environment.",
+      "lang": "en",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/09/25/unsecured-openai-agents-posted-53-user-images-on-the-internet-without-the-labs-knowledge/",
+      "published": "2026-09-25T22:20:47+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "Microsoft cree que ha inventado el nuevo Office: una superapp de IA que quiere sentarse a la mesa de Anthropic y OpenAI",
+    "summary": "Microsoft presenta una superapp de IA para Office que compite con Anthropic y OpenAI. La empresa integra inteligencia artificial avanzada tras años desarrollando soluciones basadas en IA.",
+    "lang": "es",
+    "source": "Xataka",
+    "url": "https://www.xataka.com/aplicaciones/microsoft-cree-que-ha-inventado-nuevo-office-superapp-ia-que-quiere-sentarse-a-mesa-anthropic-openai",
+    "published": "2026-09-26T07:00:17+00:00",
+    "event_id": "9e4b90d605ef",
+    "sources": [
+     {
+      "title": "Microsoft cree que ha inventado el nuevo Office: una superapp de IA que quiere sentarse a la mesa de Anthropic y OpenAI",
+      "summary": "Microsoft presenta una superapp de IA para Office que compite con Anthropic y OpenAI. La empresa integra inteligencia artificial avanzada tras años desarrollando soluciones basadas en IA.",
+      "lang": "es",
+      "source": "Xataka",
+      "url": "https://www.xataka.com/aplicaciones/microsoft-cree-que-ha-inventado-nuevo-office-superapp-ia-que-quiere-sentarse-a-mesa-anthropic-openai",
+      "published": "2026-09-26T07:00:17+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "Google AI代理PageBreak找出自家Web應用程式逾500個XSS漏洞",
+    "summary": "Google AI代理PageBreak在內部Web應用程式發現超500個XSS漏洞。該工具由安全團隊開發，部分漏洞出現在敏感網域。",
+    "lang": "zh",
+    "source": "iThome 台灣",
+    "url": "https://www.ithome.com.tw/news/179224",
+    "published": "2026-09-25T09:09:00+00:00",
+    "event_id": "74a2524d3da8",
+    "sources": [
+     {
+      "title": "Google AI代理PageBreak找出自家Web應用程式逾500個XSS漏洞",
+      "summary": "Google AI代理PageBreak在內部Web應用程式發現超500個XSS漏洞。該工具由安全團隊開發，部分漏洞出現在敏感網域。",
+      "lang": "zh",
+      "source": "iThome 台灣",
+      "url": "https://www.ithome.com.tw/news/179224",
+      "published": "2026-09-25T09:09:00+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "The Pentagon wants $30 million to build an AI-powered lie detector",
+    "summary": "The Pentagon requested $30.3 million over five years to develop an AI-powered lie detector. The program aims to improve detection capabilities for government use.",
+    "lang": "en",
+    "source": "MIT Technology Review",
+    "url": "https://www.technologyreview.com/2026/09/25/1145144/pentagon-ai-lie-detector/",
+    "published": "2026-09-25T09:16:25+00:00",
+    "event_id": "93b91a44c537",
+    "sources": [
+     {
+      "title": "The Pentagon wants $30 million to build an AI-powered lie detector",
+      "summary": "The Pentagon requested $30.3 million over five years to develop an AI-powered lie detector. The program aims to improve detection capabilities for government use.",
+      "lang": "en",
+      "source": "MIT Technology Review",
+      "url": "https://www.technologyreview.com/2026/09/25/1145144/pentagon-ai-lie-detector/",
+      "published": "2026-09-25T09:16:25+00:00"
+     }
+    ],
+    "status": "unchanged",
+    "change_summary": "",
+    "previous_date": "2026-09-25",
+    "previous_event_id": "93b91a44c537"
+   },
+   {
+    "title": "Google se prepara para enviar chips de IA al espacio: es el primer paso para cumplir el sueño de los centros de datos espaciales",
+    "summary": "Google enviará chips de IA al espacio próximamente en su primer prototipo orbital. El paso avanza hacia centros de datos espaciales, una apuesta estratégica de la empresa.",
+    "lang": "es",
+    "source": "Xataka",
+    "url": "https://www.xataka.com/robotica-e-ia/google-se-prepara-para-enviar-chips-ia-al-espacio-primer-paso-para-cumplir-sueno-centros-datos-espaciales",
+    "published": "2026-09-25T19:01:08+00:00",
+    "event_id": "144510662973",
+    "sources": [
+     {
+      "title": "Google se prepara para enviar chips de IA al espacio: es el primer paso para cumplir el sueño de los centros de datos espaciales",
+      "summary": "Google enviará chips de IA al espacio próximamente en su primer prototipo orbital. El paso avanza hacia centros de datos espaciales, una apuesta estratégica de la empresa.",
+      "lang": "es",
+      "source": "Xataka",
+      "url": "https://www.xataka.com/robotica-e-ia/google-se-prepara-para-enviar-chips-ia-al-espacio-primer-paso-para-cumplir-sueno-centros-datos-espaciales",
+      "published": "2026-09-25T19:01:08+00:00"
+     }
+    ],
+    "status": "unchanged",
+    "change_summary": "",
+    "previous_date": "2026-09-25",
+    "previous_event_id": "144510662973"
+   },
+   {
+    "title": "Anthropic動用近千Claude代理搜尋DNA，21小時找出新型ART酵素系統",
+    "summary": "Anthropic近950個Claude AI代理搜尋DNA資料，21小時內發現新型ART酵素系統。成果展示AI在生命科學研究中的實際應用。",
+    "lang": "zh",
+    "source": "iThome 台灣",
+    "url": "https://www.ithome.com.tw/news/179222",
+    "published": "2026-09-25T11:09:12+00:00",
+    "event_id": "72bffe5e6639",
+    "sources": [
+     {
+      "title": "Anthropic動用近千Claude代理搜尋DNA，21小時找出新型ART酵素系統",
+      "summary": "Anthropic近950個Claude AI代理搜尋DNA資料，21小時內發現新型ART酵素系統。成果展示AI在生命科學研究中的實際應用。",
+      "lang": "zh",
+      "source": "iThome 台灣",
+      "url": "https://www.ithome.com.tw/news/179222",
+      "published": "2026-09-25T11:09:12+00:00"
+     }
+    ],
+    "status": "unchanged",
+    "change_summary": "",
+    "previous_date": "2026-09-25",
+    "previous_event_id": "72bffe5e6639"
+   }
+  ],
+  "politica|america": [
+   {
+    "title": "Hurricane Polo barrels towards Baja California region of Mexico",
+    "summary": "Hurricane Polo barrels toward Baja California as one of the region's second-most intense hurricanes on record. Exceptionally warm Pacific waters are fueling the storm's intensity.",
+    "lang": "en",
+    "source": "The Guardian World",
+    "url": "https://www.theguardian.com/world/2026/sep/25/weather-tracker-hurricane-polo-baja-california-mexico",
+    "published": "2026-09-25T10:28:45+00:00",
+    "event_id": "7579f9b502ac",
+    "sources": [
+     {
+      "title": "Hurricane Polo barrels towards Baja California region of Mexico",
+      "summary": "Hurricane Polo barrels toward Baja California as one of the region's second-most intense hurricanes on record. Exceptionally warm Pacific waters are fueling the storm's intensity.",
+      "lang": "en",
+      "source": "The Guardian World",
+      "url": "https://www.theguardian.com/world/2026/sep/25/weather-tracker-hurricane-polo-baja-california-mexico",
+      "published": "2026-09-25T10:28:45+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "Supreme Court grants Trump request to use federal database to verify voter rolls",
+    "summary": "The Supreme Court granted Trump's request to use federal databases for voter roll verification ahead of November elections. The decision overturns a lower court ruling citing privacy concerns.",
+    "lang": "en",
+    "source": "Le Monde International",
+    "url": "https://www.lemonde.fr/en/international/article/2026/09/25/supreme-court-grants-trump-request-to-use-federal-database-to-verify-voter-rolls_6757961_4.html",
+    "published": "2026-09-25T19:40:21+00:00",
+    "event_id": "d7d9d19eac60",
+    "sources": [
+     {
+      "title": "Supreme Court grants Trump request to use federal database to verify voter rolls",
+      "summary": "The Supreme Court granted Trump's request to use federal databases for voter roll verification ahead of November elections. The decision overturns a lower court ruling citing privacy concerns.",
+      "lang": "en",
+      "source": "Le Monde International",
+      "url": "https://www.lemonde.fr/en/international/article/2026/09/25/supreme-court-grants-trump-request-to-use-federal-database-to-verify-voter-rolls_6757961_4.html",
+      "published": "2026-09-25T19:40:21+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "There's a global pandemic treaty that's signed -- and in 'limbo.' What's the holdup?",
+    "summary": "A global pandemic treaty has been signed but remains in limbo due to implementation delays. The agreement aims to prepare countries for and defeat future pandemics.",
+    "lang": "en",
+    "source": "NPR World",
+    "url": "https://www.npr.org/2026/09/25/g-s1-144948/pandemic-prevention-treaty-agreement-world-health-organization",
+    "published": "2026-09-25T15:57:35+00:00",
+    "event_id": "eb821500e41c",
+    "sources": [
+     {
+      "title": "There's a global pandemic treaty that's signed -- and in 'limbo.' What's the holdup?",
+      "summary": "A global pandemic treaty has been signed but remains in limbo due to implementation delays. The agreement aims to prepare countries for and defeat future pandemics.",
+      "lang": "en",
+      "source": "NPR World",
+      "url": "https://www.npr.org/2026/09/25/g-s1-144948/pandemic-prevention-treaty-agreement-world-health-organization",
+      "published": "2026-09-25T15:57:35+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "White House bars CNN from travelling with Trump on Air Force One",
+    "summary": "The White House barred CNN from traveling with Trump on Air Force One for his Tennessee trip Saturday. The decision marks an escalation in tensions between the administration and the network.",
+    "lang": "en",
+    "source": "BBC World",
+    "url": "https://www.bbc.co.uk/news/articles/cxq633770y16o?at_medium=RSS&at_campaign=rss",
+    "published": "2026-09-26T05:09:09+00:00",
+    "event_id": "87ad03b9a8d5",
+    "sources": [
+     {
+      "title": "White House bars CNN from travelling with Trump on Air Force One",
+      "summary": "The White House barred CNN from traveling with Trump on Air Force One for his Tennessee trip Saturday. The decision marks an escalation in tensions between the administration and the network.",
+      "lang": "en",
+      "source": "BBC World",
+      "url": "https://www.bbc.co.uk/news/articles/cxq633770y16o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-09-26T05:09:09+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   }
+  ]
+ }
+}
