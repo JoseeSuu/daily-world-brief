@@ -1,0 +1,867 @@
+{
+ "date": "2026-09-29",
+ "generated_at": "2026-09-29T11:29:43.535653+00:00",
+ "mode": "full",
+ "cost_usd": 0.0488,
+ "radar_cost_usd": 0.0046,
+ "events": {
+  "mode": "full",
+  "compared_with": "2026-09-28",
+  "articles": 37,
+  "uncompared_articles": 0,
+  "events": 33,
+  "cost_usd": 0.0177
+ },
+ "radar": {
+  "items": [
+   {
+    "id": "gh-1351859098",
+    "source": "GitHub",
+    "kind": "project",
+    "title": "2akouwu/reverify",
+    "url": "https://github.com/2akouwu/reverify",
+    "discussion_url": "",
+    "published": "2026-08-31T01:02:18Z",
+    "lang": "en",
+    "excerpt": "Stop your AI from making things up — it proposes, deterministic tools decide, every claim checked against ground truth with evidence. Grounded facts and context survive resets. Reverse engineering is the proving ground. MCP server + CLI.",
+    "signal": {
+     "stars_total": 1250
+    },
+    "summary": "Authors propose deterministic verification layer where AI proposals are checked against ground truth via evidence-based tools; includes MCP server and CLI implementation for preventing hallucination.",
+    "usefulness": "Could be adapted to validate document analysis outputs by requiring external tool confirmation before accepting AI-generated claims.",
+    "to_verify": "Whether deterministic tools genuinely prevent hallucination or merely flag uncertain outputs; how evidence requirements affect latency."
+   },
+   {
+    "id": "hn-49883471",
+    "source": "Hacker News",
+    "kind": "discussion",
+    "title": "It's Time to Investigate the AI Labs",
+    "url": "https://calnewport.com/its-time-to-investigate-the-ai-labs/",
+    "discussion_url": "https://news.ycombinator.com/item?id=49883471",
+    "published": "2026-09-28T19:53:35+00:00",
+    "lang": "en",
+    "excerpt": "",
+    "signal": {
+     "points": 525,
+     "comments": 215
+    },
+    "summary": "Cal Newport argues AI labs require regulatory investigation; discusses governance gaps in corporate AI development.",
+    "usefulness": "Might frame critical questions about AI governance structures when evaluating which tools and frameworks align with responsible deployment principles.",
+    "to_verify": "Specific governance failures Newport identifies; whether arguments rely on hypothetical risks versus documented incidents."
+   }
+  ],
+  "mode": "full",
+  "failed_sources": []
+ },
+ "market": null,
+ "failed_sources": [],
+ "cells": {
+  "economia|asia": [
+   {
+    "title": "China Expands Targeted Lending Support to Bolster Economy",
+    "summary": "China expands targeted lending to infrastructure and technology sectors to boost economic growth. The measures aim to reverse a months-long slowdown through increased bank lending.",
+    "lang": "en",
+    "source": "Bloomberg Economics",
+    "url": "https://www.bloomberg.com/news/articles/2026-09-29/china-expands-targeted-lending-to-bolster-economy-cuts-psl-rate",
+    "published": "2026-09-29T10:25:57+00:00",
+    "event_id": "d085fb0e494b",
+    "sources": [
+     {
+      "title": "China Expands Targeted Lending Support to Bolster Economy",
+      "summary": "China expands targeted lending to infrastructure and technology sectors to boost economic growth. The measures aim to reverse a months-long slowdown through increased bank lending.",
+      "lang": "en",
+      "source": "Bloomberg Economics",
+      "url": "https://www.bloomberg.com/news/articles/2026-09-29/china-expands-targeted-lending-to-bolster-economy-cuts-psl-rate",
+      "published": "2026-09-29T10:25:57+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "Mitsubishi, Shell to double LNG Canada capacity in boost to Asian supplies",
+    "summary": "Mitsubishi and Shell plan to double LNG Canada capacity to increase supplies to Asia. The expansion will significantly boost liquefied natural gas availability for regional markets.",
+    "lang": "en",
+    "source": "Nikkei Asia",
+    "url": "https://asia.nikkei.com/business/energy/mitsubishi-shell-to-double-lng-canada-capacity-in-boost-to-asian-supplies",
+    "published": null,
+    "event_id": "cbd38b1f7fe7",
+    "sources": [
+     {
+      "title": "Mitsubishi, Shell to double LNG Canada capacity in boost to Asian supplies",
+      "summary": "Mitsubishi and Shell plan to double LNG Canada capacity to increase supplies to Asia. The expansion will significantly boost liquefied natural gas availability for regional markets.",
+      "lang": "en",
+      "source": "Nikkei Asia",
+      "url": "https://asia.nikkei.com/business/energy/mitsubishi-shell-to-double-lng-canada-capacity-in-boost-to-asian-supplies",
+      "published": null
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "China's Toyota joint ventures to be put under one roof to help ailing GAC",
+    "summary": "China's Toyota joint ventures will be consolidated under one management structure to support struggling GAC. The reorganization aims to improve efficiency and financial performance of the combined entity.",
+    "lang": "en",
+    "source": "Nikkei Asia",
+    "url": "https://asia.nikkei.com/business/automobiles/china-s-toyota-joint-ventures-to-be-put-under-one-roof-to-help-ailing-gac",
+    "published": null,
+    "event_id": "dac73a9c3bde",
+    "sources": [
+     {
+      "title": "China's Toyota joint ventures to be put under one roof to help ailing GAC",
+      "summary": "China's Toyota joint ventures will be consolidated under one management structure to support struggling GAC. The reorganization aims to improve efficiency and financial performance of the combined entity.",
+      "lang": "en",
+      "source": "Nikkei Asia",
+      "url": "https://asia.nikkei.com/business/automobiles/china-s-toyota-joint-ventures-to-be-put-under-one-roof-to-help-ailing-gac",
+      "published": null
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "India can't stop buying Russian oil despite new US law, analysts say",
+    "summary": "India continues purchasing Russian oil despite new US law restrictions, analysts report. Domestic energy demand and economic interests override compliance pressures from Washington.",
+    "lang": "en",
+    "source": "Nikkei Asia",
+    "url": "https://asia.nikkei.com/economy/trade-war/trump-tariffs/india-can-t-stop-buying-russian-oil-despite-new-us-law-analysts-say",
+    "published": null,
+    "event_id": "df76f37d10f2",
+    "sources": [
+     {
+      "title": "India can't stop buying Russian oil despite new US law, analysts say",
+      "summary": "India continues purchasing Russian oil despite new US law restrictions, analysts report. Domestic energy demand and economic interests override compliance pressures from Washington.",
+      "lang": "en",
+      "source": "Nikkei Asia",
+      "url": "https://asia.nikkei.com/economy/trade-war/trump-tariffs/india-can-t-stop-buying-russian-oil-despite-new-us-law-analysts-say",
+      "published": null
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "曼谷水患影響機場運作 泰航減少30航班至少3天",
+    "summary": "曼谷豪雨引发水灾，泰国航空公司至少削减30班航班3天。该公司运营受到严重影响，取消航班占曼谷出发总航班的约30%。",
+    "lang": "zh",
+    "source": "中央社 CNA",
+    "url": "https://www.cna.com.tw/news/aopl/202609290295.aspx",
+    "published": "2026-09-29T10:53:59+00:00",
+    "event_id": "25a3af8bb7c6",
+    "sources": [
+     {
+      "title": "曼谷水患影響機場運作 泰航減少30航班至少3天",
+      "summary": "曼谷豪雨引发水灾，泰国航空公司至少削减30班航班3天。该公司运营受到严重影响，取消航班占曼谷出发总航班的约30%。",
+      "lang": "zh",
+      "source": "中央社 CNA",
+      "url": "https://www.cna.com.tw/news/aopl/202609290295.aspx",
+      "published": "2026-09-29T10:53:59+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "India-Europe trade corridor gets Trump’s backing, but can IMEC survive war?",
+    "summary": "Trump endorses the India-Europe trade corridor through the Middle East, renewing focus on the three-year project. Analysts question the corridor's viability amid regional instability.",
+    "lang": "en",
+    "source": "South China Morning Post (Asia)",
+    "url": "https://www.scmp.com/week-asia/politics/article/3369219/india-europe-trade-corridor-gets-trumps-backing-can-imec-survive-war?utm_source=rss_feed",
+    "published": "2026-09-29T11:01:25+00:00",
+    "event_id": "16dee533ca08",
+    "sources": [
+     {
+      "title": "India-Europe trade corridor gets Trump’s backing, but can IMEC survive war?",
+      "summary": "Trump endorses the India-Europe trade corridor through the Middle East, renewing focus on the three-year project. Analysts question the corridor's viability amid regional instability.",
+      "lang": "en",
+      "source": "South China Morning Post (Asia)",
+      "url": "https://www.scmp.com/week-asia/politics/article/3369219/india-europe-trade-corridor-gets-trumps-backing-can-imec-survive-war?utm_source=rss_feed",
+      "published": "2026-09-29T11:01:25+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "AI 狂潮席捲！台灣三大科學園區 2026 上半年總營收破 3.5 兆創歷年同期新高",
+    "summary": "台湾三大科学园区2026年上半年总营收破3.5万亿元创新高。受AI浪潮、高效能运算和先进芯片需求强劲驱动。",
+    "lang": "zh",
+    "source": "科技新報 TechNews",
+    "url": "https://finance.technews.tw/2026/09/29/taiwans-three-major-science-parks-achieved-a-combined-revenue-exceeding-nt3-5-trillion-in-the-first-half-of-2026/",
+    "published": "2026-09-29T09:45:01+00:00",
+    "event_id": "ffdb51183aaa",
+    "sources": [
+     {
+      "title": "AI 狂潮席捲！台灣三大科學園區 2026 上半年總營收破 3.5 兆創歷年同期新高",
+      "summary": "台湾三大科学园区2026年上半年总营收破3.5万亿元创新高。受AI浪潮、高效能运算和先进芯片需求强劲驱动。",
+      "lang": "zh",
+      "source": "科技新報 TechNews",
+      "url": "https://finance.technews.tw/2026/09/29/taiwans-three-major-science-parks-achieved-a-combined-revenue-exceeding-nt3-5-trillion-in-the-first-half-of-2026/",
+      "published": "2026-09-29T09:45:01+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   }
+  ],
+  "tecnologia|asia": [
+   {
+    "title": "South Korea's Lee orders officials to accelerate $589bn AI hub plans",
+    "summary": "South Korea's President Lee orders officials to accelerate $589 billion AI hub development plans. The initiative aims to strengthen the country's artificial intelligence capabilities and infrastructure.",
+    "lang": "en",
+    "source": "Nikkei Asia",
+    "url": "https://asia.nikkei.com/politics/south-korea-s-lee-orders-officials-to-accelerate-589bn-ai-hub-plans",
+    "published": null,
+    "event_id": "83ba268da378",
+    "sources": [
+     {
+      "title": "South Korea's Lee orders officials to accelerate $589bn AI hub plans",
+      "summary": "South Korea's President Lee orders officials to accelerate $589 billion AI hub development plans. The initiative aims to strengthen the country's artificial intelligence capabilities and infrastructure.",
+      "lang": "en",
+      "source": "Nikkei Asia",
+      "url": "https://asia.nikkei.com/politics/south-korea-s-lee-orders-officials-to-accelerate-589bn-ai-hub-plans",
+      "published": null
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "研調：全球人型機器人 H1 出貨量增 4.3 倍，中國占 78%",
+    "summary": "全球人型机器人2026年上半年出货量增长4.3倍，中国占78%市场份额。IDC数据显示全球出货量近2.5万台。",
+    "lang": "zh",
+    "source": "科技新報 TechNews",
+    "url": "https://technews.tw/2026/09/29/china-accounts-for-78-of-humanoid-robot-h1-shipments/",
+    "published": "2026-09-29T07:50:23+00:00",
+    "event_id": "2a64502b1246",
+    "sources": [
+     {
+      "title": "研調：全球人型機器人 H1 出貨量增 4.3 倍，中國占 78%",
+      "summary": "全球人型机器人2026年上半年出货量增长4.3倍，中国占78%市场份额。IDC数据显示全球出货量近2.5万台。",
+      "lang": "zh",
+      "source": "科技新報 TechNews",
+      "url": "https://technews.tw/2026/09/29/china-accounts-for-78-of-humanoid-robot-h1-shipments/",
+      "published": "2026-09-29T07:50:23+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   }
+  ],
+  "economia|europa": [
+   {
+    "title": "ECB amends monetary policy implementation guidelines as part of regular review",
+    "summary": "The ECB amends its monetary policy implementation guidelines as part of a regular review. The changes reflect adjustments to operational procedures for implementing monetary policy decisions.",
+    "lang": "en",
+    "source": "BCE (notas de prensa)",
+    "url": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr260929~050089e922.en.html",
+    "published": "2026-09-29T08:00:00+00:00",
+    "event_id": "2dc234646491",
+    "sources": [
+     {
+      "title": "ECB amends monetary policy implementation guidelines as part of regular review",
+      "summary": "The ECB amends its monetary policy implementation guidelines as part of a regular review. The changes reflect adjustments to operational procedures for implementing monetary policy decisions.",
+      "lang": "en",
+      "source": "BCE (notas de prensa)",
+      "url": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr260929~050089e922.en.html",
+      "published": "2026-09-29T08:00:00+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "US-Iran war adds €100bn to EU’s fuel bill",
+    "summary": "A potential US-Iran conflict could add €100 billion to the EU's fuel bill, warns Bloomberg. Energy ministers meet in Dublin amid concerns about Middle East escalation impacts.",
+    "lang": "en",
+    "source": "Financial Times",
+    "url": "https://www.ft.com/content/f16439a7-5554-412a-ae34-b46459ce28a9?syn-25a6b1a6=1",
+    "published": "2026-09-29T10:55:28+00:00",
+    "event_id": "1905d937b98e",
+    "sources": [
+     {
+      "title": "US-Iran war adds €100bn to EU’s fuel bill",
+      "summary": "A potential US-Iran conflict could add €100 billion to the EU's fuel bill, warns Bloomberg. Energy ministers meet in Dublin amid concerns about Middle East escalation impacts.",
+      "lang": "en",
+      "source": "Financial Times",
+      "url": "https://www.ft.com/content/f16439a7-5554-412a-ae34-b46459ce28a9?syn-25a6b1a6=1",
+      "published": "2026-09-29T10:55:28+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "Brussels’ protectionist turn spooks bloc’s free-market stalwarts",
+    "summary": "Brussels' shift toward protectionism worries free-market advocates within the EU bloc. Energy ministers prepare for winter amid broader trade policy debates.",
+    "lang": "en",
+    "source": "FT Global Economy",
+    "url": "https://www.ft.com/content/27fb5d30-1fb6-4f30-937c-ff5c598eaaa5?syn-25a6b1a6=1",
+    "published": "2026-09-29T05:00:11+00:00",
+    "event_id": "b400ef4cdc6a",
+    "sources": [
+     {
+      "title": "Brussels’ protectionist turn spooks bloc’s free-market stalwarts",
+      "summary": "Brussels' shift toward protectionism worries free-market advocates within the EU bloc. Energy ministers prepare for winter amid broader trade policy debates.",
+      "lang": "en",
+      "source": "FT Global Economy",
+      "url": "https://www.ft.com/content/27fb5d30-1fb6-4f30-937c-ff5c598eaaa5?syn-25a6b1a6=1",
+      "published": "2026-09-29T05:00:11+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "Spanish Inflation Unexpectedly Hits 5%, Backing Higher Rates",
+    "summary": "Spanish inflation unexpectedly jumped to 5%, exceeding the ECB's 2% target significantly. The acceleration strengthens arguments for further interest rate increases.",
+    "lang": "en",
+    "source": "Bloomberg Economics",
+    "url": "https://www.bloomberg.com/news/articles/2026-09-29/spanish-inflation-unexpectedly-hits-5-backing-higher-ecb-rates",
+    "published": "2026-09-29T07:00:00+00:00",
+    "event_id": "d13f881218c4",
+    "sources": [
+     {
+      "title": "Spanish Inflation Unexpectedly Hits 5%, Backing Higher Rates",
+      "summary": "Spanish inflation unexpectedly jumped to 5%, exceeding the ECB's 2% target significantly. The acceleration strengthens arguments for further interest rate increases.",
+      "lang": "en",
+      "source": "Bloomberg Economics",
+      "url": "https://www.bloomberg.com/news/articles/2026-09-29/spanish-inflation-unexpectedly-hits-5-backing-higher-ecb-rates",
+      "published": "2026-09-29T07:00:00+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "Germany issues EU budget ultimatum",
+    "summary": "Germany and five other EU capitals demand Brussels eliminate hundreds of billions in planned spending. Berlin issues ultimatum to reduce budget expenditures substantially.",
+    "lang": "en",
+    "source": "Financial Times",
+    "url": "https://www.ft.com/content/3b829a46-3eae-4c20-94db-a79c38d0be4c?syn-25a6b1a6=1",
+    "published": "2026-09-29T04:00:30+00:00",
+    "event_id": "9b0a7242d129",
+    "sources": [
+     {
+      "title": "Germany issues EU budget ultimatum",
+      "summary": "Germany and five other EU capitals demand Brussels eliminate hundreds of billions in planned spending. Berlin issues ultimatum to reduce budget expenditures substantially.",
+      "lang": "en",
+      "source": "Financial Times",
+      "url": "https://www.ft.com/content/3b829a46-3eae-4c20-94db-a79c38d0be4c?syn-25a6b1a6=1",
+      "published": "2026-09-29T04:00:30+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   }
+  ],
+  "economia|america": [
+   {
+    "title": "US Import Ban Blocks Canadian Alcohol, Motorcycles",
+    "summary": "US import ban on Canadian alcohol and motorcycles takes effect amid rising trade conflict. The restrictions target select Canadian products as bilateral tensions persist.",
+    "lang": "en",
+    "source": "Bloomberg Markets",
+    "url": "https://www.bloomberg.com/news/videos/2026-09-29/us-import-ban-blocks-canadian-alcohol-motorcycles-video",
+    "published": "2026-09-29T10:52:57+00:00",
+    "event_id": "b4c6ea3422f0",
+    "sources": [
+     {
+      "title": "US Import Ban Blocks Canadian Alcohol, Motorcycles",
+      "summary": "US import ban on Canadian alcohol and motorcycles takes effect amid rising trade conflict. The restrictions target select Canadian products as bilateral tensions persist.",
+      "lang": "en",
+      "source": "Bloomberg Markets",
+      "url": "https://www.bloomberg.com/news/videos/2026-09-29/us-import-ban-blocks-canadian-alcohol-motorcycles-video",
+      "published": "2026-09-29T10:52:57+00:00"
+     },
+     {
+      "title": "US Canada import ban",
+      "summary": "US import ban targets Canadian goods and American companies producing in Canada. The prohibition marks escalation in ongoing trade tensions between the nations.",
+      "lang": "en",
+      "source": "Bloomberg Economics",
+      "url": "https://www.bloomberg.com/news/newsletters/2026-09-29/us-canada-import-ban",
+      "published": "2026-09-29T11:00:01+00:00"
+     },
+     {
+      "title": "US import ban on Canadian alcohol and other products goes into effect",
+      "summary": "US import ban on Canadian alcohol, dairy-based whey protein, and motorcycles takes effect Tuesday. The restrictions intensify the escalating trade conflict between the two countries.",
+      "lang": "en",
+      "source": "Le Monde International",
+      "url": "https://www.lemonde.fr/en/economy/article/2026/09/29/us-import-ban-on-canadian-alcohol-and-other-products-goes-into-effect_6758065_19.html",
+      "published": "2026-09-29T09:24:18+00:00"
+     },
+     {
+      "title": "US ban on Canadian alcohol and dairy comes into effect as trade war drags on",
+      "summary": "US ban on Canadian alcohol and dairy takes effect as trade war continues without resolution. Negotiations collapsed in late August with no timeline for resuming talks.",
+      "lang": "en",
+      "source": "BBC World",
+      "url": "https://www.bbc.co.uk/news/articles/cm1j43y146d2o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-09-29T04:10:33+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   }
+  ],
+  "politica|asia": [
+   {
+    "title": "駐伊拉克20多年美軍全面撤出 抵抗軸心稱勝IS伺機而動",
+    "summary": "美军将从伊拉克全面撤离，标志着20多年军事行动结束。伊朗及其盟国视撤军为胜利，已在当地建立深远影响力。",
+    "lang": "zh",
+    "source": "中央社 CNA",
+    "url": "https://www.cna.com.tw/news/aopl/202609290267.aspx",
+    "published": "2026-09-29T10:01:59+00:00",
+    "event_id": "2b6a79c430fe",
+    "sources": [
+     {
+      "title": "駐伊拉克20多年美軍全面撤出 抵抗軸心稱勝IS伺機而動",
+      "summary": "美军将从伊拉克全面撤离，标志着20多年军事行动结束。伊朗及其盟国视撤军为胜利，已在当地建立深远影响力。",
+      "lang": "zh",
+      "source": "中央社 CNA",
+      "url": "https://www.cna.com.tw/news/aopl/202609290267.aspx",
+      "published": "2026-09-29T10:01:59+00:00"
+     }
+    ],
+    "status": "updated",
+    "change_summary": "駐伊拉克20多年美軍全面撤出 抵抗軸心稱勝IS伺機而動",
+    "previous_date": "2026-09-28",
+    "previous_event_id": "2b6a79c430fe"
+   },
+   {
+    "title": "China warns Japan over WWII history as business delegation visits Beijing",
+    "summary": "China's top diplomat Wang Yi meets Japan's former foreign minister Takeshi Iwaya leading a 50-member business delegation. The talks address historical issues and economic cooperation.",
+    "lang": "en",
+    "source": "South China Morning Post (China)",
+    "url": "https://www.scmp.com/news/china/diplomacy/article/3369154/china-warns-japan-over-wwii-history-business-delegation-visits-beijing?utm_source=rss_feed",
+    "published": "2026-09-29T06:00:10+00:00",
+    "event_id": "68e6270a9154",
+    "sources": [
+     {
+      "title": "China warns Japan over WWII history as business delegation visits Beijing",
+      "summary": "China's top diplomat Wang Yi meets Japan's former foreign minister Takeshi Iwaya leading a 50-member business delegation. The talks address historical issues and economic cooperation.",
+      "lang": "en",
+      "source": "South China Morning Post (China)",
+      "url": "https://www.scmp.com/news/china/diplomacy/article/3369154/china-warns-japan-over-wwii-history-business-delegation-visits-beijing?utm_source=rss_feed",
+      "published": "2026-09-29T06:00:10+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "疑北韓地雷炸傷3南韓官兵 首爾揚言採取相應措施",
+    "summary": "南韩指控北韩埋设地雷导致3名军人受伤，违反停战协定。首尔承诺将采取相应措施回应这一事件。",
+    "lang": "zh",
+    "source": "中央社 CNA",
+    "url": "https://www.cna.com.tw/news/aopl/202609290227.aspx",
+    "published": "2026-09-29T08:58:32+00:00",
+    "event_id": "baf6e4ef5e49",
+    "sources": [
+     {
+      "title": "疑北韓地雷炸傷3南韓官兵 首爾揚言採取相應措施",
+      "summary": "南韩指控北韩埋设地雷导致3名军人受伤，违反停战协定。首尔承诺将采取相应措施回应这一事件。",
+      "lang": "zh",
+      "source": "中央社 CNA",
+      "url": "https://www.cna.com.tw/news/aopl/202609290227.aspx",
+      "published": "2026-09-29T08:58:32+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "Iranian human rights lawyer Nasrin Sotoudeh wins the 2026 Vaclav Havel Human Rights Prize",
+    "summary": "Iranian human rights lawyer Nasrin Sotoudeh wins the 2026 Vaclav Havel Human Rights Prize. The Council of Europe recognizes her advocacy for women, children, and marginalized groups.",
+    "lang": "en",
+    "source": "Deutsche Welle World",
+    "url": "https://www.dw.com/en/iranian-human-rights-lawyer-nasrin-sotoudeh-wins-the-2026-vaclav-havel-human-rights-prize/a-79462111?maca=en-rss-en-world-4025-rdf",
+    "published": "2026-09-28T16:32:00+00:00",
+    "event_id": "24b127d03b99",
+    "sources": [
+     {
+      "title": "Iranian human rights lawyer Nasrin Sotoudeh wins the 2026 Vaclav Havel Human Rights Prize",
+      "summary": "Iranian human rights lawyer Nasrin Sotoudeh wins the 2026 Vaclav Havel Human Rights Prize. The Council of Europe recognizes her advocacy for women, children, and marginalized groups.",
+      "lang": "en",
+      "source": "Deutsche Welle World",
+      "url": "https://www.dw.com/en/iranian-human-rights-lawyer-nasrin-sotoudeh-wins-the-2026-vaclav-havel-human-rights-prize/a-79462111?maca=en-rss-en-world-4025-rdf",
+      "published": "2026-09-28T16:32:00+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "As the U.S. signals a smaller Middle East footprint, Turkey is ready to step in",
+    "summary": "Turkey seeks increased regional influence as the US signals a smaller Middle East military footprint. Ankara positions itself amid profound regional shocks since 2023.",
+    "lang": "en",
+    "source": "NPR World",
+    "url": "https://www.npr.org/2026/09/29/nx-s1-5983685/turkey-influence",
+    "published": "2026-09-29T09:00:00+00:00",
+    "event_id": "b5127fbac6c7",
+    "sources": [
+     {
+      "title": "As the U.S. signals a smaller Middle East footprint, Turkey is ready to step in",
+      "summary": "Turkey seeks increased regional influence as the US signals a smaller Middle East military footprint. Ankara positions itself amid profound regional shocks since 2023.",
+      "lang": "en",
+      "source": "NPR World",
+      "url": "https://www.npr.org/2026/09/29/nx-s1-5983685/turkey-influence",
+      "published": "2026-09-29T09:00:00+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   }
+  ],
+  "politica|europa": [
+   {
+    "title": "Bruselas advierte de “lagunas en la defensa” de la UE y pide más esfuerzo en el rearme frente Rusia",
+    "summary": "Bruselas advierte sobre deficiencias en la defensa de la UE y exige mayor rearme frente a Rusia. Von der Leyen propone un mecanismo contra ataques híbridos del Kremlin, aunque genera recelo entre estados miembros.",
+    "lang": "es",
+    "source": "El País Internacional",
+    "url": "https://elpais.com/internacional/2026-09-28/bruselas-advierte-de-una-brecha-en-la-defensa-de-la-ue-y-pide-mas-esfuerzo-en-el-rearme-frente-rusia.html",
+    "published": "2026-09-28T16:40:19+00:00",
+    "event_id": "27a1300e8fc8",
+    "sources": [
+     {
+      "title": "Bruselas advierte de “lagunas en la defensa” de la UE y pide más esfuerzo en el rearme frente Rusia",
+      "summary": "Bruselas advierte sobre deficiencias en la defensa de la UE y exige mayor rearme frente a Rusia. Von der Leyen propone un mecanismo contra ataques híbridos del Kremlin, aunque genera recelo entre estados miembros.",
+      "lang": "es",
+      "source": "El País Internacional",
+      "url": "https://elpais.com/internacional/2026-09-28/bruselas-advierte-de-una-brecha-en-la-defensa-de-la-ue-y-pide-mas-esfuerzo-en-el-rearme-frente-rusia.html",
+      "published": "2026-09-28T16:40:19+00:00"
+     }
+    ],
+    "status": "updated",
+    "change_summary": "Bruselas advierte de \"lagunas en la defensa\" de la UE y pide más esfuerzo en el rearme frente Rusia",
+    "previous_date": "2026-09-28",
+    "previous_event_id": "27a1300e8fc8"
+   },
+   {
+    "title": "Rusia machaca con misiles y drones Kiev a un ritmo sin precedentes en la guerra",
+    "summary": "Rusia intensifica bombardeos contra Kiev con misiles y drones a ritmo sin precedentes en septiembre. El ataque a la Academia Nacional de Ciencias provoca condena internacional con víctimas mortales casi diarias.",
+    "lang": "es",
+    "source": "El País Internacional",
+    "url": "https://elpais.com/internacional/2026-09-29/rusia-machaca-con-misiles-y-drones-kiev-a-un-ritmo-sin-precedentes-en-la-guerra.html",
+    "published": "2026-09-29T11:03:26+00:00",
+    "event_id": "57749a28c2c9",
+    "sources": [
+     {
+      "title": "Rusia machaca con misiles y drones Kiev a un ritmo sin precedentes en la guerra",
+      "summary": "Rusia intensifica bombardeos contra Kiev con misiles y drones a ritmo sin precedentes en septiembre. El ataque a la Academia Nacional de Ciencias provoca condena internacional con víctimas mortales casi diarias.",
+      "lang": "es",
+      "source": "El País Internacional",
+      "url": "https://elpais.com/internacional/2026-09-29/rusia-machaca-con-misiles-y-drones-kiev-a-un-ritmo-sin-precedentes-en-la-guerra.html",
+      "published": "2026-09-29T11:03:26+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "Pesticides: Scientific community warns of 'dangerous step backward' in European laws",
+    "summary": "The scientific community warns that the EU's proposed pesticide law changes represent a dangerous regression. The Omnibus X package aims to simplify regulations but risks environmental protection.",
+    "lang": "en",
+    "source": "Le Monde International",
+    "url": "https://www.lemonde.fr/en/environment/article/2026/09/29/pesticides-scientific-community-warns-of-dangerous-step-backward-in-european-laws_6758058_114.html",
+    "published": "2026-09-29T03:00:07+00:00",
+    "event_id": "c2b91f804efa",
+    "sources": [
+     {
+      "title": "Pesticides: Scientific community warns of 'dangerous step backward' in European laws",
+      "summary": "The scientific community warns that the EU's proposed pesticide law changes represent a dangerous regression. The Omnibus X package aims to simplify regulations but risks environmental protection.",
+      "lang": "en",
+      "source": "Le Monde International",
+      "url": "https://www.lemonde.fr/en/environment/article/2026/09/29/pesticides-scientific-community-warns-of-dangerous-step-backward-in-european-laws_6758058_114.html",
+      "published": "2026-09-29T03:00:07+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "5 men arrested near a U.S.-run base bailed as UK police probe if there's an Iran link",
+    "summary": "Five men arrested near a US base in the UK are bailed as police investigate possible Iran links. Investigators examine potential connections to Iran, Russia, or non-state militant groups.",
+    "lang": "en",
+    "source": "NPR World",
+    "url": "https://www.npr.org/2026/09/28/g-s1-145245/britain-us-base-suspected-foiled-attack",
+    "published": "2026-09-28T10:51:25+00:00",
+    "event_id": "3bdbb46e0ef1",
+    "sources": [
+     {
+      "title": "5 men arrested near a U.S.-run base bailed as UK police probe if there's an Iran link",
+      "summary": "Five men arrested near a US base in the UK are bailed as police investigate possible Iran links. Investigators examine potential connections to Iran, Russia, or non-state militant groups.",
+      "lang": "en",
+      "source": "NPR World",
+      "url": "https://www.npr.org/2026/09/28/g-s1-145245/britain-us-base-suspected-foiled-attack",
+      "published": "2026-09-28T10:51:25+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   }
+  ],
+  "politica|america": [
+   {
+    "title": "Hurricane Polo makes landfall on Mexico's Pacific coast",
+    "summary": "Hurricane Polo makes landfall on Mexico's Baja California peninsula, a popular tourist destination. The storm brings severe weather impacts to the coastal region.",
+    "lang": "en",
+    "source": "BBC World",
+    "url": "https://www.bbc.co.uk/news/articles/cw8d3z5y7958o?at_medium=RSS&at_campaign=rss",
+    "published": "2026-09-29T10:34:53+00:00",
+    "event_id": "5dc658f5c09d",
+    "sources": [
+     {
+      "title": "Hurricane Polo makes landfall on Mexico's Pacific coast",
+      "summary": "Hurricane Polo makes landfall on Mexico's Baja California peninsula, a popular tourist destination. The storm brings severe weather impacts to the coastal region.",
+      "lang": "en",
+      "source": "BBC World",
+      "url": "https://www.bbc.co.uk/news/articles/cw8d3z5y7958o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-09-29T10:34:53+00:00"
+     }
+    ],
+    "status": "updated",
+    "change_summary": "Hurricane Polo makes landfall on Mexico's Pacific coast",
+    "previous_date": "2026-09-28",
+    "previous_event_id": "5dc658f5c09d"
+   },
+   {
+    "title": "Argentina threatens legal action against UK over Falkland Islands oil exploration",
+    "summary": "Argentina threatens legal action against the UK over Falkland Islands oil exploration. President Javier Milei sets a two-week deadline for scrapping the Sea Lion oilfield project.",
+    "lang": "en",
+    "source": "BBC World",
+    "url": "https://www.bbc.co.uk/news/articles/cq5yj1835y1wo?at_medium=RSS&at_campaign=rss",
+    "published": "2026-09-29T03:50:40+00:00",
+    "event_id": "10b405488c11",
+    "sources": [
+     {
+      "title": "Argentina threatens legal action against UK over Falkland Islands oil exploration",
+      "summary": "Argentina threatens legal action against the UK over Falkland Islands oil exploration. President Javier Milei sets a two-week deadline for scrapping the Sea Lion oilfield project.",
+      "lang": "en",
+      "source": "BBC World",
+      "url": "https://www.bbc.co.uk/news/articles/cq5yj1835y1wo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-09-29T03:50:40+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   }
+  ],
+  "tecnologia|america": [
+   {
+    "title": "AMD is acquiring AI company World Labs in a deal worth more than $8 billion",
+    "summary": "AMD acquires AI research company World Labs co-founded by Dr. Fei-Fei Li for approximately $8.2 billion. The all-stock deal strengthens AMD's artificial intelligence capabilities.",
+    "lang": "en",
+    "source": "The Verge",
+    "url": "https://www.theverge.com/tech/1001749/amd-world-labs-ai-acquisition-deal",
+    "published": "2026-09-28T21:31:35+00:00",
+    "event_id": "227c6ab55934",
+    "sources": [
+     {
+      "title": "AMD is acquiring AI company World Labs in a deal worth more than $8 billion",
+      "summary": "AMD acquires AI research company World Labs co-founded by Dr. Fei-Fei Li for approximately $8.2 billion. The all-stock deal strengthens AMD's artificial intelligence capabilities.",
+      "lang": "en",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/tech/1001749/amd-world-labs-ai-acquisition-deal",
+      "published": "2026-09-28T21:31:35+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "SpaceX's Starship goes orbital, deploying first next-gen Starlinks",
+    "summary": "SpaceX's Starship completes orbital flight, deploying first next-generation Starlinks successfully. The mission achieves the final milestone after reaching 99 percent orbital altitude previously.",
+    "lang": "en",
+    "source": "Ars Technica",
+    "url": "https://arstechnica.com/space/2026/09/starships-first-orbital-launch-gives-lift-to-spacexs-next-gen-starlinks/",
+    "published": "2026-09-28T21:26:19+00:00",
+    "event_id": "efaa436d2d89",
+    "sources": [
+     {
+      "title": "SpaceX's Starship goes orbital, deploying first next-gen Starlinks",
+      "summary": "SpaceX's Starship completes orbital flight, deploying first next-generation Starlinks successfully. The mission achieves the final milestone after reaching 99 percent orbital altitude previously.",
+      "lang": "en",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/space/2026/09/starships-first-orbital-launch-gives-lift-to-spacexs-next-gen-starlinks/",
+      "published": "2026-09-28T21:26:19+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "AI is supercharging hacking, and your local hospitals and banks aren’t ready",
+    "summary": "AI-powered hacking is accelerating while hospitals and banks remain unprepared for cybersecurity threats. Organizations struggle to defend against increasingly sophisticated automated attacks.",
+    "lang": "en",
+    "source": "The Verge",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/1001427/ai-is-supercharging-hacking-and-your-local-hospitals-and-banks-arent-ready",
+    "published": "2026-09-28T18:30:00+00:00",
+    "event_id": "7c7b6ea24fb9",
+    "sources": [
+     {
+      "title": "AI is supercharging hacking, and your local hospitals and banks aren’t ready",
+      "summary": "AI-powered hacking is accelerating while hospitals and banks remain unprepared for cybersecurity threats. Organizations struggle to defend against increasingly sophisticated automated attacks.",
+      "lang": "en",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1001427/ai-is-supercharging-hacking-and-your-local-hospitals-and-banks-arent-ready",
+      "published": "2026-09-28T18:30:00+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "Anthropic, camina o revienta: sus cuentas desveladas sugieren o la mayor IPO de la historia o un agujero financiero inédito",
+    "summary": "Números de Anthropic sugieren una histórica IPO o un grave déficit financiero sin precedentes. Reuters accede a datos financieros de Claude que revelan la situación económica crítica de la empresa.",
+    "lang": "es",
+    "source": "Xataka",
+    "url": "https://www.xataka.com/robotica-e-ia/anthropic-camina-revienta-sus-cuentas-desveladas-sugieren-mayor-ipo-historia-agujero-financiero-inedito",
+    "published": "2026-09-29T10:16:26+00:00",
+    "event_id": "d423a530a4ea",
+    "sources": [
+     {
+      "title": "Anthropic, camina o revienta: sus cuentas desveladas sugieren o la mayor IPO de la historia o un agujero financiero inédito",
+      "summary": "Números de Anthropic sugieren una histórica IPO o un grave déficit financiero sin precedentes. Reuters accede a datos financieros de Claude que revelan la situación económica crítica de la empresa.",
+      "lang": "es",
+      "source": "Xataka",
+      "url": "https://www.xataka.com/robotica-e-ia/anthropic-camina-revienta-sus-cuentas-desveladas-sugieren-mayor-ipo-historia-agujero-financiero-inedito",
+      "published": "2026-09-29T10:16:26+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "Meta Muse 被爆偷看私人訊息，掀起隱私疑慮",
+    "summary": "Meta AI助手Muse被曝可能访问用户私人信息，引发隐私担忧。AI智能体代理人执行任务能力进步的同时暴露安全漏洞。",
+    "lang": "zh",
+    "source": "科技新報 TechNews",
+    "url": "https://infosecu.technews.tw/2026/09/29/meta-s-muse-read-private-messages-without-permission/",
+    "published": "2026-09-29T08:59:21+00:00",
+    "event_id": "3b1df0628c69",
+    "sources": [
+     {
+      "title": "Meta Muse 被爆偷看私人訊息，掀起隱私疑慮",
+      "summary": "Meta AI助手Muse被曝可能访问用户私人信息，引发隐私担忧。AI智能体代理人执行任务能力进步的同时暴露安全漏洞。",
+      "lang": "zh",
+      "source": "科技新報 TechNews",
+      "url": "https://infosecu.technews.tw/2026/09/29/meta-s-muse-read-private-messages-without-permission/",
+      "published": "2026-09-29T08:59:21+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "OpenAI Delays Release of Latest Model Over Safety Concerns",
+    "summary": "OpenAI delays releasing its Astra model over safety concerns and apologizes for security failures. The company requires additional work to meet safety standards before deployment.",
+    "lang": "en",
+    "source": "Wired",
+    "url": "https://www.wired.com/story/openai-delays-release-of-latest-model-over-safety-concerns/",
+    "published": "2026-09-29T10:36:22+00:00",
+    "event_id": "df19e6663c5f",
+    "sources": [
+     {
+      "title": "OpenAI Delays Release of Latest Model Over Safety Concerns",
+      "summary": "OpenAI delays releasing its Astra model over safety concerns and apologizes for security failures. The company requires additional work to meet safety standards before deployment.",
+      "lang": "en",
+      "source": "Wired",
+      "url": "https://www.wired.com/story/openai-delays-release-of-latest-model-over-safety-concerns/",
+      "published": "2026-09-29T10:36:22+00:00"
+     },
+     {
+      "title": "OpenAI cancela el lanzamiento de GPT-6.1 Astra: su propio equipo de seguridad ha visto que el modelo no era fiable",
+      "summary": "OpenAI suspende el lanzamiento de GPT-6.1 Astra tras descubrir que el modelo no era fiable. Su equipo de seguridad identificó comportamientos inadecuados en el sistema previsto para octubre.",
+      "lang": "es",
+      "source": "Xataka",
+      "url": "https://www.xataka.com/robotica-e-ia/openai-cancela-gpt-6-1-astra-su-propio-equipo-seguridad-ha-visto-que-modelo-no-era-fiable",
+      "published": "2026-09-29T09:50:26+00:00"
+     }
+    ],
+    "status": "unchanged",
+    "change_summary": "",
+    "previous_date": "2026-09-28",
+    "previous_event_id": "df19e6663c5f"
+   },
+   {
+    "title": "Who’s liable when AI agents go rogue?",
+    "summary": "Questions arise about liability when AI agents malfunction or cause harm independently. The complex legal and technical landscape creates uncertainty over responsibility assignments.",
+    "lang": "en",
+    "source": "MIT Technology Review",
+    "url": "https://www.technologyreview.com/2026/09/28/1145197/whos-liable-when-ai-agents-go-rogue/",
+    "published": "2026-09-28T08:06:22+00:00",
+    "event_id": "5b67311c7107",
+    "sources": [
+     {
+      "title": "Who’s liable when AI agents go rogue?",
+      "summary": "Questions arise about liability when AI agents malfunction or cause harm independently. The complex legal and technical landscape creates uncertainty over responsibility assignments.",
+      "lang": "en",
+      "source": "MIT Technology Review",
+      "url": "https://www.technologyreview.com/2026/09/28/1145197/whos-liable-when-ai-agents-go-rogue/",
+      "published": "2026-09-28T08:06:22+00:00"
+     }
+    ],
+    "status": "unchanged",
+    "change_summary": "",
+    "previous_date": "2026-09-28",
+    "previous_event_id": "5b67311c7107"
+   }
+  ]
+ }
+}
