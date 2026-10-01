@@ -1,0 +1,915 @@
+{
+ "date": "2026-10-01",
+ "generated_at": "2026-10-01T11:44:58.614116+00:00",
+ "mode": "full",
+ "cost_usd": 0.0495,
+ "radar_cost_usd": 0.0043,
+ "events": {
+  "mode": "full",
+  "compared_with": "2026-09-30",
+  "articles": 41,
+  "uncompared_articles": 0,
+  "events": 34,
+  "cost_usd": 0.0178
+ },
+ "radar": {
+  "items": [
+   {
+    "id": "hn-49911995",
+    "source": "Hacker News",
+    "kind": "discussion",
+    "title": "Launch HN: Magnitude (YC S25) – Self-optimizing inference engine for agents",
+    "url": "https://github.com/magnitudedev/magnitude",
+    "discussion_url": "https://news.ycombinator.com/item?id=49911995",
+    "published": "2026-09-30T17:37:40+00:00",
+    "lang": "en",
+    "excerpt": "Hey HN, Anders and Tom here. We're building Magnitude, an inference engine for agents that optimizes itself to run as fast as possible on your hardware. It works on Mac, Linux, and Windows on any hardware and is up to 2x faster than llama.cpp. We're both software engineers and previously built an open source browser agent to 4k+ GH stars and 100k+ downloads. We increasingly wanted to run it on local models, but found that no inference engine worked for our use case. Inference engines today all make a performance tradeoff. They are either: - Built for batched inference on datacenter hardware at",
+    "signal": {
+     "points": 168,
+     "comments": 85
+    },
+    "summary": "Magnitude is an inference engine for agents that optimizes itself for local hardware performance, claiming up to 2x faster execution than llama.cpp on Mac, Linux, and Windows.",
+    "usefulness": "Could help when building Python agent tools if local inference speed becomes a bottleneck for document processing workflows.",
+    "to_verify": "Whether the 2x speedup claim applies to your specific hardware and agent workload; test locally before adopting."
+   },
+   {
+    "id": "hn-49903713",
+    "source": "Hacker News",
+    "kind": "discussion",
+    "title": "Responsible Release of AI-Generated Mathematics",
+    "url": "https://agmai.org/general-sep29/",
+    "discussion_url": "https://news.ycombinator.com/item?id=49903713",
+    "published": "2026-09-30T02:36:12+00:00",
+    "lang": "en",
+    "excerpt": "",
+    "signal": {
+     "points": 94,
+     "comments": 128
+    },
+    "summary": "Discussion on responsible release practices for AI-generated mathematics, addressing governance considerations for novel AI outputs.",
+    "usefulness": "Could inform policy decisions when releasing AI-generated analysis or document processing tools.",
+    "to_verify": "What specific responsible release criteria the governance framework proposes; consult full source material for details."
+   }
+  ],
+  "mode": "full",
+  "failed_sources": []
+ },
+ "market": null,
+ "failed_sources": [],
+ "cells": {
+  "politica|europa": [
+   {
+    "title": "Rusia amenaza con usar armas nucleares contra los países de la OTAN en plena escalada de tensión en el Báltico",
+    "summary": "Rusia amenazó con usar armas nucleares contra la OTAN en una nota diplomática advirtiendo que no aisle Kaliningrado. La Alianza condenó la \"retórica nuclear irresponsable\" de Moscú en medio de tensiones en el Báltico.",
+    "lang": "es",
+    "source": "El País Internacional",
+    "url": "https://elpais.com/internacional/2026-09-30/rusia-amenaza-con-usar-armas-nucleares-contra-los-paises-de-la-otan-en-plena-escalada-de-tension-en-el-baltico.html",
+    "published": "2026-09-30T17:25:45+00:00",
+    "event_id": "1d1a36274905",
+    "sources": [
+     {
+      "title": "Rusia amenaza con usar armas nucleares contra los países de la OTAN en plena escalada de tensión en el Báltico",
+      "summary": "Rusia amenazó con usar armas nucleares contra la OTAN en una nota diplomática advirtiendo que no aisle Kaliningrado. La Alianza condenó la \"retórica nuclear irresponsable\" de Moscú en medio de tensiones en el Báltico.",
+      "lang": "es",
+      "source": "El País Internacional",
+      "url": "https://elpais.com/internacional/2026-09-30/rusia-amenaza-con-usar-armas-nucleares-contra-los-paises-de-la-otan-en-plena-escalada-de-tension-en-el-baltico.html",
+      "published": "2026-09-30T17:25:45+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "Rosenberg: Putin shows no sign of stopping the war as Russia doubles down on Ukraine",
+    "summary": "Putin shows no sign of halting Russia's war in Ukraine, with all indicators pointing to continued full-scale invasion. The president's upcoming foreign policy speech will be closely watched.",
+    "lang": "en",
+    "source": "BBC World",
+    "url": "https://www.bbc.co.uk/news/articles/cqx2ze420kpyo?at_medium=RSS&at_campaign=rss",
+    "published": "2026-09-30T23:10:06+00:00",
+    "event_id": "0073ff5f9ff9",
+    "sources": [
+     {
+      "title": "Rosenberg: Putin shows no sign of stopping the war as Russia doubles down on Ukraine",
+      "summary": "Putin shows no sign of halting Russia's war in Ukraine, with all indicators pointing to continued full-scale invasion. The president's upcoming foreign policy speech will be closely watched.",
+      "lang": "en",
+      "source": "BBC World",
+      "url": "https://www.bbc.co.uk/news/articles/cqx2ze420kpyo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-09-30T23:10:06+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "Bosnia elections: Polls overshadowed by exhaustion, exodus and geopolitics as ethnic politics eclipse real problems",
+    "summary": "Bosnia's October 4 elections are overshadowed by voter concerns about economy and emigration, yet campaigns focus on ethnic politics. Real issues face secondary priority.",
+    "lang": "en",
+    "source": "Deutsche Welle World",
+    "url": "https://www.dw.com/en/bosnia-elections-polls-overshadowed-by-exhaustion-exodus-and-geopolitics-as-ethnic-politics-eclipse-real-problems/a-79487802?maca=en-rss-en-world-4025-rdf",
+    "published": "2026-09-30T12:45:00+00:00",
+    "event_id": "93e4549eb1a2",
+    "sources": [
+     {
+      "title": "Bosnia elections: Polls overshadowed by exhaustion, exodus and geopolitics as ethnic politics eclipse real problems",
+      "summary": "Bosnia's October 4 elections are overshadowed by voter concerns about economy and emigration, yet campaigns focus on ethnic politics. Real issues face secondary priority.",
+      "lang": "en",
+      "source": "Deutsche Welle World",
+      "url": "https://www.dw.com/en/bosnia-elections-polls-overshadowed-by-exhaustion-exodus-and-geopolitics-as-ethnic-politics-eclipse-real-problems/a-79487802?maca=en-rss-en-world-4025-rdf",
+      "published": "2026-09-30T12:45:00+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "Five EU states plan first deportation center in Africa for 2027",
+    "summary": "Five EU states plan to establish the first deportation centers outside Europe in Africa by 2027. Greece, Germany, Austria, Denmark and the Netherlands are advancing the initiative.",
+    "lang": "en",
+    "source": "Deutsche Welle World",
+    "url": "https://www.dw.com/en/five-eu-states-plan-first-deportation-center-in-africa-for-2027/a-79490162?maca=en-rss-en-world-4025-rdf",
+    "published": "2026-09-30T19:16:00+00:00",
+    "event_id": "18263b641bd4",
+    "sources": [
+     {
+      "title": "Five EU states plan first deportation center in Africa for 2027",
+      "summary": "Five EU states plan to establish the first deportation centers outside Europe in Africa by 2027. Greece, Germany, Austria, Denmark and the Netherlands are advancing the initiative.",
+      "lang": "en",
+      "source": "Deutsche Welle World",
+      "url": "https://www.dw.com/en/five-eu-states-plan-first-deportation-center-in-africa-for-2027/a-79490162?maca=en-rss-en-world-4025-rdf",
+      "published": "2026-09-30T19:16:00+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "How Ukrainians are coping with new, more deadly Russian attacks",
+    "summary": "Kyiv faces extraordinary bombardment despite advanced drone capabilities as Russia escalates attacks. The Economist's editor visited Ukraine and documented the intensive campaign.",
+    "lang": "en",
+    "source": "NPR World",
+    "url": "https://www.npr.org/2026/09/30/nx-s1-5984948/how-ukrainians-are-coping-with-new-more-deadly-russian-attacks",
+    "published": "2026-09-30T15:33:19+00:00",
+    "event_id": "75ec55a14ddd",
+    "sources": [
+     {
+      "title": "How Ukrainians are coping with new, more deadly Russian attacks",
+      "summary": "Kyiv faces extraordinary bombardment despite advanced drone capabilities as Russia escalates attacks. The Economist's editor visited Ukraine and documented the intensive campaign.",
+      "lang": "en",
+      "source": "NPR World",
+      "url": "https://www.npr.org/2026/09/30/nx-s1-5984948/how-ukrainians-are-coping-with-new-more-deadly-russian-attacks",
+      "published": "2026-09-30T15:33:19+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   }
+  ],
+  "tecnologia|asia": [
+   {
+    "title": "Ya disponible el Vivo X Fold6, un nuevo plegable que no renuncia a tener una batería enorme y un sistema de cámaras sobresalientes",
+    "summary": "Vivo lanzó el X Fold6, un teléfono plegable con batería grande y sistema de cámaras avanzado. El dispositivo está disponible con descuento de lanzamiento de 220 euros.",
+    "lang": "es",
+    "source": "Xataka",
+    "url": "https://www.xataka.com/seleccion/disponible-vivo-x-fold6-nuevo-plegable-que-no-renuncia-a-tener-bateria-enorme-sistema-camaras-sobresalientes",
+    "published": "2026-10-01T10:45:22+00:00",
+    "event_id": "b1afc55a6c7e",
+    "sources": [
+     {
+      "title": "Ya disponible el Vivo X Fold6, un nuevo plegable que no renuncia a tener una batería enorme y un sistema de cámaras sobresalientes",
+      "summary": "Vivo lanzó el X Fold6, un teléfono plegable con batería grande y sistema de cámaras avanzado. El dispositivo está disponible con descuento de lanzamiento de 220 euros.",
+      "lang": "es",
+      "source": "Xataka",
+      "url": "https://www.xataka.com/seleccion/disponible-vivo-x-fold6-nuevo-plegable-que-no-renuncia-a-tener-bateria-enorme-sistema-camaras-sobresalientes",
+      "published": "2026-10-01T10:45:22+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "Snapdragon 高峰會重點在哪？代理 AI 全布局，高通已準備搶攻個人 AI 入口",
+    "summary": "高通2026年Snapdragon高峰会推出最新双旗舰芯片，重点展示代理AI的全面布局。高通已准备抢占个人AI入口市场。",
+    "lang": "zh",
+    "source": "科技新報 TechNews",
+    "url": "https://technews.tw/2026/10/01/qualcomm-2026-snapdragon-summit/",
+    "published": "2026-10-01T10:19:15+00:00",
+    "event_id": "4190c4d15a91",
+    "sources": [
+     {
+      "title": "Snapdragon 高峰會重點在哪？代理 AI 全布局，高通已準備搶攻個人 AI 入口",
+      "summary": "高通2026年Snapdragon高峰会推出最新双旗舰芯片，重点展示代理AI的全面布局。高通已准备抢占个人AI入口市场。",
+      "lang": "zh",
+      "source": "科技新報 TechNews",
+      "url": "https://technews.tw/2026/10/01/qualcomm-2026-snapdragon-summit/",
+      "published": "2026-10-01T10:19:15+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "日本破獲境內北韓筆電農場，揭露北韓IT工作者遠端接案模式",
+    "summary": "日本警察破获首起境内北韓笔电农场，发现北韓IT工作者在日本远端操作。数亿日圆及加密货币资产被转往海外。",
+    "lang": "zh",
+    "source": "iThome 台灣",
+    "url": "https://www.ithome.com.tw/news/179348",
+    "published": "2026-10-01T06:10:26+00:00",
+    "event_id": "9cae992b9a7c",
+    "sources": [
+     {
+      "title": "日本破獲境內北韓筆電農場，揭露北韓IT工作者遠端接案模式",
+      "summary": "日本警察破获首起境内北韓笔电农场，发现北韓IT工作者在日本远端操作。数亿日圆及加密货币资产被转往海外。",
+      "lang": "zh",
+      "source": "iThome 台灣",
+      "url": "https://www.ithome.com.tw/news/179348",
+      "published": "2026-10-01T06:10:26+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "Arm 機櫃級伺服器已超越 x86，Arm 攜手 NVIDIA 搶代理 AI 商機",
+    "summary": "基于Arm架构的机柜级服务器已超越x86成为主流。Arm携手NVIDIA抢夺代理AI商机。",
+    "lang": "zh",
+    "source": "科技新報 TechNews",
+    "url": "https://technews.tw/2026/10/01/arm-talk-about-agentic-ai/",
+    "published": "2026-10-01T09:33:06+00:00",
+    "event_id": "f1a318aa265b",
+    "sources": [
+     {
+      "title": "Arm 機櫃級伺服器已超越 x86，Arm 攜手 NVIDIA 搶代理 AI 商機",
+      "summary": "基于Arm架构的机柜级服务器已超越x86成为主流。Arm携手NVIDIA抢夺代理AI商机。",
+      "lang": "zh",
+      "source": "科技新報 TechNews",
+      "url": "https://technews.tw/2026/10/01/arm-talk-about-agentic-ai/",
+      "published": "2026-10-01T09:33:06+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "中國駭客UAT-11587鎖定臺灣學術界與智庫，以圖片仿製Gmail附件預覽介面並用政府文件作為誘餌",
+    "summary": "中国駭客UAT-11587今年3月鎖定台灣學術界與智庫，以仿製Gmail附件預覽介面散布後門Antino。攻擊搭配政府文件誘餌。",
+    "lang": "zh",
+    "source": "iThome 台灣",
+    "url": "https://www.ithome.com.tw/news/179344",
+    "published": "2026-10-01T06:10:01+00:00",
+    "event_id": "b00d768128e8",
+    "sources": [
+     {
+      "title": "中國駭客UAT-11587鎖定臺灣學術界與智庫，以圖片仿製Gmail附件預覽介面並用政府文件作為誘餌",
+      "summary": "中国駭客UAT-11587今年3月鎖定台灣學術界與智庫，以仿製Gmail附件預覽介面散布後門Antino。攻擊搭配政府文件誘餌。",
+      "lang": "zh",
+      "source": "iThome 台灣",
+      "url": "https://www.ithome.com.tw/news/179344",
+      "published": "2026-10-01T06:10:01+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   }
+  ],
+  "economia|asia": [
+   {
+    "title": "BoJ’s summary of opinions points to accelerated pace of rate rises",
+    "summary": "The Bank of Japan's summary of opinions suggests most rate-setters support accelerated interest rate increases. Some policymakers called for faster tightening of monetary policy.",
+    "lang": "en",
+    "source": "FT Global Economy",
+    "url": "https://www.ft.com/content/c8b3090e-8531-4911-8e9d-6eefbefb4c70",
+    "published": "2026-10-01T09:29:27+00:00",
+    "event_id": "bd8f2b8e0d5a",
+    "sources": [
+     {
+      "title": "BoJ’s summary of opinions points to accelerated pace of rate rises",
+      "summary": "The Bank of Japan's summary of opinions suggests most rate-setters support accelerated interest rate increases. Some policymakers called for faster tightening of monetary policy.",
+      "lang": "en",
+      "source": "FT Global Economy",
+      "url": "https://www.ft.com/content/c8b3090e-8531-4911-8e9d-6eefbefb4c70",
+      "published": "2026-10-01T09:29:27+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "Japan's largest power producer teams with Dell on $15bn data center",
+    "summary": "Japan's largest power producer has partnered with Dell on a $15 billion data center project.",
+    "lang": "en",
+    "source": "Nikkei Asia",
+    "url": "https://asia.nikkei.com/business/technology/artificial-intelligence/japan-s-largest-power-producer-teams-with-dell-on-15bn-data-center",
+    "published": null,
+    "event_id": "f54a6dd01545",
+    "sources": [
+     {
+      "title": "Japan's largest power producer teams with Dell on $15bn data center",
+      "summary": "Japan's largest power producer has partnered with Dell on a $15 billion data center project.",
+      "lang": "en",
+      "source": "Nikkei Asia",
+      "url": "https://asia.nikkei.com/business/technology/artificial-intelligence/japan-s-largest-power-producer-teams-with-dell-on-15bn-data-center",
+      "published": null
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "Infineon opens plant near Bangkok as Thailand boosts chip ambitions",
+    "summary": "Infineon has opened a new manufacturing plant near Bangkok as Thailand accelerates its semiconductor industry ambitions.",
+    "lang": "en",
+    "source": "Nikkei Asia",
+    "url": "https://asia.nikkei.com/business/tech/semiconductors/infineon-opens-plant-near-bangkok-as-thailand-boosts-chip-ambitions",
+    "published": null,
+    "event_id": "f0415bad45bd",
+    "sources": [
+     {
+      "title": "Infineon opens plant near Bangkok as Thailand boosts chip ambitions",
+      "summary": "Infineon has opened a new manufacturing plant near Bangkok as Thailand accelerates its semiconductor industry ambitions.",
+      "lang": "en",
+      "source": "Nikkei Asia",
+      "url": "https://asia.nikkei.com/business/tech/semiconductors/infineon-opens-plant-near-bangkok-as-thailand-boosts-chip-ambitions",
+      "published": null
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "BOJ Tankan shows sixth straight rise in manufacturer sentiment",
+    "summary": "The BOJ Tankan survey shows manufacturer sentiment has risen for the sixth consecutive period.",
+    "lang": "en",
+    "source": "Nikkei Asia",
+    "url": "https://asia.nikkei.com/economy/bank-of-japan/boj-tankan-shows-sixth-straight-rise-in-manufacturer-sentiment",
+    "published": null,
+    "event_id": "0f1d7795549f",
+    "sources": [
+     {
+      "title": "BOJ Tankan shows sixth straight rise in manufacturer sentiment",
+      "summary": "The BOJ Tankan survey shows manufacturer sentiment has risen for the sixth consecutive period.",
+      "lang": "en",
+      "source": "Nikkei Asia",
+      "url": "https://asia.nikkei.com/economy/bank-of-japan/boj-tankan-shows-sixth-straight-rise-in-manufacturer-sentiment",
+      "published": null
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   }
+  ],
+  "economia|america": [
+   {
+    "title": "Trump says South Korea will invest $200bn in US energy projects",
+    "summary": "Trump announced South Korea will invest $200 billion in U.S. energy projects across states including Alaska and Texas. The pledge comes as midterm elections approach.",
+    "lang": "en",
+    "source": "FT Global Economy",
+    "url": "https://www.ft.com/content/f0cdc5bc-c07a-47cf-9602-064006176aef?syn-25a6b1a6=1",
+    "published": "2026-09-30T22:41:08+00:00",
+    "event_id": "6c21579d76bc",
+    "sources": [
+     {
+      "title": "Trump says South Korea will invest $200bn in US energy projects",
+      "summary": "Trump announced South Korea will invest $200 billion in U.S. energy projects across states including Alaska and Texas. The pledge comes as midterm elections approach.",
+      "lang": "en",
+      "source": "FT Global Economy",
+      "url": "https://www.ft.com/content/f0cdc5bc-c07a-47cf-9602-064006176aef?syn-25a6b1a6=1",
+      "published": "2026-09-30T22:41:08+00:00"
+     },
+     {
+      "title": "South Korea hits back at Trump’s investment claims in ‘tit-for-tat move’",
+      "summary": "South Korea clarified that Trump's announced $200 billion investment package deal is far from finalized, contradicting his unilateral announcement.",
+      "lang": "en",
+      "source": "South China Morning Post (Asia)",
+      "url": "https://www.scmp.com/week-asia/economics/article/3369463/south-korea-hits-back-trumps-investment-claims-tit-tat-move?utm_source=rss_feed",
+      "published": "2026-10-01T10:36:58+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "Global bond sell-off pushes 10-year Treasury yield to highest since 2002",
+    "summary": "Global bond markets declined sharply, pushing 10-year Treasury yields to their highest level since 2002. Sovereign debt costs worldwide reached multiyear highs.",
+    "lang": "en",
+    "source": "Financial Times",
+    "url": "https://www.ft.com/content/e485a228-1efe-426b-addc-26069ba48bf3?syn-25a6b1a6=1",
+    "published": "2026-10-01T11:12:41+00:00",
+    "event_id": "e5f21de88f71",
+    "sources": [
+     {
+      "title": "Global bond sell-off pushes 10-year Treasury yield to highest since 2002",
+      "summary": "Global bond markets declined sharply, pushing 10-year Treasury yields to their highest level since 2002. Sovereign debt costs worldwide reached multiyear highs.",
+      "lang": "en",
+      "source": "Financial Times",
+      "url": "https://www.ft.com/content/e485a228-1efe-426b-addc-26069ba48bf3?syn-25a6b1a6=1",
+      "published": "2026-10-01T11:12:41+00:00"
+     },
+     {
+      "title": "US government debt rout triggers ‘vicious loop’ of selling",
+      "summary": "U.S. government debt selling triggered a \"vicious loop\" as 10-year Treasury yields surged half a percentage point in their worst month in four years.",
+      "lang": "en",
+      "source": "FT Global Economy",
+      "url": "https://www.ft.com/content/39de7709-7b5b-42f6-ad90-df50f1308ea2?syn-25a6b1a6=1",
+      "published": "2026-09-30T21:32:32+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "Federal Reserve Board finalizes changes to enhance the transparency and public accountability of its stress test and reduce volatility in its stress test-related capital requirements",
+    "summary": "The Federal Reserve finalized changes to its stress test framework to enhance transparency and reduce volatility in capital requirements.",
+    "lang": "en",
+    "source": "Reserva Federal (notas de prensa)",
+    "url": "https://www.federalreserve.gov/newsevents/pressreleases/bcreg20260930a.htm",
+    "published": "2026-09-30T13:00:00+00:00",
+    "event_id": "975ec4f2519a",
+    "sources": [
+     {
+      "title": "Federal Reserve Board finalizes changes to enhance the transparency and public accountability of its stress test and reduce volatility in its stress test-related capital requirements",
+      "summary": "The Federal Reserve finalized changes to its stress test framework to enhance transparency and reduce volatility in capital requirements.",
+      "lang": "en",
+      "source": "Reserva Federal (notas de prensa)",
+      "url": "https://www.federalreserve.gov/newsevents/pressreleases/bcreg20260930a.htm",
+      "published": "2026-09-30T13:00:00+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "In Paris, Argentinian President Javier Milei seeks investors to support his country's struggling economy",
+    "summary": "Argentine President Javier Milei visited Paris seeking foreign investors to support his struggling economy. He aims to prevent recession with over a year remaining in his term.",
+    "lang": "en",
+    "source": "Le Monde International",
+    "url": "https://www.lemonde.fr/en/international/article/2026/10/01/argentinian-president-javier-milei-seeks-investors-to-support-a-struggling-economy_6758126_4.html",
+    "published": "2026-10-01T00:50:51+00:00",
+    "event_id": "e37ca1bd2b85",
+    "sources": [
+     {
+      "title": "In Paris, Argentinian President Javier Milei seeks investors to support his country's struggling economy",
+      "summary": "Argentine President Javier Milei visited Paris seeking foreign investors to support his struggling economy. He aims to prevent recession with over a year remaining in his term.",
+      "lang": "en",
+      "source": "Le Monde International",
+      "url": "https://www.lemonde.fr/en/international/article/2026/10/01/argentinian-president-javier-milei-seeks-investors-to-support-a-struggling-economy_6758126_4.html",
+      "published": "2026-10-01T00:50:51+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   }
+  ],
+  "economia|europa": [
+   {
+    "title": "France Lays Out Budget in Latest Test of Investor Nerves",
+    "summary": "France's government unveiled a budget plan to reduce the deficit significantly, sparking debate that could endanger the prime minister and concern investors.",
+    "lang": "en",
+    "source": "Bloomberg Economics",
+    "url": "https://www.bloomberg.com/news/articles/2026-10-01/france-to-lay-out-budget-in-latest-test-of-investor-nerves",
+    "published": "2026-10-01T04:00:00+00:00",
+    "event_id": "7c423d47c426",
+    "sources": [
+     {
+      "title": "France Lays Out Budget in Latest Test of Investor Nerves",
+      "summary": "France's government unveiled a budget plan to reduce the deficit significantly, sparking debate that could endanger the prime minister and concern investors.",
+      "lang": "en",
+      "source": "Bloomberg Economics",
+      "url": "https://www.bloomberg.com/news/articles/2026-10-01/france-to-lay-out-budget-in-latest-test-of-investor-nerves",
+      "published": "2026-10-01T04:00:00+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "Swiss Inflation Quickens to 2-Year High Driven by Oil, Franc",
+    "summary": "Switzerland's inflation rose to a two-year high driven by stronger oil prices and a weaker franc. Price pressures remain comparatively mild versus other nations.",
+    "lang": "en",
+    "source": "Bloomberg Economics",
+    "url": "https://www.bloomberg.com/news/articles/2026-10-01/swiss-inflation-quickens-to-2-year-high-driven-by-oil-and-franc",
+    "published": "2026-10-01T06:30:00+00:00",
+    "event_id": "df65fae300bf",
+    "sources": [
+     {
+      "title": "Swiss Inflation Quickens to 2-Year High Driven by Oil, Franc",
+      "summary": "Switzerland's inflation rose to a two-year high driven by stronger oil prices and a weaker franc. Price pressures remain comparatively mild versus other nations.",
+      "lang": "en",
+      "source": "Bloomberg Economics",
+      "url": "https://www.bloomberg.com/news/articles/2026-10-01/swiss-inflation-quickens-to-2-year-high-driven-by-oil-and-franc",
+      "published": "2026-10-01T06:30:00+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "As Debt Costs Surge, the Czechs Ditch Austerity to Spend Big",
+    "summary": "The Czech Republic, previously cautious on debt spending, is launching unprecedented fiscal stimulus as borrowing costs surge. The shift marks a dramatic policy reversal.",
+    "lang": "en",
+    "source": "Bloomberg Markets",
+    "url": "https://www.bloomberg.com/news/articles/2026-10-01/billionaire-leader-brings-debt-driven-spending-to-frugal-czechs",
+    "published": "2026-10-01T05:00:00+00:00",
+    "event_id": "46f9098b39e3",
+    "sources": [
+     {
+      "title": "As Debt Costs Surge, the Czechs Ditch Austerity to Spend Big",
+      "summary": "The Czech Republic, previously cautious on debt spending, is launching unprecedented fiscal stimulus as borrowing costs surge. The shift marks a dramatic policy reversal.",
+      "lang": "en",
+      "source": "Bloomberg Markets",
+      "url": "https://www.bloomberg.com/news/articles/2026-10-01/billionaire-leader-brings-debt-driven-spending-to-frugal-czechs",
+      "published": "2026-10-01T05:00:00+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "The Biggest Jump in Global Crop Prices Since 2022 Threatens to Boost Inflation",
+    "summary": "Global agricultural prices recorded their biggest quarterly jump since Russia's 2022 Ukraine invasion. Black Sea tensions and extreme weather threaten further inflation pressures.",
+    "lang": "en",
+    "source": "Bloomberg Markets",
+    "url": "https://www.bloomberg.com/news/articles/2026-10-01/the-biggest-jump-in-global-crop-prices-since-2022-threatens-to-boost-inflation",
+    "published": "2026-10-01T04:49:44+00:00",
+    "event_id": "9e5ab5d0c4b4",
+    "sources": [
+     {
+      "title": "The Biggest Jump in Global Crop Prices Since 2022 Threatens to Boost Inflation",
+      "summary": "Global agricultural prices recorded their biggest quarterly jump since Russia's 2022 Ukraine invasion. Black Sea tensions and extreme weather threaten further inflation pressures.",
+      "lang": "en",
+      "source": "Bloomberg Markets",
+      "url": "https://www.bloomberg.com/news/articles/2026-10-01/the-biggest-jump-in-global-crop-prices-since-2022-threatens-to-boost-inflation",
+      "published": "2026-10-01T04:49:44+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "EU steel exports hit by high energy costs, tariffs and China oversupply",
+    "summary": "EU steel exports fell by a fifth due to high energy costs, tariffs, and Chinese oversupply. Production remains at historic lows.",
+    "lang": "en",
+    "source": "FT Global Economy",
+    "url": "https://www.ft.com/content/719fb157-9d73-44c7-be1f-863c2b106e7d?syn-25a6b1a6=1",
+    "published": "2026-10-01T04:00:24+00:00",
+    "event_id": "a98ac4b0341c",
+    "sources": [
+     {
+      "title": "EU steel exports hit by high energy costs, tariffs and China oversupply",
+      "summary": "EU steel exports fell by a fifth due to high energy costs, tariffs, and Chinese oversupply. Production remains at historic lows.",
+      "lang": "en",
+      "source": "FT Global Economy",
+      "url": "https://www.ft.com/content/719fb157-9d73-44c7-be1f-863c2b106e7d?syn-25a6b1a6=1",
+      "published": "2026-10-01T04:00:24+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   }
+  ],
+  "politica|asia": [
+   {
+    "title": "Indian pilot hailed as ‘hero’ after cockpit struggle",
+    "summary": "Indian pilot Smit Machchhar was hailed as a hero after fighting to retain control of a Tel Aviv-bound flight during an alleged cockpit attack.",
+    "lang": "en",
+    "source": "Japan Times",
+    "url": "https://www.japantimes.co.jp/news/2026/10/01/asia-pacific/indian-pilot-hero-israel-flight/",
+    "published": "2026-10-01T09:14:00+00:00",
+    "event_id": "acf8ab181b06",
+    "sources": [
+     {
+      "title": "Indian pilot hailed as ‘hero’ after cockpit struggle",
+      "summary": "Indian pilot Smit Machchhar was hailed as a hero after fighting to retain control of a Tel Aviv-bound flight during an alleged cockpit attack.",
+      "lang": "en",
+      "source": "Japan Times",
+      "url": "https://www.japantimes.co.jp/news/2026/10/01/asia-pacific/indian-pilot-hero-israel-flight/",
+      "published": "2026-10-01T09:14:00+00:00"
+     },
+     {
+      "title": "What we know about stabbing on Flydubai flight to Israel",
+      "summary": "A pilot was arrested and questioned after allegedly stabbing another pilot aboard a Flydubai flight to Israel.",
+      "lang": "en",
+      "source": "BBC World",
+      "url": "https://www.bbc.co.uk/news/articles/cqjdv7pmj9dno?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-01T02:31:24+00:00"
+     }
+    ],
+    "status": "updated",
+    "change_summary": "Indian pilot hailed as 'hero' after cockpit struggle",
+    "previous_date": "2026-09-30",
+    "previous_event_id": "acf8ab181b06"
+   },
+   {
+    "title": "Ground Self-Defense Force chief makes first visit to South Korea in 17 years",
+    "summary": "South Korea's Ground Self-Defense Force chief made his first visit to South Korea in 17 years, meeting with the South Korean Army's chief of staff.",
+    "lang": "en",
+    "source": "Japan Times",
+    "url": "https://www.japantimes.co.jp/news/2026/10/01/japan/japan-gsdf-chief-south-korea/",
+    "published": "2026-10-01T08:37:00+00:00",
+    "event_id": "90a115ac2f96",
+    "sources": [
+     {
+      "title": "Ground Self-Defense Force chief makes first visit to South Korea in 17 years",
+      "summary": "South Korea's Ground Self-Defense Force chief made his first visit to South Korea in 17 years, meeting with the South Korean Army's chief of staff.",
+      "lang": "en",
+      "source": "Japan Times",
+      "url": "https://www.japantimes.co.jp/news/2026/10/01/japan/japan-gsdf-chief-south-korea/",
+      "published": "2026-10-01T08:37:00+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "Indonesia’s Prabowo appoints new foreign minister",
+    "summary": "Indonesia's President Prabowo Subianto replaced his foreign minister with a career diplomat on Thursday. The change marks his second cabinet reshuffle in under three months.",
+    "lang": "en",
+    "source": "South China Morning Post (Asia)",
+    "url": "https://www.scmp.com/news/asia/southeast-asia/article/3369457/indonesias-prabowo-appoints-new-foreign-minister?utm_source=rss_feed",
+    "published": "2026-10-01T09:46:39+00:00",
+    "event_id": "ae5951f6e00e",
+    "sources": [
+     {
+      "title": "Indonesia’s Prabowo appoints new foreign minister",
+      "summary": "Indonesia's President Prabowo Subianto replaced his foreign minister with a career diplomat on Thursday. The change marks his second cabinet reshuffle in under three months.",
+      "lang": "en",
+      "source": "South China Morning Post (Asia)",
+      "url": "https://www.scmp.com/news/asia/southeast-asia/article/3369457/indonesias-prabowo-appoints-new-foreign-minister?utm_source=rss_feed",
+      "published": "2026-10-01T09:46:39+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   }
+  ],
+  "politica|america": [
+   {
+    "title": "Burundi agrees to receive ‘third-country’ migrant deportees from US",
+    "summary": "Burundi agreed to receive migrants deported by the U.S. under Trump's hardline policy. The nation joins several African countries accepting American deportees.",
+    "lang": "en",
+    "source": "The Guardian World",
+    "url": "https://www.theguardian.com/us-news/2026/sep/30/burundi-third-country-deportations-trump-immigration",
+    "published": "2026-09-30T12:47:15+00:00",
+    "event_id": "5fb842d697ec",
+    "sources": [
+     {
+      "title": "Burundi agrees to receive ‘third-country’ migrant deportees from US",
+      "summary": "Burundi agreed to receive migrants deported by the U.S. under Trump's hardline policy. The nation joins several African countries accepting American deportees.",
+      "lang": "en",
+      "source": "The Guardian World",
+      "url": "https://www.theguardian.com/us-news/2026/sep/30/burundi-third-country-deportations-trump-immigration",
+      "published": "2026-09-30T12:47:15+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "The U.S. military withdraws from Iraq over 2 decades after its invasion",
+    "summary": "Twenty-three years after invading Iraq, the United States has completed its military withdrawal. Iraq continues combating Iranian influence and fighting insurgent threats.",
+    "lang": "en",
+    "source": "NPR World",
+    "url": "https://www.npr.org/2026/09/30/nx-s1-5983426/u-s-withdraws-final-troops-from-iraq",
+    "published": "2026-09-30T08:43:00+00:00",
+    "event_id": "2b6a79c430fe",
+    "sources": [
+     {
+      "title": "The U.S. military withdraws from Iraq over 2 decades after its invasion",
+      "summary": "Twenty-three years after invading Iraq, the United States has completed its military withdrawal. Iraq continues combating Iranian influence and fighting insurgent threats.",
+      "lang": "en",
+      "source": "NPR World",
+      "url": "https://www.npr.org/2026/09/30/nx-s1-5983426/u-s-withdraws-final-troops-from-iraq",
+      "published": "2026-09-30T08:43:00+00:00"
+     },
+     {
+      "title": "U.S. forces exit Iraq amid Iran war. And, SCOTUS revives Trump deportation policy",
+      "summary": "The U.S. withdrew its final troops from Iraq amid regional instability and security concerns. The Supreme Court also sided with the Trump administration on third-country deportation policy.",
+      "lang": "en",
+      "source": "NPR World",
+      "url": "https://www.npr.org/2026/09/30/g-s1-145604/up-first-newsletter-iraq-us-troops-scotus-deportations-trump-ai",
+      "published": "2026-09-30T11:13:17+00:00"
+     },
+     {
+      "title": "Retired general who led troops in Iraq warns U.S. exit may give Iran, ISIS an opening",
+      "summary": "Retired Lt. Gen. H.R. McMaster warned that U.S. withdrawal from Iraq could strengthen Iran and leave the country vulnerable to ISIS resurgence.",
+      "lang": "en",
+      "source": "NPR World",
+      "url": "https://www.npr.org/2026/09/30/nx-s1-5984953/mcmaster-us-troop-withdrawal-iraq-iran-isis",
+      "published": "2026-09-30T08:42:46+00:00"
+     }
+    ],
+    "status": "unchanged",
+    "change_summary": "",
+    "previous_date": "2026-09-30",
+    "previous_event_id": "2b6a79c430fe"
+   }
+  ],
+  "tecnologia|america": [
+   {
+    "title": "Gemini 4 Argon: our next era of frontier intelligence",
+    "summary": "Google DeepMind announced Gemini 4 Argon as the next frontier in AI intelligence capabilities.",
+    "lang": "en",
+    "source": "Google DeepMind Blog",
+    "url": "https://deepmind.google/blog/gemini-4-argon-our-next-era-of-frontier-intelligence/",
+    "published": "2026-09-30T20:01:45+00:00",
+    "event_id": "15e70ee5e4a7",
+    "sources": [
+     {
+      "title": "Gemini 4 Argon: our next era of frontier intelligence",
+      "summary": "Google DeepMind announced Gemini 4 Argon as the next frontier in AI intelligence capabilities.",
+      "lang": "en",
+      "source": "Google DeepMind Blog",
+      "url": "https://deepmind.google/blog/gemini-4-argon-our-next-era-of-frontier-intelligence/",
+      "published": "2026-09-30T20:01:45+00:00"
+     },
+     {
+      "title": "Google releases Gemini 4 Argon, called its most powerful model yet",
+      "summary": "Google released Gemini 4 Argon, its most powerful model yet, targeting coding and cybersecurity applications.",
+      "lang": "en",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/09/30/google-releases-gemini-4-argon-called-its-most-powerful-model-yet/",
+      "published": "2026-09-30T23:43:07+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "The Download: OpenAI’s chief research officer explains its hacking response",
+    "summary": "OpenAI's chief research officer explained the company's response to hacking attempts and security threats.",
+    "lang": "en",
+    "source": "MIT Technology Review",
+    "url": "https://www.technologyreview.com/2026/09/30/1145350/the-download-openai-chief-research-officer-hacking-response/",
+    "published": "2026-09-30T12:10:00+00:00",
+    "event_id": "df19e6663c5f",
+    "sources": [
+     {
+      "title": "The Download: OpenAI’s chief research officer explains its hacking response",
+      "summary": "OpenAI's chief research officer explained the company's response to hacking attempts and security threats.",
+      "lang": "en",
+      "source": "MIT Technology Review",
+      "url": "https://www.technologyreview.com/2026/09/30/1145350/the-download-openai-chief-research-officer-hacking-response/",
+      "published": "2026-09-30T12:10:00+00:00"
+     },
+     {
+      "title": "Disrupting a coordinated model-distillation campaign",
+      "summary": "OpenAI disrupted a coordinated campaign attempting to extract protected model reasoning. The company strengthened defenses against adversarial distillation attacks.",
+      "lang": "en",
+      "source": "OpenAI News",
+      "url": "https://openai.com/index/disrupting-a-coordinated-model-distillation-campaign",
+      "published": "2026-09-30T10:30:00+00:00"
+     }
+    ],
+    "status": "updated",
+    "change_summary": "The Download: OpenAI's chief research officer explains its hacking response",
+    "previous_date": "2026-09-30",
+    "previous_event_id": "df19e6663c5f"
+   },
+   {
+    "title": "Hackers stole millions of US military personnel records during months-long data breach",
+    "summary": "Hackers stole millions of personal records belonging to current and former U.S. military personnel in a months-long data breach. The Department of Defense notified affected individuals.",
+    "lang": "en",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/09/30/hackers-stole-millions-of-us-military-personnel-records-during-months-long-data-breach/",
+    "published": "2026-09-30T19:29:08+00:00",
+    "event_id": "d95f3d7ee390",
+    "sources": [
+     {
+      "title": "Hackers stole millions of US military personnel records during months-long data breach",
+      "summary": "Hackers stole millions of personal records belonging to current and former U.S. military personnel in a months-long data breach. The Department of Defense notified affected individuals.",
+      "lang": "en",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/09/30/hackers-stole-millions-of-us-military-personnel-records-during-months-long-data-breach/",
+      "published": "2026-09-30T19:29:08+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "Attackers have been exploiting critical Zimbra flaw to steal emails",
+    "summary": "Attackers exploited a critical Zimbra vulnerability to steal emails using remotely injected operating system commands.",
+    "lang": "en",
+    "source": "Ars Technica",
+    "url": "https://arstechnica.com/security/2026/09/attackers-have-been-exploiting-critical-zimbra-flaw-to-steal-emails/",
+    "published": "2026-09-30T20:44:48+00:00",
+    "event_id": "0c186fe5e0a1",
+    "sources": [
+     {
+      "title": "Attackers have been exploiting critical Zimbra flaw to steal emails",
+      "summary": "Attackers exploited a critical Zimbra vulnerability to steal emails using remotely injected operating system commands.",
+      "lang": "en",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/security/2026/09/attackers-have-been-exploiting-critical-zimbra-flaw-to-steal-emails/",
+      "published": "2026-09-30T20:44:48+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "Introducing SynthID Bio",
+    "summary": "Google DeepMind introduced SynthID Bio, a proof-of-concept for watermarking AI-generated proteins while preserving biological function.",
+    "lang": "en",
+    "source": "Google DeepMind Blog",
+    "url": "https://deepmind.google/blog/introducing-synthid-bio/",
+    "published": "2026-09-30T15:03:07+00:00",
+    "event_id": "0a622a33b8e3",
+    "sources": [
+     {
+      "title": "Introducing SynthID Bio",
+      "summary": "Google DeepMind introduced SynthID Bio, a proof-of-concept for watermarking AI-generated proteins while preserving biological function.",
+      "lang": "en",
+      "source": "Google DeepMind Blog",
+      "url": "https://deepmind.google/blog/introducing-synthid-bio/",
+      "published": "2026-09-30T15:03:07+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "AI 教父駁斥末日論，楊立昆痛批 OpenAI、Anthropic 散播恐懼",
+    "summary": "AI先驱杨立昆驳斥AI末日论，痛批OpenAI和Anthropic散播恐惧。他直言反对夸大AI风险言论。",
+    "lang": "zh",
+    "source": "科技新報 TechNews",
+    "url": "https://technews.tw/2026/10/01/yann-lecun-slams-ai-doomsday-theories/",
+    "published": "2026-10-01T09:50:03+00:00",
+    "event_id": "79a5ee9ba9e7",
+    "sources": [
+     {
+      "title": "AI 教父駁斥末日論，楊立昆痛批 OpenAI、Anthropic 散播恐懼",
+      "summary": "AI先驱杨立昆驳斥AI末日论，痛批OpenAI和Anthropic散播恐惧。他直言反对夸大AI风险言论。",
+      "lang": "zh",
+      "source": "科技新報 TechNews",
+      "url": "https://technews.tw/2026/10/01/yann-lecun-slams-ai-doomsday-theories/",
+      "published": "2026-10-01T09:50:03+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   }
+  ]
+ }
+}
