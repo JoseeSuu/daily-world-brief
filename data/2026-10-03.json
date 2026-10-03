@@ -1,0 +1,765 @@
+{
+ "date": "2026-10-03",
+ "generated_at": "2026-10-03T10:31:57.863008+00:00",
+ "mode": "full",
+ "cost_usd": 0.0459,
+ "radar_cost_usd": 0.0049,
+ "events": {
+  "mode": "full",
+  "compared_with": "2026-10-02",
+  "articles": 34,
+  "uncompared_articles": 0,
+  "events": 29,
+  "cost_usd": 0.0169
+ },
+ "radar": {
+  "items": [
+   {
+    "id": "gh-1379574728",
+    "source": "GitHub",
+    "kind": "project",
+    "title": "jev-chat/jev-chat-jarvis",
+    "url": "https://github.com/jev-chat/jev-chat-jarvis",
+    "discussion_url": "",
+    "published": "2026-09-21T11:12:53Z",
+    "lang": "zh",
+    "excerpt": "装在手机上的对话副驾：在 QQ / X / 飞书里读懂对方、给出候选回复、一键填入输入框，发不发由你。非侵入，只读屏幕，不 hook 不改包。",
+    "signal": {
+     "stars_total": 7280
+    },
+    "summary": "作者描述一个在手机上运行的对话助手，在QQ、X、飞书等应用中读取屏幕内容、生成候选回复并填入输入框，仅读取屏幕不修改系统。",
+    "usefulness": "若需构建跨应用的文本分析工具，可参考其屏幕读取和候选生成的架构模式。",
+    "to_verify": "声称\"非侵入，只读屏幕，不hook不改包\"的具体实现方式及其在不同应用中的兼容性。"
+   }
+  ],
+  "mode": "full",
+  "failed_sources": []
+ },
+ "market": null,
+ "failed_sources": [],
+ "cells": {
+  "economia|asia": [
+   {
+    "title": "Vietnam Growth Surges Toward 10% Goal, Trade Back in Surplus",
+    "summary": "Vietnam's economy accelerated beyond expectations in Q3 on increased foreign investment and factory output, bringing the nation closer to its 10% growth target.",
+    "lang": "en",
+    "source": "Bloomberg Economics",
+    "url": "https://www.bloomberg.com/news/articles/2026-10-03/vietnam-economic-growth-accelerates-to-9-95-in-third-quarter",
+    "published": "2026-10-03T01:01:12+00:00",
+    "event_id": "c08130fa7824",
+    "sources": [
+     {
+      "title": "Vietnam Growth Surges Toward 10% Goal, Trade Back in Surplus",
+      "summary": "Vietnam's economy accelerated beyond expectations in Q3 on increased foreign investment and factory output, bringing the nation closer to its 10% growth target.",
+      "lang": "en",
+      "source": "Bloomberg Economics",
+      "url": "https://www.bloomberg.com/news/articles/2026-10-03/vietnam-economic-growth-accelerates-to-9-95-in-third-quarter",
+      "published": "2026-10-03T01:01:12+00:00"
+     },
+     {
+      "title": "Vietnam's economy grew 9.95% in Q3, fastest pace in 4 years",
+      "summary": "Vietnam's economy grew 9.95% in the third quarter, the fastest pace in four years, driven by rising foreign investment and strong factory output.",
+      "lang": "en",
+      "source": "Nikkei Asia",
+      "url": "https://asia.nikkei.com/economy/vietnam-s-economy-grew-9.95-in-q3-fastest-pace-in-4-years",
+      "published": null
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "Japan's Aozora, Arthur D. Little partner on investment, advisory services",
+    "summary": "Japan's Aozora and Arthur D. Little have partnered to provide investment and advisory services to clients across the region.",
+    "lang": "en",
+    "source": "Nikkei Asia",
+    "url": "https://asia.nikkei.com/business/finance/japan-s-aozora-arthur-d.-little-partner-on-investment-advisory-services",
+    "published": null,
+    "event_id": "2022d534fcd1",
+    "sources": [
+     {
+      "title": "Japan's Aozora, Arthur D. Little partner on investment, advisory services",
+      "summary": "Japan's Aozora and Arthur D. Little have partnered to provide investment and advisory services to clients across the region.",
+      "lang": "en",
+      "source": "Nikkei Asia",
+      "url": "https://asia.nikkei.com/business/finance/japan-s-aozora-arthur-d.-little-partner-on-investment-advisory-services",
+      "published": null
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "曼谷洪災造成航班大亂、行李滯留 泰航執行長遭停職",
+    "summary": "泰国航空公司因洪灾期间行李大量滞留引发危机，董事会决定暂停执行长柴伊·安西里的职务并接受调查。",
+    "lang": "zh",
+    "source": "中央社 CNA",
+    "url": "https://www.cna.com.tw/news/aopl/202610030111.aspx",
+    "published": "2026-10-03T07:40:23+00:00",
+    "event_id": "6838aa1bfd4b",
+    "sources": [
+     {
+      "title": "曼谷洪災造成航班大亂、行李滯留 泰航執行長遭停職",
+      "summary": "泰国航空公司因洪灾期间行李大量滞留引发危机，董事会决定暂停执行长柴伊·安西里的职务并接受调查。",
+      "lang": "zh",
+      "source": "中央社 CNA",
+      "url": "https://www.cna.com.tw/news/aopl/202610030111.aspx",
+      "published": "2026-10-03T07:40:23+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   }
+  ],
+  "tecnologia|asia": [
+   {
+    "title": "Once in decline, Japan's hard-drive suppliers ride soaring AI demand",
+    "summary": "Japan's hard-drive suppliers, once declining, are experiencing strong demand from the surging artificial intelligence industry.",
+    "lang": "en",
+    "source": "Nikkei Asia",
+    "url": "https://asia.nikkei.com/business/electronics/once-in-decline-japan-s-hard-drive-suppliers-ride-soaring-ai-demand",
+    "published": null,
+    "event_id": "203a15fadf0e",
+    "sources": [
+     {
+      "title": "Once in decline, Japan's hard-drive suppliers ride soaring AI demand",
+      "summary": "Japan's hard-drive suppliers, once declining, are experiencing strong demand from the surging artificial intelligence industry.",
+      "lang": "en",
+      "source": "Nikkei Asia",
+      "url": "https://asia.nikkei.com/business/electronics/once-in-decline-japan-s-hard-drive-suppliers-ride-soaring-ai-demand",
+      "published": null
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "華為最新麒麟 9050 Pro 晶片照曝光！兩層 Die 垂直堆疊，尺寸再縮小",
+    "summary": "华为最新麒麟9050 Pro芯片照片曝光，采用两层Die垂直堆叠设计，芯片尺寸进一步缩小。",
+    "lang": "zh",
+    "source": "科技新報 TechNews",
+    "url": "https://technews.tw/2026/10/03/huaweis-latest-kirin-9050-pro-chip/",
+    "published": "2026-10-03T07:37:15+00:00",
+    "event_id": "4730035bbce0",
+    "sources": [
+     {
+      "title": "華為最新麒麟 9050 Pro 晶片照曝光！兩層 Die 垂直堆疊，尺寸再縮小",
+      "summary": "华为最新麒麟9050 Pro芯片照片曝光，采用两层Die垂直堆叠设计，芯片尺寸进一步缩小。",
+      "lang": "zh",
+      "source": "科技新報 TechNews",
+      "url": "https://technews.tw/2026/10/03/huaweis-latest-kirin-9050-pro-chip/",
+      "published": "2026-10-03T07:37:15+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   }
+  ],
+  "economia|europa": [
+   {
+    "title": "Higher Eurozone inflation adds pressure on ECB to tighten again",
+    "summary": "Eurozone inflation climbed to 3.8% in September, pressuring the ECB to consider another rate increase in December despite two recent consecutive hikes.",
+    "lang": "en",
+    "source": "FT Global Economy",
+    "url": "https://www.ft.com/content/e637cd4c-415d-431c-a857-95d6adc33157",
+    "published": "2026-10-02T10:11:35+00:00",
+    "event_id": "9bed78d61c6d",
+    "sources": [
+     {
+      "title": "Higher Eurozone inflation adds pressure on ECB to tighten again",
+      "summary": "Eurozone inflation climbed to 3.8% in September, pressuring the ECB to consider another rate increase in December despite two recent consecutive hikes.",
+      "lang": "en",
+      "source": "FT Global Economy",
+      "url": "https://www.ft.com/content/e637cd4c-415d-431c-a857-95d6adc33157",
+      "published": "2026-10-02T10:11:35+00:00"
+     },
+     {
+      "title": "Eurozone inflation hits three-year high of 3.8%",
+      "summary": "Eurozone inflation rose to 3.8% in September, a three-year high, as consumer prices increased faster than economists anticipated.",
+      "lang": "en",
+      "source": "FT Global Economy",
+      "url": "https://www.ft.com/content/6394fdc7-5fa5-4ec3-8bde-52633acd2b57?syn-25a6b1a6=1",
+      "published": "2026-10-02T15:45:53+00:00"
+     }
+    ],
+    "status": "unclear",
+    "change_summary": "",
+    "previous_date": "2026-10-02",
+    "previous_event_id": ""
+   },
+   {
+    "title": "Decisions taken by the Governing Council of the ECB (in addition to decisions setting interest rates)",
+    "summary": "The ECB Governing Council made decisions on monetary policy and interest rates to address economic conditions in the eurozone.",
+    "lang": "en",
+    "source": "BCE (notas de prensa)",
+    "url": "https://www.ecb.europa.eu//press/govcdec/otherdec/2026/html/ecb.gc261002~54c6b5672b.en.html",
+    "published": "2026-10-02T13:00:00+00:00",
+    "event_id": "cb6784f470aa",
+    "sources": [
+     {
+      "title": "Decisions taken by the Governing Council of the ECB (in addition to decisions setting interest rates)",
+      "summary": "The ECB Governing Council made decisions on monetary policy and interest rates to address economic conditions in the eurozone.",
+      "lang": "en",
+      "source": "BCE (notas de prensa)",
+      "url": "https://www.ecb.europa.eu//press/govcdec/otherdec/2026/html/ecb.gc261002~54c6b5672b.en.html",
+      "published": "2026-10-02T13:00:00+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "German Economy Might Grow 1% This Year, Bundesbank Chief Says",
+    "summary": "Germany's economy is projected to grow approximately 1% in the current year, according to Bundesbank President Joachim Nagel.",
+    "lang": "en",
+    "source": "Bloomberg Economics",
+    "url": "https://www.bloomberg.com/news/articles/2026-10-02/german-economy-might-grow-1-this-year-bundesbank-chief-says",
+    "published": "2026-10-02T20:25:03+00:00",
+    "event_id": "b7a53e270e34",
+    "sources": [
+     {
+      "title": "German Economy Might Grow 1% This Year, Bundesbank Chief Says",
+      "summary": "Germany's economy is projected to grow approximately 1% in the current year, according to Bundesbank President Joachim Nagel.",
+      "lang": "en",
+      "source": "Bloomberg Economics",
+      "url": "https://www.bloomberg.com/news/articles/2026-10-02/german-economy-might-grow-1-this-year-bundesbank-chief-says",
+      "published": "2026-10-02T20:25:03+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "Under pressure from Donald Trump, G7 releases 100 million barrels of oil",
+    "summary": "The G7 released 100 million barrels of oil in response to US pressure from Donald Trump, aiming to control surging fuel prices.",
+    "lang": "en",
+    "source": "Le Monde International",
+    "url": "https://www.lemonde.fr/en/economy/article/2026/10/03/under-pressure-from-donald-trump-g7-releases-100-million-barrels-of-oil_6758200_19.html",
+    "published": "2026-10-03T00:21:19+00:00",
+    "event_id": "22511588f186",
+    "sources": [
+     {
+      "title": "Under pressure from Donald Trump, G7 releases 100 million barrels of oil",
+      "summary": "The G7 released 100 million barrels of oil in response to US pressure from Donald Trump, aiming to control surging fuel prices.",
+      "lang": "en",
+      "source": "Le Monde International",
+      "url": "https://www.lemonde.fr/en/economy/article/2026/10/03/under-pressure-from-donald-trump-g7-releases-100-million-barrels-of-oil_6758200_19.html",
+      "published": "2026-10-03T00:21:19+00:00"
+     },
+     {
+      "title": "The G7 will release 100 million reserve barrels of diesel fuel over the next 4 months",
+      "summary": "The G7 will release 100 million barrels of diesel fuel over four months following pressure from Washington during an emergency energy meeting.",
+      "lang": "en",
+      "source": "NPR World",
+      "url": "https://www.npr.org/2026/10/02/nx-s1-5989397/the-g7-will-release-100-million-reserve-barrels-of-diesel-fuel-over-the-next-4-months",
+      "published": "2026-10-02T20:23:49+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   }
+  ],
+  "economia|america": [
+   {
+    "title": "Weak US payrolls likely to keep rate setters on the sidelines in October",
+    "summary": "September US payrolls came in weaker than forecast and unemployment ticked higher, likely keeping the Federal Reserve from raising rates in October.",
+    "lang": "en",
+    "source": "FT Global Economy",
+    "url": "https://www.ft.com/content/906051fc-c116-4803-b395-2d56d1bcbf28",
+    "published": "2026-10-02T14:01:04+00:00",
+    "event_id": "79e381d146a0",
+    "sources": [
+     {
+      "title": "Weak US payrolls likely to keep rate setters on the sidelines in October",
+      "summary": "September US payrolls came in weaker than forecast and unemployment ticked higher, likely keeping the Federal Reserve from raising rates in October.",
+      "lang": "en",
+      "source": "FT Global Economy",
+      "url": "https://www.ft.com/content/906051fc-c116-4803-b395-2d56d1bcbf28",
+      "published": "2026-10-02T14:01:04+00:00"
+     },
+     {
+      "title": "World Economy Latest: US Employers Dial Back Hiring, Wage Growth Slows",
+      "summary": "US employers added fewer workers than expected in September and wage growth slowed, indicating businesses remain cautious amid high operational costs.",
+      "lang": "en",
+      "source": "Bloomberg Economics",
+      "url": "https://www.bloomberg.com/news/articles/2026-10-03/world-economy-latest-us-employers-dial-back-hiring-wage-growth-slows",
+      "published": "2026-10-03T09:00:00+00:00"
+     }
+    ],
+    "status": "updated",
+    "change_summary": "Weak US payrolls likely to keep rate setters on the sidelines in October",
+    "previous_date": "2026-10-02",
+    "previous_event_id": ""
+   },
+   {
+    "title": "Stocks Rise As Jobs Report Eases Fed-Hike Worries",
+    "summary": "Stock markets rose as the disappointing September jobs report reduced concerns about additional Federal Reserve interest rate increases.",
+    "lang": "en",
+    "source": "Bloomberg Markets",
+    "url": "https://www.bloomberg.com/news/videos/2026-10-02/the-close-10-2-2026-video",
+    "published": "2026-10-02T23:45:17+00:00",
+    "event_id": "24e47bb95863",
+    "sources": [
+     {
+      "title": "Stocks Rise As Jobs Report Eases Fed-Hike Worries",
+      "summary": "Stock markets rose as the disappointing September jobs report reduced concerns about additional Federal Reserve interest rate increases.",
+      "lang": "en",
+      "source": "Bloomberg Markets",
+      "url": "https://www.bloomberg.com/news/videos/2026-10-02/the-close-10-2-2026-video",
+      "published": "2026-10-02T23:45:17+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "US Debt Path Leaves It ‘Increasingly Exposed,’ Scope Warns",
+    "summary": "The United States faces increasingly vulnerable fiscal conditions due to exceptionally large budget deficits and rising debt levels, warns rating agency Scope.",
+    "lang": "en",
+    "source": "Bloomberg Economics",
+    "url": "https://www.bloomberg.com/news/articles/2026-10-03/us-debt-path-leaves-it-increasingly-exposed-scope-warns",
+    "published": "2026-10-03T05:53:28+00:00",
+    "event_id": "692cd2988ff4",
+    "sources": [
+     {
+      "title": "US Debt Path Leaves It ‘Increasingly Exposed,’ Scope Warns",
+      "summary": "The United States faces increasingly vulnerable fiscal conditions due to exceptionally large budget deficits and rising debt levels, warns rating agency Scope.",
+      "lang": "en",
+      "source": "Bloomberg Economics",
+      "url": "https://www.bloomberg.com/news/articles/2026-10-03/us-debt-path-leaves-it-increasingly-exposed-scope-warns",
+      "published": "2026-10-03T05:53:28+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "Lyft settles landmark driver misclassification lawsuit for $272.5M",
+    "summary": "Lyft settled a landmark driver misclassification lawsuit for $272.5 million, though critics argue workers deserve additional compensation.",
+    "lang": "en",
+    "source": "Ars Technica",
+    "url": "https://arstechnica.com/tech-policy/2026/10/lyft-settles-landmark-driver-misclassification-lawsuit-for-272-5m/",
+    "published": "2026-10-02T19:09:49+00:00",
+    "event_id": "37af281425d0",
+    "sources": [
+     {
+      "title": "Lyft settles landmark driver misclassification lawsuit for $272.5M",
+      "summary": "Lyft settled a landmark driver misclassification lawsuit for $272.5 million, though critics argue workers deserve additional compensation.",
+      "lang": "en",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/tech-policy/2026/10/lyft-settles-landmark-driver-misclassification-lawsuit-for-272-5m/",
+      "published": "2026-10-02T19:09:49+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   }
+  ],
+  "politica|asia": [
+   {
+    "title": "Flydubai co-pilot attacked captain with axe, UAE official says",
+    "summary": "A Flydubai co-pilot named Hamam al-Hammadi allegedly attacked the captain with an axe while attempting to take control of an Israel-bound aircraft.",
+    "lang": "en",
+    "source": "BBC World",
+    "url": "https://www.bbc.co.uk/news/articles/c61wv7lgex13o?at_medium=RSS&at_campaign=rss",
+    "published": "2026-10-03T10:00:04+00:00",
+    "event_id": "e70657906e72",
+    "sources": [
+     {
+      "title": "Flydubai co-pilot attacked captain with axe, UAE official says",
+      "summary": "A Flydubai co-pilot named Hamam al-Hammadi allegedly attacked the captain with an axe while attempting to take control of an Israel-bound aircraft.",
+      "lang": "en",
+      "source": "BBC World",
+      "url": "https://www.bbc.co.uk/news/articles/c61wv7lgex13o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-03T10:00:04+00:00"
+     }
+    ],
+    "status": "updated",
+    "change_summary": "Flydubai co-pilot attacked captain with axe, UAE official says",
+    "previous_date": "2026-10-02",
+    "previous_event_id": ""
+   },
+   {
+    "title": "荷莫茲海峽兩油輪遇襲 疑遭不明拋射物擊中",
+    "summary": "两艘油轮在霍尔木兹海峡遭不明抛射物击中，这是该关键航道面临的最新安全威胁事件。",
+    "lang": "zh",
+    "source": "中央社 CNA",
+    "url": "https://www.cna.com.tw/news/aopl/202610030106.aspx",
+    "published": "2026-10-03T07:27:12+00:00",
+    "event_id": "0fc45444100a",
+    "sources": [
+     {
+      "title": "荷莫茲海峽兩油輪遇襲 疑遭不明拋射物擊中",
+      "summary": "两艘油轮在霍尔木兹海峡遭不明抛射物击中，这是该关键航道面临的最新安全威胁事件。",
+      "lang": "zh",
+      "source": "中央社 CNA",
+      "url": "https://www.cna.com.tw/news/aopl/202610030106.aspx",
+      "published": "2026-10-03T07:27:12+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "朝鲜战俘移交曝光 韩乌发生外交争执",
+    "summary": "韩国总统李在明威胁乌克兰就曝光朝鲜战俘移交道歉，否则采取惩罚措施，乌克兰外长称这是外交误会。",
+    "lang": "zh",
+    "source": "德國之聲中文",
+    "url": "https://www.dw.com/zh/朝鲜战俘移交曝光-韩乌发生外交争执/a-79522190?maca=chi-rss-chi-all-1127-rdf",
+    "published": "2026-10-02T14:40:00+00:00",
+    "event_id": "d46f4b66730b",
+    "sources": [
+     {
+      "title": "朝鲜战俘移交曝光 韩乌发生外交争执",
+      "summary": "韩国总统李在明威胁乌克兰就曝光朝鲜战俘移交道歉，否则采取惩罚措施，乌克兰外长称这是外交误会。",
+      "lang": "zh",
+      "source": "德國之聲中文",
+      "url": "https://www.dw.com/zh/朝鲜战俘移交曝光-韩乌发生外交争执/a-79522190?maca=chi-rss-chi-all-1127-rdf",
+      "published": "2026-10-02T14:40:00+00:00"
+     }
+    ],
+    "status": "unchanged",
+    "change_summary": "",
+    "previous_date": "2026-10-02",
+    "previous_event_id": ""
+   }
+  ],
+  "politica|america": [
+   {
+    "title": "Taiwanese foreign minister to visit Arizona to deepen economic ties",
+    "summary": "Taiwan's Foreign Minister Lin Chia-lung is visiting Arizona to strengthen economic ties following visits to Central American nations.",
+    "lang": "en",
+    "source": "Japan Times",
+    "url": "https://www.japantimes.co.jp/news/2026/10/03/asia-pacific/politics/taiwan-fm-visit-arizona/",
+    "published": "2026-10-03T04:32:00+00:00",
+    "event_id": "357172517daa",
+    "sources": [
+     {
+      "title": "Taiwanese foreign minister to visit Arizona to deepen economic ties",
+      "summary": "Taiwan's Foreign Minister Lin Chia-lung is visiting Arizona to strengthen economic ties following visits to Central American nations.",
+      "lang": "en",
+      "source": "Japan Times",
+      "url": "https://www.japantimes.co.jp/news/2026/10/03/asia-pacific/politics/taiwan-fm-visit-arizona/",
+      "published": "2026-10-03T04:32:00+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "Elecciones de medio mandato en Estados Unidos: siete batallas que definirán el futuro post-Trump",
+    "summary": "Las elecciones de medio mandato en Estados Unidos se celebran en un mes, con el control del Senado en juego en unos pocos escaños que determinarán el futuro político nacional.",
+    "lang": "es",
+    "source": "El País Internacional",
+    "url": "https://elpais.com/us/2026-10-03/elecciones-de-medio-mandato-en-estados-unidos-siete-batallas-que-definiran-el-futuro-post-trump.html",
+    "published": "2026-10-03T03:30:01+00:00",
+    "event_id": "c747c2b94693",
+    "sources": [
+     {
+      "title": "Elecciones de medio mandato en Estados Unidos: siete batallas que definirán el futuro post-Trump",
+      "summary": "Las elecciones de medio mandato en Estados Unidos se celebran en un mes, con el control del Senado en juego en unos pocos escaños que determinarán el futuro político nacional.",
+      "lang": "es",
+      "source": "El País Internacional",
+      "url": "https://elpais.com/us/2026-10-03/elecciones-de-medio-mandato-en-estados-unidos-siete-batallas-que-definiran-el-futuro-post-trump.html",
+      "published": "2026-10-03T03:30:01+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "Brazil's big political rematch: What to know",
+    "summary": "Brazil holds elections four years after President Lula narrowly defeated Jair Bolsonaro; this time Lula faces Bolsonaro's son Flávio in a high-stakes rematch.",
+    "lang": "en",
+    "source": "NPR World",
+    "url": "https://www.npr.org/2026/10/02/nx-s1-5989727/brazil-election-lula-bolsonaro-flavio-democracy",
+    "published": "2026-10-03T02:57:07+00:00",
+    "event_id": "186f35b430b2",
+    "sources": [
+     {
+      "title": "Brazil's big political rematch: What to know",
+      "summary": "Brazil holds elections four years after President Lula narrowly defeated Jair Bolsonaro; this time Lula faces Bolsonaro's son Flávio in a high-stakes rematch.",
+      "lang": "en",
+      "source": "NPR World",
+      "url": "https://www.npr.org/2026/10/02/nx-s1-5989727/brazil-election-lula-bolsonaro-flavio-democracy",
+      "published": "2026-10-03T02:57:07+00:00"
+     }
+    ],
+    "status": "unchanged",
+    "change_summary": "",
+    "previous_date": "2026-10-02",
+    "previous_event_id": ""
+   }
+  ],
+  "politica|europa": [
+   {
+    "title": "Russia strikes second major bridge in Ukraine capital",
+    "summary": "Russia struck the Northern Bridge in Kyiv, following multiple attacks on river crossings that connect the capital's eastern and western districts.",
+    "lang": "en",
+    "source": "Le Monde International",
+    "url": "https://www.lemonde.fr/en/international/article/2026/10/03/russia-strikes-second-major-bridge-in-ukraine-capital_6758212_4.html",
+    "published": "2026-10-03T09:49:09+00:00",
+    "event_id": "a0eff600d8b3",
+    "sources": [
+     {
+      "title": "Russia strikes second major bridge in Ukraine capital",
+      "summary": "Russia struck the Northern Bridge in Kyiv, following multiple attacks on river crossings that connect the capital's eastern and western districts.",
+      "lang": "en",
+      "source": "Le Monde International",
+      "url": "https://www.lemonde.fr/en/international/article/2026/10/03/russia-strikes-second-major-bridge-in-ukraine-capital_6758212_4.html",
+      "published": "2026-10-03T09:49:09+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "In Latvia, the rise of political parties close to Russia sparks concern ahead of parliamentary elections",
+    "summary": "Two populist parties close to Russia are gaining support among Latvia's Russian-speaking minority ahead of parliamentary elections scheduled for October 3.",
+    "lang": "en",
+    "source": "Le Monde International",
+    "url": "https://www.lemonde.fr/en/international/article/2026/10/03/in-latvia-the-rise-of-political-parties-close-to-russia-sparks-concern-ahead-of-parliamentary-elections_6758205_4.html",
+    "published": "2026-10-03T02:32:17+00:00",
+    "event_id": "d5810cf91cc5",
+    "sources": [
+     {
+      "title": "In Latvia, the rise of political parties close to Russia sparks concern ahead of parliamentary elections",
+      "summary": "Two populist parties close to Russia are gaining support among Latvia's Russian-speaking minority ahead of parliamentary elections scheduled for October 3.",
+      "lang": "en",
+      "source": "Le Monde International",
+      "url": "https://www.lemonde.fr/en/international/article/2026/10/03/in-latvia-the-rise-of-political-parties-close-to-russia-sparks-concern-ahead-of-parliamentary-elections_6758205_4.html",
+      "published": "2026-10-03T02:32:17+00:00"
+     }
+    ],
+    "status": "unchanged",
+    "change_summary": "",
+    "previous_date": "2026-10-02",
+    "previous_event_id": ""
+   }
+  ],
+  "tecnologia|america": [
+   {
+    "title": "CISA警示FortiMail漏洞CVE-2026-104286已遭實際利用",
+    "summary": "美国网络与基础设施安全局警示FortiMail存在路径遍历漏洞CVE-2026-104286已遭实际利用，联邦机构须于10月4日前完成修补。",
+    "lang": "zh",
+    "source": "iThome 台灣",
+    "url": "https://www.ithome.com.tw/news/179386",
+    "published": "2026-10-03T11:10:17+00:00",
+    "event_id": "82826c2e9b34",
+    "sources": [
+     {
+      "title": "CISA警示FortiMail漏洞CVE-2026-104286已遭實際利用",
+      "summary": "美国网络与基础设施安全局警示FortiMail存在路径遍历漏洞CVE-2026-104286已遭实际利用，联邦机构须于10月4日前完成修补。",
+      "lang": "zh",
+      "source": "iThome 台灣",
+      "url": "https://www.ithome.com.tw/news/179386",
+      "published": "2026-10-03T11:10:17+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "川普召集黃仁勳、馬斯克等科技巨頭簽「AI 憲法」，四層稽核機制能解失控風險？",
+    "summary": "川普在白宫召集黄仁勳、马斯克等科技巨头签署AI宪法，拟通过四层稽核机制防控AI失控风险。",
+    "lang": "zh",
+    "source": "科技新報 TechNews",
+    "url": "https://technews.tw/2026/10/03/trump-ai-constitution-jensen-huang-tech-giants-four-layer-audit-prevent-ai-rogue/",
+    "published": "2026-10-03T06:00:53+00:00",
+    "event_id": "568bf53c2418",
+    "sources": [
+     {
+      "title": "川普召集黃仁勳、馬斯克等科技巨頭簽「AI 憲法」，四層稽核機制能解失控風險？",
+      "summary": "川普在白宫召集黄仁勳、马斯克等科技巨头签署AI宪法，拟通过四层稽核机制防控AI失控风险。",
+      "lang": "zh",
+      "source": "科技新報 TechNews",
+      "url": "https://technews.tw/2026/10/03/trump-ai-constitution-jensen-huang-tech-giants-four-layer-audit-prevent-ai-rogue/",
+      "published": "2026-10-03T06:00:53+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "加州禁止AI自行決定解僱員工，成全美首例",
+    "summary": "加州州长纽森签署SB 947法案，禁止雇主完全依赖AI决定解僱员工，成为全美首例此类保护措施。",
+    "lang": "zh",
+    "source": "iThome 台灣",
+    "url": "https://www.ithome.com.tw/news/179367",
+    "published": "2026-10-02T11:10:25+00:00",
+    "event_id": "b7d5c438a466",
+    "sources": [
+     {
+      "title": "加州禁止AI自行決定解僱員工，成全美首例",
+      "summary": "加州州长纽森签署SB 947法案，禁止雇主完全依赖AI决定解僱员工，成为全美首例此类保护措施。",
+      "lang": "zh",
+      "source": "iThome 台灣",
+      "url": "https://www.ithome.com.tw/news/179367",
+      "published": "2026-10-02T11:10:25+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "17,3 billones de filas y usar \"admin\"como usuario: el agujero de Microsoft que descubrió un chaval de 16 años",
+    "summary": "Un adolescente de 16 años descubrió una vulnerabilidad en Microsoft que exponía 17,3 billones de filas de datos mediante el uso de credenciales de administrador inseguras.",
+    "lang": "es",
+    "source": "Xataka",
+    "url": "https://www.xataka.com/seguridad/17-3-billones-filas-usar-admin-como-usuario-agujero-microsoft-que-descubrio-chaval-16-anos",
+    "published": "2026-10-03T10:01:23+00:00",
+    "event_id": "ff2d776e07e6",
+    "sources": [
+     {
+      "title": "17,3 billones de filas y usar \"admin\"como usuario: el agujero de Microsoft que descubrió un chaval de 16 años",
+      "summary": "Un adolescente de 16 años descubrió una vulnerabilidad en Microsoft que exponía 17,3 billones de filas de datos mediante el uso de credenciales de administrador inseguras.",
+      "lang": "es",
+      "source": "Xataka",
+      "url": "https://www.xataka.com/seguridad/17-3-billones-filas-usar-admin-como-usuario-agujero-microsoft-que-descubrio-chaval-16-anos",
+      "published": "2026-10-03T10:01:23+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "Microsoft quería que el CEO de LinkedIn fuera a la oficina cada día: ha preferido dejar la empresa antes que mudarse",
+    "summary": "El CEO de LinkedIn rechazó el mandato de Microsoft de trabajar presencialmente en oficinas todos los días y prefirió abandonar la empresa.",
+    "lang": "es",
+    "source": "Xataka",
+    "url": "https://www.xataka.com/empresas-y-economia/microsoft-queria-que-ceo-linkedin-fuera-a-oficina-cada-dia-ha-preferido-dejar-empresa-mudarse",
+    "published": "2026-10-03T09:01:22+00:00",
+    "event_id": "f136a3fd22bd",
+    "sources": [
+     {
+      "title": "Microsoft quería que el CEO de LinkedIn fuera a la oficina cada día: ha preferido dejar la empresa antes que mudarse",
+      "summary": "El CEO de LinkedIn rechazó el mandato de Microsoft de trabajar presencialmente en oficinas todos los días y prefirió abandonar la empresa.",
+      "lang": "es",
+      "source": "Xataka",
+      "url": "https://www.xataka.com/empresas-y-economia/microsoft-queria-que-ceo-linkedin-fuera-a-oficina-cada-dia-ha-preferido-dejar-empresa-mudarse",
+      "published": "2026-10-03T09:01:22+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "Apple says it’s tightening macOS ‘Full Disk Access’ controls due to new risks from AI agents",
+    "summary": "Apple is implementing new controls around macOS Full Disk Access permissions, warning that advanced AI agents pose risks through broad access to user data and messages.",
+    "lang": "en",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/10/02/apple-says-its-tightening-macos-full-disk-access-controls-due-to-new-risks-from-ai-agents/",
+    "published": "2026-10-02T18:11:27+00:00",
+    "event_id": "8931b830d8dd",
+    "sources": [
+     {
+      "title": "Apple says it’s tightening macOS ‘Full Disk Access’ controls due to new risks from AI agents",
+      "summary": "Apple is implementing new controls around macOS Full Disk Access permissions, warning that advanced AI agents pose risks through broad access to user data and messages.",
+      "lang": "en",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/10/02/apple-says-its-tightening-macos-full-disk-access-controls-due-to-new-risks-from-ai-agents/",
+      "published": "2026-10-02T18:11:27+00:00"
+     },
+     {
+      "title": "Apple changes full-disk access permissions to curb abuse from AI agents",
+      "summary": "Apple has modified full-disk access permissions in macOS to prevent abuse by increasingly capable AI agents that could access user files and communications.",
+      "lang": "en",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/security/2026/10/apple-changes-full-disk-access-permissions-to-curb-abuse-from-ai-agents/",
+      "published": "2026-10-02T23:03:16+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "US arrests tech CEO accused of smuggling $300M in Nvidia chips into China",
+    "summary": "A technology CEO was arrested for allegedly smuggling $300 million in Nvidia chips into China, continuing a pattern of chip-smuggling enforcement actions.",
+    "lang": "en",
+    "source": "Ars Technica",
+    "url": "https://arstechnica.com/tech-policy/2026/10/us-arrests-tech-ceo-accused-of-smuggling-300m-in-nvidia-chips-into-china/",
+    "published": "2026-10-02T18:39:36+00:00",
+    "event_id": "d3db30efe56f",
+    "sources": [
+     {
+      "title": "US arrests tech CEO accused of smuggling $300M in Nvidia chips into China",
+      "summary": "A technology CEO was arrested for allegedly smuggling $300 million in Nvidia chips into China, continuing a pattern of chip-smuggling enforcement actions.",
+      "lang": "en",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/tech-policy/2026/10/us-arrests-tech-ceo-accused-of-smuggling-300m-in-nvidia-chips-into-china/",
+      "published": "2026-10-02T18:39:36+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "OpenAI’s Dot agent is enterprise software that can also order your dinner",
+    "summary": "OpenAI launched Dots, an enterprise agent platform capable of performing business tasks and personal errands like ordering meals.",
+    "lang": "en",
+    "source": "The Verge",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/1004096/openai-chatgpt-dots-hands-on-agent",
+    "published": "2026-10-02T18:00:00+00:00",
+    "event_id": "5028b5fce374",
+    "sources": [
+     {
+      "title": "OpenAI’s Dot agent is enterprise software that can also order your dinner",
+      "summary": "OpenAI launched Dots, an enterprise agent platform capable of performing business tasks and personal errands like ordering meals.",
+      "lang": "en",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1004096/openai-chatgpt-dots-hands-on-agent",
+      "published": "2026-10-02T18:00:00+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   }
+  ]
+ }
+}
