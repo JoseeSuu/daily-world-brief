@@ -1,0 +1,836 @@
+{
+ "date": "2026-10-04",
+ "generated_at": "2026-10-04T11:13:16.238376+00:00",
+ "mode": "full",
+ "cost_usd": 0.0481,
+ "radar_cost_usd": 0.0049,
+ "events": {
+  "mode": "full",
+  "compared_with": "2026-10-03",
+  "articles": 35,
+  "uncompared_articles": 0,
+  "events": 33,
+  "cost_usd": 0.0174
+ },
+ "radar": {
+  "items": [
+   {
+    "id": "hn-49937304",
+    "source": "Hacker News",
+    "kind": "discussion",
+    "title": "Show HN: Pi pod – Run your pi coding agent in sandboxes on your own server",
+    "url": "https://pipod.dev/",
+    "discussion_url": "https://news.ycombinator.com/item?id=49937304",
+    "published": "2026-10-02T19:10:38+00:00",
+    "lang": "en",
+    "excerpt": "pi pod runs sessions of the pi coding agent in isolated sandboxes (\"pods\") on a server you run, in composable environments. ---- Since moving my company towards AI-native work, I have been really frustrated by the state of \"agentic engineering\" environments. Products by the labs (claude code, codex) lock you into a single provider for your tokens. Agnostic solutions (factory, devin, arguably cursor) make you pay per-token costs. None of these products allow you to fully customize the harness, and of course they all run on someone else's infrastructure. I've been an early and fervent user of pi",
+    "signal": {
+     "points": 100,
+     "comments": 39
+    },
+    "summary": "Pi pod runs AI coding agent sessions in isolated sandboxes on user-operated servers with customizable environments, avoiding single-provider lock-in and per-token costs.",
+    "usefulness": "Could enable building Python tools that execute generated code safely if you operate your own infrastructure and want to avoid vendor dependency.",
+    "to_verify": "Whether pi pod actually supports arbitrary Python tool customization and what sandbox isolation guarantees it provides against model-generated malicious code."
+   }
+  ],
+  "mode": "full",
+  "failed_sources": []
+ },
+ "market": null,
+ "failed_sources": [],
+ "cells": {
+  "economia|america": [
+   {
+    "title": "Hace un año, Micron ganaba 3.200 millones por trimestre. Ahora gana más que Apple",
+    "summary": "Micron cerró el último trimestre con 37.700 millones de dólares de beneficio, superando sus ganancias de hace un año. La empresa ahora genera más ingresos que Apple.",
+    "lang": "es",
+    "source": "Xataka",
+    "url": "https://www.xataka.com/empresas-y-economia/hace-ano-micron-ganaba-3-200-millones-trimestre-ahora-gana-que-apple",
+    "published": "2026-10-04T09:01:21+00:00",
+    "event_id": "8020343eae8e",
+    "sources": [
+     {
+      "title": "Hace un año, Micron ganaba 3.200 millones por trimestre. Ahora gana más que Apple",
+      "summary": "Micron cerró el último trimestre con 37.700 millones de dólares de beneficio, superando sus ganancias de hace un año. La empresa ahora genera más ingresos que Apple.",
+      "lang": "es",
+      "source": "Xataka",
+      "url": "https://www.xataka.com/empresas-y-economia/hace-ano-micron-ganaba-3-200-millones-trimestre-ahora-gana-que-apple",
+      "published": "2026-10-04T09:01:21+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "American Consumers Tap Home Equity and AI as Prices Rise",
+    "summary": "American consumers are drawing on home equity and AI tools to maintain spending amid rising prices. Many are also turning to food banks as inflation persists.",
+    "lang": "en",
+    "source": "Bloomberg Economics",
+    "url": "https://www.bloomberg.com/news/features/2026-10-03/american-consumers-tap-home-equity-and-ai-as-prices-rise",
+    "published": "2026-10-03T14:00:03+00:00",
+    "event_id": "40f07497b3bd",
+    "sources": [
+     {
+      "title": "American Consumers Tap Home Equity and AI as Prices Rise",
+      "summary": "American consumers are drawing on home equity and AI tools to maintain spending amid rising prices. Many are also turning to food banks as inflation persists.",
+      "lang": "en",
+      "source": "Bloomberg Economics",
+      "url": "https://www.bloomberg.com/news/features/2026-10-03/american-consumers-tap-home-equity-and-ai-as-prices-rise",
+      "published": "2026-10-03T14:00:03+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   }
+  ],
+  "economia|europa": [
+   {
+    "title": "El hidrógeno quiere llegar al Puerto de Bilbao y ya sabe cómo: con un enorme tubo de 38 km para unir el Cantábrico con Europa",
+    "summary": "Un tubo de 38 km transportará hidrógeno desde el Puerto de Bilbao hacia Europa. El proyecto conecta Santurtzi con Bilbao como parte de la infraestructura de energía limpia.",
+    "lang": "es",
+    "source": "Xataka",
+    "url": "https://www.xataka.com/energia/hidrogeno-quiere-llegar-al-puerto-bilbao-sabe-como-enorme-tubo-38-km-para-unir-cantabrico-europa",
+    "published": "2026-10-04T07:31:22+00:00",
+    "event_id": "685deebff0f0",
+    "sources": [
+     {
+      "title": "El hidrógeno quiere llegar al Puerto de Bilbao y ya sabe cómo: con un enorme tubo de 38 km para unir el Cantábrico con Europa",
+      "summary": "Un tubo de 38 km transportará hidrógeno desde el Puerto de Bilbao hacia Europa. El proyecto conecta Santurtzi con Bilbao como parte de la infraestructura de energía limpia.",
+      "lang": "es",
+      "source": "Xataka",
+      "url": "https://www.xataka.com/energia/hidrogeno-quiere-llegar-al-puerto-bilbao-sabe-como-enorme-tubo-38-km-para-unir-cantabrico-europa",
+      "published": "2026-10-04T07:31:22+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "El diésel no ha muerto: este combustible hecho con residuos quiere mover camiones y maquinaria pesada sin cambiar sus motores",
+    "summary": "Un nuevo combustible derivado de residuos permite que camiones y maquinaria pesada funcionen sin modificar sus motores. Esta solución renovable responde a la escasez mundial de diésel.",
+    "lang": "es",
+    "source": "Xataka",
+    "url": "https://www.xataka.com/energia/diesel-no-ha-muerto-este-combustible-hecho-residuos-quiere-mover-camiones-maquinaria-pesada-cambiar-sus-motores",
+    "published": "2026-10-04T07:01:22+00:00",
+    "event_id": "eb0e6340f4e7",
+    "sources": [
+     {
+      "title": "El diésel no ha muerto: este combustible hecho con residuos quiere mover camiones y maquinaria pesada sin cambiar sus motores",
+      "summary": "Un nuevo combustible derivado de residuos permite que camiones y maquinaria pesada funcionen sin modificar sus motores. Esta solución renovable responde a la escasez mundial de diésel.",
+      "lang": "es",
+      "source": "Xataka",
+      "url": "https://www.xataka.com/energia/diesel-no-ha-muerto-este-combustible-hecho-residuos-quiere-mover-camiones-maquinaria-pesada-cambiar-sus-motores",
+      "published": "2026-10-04T07:01:22+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "China launches anti-dumping probe into European chemical exports",
+    "summary": "China launched an anti-dumping investigation into European chemical exports, escalating trade tensions. The move follows three EU investigations initiated last week.",
+    "lang": "en",
+    "source": "FT Global Economy",
+    "url": "https://www.ft.com/content/bae0af94-f42d-47d1-a1a8-fab608e75a72?syn-25a6b1a6=1",
+    "published": "2026-10-03T10:16:42+00:00",
+    "event_id": "00ba9cecc2c3",
+    "sources": [
+     {
+      "title": "China launches anti-dumping probe into European chemical exports",
+      "summary": "China launched an anti-dumping investigation into European chemical exports, escalating trade tensions. The move follows three EU investigations initiated last week.",
+      "lang": "en",
+      "source": "FT Global Economy",
+      "url": "https://www.ft.com/content/bae0af94-f42d-47d1-a1a8-fab608e75a72?syn-25a6b1a6=1",
+      "published": "2026-10-03T10:16:42+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "Fed, ECB Minutes to Show Inflation Fears as Hike Bets Fade",
+    "summary": "Fed and ECB minutes will reveal inflation concerns as interest rate hike expectations fade. Policymakers have reduced urgency for follow-up moves at upcoming meetings.",
+    "lang": "en",
+    "source": "Bloomberg Economics",
+    "url": "https://www.bloomberg.com/news/articles/2026-10-03/fed-ecb-minutes-to-show-inflation-fears-as-hike-bets-fade",
+    "published": "2026-10-03T20:00:00+00:00",
+    "event_id": "eb25bdee532e",
+    "sources": [
+     {
+      "title": "Fed, ECB Minutes to Show Inflation Fears as Hike Bets Fade",
+      "summary": "Fed and ECB minutes will reveal inflation concerns as interest rate hike expectations fade. Policymakers have reduced urgency for follow-up moves at upcoming meetings.",
+      "lang": "en",
+      "source": "Bloomberg Economics",
+      "url": "https://www.bloomberg.com/news/articles/2026-10-03/fed-ecb-minutes-to-show-inflation-fears-as-hike-bets-fade",
+      "published": "2026-10-03T20:00:00+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "What’s driving the global bond sell-off?",
+    "summary": "Global bond sell-off reflects mixed economic factors cited by market participants. Analysis shows no single dominant driver behind the widespread market movement.",
+    "lang": "en",
+    "source": "FT Global Economy",
+    "url": "https://www.ft.com/content/f212d7b9-95e0-4aa0-84bf-4df7b43bc80a?syn-25a6b1a6=1",
+    "published": "2026-10-03T09:30:10+00:00",
+    "event_id": "79b06dd4fb6b",
+    "sources": [
+     {
+      "title": "What’s driving the global bond sell-off?",
+      "summary": "Global bond sell-off reflects mixed economic factors cited by market participants. Analysis shows no single dominant driver behind the widespread market movement.",
+      "lang": "en",
+      "source": "FT Global Economy",
+      "url": "https://www.ft.com/content/f212d7b9-95e0-4aa0-84bf-4df7b43bc80a?syn-25a6b1a6=1",
+      "published": "2026-10-03T09:30:10+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   }
+  ],
+  "tecnologia|asia": [
+   {
+    "title": "Masayoshi Son’s AI ambitions outgrow SoftBank’s balance sheet",
+    "summary": "SoftBank's DigitalBridge CEO Marc Ganzi will lead the company as its 'third-party infrastructure arm' following a $4 billion takeover. The deal supports Masayoshi Son's AI infrastructure ambitions.",
+    "lang": "en",
+    "source": "Financial Times",
+    "url": "https://www.ft.com/content/9b3a355e-5975-445f-9004-b95513e3856a?syn-25a6b1a6=1",
+    "published": "2026-10-04T04:00:07+00:00",
+    "event_id": "a84642505306",
+    "sources": [
+     {
+      "title": "Masayoshi Son’s AI ambitions outgrow SoftBank’s balance sheet",
+      "summary": "SoftBank's DigitalBridge CEO Marc Ganzi will lead the company as its 'third-party infrastructure arm' following a $4 billion takeover. The deal supports Masayoshi Son's AI infrastructure ambitions.",
+      "lang": "en",
+      "source": "Financial Times",
+      "url": "https://www.ft.com/content/9b3a355e-5975-445f-9004-b95513e3856a?syn-25a6b1a6=1",
+      "published": "2026-10-04T04:00:07+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "Jack Dorsey’s Bitchat disappears from app stores in India after government order",
+    "summary": "Jack Dorsey's Bitchat messaging app became unavailable in India following a government order. The restriction significantly limited user access across the country.",
+    "lang": "en",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/10/03/jack-dorseys-bitchat-disappears-from-app-stores-in-india-after-government-order/",
+    "published": "2026-10-03T15:02:01+00:00",
+    "event_id": "7c974d415cd4",
+    "sources": [
+     {
+      "title": "Jack Dorsey’s Bitchat disappears from app stores in India after government order",
+      "summary": "Jack Dorsey's Bitchat messaging app became unavailable in India following a government order. The restriction significantly limited user access across the country.",
+      "lang": "en",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/10/03/jack-dorseys-bitchat-disappears-from-app-stores-in-india-after-government-order/",
+      "published": "2026-10-03T15:02:01+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "挑戰 99.5% 成功率，NVIDIA 攜鴻海讓機器人組裝 GB300",
+    "summary": "英伟达携手鸿海开发机器人组装系统，挑战99.5%成功率。自动化升级成为供应链竞争焦点。",
+    "lang": "zh",
+    "source": "科技新報 TechNews",
+    "url": "https://finance.technews.tw/2026/10/04/nvidia-foxconn-robot/",
+    "published": "2026-10-04T06:47:39+00:00",
+    "event_id": "a500d45e1a6e",
+    "sources": [
+     {
+      "title": "挑戰 99.5% 成功率，NVIDIA 攜鴻海讓機器人組裝 GB300",
+      "summary": "英伟达携手鸿海开发机器人组装系统，挑战99.5%成功率。自动化升级成为供应链竞争焦点。",
+      "lang": "zh",
+      "source": "科技新報 TechNews",
+      "url": "https://finance.technews.tw/2026/10/04/nvidia-foxconn-robot/",
+      "published": "2026-10-04T06:47:39+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   }
+  ],
+  "politica|asia": [
+   {
+    "title": "Turkish arms group eyes Japan ties in air defense and underwater drones",
+    "summary": "A Turkish arms group is exploring defense partnerships with Japan in air defense and underwater drones. The development marks expanded military cooperation between the two nations.",
+    "lang": "en",
+    "source": "Nikkei Asia",
+    "url": "https://asia.nikkei.com/business/aerospace-defense-industries/turkish-arms-group-eyes-japan-ties-in-air-defense-and-underwater-drones",
+    "published": null,
+    "event_id": "2e2abd4c419f",
+    "sources": [
+     {
+      "title": "Turkish arms group eyes Japan ties in air defense and underwater drones",
+      "summary": "A Turkish arms group is exploring defense partnerships with Japan in air defense and underwater drones. The development marks expanded military cooperation between the two nations.",
+      "lang": "en",
+      "source": "Nikkei Asia",
+      "url": "https://asia.nikkei.com/business/aerospace-defense-industries/turkish-arms-group-eyes-japan-ties-in-air-defense-and-underwater-drones",
+      "published": null
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "Malaysia repatriates 1,500 Myanmar nationals despite UN risk warnings",
+    "summary": "Malaysia repatriated nearly 1,500 Myanmar nationals despite UN warnings of safety risks. The returnees arrived in Myanmar's largest city Sunday despite rights group opposition.",
+    "lang": "en",
+    "source": "South China Morning Post (Asia)",
+    "url": "https://www.scmp.com/news/asia/southeast-asia/article/3369705/malaysia-repatriates-1500-myanmar-nationals-despite-un-risk-warnings?utm_source=rss_feed",
+    "published": "2026-10-04T11:08:17+00:00",
+    "event_id": "f1e3114033c9",
+    "sources": [
+     {
+      "title": "Malaysia repatriates 1,500 Myanmar nationals despite UN risk warnings",
+      "summary": "Malaysia repatriated nearly 1,500 Myanmar nationals despite UN warnings of safety risks. The returnees arrived in Myanmar's largest city Sunday despite rights group opposition.",
+      "lang": "en",
+      "source": "South China Morning Post (Asia)",
+      "url": "https://www.scmp.com/news/asia/southeast-asia/article/3369705/malaysia-repatriates-1500-myanmar-nationals-despite-un-risk-warnings?utm_source=rss_feed",
+      "published": "2026-10-04T11:08:17+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "Pakistan vs. Afghanistan: From allies and neighbors to war",
+    "summary": "Pakistan and Afghanistan shifted from alliance to conflict after Taliban rule. Pakistan now conducts military strikes on its former ally despite ongoing negotiation failures.",
+    "lang": "en",
+    "source": "Deutsche Welle World",
+    "url": "https://www.dw.com/en/pakistan-vs-afghanistan-from-allies-and-neighbors-to-war/a-79532115?maca=en-rss-en-world-4025-rdf",
+    "published": "2026-10-03T18:49:00+00:00",
+    "event_id": "a3b12ab44301",
+    "sources": [
+     {
+      "title": "Pakistan vs. Afghanistan: From allies and neighbors to war",
+      "summary": "Pakistan and Afghanistan shifted from alliance to conflict after Taliban rule. Pakistan now conducts military strikes on its former ally despite ongoing negotiation failures.",
+      "lang": "en",
+      "source": "Deutsche Welle World",
+      "url": "https://www.dw.com/en/pakistan-vs-afghanistan-from-allies-and-neighbors-to-war/a-79532115?maca=en-rss-en-world-4025-rdf",
+      "published": "2026-10-03T18:49:00+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "冲绳美军士兵涉嫌杀害日本女性 高市早苗对美提出抗议",
+    "summary": "驻冲绳美军海军陆战队员涉嫌抢劫并杀害日本女性，引发日本政府强烈抗议。此事再次引发围绕美军基地的争议。",
+    "lang": "zh",
+    "source": "德國之聲中文",
+    "url": "https://www.dw.com/zh/冲绳美军士兵涉嫌杀害日本女性-高市早苗对美提出抗议/a-79536706?maca=chi-rss-chi-all-1127-rdf",
+    "published": "2026-10-04T09:59:00+00:00",
+    "event_id": "7ac6f5271bb2",
+    "sources": [
+     {
+      "title": "冲绳美军士兵涉嫌杀害日本女性 高市早苗对美提出抗议",
+      "summary": "驻冲绳美军海军陆战队员涉嫌抢劫并杀害日本女性，引发日本政府强烈抗议。此事再次引发围绕美军基地的争议。",
+      "lang": "zh",
+      "source": "德國之聲中文",
+      "url": "https://www.dw.com/zh/冲绳美军士兵涉嫌杀害日本女性-高市早苗对美提出抗议/a-79536706?maca=chi-rss-chi-all-1127-rdf",
+      "published": "2026-10-04T09:59:00+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   }
+  ],
+  "economia|asia": [
+   {
+    "title": "China closes hundreds of banks to bolster financial system",
+    "summary": "China closed over 670 banks last year, a record number, to strengthen its financial system. Fitch warns smaller lenders remain the sector's weakest component.",
+    "lang": "en",
+    "source": "Financial Times",
+    "url": "https://www.ft.com/content/8a8f5c97-f1d3-4d3d-a3bc-d5a2e5539177?syn-25a6b1a6=1",
+    "published": "2026-10-04T02:00:04+00:00",
+    "event_id": "f74289298e1e",
+    "sources": [
+     {
+      "title": "China closes hundreds of banks to bolster financial system",
+      "summary": "China closed over 670 banks last year, a record number, to strengthen its financial system. Fitch warns smaller lenders remain the sector's weakest component.",
+      "lang": "en",
+      "source": "Financial Times",
+      "url": "https://www.ft.com/content/8a8f5c97-f1d3-4d3d-a3bc-d5a2e5539177?syn-25a6b1a6=1",
+      "published": "2026-10-04T02:00:04+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "馬克宏：中國攻擊歐洲市場 巨額補貼企業不可接受",
+    "summary": "法国总统马克宏呼吁欧盟保护市场并加强战略自主权，特别是面对中国竞争和企业巨额补贴。",
+    "lang": "zh",
+    "source": "中央社 CNA",
+    "url": "https://www.cna.com.tw/news/aopl/202610040132.aspx",
+    "published": "2026-10-04T08:48:01+00:00",
+    "event_id": "d74256672325",
+    "sources": [
+     {
+      "title": "馬克宏：中國攻擊歐洲市場 巨額補貼企業不可接受",
+      "summary": "法国总统马克宏呼吁欧盟保护市场并加强战略自主权，特别是面对中国竞争和企业巨额补贴。",
+      "lang": "zh",
+      "source": "中央社 CNA",
+      "url": "https://www.cna.com.tw/news/aopl/202610040132.aspx",
+      "published": "2026-10-04T08:48:01+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "洛克希德馬丁爭逾3千億運輸機大單 擬擴大印度產能",
+    "summary": "印度拟花费105亿美元购买60架中型运输机，洛克希德马丁表示若中标将扩大印度产能和合作。",
+    "lang": "zh",
+    "source": "中央社 CNA",
+    "url": "https://www.cna.com.tw/news/aopl/202610040111.aspx",
+    "published": "2026-10-04T07:25:15+00:00",
+    "event_id": "33e8f8e9bed0",
+    "sources": [
+     {
+      "title": "洛克希德馬丁爭逾3千億運輸機大單 擬擴大印度產能",
+      "summary": "印度拟花费105亿美元购买60架中型运输机，洛克希德马丁表示若中标将扩大印度产能和合作。",
+      "lang": "zh",
+      "source": "中央社 CNA",
+      "url": "https://www.cna.com.tw/news/aopl/202610040111.aspx",
+      "published": "2026-10-04T07:25:15+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   }
+  ],
+  "politica|europa": [
+   {
+    "title": "US to receive potash shipment from Belarus as relations thaw",
+    "summary": "The US is receiving a potash shipment from Belarus as sanctions ease. Washington exchanged the measure for Belarus's release of political prisoners.",
+    "lang": "en",
+    "source": "FT Global Economy",
+    "url": "https://www.ft.com/content/9cbc0aea-259a-41eb-bbf4-ad8a674ca8b7?syn-25a6b1a6=1",
+    "published": "2026-10-04T09:00:07+00:00",
+    "event_id": "b604eeebaaca",
+    "sources": [
+     {
+      "title": "US to receive potash shipment from Belarus as relations thaw",
+      "summary": "The US is receiving a potash shipment from Belarus as sanctions ease. Washington exchanged the measure for Belarus's release of political prisoners.",
+      "lang": "en",
+      "source": "FT Global Economy",
+      "url": "https://www.ft.com/content/9cbc0aea-259a-41eb-bbf4-ad8a674ca8b7?syn-25a6b1a6=1",
+      "published": "2026-10-04T09:00:07+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "Germany's Merz visits Kyiv as Russia steps up attacks on Ukrainian cities",
+    "summary": "Germany's Chancellor Merz visited Kyiv while Russia intensified attacks on Ukrainian cities. The visit demonstrated continued German support amid escalating Russian aggression.",
+    "lang": "en",
+    "source": "Le Monde International",
+    "url": "https://www.lemonde.fr/en/international/article/2026/10/04/germany-s-merz-visits-kyiv-as-russia-steps-up-attacks-on-ukrainian-cities_6758230_4.html",
+    "published": "2026-10-04T08:16:45+00:00",
+    "event_id": "a0eff600d8b3",
+    "sources": [
+     {
+      "title": "Germany's Merz visits Kyiv as Russia steps up attacks on Ukrainian cities",
+      "summary": "Germany's Chancellor Merz visited Kyiv while Russia intensified attacks on Ukrainian cities. The visit demonstrated continued German support amid escalating Russian aggression.",
+      "lang": "en",
+      "source": "Le Monde International",
+      "url": "https://www.lemonde.fr/en/international/article/2026/10/04/germany-s-merz-visits-kyiv-as-russia-steps-up-attacks-on-ukrainian-cities_6758230_4.html",
+      "published": "2026-10-04T08:16:45+00:00"
+     },
+     {
+      "title": "Kyiv bridge hit in further Russian drone attack as German chancellor makes surprise visit",
+      "summary": "Russian drones hit Kyiv's Northern Bridge as Germany's chancellor made a surprise visit. Unverified video shows the strike creating a large fireball.",
+      "lang": "en",
+      "source": "BBC World",
+      "url": "https://www.bbc.co.uk/news/articles/ckreyjzzzywqo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-04T10:11:32+00:00"
+     }
+    ],
+    "status": "updated",
+    "change_summary": "Germany's Merz visits Kyiv as Russia steps up attacks on Ukrainian cities",
+    "previous_date": "2026-10-03",
+    "previous_event_id": "a0eff600d8b3"
+   },
+   {
+    "title": "Latvian PM Kulbergs' party achieves a historic victory, pushing populists to the margins",
+    "summary": "Latvia's centrist PM Kulbergs' party won 35.3% of votes, an unprecedented result since 1990. The pro-European, pro-Ukrainian leader can now form a coalition government.",
+    "lang": "en",
+    "source": "Le Monde International",
+    "url": "https://www.lemonde.fr/en/international/article/2026/10/04/latvian-pm-kulbergs-party-achieves-a-historic-victory-pushing-populists-to-the-margins_6758235_4.html",
+    "published": "2026-10-04T10:35:18+00:00",
+    "event_id": "d5810cf91cc5",
+    "sources": [
+     {
+      "title": "Latvian PM Kulbergs' party achieves a historic victory, pushing populists to the margins",
+      "summary": "Latvia's centrist PM Kulbergs' party won 35.3% of votes, an unprecedented result since 1990. The pro-European, pro-Ukrainian leader can now form a coalition government.",
+      "lang": "en",
+      "source": "Le Monde International",
+      "url": "https://www.lemonde.fr/en/international/article/2026/10/04/latvian-pm-kulbergs-party-achieves-a-historic-victory-pushing-populists-to-the-margins_6758235_4.html",
+      "published": "2026-10-04T10:35:18+00:00"
+     }
+    ],
+    "status": "updated",
+    "change_summary": "Latvian PM Kulbergs' party achieves a historic victory, pushing populists to the margins",
+    "previous_date": "2026-10-03",
+    "previous_event_id": "d5810cf91cc5"
+   },
+   {
+    "title": "Bosnia-Herzegovina votes amid divisive campaigns, EU bid",
+    "summary": "Bosnia and Herzegovina held parliamentary, presidential and local elections amid divisive campaigns. Voters decided on representation as the country pursues EU membership.",
+    "lang": "en",
+    "source": "Deutsche Welle World",
+    "url": "https://www.dw.com/en/bosnia-herzegovina-votes-amid-divisive-campaigns-eu-bid/a-79535336?maca=en-rss-en-world-4025-rdf",
+    "published": "2026-10-04T09:30:00+00:00",
+    "event_id": "efac40f8a6b4",
+    "sources": [
+     {
+      "title": "Bosnia-Herzegovina votes amid divisive campaigns, EU bid",
+      "summary": "Bosnia and Herzegovina held parliamentary, presidential and local elections amid divisive campaigns. Voters decided on representation as the country pursues EU membership.",
+      "lang": "en",
+      "source": "Deutsche Welle World",
+      "url": "https://www.dw.com/en/bosnia-herzegovina-votes-amid-divisive-campaigns-eu-bid/a-79535336?maca=en-rss-en-world-4025-rdf",
+      "published": "2026-10-04T09:30:00+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "France arrests 5,000 people, mostly teens, as school protests spread",
+    "summary": "French authorities arrested approximately 5,000 people, mostly teenagers, during school protests. Students protested overcrowded classrooms, teacher shortages, and deteriorating building conditions.",
+    "lang": "en",
+    "source": "NPR World",
+    "url": "https://www.npr.org/2026/10/03/nx-s1-5989532/france-arrests-5-000-people-mostly-teens-as-school-protests-spread",
+    "published": "2026-10-03T21:57:35+00:00",
+    "event_id": "a9dd149a9d80",
+    "sources": [
+     {
+      "title": "France arrests 5,000 people, mostly teens, as school protests spread",
+      "summary": "French authorities arrested approximately 5,000 people, mostly teenagers, during school protests. Students protested overcrowded classrooms, teacher shortages, and deteriorating building conditions.",
+      "lang": "en",
+      "source": "NPR World",
+      "url": "https://www.npr.org/2026/10/03/nx-s1-5989532/france-arrests-5-000-people-mostly-teens-as-school-protests-spread",
+      "published": "2026-10-03T21:57:35+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "澤倫斯基：俄空襲逼民眾離城 烏將攻擊煉油廠回應",
+    "summary": "泽连斯基称俄罗斯实施新空袭政策，意在迫使民众离开基辅等城市。乌克兰将加强攻击俄罗斯炼油厂作为回应，但不针对平民目标。",
+    "lang": "zh",
+    "source": "中央社 CNA",
+    "url": "https://www.cna.com.tw/news/aopl/202610040140.aspx",
+    "published": "2026-10-04T09:15:19+00:00",
+    "event_id": "511c2b4c00c4",
+    "sources": [
+     {
+      "title": "澤倫斯基：俄空襲逼民眾離城 烏將攻擊煉油廠回應",
+      "summary": "泽连斯基称俄罗斯实施新空袭政策，意在迫使民众离开基辅等城市。乌克兰将加强攻击俄罗斯炼油厂作为回应，但不针对平民目标。",
+      "lang": "zh",
+      "source": "中央社 CNA",
+      "url": "https://www.cna.com.tw/news/aopl/202610040140.aspx",
+      "published": "2026-10-04T09:15:19+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   }
+  ],
+  "politica|america": [
+   {
+    "title": "Mexico Says Its Troops Sent to Border in Conjunction With US",
+    "summary": "The US and Mexico jointly deployed military forces on the Texas border as part of coordinated 'mirror operations'. Mexico's government confirmed the synchronized deployment.",
+    "lang": "en",
+    "source": "Bloomberg Markets",
+    "url": "https://www.bloomberg.com/news/articles/2026-10-03/mexico-says-its-troops-sent-to-border-in-conjunction-with-us",
+    "published": "2026-10-03T23:24:07+00:00",
+    "event_id": "b7f9cd003826",
+    "sources": [
+     {
+      "title": "Mexico Says Its Troops Sent to Border in Conjunction With US",
+      "summary": "The US and Mexico jointly deployed military forces on the Texas border as part of coordinated 'mirror operations'. Mexico's government confirmed the synchronized deployment.",
+      "lang": "en",
+      "source": "Bloomberg Markets",
+      "url": "https://www.bloomberg.com/news/articles/2026-10-03/mexico-says-its-troops-sent-to-border-in-conjunction-with-us",
+      "published": "2026-10-03T23:24:07+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "Brazil goes to polls in decisive election for future of Latin America",
+    "summary": "Brazilians voted in a decisive election between leftist incumbent Lula and far-right Flavio Bolsonaro. The outcome shapes Latin America's political and economic future.",
+    "lang": "en",
+    "source": "The Guardian World",
+    "url": "https://www.theguardian.com/world/2026/oct/04/brazil-presidential-election-lula-flavio-bolsonaro",
+    "published": "2026-10-04T08:53:01+00:00",
+    "event_id": "186f35b430b2",
+    "sources": [
+     {
+      "title": "Brazil goes to polls in decisive election for future of Latin America",
+      "summary": "Brazilians voted in a decisive election between leftist incumbent Lula and far-right Flavio Bolsonaro. The outcome shapes Latin America's political and economic future.",
+      "lang": "en",
+      "source": "The Guardian World",
+      "url": "https://www.theguardian.com/world/2026/oct/04/brazil-presidential-election-lula-flavio-bolsonaro",
+      "published": "2026-10-04T08:53:01+00:00"
+     },
+     {
+      "title": "Brazil elections live: Lula faces Bolsonaro in close presidential race",
+      "summary": "Brazil held elections with President Lula seeking a historic fourth term against Flavio Bolsonaro. The race determined crucial direction for Latin America's largest nation.",
+      "lang": "en",
+      "source": "Al Jazeera English",
+      "url": "https://www.aljazeera.com/news/liveblog/2026/10/4/brazil-elections-live-voters-head-to-polls-for-close-presidential-race?traffic_source=rss",
+      "published": "2026-10-04T10:00:00+00:00"
+     }
+    ],
+    "status": "updated",
+    "change_summary": "Brazil goes to polls in decisive election for future of Latin America",
+    "previous_date": "2026-10-03",
+    "previous_event_id": "186f35b430b2"
+   },
+   {
+    "title": "U.S. withdrawal from Iraq is complete",
+    "summary": "The US military completed its withdrawal from Iraq after 23 years. The pullout concluded following President Bush's 2003 'shock and awe' campaign.",
+    "lang": "en",
+    "source": "NPR World",
+    "url": "https://www.npr.org/2026/10/03/nx-s1-5987758/u-s-withdrawal-from-iraq-is-complete",
+    "published": "2026-10-03T21:57:33+00:00",
+    "event_id": "557caf85c62c",
+    "sources": [
+     {
+      "title": "U.S. withdrawal from Iraq is complete",
+      "summary": "The US military completed its withdrawal from Iraq after 23 years. The pullout concluded following President Bush's 2003 'shock and awe' campaign.",
+      "lang": "en",
+      "source": "NPR World",
+      "url": "https://www.npr.org/2026/10/03/nx-s1-5987758/u-s-withdrawal-from-iraq-is-complete",
+      "published": "2026-10-03T21:57:33+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "Why Canada is preparing for a (long shot) US invasion",
+    "summary": "Canada's Prime Minister Mark Carney confirmed the military is planning scenarios for a potential US invasion. The contingency planning addresses an unlikely security situation.",
+    "lang": "en",
+    "source": "BBC World",
+    "url": "https://www.bbc.co.uk/news/articles/c9m2mjj3yvg4o?at_medium=RSS&at_campaign=rss",
+    "published": "2026-10-03T23:30:06+00:00",
+    "event_id": "b233ab73f0d8",
+    "sources": [
+     {
+      "title": "Why Canada is preparing for a (long shot) US invasion",
+      "summary": "Canada's Prime Minister Mark Carney confirmed the military is planning scenarios for a potential US invasion. The contingency planning addresses an unlikely security situation.",
+      "lang": "en",
+      "source": "BBC World",
+      "url": "https://www.bbc.co.uk/news/articles/c9m2mjj3yvg4o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-03T23:30:06+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   }
+  ],
+  "tecnologia|america": [
+   {
+    "title": "Federal judge calls Flock ‘indiscriminate mass surveillance’",
+    "summary": "A federal judge ruled that Flock technology constitutes indiscriminate mass surveillance. The deputy's warrant-less license plate search violated Fourth Amendment rights.",
+    "lang": "en",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/10/03/federal-judge-calls-flock-indiscriminate-mass-surveillance/",
+    "published": "2026-10-03T19:33:15+00:00",
+    "event_id": "7d68a08898b4",
+    "sources": [
+     {
+      "title": "Federal judge calls Flock ‘indiscriminate mass surveillance’",
+      "summary": "A federal judge ruled that Flock technology constitutes indiscriminate mass surveillance. The deputy's warrant-less license plate search violated Fourth Amendment rights.",
+      "lang": "en",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/10/03/federal-judge-calls-flock-indiscriminate-mass-surveillance/",
+      "published": "2026-10-03T19:33:15+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "OpenAI safety employee resigns, claiming the company’s ‘culture is broken’",
+    "summary": "An OpenAI safety employee resigned, claiming the company's culture is fundamentally broken. David Robinson issued warnings about internal organizational issues upon departure.",
+    "lang": "en",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/10/03/openai-safety-employee-resigns-claiming-the-companys-culture-is-broken/",
+    "published": "2026-10-03T16:30:01+00:00",
+    "event_id": "a17db24aed38",
+    "sources": [
+     {
+      "title": "OpenAI safety employee resigns, claiming the company’s ‘culture is broken’",
+      "summary": "An OpenAI safety employee resigned, claiming the company's culture is fundamentally broken. David Robinson issued warnings about internal organizational issues upon departure.",
+      "lang": "en",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/10/03/openai-safety-employee-resigns-claiming-the-companys-culture-is-broken/",
+      "published": "2026-10-03T16:30:01+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "Rural Data Centers Are in for a Big Federal Tax Break",
+    "summary": "Rural data centers gain substantial federal tax benefits under the One Big Beautiful Bill Act. Hyperscalers show limited enthusiasm for the incentive program.",
+    "lang": "en",
+    "source": "Wired",
+    "url": "https://www.wired.com/story/rural-data-centers-are-in-for-a-big-federal-tax-break/",
+    "published": "2026-10-04T10:00:00+00:00",
+    "event_id": "5021eb4ecd13",
+    "sources": [
+     {
+      "title": "Rural Data Centers Are in for a Big Federal Tax Break",
+      "summary": "Rural data centers gain substantial federal tax benefits under the One Big Beautiful Bill Act. Hyperscalers show limited enthusiasm for the incentive program.",
+      "lang": "en",
+      "source": "Wired",
+      "url": "https://www.wired.com/story/rural-data-centers-are-in-for-a-big-federal-tax-break/",
+      "published": "2026-10-04T10:00:00+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "諾斯洛普格魯曼「蒼藍鷹爪」完成自主首飛，搶攻美軍無人僚機市場",
+    "summary": "诺斯洛普格鲁曼的协同作战航空器",
+    "lang": "zh",
+    "source": "科技新報 TechNews",
+    "url": "https://technews.tw/2026/10/04/northrop-grummans-yfq-48-talon-group-successfully-completed-its-first-flight/",
+    "published": "2026-10-04T05:55:42+00:00",
+    "event_id": "384fd2252db7",
+    "sources": [
+     {
+      "title": "諾斯洛普格魯曼「蒼藍鷹爪」完成自主首飛，搶攻美軍無人僚機市場",
+      "summary": "诺斯洛普格鲁曼的协同作战航空器",
+      "lang": "zh",
+      "source": "科技新報 TechNews",
+      "url": "https://technews.tw/2026/10/04/northrop-grummans-yfq-48-talon-group-successfully-completed-its-first-flight/",
+      "published": "2026-10-04T05:55:42+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "CISA警示FortiMail漏洞CVE-2026-104286已遭實際利用",
+    "summary": "美国CISA将FortiMail路径遍历漏洞CVE-2026-104286列入已利用漏洞清单。联邦民事部门须在10月4日前完成修补。",
+    "lang": "zh",
+    "source": "iThome 台灣",
+    "url": "https://www.ithome.com.tw/news/179386",
+    "published": "2026-10-03T11:10:17+00:00",
+    "event_id": "82826c2e9b34",
+    "sources": [
+     {
+      "title": "CISA警示FortiMail漏洞CVE-2026-104286已遭實際利用",
+      "summary": "美国CISA将FortiMail路径遍历漏洞CVE-2026-104286列入已利用漏洞清单。联邦民事部门须在10月4日前完成修补。",
+      "lang": "zh",
+      "source": "iThome 台灣",
+      "url": "https://www.ithome.com.tw/news/179386",
+      "published": "2026-10-03T11:10:17+00:00"
+     }
+    ],
+    "status": "unchanged",
+    "change_summary": "",
+    "previous_date": "2026-10-03",
+    "previous_event_id": "82826c2e9b34"
+   }
+  ],
+  "tecnologia|europa": [
+   {
+    "title": "法軍打造自主 AI 空戰架構，2028 年測試戰機與無人僚機協同飛行",
+    "summary": "法国空军开发自主AI空战框架，计划于2028年测试战机与无人僚机的协同飞行。",
+    "lang": "zh",
+    "source": "科技新報 TechNews",
+    "url": "https://technews.tw/2026/10/04/french-air-force-is-building-its-own-military-ai-systems/",
+    "published": "2026-10-04T08:22:39+00:00",
+    "event_id": "bc852284fe6a",
+    "sources": [
+     {
+      "title": "法軍打造自主 AI 空戰架構，2028 年測試戰機與無人僚機協同飛行",
+      "summary": "法国空军开发自主AI空战框架，计划于2028年测试战机与无人僚机的协同飞行。",
+      "lang": "zh",
+      "source": "科技新報 TechNews",
+      "url": "https://technews.tw/2026/10/04/french-air-force-is-building-its-own-military-ai-systems/",
+      "published": "2026-10-04T08:22:39+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   }
+  ]
+ }
+}
