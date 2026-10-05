@@ -1,0 +1,850 @@
+{
+ "date": "2026-10-05",
+ "generated_at": "2026-10-05T12:29:45.071691+00:00",
+ "mode": "full",
+ "cost_usd": 0.05,
+ "radar_cost_usd": 0.0041,
+ "events": {
+  "mode": "full",
+  "compared_with": "2026-10-04",
+  "articles": 41,
+  "uncompared_articles": 0,
+  "events": 32,
+  "cost_usd": 0.0191
+ },
+ "radar": {
+  "items": [],
+  "mode": "unavailable",
+  "failed_sources": []
+ },
+ "market": null,
+ "failed_sources": [],
+ "cells": {
+  "tecnologia|asia": [
+   {
+    "title": "華為與高通達成多年期專利協議，5G、AI 與運算技術首度展開交叉授權",
+    "summary": "华为与高通达成多年期专利授权协议，涵盖5G、AI及运算技术的交叉授权。这是双方在关键技术领域的首次合作。",
+    "lang": "zh",
+    "source": "科技新報 TechNews",
+    "url": "https://finance.technews.tw/2026/10/05/qualcomm-to-pay-huawei-for-first-time-in-5g-ai-patent-breakthrough/",
+    "published": "2026-10-05T09:50:36+00:00",
+    "event_id": "44a5778eb76e",
+    "sources": [
+     {
+      "title": "華為與高通達成多年期專利協議，5G、AI 與運算技術首度展開交叉授權",
+      "summary": "华为与高通达成多年期专利授权协议，涵盖5G、AI及运算技术的交叉授权。这是双方在关键技术领域的首次合作。",
+      "lang": "zh",
+      "source": "科技新報 TechNews",
+      "url": "https://finance.technews.tw/2026/10/05/qualcomm-to-pay-huawei-for-first-time-in-5g-ai-patent-breakthrough/",
+      "published": "2026-10-05T09:50:36+00:00"
+     },
+     {
+      "title": "Qualcomm to pay Huawei for first time in 5G, AI patent breakthrough",
+      "summary": "Qualcomm will pay Huawei for the first time in 5G and AI patents, marking a breakthrough in technology licensing between the companies.",
+      "lang": "en",
+      "source": "Nikkei Asia",
+      "url": "https://asia.nikkei.com/spotlight/huawei-crackdown/qualcomm-to-pay-huawei-for-first-time-in-5g-ai-patent-breakthrough",
+      "published": null
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "輝達加入開源模型戰場 轉投資新創將發布首款模型",
+    "summary": "英伟达投资8亿美元的AI初创公司Reflection将发布首款开放模型，有望与中国领先的开源模型竞争。美国科技企业开始进入开源模型领域。",
+    "lang": "zh",
+    "source": "經濟日報 台灣",
+    "url": "https://money.udn.com/money/story/5612/9796230",
+    "published": "2026-10-05T10:23:59+00:00",
+    "event_id": "7b4f1d8476b5",
+    "sources": [
+     {
+      "title": "輝達加入開源模型戰場 轉投資新創將發布首款模型",
+      "summary": "英伟达投资8亿美元的AI初创公司Reflection将发布首款开放模型，有望与中国领先的开源模型竞争。美国科技企业开始进入开源模型领域。",
+      "lang": "zh",
+      "source": "經濟日報 台灣",
+      "url": "https://money.udn.com/money/story/5612/9796230",
+      "published": "2026-10-05T10:23:59+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "【資安日報】10月5日，微軟揭露2026年國家級駭客威脅較兩年前更嚴峻，臺灣遭遇事件數躍居全球第三",
+    "summary": "微软披露2026年国家级黑客活动加剧，台湾遭遇事件数居全球第三。中国黑客瞄准美国AI政策圈进行网络间谍活动。",
+    "lang": "zh",
+    "source": "iThome 台灣",
+    "url": "https://www.ithome.com.tw/news/179410",
+    "published": "2026-10-05T02:10:34+00:00",
+    "event_id": "11efcbde195b",
+    "sources": [
+     {
+      "title": "【資安日報】10月5日，微軟揭露2026年國家級駭客威脅較兩年前更嚴峻，臺灣遭遇事件數躍居全球第三",
+      "summary": "微软披露2026年国家级黑客活动加剧，台湾遭遇事件数居全球第三。中国黑客瞄准美国AI政策圈进行网络间谍活动。",
+      "lang": "zh",
+      "source": "iThome 台灣",
+      "url": "https://www.ithome.com.tw/news/179410",
+      "published": "2026-10-05T02:10:34+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   }
+  ],
+  "economia|asia": [
+   {
+    "title": "Japan's Nikkei average briefly regains 70,000 mark as AI optimism returns",
+    "summary": "Japan's Nikkei average briefly reclaimed the 70,000 mark as AI optimism returns to markets, boosting investor sentiment.",
+    "lang": "en",
+    "source": "Nikkei Asia",
+    "url": "https://asia.nikkei.com/business/markets/japan-s-nikkei-average-briefly-regains-70-000-mark-as-ai-optimism-returns",
+    "published": null,
+    "event_id": "c2f380936f40",
+    "sources": [
+     {
+      "title": "Japan's Nikkei average briefly regains 70,000 mark as AI optimism returns",
+      "summary": "Japan's Nikkei average briefly reclaimed the 70,000 mark as AI optimism returns to markets, boosting investor sentiment.",
+      "lang": "en",
+      "source": "Nikkei Asia",
+      "url": "https://asia.nikkei.com/business/markets/japan-s-nikkei-average-briefly-regains-70-000-mark-as-ai-optimism-returns",
+      "published": null
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "Japan's Takaichi aims to reassure markets over spending agenda",
+    "summary": "Japan's Finance Minister Takaichi aims to reassure markets over the government's spending agenda and economic plans.",
+    "lang": "en",
+    "source": "Nikkei Asia",
+    "url": "https://asia.nikkei.com/politics/japan-s-takaichi-aims-to-reassure-markets-over-spending-agenda",
+    "published": null,
+    "event_id": "8d45e4abe786",
+    "sources": [
+     {
+      "title": "Japan's Takaichi aims to reassure markets over spending agenda",
+      "summary": "Japan's Finance Minister Takaichi aims to reassure markets over the government's spending agenda and economic plans.",
+      "lang": "en",
+      "source": "Nikkei Asia",
+      "url": "https://asia.nikkei.com/politics/japan-s-takaichi-aims-to-reassure-markets-over-spending-agenda",
+      "published": null
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "Australia gas producers fume over domestic supply mandate",
+    "summary": "Australian gas producers protest over domestic supply mandate requirements imposed by the government.",
+    "lang": "en",
+    "source": "Nikkei Asia",
+    "url": "https://asia.nikkei.com/business/energy/australia-gas-producers-fume-over-domestic-supply-mandate",
+    "published": null,
+    "event_id": "51cb0afceda6",
+    "sources": [
+     {
+      "title": "Australia gas producers fume over domestic supply mandate",
+      "summary": "Australian gas producers protest over domestic supply mandate requirements imposed by the government.",
+      "lang": "en",
+      "source": "Nikkei Asia",
+      "url": "https://asia.nikkei.com/business/energy/australia-gas-producers-fume-over-domestic-supply-mandate",
+      "published": null
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "Saudi Aramco chief warns world’s oil stockpiles are ‘scarily thin’",
+    "summary": "Saudi Aramco's chief warns global oil stockpiles are dangerously low due to Middle East conflict, requiring up to two years to rebuild.",
+    "lang": "en",
+    "source": "Financial Times",
+    "url": "https://www.ft.com/content/53e88a8d-65b5-445e-82ee-aee253a32094?syn-25a6b1a6=1",
+    "published": "2026-10-05T08:21:07+00:00",
+    "event_id": "8fa477c3526b",
+    "sources": [
+     {
+      "title": "Saudi Aramco chief warns world’s oil stockpiles are ‘scarily thin’",
+      "summary": "Saudi Aramco's chief warns global oil stockpiles are dangerously low due to Middle East conflict, requiring up to two years to rebuild.",
+      "lang": "en",
+      "source": "Financial Times",
+      "url": "https://www.ft.com/content/53e88a8d-65b5-445e-82ee-aee253a32094?syn-25a6b1a6=1",
+      "published": "2026-10-05T08:21:07+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "外媒揭日本企業以空前速度撤離中國 受經濟放緩外交不睦影響",
+    "summary": "日本企业正以创纪录速度撤离中国，受中国经济放缓和中日外交冷淡影响。企业重新评估在华布局战略。",
+    "lang": "zh",
+    "source": "中央社 CNA",
+    "url": "https://www.cna.com.tw/news/aopl/202610050267.aspx",
+    "published": "2026-10-05T10:58:46+00:00",
+    "event_id": "001d9706b7c3",
+    "sources": [
+     {
+      "title": "外媒揭日本企業以空前速度撤離中國 受經濟放緩外交不睦影響",
+      "summary": "日本企业正以创纪录速度撤离中国，受中国经济放缓和中日外交冷淡影响。企业重新评估在华布局战略。",
+      "lang": "zh",
+      "source": "中央社 CNA",
+      "url": "https://www.cna.com.tw/news/aopl/202610050267.aspx",
+      "published": "2026-10-05T10:58:46+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   }
+  ],
+  "economia|europa": [
+   {
+    "title": "Euro slides to 17-month low against dollar",
+    "summary": "The euro slid to a 17-month low against the dollar due to high energy prices and concerns over France's public finances.",
+    "lang": "en",
+    "source": "Financial Times",
+    "url": "https://www.ft.com/content/8b19b9f7-9237-47bf-bc50-d8b78aa7fe24?syn-25a6b1a6=1",
+    "published": "2026-10-05T07:43:45+00:00",
+    "event_id": "35ca650bcd4d",
+    "sources": [
+     {
+      "title": "Euro slides to 17-month low against dollar",
+      "summary": "The euro slid to a 17-month low against the dollar due to high energy prices and concerns over France's public finances.",
+      "lang": "en",
+      "source": "Financial Times",
+      "url": "https://www.ft.com/content/8b19b9f7-9237-47bf-bc50-d8b78aa7fe24?syn-25a6b1a6=1",
+      "published": "2026-10-05T07:43:45+00:00"
+     },
+     {
+      "title": "A French Crisis Would Be a Nightmare for ECB",
+      "summary": "France faces economic challenges that could trigger euro turmoil, posing risks for the ECB managing a much larger economy than previous crises.",
+      "lang": "en",
+      "source": "Bloomberg Economics",
+      "url": "https://www.bloomberg.com/news/newsletters/2026-10-05/a-french-crisis-would-be-a-nightmare-for-ecb",
+      "published": "2026-10-05T11:04:01+00:00"
+     },
+     {
+      "title": "Bond turbulence means it’s time for the ECB to put QT on hold",
+      "summary": "The ECB should pause quantitative tightening until financial conditions stabilize, analysts say, to manage bond market turbulence.",
+      "lang": "en",
+      "source": "Financial Times",
+      "url": "https://www.ft.com/content/e0dfef01-4933-4ab9-8927-d08115f4822c",
+      "published": "2026-10-05T10:22:05+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "UK Expected to Follow EU With China EV Tariffs, Times Says",
+    "summary": "The UK is preparing to impose import tariffs on Chinese electric vehicles to align with EU demands, pressuring a key industry group.",
+    "lang": "en",
+    "source": "Bloomberg Economics",
+    "url": "https://www.bloomberg.com/news/articles/2026-10-04/uk-expected-to-follow-eu-with-tariffs-on-chinese-evs-times-says",
+    "published": "2026-10-04T21:22:51+00:00",
+    "event_id": "0ba33f590fa7",
+    "sources": [
+     {
+      "title": "UK Expected to Follow EU With China EV Tariffs, Times Says",
+      "summary": "The UK is preparing to impose import tariffs on Chinese electric vehicles to align with EU demands, pressuring a key industry group.",
+      "lang": "en",
+      "source": "Bloomberg Economics",
+      "url": "https://www.bloomberg.com/news/articles/2026-10-04/uk-expected-to-follow-eu-with-tariffs-on-chinese-evs-times-says",
+      "published": "2026-10-04T21:22:51+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   }
+  ],
+  "politica|europa": [
+   {
+    "title": "Spanish PM Sánchez calls early election after housing protests",
+    "summary": "Spanish PM Sánchez called an early election for November 29 after recent defeats on measures addressing the country's housing crisis.",
+    "lang": "en",
+    "source": "BBC World",
+    "url": "https://www.bbc.co.uk/news/articles/cmdx39k49xw0o?at_medium=RSS&at_campaign=rss",
+    "published": "2026-10-05T10:18:47+00:00",
+    "event_id": "2c7f1e71ebe6",
+    "sources": [
+     {
+      "title": "Spanish PM Sánchez calls early election after housing protests",
+      "summary": "Spanish PM Sánchez called an early election for November 29 after recent defeats on measures addressing the country's housing crisis.",
+      "lang": "en",
+      "source": "BBC World",
+      "url": "https://www.bbc.co.uk/news/articles/cmdx39k49xw0o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-05T10:18:47+00:00"
+     },
+     {
+      "title": "Spanish prime minister Pedro Sánchez calls snap election",
+      "summary": "Spanish Prime Minister Pedro Sánchez called a snap election for November 29 after government defeats on housing crisis legislation.",
+      "lang": "en",
+      "source": "Financial Times",
+      "url": "https://www.ft.com/content/866dea03-4cee-4009-b130-6f7a191336c4?syn-25a6b1a6=1",
+      "published": "2026-10-05T09:00:07+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "Nationalists top Bosnia-Herzegovina's divisive election",
+    "summary": "Nationalists from three major ethnic groups will dominate Bosnia-Herzegovina's three-member presidency, including Zeljka Cvijanovic backed by disqualified Serb interests.",
+    "lang": "en",
+    "source": "Deutsche Welle World",
+    "url": "https://www.dw.com/en/nationalists-top-bosnia-herzegovina-s-divisive-election/a-79535336?maca=en-rss-en-world-4025-rdf",
+    "published": "2026-10-04T22:55:00+00:00",
+    "event_id": "efac40f8a6b4",
+    "sources": [
+     {
+      "title": "Nationalists top Bosnia-Herzegovina's divisive election",
+      "summary": "Nationalists from three major ethnic groups will dominate Bosnia-Herzegovina's three-member presidency, including Zeljka Cvijanovic backed by disqualified Serb interests.",
+      "lang": "en",
+      "source": "Deutsche Welle World",
+      "url": "https://www.dw.com/en/nationalists-top-bosnia-herzegovina-s-divisive-election/a-79535336?maca=en-rss-en-world-4025-rdf",
+      "published": "2026-10-04T22:55:00+00:00"
+     },
+     {
+      "title": "Bosnia election: New technology might have stopped votes being cast on behalf of dead voters, but the result remains unchanged",
+      "summary": "New technology stopped fraudulent votes from dead or absent voters in Bosnia's election, but turnout fell to record lows despite the reform.",
+      "lang": "en",
+      "source": "Deutsche Welle World",
+      "url": "https://www.dw.com/en/bosnia-election-new-technology-might-have-stopped-votes-being-cast-on-behalf-of-dead-voters-but-the-result-remains-unchanged/a-79544717?maca=en-rss-en-world-4025-rdf",
+      "published": "2026-10-05T10:23:00+00:00"
+     }
+    ],
+    "status": "updated",
+    "change_summary": "Nationalists top Bosnia-Herzegovina's divisive election",
+    "previous_date": "2026-10-04",
+    "previous_event_id": "efac40f8a6b4"
+   },
+   {
+    "title": "Russia's attacks on Ukraine escalate as its drones target bridges in Kyiv",
+    "summary": "Russian jet-powered drones are escalating attacks on Kyiv's bridges, intensifying strikes that have devastated the Ukrainian capital.",
+    "lang": "en",
+    "source": "NPR World",
+    "url": "https://www.npr.org/2026/10/05/nx-s1-5989637/russias-attacks-on-ukraine-escalate-as-its-drones-target-bridges-in-kyiv",
+    "published": "2026-10-05T08:44:06+00:00",
+    "event_id": "511c2b4c00c4",
+    "sources": [
+     {
+      "title": "Russia's attacks on Ukraine escalate as its drones target bridges in Kyiv",
+      "summary": "Russian jet-powered drones are escalating attacks on Kyiv's bridges, intensifying strikes that have devastated the Ukrainian capital.",
+      "lang": "en",
+      "source": "NPR World",
+      "url": "https://www.npr.org/2026/10/05/nx-s1-5989637/russias-attacks-on-ukraine-escalate-as-its-drones-target-bridges-in-kyiv",
+      "published": "2026-10-05T08:44:06+00:00"
+     }
+    ],
+    "status": "updated",
+    "change_summary": "Russia's attacks on Ukraine escalate as its drones target bridges in Kyiv",
+    "previous_date": "2026-10-04",
+    "previous_event_id": "511c2b4c00c4"
+   },
+   {
+    "title": "默茨访问乌克兰许诺增加援助 俄军继续轰炸基辅大桥",
+    "summary": "德国总理默茨突访乌克兰并承诺增加军事援助，但德国民调显示支持对乌军援的人口比例逐年下降。",
+    "lang": "zh",
+    "source": "德國之聲中文",
+    "url": "https://www.dw.com/zh/默茨访问乌克兰许诺增加援助-俄军继续轰炸基辅大桥/a-79536318?maca=chi-rss-chi-all-1127-rdf",
+    "published": "2026-10-04T09:39:00+00:00",
+    "event_id": "a0eff600d8b3",
+    "sources": [
+     {
+      "title": "默茨访问乌克兰许诺增加援助 俄军继续轰炸基辅大桥",
+      "summary": "德国总理默茨突访乌克兰并承诺增加军事援助，但德国民调显示支持对乌军援的人口比例逐年下降。",
+      "lang": "zh",
+      "source": "德國之聲中文",
+      "url": "https://www.dw.com/zh/默茨访问乌克兰许诺增加援助-俄军继续轰炸基辅大桥/a-79536318?maca=chi-rss-chi-all-1127-rdf",
+      "published": "2026-10-04T09:39:00+00:00"
+     }
+    ],
+    "status": "unchanged",
+    "change_summary": "",
+    "previous_date": "2026-10-04",
+    "previous_event_id": "a0eff600d8b3"
+   }
+  ],
+  "politica|america": [
+   {
+    "title": "Flávio Bolsonaro takes commanding lead in Brazil election",
+    "summary": "Flávio Bolsonaro takes commanding lead in Brazil's first round of voting, putting the son of a jailed former president ahead of President Lula.",
+    "lang": "en",
+    "source": "Financial Times",
+    "url": "https://www.ft.com/content/028da85c-0e1f-4f1b-ad04-eac78c4f18c0?syn-25a6b1a6=1",
+    "published": "2026-10-05T12:11:54+00:00",
+    "event_id": "186f35b430b2",
+    "sources": [
+     {
+      "title": "Flávio Bolsonaro takes commanding lead in Brazil election",
+      "summary": "Flávio Bolsonaro takes commanding lead in Brazil's first round of voting, putting the son of a jailed former president ahead of President Lula.",
+      "lang": "en",
+      "source": "Financial Times",
+      "url": "https://www.ft.com/content/028da85c-0e1f-4f1b-ad04-eac78c4f18c0?syn-25a6b1a6=1",
+      "published": "2026-10-05T12:11:54+00:00"
+     },
+     {
+      "title": "Brazil Assets Surge as Bolsonaro Takes Lead in Election Race",
+      "summary": "Brazilian assets surged as Flávio Bolsonaro took the lead in the election race, signaling potential government change ahead.",
+      "lang": "en",
+      "source": "Bloomberg Markets",
+      "url": "https://www.bloomberg.com/news/articles/2026-10-05/bolsonaro-s-first-round-lead-sets-brazil-assets-for-monday-surge",
+      "published": "2026-10-05T01:28:01+00:00"
+     },
+     {
+      "title": "Right-wing Flávio Bolsonaro wins first round of Brazil election",
+      "summary": "Right-wing candidate Flávio Bolsonaro won Brazil's first election round without a 50% majority, forcing a runoff on October 25.",
+      "lang": "en",
+      "source": "BBC World",
+      "url": "https://www.bbc.co.uk/news/articles/ck1l34ed592no?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-05T03:16:16+00:00"
+     },
+     {
+      "title": "Brazil's presidential race heads to Lula–Bolsonaro run-off as right gains ground",
+      "summary": "Brazil's presidential race will see a Lula-Bolsonaro runoff after the first round failed to energize voters, shaping a polarized contest.",
+      "lang": "en",
+      "source": "NPR World",
+      "url": "https://www.npr.org/2026/10/04/nx-s1-5981181/brazil-presidential-lula-bolsonaro",
+      "published": "2026-10-05T00:17:35+00:00"
+     }
+    ],
+    "status": "updated",
+    "change_summary": "Flávio Bolsonaro takes commanding lead in Brazil election",
+    "previous_date": "2026-10-04",
+    "previous_event_id": "186f35b430b2"
+   },
+   {
+    "title": "Why a booming economy is not helping Trump",
+    "summary": "Despite economic strength, Trump's populist party faces pressure as voters worry about AI and affordability concerns.",
+    "lang": "en",
+    "source": "Financial Times",
+    "url": "https://www.ft.com/content/8f4525eb-ce7c-4323-9dda-698aa1e8521a?syn-25a6b1a6=1",
+    "published": "2026-10-05T04:00:12+00:00",
+    "event_id": "4170f1ecdbc3",
+    "sources": [
+     {
+      "title": "Why a booming economy is not helping Trump",
+      "summary": "Despite economic strength, Trump's populist party faces pressure as voters worry about AI and affordability concerns.",
+      "lang": "en",
+      "source": "Financial Times",
+      "url": "https://www.ft.com/content/8f4525eb-ce7c-4323-9dda-698aa1e8521a?syn-25a6b1a6=1",
+      "published": "2026-10-05T04:00:12+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "SCOTUS hears major climate change case. And, Brazil's presidential race goes to runoff",
+    "summary": "The Supreme Court will hear a major climate change case, and Brazil's presidential race heads to a close runoff.",
+    "lang": "en",
+    "source": "NPR World",
+    "url": "https://www.npr.org/2026/10/05/g-s1-146406/up-first-newsletter-flydubai-investigation-colorado-suncor-exxon-brazil-presidential-elections",
+    "published": "2026-10-05T11:07:09+00:00",
+    "event_id": "cbd656525066",
+    "sources": [
+     {
+      "title": "SCOTUS hears major climate change case. And, Brazil's presidential race goes to runoff",
+      "summary": "The Supreme Court will hear a major climate change case, and Brazil's presidential race heads to a close runoff.",
+      "lang": "en",
+      "source": "NPR World",
+      "url": "https://www.npr.org/2026/10/05/g-s1-146406/up-first-newsletter-flydubai-investigation-colorado-suncor-exxon-brazil-presidential-elections",
+      "published": "2026-10-05T11:07:09+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   }
+  ],
+  "economia|america": [
+   {
+    "title": "The jobs market is still fine",
+    "summary": "The jobs market remains resilient, but the stock market is experiencing significant volatility and weakness.",
+    "lang": "en",
+    "source": "FT Global Economy",
+    "url": "https://www.ft.com/content/b26c324e-0384-4c6a-9ccd-56b1cf0939b8?syn-25a6b1a6=1",
+    "published": "2026-10-05T05:30:02+00:00",
+    "event_id": "439fc1f1abf2",
+    "sources": [
+     {
+      "title": "The jobs market is still fine",
+      "summary": "The jobs market remains resilient, but the stock market is experiencing significant volatility and weakness.",
+      "lang": "en",
+      "source": "FT Global Economy",
+      "url": "https://www.ft.com/content/b26c324e-0384-4c6a-9ccd-56b1cf0939b8?syn-25a6b1a6=1",
+      "published": "2026-10-05T05:30:02+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "Amazon, Google y Meta están ganando más dinero que nunca. El problema es que casi todo acaba en la cuenta de NVIDIA",
+    "summary": "Las grandes tecnológicas como Amazon, Google y Meta invierten masivamente en inteligencia artificial, pero la mayoría de ganancias van a NVIDIA. El flujo de dinero hacia el chip maker ha dominado desde 2022.",
+    "lang": "es",
+    "source": "Xataka",
+    "url": "https://www.xataka.com/empresas-y-economia/amazon-google-meta-estan-ganando-dinero-que-nunca-problema-que-casi-todo-acaba-cuenta-nvidia",
+    "published": "2026-10-05T11:01:23+00:00",
+    "event_id": "137a4752092b",
+    "sources": [
+     {
+      "title": "Amazon, Google y Meta están ganando más dinero que nunca. El problema es que casi todo acaba en la cuenta de NVIDIA",
+      "summary": "Las grandes tecnológicas como Amazon, Google y Meta invierten masivamente en inteligencia artificial, pero la mayoría de ganancias van a NVIDIA. El flujo de dinero hacia el chip maker ha dominado desde 2022.",
+      "lang": "es",
+      "source": "Xataka",
+      "url": "https://www.xataka.com/empresas-y-economia/amazon-google-meta-estan-ganando-dinero-que-nunca-problema-que-casi-todo-acaba-cuenta-nvidia",
+      "published": "2026-10-05T11:01:23+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   }
+  ],
+  "politica|asia": [
+   {
+    "title": "South Korean probe concludes North Korea planted DMZ mines",
+    "summary": "A South Korean probe concludes North Korea planted mines in the DMZ, consistent with findings of North Korean troop crossings.",
+    "lang": "en",
+    "source": "Japan Times",
+    "url": "https://www.japantimes.co.jp/news/2026/10/05/asia-pacific/south-korea-probe-north-mines/",
+    "published": "2026-10-05T09:51:00+00:00",
+    "event_id": "687483aa992c",
+    "sources": [
+     {
+      "title": "South Korean probe concludes North Korea planted DMZ mines",
+      "summary": "A South Korean probe concludes North Korea planted mines in the DMZ, consistent with findings of North Korean troop crossings.",
+      "lang": "en",
+      "source": "Japan Times",
+      "url": "https://www.japantimes.co.jp/news/2026/10/05/asia-pacific/south-korea-probe-north-mines/",
+      "published": "2026-10-05T09:51:00+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "菲中緊張升溫 孔子學院志願教師也陸續撤離",
+    "summary": "菲中关系紧张升温，中国华文教师及孔子学院志愿教师陆续撤离菲律宾。这反映了两国外交关系的恶化。",
+    "lang": "zh",
+    "source": "中央社 CNA",
+    "url": "https://www.cna.com.tw/news/aopl/202610050273.aspx",
+    "published": "2026-10-05T11:09:59+00:00",
+    "event_id": "ce004d51b7f9",
+    "sources": [
+     {
+      "title": "菲中緊張升溫 孔子學院志願教師也陸續撤離",
+      "summary": "菲中关系紧张升温，中国华文教师及孔子学院志愿教师陆续撤离菲律宾。这反映了两国外交关系的恶化。",
+      "lang": "zh",
+      "source": "中央社 CNA",
+      "url": "https://www.cna.com.tw/news/aopl/202610050273.aspx",
+      "published": "2026-10-05T11:09:59+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "US defence experts to work inside Taiwan military HQ under reported pact",
+    "summary": "US defence experts are reportedly set to work inside Taiwan's military headquarters under a new pact, deepening operational cooperation.",
+    "lang": "en",
+    "source": "South China Morning Post (China)",
+    "url": "https://www.scmp.com/news/china/military/article/3369795/us-defence-experts-work-inside-taiwan-military-hq-under-reported-pact?utm_source=rss_feed",
+    "published": "2026-10-05T08:45:06+00:00",
+    "event_id": "dbbbe1ad1ebe",
+    "sources": [
+     {
+      "title": "US defence experts to work inside Taiwan military HQ under reported pact",
+      "summary": "US defence experts are reportedly set to work inside Taiwan's military headquarters under a new pact, deepening operational cooperation.",
+      "lang": "en",
+      "source": "South China Morning Post (China)",
+      "url": "https://www.scmp.com/news/china/military/article/3369795/us-defence-experts-work-inside-taiwan-military-hq-under-reported-pact?utm_source=rss_feed",
+      "published": "2026-10-05T08:45:06+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "Why India’s missile deals in Central Asia matter to Russia and China",
+    "summary": "India sold its Akash air-defence missile system to Tajikistan and Turkmenistan, establishing a Central Asia foothold as a global arms exporter.",
+    "lang": "en",
+    "source": "South China Morning Post (Asia)",
+    "url": "https://www.scmp.com/week-asia/politics/article/3369812/why-indias-missile-deals-central-asia-matter-russia-and-china?utm_source=rss_feed",
+    "published": "2026-10-05T10:31:05+00:00",
+    "event_id": "6125d2424f6c",
+    "sources": [
+     {
+      "title": "Why India’s missile deals in Central Asia matter to Russia and China",
+      "summary": "India sold its Akash air-defence missile system to Tajikistan and Turkmenistan, establishing a Central Asia foothold as a global arms exporter.",
+      "lang": "en",
+      "source": "South China Morning Post (Asia)",
+      "url": "https://www.scmp.com/week-asia/politics/article/3369812/why-indias-missile-deals-central-asia-matter-russia-and-china?utm_source=rss_feed",
+      "published": "2026-10-05T10:31:05+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "Israel says killed Turkish NGO director in Gaza strike",
+    "summary": "Israel claims it killed a Turkish NGO director in Gaza, accusing him of Hamas membership without providing evidence.",
+    "lang": "en",
+    "source": "Le Monde International",
+    "url": "https://www.lemonde.fr/en/international/article/2026/10/05/israel-says-killed-turkish-ngo-director-in-gaza-strike_6758246_4.html",
+    "published": "2026-10-04T23:14:39+00:00",
+    "event_id": "21e84f00a6f2",
+    "sources": [
+     {
+      "title": "Israel says killed Turkish NGO director in Gaza strike",
+      "summary": "Israel claims it killed a Turkish NGO director in Gaza, accusing him of Hamas membership without providing evidence.",
+      "lang": "en",
+      "source": "Le Monde International",
+      "url": "https://www.lemonde.fr/en/international/article/2026/10/05/israel-says-killed-turkish-ngo-director-in-gaza-strike_6758246_4.html",
+      "published": "2026-10-04T23:14:39+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "U.S. Marine suspected in woman's death arrested in Japan",
+    "summary": "A US Marine was arrested in Okinawa on suspicion of murder, prompting renewed Japanese criticism of American military personnel conduct.",
+    "lang": "en",
+    "source": "NPR World",
+    "url": "https://www.npr.org/2026/10/05/nx-s1-5990879/u-s-marine-suspected-in-womans-death-arrested-in-japan",
+    "published": "2026-10-05T10:53:37+00:00",
+    "event_id": "7ac6f5271bb2",
+    "sources": [
+     {
+      "title": "U.S. Marine suspected in woman's death arrested in Japan",
+      "summary": "A US Marine was arrested in Okinawa on suspicion of murder, prompting renewed Japanese criticism of American military personnel conduct.",
+      "lang": "en",
+      "source": "NPR World",
+      "url": "https://www.npr.org/2026/10/05/nx-s1-5990879/u-s-marine-suspected-in-womans-death-arrested-in-japan",
+      "published": "2026-10-05T10:53:37+00:00"
+     }
+    ],
+    "status": "unclear",
+    "change_summary": "",
+    "previous_date": "2026-10-04",
+    "previous_event_id": "7ac6f5271bb2"
+   }
+  ],
+  "tecnologia|america": [
+   {
+    "title": "AI資料中心擴建爭議升高，Amazon加碼逾10億美元回應地方疑慮",
+    "summary": "亚马逊投入超10亿美元应对AI数据中心扩建疑虑，承诺在电力、用水及社区发展方面改善。未来将公开营运数据透明度。",
+    "lang": "zh",
+    "source": "iThome 台灣",
+    "url": "https://www.ithome.com.tw/news/179415",
+    "published": "2026-10-05T05:10:37+00:00",
+    "event_id": "5810e8f6f2f2",
+    "sources": [
+     {
+      "title": "AI資料中心擴建爭議升高，Amazon加碼逾10億美元回應地方疑慮",
+      "summary": "亚马逊投入超10亿美元应对AI数据中心扩建疑虑，承诺在电力、用水及社区发展方面改善。未来将公开营运数据透明度。",
+      "lang": "zh",
+      "source": "iThome 台灣",
+      "url": "https://www.ithome.com.tw/news/179415",
+      "published": "2026-10-05T05:10:37+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "Trump unveils his new Super Intelligence Force",
+    "summary": "Trump unveiled a new Super Intelligence Force task force as his latest response to ongoing AI safety debates.",
+    "lang": "en",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/10/04/trump-unveils-his-new-super-intelligence-force/",
+    "published": "2026-10-04T15:15:10+00:00",
+    "event_id": "8aaa4b741173",
+    "sources": [
+     {
+      "title": "Trump unveils his new Super Intelligence Force",
+      "summary": "Trump unveiled a new Super Intelligence Force task force as his latest response to ongoing AI safety debates.",
+      "lang": "en",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/10/04/trump-unveils-his-new-super-intelligence-force/",
+      "published": "2026-10-04T15:15:10+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "Google froze its open source bug bounty program due to a ‘significant rise’ in AI submissions",
+    "summary": "Google froze its open-source bug bounty program due to a significant rise in AI-generated submissions overwhelming the system.",
+    "lang": "en",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/10/04/google-froze-its-open-source-bug-bounty-program-due-to-a-significant-rise-in-ai-submissions/",
+    "published": "2026-10-04T20:31:07+00:00",
+    "event_id": "00aaae6618c7",
+    "sources": [
+     {
+      "title": "Google froze its open source bug bounty program due to a ‘significant rise’ in AI submissions",
+      "summary": "Google froze its open-source bug bounty program due to a significant rise in AI-generated submissions overwhelming the system.",
+      "lang": "en",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/10/04/google-froze-its-open-source-bug-bounty-program-due-to-a-significant-rise-in-ai-submissions/",
+      "published": "2026-10-04T20:31:07+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "Our minds aren’t equipped to handle AI",
+    "summary": "Human minds are not equipped to handle AI's complexity, reflecting Norbert Wiener's principle that technology mirrors societal thought.",
+    "lang": "en",
+    "source": "The Verge",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/1003794/ai-education-computational-model-thought",
+    "published": "2026-10-05T10:00:00+00:00",
+    "event_id": "a5a880c6829c",
+    "sources": [
+     {
+      "title": "Our minds aren’t equipped to handle AI",
+      "summary": "Human minds are not equipped to handle AI's complexity, reflecting Norbert Wiener's principle that technology mirrors societal thought.",
+      "lang": "en",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1003794/ai-education-computational-model-thought",
+      "published": "2026-10-05T10:00:00+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "Building advertising for the way people use AI",
+    "summary": "OpenAI introduced a new visual ad format in ChatGPT and expanded measurement tools for advertisers to better target AI users.",
+    "lang": "en",
+    "source": "OpenAI News",
+    "url": "https://openai.com/index/new-chatgpt-ads-format-and-measurement",
+    "published": "2026-10-05T10:00:00+00:00",
+    "event_id": "3cbec84de8bf",
+    "sources": [
+     {
+      "title": "Building advertising for the way people use AI",
+      "summary": "OpenAI introduced a new visual ad format in ChatGPT and expanded measurement tools for advertisers to better target AI users.",
+      "lang": "en",
+      "source": "OpenAI News",
+      "url": "https://openai.com/index/new-chatgpt-ads-format-and-measurement",
+      "published": "2026-10-05T10:00:00+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "People really hate AI, so why can’t they get enough?",
+    "summary": "Despite widespread dislike of AI, people continue using it heavily, creating a paradox in public perception versus actual adoption.",
+    "lang": "en",
+    "source": "MIT Technology Review",
+    "url": "https://www.technologyreview.com/2026/10/05/1145682/people-really-hate-ai-so-why-cant-they-get-enough/",
+    "published": "2026-10-05T08:00:00+00:00",
+    "event_id": "7a474ffcdd2c",
+    "sources": [
+     {
+      "title": "People really hate AI, so why can’t they get enough?",
+      "summary": "Despite widespread dislike of AI, people continue using it heavily, creating a paradox in public perception versus actual adoption.",
+      "lang": "en",
+      "source": "MIT Technology Review",
+      "url": "https://www.technologyreview.com/2026/10/05/1145682/people-really-hate-ai-so-why-cant-they-get-enough/",
+      "published": "2026-10-05T08:00:00+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   }
+  ],
+  "tecnologia|europa": [
+   {
+    "title": "El Premio Nobel de Fisiología y Medicina 2026 es para Karl Deisseroth, Peter Hegemann y Georg Nagel",
+    "summary": "Karl Deisseroth, Peter Hegemann y Georg Nagel ganan el Premio Nobel de Fisiología y Medicina 2026. El reconocimiento premia contribuciones importantes a la disciplina.",
+    "lang": "es",
+    "source": "Xataka",
+    "url": "https://www.xataka.com/medicina-y-salud/premio-nobel-fisiologia-medicina-2026-para-karl-deisseroth-peter-hegemann-georg-nagel",
+    "published": "2026-10-05T09:34:45+00:00",
+    "event_id": "3927b577ab20",
+    "sources": [
+     {
+      "title": "El Premio Nobel de Fisiología y Medicina 2026 es para Karl Deisseroth, Peter Hegemann y Georg Nagel",
+      "summary": "Karl Deisseroth, Peter Hegemann y Georg Nagel ganan el Premio Nobel de Fisiología y Medicina 2026. El reconocimiento premia contribuciones importantes a la disciplina.",
+      "lang": "es",
+      "source": "Xataka",
+      "url": "https://www.xataka.com/medicina-y-salud/premio-nobel-fisiologia-medicina-2026-para-karl-deisseroth-peter-hegemann-georg-nagel",
+      "published": "2026-10-05T09:34:45+00:00"
+     },
+     {
+      "title": "揭開大腦運作之謎！光遺傳學重大突破，美德 3 學者獲諾貝爾醫學獎",
+      "summary": "2026年诺贝尔医学奖由美国学者Karl Deisseroth和德国学者Peter Hegemann、Georg Nagel获得，表彰光遗传学的重大突破。",
+      "lang": "zh",
+      "source": "科技新報 TechNews",
+      "url": "https://technews.tw/2026/10/05/nobel-prize-in-physiology-or-medicine-2026/",
+      "published": "2026-10-05T10:11:11+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   }
+  ]
+ }
+}
