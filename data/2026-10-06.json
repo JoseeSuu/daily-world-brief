@@ -1,0 +1,927 @@
+{
+ "date": "2026-10-06",
+ "generated_at": "2026-10-06T12:09:49.272321+00:00",
+ "mode": "full",
+ "cost_usd": 0.0495,
+ "radar_cost_usd": 0.0044,
+ "events": {
+  "mode": "full",
+  "compared_with": "2026-10-05",
+  "articles": 39,
+  "uncompared_articles": 0,
+  "events": 37,
+  "cost_usd": 0.0186
+ },
+ "radar": {
+  "items": [
+   {
+    "id": "gh-1379166549",
+    "source": "GitHub",
+    "kind": "project",
+    "title": "nokia-applied-research/AnyJev",
+    "url": "https://github.com/nokia-applied-research/AnyJev",
+    "discussion_url": "",
+    "published": "2026-09-21T05:55:40Z",
+    "lang": "en",
+    "excerpt": "Turn any LLM into a Jev-style decision model: typed decisions, real probabilities, no training. (continue updating, welcome any issue and PR request)",
+    "signal": {
+     "stars_total": 1070
+    },
+    "summary": "Nokia Applied Research describes AnyJev as converting any LLM into a Jev-style decision model with typed decisions and real probabilities without training.",
+    "usefulness": "Could help structure probabilistic outputs from language models if building a tool that requires calibrated confidence estimates alongside decisions.",
+    "to_verify": "Whether 'real probabilities' means properly calibrated confidence scores or merely normalized model logits; whether actual LLM fine-tuning is truly unnecessary."
+   }
+  ],
+  "mode": "full",
+  "failed_sources": []
+ },
+ "market": null,
+ "failed_sources": [],
+ "cells": {
+  "economia|asia": [
+   {
+    "title": "China's Q3 growth estimated below target at 4.4% despite AI boom",
+    "summary": "China's third-quarter economic growth fell below target at 4.4 percent, despite gains from an artificial intelligence boom.",
+    "lang": "en",
+    "source": "Nikkei Asia",
+    "url": "https://asia.nikkei.com/economy/china-s-q3-growth-estimated-below-target-at-4.4-despite-ai-boom",
+    "published": null,
+    "event_id": "b7b629ee22b0",
+    "sources": [
+     {
+      "title": "China's Q3 growth estimated below target at 4.4% despite AI boom",
+      "summary": "China's third-quarter economic growth fell below target at 4.4 percent, despite gains from an artificial intelligence boom.",
+      "lang": "en",
+      "source": "Nikkei Asia",
+      "url": "https://asia.nikkei.com/economy/china-s-q3-growth-estimated-below-target-at-4.4-despite-ai-boom",
+      "published": null
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "Malaysia's Top Glove triples net profit despite high material costs",
+    "summary": "Malaysia's Top Glove tripled net profit despite facing high material costs in its operations.",
+    "lang": "en",
+    "source": "Nikkei Asia",
+    "url": "https://asia.nikkei.com/business/companies/malaysia-s-top-glove-triples-net-profit-despite-high-material-costs",
+    "published": null,
+    "event_id": "bcb0c0d158a3",
+    "sources": [
+     {
+      "title": "Malaysia's Top Glove triples net profit despite high material costs",
+      "summary": "Malaysia's Top Glove tripled net profit despite facing high material costs in its operations.",
+      "lang": "en",
+      "source": "Nikkei Asia",
+      "url": "https://asia.nikkei.com/business/companies/malaysia-s-top-glove-triples-net-profit-despite-high-material-costs",
+      "published": null
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "JGB yield rises despite 30-year-high coupon",
+    "summary": "Japanese government bond yields rose despite the bonds offering 30-year-high coupon rates to investors.",
+    "lang": "en",
+    "source": "Nikkei Asia",
+    "url": "https://asia.nikkei.com/business/markets/jgb-yield-rises-despite-30-year-high-coupon",
+    "published": null,
+    "event_id": "c1744b5a3973",
+    "sources": [
+     {
+      "title": "JGB yield rises despite 30-year-high coupon",
+      "summary": "Japanese government bond yields rose despite the bonds offering 30-year-high coupon rates to investors.",
+      "lang": "en",
+      "source": "Nikkei Asia",
+      "url": "https://asia.nikkei.com/business/markets/jgb-yield-rises-despite-30-year-high-coupon",
+      "published": null
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "Suzuki's mini EV bet exposes Japan's battery vulnerability to China",
+    "summary": "Suzuki's investment in mini electric vehicles reveals Japan's battery supply vulnerability to Chinese competition and control.",
+    "lang": "en",
+    "source": "Nikkei Asia",
+    "url": "https://asia.nikkei.com/business/automobiles/suzuki-s-mini-ev-bet-exposes-japan-s-battery-vulnerability-to-china",
+    "published": null,
+    "event_id": "80d7748203c7",
+    "sources": [
+     {
+      "title": "Suzuki's mini EV bet exposes Japan's battery vulnerability to China",
+      "summary": "Suzuki's investment in mini electric vehicles reveals Japan's battery supply vulnerability to Chinese competition and control.",
+      "lang": "en",
+      "source": "Nikkei Asia",
+      "url": "https://asia.nikkei.com/business/automobiles/suzuki-s-mini-ev-bet-exposes-japan-s-battery-vulnerability-to-china",
+      "published": null
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "中東衝突持續營運成本大增 印度航空公司向政府求援",
+    "summary": "印度航空公司因中东冲突持续、燃料价格上涨和卢比贬值等因素，运营成本大幅增加，联合会向政府寻求援助政策。",
+    "lang": "zh",
+    "source": "中央社 CNA",
+    "url": "https://www.cna.com.tw/news/aopl/202610060263.aspx",
+    "published": "2026-10-06T09:59:31+00:00",
+    "event_id": "29a15be69049",
+    "sources": [
+     {
+      "title": "中東衝突持續營運成本大增 印度航空公司向政府求援",
+      "summary": "印度航空公司因中东冲突持续、燃料价格上涨和卢比贬值等因素，运营成本大幅增加，联合会向政府寻求援助政策。",
+      "lang": "zh",
+      "source": "中央社 CNA",
+      "url": "https://www.cna.com.tw/news/aopl/202610060263.aspx",
+      "published": "2026-10-06T09:59:31+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   }
+  ],
+  "economia|europa": [
+   {
+    "title": "French central bank head warns country at risk of being ‘strangled by interest rates’",
+    "summary": "France's central bank chief warned the country faces a risk of being strangled by rising interest rates amid recent market turbulence.",
+    "lang": "en",
+    "source": "FT Global Economy",
+    "url": "https://www.ft.com/content/74c3cc77-1593-4c49-90f9-0d92fa3a2418?syn-25a6b1a6=1",
+    "published": "2026-10-05T16:56:54+00:00",
+    "event_id": "7821dcec5c7f",
+    "sources": [
+     {
+      "title": "French central bank head warns country at risk of being ‘strangled by interest rates’",
+      "summary": "France's central bank chief warned the country faces a risk of being strangled by rising interest rates amid recent market turbulence.",
+      "lang": "en",
+      "source": "FT Global Economy",
+      "url": "https://www.ft.com/content/74c3cc77-1593-4c49-90f9-0d92fa3a2418?syn-25a6b1a6=1",
+      "published": "2026-10-05T16:56:54+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "Germany and France agree on last-resort tool against trade threats",
+    "summary": "Germany and France agreed on a retaliatory trade mechanism to defend against threats to supplies like Chinese rare earths and magnets.",
+    "lang": "en",
+    "source": "FT Global Economy",
+    "url": "https://www.ft.com/content/4416101f-5072-4ee0-aa12-5b1daf25b31b?syn-25a6b1a6=1",
+    "published": "2026-10-05T16:22:38+00:00",
+    "event_id": "243831c70240",
+    "sources": [
+     {
+      "title": "Germany and France agree on last-resort tool against trade threats",
+      "summary": "Germany and France agreed on a retaliatory trade mechanism to defend against threats to supplies like Chinese rare earths and magnets.",
+      "lang": "en",
+      "source": "FT Global Economy",
+      "url": "https://www.ft.com/content/4416101f-5072-4ee0-aa12-5b1daf25b31b?syn-25a6b1a6=1",
+      "published": "2026-10-05T16:22:38+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "Merz, Macron seek tougher EU measures against unfair trade",
+    "summary": "French President Macron and German politician Merz urged EU Commission chief Von der Leyen to strengthen mechanisms against unfair trade practices.",
+    "lang": "en",
+    "source": "Deutsche Welle World",
+    "url": "https://www.dw.com/en/merz-macron-seek-tougher-eu-measures-against-unfair-trade/a-79554905?maca=en-rss-en-world-4025-rdf",
+    "published": "2026-10-05T17:23:00+00:00",
+    "event_id": "53f837fcf02e",
+    "sources": [
+     {
+      "title": "Merz, Macron seek tougher EU measures against unfair trade",
+      "summary": "French President Macron and German politician Merz urged EU Commission chief Von der Leyen to strengthen mechanisms against unfair trade practices.",
+      "lang": "en",
+      "source": "Deutsche Welle World",
+      "url": "https://www.dw.com/en/merz-macron-seek-tougher-eu-measures-against-unfair-trade/a-79554905?maca=en-rss-en-world-4025-rdf",
+      "published": "2026-10-05T17:23:00+00:00"
+     },
+     {
+      "title": "Von der Leyen advierte contra los grandes recortes en el presupuesto europeo como exige Alemania",
+      "summary": "La presidenta de la Comisión Europea Von der Leyen defiende su propuesta presupuestaria frente a demandas de recortes de países como Alemania, situando la crisis energética como argumento central.",
+      "lang": "es",
+      "source": "El País Economía",
+      "url": "https://elpais.com/economia/2026-10-06/von-der-leyen-advierte-contra-los-grandes-recortes-en-el-presupuesto-europeo-como-exige-alemania.html",
+      "published": "2026-10-06T10:00:37+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "Bond turbulence means it’s time for the ECB to put QT on hold",
+    "summary": "The ECB should pause quantitative tightening until bond market conditions stabilize, according to analysis of current financial instability.",
+    "lang": "en",
+    "source": "FT Global Economy",
+    "url": "https://www.ft.com/content/e0dfef01-4933-4ab9-8927-d08115f4822c",
+    "published": "2026-10-05T10:22:05+00:00",
+    "event_id": "061de37377de",
+    "sources": [
+     {
+      "title": "Bond turbulence means it’s time for the ECB to put QT on hold",
+      "summary": "The ECB should pause quantitative tightening until bond market conditions stabilize, according to analysis of current financial instability.",
+      "lang": "en",
+      "source": "FT Global Economy",
+      "url": "https://www.ft.com/content/e0dfef01-4933-4ab9-8927-d08115f4822c",
+      "published": "2026-10-05T10:22:05+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   }
+  ],
+  "economia|america": [
+   {
+    "title": "Surge in borrowing costs hits corporate America",
+    "summary": "Rising borrowing costs in the US Treasury market are beginning to affect junk-rated corporate bonds and funding conditions.",
+    "lang": "en",
+    "source": "Financial Times",
+    "url": "https://www.ft.com/content/7c7ccb82-2973-47af-ad9b-b469c6ea0048?syn-25a6b1a6=1",
+    "published": "2026-10-06T04:00:17+00:00",
+    "event_id": "0966b913d693",
+    "sources": [
+     {
+      "title": "Surge in borrowing costs hits corporate America",
+      "summary": "Rising borrowing costs in the US Treasury market are beginning to affect junk-rated corporate bonds and funding conditions.",
+      "lang": "en",
+      "source": "Financial Times",
+      "url": "https://www.ft.com/content/7c7ccb82-2973-47af-ad9b-b469c6ea0048?syn-25a6b1a6=1",
+      "published": "2026-10-06T04:00:17+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   }
+  ],
+  "politica|america": [
+   {
+    "title": "US affordability tracker: the data that could decide the 2026 midterm elections",
+    "summary": "The Financial Times tracks cost-of-living data affecting American voters, potentially influencing 2026 midterm election outcomes.",
+    "lang": "en",
+    "source": "FT Global Economy",
+    "url": "https://www.ft.com/content/71dccbca-4a1f-485a-9790-28cc527cdb82?syn-25a6b1a6=1",
+    "published": "2026-10-05T21:56:39+00:00",
+    "event_id": "f6dbb37a8776",
+    "sources": [
+     {
+      "title": "US affordability tracker: the data that could decide the 2026 midterm elections",
+      "summary": "The Financial Times tracks cost-of-living data affecting American voters, potentially influencing 2026 midterm election outcomes.",
+      "lang": "en",
+      "source": "FT Global Economy",
+      "url": "https://www.ft.com/content/71dccbca-4a1f-485a-9790-28cc527cdb82?syn-25a6b1a6=1",
+      "published": "2026-10-05T21:56:39+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "California’s oligarch tax would change America",
+    "summary": "California's oligarch tax would reshape America's wealth structure, though its framers prioritize political rather than budgetary goals.",
+    "lang": "en",
+    "source": "Financial Times",
+    "url": "https://www.ft.com/content/9a46af48-9c69-48bd-a648-2e496486c504?syn-25a6b1a6=1",
+    "published": "2026-10-06T11:01:53+00:00",
+    "event_id": "d00a3a3e9000",
+    "sources": [
+     {
+      "title": "California’s oligarch tax would change America",
+      "summary": "California's oligarch tax would reshape America's wealth structure, though its framers prioritize political rather than budgetary goals.",
+      "lang": "en",
+      "source": "Financial Times",
+      "url": "https://www.ft.com/content/9a46af48-9c69-48bd-a648-2e496486c504?syn-25a6b1a6=1",
+      "published": "2026-10-06T11:01:53+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "Separatists win provincial elections in Québec in test for Canada PM",
+    "summary": "Quebec's separatist Parti Québecois won provincial elections, signaling potential challenges for Canada's prime minister in a key test of national unity.",
+    "lang": "en",
+    "source": "Le Monde International",
+    "url": "https://www.lemonde.fr/en/international/article/2026/10/06/separatists-win-provincial-elections-in-quebec-in-test-for-canada-pm_6758288_4.html",
+    "published": "2026-10-06T03:34:27+00:00",
+    "event_id": "33f9b31a31d7",
+    "sources": [
+     {
+      "title": "Separatists win provincial elections in Québec in test for Canada PM",
+      "summary": "Quebec's separatist Parti Québecois won provincial elections, signaling potential challenges for Canada's prime minister in a key test of national unity.",
+      "lang": "en",
+      "source": "Le Monde International",
+      "url": "https://www.lemonde.fr/en/international/article/2026/10/06/separatists-win-provincial-elections-in-quebec-in-test-for-canada-pm_6758288_4.html",
+      "published": "2026-10-06T03:34:27+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "Fort Hood shooter to be executed by firing squad - a first for US military since World War Two",
+    "summary": "Nidal Malik Hasan, who killed 13 unarmed soldiers in the deadliest non-combat attack on a US military base, faces execution by firing squad.",
+    "lang": "en",
+    "source": "BBC World",
+    "url": "https://www.bbc.co.uk/news/articles/cq8ezkkkrpy1o?at_medium=RSS&at_campaign=rss",
+    "published": "2026-10-06T02:22:24+00:00",
+    "event_id": "26e8279a5a1f",
+    "sources": [
+     {
+      "title": "Fort Hood shooter to be executed by firing squad - a first for US military since World War Two",
+      "summary": "Nidal Malik Hasan, who killed 13 unarmed soldiers in the deadliest non-combat attack on a US military base, faces execution by firing squad.",
+      "lang": "en",
+      "source": "BBC World",
+      "url": "https://www.bbc.co.uk/news/articles/cq8ezkkkrpy1o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-06T02:22:24+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "What voters in 6 key states could tell us about the 2026 midterms",
+    "summary": "NPR is visiting six key swing states to gather voter perspectives on issues shaping decisions ahead of the 2026 midterm elections.",
+    "lang": "en",
+    "source": "NPR World",
+    "url": "https://www.npr.org/2026/10/06/g-s1-146559/morning-edition-2026-midterms-election-voters-states",
+    "published": "2026-10-06T11:00:00+00:00",
+    "event_id": "7162d8bab811",
+    "sources": [
+     {
+      "title": "What voters in 6 key states could tell us about the 2026 midterms",
+      "summary": "NPR is visiting six key swing states to gather voter perspectives on issues shaping decisions ahead of the 2026 midterm elections.",
+      "lang": "en",
+      "source": "NPR World",
+      "url": "https://www.npr.org/2026/10/06/g-s1-146559/morning-edition-2026-midterms-election-voters-states",
+      "published": "2026-10-06T11:00:00+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "Argentina to stop Falklands exploiting offshore oilfields, country’s foreign minister says",
+    "summary": "Argentina's foreign minister announced plans to prevent the Falkland Islands from exploiting offshore oilfields as part of sovereignty reassertion strategy.",
+    "lang": "en",
+    "source": "The Guardian World",
+    "url": "https://www.theguardian.com/uk-news/2026/oct/06/argentina-to-stop-falkland-islands-exploiting-offshore-oilfields-sovereignty",
+    "published": "2026-10-06T11:40:03+00:00",
+    "event_id": "58d15ca5c079",
+    "sources": [
+     {
+      "title": "Argentina to stop Falklands exploiting offshore oilfields, country’s foreign minister says",
+      "summary": "Argentina's foreign minister announced plans to prevent the Falkland Islands from exploiting offshore oilfields as part of sovereignty reassertion strategy.",
+      "lang": "en",
+      "source": "The Guardian World",
+      "url": "https://www.theguardian.com/uk-news/2026/oct/06/argentina-to-stop-falkland-islands-exploiting-offshore-oilfields-sovereignty",
+      "published": "2026-10-06T11:40:03+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "Flávio Bolsonaro poised to win Brazilian presidency after shock first-round victory",
+    "summary": "Flávio Bolsonaro moved into pole position for Brazil's presidency after a shock first-round victory over incumbent Luiz Inácio Lula da Silva.",
+    "lang": "en",
+    "source": "The Guardian World",
+    "url": "https://www.theguardian.com/world/2026/oct/05/flavio-bolsonaro-brazilian-presidency-election-shock-first-round-victory",
+    "published": "2026-10-05T20:06:18+00:00",
+    "event_id": "186f35b430b2",
+    "sources": [
+     {
+      "title": "Flávio Bolsonaro poised to win Brazilian presidency after shock first-round victory",
+      "summary": "Flávio Bolsonaro moved into pole position for Brazil's presidency after a shock first-round victory over incumbent Luiz Inácio Lula da Silva.",
+      "lang": "en",
+      "source": "The Guardian World",
+      "url": "https://www.theguardian.com/world/2026/oct/05/flavio-bolsonaro-brazilian-presidency-election-shock-first-round-victory",
+      "published": "2026-10-05T20:06:18+00:00"
+     }
+    ],
+    "status": "unchanged",
+    "change_summary": "",
+    "previous_date": "2026-10-05",
+    "previous_event_id": "186f35b430b2"
+   }
+  ],
+  "politica|asia": [
+   {
+    "title": "Takaichi asked Trump to broker Japan-North Korea summit",
+    "summary": "Japanese official Takaichi asked Trump to broker a summit between Japan and North Korea to resolve stalled abduction negotiations.",
+    "lang": "en",
+    "source": "Japan Times",
+    "url": "https://www.japantimes.co.jp/news/2026/10/06/japan/takaichi-trump-north-korea-abductee/",
+    "published": "2026-10-06T10:28:00+00:00",
+    "event_id": "adb82d576ecd",
+    "sources": [
+     {
+      "title": "Takaichi asked Trump to broker Japan-North Korea summit",
+      "summary": "Japanese official Takaichi asked Trump to broker a summit between Japan and North Korea to resolve stalled abduction negotiations.",
+      "lang": "en",
+      "source": "Japan Times",
+      "url": "https://www.japantimes.co.jp/news/2026/10/06/japan/takaichi-trump-north-korea-abductee/",
+      "published": "2026-10-06T10:28:00+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "US and China discuss reciprocal visits to nuclear sites: Reports",
+    "summary": "The US and China are discussing reciprocal visits to nuclear sites, with China initially proposing the idea in recent meetings.",
+    "lang": "en",
+    "source": "Channel NewsAsia",
+    "url": "https://www.channelnewsasia.com/asia/us-china-nuclear-sites-visits-6436266",
+    "published": "2026-10-06T11:55:42+00:00",
+    "event_id": "1f8348bcb500",
+    "sources": [
+     {
+      "title": "US and China discuss reciprocal visits to nuclear sites: Reports",
+      "summary": "The US and China are discussing reciprocal visits to nuclear sites, with China initially proposing the idea in recent meetings.",
+      "lang": "en",
+      "source": "Channel NewsAsia",
+      "url": "https://www.channelnewsasia.com/asia/us-china-nuclear-sites-visits-6436266",
+      "published": "2026-10-06T11:55:42+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "蔡英文7日赴史丹佛演講 專家：凸顯台灣特殊戰略地位",
+    "summary": "前总统蔡英文将在斯坦福大学发表演讲，凸显台湾在全球芯片供应链和美台防卫合作中的不可替代战略地位。",
+    "lang": "zh",
+    "source": "中央社 CNA",
+    "url": "https://www.cna.com.tw/news/aopl/202610060234.aspx",
+    "published": "2026-10-06T09:27:30+00:00",
+    "event_id": "df1199e9343b",
+    "sources": [
+     {
+      "title": "蔡英文7日赴史丹佛演講 專家：凸顯台灣特殊戰略地位",
+      "summary": "前总统蔡英文将在斯坦福大学发表演讲，凸显台湾在全球芯片供应链和美台防卫合作中的不可替代战略地位。",
+      "lang": "zh",
+      "source": "中央社 CNA",
+      "url": "https://www.cna.com.tw/news/aopl/202610060234.aspx",
+      "published": "2026-10-06T09:27:30+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "Israel threatens to make Gazans pay 'heavy price' for any Hamas attack during October 7 anniversary",
+    "summary": "Israeli Defense Minister Katz ordered military vigilance increased in Gaza ahead of the October 7 anniversary, threatening consequences for Hamas attacks.",
+    "lang": "en",
+    "source": "Le Monde International",
+    "url": "https://www.lemonde.fr/en/international/article/2026/10/06/israel-threatens-to-make-gazans-pay-heavy-price-for-any-hamas-attack-during-october-7-anniversary_6758301_4.html",
+    "published": "2026-10-06T10:14:35+00:00",
+    "event_id": "121c9d8d4534",
+    "sources": [
+     {
+      "title": "Israel threatens to make Gazans pay 'heavy price' for any Hamas attack during October 7 anniversary",
+      "summary": "Israeli Defense Minister Katz ordered military vigilance increased in Gaza ahead of the October 7 anniversary, threatening consequences for Hamas attacks.",
+      "lang": "en",
+      "source": "Le Monde International",
+      "url": "https://www.lemonde.fr/en/international/article/2026/10/06/israel-threatens-to-make-gazans-pay-heavy-price-for-any-hamas-attack-during-october-7-anniversary_6758301_4.html",
+      "published": "2026-10-06T10:14:35+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "In Iraq, ISIS members once jailed in Syria face trial",
+    "summary": "ISIS members once detained in Syria, including French suspects, now face trial in Iraq following their transfer from Syrian camps.",
+    "lang": "en",
+    "source": "NPR World",
+    "url": "https://www.npr.org/2026/10/05/nx-s1-5991613/in-iraq-isis-members-once-jailed-in-syria-face-trial",
+    "published": "2026-10-05T22:04:44+00:00",
+    "event_id": "526412b37066",
+    "sources": [
+     {
+      "title": "In Iraq, ISIS members once jailed in Syria face trial",
+      "summary": "ISIS members once detained in Syria, including French suspects, now face trial in Iraq following their transfer from Syrian camps.",
+      "lang": "en",
+      "source": "NPR World",
+      "url": "https://www.npr.org/2026/10/05/nx-s1-5991613/in-iraq-isis-members-once-jailed-in-syria-face-trial",
+      "published": "2026-10-05T22:04:44+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "EEUU ha encontrado una isla a 110 km de Taiwán para colocar sus misiles de 185 km de alcance: el objetivo está muy claro",
+    "summary": "Estados Unidos desplegará misiles de 185 km de alcance en una isla japonesa cercana a Taiwán durante maniobras militares este mes.",
+    "lang": "es",
+    "source": "Xataka",
+    "url": "https://www.xataka.com/magnet/eeuu-ha-encontrado-isla-a-110-km-taiwan-para-colocar-sus-misiles-185-km-alcance-objetivo-esta-muy-claro",
+    "published": "2026-10-06T10:31:22+00:00",
+    "event_id": "9917c829d69e",
+    "sources": [
+     {
+      "title": "EEUU ha encontrado una isla a 110 km de Taiwán para colocar sus misiles de 185 km de alcance: el objetivo está muy claro",
+      "summary": "Estados Unidos desplegará misiles de 185 km de alcance en una isla japonesa cercana a Taiwán durante maniobras militares este mes.",
+      "lang": "es",
+      "source": "Xataka",
+      "url": "https://www.xataka.com/magnet/eeuu-ha-encontrado-isla-a-110-km-taiwan-para-colocar-sus-misiles-185-km-alcance-objetivo-esta-muy-claro",
+      "published": "2026-10-06T10:31:22+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   }
+  ],
+  "politica|europa": [
+   {
+    "title": "俄官員：逾650架烏克蘭無人機飛往莫斯科 釀2死9傷",
+    "summary": "俄罗斯莫斯科州长表示，乌克兰无人机夜间攻击造成该州2人死亡、9人受伤。",
+    "lang": "zh",
+    "source": "中央社 CNA",
+    "url": "https://www.cna.com.tw/news/aopl/202610060228.aspx",
+    "published": "2026-10-06T09:15:17+00:00",
+    "event_id": "4a7f2ca0bdbb",
+    "sources": [
+     {
+      "title": "俄官員：逾650架烏克蘭無人機飛往莫斯科 釀2死9傷",
+      "summary": "俄罗斯莫斯科州长表示，乌克兰无人机夜间攻击造成该州2人死亡、9人受伤。",
+      "lang": "zh",
+      "source": "中央社 CNA",
+      "url": "https://www.cna.com.tw/news/aopl/202610060228.aspx",
+      "published": "2026-10-06T09:15:17+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "Former German spy chief arrested for espionage and treason",
+    "summary": "Former German spy chief August Hanning was arrested on accusations of obtaining classified information for a foreign power.",
+    "lang": "en",
+    "source": "BBC World",
+    "url": "https://www.bbc.co.uk/news/articles/c58jzyer1kr0o?at_medium=RSS&at_campaign=rss",
+    "published": "2026-10-06T10:05:42+00:00",
+    "event_id": "6b094b95e20f",
+    "sources": [
+     {
+      "title": "Former German spy chief arrested for espionage and treason",
+      "summary": "Former German spy chief August Hanning was arrested on accusations of obtaining classified information for a foreign power.",
+      "lang": "en",
+      "source": "BBC World",
+      "url": "https://www.bbc.co.uk/news/articles/c58jzyer1kr0o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-06T10:05:42+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "Russia's reassurances only fuel anxiety over suspected plague outbreak in Siberia",
+    "summary": "Russian government reassurances about a suspected plague outbreak in Siberia fuel anxiety as quarantine measures expand and statements conflict.",
+    "lang": "en",
+    "source": "Le Monde International",
+    "url": "https://www.lemonde.fr/en/environment/article/2026/10/06/russia-s-reassurances-only-fuel-anxiety-over-suspected-plague-outbreak-in-siberia_6758298_114.html",
+    "published": "2026-10-06T09:47:03+00:00",
+    "event_id": "81c7dd3e0cde",
+    "sources": [
+     {
+      "title": "Russia's reassurances only fuel anxiety over suspected plague outbreak in Siberia",
+      "summary": "Russian government reassurances about a suspected plague outbreak in Siberia fuel anxiety as quarantine measures expand and statements conflict.",
+      "lang": "en",
+      "source": "Le Monde International",
+      "url": "https://www.lemonde.fr/en/environment/article/2026/10/06/russia-s-reassurances-only-fuel-anxiety-over-suspected-plague-outbreak-in-siberia_6758298_114.html",
+      "published": "2026-10-06T09:47:03+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "Russian drones strike Ukraine’s data centers by exploiting air defense gaps",
+    "summary": "Russian drone strikes on Ukraine's data centers exploit air defense gaps, threatening wartime internet and phone services critical to the economy.",
+    "lang": "en",
+    "source": "Ars Technica",
+    "url": "https://arstechnica.com/gadgets/2026/10/russian-drones-strike-ukraines-data-centers-by-exploiting-air-defense-gaps/",
+    "published": "2026-10-05T17:21:11+00:00",
+    "event_id": "9bdb34782c42",
+    "sources": [
+     {
+      "title": "Russian drones strike Ukraine’s data centers by exploiting air defense gaps",
+      "summary": "Russian drone strikes on Ukraine's data centers exploit air defense gaps, threatening wartime internet and phone services critical to the economy.",
+      "lang": "en",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/gadgets/2026/10/russian-drones-strike-ukraines-data-centers-by-exploiting-air-defense-gaps/",
+      "published": "2026-10-05T17:21:11+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   }
+  ],
+  "tecnologia|america": [
+   {
+    "title": "Type One Energy raised $200M to build a fusion power plant by 2034",
+    "summary": "Type One Energy raised $200 million to build a fusion power plant by 2034, betting its lean approach will speed grid deployment.",
+    "lang": "en",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/10/06/type-one-energy-raised-200m-to-build-a-fusion-power-plant-by-2034/",
+    "published": "2026-10-06T12:00:00+00:00",
+    "event_id": "bdcb8f51bd29",
+    "sources": [
+     {
+      "title": "Type One Energy raised $200M to build a fusion power plant by 2034",
+      "summary": "Type One Energy raised $200 million to build a fusion power plant by 2034, betting its lean approach will speed grid deployment.",
+      "lang": "en",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/10/06/type-one-energy-raised-200m-to-build-a-fusion-power-plant-by-2034/",
+      "published": "2026-10-06T12:00:00+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "SpaceX desafía décadas de superstición de la NASA y lanza con éxito una misión tripulada con el número 13",
+    "summary": "SpaceX lanzó exitosamente una misión tripulada con el número 13, desafiando la superstición histórica de la NASA sobre esta cifra.",
+    "lang": "es",
+    "source": "Xataka",
+    "url": "https://www.xataka.com/espacio/spacex-desafia-a-supersticion-crew-13-llega-a-estacion-espacial-internacional-miedo-al-numero-maldito-misiones-apolo",
+    "published": "2026-10-06T11:01:22+00:00",
+    "event_id": "6fc951b06a8c",
+    "sources": [
+     {
+      "title": "SpaceX desafía décadas de superstición de la NASA y lanza con éxito una misión tripulada con el número 13",
+      "summary": "SpaceX lanzó exitosamente una misión tripulada con el número 13, desafiando la superstición histórica de la NASA sobre esta cifra.",
+      "lang": "es",
+      "source": "Xataka",
+      "url": "https://www.xataka.com/espacio/spacex-desafia-a-supersticion-crew-13-llega-a-estacion-espacial-internacional-miedo-al-numero-maldito-misiones-apolo",
+      "published": "2026-10-06T11:01:22+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "Sam Altman sobre el futuro de la IA: \"El mundo debería aceptar algunas cosas malas a cambio de los beneficios de la IA\"",
+    "summary": "Sam Altman sostiene que el mundo debe aceptar algunos efectos negativos de la inteligencia artificial para obtener sus beneficios globales.",
+    "lang": "es",
+    "source": "Xataka",
+    "url": "https://www.xataka.com/robotica-e-ia/sam-altman-futuro-ia-mundo-deberia-aceptar-algunas-cosas-malas-a-cambio-beneficios-ia",
+    "published": "2026-10-06T11:45:19+00:00",
+    "event_id": "f5e839bf95de",
+    "sources": [
+     {
+      "title": "Sam Altman sobre el futuro de la IA: \"El mundo debería aceptar algunas cosas malas a cambio de los beneficios de la IA\"",
+      "summary": "Sam Altman sostiene que el mundo debe aceptar algunos efectos negativos de la inteligencia artificial para obtener sus beneficios globales.",
+      "lang": "es",
+      "source": "Xataka",
+      "url": "https://www.xataka.com/robotica-e-ia/sam-altman-futuro-ia-mundo-deberia-aceptar-algunas-cosas-malas-a-cambio-beneficios-ia",
+      "published": "2026-10-06T11:45:19+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "2026 諾貝爾物理學獎一人獨得，美籍學者推動南極天文台活捉宇宙微中子",
+    "summary": "美籍学者因推动南极天文台捕捉宇宙微中子的研究，独得2026年诺贝尔物理学奖。",
+    "lang": "zh",
+    "source": "科技新報 TechNews",
+    "url": "https://technews.tw/2026/10/06/francis-halzen-icecube-neutrino-nobel-prize-in-physics/",
+    "published": "2026-10-06T11:15:45+00:00",
+    "event_id": "5bf20461f94e",
+    "sources": [
+     {
+      "title": "2026 諾貝爾物理學獎一人獨得，美籍學者推動南極天文台活捉宇宙微中子",
+      "summary": "美籍学者因推动南极天文台捕捉宇宙微中子的研究，独得2026年诺贝尔物理学奖。",
+      "lang": "zh",
+      "source": "科技新報 TechNews",
+      "url": "https://technews.tw/2026/10/06/francis-halzen-icecube-neutrino-nobel-prize-in-physics/",
+      "published": "2026-10-06T11:15:45+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "紐約市議會審AI監管草案，四大業者宣誓作證回應模型安全要求",
+    "summary": "纽约市议会审议AI监管草案，OpenAI、Anthropic、Google与Meta代表就模型安全要求作证。",
+    "lang": "zh",
+    "source": "iThome 台灣",
+    "url": "https://www.ithome.com.tw/news/179440",
+    "published": "2026-10-06T04:10:35+00:00",
+    "event_id": "3adf657d7a75",
+    "sources": [
+     {
+      "title": "紐約市議會審AI監管草案，四大業者宣誓作證回應模型安全要求",
+      "summary": "纽约市议会审议AI监管草案，OpenAI、Anthropic、Google与Meta代表就模型安全要求作证。",
+      "lang": "zh",
+      "source": "iThome 台灣",
+      "url": "https://www.ithome.com.tw/news/179440",
+      "published": "2026-10-06T04:10:35+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "Reflection debuts Beam, an open-weight AI model to rival Chinese models at lower compute cost",
+    "summary": "Reflection debuted Beam, an open-weight AI model targeting enterprises and nations with lower compute costs than Chinese competitors.",
+    "lang": "en",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/10/05/reflection-debuts-beam-a-open-weight-ai-model-to-rival-chinese-models-at-lower-compute-cost/",
+    "published": "2026-10-05T19:33:53+00:00",
+    "event_id": "7b4f1d8476b5",
+    "sources": [
+     {
+      "title": "Reflection debuts Beam, an open-weight AI model to rival Chinese models at lower compute cost",
+      "summary": "Reflection debuted Beam, an open-weight AI model targeting enterprises and nations with lower compute costs than Chinese competitors.",
+      "lang": "en",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/10/05/reflection-debuts-beam-a-open-weight-ai-model-to-rival-chinese-models-at-lower-compute-cost/",
+      "published": "2026-10-05T19:33:53+00:00"
+     }
+    ],
+    "status": "unchanged",
+    "change_summary": "",
+    "previous_date": "2026-10-05",
+    "previous_event_id": "7b4f1d8476b5"
+   }
+  ],
+  "tecnologia|europa": [
+   {
+    "title": "OpenAI will start watermarking ChatGPT’s text in the EU",
+    "summary": "OpenAI will watermark ChatGPT and Codex text in the EU to comply with AI Act regulations, though editing can reduce mark detectability.",
+    "lang": "en",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/10/05/openai-will-start-watermarking-chatgpts-text-in-the-eu/",
+    "published": "2026-10-05T20:36:48+00:00",
+    "event_id": "549ccc4aeee7",
+    "sources": [
+     {
+      "title": "OpenAI will start watermarking ChatGPT’s text in the EU",
+      "summary": "OpenAI will watermark ChatGPT and Codex text in the EU to comply with AI Act regulations, though editing can reduce mark detectability.",
+      "lang": "en",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/10/05/openai-will-start-watermarking-chatgpts-text-in-the-eu/",
+      "published": "2026-10-05T20:36:48+00:00"
+     },
+     {
+      "title": "Our approach to EU text provenance rules",
+      "summary": "OpenAI outlined its approach to implementing text watermarking in the EU under AI Act compliance requirements for transparency.",
+      "lang": "en",
+      "source": "OpenAI News",
+      "url": "https://openai.com/index/eu-text-provenance",
+      "published": "2026-10-05T15:00:00+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "荷蘭漏洞揭露協會遭AI自主攻擊，攻擊者利用開源IT服務與客服系統Zammad零時差漏洞得到初期存取管道",
+    "summary": "荷兰漏洞揭露协会遭AI自主攻击，攻击者利用开源系统Zammad零时差漏洞进行初期入侵。",
+    "lang": "zh",
+    "source": "iThome 台灣",
+    "url": "https://www.ithome.com.tw/news/179447",
+    "published": "2026-10-06T05:10:42+00:00",
+    "event_id": "6bf15fc44b32",
+    "sources": [
+     {
+      "title": "荷蘭漏洞揭露協會遭AI自主攻擊，攻擊者利用開源IT服務與客服系統Zammad零時差漏洞得到初期存取管道",
+      "summary": "荷兰漏洞揭露协会遭AI自主攻击，攻击者利用开源系统Zammad零时差漏洞进行初期入侵。",
+      "lang": "zh",
+      "source": "iThome 台灣",
+      "url": "https://www.ithome.com.tw/news/179447",
+      "published": "2026-10-06T05:10:42+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "郵件伺服器Zimbra高風險漏洞在公開前就遭到利用",
+    "summary": "邮件服务器Zimbra的命令注入漏洞在公开补丁前就遭到利用，攻击活动可追溯至7月底。",
+    "lang": "zh",
+    "source": "iThome 台灣",
+    "url": "https://www.ithome.com.tw/news/179445",
+    "published": "2026-10-06T04:10:43+00:00",
+    "event_id": "fc1cafec978a",
+    "sources": [
+     {
+      "title": "郵件伺服器Zimbra高風險漏洞在公開前就遭到利用",
+      "summary": "邮件服务器Zimbra的命令注入漏洞在公开补丁前就遭到利用，攻击活动可追溯至7月底。",
+      "lang": "zh",
+      "source": "iThome 台灣",
+      "url": "https://www.ithome.com.tw/news/179445",
+      "published": "2026-10-06T04:10:43+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   }
+  ],
+  "tecnologia|asia": [
+   {
+    "title": "軟體定義汽車時代，車輛資安成出海新標準，ARTC與美、德合作成立國內首個車輛資安實驗室",
+    "summary": "工业技术研究院与美、德合作成立台湾首个车辆资安实验室，应对软件定义汽车时代的安全需求。",
+    "lang": "zh",
+    "source": "iThome 台灣",
+    "url": "https://www.ithome.com.tw/news/179457",
+    "published": "2026-10-06T07:10:20+00:00",
+    "event_id": "a636d87dd406",
+    "sources": [
+     {
+      "title": "軟體定義汽車時代，車輛資安成出海新標準，ARTC與美、德合作成立國內首個車輛資安實驗室",
+      "summary": "工业技术研究院与美、德合作成立台湾首个车辆资安实验室，应对软件定义汽车时代的安全需求。",
+      "lang": "zh",
+      "source": "iThome 台灣",
+      "url": "https://www.ithome.com.tw/news/179457",
+      "published": "2026-10-06T07:10:20+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   }
+  ]
+ }
+}
