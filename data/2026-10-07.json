@@ -1,0 +1,862 @@
+{
+ "date": "2026-10-07",
+ "generated_at": "2026-10-07T11:55:42.700845+00:00",
+ "mode": "full",
+ "cost_usd": 0.0508,
+ "radar_cost_usd": 0.0056,
+ "events": {
+  "mode": "full",
+  "compared_with": "2026-10-06",
+  "articles": 36,
+  "uncompared_articles": 0,
+  "events": 32,
+  "cost_usd": 0.0203
+ },
+ "radar": {
+  "items": [
+   {
+    "id": "gh-1365776373",
+    "source": "GitHub",
+    "kind": "project",
+    "title": "qiz029/dscode",
+    "url": "https://github.com/qiz029/dscode",
+    "discussion_url": "",
+    "published": "2026-09-11T09:40:02Z",
+    "lang": "en",
+    "excerpt": "A DeepSeek coding agent harness: persistent shell, Ultra subagents, auto approval, Chrome MCP and session telemetry",
+    "signal": {
+     "stars_total": 1021
+    },
+    "summary": "qiz029/dscode presents a DeepSeek coding agent harness with persistent shell, Ultra subagents, auto-approval, Chrome MCP and session telemetry.",
+    "usefulness": "Could help Python developers prototype autonomous coding agents that maintain state across sessions and integrate browser automation.",
+    "to_verify": "Whether the persistent shell actually preserves agent context across interruptions, and what telemetry data is collected and stored."
+   },
+   {
+    "id": "gh-1360367824",
+    "source": "GitHub",
+    "kind": "project",
+    "title": "undefined-ui/second-brain-os",
+    "url": "https://github.com/undefined-ui/second-brain-os",
+    "discussion_url": "",
+    "published": "2026-09-07T15:08:13Z",
+    "lang": "en",
+    "excerpt": "An AI second brain that maintains itself. Full guide, starter vault, agent skills and scripts for a self-organizing knowledge base in Claude Code and Obsidian.",
+    "signal": {
+     "stars_total": 1000
+    },
+    "summary": "undefined-ui/second-brain-os describes an AI second brain maintaining itself, offering a guide, starter vault, agent skills and scripts for self-organizing knowledge in Claude Code and Obsidian.",
+    "usefulness": "Might enable building document analysis pipelines where AI agents autonomously organize and retrieve knowledge without manual taxonomy maintenance.",
+    "to_verify": "How the knowledge base detects organizational decay, what triggers re-indexing, and whether it handles conflicting categorizations."
+   },
+   {
+    "id": "gh-1393965829",
+    "source": "GitHub",
+    "kind": "project",
+    "title": "KKKKhazix/AIHOT",
+    "url": "https://github.com/KKKKhazix/AIHOT",
+    "discussion_url": "",
+    "published": "2026-09-28T23:40:05Z",
+    "lang": "zh",
+    "excerpt": "一个自己找热点、自己写日报的网站框架。把信源和精选标准换成你的，它就是你的行业热点站。",
+    "signal": {
+     "stars_total": 6312
+    },
+    "summary": "KKKKhazix/AIHOT说是一个自己找热点、自己写日报的网站框架。用户可以换信源和精选标准，就能创建行业热点站。",
+    "usefulness": "可能有助于构建文档分析工具，自动发现话题趋势并生成摘要，若能替换数据源则适用多个领域。",
+    "to_verify": "框架如何评估热点优先级，是否有内置的信源可靠性检查，以及生成日报的幻觉率是否可接受。"
+   }
+  ],
+  "mode": "full",
+  "failed_sources": []
+ },
+ "market": null,
+ "failed_sources": [],
+ "cells": {
+  "economia|asia": [
+   {
+    "title": "India raises interest rates for first time in 3 years",
+    "summary": "India's central bank raised interest rates for the first time in three years, citing higher inflation and energy costs as it shifts toward tightening monetary policy.",
+    "lang": "en",
+    "source": "FT Global Economy",
+    "url": "https://www.ft.com/content/713ccee6-855f-48d8-acf1-161265041ad8?syn-25a6b1a6=1",
+    "published": "2026-10-07T07:04:34+00:00",
+    "event_id": "29a15be69049",
+    "sources": [
+     {
+      "title": "India raises interest rates for first time in 3 years",
+      "summary": "India's central bank raised interest rates for the first time in three years, citing higher inflation and energy costs as it shifts toward tightening monetary policy.",
+      "lang": "en",
+      "source": "FT Global Economy",
+      "url": "https://www.ft.com/content/713ccee6-855f-48d8-acf1-161265041ad8?syn-25a6b1a6=1",
+      "published": "2026-10-07T07:04:34+00:00"
+     },
+     {
+      "title": "India's central bank delivers first rate hike since 2023 as inflation bites",
+      "summary": "India's RBI delivered its first rate hike since 2023 as inflation pressures continue to mount across the economy.",
+      "lang": "en",
+      "source": "Nikkei Asia",
+      "url": "https://asia.nikkei.com/business/markets/india-s-central-bank-delivers-first-rate-hike-since-2023-as-inflation-bites",
+      "published": null
+     },
+     {
+      "title": "印度央行調高基準利率1碼 2023年以來首見升息",
+      "summary": "印度央行上调基准利率1厘，是2023年以来首次升息，以应对中东冲突加剧的通胀压力和疲弱卢比。",
+      "lang": "zh",
+      "source": "中央社 CNA",
+      "url": "https://www.cna.com.tw/news/aopl/202610070300.aspx",
+      "published": "2026-10-07T10:45:08+00:00"
+     }
+    ],
+    "status": "updated",
+    "change_summary": "India raises interest rates for first time in 3 years",
+    "previous_date": "2026-10-06",
+    "previous_event_id": "29a15be69049"
+   }
+  ],
+  "politica|asia": [
+   {
+    "title": "Indonesia's new labor law soothes workers, worries businesses",
+    "summary": "Indonesia's new labor law pleases workers with improved protections while creating concerns among businesses about compliance costs and operational flexibility.",
+    "lang": "en",
+    "source": "Nikkei Asia",
+    "url": "https://asia.nikkei.com/politics/indonesia-s-new-labor-law-soothes-workers-worries-businesses2",
+    "published": null,
+    "event_id": "f96400218d84",
+    "sources": [
+     {
+      "title": "Indonesia's new labor law soothes workers, worries businesses",
+      "summary": "Indonesia's new labor law pleases workers with improved protections while creating concerns among businesses about compliance costs and operational flexibility.",
+      "lang": "en",
+      "source": "Nikkei Asia",
+      "url": "https://asia.nikkei.com/politics/indonesia-s-new-labor-law-soothes-workers-worries-businesses2",
+      "published": null
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "How will new longer-range aircraft boost Manila’s South China Sea surveillance?",
+    "summary": "The Philippines will receive three longer-range aircraft from the US, including two modified for enhanced surveillance of the South China Sea.",
+    "lang": "en",
+    "source": "South China Morning Post (China)",
+    "url": "https://www.scmp.com/news/china/military/article/3370027/how-will-new-longer-range-aircraft-boost-manilas-south-china-sea-surveillance?utm_source=rss_feed",
+    "published": "2026-10-07T11:00:14+00:00",
+    "event_id": "399113717c92",
+    "sources": [
+     {
+      "title": "How will new longer-range aircraft boost Manila’s South China Sea surveillance?",
+      "summary": "The Philippines will receive three longer-range aircraft from the US, including two modified for enhanced surveillance of the South China Sea.",
+      "lang": "en",
+      "source": "South China Morning Post (China)",
+      "url": "https://www.scmp.com/news/china/military/article/3370027/how-will-new-longer-range-aircraft-boost-manilas-south-china-sea-surveillance?utm_source=rss_feed",
+      "published": "2026-10-07T11:00:14+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "China’s foreign minister suggested Takaichi resolve Taiwan remark issue",
+    "summary": "China's foreign minister suggested to former Japanese Foreign Minister Takeshi Iwaya that they resolve recent Taiwan-related remarks to improve bilateral relations.",
+    "lang": "en",
+    "source": "Japan Times",
+    "url": "https://www.japantimes.co.jp/news/2026/10/07/japan/wang-takaichi-taiwan-remark/",
+    "published": "2026-10-07T09:29:00+00:00",
+    "event_id": "7876558f4c07",
+    "sources": [
+     {
+      "title": "China’s foreign minister suggested Takaichi resolve Taiwan remark issue",
+      "summary": "China's foreign minister suggested to former Japanese Foreign Minister Takeshi Iwaya that they resolve recent Taiwan-related remarks to improve bilateral relations.",
+      "lang": "en",
+      "source": "Japan Times",
+      "url": "https://www.japantimes.co.jp/news/2026/10/07/japan/wang-takaichi-taiwan-remark/",
+      "published": "2026-10-07T09:29:00+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "What to know about nationwide protests in India over voter list changes",
+    "summary": "India faces nationwide protests against voter list changes led by the youth 'Cockroach' movement, which previously forced an education minister's resignation.",
+    "lang": "en",
+    "source": "NPR World",
+    "url": "https://www.npr.org/2026/10/06/g-s1-146636/what-to-know-about-nationwide-protests-in-india-over-voter-list-changes",
+    "published": "2026-10-06T11:44:06+00:00",
+    "event_id": "af96debcc558",
+    "sources": [
+     {
+      "title": "What to know about nationwide protests in India over voter list changes",
+      "summary": "India faces nationwide protests against voter list changes led by the youth 'Cockroach' movement, which previously forced an education minister's resignation.",
+      "lang": "en",
+      "source": "NPR World",
+      "url": "https://www.npr.org/2026/10/06/g-s1-146636/what-to-know-about-nationwide-protests-in-india-over-voter-list-changes",
+      "published": "2026-10-06T11:44:06+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   }
+  ],
+  "economia|europa": [
+   {
+    "title": "Hungary Sees GDP Growth Upswing, Bond Rally on Euro Path",
+    "summary": "Hungary's finance minister expects GDP growth to accelerate next year, with euro adoption likely to drive further bond market gains.",
+    "lang": "en",
+    "source": "Bloomberg Economics",
+    "url": "https://www.bloomberg.com/news/articles/2026-10-07/hungary-sees-economic-growth-upswing-bond-rally-on-euro-path",
+    "published": "2026-10-07T07:46:24+00:00",
+    "event_id": "dc05bffb21b0",
+    "sources": [
+     {
+      "title": "Hungary Sees GDP Growth Upswing, Bond Rally on Euro Path",
+      "summary": "Hungary's finance minister expects GDP growth to accelerate next year, with euro adoption likely to drive further bond market gains.",
+      "lang": "en",
+      "source": "Bloomberg Economics",
+      "url": "https://www.bloomberg.com/news/articles/2026-10-07/hungary-sees-economic-growth-upswing-bond-rally-on-euro-path",
+      "published": "2026-10-07T07:46:24+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "France Turmoil Threatens to Drag ECB Into Bond Market Showdown",
+    "summary": "France's political and economic crises risk pulling the ECB into a major confrontation with investors over bond market stability in the eurozone.",
+    "lang": "en",
+    "source": "Bloomberg Economics",
+    "url": "https://www.bloomberg.com/news/articles/2026-10-07/france-turmoil-threatens-to-drag-ecb-into-bond-market-showdown-muy1qgr1",
+    "published": "2026-10-07T11:03:42+00:00",
+    "event_id": "7821dcec5c7f",
+    "sources": [
+     {
+      "title": "France Turmoil Threatens to Drag ECB Into Bond Market Showdown",
+      "summary": "France's political and economic crises risk pulling the ECB into a major confrontation with investors over bond market stability in the eurozone.",
+      "lang": "en",
+      "source": "Bloomberg Economics",
+      "url": "https://www.bloomberg.com/news/articles/2026-10-07/france-turmoil-threatens-to-drag-ecb-into-bond-market-showdown-muy1qgr1",
+      "published": "2026-10-07T11:03:42+00:00"
+     },
+     {
+      "title": "The bond market turns on France",
+      "summary": "France faces a pre-election bond market sell-off driven by debt concerns, threatening stability across the eurozone if the crisis deepens.",
+      "lang": "en",
+      "source": "FT Global Economy",
+      "url": "https://www.ft.com/content/9b252b46-a87c-45e7-a09a-45a39ce077b8?syn-25a6b1a6=1",
+      "published": "2026-10-06T14:00:17+00:00"
+     }
+    ],
+    "status": "updated",
+    "change_summary": "France Turmoil Threatens to Drag ECB Into Bond Market Showdown",
+    "previous_date": "2026-10-06",
+    "previous_event_id": "7821dcec5c7f"
+   },
+   {
+    "title": "Ireland offers tax cuts in budget to help with cost of living",
+    "summary": "Ireland announced tax cuts in its budget to address cost-of-living concerns while warning it relies too heavily on volatile US corporate tax revenues.",
+    "lang": "en",
+    "source": "FT Global Economy",
+    "url": "https://www.ft.com/content/094a93af-ad94-4db2-8254-bc415d5161a6?syn-25a6b1a6=1",
+    "published": "2026-10-06T14:59:05+00:00",
+    "event_id": "d169f1e20568",
+    "sources": [
+     {
+      "title": "Ireland offers tax cuts in budget to help with cost of living",
+      "summary": "Ireland announced tax cuts in its budget to address cost-of-living concerns while warning it relies too heavily on volatile US corporate tax revenues.",
+      "lang": "en",
+      "source": "FT Global Economy",
+      "url": "https://www.ft.com/content/094a93af-ad94-4db2-8254-bc415d5161a6?syn-25a6b1a6=1",
+      "published": "2026-10-06T14:59:05+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "IMF’s Georgieva urges governments to rein in spending",
+    "summary": "IMF Managing Director Georgieva urges governments to control spending as they face difficult political decisions to combat rising bond yields.",
+    "lang": "en",
+    "source": "FT Global Economy",
+    "url": "https://www.ft.com/content/7eb5da58-d909-4cec-9a30-1c6ec8ffb0a6?syn-25a6b1a6=1",
+    "published": "2026-10-07T06:00:02+00:00",
+    "event_id": "e368b5043295",
+    "sources": [
+     {
+      "title": "IMF’s Georgieva urges governments to rein in spending",
+      "summary": "IMF Managing Director Georgieva urges governments to control spending as they face difficult political decisions to combat rising bond yields.",
+      "lang": "en",
+      "source": "FT Global Economy",
+      "url": "https://www.ft.com/content/7eb5da58-d909-4cec-9a30-1c6ec8ffb0a6?syn-25a6b1a6=1",
+      "published": "2026-10-07T06:00:02+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   }
+  ],
+  "politica|america": [
+   {
+    "title": "Trump says he is considering suspending federal petrol tax",
+    "summary": "Trump is considering suspending the federal petrol tax amid rising fuel prices four weeks before midterm elections to ease political pressure.",
+    "lang": "en",
+    "source": "Financial Times",
+    "url": "https://www.ft.com/content/3fd43fc5-4973-4a26-9d9c-47b6361e6217?syn-25a6b1a6=1",
+    "published": "2026-10-06T21:09:16+00:00",
+    "event_id": "1271c99cc4e8",
+    "sources": [
+     {
+      "title": "Trump says he is considering suspending federal petrol tax",
+      "summary": "Trump is considering suspending the federal petrol tax amid rising fuel prices four weeks before midterm elections to ease political pressure.",
+      "lang": "en",
+      "source": "Financial Times",
+      "url": "https://www.ft.com/content/3fd43fc5-4973-4a26-9d9c-47b6361e6217?syn-25a6b1a6=1",
+      "published": "2026-10-06T21:09:16+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "Argentina will stop Falklands exploiting offshore oilfields, foreign minister says",
+    "summary": "Argentina's foreign minister announced plans to prevent the Falkland Islands from exploiting offshore oilfields as part of asserting peaceful sovereignty.",
+    "lang": "en",
+    "source": "The Guardian World",
+    "url": "https://www.theguardian.com/uk-news/2026/oct/06/argentina-to-stop-falkland-islands-exploiting-offshore-oilfields-sovereignty",
+    "published": "2026-10-06T11:40:03+00:00",
+    "event_id": "58d15ca5c079",
+    "sources": [
+     {
+      "title": "Argentina will stop Falklands exploiting offshore oilfields, foreign minister says",
+      "summary": "Argentina's foreign minister announced plans to prevent the Falkland Islands from exploiting offshore oilfields as part of asserting peaceful sovereignty.",
+      "lang": "en",
+      "source": "The Guardian World",
+      "url": "https://www.theguardian.com/uk-news/2026/oct/06/argentina-to-stop-falkland-islands-exploiting-offshore-oilfields-sovereignty",
+      "published": "2026-10-06T11:40:03+00:00"
+     }
+    ],
+    "status": "unchanged",
+    "change_summary": "",
+    "previous_date": "2026-10-06",
+    "previous_event_id": "58d15ca5c079"
+   }
+  ],
+  "politica|europa": [
+   {
+    "title": "France halts use of stun grenades after boy's hand blown off in student protests",
+    "summary": "France halted stun grenade use after a youth's hand was severely injured during student protests following complaints of excessive police force.",
+    "lang": "en",
+    "source": "BBC World",
+    "url": "https://www.bbc.co.uk/news/articles/cqzjx7z2r4gko?at_medium=RSS&at_campaign=rss",
+    "published": "2026-10-07T11:35:36+00:00",
+    "event_id": "5681324bf629",
+    "sources": [
+     {
+      "title": "France halts use of stun grenades after boy's hand blown off in student protests",
+      "summary": "France halted stun grenade use after a youth's hand was severely injured during student protests following complaints of excessive police force.",
+      "lang": "en",
+      "source": "BBC World",
+      "url": "https://www.bbc.co.uk/news/articles/cqzjx7z2r4gko?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-07T11:35:36+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "Suspected pneumonic plague in Siberia: What we know about the disease",
+    "summary": "A worker at a Russian plague research institute in Siberia died in October 2026, with nearly 200 contacts under medical observation for suspected pneumonic plague.",
+    "lang": "en",
+    "source": "Deutsche Welle World",
+    "url": "https://www.dw.com/en/suspected-pneumonic-plague-in-siberia-what-we-know-about-the-disease/a-79547919?maca=en-rss-en-world-4025-rdf",
+    "published": "2026-10-07T09:44:00+00:00",
+    "event_id": "81c7dd3e0cde",
+    "sources": [
+     {
+      "title": "Suspected pneumonic plague in Siberia: What we know about the disease",
+      "summary": "A worker at a Russian plague research institute in Siberia died in October 2026, with nearly 200 contacts under medical observation for suspected pneumonic plague.",
+      "lang": "en",
+      "source": "Deutsche Welle World",
+      "url": "https://www.dw.com/en/suspected-pneumonic-plague-in-siberia-what-we-know-about-the-disease/a-79547919?maca=en-rss-en-world-4025-rdf",
+      "published": "2026-10-07T09:44:00+00:00"
+     }
+    ],
+    "status": "unclear",
+    "change_summary": "",
+    "previous_date": "2026-10-06",
+    "previous_event_id": "81c7dd3e0cde"
+   },
+   {
+    "title": "Where is Spain headed after the snap election announcement?",
+    "summary": "Spanish Prime Minister Pedro Sanchez called an early election, with housing crisis, migration, and rising right-wing populism dominating the political landscape.",
+    "lang": "en",
+    "source": "Deutsche Welle World",
+    "url": "https://www.dw.com/en/where-is-spain-headed-after-the-snap-election-announcement/a-79567959?maca=en-rss-en-world-4025-rdf",
+    "published": "2026-10-07T04:33:00+00:00",
+    "event_id": "4f024327d799",
+    "sources": [
+     {
+      "title": "Where is Spain headed after the snap election announcement?",
+      "summary": "Spanish Prime Minister Pedro Sanchez called an early election, with housing crisis, migration, and rising right-wing populism dominating the political landscape.",
+      "lang": "en",
+      "source": "Deutsche Welle World",
+      "url": "https://www.dw.com/en/where-is-spain-headed-after-the-snap-election-announcement/a-79567959?maca=en-rss-en-world-4025-rdf",
+      "published": "2026-10-07T04:33:00+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "In Belgium, a fourth day of high school student protests is marred by violence",
+    "summary": "Belgian high school students continued fourth day of protests since October 1 against cost-cutting plans, with violence marring demonstrations separate from French movement.",
+    "lang": "en",
+    "source": "Le Monde International",
+    "url": "https://www.lemonde.fr/en/international/article/2026/10/07/in-french-speaking-belgium-a-fourth-day-of-high-school-student-protests-marred-by-violence_6758343_4.html",
+    "published": "2026-10-07T07:00:03+00:00",
+    "event_id": "914c5444d6bf",
+    "sources": [
+     {
+      "title": "In Belgium, a fourth day of high school student protests is marred by violence",
+      "summary": "Belgian high school students continued fourth day of protests since October 1 against cost-cutting plans, with violence marring demonstrations separate from French movement.",
+      "lang": "en",
+      "source": "Le Monde International",
+      "url": "https://www.lemonde.fr/en/international/article/2026/10/07/in-french-speaking-belgium-a-fourth-day-of-high-school-student-protests-marred-by-violence_6758343_4.html",
+      "published": "2026-10-07T07:00:03+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "EU seeks ways to make expansion more palatable to members",
+    "summary": "The European Commission proposed measures to streamline EU expansion and address concerns from existing members about the accession process.",
+    "lang": "en",
+    "source": "Deutsche Welle World",
+    "url": "https://www.dw.com/en/eu-seeks-ways-to-make-expansion-more-palatable-to-members/a-79567297?maca=en-rss-en-world-4025-rdf",
+    "published": "2026-10-06T18:02:00+00:00",
+    "event_id": "e26c244a1754",
+    "sources": [
+     {
+      "title": "EU seeks ways to make expansion more palatable to members",
+      "summary": "The European Commission proposed measures to streamline EU expansion and address concerns from existing members about the accession process.",
+      "lang": "en",
+      "source": "Deutsche Welle World",
+      "url": "https://www.dw.com/en/eu-seeks-ways-to-make-expansion-more-palatable-to-members/a-79567297?maca=en-rss-en-world-4025-rdf",
+      "published": "2026-10-06T18:02:00+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "U.S. moves long-range bombers from U.K. And, Israel allegedly warned before Oct. 7",
+    "summary": "The US relocated long-range bombers from a UK base due to suspected Iranian threats, as reports emerge that Israel's PM may have been warned before October 7.",
+    "lang": "en",
+    "source": "NPR World",
+    "url": "https://www.npr.org/2026/10/07/g-s1-146853/up-first-newsletter-long-range-bombers-france-high-school-protest-germany-august-hanning-oct-7-memorial-day",
+    "published": "2026-10-07T10:52:58+00:00",
+    "event_id": "4c9f313baa9a",
+    "sources": [
+     {
+      "title": "U.S. moves long-range bombers from U.K. And, Israel allegedly warned before Oct. 7",
+      "summary": "The US relocated long-range bombers from a UK base due to suspected Iranian threats, as reports emerge that Israel's PM may have been warned before October 7.",
+      "lang": "en",
+      "source": "NPR World",
+      "url": "https://www.npr.org/2026/10/07/g-s1-146853/up-first-newsletter-long-range-bombers-france-high-school-protest-germany-august-hanning-oct-7-memorial-day",
+      "published": "2026-10-07T10:52:58+00:00"
+     },
+     {
+      "title": "Investigation continues into whether U.K. air base incident is linked to Iran",
+      "summary": "Investigation continues into a UK air base incident and its potential connection to Iran-backed attacks or related security threats.",
+      "lang": "en",
+      "source": "NPR World",
+      "url": "https://www.npr.org/2026/10/07/nx-s1-5992704/investigation-continues-into-whether-u-k-air-base-incident-is-linked-to-iran",
+      "published": "2026-10-07T10:45:38+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "France's police fire tear gas and water cannons as school protests sweep the country",
+    "summary": "France's police deployed tear gas and water cannons as over 250,000 people protested nationwide supporting students demanding increased education funding.",
+    "lang": "en",
+    "source": "NPR World",
+    "url": "https://www.npr.org/2026/10/06/nx-s1-5992819/france-student-protests-schools",
+    "published": "2026-10-06T18:05:44+00:00",
+    "event_id": "d78990eaecbc",
+    "sources": [
+     {
+      "title": "France's police fire tear gas and water cannons as school protests sweep the country",
+      "summary": "France's police deployed tear gas and water cannons as over 250,000 people protested nationwide supporting students demanding increased education funding.",
+      "lang": "en",
+      "source": "NPR World",
+      "url": "https://www.npr.org/2026/10/06/nx-s1-5992819/france-student-protests-schools",
+      "published": "2026-10-06T18:05:44+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   }
+  ],
+  "tecnologia|europa": [
+   {
+    "title": "Nokia cree que el mundo se está quedando muy corto construyendo centros de datos",
+    "summary": "El CEO de Nokia advierte que la velocidad actual de construcción de centros de datos es insuficiente para satisfacer la demanda global, incluso si se duplicara.",
+    "lang": "es",
+    "source": "Xataka",
+    "url": "https://www.xataka.com/robotica-e-ia/nokia-cree-que-mundo-se-esta-quedando-muy-corto-construyendo-centros-datos",
+    "published": "2026-10-07T11:30:34+00:00",
+    "event_id": "22d8f56df318",
+    "sources": [
+     {
+      "title": "Nokia cree que el mundo se está quedando muy corto construyendo centros de datos",
+      "summary": "El CEO de Nokia advierte que la velocidad actual de construcción de centros de datos es insuficiente para satisfacer la demanda global, incluso si se duplicara.",
+      "lang": "es",
+      "source": "Xataka",
+      "url": "https://www.xataka.com/robotica-e-ia/nokia-cree-que-mundo-se-esta-quedando-muy-corto-construyendo-centros-datos",
+      "published": "2026-10-07T11:30:34+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "放大分子「左右手」差異，Kagan 與硤合憲三獲 2026 諾貝爾化學獎",
+    "summary": "法国巴黎萨克雷大学化学家Kagan与日本化学家硤合宪三获得2026年诺贝尔化学奖，因放大分子手性差异研究。",
+    "lang": "zh",
+    "source": "科技新報 TechNews",
+    "url": "https://technews.tw/2026/10/07/henri-kagan-and-kenso-soai-are-the-2026-nobel-prize-for-chemistry-winners/",
+    "published": "2026-10-07T10:16:55+00:00",
+    "event_id": "6ea01c5f0158",
+    "sources": [
+     {
+      "title": "放大分子「左右手」差異，Kagan 與硤合憲三獲 2026 諾貝爾化學獎",
+      "summary": "法国巴黎萨克雷大学化学家Kagan与日本化学家硤合宪三获得2026年诺贝尔化学奖，因放大分子手性差异研究。",
+      "lang": "zh",
+      "source": "科技新報 TechNews",
+      "url": "https://technews.tw/2026/10/07/henri-kagan-and-kenso-soai-are-the-2026-nobel-prize-for-chemistry-winners/",
+      "published": "2026-10-07T10:16:55+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "OpenAI will watermark ChatGPT outputs by default—but only in the EU",
+    "summary": "OpenAI will add watermarking to ChatGPT outputs by default in the EU, though the solution is unreliable and easily circumvented.",
+    "lang": "en",
+    "source": "Ars Technica",
+    "url": "https://arstechnica.com/ai/2026/10/openai-will-watermark-chatgpt-outputs-by-default-but-only-in-the-eu/",
+    "published": "2026-10-06T20:50:32+00:00",
+    "event_id": "549ccc4aeee7",
+    "sources": [
+     {
+      "title": "OpenAI will watermark ChatGPT outputs by default—but only in the EU",
+      "summary": "OpenAI will add watermarking to ChatGPT outputs by default in the EU, though the solution is unreliable and easily circumvented.",
+      "lang": "en",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/ai/2026/10/openai-will-watermark-chatgpt-outputs-by-default-but-only-in-the-eu/",
+      "published": "2026-10-06T20:50:32+00:00"
+     }
+    ],
+    "status": "unchanged",
+    "change_summary": "",
+    "previous_date": "2026-10-06",
+    "previous_event_id": "549ccc4aeee7"
+   }
+  ],
+  "tecnologia|america": [
+   {
+    "title": "Sharing AI progress in mathematics",
+    "summary": "OpenAI published new research on open mathematics problems using a frontier model and shared Lean proof formalizations on GitHub.",
+    "lang": "en",
+    "source": "OpenAI News",
+    "url": "https://openai.com/index/sharing-ai-progress-in-mathematics",
+    "published": "2026-10-06T12:00:00+00:00",
+    "event_id": "47b9255d8fa0",
+    "sources": [
+     {
+      "title": "Sharing AI progress in mathematics",
+      "summary": "OpenAI published new research on open mathematics problems using a frontier model and shared Lean proof formalizations on GitHub.",
+      "lang": "en",
+      "source": "OpenAI News",
+      "url": "https://openai.com/index/sharing-ai-progress-in-mathematics",
+      "published": "2026-10-06T12:00:00+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "Hackers obtain counterfeit TLS certificates for Google and other large services",
+    "summary": "Hackers compromised three domain registries to obtain counterfeit TLS certificates for Google and other major technology services.",
+    "lang": "en",
+    "source": "Ars Technica",
+    "url": "https://arstechnica.com/security/2026/10/hackers-obtain-counterfeit-tls-certificates-for-google-and-other-large-services/",
+    "published": "2026-10-06T19:21:14+00:00",
+    "event_id": "5690cd692818",
+    "sources": [
+     {
+      "title": "Hackers obtain counterfeit TLS certificates for Google and other large services",
+      "summary": "Hackers compromised three domain registries to obtain counterfeit TLS certificates for Google and other major technology services.",
+      "lang": "en",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/security/2026/10/hackers-obtain-counterfeit-tls-certificates-for-google-and-other-large-services/",
+      "published": "2026-10-06T19:21:14+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "Atlassian and OpenAI expand partnership to turn enterprise knowledge into action",
+    "summary": "Atlassian and OpenAI expanded their partnership to integrate frontier AI models with enterprise knowledge, helping teams manage workflow and delivery.",
+    "lang": "en",
+    "source": "OpenAI News",
+    "url": "https://openai.com/index/atlassian-partnership",
+    "published": "2026-10-06T16:00:00+00:00",
+    "event_id": "60ef2af305e7",
+    "sources": [
+     {
+      "title": "Atlassian and OpenAI expand partnership to turn enterprise knowledge into action",
+      "summary": "Atlassian and OpenAI expanded their partnership to integrate frontier AI models with enterprise knowledge, helping teams manage workflow and delivery.",
+      "lang": "en",
+      "source": "OpenAI News",
+      "url": "https://openai.com/index/atlassian-partnership",
+      "published": "2026-10-06T16:00:00+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "How AI decision models could change content moderation",
+    "summary": "Musubi announced PolicyLM-1.7B, a lightweight decision model for real-time content moderation, released with open weights for wider accessibility.",
+    "lang": "en",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/10/06/how-ai-decision-models-could-change-content-moderation/",
+    "published": "2026-10-06T20:35:20+00:00",
+    "event_id": "c3d8360c1095",
+    "sources": [
+     {
+      "title": "How AI decision models could change content moderation",
+      "summary": "Musubi announced PolicyLM-1.7B, a lightweight decision model for real-time content moderation, released with open weights for wider accessibility.",
+      "lang": "en",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/10/06/how-ai-decision-models-could-change-content-moderation/",
+      "published": "2026-10-06T20:35:20+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "EmbeddingGemma 2: an open, lightweight multimodal embedding model",
+    "summary": "Google DeepMind released EmbeddingGemma 2, an open and lightweight multimodal embedding model for various applications.",
+    "lang": "en",
+    "source": "Google DeepMind Blog",
+    "url": "https://deepmind.google/blog/embeddinggemma-2-an-open-lightweight-multimodal-embedding-model/",
+    "published": "2026-10-06T19:57:04+00:00",
+    "event_id": "4dd290070848",
+    "sources": [
+     {
+      "title": "EmbeddingGemma 2: an open, lightweight multimodal embedding model",
+      "summary": "Google DeepMind released EmbeddingGemma 2, an open and lightweight multimodal embedding model for various applications.",
+      "lang": "en",
+      "source": "Google DeepMind Blog",
+      "url": "https://deepmind.google/blog/embeddinggemma-2-an-open-lightweight-multimodal-embedding-model/",
+      "published": "2026-10-06T19:57:04+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "OpenAI todavía no sabe qué forma tendrá el trabajo con la IA, así que ha decidido cobrarte por todas",
+    "summary": "OpenAI integró ChatGPT Work fusionando la experiencia de escritorio e incorporando Codex en la aplicación principal para ordenar su oferta de productos.",
+    "lang": "es",
+    "source": "Xataka",
+    "url": "https://www.xataka.com/robotica-e-ia/openai-todavia-no-sabe-que-forma-tendra-trabajo-ia-asi-que-ha-decidido-cobrarte-todas",
+    "published": "2026-10-07T11:00:40+00:00",
+    "event_id": "8185bb90a575",
+    "sources": [
+     {
+      "title": "OpenAI todavía no sabe qué forma tendrá el trabajo con la IA, así que ha decidido cobrarte por todas",
+      "summary": "OpenAI integró ChatGPT Work fusionando la experiencia de escritorio e incorporando Codex en la aplicación principal para ordenar su oferta de productos.",
+      "lang": "es",
+      "source": "Xataka",
+      "url": "https://www.xataka.com/robotica-e-ia/openai-todavia-no-sabe-que-forma-tendra-trabajo-ia-asi-que-ha-decidido-cobrarte-todas",
+      "published": "2026-10-07T11:00:40+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "馬斯克否認台積電將參與 Terafab，稱將自建自營",
+    "summary": "马斯克否认台积电参与Terafab，表示特斯拉和SpaceX将自建自营AI芯片生产设施。",
+    "lang": "zh",
+    "source": "科技新報 TechNews",
+    "url": "https://technews.tw/2026/10/07/musk-denies-tsmc-terafab-self-build-operate/",
+    "published": "2026-10-07T09:50:59+00:00",
+    "event_id": "4ca864935ffe",
+    "sources": [
+     {
+      "title": "馬斯克否認台積電將參與 Terafab，稱將自建自營",
+      "summary": "马斯克否认台积电参与Terafab，表示特斯拉和SpaceX将自建自营AI芯片生产设施。",
+      "lang": "zh",
+      "source": "科技新報 TechNews",
+      "url": "https://technews.tw/2026/10/07/musk-denies-tsmc-terafab-self-build-operate/",
+      "published": "2026-10-07T09:50:59+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   }
+  ],
+  "tecnologia|asia": [
+   {
+    "title": "韓國「AI for All」計畫 10 月試營運，SK 電信、Kakao、KT 各押不同 AI 入口",
+    "summary": "韩国\"全民AI服务\"计划10月试营运，SK电信、Kakao和KT分别推出不同的AI入口服务。",
+    "lang": "zh",
+    "source": "科技新報 TechNews",
+    "url": "https://technews.tw/2026/10/07/ai-for-all-set-for-october-contest-as-sk-telecom-bets-on-calls-kakao-on-kakaotalk-and-kt-on-open-architecture/",
+    "published": "2026-10-07T10:00:13+00:00",
+    "event_id": "3a689f5e9ab8",
+    "sources": [
+     {
+      "title": "韓國「AI for All」計畫 10 月試營運，SK 電信、Kakao、KT 各押不同 AI 入口",
+      "summary": "韩国\"全民AI服务\"计划10月试营运，SK电信、Kakao和KT分别推出不同的AI入口服务。",
+      "lang": "zh",
+      "source": "科技新報 TechNews",
+      "url": "https://technews.tw/2026/10/07/ai-for-all-set-for-october-contest-as-sk-telecom-bets-on-calls-kakao-on-kakaotalk-and-kt-on-open-architecture/",
+      "published": "2026-10-07T10:00:13+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "日本大阪公立大學傳出遭勒索軟體攻擊而被迫停課",
+    "summary": "日本大阪公立大学遭勒索软件攻击被迫停课，反映日本企业和机构近期网络攻击事故频发的趋势。",
+    "lang": "zh",
+    "source": "iThome 台灣",
+    "url": "https://www.ithome.com.tw/news/179484",
+    "published": "2026-10-07T03:10:13+00:00",
+    "event_id": "616665b561c6",
+    "sources": [
+     {
+      "title": "日本大阪公立大學傳出遭勒索軟體攻擊而被迫停課",
+      "summary": "日本大阪公立大学遭勒索软件攻击被迫停课，反映日本企业和机构近期网络攻击事故频发的趋势。",
+      "lang": "zh",
+      "source": "iThome 台灣",
+      "url": "https://www.ithome.com.tw/news/179484",
+      "published": "2026-10-07T03:10:13+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "核心成員遭日拘捕 駭客組織Qilin稱日本資安全球最差之一",
+    "summary": "攻击日本朝日啤酒的黑客组织Qilin核心成员遭拘捕，该组织称日本是全球电脑安全体制最差的国家之一。",
+    "lang": "zh",
+    "source": "中央社 CNA",
+    "url": "https://www.cna.com.tw/news/aopl/202610070297.aspx",
+    "published": "2026-10-07T10:39:01+00:00",
+    "event_id": "3a8a78bcb91f",
+    "sources": [
+     {
+      "title": "核心成員遭日拘捕 駭客組織Qilin稱日本資安全球最差之一",
+      "summary": "攻击日本朝日啤酒的黑客组织Qilin核心成员遭拘捕，该组织称日本是全球电脑安全体制最差的国家之一。",
+      "lang": "zh",
+      "source": "中央社 CNA",
+      "url": "https://www.cna.com.tw/news/aopl/202610070297.aspx",
+      "published": "2026-10-07T10:39:01+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   }
+  ],
+  "economia|america": [
+   {
+    "title": "IMF總裁示警 AI恐擴大全球不平等",
+    "summary": "IMF总裁警告人工智能热潮可能因部分国家掉队而扩大全球不平等，成为经济主要驱动力的同时带来风险。",
+    "lang": "zh",
+    "source": "中央社 CNA",
+    "url": "https://www.cna.com.tw/news/aopl/202610070270.aspx",
+    "published": "2026-10-07T09:48:03+00:00",
+    "event_id": "b13a22c9696d",
+    "sources": [
+     {
+      "title": "IMF總裁示警 AI恐擴大全球不平等",
+      "summary": "IMF总裁警告人工智能热潮可能因部分国家掉队而扩大全球不平等，成为经济主要驱动力的同时带来风险。",
+      "lang": "zh",
+      "source": "中央社 CNA",
+      "url": "https://www.cna.com.tw/news/aopl/202610070270.aspx",
+      "published": "2026-10-07T09:48:03+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   }
+  ]
+ }
+}
