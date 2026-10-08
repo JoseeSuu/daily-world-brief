@@ -1,0 +1,1021 @@
+{
+ "date": "2026-10-08",
+ "generated_at": "2026-10-08T12:10:51.278358+00:00",
+ "mode": "full",
+ "cost_usd": 0.0515,
+ "radar_cost_usd": 0.0048,
+ "events": {
+  "mode": "full",
+  "compared_with": "2026-10-07",
+  "articles": 41,
+  "uncompared_articles": 0,
+  "events": 41,
+  "cost_usd": 0.0196
+ },
+ "radar": {
+  "items": [
+   {
+    "id": "gh-1371484855",
+    "source": "GitHub",
+    "kind": "project",
+    "title": "bilibili/Index-Translate",
+    "url": "https://github.com/bilibili/Index-Translate",
+    "discussion_url": "",
+    "published": "2026-09-15T13:03:42Z",
+    "lang": "en",
+    "excerpt": "A Multilingual Translation Model Family",
+    "signal": {
+     "stars_total": 1022
+    },
+    "summary": "Bilibili describes Index-Translate as a multilingual translation model family, enabling document analysis across languages without specifying architecture or capabilities.",
+    "usefulness": "Could support Python tools that process and analyze documents in multiple languages if model performance and licensing constraints are acceptable.",
+    "to_verify": "Actual model performance on target languages, inference latency, and whether free or commercial use is permitted."
+   },
+   {
+    "id": "hn-49984923",
+    "source": "Hacker News",
+    "kind": "discussion",
+    "title": "Sharing AI progress in mathematics",
+    "url": "https://openai.com/index/sharing-ai-progress-in-mathematics/",
+    "discussion_url": "https://news.ycombinator.com/item?id=49984923",
+    "published": "2026-10-06T22:17:21+00:00",
+    "lang": "en",
+    "excerpt": " https://github.com/openai/math   https://github.com/openai/math/tree/main/preprints ",
+    "signal": {
+     "points": 1286,
+     "comments": 1459
+    },
+    "summary": "OpenAI shared AI progress in mathematics via GitHub repositories containing code and preprints, suggesting formal verification and proof techniques applicable to structured reasoning.",
+    "usefulness": "May inform Python tool design for mathematical document analysis and verification if OpenAI's approach to theorem proving transfers to domain-specific governance documentation.",
+    "to_verify": "Whether the mathematics framework generalizes to non-mathematical logical verification and what Python dependencies it requires."
+   }
+  ],
+  "mode": "full",
+  "failed_sources": []
+ },
+ "market": null,
+ "failed_sources": [],
+ "cells": {
+  "tecnologia|asia": [
+   {
+    "title": "China races to build data centres in bid for AI supremacy",
+    "summary": "China rapidly expands data center infrastructure in Inner Mongolia to pursue AI leadership. Beijing is deploying computing resources at unprecedented scale.",
+    "lang": "en",
+    "source": "Financial Times",
+    "url": "https://www.ft.com/content/e1dd8bff-b06d-4a40-bbb7-c0a6a36f1c8e?syn-25a6b1a6=1",
+    "published": "2026-10-08T00:15:04+00:00",
+    "event_id": "e87dd7e5d2a8",
+    "sources": [
+     {
+      "title": "China races to build data centres in bid for AI supremacy",
+      "summary": "China rapidly expands data center infrastructure in Inner Mongolia to pursue AI leadership. Beijing is deploying computing resources at unprecedented scale.",
+      "lang": "en",
+      "source": "Financial Times",
+      "url": "https://www.ft.com/content/e1dd8bff-b06d-4a40-bbb7-c0a6a36f1c8e?syn-25a6b1a6=1",
+      "published": "2026-10-08T00:15:04+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "SoftBank and Grab to develop AI infrastructure in Malaysia's Sarawak",
+    "summary": "SoftBank and Grab are developing AI infrastructure in Malaysia's Sarawak region. The partnership targets Southeast Asian artificial intelligence capabilities.",
+    "lang": "en",
+    "source": "Nikkei Asia",
+    "url": "https://asia.nikkei.com/business/technology/softbank-and-grab-to-develop-ai-infrastructure-in-malaysia-s-sarawak",
+    "published": null,
+    "event_id": "08f75e8ee448",
+    "sources": [
+     {
+      "title": "SoftBank and Grab to develop AI infrastructure in Malaysia's Sarawak",
+      "summary": "SoftBank and Grab are developing AI infrastructure in Malaysia's Sarawak region. The partnership targets Southeast Asian artificial intelligence capabilities.",
+      "lang": "en",
+      "source": "Nikkei Asia",
+      "url": "https://asia.nikkei.com/business/technology/softbank-and-grab-to-develop-ai-infrastructure-in-malaysia-s-sarawak",
+      "published": null
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "Chinese AI startup Manus drums up over $500m in fresh funding",
+    "summary": "Chinese AI startup Manus raised over $500 million in fresh funding. The company secures significant capital for artificial intelligence development.",
+    "lang": "en",
+    "source": "Nikkei Asia",
+    "url": "https://asia.nikkei.com/business/technology/artificial-intelligence/chinese-ai-startup-manus-drums-up-over-500m-in-fresh-funding",
+    "published": null,
+    "event_id": "b8801a13e82f",
+    "sources": [
+     {
+      "title": "Chinese AI startup Manus drums up over $500m in fresh funding",
+      "summary": "Chinese AI startup Manus raised over $500 million in fresh funding. The company secures significant capital for artificial intelligence development.",
+      "lang": "en",
+      "source": "Nikkei Asia",
+      "url": "https://asia.nikkei.com/business/technology/artificial-intelligence/chinese-ai-startup-manus-drums-up-over-500m-in-fresh-funding",
+      "published": null
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "India rejects Elon Musk’s claim of discrimination over Starlink launch",
+    "summary": "India rejected Elon Musk's claims of discrimination regarding Starlink's market entry. Starlink awaits security clearance before seeking spectrum and commercial launch.",
+    "lang": "en",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/10/07/india-rejects-elon-musks-claim-of-discrimination-over-starlink-launch/",
+    "published": "2026-10-08T06:14:11+00:00",
+    "event_id": "1acd981a605c",
+    "sources": [
+     {
+      "title": "India rejects Elon Musk’s claim of discrimination over Starlink launch",
+      "summary": "India rejected Elon Musk's claims of discrimination regarding Starlink's market entry. Starlink awaits security clearance before seeking spectrum and commercial launch.",
+      "lang": "en",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/10/07/india-rejects-elon-musks-claim-of-discrimination-over-starlink-launch/",
+      "published": "2026-10-08T06:14:11+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "Rapidus necesita convencer a los clientes de TSMC de que se pasen a Japón",
+    "summary": "Rapidus busca convencer a clientes de TSMC para que traspasen su producción a Japón. La empresa japonesa intenta competir en la industria de semiconductores.",
+    "lang": "es",
+    "source": "Xataka",
+    "url": "https://www.xataka.com/empresas-y-economia/rapidus-necesita-convencer-a-clientes-tsmc-que-se-pasen-a-japon",
+    "published": "2026-10-08T10:46:26+00:00",
+    "event_id": "81e7110acec8",
+    "sources": [
+     {
+      "title": "Rapidus necesita convencer a los clientes de TSMC de que se pasen a Japón",
+      "summary": "Rapidus busca convencer a clientes de TSMC para que traspasen su producción a Japón. La empresa japonesa intenta competir en la industria de semiconductores.",
+      "lang": "es",
+      "source": "Xataka",
+      "url": "https://www.xataka.com/empresas-y-economia/rapidus-necesita-convencer-a-clientes-tsmc-que-se-pasen-a-japon",
+      "published": "2026-10-08T10:46:26+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "FBI警告FortiBleed攻擊活動持續延燒",
+    "summary": "FBI警告FortiBleed攻击活动持续蔓延，超过7万台全球防火牆和SSL VPN设备凭证被窃。台湾受影响设备数量全球排名第三。",
+    "lang": "zh",
+    "source": "iThome 台灣",
+    "url": "https://www.ithome.com.tw/news/179526",
+    "published": "2026-10-08T03:10:44+00:00",
+    "event_id": "55233f03d732",
+    "sources": [
+     {
+      "title": "FBI警告FortiBleed攻擊活動持續延燒",
+      "summary": "FBI警告FortiBleed攻击活动持续蔓延，超过7万台全球防火牆和SSL VPN设备凭证被窃。台湾受影响设备数量全球排名第三。",
+      "lang": "zh",
+      "source": "iThome 台灣",
+      "url": "https://www.ithome.com.tw/news/179526",
+      "published": "2026-10-08T03:10:44+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   }
+  ],
+  "economia|asia": [
+   {
+    "title": "Bangladesh hands UAE's DP World key port contract after years of delay",
+    "summary": "UAE-based DP World secured a major port contract in Bangladesh after years of negotiations. The deal strengthens regional logistics infrastructure.",
+    "lang": "en",
+    "source": "Nikkei Asia",
+    "url": "https://asia.nikkei.com/business/business-deals/bangladesh-hands-uae-s-dp-world-key-port-contract-after-years-of-delay",
+    "published": null,
+    "event_id": "33aa264a0660",
+    "sources": [
+     {
+      "title": "Bangladesh hands UAE's DP World key port contract after years of delay",
+      "summary": "UAE-based DP World secured a major port contract in Bangladesh after years of negotiations. The deal strengthens regional logistics infrastructure.",
+      "lang": "en",
+      "source": "Nikkei Asia",
+      "url": "https://asia.nikkei.com/business/business-deals/bangladesh-hands-uae-s-dp-world-key-port-contract-after-years-of-delay",
+      "published": null
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "Uniqlo operator projects 7th straight record profit for current fiscal year",
+    "summary": "Uniqlo operator projects its seventh consecutive record profit for the current fiscal year. The retailer continues strong financial performance.",
+    "lang": "en",
+    "source": "Nikkei Asia",
+    "url": "https://asia.nikkei.com/business/retail/uniqlo-operator-projects-7th-straight-record-profit-for-current-fiscal-year",
+    "published": null,
+    "event_id": "30e70aaaa7d3",
+    "sources": [
+     {
+      "title": "Uniqlo operator projects 7th straight record profit for current fiscal year",
+      "summary": "Uniqlo operator projects its seventh consecutive record profit for the current fiscal year. The retailer continues strong financial performance.",
+      "lang": "en",
+      "source": "Nikkei Asia",
+      "url": "https://asia.nikkei.com/business/retail/uniqlo-operator-projects-7th-straight-record-profit-for-current-fiscal-year",
+      "published": null
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "China’s Stimulus May Shore Up GDP While Reinforcing Imbalances",
+    "summary": "China's stimulus measures may stabilize GDP while reinforcing economic imbalances. JPMorgan economists describe the approach as state-guided and supply-heavy.",
+    "lang": "en",
+    "source": "Bloomberg Economics",
+    "url": "https://www.bloomberg.com/news/newsletters/2026-10-08/china-s-stimulus-may-shore-up-gdp-while-reinforcing-imbalances",
+    "published": "2026-10-08T11:00:04+00:00",
+    "event_id": "c10b68b83c6e",
+    "sources": [
+     {
+      "title": "China’s Stimulus May Shore Up GDP While Reinforcing Imbalances",
+      "summary": "China's stimulus measures may stabilize GDP while reinforcing economic imbalances. JPMorgan economists describe the approach as state-guided and supply-heavy.",
+      "lang": "en",
+      "source": "Bloomberg Economics",
+      "url": "https://www.bloomberg.com/news/newsletters/2026-10-08/china-s-stimulus-may-shore-up-gdp-while-reinforcing-imbalances",
+      "published": "2026-10-08T11:00:04+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "熙特爾股東臨時會通過轉板現增案，搶攻 AI 資料中心能源商機",
+    "summary": "熙特爾股東會通过转板现增案，搶攻AI數據中心能源商機。公司完成董事补选並申請改列一般板上市。",
+    "lang": "zh",
+    "source": "科技新報 TechNews",
+    "url": "https://finance.technews.tw/2026/10/08/xitel-egm-approves-listing-transfer-capital-increase-taps-ai-data-center-energy-market/",
+    "published": "2026-10-08T11:00:30+00:00",
+    "event_id": "2bd1d31f4612",
+    "sources": [
+     {
+      "title": "熙特爾股東臨時會通過轉板現增案，搶攻 AI 資料中心能源商機",
+      "summary": "熙特爾股東會通过转板现增案，搶攻AI數據中心能源商機。公司完成董事补选並申請改列一般板上市。",
+      "lang": "zh",
+      "source": "科技新報 TechNews",
+      "url": "https://finance.technews.tw/2026/10/08/xitel-egm-approves-listing-transfer-capital-increase-taps-ai-data-center-energy-market/",
+      "published": "2026-10-08T11:00:30+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   }
+  ],
+  "economia|europa": [
+   {
+    "title": "EU envoy lands in China for last-ditch talks over car exports",
+    "summary": "An EU envoy landed in China for last-minute talks over automotive exports and trade disputes. Brussels blames Beijing's surging car exports for manufacturing job losses.",
+    "lang": "en",
+    "source": "FT Global Economy",
+    "url": "https://www.ft.com/content/e1823a4a-7a0d-4550-aa00-d685bc642c98?syn-25a6b1a6=1",
+    "published": "2026-10-08T12:08:29+00:00",
+    "event_id": "0885933b8040",
+    "sources": [
+     {
+      "title": "EU envoy lands in China for last-ditch talks over car exports",
+      "summary": "An EU envoy landed in China for last-minute talks over automotive exports and trade disputes. Brussels blames Beijing's surging car exports for manufacturing job losses.",
+      "lang": "en",
+      "source": "FT Global Economy",
+      "url": "https://www.ft.com/content/e1823a4a-7a0d-4550-aa00-d685bc642c98?syn-25a6b1a6=1",
+      "published": "2026-10-08T12:08:29+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "ECB Officials Sought ‘Proportionate’ Step With Latest Hike",
+    "summary": "ECB officials weighed proportionate monetary steps while addressing inflation concerns last month. Policymakers assessed whether borrowing cost increases were necessary.",
+    "lang": "en",
+    "source": "Bloomberg Economics",
+    "url": "https://www.bloomberg.com/news/articles/2026-10-08/ecb-officials-took-proporionate-step-with-last-month-s-hike",
+    "published": "2026-10-08T11:46:46+00:00",
+    "event_id": "b2be5b355768",
+    "sources": [
+     {
+      "title": "ECB Officials Sought ‘Proportionate’ Step With Latest Hike",
+      "summary": "ECB officials weighed proportionate monetary steps while addressing inflation concerns last month. Policymakers assessed whether borrowing cost increases were necessary.",
+      "lang": "en",
+      "source": "Bloomberg Economics",
+      "url": "https://www.bloomberg.com/news/articles/2026-10-08/ecb-officials-took-proporionate-step-with-last-month-s-hike",
+      "published": "2026-10-08T11:46:46+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "European Bank Stocks Head for Worst Two-Day Rout Since March",
+    "summary": "European bank stocks faced their worst two-day performance since March amid renewed French debt concerns. The sector had been Europe's best performer for two years.",
+    "lang": "en",
+    "source": "Bloomberg Markets",
+    "url": "https://www.bloomberg.com/news/articles/2026-10-08/european-bank-stocks-head-for-biggest-two-day-slump-since-march",
+    "published": "2026-10-08T08:37:23+00:00",
+    "event_id": "7821dcec5c7f",
+    "sources": [
+     {
+      "title": "European Bank Stocks Head for Worst Two-Day Rout Since March",
+      "summary": "European bank stocks faced their worst two-day performance since March amid renewed French debt concerns. The sector had been Europe's best performer for two years.",
+      "lang": "en",
+      "source": "Bloomberg Markets",
+      "url": "https://www.bloomberg.com/news/articles/2026-10-08/european-bank-stocks-head-for-biggest-two-day-slump-since-march",
+      "published": "2026-10-08T08:37:23+00:00"
+     }
+    ],
+    "status": "updated",
+    "change_summary": "European Bank Stocks Head for Worst Two-Day Rout Since March",
+    "previous_date": "2026-10-07",
+    "previous_event_id": "7821dcec5c7f"
+   },
+   {
+    "title": "Germany heads for fastest growth since 2022",
+    "summary": "Germany forecasts its fastest growth since 2022 as exports and government spending boost the economy. The country emerges from years of stagnation.",
+    "lang": "en",
+    "source": "FT Global Economy",
+    "url": "https://www.ft.com/content/e160b16c-6c39-47fd-9e6c-98a8d6b81eed?syn-25a6b1a6=1",
+    "published": "2026-10-08T10:15:29+00:00",
+    "event_id": "adab4ffdea62",
+    "sources": [
+     {
+      "title": "Germany heads for fastest growth since 2022",
+      "summary": "Germany forecasts its fastest growth since 2022 as exports and government spending boost the economy. The country emerges from years of stagnation.",
+      "lang": "en",
+      "source": "FT Global Economy",
+      "url": "https://www.ft.com/content/e160b16c-6c39-47fd-9e6c-98a8d6b81eed?syn-25a6b1a6=1",
+      "published": "2026-10-08T10:15:29+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "French bond sell-off prompts ‘bottom fishing’ across Europe",
+    "summary": "French bond sell-off prompts asset managers to engage in 'bottom fishing' across European markets. Investors believe Eurozone debt crisis fears are overblown.",
+    "lang": "en",
+    "source": "Financial Times",
+    "url": "https://www.ft.com/content/9cf103ed-548e-4b06-baed-71632abca961?syn-25a6b1a6=1",
+    "published": "2026-10-08T04:00:26+00:00",
+    "event_id": "81a585f8211d",
+    "sources": [
+     {
+      "title": "French bond sell-off prompts ‘bottom fishing’ across Europe",
+      "summary": "French bond sell-off prompts asset managers to engage in 'bottom fishing' across European markets. Investors believe Eurozone debt crisis fears are overblown.",
+      "lang": "en",
+      "source": "Financial Times",
+      "url": "https://www.ft.com/content/9cf103ed-548e-4b06-baed-71632abca961?syn-25a6b1a6=1",
+      "published": "2026-10-08T04:00:26+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "中国的“自力更生”战略正在颠覆中欧贸易格局",
+    "summary": "中国十年来向自力更生产业和技术大量投资，减少对外国供应商的依赖。政府推动自主生产，导致中欧贸易逆差加剧。",
+    "lang": "zh",
+    "source": "纽约时报中文网",
+    "url": "https://cn.nytimes.com/business/20261008/china-europe-trade-manufacturing/?utm_source=RSS",
+    "published": "2026-10-08T02:00:40+00:00",
+    "event_id": "c10f7d797d6f",
+    "sources": [
+     {
+      "title": "中国的“自力更生”战略正在颠覆中欧贸易格局",
+      "summary": "中国十年来向自力更生产业和技术大量投资，减少对外国供应商的依赖。政府推动自主生产，导致中欧贸易逆差加剧。",
+      "lang": "zh",
+      "source": "纽约时报中文网",
+      "url": "https://cn.nytimes.com/business/20261008/china-europe-trade-manufacturing/?utm_source=RSS",
+      "published": "2026-10-08T02:00:40+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "How the Kremlin is orchestrating the takeover of Russian assets from Leroy Merlin, Auchan, Nestlé and FM Logistic",
+    "summary": "The Kremlin orchestrates takeover of Russian assets from Western retailers including Leroy Merlin, Auchan, and Nestlé through shell companies. Moscow arranges confiscation despite Putin's rhetoric.",
+    "lang": "en",
+    "source": "Le Monde International",
+    "url": "https://www.lemonde.fr/en/economy/article/2026/10/08/how-the-kremlin-is-orchestrating-the-takeover-of-russian-assets-from-leroy-merlin-auchan-nestle-and-fm-logistic_6758370_19.html",
+    "published": "2026-10-08T00:46:16+00:00",
+    "event_id": "787ff85b1a0a",
+    "sources": [
+     {
+      "title": "How the Kremlin is orchestrating the takeover of Russian assets from Leroy Merlin, Auchan, Nestlé and FM Logistic",
+      "summary": "The Kremlin orchestrates takeover of Russian assets from Western retailers including Leroy Merlin, Auchan, and Nestlé through shell companies. Moscow arranges confiscation despite Putin's rhetoric.",
+      "lang": "en",
+      "source": "Le Monde International",
+      "url": "https://www.lemonde.fr/en/economy/article/2026/10/08/how-the-kremlin-is-orchestrating-the-takeover-of-russian-assets-from-leroy-merlin-auchan-nestle-and-fm-logistic_6758370_19.html",
+      "published": "2026-10-08T00:46:16+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   }
+  ],
+  "economia|america": [
+   {
+    "title": "Minutes of the Federal Open Market Committee, September 15-16, 2026",
+    "summary": "Federal Reserve officials discussed economic conditions and monetary policy at their September 15-16 meeting. The committee evaluated inflation and employment data.",
+    "lang": "en",
+    "source": "Reserva Federal (notas de prensa)",
+    "url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20261007a.htm",
+    "published": "2026-10-07T18:00:00+00:00",
+    "event_id": "eeb8f6b78f01",
+    "sources": [
+     {
+      "title": "Minutes of the Federal Open Market Committee, September 15-16, 2026",
+      "summary": "Federal Reserve officials discussed economic conditions and monetary policy at their September 15-16 meeting. The committee evaluated inflation and employment data.",
+      "lang": "en",
+      "source": "Reserva Federal (notas de prensa)",
+      "url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20261007a.htm",
+      "published": "2026-10-07T18:00:00+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "How a trillion-dollar hedge fund borrowing spree became Wall Street’s cash cow",
+    "summary": "Hedge funds' massive borrowing spree has become a lucrative business for Wall Street banks. Post-crisis regulations prevent banks from placing their own bets.",
+    "lang": "en",
+    "source": "Financial Times",
+    "url": "https://www.ft.com/content/d313d0ce-d552-463e-9e84-6fa8c3efeeec?syn-25a6b1a6=1",
+    "published": "2026-10-08T04:00:09+00:00",
+    "event_id": "3b044307246e",
+    "sources": [
+     {
+      "title": "How a trillion-dollar hedge fund borrowing spree became Wall Street’s cash cow",
+      "summary": "Hedge funds' massive borrowing spree has become a lucrative business for Wall Street banks. Post-crisis regulations prevent banks from placing their own bets.",
+      "lang": "en",
+      "source": "Financial Times",
+      "url": "https://www.ft.com/content/d313d0ce-d552-463e-9e84-6fa8c3efeeec?syn-25a6b1a6=1",
+      "published": "2026-10-08T04:00:09+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   }
+  ],
+  "tecnologia|america": [
+   {
+    "title": "Anthropic IPO Investors Struggle to Put a Price on Rogue AI Risk",
+    "summary": "Investors evaluating Anthropic's planned IPO struggle to price AI-related risks and existential concerns. The company's valuation faces uncertainty due to artificial intelligence safety questions.",
+    "lang": "en",
+    "source": "Bloomberg Markets",
+    "url": "https://www.bloomberg.com/news/articles/2026-10-08/anthropic-ipo-investors-struggle-to-put-a-price-on-rogue-ai-risk",
+    "published": "2026-10-08T12:00:00+00:00",
+    "event_id": "72fe9043f030",
+    "sources": [
+     {
+      "title": "Anthropic IPO Investors Struggle to Put a Price on Rogue AI Risk",
+      "summary": "Investors evaluating Anthropic's planned IPO struggle to price AI-related risks and existential concerns. The company's valuation faces uncertainty due to artificial intelligence safety questions.",
+      "lang": "en",
+      "source": "Bloomberg Markets",
+      "url": "https://www.bloomberg.com/news/articles/2026-10-08/anthropic-ipo-investors-struggle-to-put-a-price-on-rogue-ai-risk",
+      "published": "2026-10-08T12:00:00+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "Microsoft event debuts new AI-friendly hardware and Windows changes",
+    "summary": "Microsoft unveiled new AI-friendly hardware and Windows changes at its event. The company prepares to integrate more artificial intelligence into desktop computing.",
+    "lang": "en",
+    "source": "Ars Technica",
+    "url": "https://arstechnica.com/gadgets/2026/10/microsoft-event-debuts-new-ai-friendly-hardware-and-windows-changes/",
+    "published": "2026-10-08T00:00:24+00:00",
+    "event_id": "3a0428350fd0",
+    "sources": [
+     {
+      "title": "Microsoft event debuts new AI-friendly hardware and Windows changes",
+      "summary": "Microsoft unveiled new AI-friendly hardware and Windows changes at its event. The company prepares to integrate more artificial intelligence into desktop computing.",
+      "lang": "en",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/gadgets/2026/10/microsoft-event-debuts-new-ai-friendly-hardware-and-windows-changes/",
+      "published": "2026-10-08T00:00:24+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "Nvidia's big bet on physical AI aims for safer robotaxis, humanoid robots",
+    "summary": "Nvidia's physical AI bet targets safer robotaxis and humanoid robots. The full-stack safety solution is adopted by robotics companies.",
+    "lang": "en",
+    "source": "Ars Technica",
+    "url": "https://arstechnica.com/ai/2026/10/nvidias-big-bet-on-physical-ai-aims-for-safer-robotaxis-humanoid-robots/",
+    "published": "2026-10-08T11:15:33+00:00",
+    "event_id": "5387f8e8d5e8",
+    "sources": [
+     {
+      "title": "Nvidia's big bet on physical AI aims for safer robotaxis, humanoid robots",
+      "summary": "Nvidia's physical AI bet targets safer robotaxis and humanoid robots. The full-stack safety solution is adopted by robotics companies.",
+      "lang": "en",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/ai/2026/10/nvidias-big-bet-on-physical-ai-aims-for-safer-robotaxis-humanoid-robots/",
+      "published": "2026-10-08T11:15:33+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "Microsoft releases new Nvidia-chip AI PCs with revamped Windows 11",
+    "summary": "Microsoft released new AI PCs running on Nvidia chips with revamped Windows 11 features. The Surface Laptop Ultra is designed for running AI models and agents.",
+    "lang": "en",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/10/07/microsoft-releases-new-nvidia-chip-ai-pcs-with-revamped-windows-11/",
+    "published": "2026-10-07T20:22:37+00:00",
+    "event_id": "09299f670c92",
+    "sources": [
+     {
+      "title": "Microsoft releases new Nvidia-chip AI PCs with revamped Windows 11",
+      "summary": "Microsoft released new AI PCs running on Nvidia chips with revamped Windows 11 features. The Surface Laptop Ultra is designed for running AI models and agents.",
+      "lang": "en",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/10/07/microsoft-releases-new-nvidia-chip-ai-pcs-with-revamped-windows-11/",
+      "published": "2026-10-07T20:22:37+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "Nous Research confirms it hit $1.5B valuation, launches AI agents for business users",
+    "summary": "Nous Research confirmed a $1.5 billion valuation and launched AI agents for business users. The developer of Hermes Agent raised $90 million in Series B funding.",
+    "lang": "en",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/10/07/nous-research-confirms-it-hit-1-5b-valuation-launches-ai-agents-for-business-users/",
+    "published": "2026-10-07T20:48:45+00:00",
+    "event_id": "9b80120014fd",
+    "sources": [
+     {
+      "title": "Nous Research confirms it hit $1.5B valuation, launches AI agents for business users",
+      "summary": "Nous Research confirmed a $1.5 billion valuation and launched AI agents for business users. The developer of Hermes Agent raised $90 million in Series B funding.",
+      "lang": "en",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/10/07/nous-research-confirms-it-hit-1-5b-valuation-launches-ai-agents-for-business-users/",
+      "published": "2026-10-07T20:48:45+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "Expertos en seguridad coinciden: “la conducción autónoma de Tesla suspendería el examen de conducir”",
+    "summary": "Expertos en seguridad cuestionan la conducción autónoma de Tesla, afirmando que suspendería un examen de conducir. El FSD permanece desactivado en Europa sin aprobación regulatoria.",
+    "lang": "es",
+    "source": "Xataka",
+    "url": "https://www.xataka.com/movilidad/expertos-seguridad-coinciden-conduccion-autonoma-tesla-suspenderia-examen-conducir",
+    "published": "2026-10-08T12:00:27+00:00",
+    "event_id": "19eae197527a",
+    "sources": [
+     {
+      "title": "Expertos en seguridad coinciden: “la conducción autónoma de Tesla suspendería el examen de conducir”",
+      "summary": "Expertos en seguridad cuestionan la conducción autónoma de Tesla, afirmando que suspendería un examen de conducir. El FSD permanece desactivado en Europa sin aprobación regulatoria.",
+      "lang": "es",
+      "source": "Xataka",
+      "url": "https://www.xataka.com/movilidad/expertos-seguridad-coinciden-conduccion-autonoma-tesla-suspenderia-examen-conducir",
+      "published": "2026-10-08T12:00:27+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "Ring renueva la seguridad conectada con cinco cámaras 4K y una tecnología de cifrado mejorada",
+    "summary": "Amazon lanzó cinco nuevas cámaras Ring 4K con tecnología de cifrado mejorada para su ecosistema de seguridad del hogar. Ring eleva su oferta de video vigilancia conectada.",
+    "lang": "es",
+    "source": "Xataka",
+    "url": "https://www.xataka.com/seleccion/ring-renueva-seguridad-conectada-cinco-camaras-4k-tecnologia-cifrado-mejorada",
+    "published": "2026-10-08T11:16:26+00:00",
+    "event_id": "af1bd3f9f19a",
+    "sources": [
+     {
+      "title": "Ring renueva la seguridad conectada con cinco cámaras 4K y una tecnología de cifrado mejorada",
+      "summary": "Amazon lanzó cinco nuevas cámaras Ring 4K con tecnología de cifrado mejorada para su ecosistema de seguridad del hogar. Ring eleva su oferta de video vigilancia conectada.",
+      "lang": "es",
+      "source": "Xataka",
+      "url": "https://www.xataka.com/seleccion/ring-renueva-seguridad-conectada-cinco-camaras-4k-tecnologia-cifrado-mejorada",
+      "published": "2026-10-08T11:16:26+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "美國DARPA推動軍用安全通訊App漏洞研究，Theori旗下Xint將以AI全面分析通訊程式攻擊面",
+    "summary": "美国DARPA推动加密通讯应用程序安全评估计划，分析漏洞并强化防护。Theori下属Xint将利用AI分析通讯程序攻击面。",
+    "lang": "zh",
+    "source": "iThome 台灣",
+    "url": "https://www.ithome.com.tw/news/179545",
+    "published": "2026-10-08T05:10:30+00:00",
+    "event_id": "836dbce13fe9",
+    "sources": [
+     {
+      "title": "美國DARPA推動軍用安全通訊App漏洞研究，Theori旗下Xint將以AI全面分析通訊程式攻擊面",
+      "summary": "美国DARPA推动加密通讯应用程序安全评估计划，分析漏洞并强化防护。Theori下属Xint将利用AI分析通讯程序攻击面。",
+      "lang": "zh",
+      "source": "iThome 台灣",
+      "url": "https://www.ithome.com.tw/news/179545",
+      "published": "2026-10-08T05:10:30+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   }
+  ],
+  "politica|asia": [
+   {
+    "title": "China nominates Song Li for WHO chief as agency faces funding shake-up from US exit",
+    "summary": "China nominated health official Song Li as its candidate for WHO director general. The nomination comes as the organization faces funding uncertainty from US policy changes.",
+    "lang": "en",
+    "source": "South China Morning Post (China)",
+    "url": "https://www.scmp.com/news/china/diplomacy/article/3370214/china-nominates-song-li-who-chief-agency-faces-funding-shake-us-exit?utm_source=rss_feed",
+    "published": "2026-10-08T11:51:02+00:00",
+    "event_id": "36a7788a1099",
+    "sources": [
+     {
+      "title": "China nominates Song Li for WHO chief as agency faces funding shake-up from US exit",
+      "summary": "China nominated health official Song Li as its candidate for WHO director general. The nomination comes as the organization faces funding uncertainty from US policy changes.",
+      "lang": "en",
+      "source": "South China Morning Post (China)",
+      "url": "https://www.scmp.com/news/china/diplomacy/article/3370214/china-nominates-song-li-who-chief-agency-faces-funding-shake-us-exit?utm_source=rss_feed",
+      "published": "2026-10-08T11:51:02+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "Trump reportedly asked Xi to meet with Takaichi",
+    "summary": "Trump reportedly asked Xi Jinping to meet Japanese Defense Minister Takaichi. The Chinese leader was reportedly unresponsive to the proposal.",
+    "lang": "en",
+    "source": "Japan Times",
+    "url": "https://www.japantimes.co.jp/news/2026/10/08/japan/trump-xi-urge-takaichi/",
+    "published": "2026-10-08T11:24:00+00:00",
+    "event_id": "7876558f4c07",
+    "sources": [
+     {
+      "title": "Trump reportedly asked Xi to meet with Takaichi",
+      "summary": "Trump reportedly asked Xi Jinping to meet Japanese Defense Minister Takaichi. The Chinese leader was reportedly unresponsive to the proposal.",
+      "lang": "en",
+      "source": "Japan Times",
+      "url": "https://www.japantimes.co.jp/news/2026/10/08/japan/trump-xi-urge-takaichi/",
+      "published": "2026-10-08T11:24:00+00:00"
+     }
+    ],
+    "status": "updated",
+    "change_summary": "Trump reportedly asked Xi to meet with Takaichi",
+    "previous_date": "2026-10-07",
+    "previous_event_id": "7876558f4c07"
+   },
+   {
+    "title": "India aims to anchor military ties with US as Indo-Pacific ‘resident power’",
+    "summary": "India hosts a top US naval officer on a second visit this year, aiming to strengthen military ties. The nations seek to insulate defense cooperation from trade tensions.",
+    "lang": "en",
+    "source": "South China Morning Post (Asia)",
+    "url": "https://www.scmp.com/week-asia/politics/article/3370206/india-aims-anchor-military-ties-us-indo-pacific-resident-power?utm_source=rss_feed",
+    "published": "2026-10-08T11:30:08+00:00",
+    "event_id": "ccb1c9f97422",
+    "sources": [
+     {
+      "title": "India aims to anchor military ties with US as Indo-Pacific ‘resident power’",
+      "summary": "India hosts a top US naval officer on a second visit this year, aiming to strengthen military ties. The nations seek to insulate defense cooperation from trade tensions.",
+      "lang": "en",
+      "source": "South China Morning Post (Asia)",
+      "url": "https://www.scmp.com/week-asia/politics/article/3370206/india-aims-anchor-military-ties-us-indo-pacific-resident-power?utm_source=rss_feed",
+      "published": "2026-10-08T11:30:08+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "Egypt charges six journalists with terrorism offenses",
+    "summary": "Egypt charged six journalists from independent fact-checking platform Matsadaash with terrorism offenses. The journalists were arrested during raids across multiple governorates.",
+    "lang": "en",
+    "source": "Le Monde International",
+    "url": "https://www.lemonde.fr/en/international/article/2026/10/08/egypt-charges-six-journalists-with-terrorism-offenses_6758375_4.html",
+    "published": "2026-10-08T03:22:58+00:00",
+    "event_id": "e24cc46524db",
+    "sources": [
+     {
+      "title": "Egypt charges six journalists with terrorism offenses",
+      "summary": "Egypt charged six journalists from independent fact-checking platform Matsadaash with terrorism offenses. The journalists were arrested during raids across multiple governorates.",
+      "lang": "en",
+      "source": "Le Monde International",
+      "url": "https://www.lemonde.fr/en/international/article/2026/10/08/egypt-charges-six-journalists-with-terrorism-offenses_6758375_4.html",
+      "published": "2026-10-08T03:22:58+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "Saudi Arabia, Pakistan, Turkey: Could the Mecca defense pact become a game changer in the war against the Houthis in Yemen?",
+    "summary": "Pakistan and Turkey agreed to provide practical measures defending Saudi Arabia against Houthi attacks. A new regional alliance could reshape the Yemen conflict.",
+    "lang": "en",
+    "source": "Deutsche Welle World",
+    "url": "https://www.dw.com/en/saudi-arabia-pakistan-turkey-could-the-mecca-defense-pact-become-a-game-changer-in-the-war-against-the-houthis-in-yemen/a-79577245?maca=en-rss-en-world-4025-rdf",
+    "published": "2026-10-07T17:33:00+00:00",
+    "event_id": "5a173537b9d2",
+    "sources": [
+     {
+      "title": "Saudi Arabia, Pakistan, Turkey: Could the Mecca defense pact become a game changer in the war against the Houthis in Yemen?",
+      "summary": "Pakistan and Turkey agreed to provide practical measures defending Saudi Arabia against Houthi attacks. A new regional alliance could reshape the Yemen conflict.",
+      "lang": "en",
+      "source": "Deutsche Welle World",
+      "url": "https://www.dw.com/en/saudi-arabia-pakistan-turkey-could-the-mecca-defense-pact-become-a-game-changer-in-the-war-against-the-houthis-in-yemen/a-79577245?maca=en-rss-en-world-4025-rdf",
+      "published": "2026-10-07T17:33:00+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "Syrian general accused of atrocities is protected by U.S. and Lebanon, NPR and BBC find",
+    "summary": "A former Syrian general accused of atrocities lives in Lebanon, protected and funded by US and Lebanese authorities. BBC and NPR investigation exposes the arrangement.",
+    "lang": "en",
+    "source": "NPR World",
+    "url": "https://www.npr.org/2026/10/08/nx-s1-5993637/syrian-general-lebanon-fbi-austin-tice",
+    "published": "2026-10-08T09:00:00+00:00",
+    "event_id": "e9b112dd96cd",
+    "sources": [
+     {
+      "title": "Syrian general accused of atrocities is protected by U.S. and Lebanon, NPR and BBC find",
+      "summary": "A former Syrian general accused of atrocities lives in Lebanon, protected and funded by US and Lebanese authorities. BBC and NPR investigation exposes the arrangement.",
+      "lang": "en",
+      "source": "NPR World",
+      "url": "https://www.npr.org/2026/10/08/nx-s1-5993637/syrian-general-lebanon-fbi-austin-tice",
+      "published": "2026-10-08T09:00:00+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   }
+  ],
+  "tecnologia|europa": [
+   {
+    "title": "As Russia steps up attacks on Ukrainian data centers, could Ukraine soon be offline?",
+    "summary": "Russia intensifies attacks on Ukrainian data centers, but experts say Ukraine's internet system is too robust for complete shutdown. Services could face increased disruptions.",
+    "lang": "en",
+    "source": "Deutsche Welle World",
+    "url": "https://www.dw.com/en/as-russia-steps-up-attacks-on-ukrainian-data-centers-could-ukraine-soon-be-offline/a-79582503?maca=en-rss-en-world-4025-rdf",
+    "published": "2026-10-08T10:52:00+00:00",
+    "event_id": "d8398490632e",
+    "sources": [
+     {
+      "title": "As Russia steps up attacks on Ukrainian data centers, could Ukraine soon be offline?",
+      "summary": "Russia intensifies attacks on Ukrainian data centers, but experts say Ukraine's internet system is too robust for complete shutdown. Services could face increased disruptions.",
+      "lang": "en",
+      "source": "Deutsche Welle World",
+      "url": "https://www.dw.com/en/as-russia-steps-up-attacks-on-ukrainian-data-centers-could-ukraine-soon-be-offline/a-79582503?maca=en-rss-en-world-4025-rdf",
+      "published": "2026-10-08T10:52:00+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "辦公室套件LibreOffice與OpenOffice存在漏洞，惡意試算表恐繞過巨集警示並執行程式碼",
+    "summary": "LibreOffice和Apache OpenOffice存在JDBC漏洞，恶意电子表格可绕过宏警示执行代码。漏洞允许远程代码执行攻击。",
+    "lang": "zh",
+    "source": "iThome 台灣",
+    "url": "https://www.ithome.com.tw/news/179544",
+    "published": "2026-10-08T05:10:28+00:00",
+    "event_id": "5ffb0287f01b",
+    "sources": [
+     {
+      "title": "辦公室套件LibreOffice與OpenOffice存在漏洞，惡意試算表恐繞過巨集警示並執行程式碼",
+      "summary": "LibreOffice和Apache OpenOffice存在JDBC漏洞，恶意电子表格可绕过宏警示执行代码。漏洞允许远程代码执行攻击。",
+      "lang": "zh",
+      "source": "iThome 台灣",
+      "url": "https://www.ithome.com.tw/news/179544",
+      "published": "2026-10-08T05:10:28+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   }
+  ],
+  "politica|europa": [
+   {
+    "title": "Russian strike on buses kills 33, say officials, as deadly attacks on Ukraine surge",
+    "summary": "Russian strike on buses kills 33 people in frontline Ukrainian city. Ukraine accuses Russia of deliberately targeting civilians with crowded vehicles.",
+    "lang": "en",
+    "source": "BBC World",
+    "url": "https://www.bbc.co.uk/news/articles/c875pwq134l3o?at_medium=RSS&at_campaign=rss",
+    "published": "2026-10-08T12:06:57+00:00",
+    "event_id": "16c67f2bd64e",
+    "sources": [
+     {
+      "title": "Russian strike on buses kills 33, say officials, as deadly attacks on Ukraine surge",
+      "summary": "Russian strike on buses kills 33 people in frontline Ukrainian city. Ukraine accuses Russia of deliberately targeting civilians with crowded vehicles.",
+      "lang": "en",
+      "source": "BBC World",
+      "url": "https://www.bbc.co.uk/news/articles/c875pwq134l3o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-08T12:06:57+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "'Russian journalist Anna Politkovskaya believed that a society that accepts lies ends up accepting violence as well'",
+    "summary": "Documentary filmmaker Eric Bergkraut recalls journalist Anna Politkovskaya's fight for truth two decades after her murder by Russian security services. She believed society accepting lies enables violence acceptance.",
+    "lang": "en",
+    "source": "Le Monde International",
+    "url": "https://www.lemonde.fr/en/opinion/article/2026/10/08/russian-journalist-anna-politkovskaya-believed-that-a-society-that-accepts-lies-ends-up-accepting-violence-as-well_6758372_23.html",
+    "published": "2026-10-08T02:27:29+00:00",
+    "event_id": "a9012757ae6f",
+    "sources": [
+     {
+      "title": "'Russian journalist Anna Politkovskaya believed that a society that accepts lies ends up accepting violence as well'",
+      "summary": "Documentary filmmaker Eric Bergkraut recalls journalist Anna Politkovskaya's fight for truth two decades after her murder by Russian security services. She believed society accepting lies enables violence acceptance.",
+      "lang": "en",
+      "source": "Le Monde International",
+      "url": "https://www.lemonde.fr/en/opinion/article/2026/10/08/russian-journalist-anna-politkovskaya-believed-that-a-society-that-accepts-lies-ends-up-accepting-violence-as-well_6758372_23.html",
+      "published": "2026-10-08T02:27:29+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   }
+  ],
+  "politica|america": [
+   {
+    "title": "Flávio Bolsonaro’s advance in Brazil’s election is grim jolt for climate campaigners",
+    "summary": "Flávio Bolsonaro's electoral advance poses challenges for climate campaigners in Brazil despite President Lula's deforestation success. The inquest examines why environmental progress hasn't translated to electoral gains.",
+    "lang": "en",
+    "source": "The Guardian World",
+    "url": "https://www.theguardian.com/world/2026/oct/07/flavio-bolsonaro-advance-brazil-election-jolt-climate-campaigners",
+    "published": "2026-10-07T19:23:30+00:00",
+    "event_id": "3fc86c1097bf",
+    "sources": [
+     {
+      "title": "Flávio Bolsonaro’s advance in Brazil’s election is grim jolt for climate campaigners",
+      "summary": "Flávio Bolsonaro's electoral advance poses challenges for climate campaigners in Brazil despite President Lula's deforestation success. The inquest examines why environmental progress hasn't translated to electoral gains.",
+      "lang": "en",
+      "source": "The Guardian World",
+      "url": "https://www.theguardian.com/world/2026/oct/07/flavio-bolsonaro-advance-brazil-election-jolt-climate-campaigners",
+      "published": "2026-10-07T19:23:30+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "Residents airlifted to safety after flooding in central Chile",
+    "summary": "Residents were airlifted to safety after the Mapocho river burst its banks in central Chile. Unusually heavy rainfall caused the flooding event.",
+    "lang": "en",
+    "source": "BBC World",
+    "url": "https://www.bbc.co.uk/news/articles/ck5yn8jn677vo?at_medium=RSS&at_campaign=rss",
+    "published": "2026-10-08T11:31:22+00:00",
+    "event_id": "487e6c341d52",
+    "sources": [
+     {
+      "title": "Residents airlifted to safety after flooding in central Chile",
+      "summary": "Residents were airlifted to safety after the Mapocho river burst its banks in central Chile. Unusually heavy rainfall caused the flooding event.",
+      "lang": "en",
+      "source": "BBC World",
+      "url": "https://www.bbc.co.uk/news/articles/ck5yn8jn677vo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-08T11:31:22+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "Separatists win in Quebec – but does that bring separation from Canada any closer?",
+    "summary": "The Parti Québécois won Quebec's election but lacks majority support for separation from Canada. Trade tensions with Trump complicate potential referendum prospects.",
+    "lang": "en",
+    "source": "The Guardian World",
+    "url": "https://www.theguardian.com/world/2026/oct/07/quebec-election-canada-separatists-analysis",
+    "published": "2026-10-07T11:00:08+00:00",
+    "event_id": "05b2504acba1",
+    "sources": [
+     {
+      "title": "Separatists win in Quebec – but does that bring separation from Canada any closer?",
+      "summary": "The Parti Québécois won Quebec's election but lacks majority support for separation from Canada. Trade tensions with Trump complicate potential referendum prospects.",
+      "lang": "en",
+      "source": "The Guardian World",
+      "url": "https://www.theguardian.com/world/2026/oct/07/quebec-election-canada-separatists-analysis",
+      "published": "2026-10-07T11:00:08+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "Canada to indefinitely bar mental illness as sole reason for access to euthanasia",
+    "summary": "Canada's federal government will indefinitely bar mental illness as the sole reason for euthanasia access. Legislation addresses growing controversy over physician-assisted death eligibility.",
+    "lang": "en",
+    "source": "The Guardian World",
+    "url": "https://www.theguardian.com/world/2026/oct/07/canada-assisted-dying-mental-illness",
+    "published": "2026-10-07T19:00:44+00:00",
+    "event_id": "7049908f4079",
+    "sources": [
+     {
+      "title": "Canada to indefinitely bar mental illness as sole reason for access to euthanasia",
+      "summary": "Canada's federal government will indefinitely bar mental illness as the sole reason for euthanasia access. Legislation addresses growing controversy over physician-assisted death eligibility.",
+      "lang": "en",
+      "source": "The Guardian World",
+      "url": "https://www.theguardian.com/world/2026/oct/07/canada-assisted-dying-mental-illness",
+      "published": "2026-10-07T19:00:44+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   }
+  ]
+ }
+}
