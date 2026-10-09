@@ -1,0 +1,892 @@
+{
+ "date": "2026-10-09",
+ "generated_at": "2026-10-09T12:02:05.369795+00:00",
+ "mode": "full",
+ "cost_usd": 0.0523,
+ "radar_cost_usd": 0.0047,
+ "events": {
+  "mode": "full",
+  "compared_with": "2026-10-08",
+  "articles": 38,
+  "uncompared_articles": 0,
+  "events": 34,
+  "cost_usd": 0.0195
+ },
+ "radar": {
+  "items": [
+   {
+    "id": "gh-1407873347",
+    "source": "GitHub",
+    "kind": "project",
+    "title": "LosaLosSantos/aurelio-finance",
+    "url": "https://github.com/LosaLosSantos/aurelio-finance",
+    "discussion_url": "",
+    "published": "2026-10-06T20:14:19Z",
+    "lang": "en",
+    "excerpt": "Open-source personal finance app with an AI financial advisor: track your net worth, investments, ETFs, cash and debts on your own computer.",
+    "signal": {
+     "stars_total": 812
+    },
+    "summary": "LosaLosSantos describes an open-source personal finance app with AI advisor that tracks net worth, investments, ETFs, cash and debts locally on your computer.",
+    "usefulness": "If the AI advisor component is functional, could help prototype document analysis and structured financial data extraction for Python tool development.",
+    "to_verify": "Whether the AI advisor actually analyzes financial documents or only displays manually entered data; what documents it accepts."
+   },
+   {
+    "id": "hn-50005608",
+    "source": "Hacker News",
+    "kind": "discussion",
+    "title": "Sub-1-Bit LLM Compression via Latent Factorization",
+    "url": "https://github.com/SamsungLabs/LittleBit",
+    "discussion_url": "https://news.ycombinator.com/item?id=50005608",
+    "published": "2026-10-08T13:29:46+00:00",
+    "lang": "en",
+    "excerpt": "",
+    "signal": {
+     "points": 86,
+     "comments": 23
+    },
+    "summary": "SamsungLabs published LittleBit, a GitHub repository on sub-1-bit LLM compression via latent factorization, attracting 86 HN points.",
+    "usefulness": "Could inform Python tool design if compression reduces model size enough to enable local document analysis without external API calls.",
+    "to_verify": "The actual compression ratio achieved, inference speed tradeoff, and whether compressed models retain accuracy on document tasks."
+   }
+  ],
+  "mode": "full",
+  "failed_sources": []
+ },
+ "market": null,
+ "failed_sources": [],
+ "cells": {
+  "economia|asia": [
+   {
+    "title": "SoftBank seeks $100bn from Gulf investors to expand AI bet",
+    "summary": "SoftBank seeks $100 billion from Gulf investors to expand AI operations. Founder Masayoshi Son held recent talks with senior UAE officials about the funding.",
+    "lang": "en",
+    "source": "Financial Times",
+    "url": "https://www.ft.com/content/3bc0eaa5-a8d4-47e8-903c-7dd762d947dd?syn-25a6b1a6=1",
+    "published": "2026-10-09T04:30:01+00:00",
+    "event_id": "08f75e8ee448",
+    "sources": [
+     {
+      "title": "SoftBank seeks $100bn from Gulf investors to expand AI bet",
+      "summary": "SoftBank seeks $100 billion from Gulf investors to expand AI operations. Founder Masayoshi Son held recent talks with senior UAE officials about the funding.",
+      "lang": "en",
+      "source": "Financial Times",
+      "url": "https://www.ft.com/content/3bc0eaa5-a8d4-47e8-903c-7dd762d947dd?syn-25a6b1a6=1",
+      "published": "2026-10-09T04:30:01+00:00"
+     }
+    ],
+    "status": "updated",
+    "change_summary": "SoftBank seeks $100bn from Gulf investors to expand AI bet",
+    "previous_date": "2026-10-08",
+    "previous_event_id": "08f75e8ee448"
+   }
+  ],
+  "economia|europa": [
+   {
+    "title": "China and EU reach ‘understanding’ on hybrid vehicles after crunch trade talks",
+    "summary": "EU and China reached understanding on hybrid electric vehicle trade after intensive negotiations. Marathon talks in Beijing resolved key tensions in automotive sector commerce.",
+    "lang": "en",
+    "source": "South China Morning Post (China)",
+    "url": "https://www.scmp.com/economy/china-economy/article/3370385/china-and-eu-reach-understanding-hybrid-vehicles-after-crunch-trade-talks?utm_source=rss_feed",
+    "published": "2026-10-09T11:59:22+00:00",
+    "event_id": "0885933b8040",
+    "sources": [
+     {
+      "title": "China and EU reach ‘understanding’ on hybrid vehicles after crunch trade talks",
+      "summary": "EU and China reached understanding on hybrid electric vehicle trade after intensive negotiations. Marathon talks in Beijing resolved key tensions in automotive sector commerce.",
+      "lang": "en",
+      "source": "South China Morning Post (China)",
+      "url": "https://www.scmp.com/economy/china-economy/article/3370385/china-and-eu-reach-understanding-hybrid-vehicles-after-crunch-trade-talks?utm_source=rss_feed",
+      "published": "2026-10-09T11:59:22+00:00"
+     },
+     {
+      "title": "EU and China face crunch time in effort to avoid trade war",
+      "summary": "EU and China face critical negotiations to prevent an escalating trade war. Both sides are working to resolve mounting economic tensions between the regions.",
+      "lang": "en",
+      "source": "Nikkei Asia",
+      "url": "https://asia.nikkei.com/economy/trade/eu-and-china-face-crunch-time-in-effort-to-avoid-trade-war",
+      "published": null
+     }
+    ],
+    "status": "updated",
+    "change_summary": "China and EU reach 'understanding' on hybrid vehicles after crunch trade talks",
+    "previous_date": "2026-10-08",
+    "previous_event_id": "0885933b8040"
+   },
+   {
+    "title": "ECB minutes reflect cooler appetite for additional rate rises in September",
+    "summary": "ECB governing council shows reduced appetite for additional rate increases in September. Inflation has worsened but second-round effects remain absent from economic data.",
+    "lang": "en",
+    "source": "FT Global Economy",
+    "url": "https://www.ft.com/content/1addf0e7-c13b-45ff-b29f-5b9f78667cee",
+    "published": "2026-10-08T13:20:57+00:00",
+    "event_id": "b2be5b355768",
+    "sources": [
+     {
+      "title": "ECB minutes reflect cooler appetite for additional rate rises in September",
+      "summary": "ECB governing council shows reduced appetite for additional rate increases in September. Inflation has worsened but second-round effects remain absent from economic data.",
+      "lang": "en",
+      "source": "FT Global Economy",
+      "url": "https://www.ft.com/content/1addf0e7-c13b-45ff-b29f-5b9f78667cee",
+      "published": "2026-10-08T13:20:57+00:00"
+     },
+     {
+      "title": "Meeting of 9-10 September 2026",
+      "summary": "The ECB held a meeting on 9-10 September 2026. The gathering addressed monetary policy matters.",
+      "lang": "en",
+      "source": "BCE (notas de prensa)",
+      "url": "https://www.ecb.europa.eu//press/accounts/2026/html/ecb.mg261008~a10153d090.en.html",
+      "published": "2026-10-08T11:30:00+00:00"
+     }
+    ],
+    "status": "updated",
+    "change_summary": "ECB minutes reflect cooler appetite for additional rate rises in September",
+    "previous_date": "2026-10-08",
+    "previous_event_id": "b2be5b355768"
+   },
+   {
+    "title": "La UE urge a bajar los impuestos a la electricidad para hacerla más atractiva frente a los combustibles fósiles",
+    "summary": "La UE insta a reducir impuestos en electricidad para competir con combustibles fósiles. La medida busca facilitar el acceso a redes frente al crecimiento de centros de datos.",
+    "lang": "es",
+    "source": "El País Economía",
+    "url": "https://elpais.com/economia/2026-10-09/la-ue-urge-a-bajar-los-impuestos-a-la-electricidad-para-hacerla-mas-atractiva-frente-a-los-combustibles-fosiles.html",
+    "published": "2026-10-09T03:45:01+00:00",
+    "event_id": "988f9ec48c10",
+    "sources": [
+     {
+      "title": "La UE urge a bajar los impuestos a la electricidad para hacerla más atractiva frente a los combustibles fósiles",
+      "summary": "La UE insta a reducir impuestos en electricidad para competir con combustibles fósiles. La medida busca facilitar el acceso a redes frente al crecimiento de centros de datos.",
+      "lang": "es",
+      "source": "El País Economía",
+      "url": "https://elpais.com/economia/2026-10-09/la-ue-urge-a-bajar-los-impuestos-a-la-electricidad-para-hacerla-mas-atractiva-frente-a-los-combustibles-fosiles.html",
+      "published": "2026-10-09T03:45:01+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "France’s Bond Risk Is Outpacing Italy’s by Most in Euro History",
+    "summary": "French bond risk premiums exceed Italian ones by historic margins in euro-era trading. Investors demand unprecedented compensation to hold French debt over Italian securities.",
+    "lang": "en",
+    "source": "Bloomberg Markets",
+    "url": "https://www.bloomberg.com/news/articles/2026-10-09/france-s-bond-risk-is-outpacing-italy-s-by-most-in-euro-history",
+    "published": "2026-10-09T11:12:56+00:00",
+    "event_id": "7821dcec5c7f",
+    "sources": [
+     {
+      "title": "France’s Bond Risk Is Outpacing Italy’s by Most in Euro History",
+      "summary": "French bond risk premiums exceed Italian ones by historic margins in euro-era trading. Investors demand unprecedented compensation to hold French debt over Italian securities.",
+      "lang": "en",
+      "source": "Bloomberg Markets",
+      "url": "https://www.bloomberg.com/news/articles/2026-10-09/france-s-bond-risk-is-outpacing-italy-s-by-most-in-euro-history",
+      "published": "2026-10-09T11:12:56+00:00"
+     }
+    ],
+    "status": "updated",
+    "change_summary": "France's Bond Risk Is Outpacing Italy's by Most in Euro History",
+    "previous_date": "2026-10-08",
+    "previous_event_id": "7821dcec5c7f"
+   }
+  ],
+  "economia|america": [
+   {
+    "title": "光寶科推進德州新廠建置 簽逾110億元工程統包合約",
+    "summary": "光宝科代子公司与Rogers-O'Brien Construction Company签订逾110亿元德州新厂工程合约。为应对美国新厂营运需求，继续推进北美在地化布局。",
+    "lang": "zh",
+    "source": "經濟日報 台灣",
+    "url": "https://money.udn.com/money/story/5612/9805361",
+    "published": "2026-10-09T11:12:17+00:00",
+    "event_id": "81e7110acec8",
+    "sources": [
+     {
+      "title": "光寶科推進德州新廠建置 簽逾110億元工程統包合約",
+      "summary": "光宝科代子公司与Rogers-O'Brien Construction Company签订逾110亿元德州新厂工程合约。为应对美国新厂营运需求，继续推进北美在地化布局。",
+      "lang": "zh",
+      "source": "經濟日報 台灣",
+      "url": "https://money.udn.com/money/story/5612/9805361",
+      "published": "2026-10-09T11:12:17+00:00"
+     }
+    ],
+    "status": "unclear",
+    "change_summary": "",
+    "previous_date": "2026-10-08",
+    "previous_event_id": "81e7110acec8"
+   },
+   {
+    "title": "AI视角下的中性利率与美股（上）",
+    "summary": "美国经济呈现矛盾信号，高利率和高通胀伴随宏观风险。不确定性导致美股四个月震荡，AI视角分析中性利率与股市关系。",
+    "lang": "zh",
+    "source": "FT中文网",
+    "url": "https://www.ftchinese.com/story/001111039",
+    "published": "2026-10-08T16:00:00+00:00",
+    "event_id": "51d20d027644",
+    "sources": [
+     {
+      "title": "AI视角下的中性利率与美股（上）",
+      "summary": "美国经济呈现矛盾信号，高利率和高通胀伴随宏观风险。不确定性导致美股四个月震荡，AI视角分析中性利率与股市关系。",
+      "lang": "zh",
+      "source": "FT中文网",
+      "url": "https://www.ftchinese.com/story/001111039",
+      "published": "2026-10-08T16:00:00+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "Federal Reserve Board announces enforcement action against American Express Company to address, among other things, the firm’s failure to sufficiently detect and report certain suspicious activity",
+    "summary": "Federal Reserve enforces action against American Express for failing to detect suspicious activity. The penalty addresses compliance gaps in AXP's transaction monitoring systems.",
+    "lang": "en",
+    "source": "Reserva Federal (notas de prensa)",
+    "url": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20261008a.htm",
+    "published": "2026-10-08T20:30:00+00:00",
+    "event_id": "e95750d1b741",
+    "sources": [
+     {
+      "title": "Federal Reserve Board announces enforcement action against American Express Company to address, among other things, the firm’s failure to sufficiently detect and report certain suspicious activity",
+      "summary": "Federal Reserve enforces action against American Express for failing to detect suspicious activity. The penalty addresses compliance gaps in AXP's transaction monitoring systems.",
+      "lang": "en",
+      "source": "Reserva Federal (notas de prensa)",
+      "url": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20261008a.htm",
+      "published": "2026-10-08T20:30:00+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "US mortgage rates rise for seventh straight week to hit highest since 2023",
+    "summary": "US mortgage rates rise to highest levels since 2023 for seventh consecutive week. Climbing Treasury yields and energy prices drive increased borrowing costs for homebuyers.",
+    "lang": "en",
+    "source": "FT Global Economy",
+    "url": "https://www.ft.com/content/04d6ae65-5d5f-4ed6-9c15-16aa0f4d0713?syn-25a6b1a6=1",
+    "published": "2026-10-08T16:38:09+00:00",
+    "event_id": "63f6baf64d48",
+    "sources": [
+     {
+      "title": "US mortgage rates rise for seventh straight week to hit highest since 2023",
+      "summary": "US mortgage rates rise to highest levels since 2023 for seventh consecutive week. Climbing Treasury yields and energy prices drive increased borrowing costs for homebuyers.",
+      "lang": "en",
+      "source": "FT Global Economy",
+      "url": "https://www.ft.com/content/04d6ae65-5d5f-4ed6-9c15-16aa0f4d0713?syn-25a6b1a6=1",
+      "published": "2026-10-08T16:38:09+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "US 10-year Treasury yields risk hitting 6% for first time since 2000, Pimco says",
+    "summary": "Pimco warns US 10-year Treasury yields risk reaching 6% for first time since 2000. Market participants forced to unwind losing bets as borrowing costs surge sharply.",
+    "lang": "en",
+    "source": "Financial Times",
+    "url": "https://www.ft.com/content/a752a86c-cf05-4152-b842-2ae6b6bf3fe0?syn-25a6b1a6=1",
+    "published": "2026-10-09T04:00:31+00:00",
+    "event_id": "694e5bb18a37",
+    "sources": [
+     {
+      "title": "US 10-year Treasury yields risk hitting 6% for first time since 2000, Pimco says",
+      "summary": "Pimco warns US 10-year Treasury yields risk reaching 6% for first time since 2000. Market participants forced to unwind losing bets as borrowing costs surge sharply.",
+      "lang": "en",
+      "source": "Financial Times",
+      "url": "https://www.ft.com/content/a752a86c-cf05-4152-b842-2ae6b6bf3fe0?syn-25a6b1a6=1",
+      "published": "2026-10-09T04:00:31+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   }
+  ],
+  "politica|asia": [
+   {
+    "title": "中国在老挝启用新空军基地，进一步向东南亚投射军力",
+    "summary": "中国在老挝班根启用新空军基地，向东南亚投射军力。越南等周边国家关注基地是否延长跑道容纳轰炸机或侦察机。",
+    "lang": "zh",
+    "source": "纽约时报中文网",
+    "url": "https://cn.nytimes.com/asia-pacific/20261009/china-military-base-laos/?utm_source=RSS",
+    "published": "2026-10-09T02:31:56+00:00",
+    "event_id": "9377ca0bca06",
+    "sources": [
+     {
+      "title": "中国在老挝启用新空军基地，进一步向东南亚投射军力",
+      "summary": "中国在老挝班根启用新空军基地，向东南亚投射军力。越南等周边国家关注基地是否延长跑道容纳轰炸机或侦察机。",
+      "lang": "zh",
+      "source": "纽约时报中文网",
+      "url": "https://cn.nytimes.com/asia-pacific/20261009/china-military-base-laos/?utm_source=RSS",
+      "published": "2026-10-09T02:31:56+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "川普稱選前不打伊朗 紐時：美軍擬3天空襲方案航艦將會師中東",
+    "summary": "川普称选前不打伊朗，但美军已拟订3天空襲方案。美军3个航艦打击群月底将会师中东。",
+    "lang": "zh",
+    "source": "中央社 CNA",
+    "url": "https://www.cna.com.tw/news/aopl/202610090083.aspx",
+    "published": "2026-10-09T03:40:08+00:00",
+    "event_id": "216d43b9f9d3",
+    "sources": [
+     {
+      "title": "川普稱選前不打伊朗 紐時：美軍擬3天空襲方案航艦將會師中東",
+      "summary": "川普称选前不打伊朗，但美军已拟订3天空襲方案。美军3个航艦打击群月底将会师中东。",
+      "lang": "zh",
+      "source": "中央社 CNA",
+      "url": "https://www.cna.com.tw/news/aopl/202610090083.aspx",
+      "published": "2026-10-09T03:40:08+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "South Korea to recall its ambassador to Ukraine over North Korean POW dispute",
+    "summary": "South Korea announced plans to recall its ambassador to Ukraine over POW dispute. The decision follows threats from Seoul's president regarding North Korean prisoners.",
+    "lang": "en",
+    "source": "NPR World",
+    "url": "https://www.npr.org/2026/10/08/g-s1-147115/south-korea-to-recall-its-ambassador-to-ukraine-over-north-korean-pow-dispute",
+    "published": "2026-10-08T12:13:54+00:00",
+    "event_id": "f5b4199af589",
+    "sources": [
+     {
+      "title": "South Korea to recall its ambassador to Ukraine over North Korean POW dispute",
+      "summary": "South Korea announced plans to recall its ambassador to Ukraine over POW dispute. The decision follows threats from Seoul's president regarding North Korean prisoners.",
+      "lang": "en",
+      "source": "NPR World",
+      "url": "https://www.npr.org/2026/10/08/g-s1-147115/south-korea-to-recall-its-ambassador-to-ukraine-over-north-korean-pow-dispute",
+      "published": "2026-10-08T12:13:54+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   }
+  ],
+  "tecnologia|asia": [
+   {
+    "title": "美當局查封7網域 打擊中國永信至誠科技集團駭客活動",
+    "summary": "美国当局查封7个网域打击中国永信至誠科技集團旗下駭客。该集团为中国IT公司工作，从事网络攻击活动。",
+    "lang": "zh",
+    "source": "中央社 CNA",
+    "url": "https://www.cna.com.tw/news/aopl/202610090134.aspx",
+    "published": "2026-10-09T06:42:59+00:00",
+    "event_id": "2c1a0bee0cbe",
+    "sources": [
+     {
+      "title": "美當局查封7網域 打擊中國永信至誠科技集團駭客活動",
+      "summary": "美国当局查封7个网域打击中国永信至誠科技集團旗下駭客。该集团为中国IT公司工作，从事网络攻击活动。",
+      "lang": "zh",
+      "source": "中央社 CNA",
+      "url": "https://www.cna.com.tw/news/aopl/202610090134.aspx",
+      "published": "2026-10-09T06:42:59+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   }
+  ],
+  "politica|europa": [
+   {
+    "title": "德国前情报局长涉嫌出售机密给他国 中国或扮演重要角色",
+    "summary": "德国联邦情报局前局长汉宁涉嫌向外国出售机密文件被捕。调查人员正核查其与中国情报部门的关联。",
+    "lang": "zh",
+    "source": "德國之聲中文",
+    "url": "https://www.dw.com/zh/德国前情报局长涉嫌出售机密给他国-中国或扮演重要角色/a-79612102?maca=chi-rss-chi-all-1127-rdf",
+    "published": "2026-10-09T10:08:00+00:00",
+    "event_id": "bc4e9be6a3cb",
+    "sources": [
+     {
+      "title": "德国前情报局长涉嫌出售机密给他国 中国或扮演重要角色",
+      "summary": "德国联邦情报局前局长汉宁涉嫌向外国出售机密文件被捕。调查人员正核查其与中国情报部门的关联。",
+      "lang": "zh",
+      "source": "德國之聲中文",
+      "url": "https://www.dw.com/zh/德国前情报局长涉嫌出售机密给他国-中国或扮演重要角色/a-79612102?maca=chi-rss-chi-all-1127-rdf",
+      "published": "2026-10-09T10:08:00+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "Italy's Giorgia Meloni passes key electoral law ahead of 2027 elections",
+    "summary": "Italian PM Meloni passes electoral law reintroducing proportional representation with majority bonus. Polls suggest she may not benefit from the 2027 election rule changes.",
+    "lang": "en",
+    "source": "Le Monde International",
+    "url": "https://www.lemonde.fr/en/international/article/2026/10/09/italy-s-giorgia-meloni-passes-key-electoral-law-ahead-of-2027-elections_6758413_4.html",
+    "published": "2026-10-09T08:15:37+00:00",
+    "event_id": "67c72bd95ead",
+    "sources": [
+     {
+      "title": "Italy's Giorgia Meloni passes key electoral law ahead of 2027 elections",
+      "summary": "Italian PM Meloni passes electoral law reintroducing proportional representation with majority bonus. Polls suggest she may not benefit from the 2027 election rule changes.",
+      "lang": "en",
+      "source": "Le Monde International",
+      "url": "https://www.lemonde.fr/en/international/article/2026/10/09/italy-s-giorgia-meloni-passes-key-electoral-law-ahead-of-2027-elections_6758413_4.html",
+      "published": "2026-10-09T08:15:37+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "The letter of imprisoned Russian journalist Ivan Safronov: 'Like Jean Valjean, I know what captivity is, and I know how to cherish freedom'",
+    "summary": "Imprisoned Russian journalist Ivan Safronov compares captivity to Les Misérables protagonist Jean Valjean. The 2020-arrested prisoner detained in Siberia uses literature as emotional lifeline.",
+    "lang": "en",
+    "source": "Le Monde International",
+    "url": "https://www.lemonde.fr/en/books/article/2026/10/09/the-letter-of-imprisoned-russian-journalist-ivan-safronov-like-jean-valjean-i-know-what-captivity-is-and-i-know-how-to-cherish-freedom_6758411_33.html",
+    "published": "2026-10-09T03:30:03+00:00",
+    "event_id": "5fb08722b731",
+    "sources": [
+     {
+      "title": "The letter of imprisoned Russian journalist Ivan Safronov: 'Like Jean Valjean, I know what captivity is, and I know how to cherish freedom'",
+      "summary": "Imprisoned Russian journalist Ivan Safronov compares captivity to Les Misérables protagonist Jean Valjean. The 2020-arrested prisoner detained in Siberia uses literature as emotional lifeline.",
+      "lang": "en",
+      "source": "Le Monde International",
+      "url": "https://www.lemonde.fr/en/books/article/2026/10/09/the-letter-of-imprisoned-russian-journalist-ivan-safronov-like-jean-valjean-i-know-what-captivity-is-and-i-know-how-to-cherish-freedom_6758411_33.html",
+      "published": "2026-10-09T03:30:03+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "Russian strikes on Ukraine's public buses leave 30 dead as blackouts worsen in Kyiv",
+    "summary": "Russian strikes on Ukrainian public buses kill 30 people amid worsening Kyiv blackouts. Russia and Ukraine wage long-range aerial warfare over 4.5 years into invasion.",
+    "lang": "en",
+    "source": "NPR World",
+    "url": "https://www.npr.org/2026/10/08/g-s1-147106/russia-ukraine-war",
+    "published": "2026-10-08T11:25:28+00:00",
+    "event_id": "16c67f2bd64e",
+    "sources": [
+     {
+      "title": "Russian strikes on Ukraine's public buses leave 30 dead as blackouts worsen in Kyiv",
+      "summary": "Russian strikes on Ukrainian public buses kill 30 people amid worsening Kyiv blackouts. Russia and Ukraine wage long-range aerial warfare over 4.5 years into invasion.",
+      "lang": "en",
+      "source": "NPR World",
+      "url": "https://www.npr.org/2026/10/08/g-s1-147106/russia-ukraine-war",
+      "published": "2026-10-08T11:25:28+00:00"
+     },
+     {
+      "title": "Kiev sufre apagones, interrupciones en el transporte público y cortes de agua por la ofensiva rusa",
+      "summary": "Rusia ataca infraestructura energética de Kiev causando apagones y cortes de agua. Zelenski critica a responsables de gestionar la crisis energética en la capital ucraniana.",
+      "lang": "es",
+      "source": "El País Internacional",
+      "url": "https://elpais.com/internacional/2026-10-09/kiev-sufre-apagones-interrupciones-en-el-transporte-publico-y-cortes-de-agua-por-la-ofensiva-rusa.html",
+      "published": "2026-10-09T09:52:07+00:00"
+     }
+    ],
+    "status": "unclear",
+    "change_summary": "",
+    "previous_date": "2026-10-08",
+    "previous_event_id": "16c67f2bd64e"
+   },
+   {
+    "title": "Security in the Black Sea region: is Bulgaria the weak link in Europe's defense against threats from Russia?",
+    "summary": "Two ships sank off Bulgaria and Romania coasts following drone attacks in Black Sea region. Bulgaria hesitates to blame Russia, raising questions about European defense coordination.",
+    "lang": "en",
+    "source": "Deutsche Welle World",
+    "url": "https://www.dw.com/en/security-in-the-black-sea-region-is-bulgaria-the-weak-link-in-europe-s-defense-against-threats-from-russia/a-79592663?maca=en-rss-en-world-4025-rdf",
+    "published": "2026-10-08T11:45:00+00:00",
+    "event_id": "84fcb9e4ae51",
+    "sources": [
+     {
+      "title": "Security in the Black Sea region: is Bulgaria the weak link in Europe's defense against threats from Russia?",
+      "summary": "Two ships sank off Bulgaria and Romania coasts following drone attacks in Black Sea region. Bulgaria hesitates to blame Russia, raising questions about European defense coordination.",
+      "lang": "en",
+      "source": "Deutsche Welle World",
+      "url": "https://www.dw.com/en/security-in-the-black-sea-region-is-bulgaria-the-weak-link-in-europe-s-defense-against-threats-from-russia/a-79592663?maca=en-rss-en-world-4025-rdf",
+      "published": "2026-10-08T11:45:00+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   }
+  ],
+  "politica|america": [
+   {
+    "title": "Firing squad execution to be livestreamed, Pentagon says",
+    "summary": "Pentagon says firing squad execution will be livestreamed under Pentagon oversight. Legal experts warn the unprecedented decision operates on uncertain legal ground.",
+    "lang": "en",
+    "source": "BBC World",
+    "url": "https://www.bbc.co.uk/news/articles/cmy0r96xygx6o?at_medium=RSS&at_campaign=rss",
+    "published": "2026-10-09T09:29:52+00:00",
+    "event_id": "7343e10e8dea",
+    "sources": [
+     {
+      "title": "Firing squad execution to be livestreamed, Pentagon says",
+      "summary": "Pentagon says firing squad execution will be livestreamed under Pentagon oversight. Legal experts warn the unprecedented decision operates on uncertain legal ground.",
+      "lang": "en",
+      "source": "BBC World",
+      "url": "https://www.bbc.co.uk/news/articles/cmy0r96xygx6o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-09T09:29:52+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "New U.S. indictment charges former Venezuelan President Nicolás Maduro with torture",
+    "summary": "US indictment adds torture charges against former Venezuelan President Nicolás Maduro. New allegations increase pressure on the ousted authoritarian leader already facing prosecution.",
+    "lang": "en",
+    "source": "NPR World",
+    "url": "https://www.npr.org/2026/10/08/nx-s1-5995360/venezuela-nicolas-maduro-torture-charges",
+    "published": "2026-10-08T16:05:37+00:00",
+    "event_id": "fbf223511d89",
+    "sources": [
+     {
+      "title": "New U.S. indictment charges former Venezuelan President Nicolás Maduro with torture",
+      "summary": "US indictment adds torture charges against former Venezuelan President Nicolás Maduro. New allegations increase pressure on the ousted authoritarian leader already facing prosecution.",
+      "lang": "en",
+      "source": "NPR World",
+      "url": "https://www.npr.org/2026/10/08/nx-s1-5995360/venezuela-nicolas-maduro-torture-charges",
+      "published": "2026-10-08T16:05:37+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "Trump says U.S. won't attack Iran before midterms. And, ICE agent shoots man in NYC",
+    "summary": "Trump states US will not attack Iran before midterm elections. An ICE agent shot a 28-year-old man in the neck during separate NYC incident.",
+    "lang": "en",
+    "source": "NPR World",
+    "url": "https://www.npr.org/2026/10/09/g-s1-147455/up-first-newsletter-hurricane-isaias-ukraine-russia-trump-iran-ice-shooting",
+    "published": "2026-10-09T11:37:04+00:00",
+    "event_id": "cfd22bbeff15",
+    "sources": [
+     {
+      "title": "Trump says U.S. won't attack Iran before midterms. And, ICE agent shoots man in NYC",
+      "summary": "Trump states US will not attack Iran before midterm elections. An ICE agent shot a 28-year-old man in the neck during separate NYC incident.",
+      "lang": "en",
+      "source": "NPR World",
+      "url": "https://www.npr.org/2026/10/09/g-s1-147455/up-first-newsletter-hurricane-isaias-ukraine-russia-trump-iran-ice-shooting",
+      "published": "2026-10-09T11:37:04+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "Isaias intensifies to hurricane. And, judge orders Pike execution evidence preserved",
+    "summary": "Hurricane Isaias intensifies as Gulf residents prepare for severe weekend weather. Judge orders evidence preservation from Christa Pike's failed execution case.",
+    "lang": "en",
+    "source": "NPR World",
+    "url": "https://www.npr.org/2026/10/08/g-s1-147105/up-first-newsletter-hurricane-isaias-house-elections-christa-pike-nidal-hasan-cnn-ms-now-politico",
+    "published": "2026-10-08T11:35:22+00:00",
+    "event_id": "4a127f582e37",
+    "sources": [
+     {
+      "title": "Isaias intensifies to hurricane. And, judge orders Pike execution evidence preserved",
+      "summary": "Hurricane Isaias intensifies as Gulf residents prepare for severe weekend weather. Judge orders evidence preservation from Christa Pike's failed execution case.",
+      "lang": "en",
+      "source": "NPR World",
+      "url": "https://www.npr.org/2026/10/08/g-s1-147105/up-first-newsletter-hurricane-isaias-house-elections-christa-pike-nidal-hasan-cnn-ms-now-politico",
+      "published": "2026-10-08T11:35:22+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   }
+  ],
+  "tecnologia|america": [
+   {
+    "title": "美國亞利桑那州最高法院系統遭釣魚攻擊，逾百萬人個資外洩",
+    "summary": "亚利桑那州最高法院系统遭网络钓鱼攻击，近130万人个资外泄。法院数据被駭客竊取，造成严重信息安全事件。",
+    "lang": "zh",
+    "source": "iThome 台灣",
+    "url": "https://www.ithome.com.tw/news/179559",
+    "published": "2026-10-09T06:10:58+00:00",
+    "event_id": "2994284c9d14",
+    "sources": [
+     {
+      "title": "美國亞利桑那州最高法院系統遭釣魚攻擊，逾百萬人個資外洩",
+      "summary": "亚利桑那州最高法院系统遭网络钓鱼攻击，近130万人个资外泄。法院数据被駭客竊取，造成严重信息安全事件。",
+      "lang": "zh",
+      "source": "iThome 台灣",
+      "url": "https://www.ithome.com.tw/news/179559",
+      "published": "2026-10-09T06:10:58+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "惡意程式PoeLLM利用GitHub上英文詩取得C2位址，入侵逾3,400臺伺服器",
+    "summary": "恶意程式PoeLLM从GitHub诗歌获取指令与控制地址，已入侵超3400台伺服器。受害主机被用于加密货币挖矿并扫描攻击其他系统。",
+    "lang": "zh",
+    "source": "iThome 台灣",
+    "url": "https://www.ithome.com.tw/news/179558",
+    "published": "2026-10-09T06:10:06+00:00",
+    "event_id": "546b529e2411",
+    "sources": [
+     {
+      "title": "惡意程式PoeLLM利用GitHub上英文詩取得C2位址，入侵逾3,400臺伺服器",
+      "summary": "恶意程式PoeLLM从GitHub诗歌获取指令与控制地址，已入侵超3400台伺服器。受害主机被用于加密货币挖矿并扫描攻击其他系统。",
+      "lang": "zh",
+      "source": "iThome 台灣",
+      "url": "https://www.ithome.com.tw/news/179558",
+      "published": "2026-10-09T06:10:06+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "讓 AI 當司機開 Toyota 買漢堡，GPT-6 Astra 勇闖路考成唯一通關大語言模型",
+    "summary": "GPT-6 Astra通过自动驾驶路考成唯一通关的大语言模型。Axiom公司工程师将通用大型语言模型接入丰田车摄影机测试自动驾驶能力。",
+    "lang": "zh",
+    "source": "科技新報 TechNews",
+    "url": "https://technews.tw/2026/10/09/ai-driven-corolla/",
+    "published": "2026-10-09T07:00:04+00:00",
+    "event_id": "72f70d97ce1b",
+    "sources": [
+     {
+      "title": "讓 AI 當司機開 Toyota 買漢堡，GPT-6 Astra 勇闖路考成唯一通關大語言模型",
+      "summary": "GPT-6 Astra通过自动驾驶路考成唯一通关的大语言模型。Axiom公司工程师将通用大型语言模型接入丰田车摄影机测试自动驾驶能力。",
+      "lang": "zh",
+      "source": "科技新報 TechNews",
+      "url": "https://technews.tw/2026/10/09/ai-driven-corolla/",
+      "published": "2026-10-09T07:00:04+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "Google Gemini Agent可建立企業AI同事，獨立帳號參與Chat與文件協作",
+    "summary": "Google发表企业通用AI代理Gemini Agent，可在Workspace服务间执行工作任务。用户提出目标后，AI代理能规划步骤生成文件、简报或程式码。",
+    "lang": "zh",
+    "source": "iThome 台灣",
+    "url": "https://www.ithome.com.tw/news/179552",
+    "published": "2026-10-09T02:10:02+00:00",
+    "event_id": "16f68ac3d408",
+    "sources": [
+     {
+      "title": "Google Gemini Agent可建立企業AI同事，獨立帳號參與Chat與文件協作",
+      "summary": "Google发表企业通用AI代理Gemini Agent，可在Workspace服务间执行工作任务。用户提出目标后，AI代理能规划步骤生成文件、简报或程式码。",
+      "lang": "zh",
+      "source": "iThome 台灣",
+      "url": "https://www.ithome.com.tw/news/179552",
+      "published": "2026-10-09T02:10:02+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "Anthropic launches free AI security scans for open-source projects",
+    "summary": "Anthropic launches free OSS Scanner security service for open-source projects. The tool helps developers identify vulnerabilities in collaborative software codebases.",
+    "lang": "en",
+    "source": "The Verge",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/1008521/anthropic-open-source-oss-scanner",
+    "published": "2026-10-08T21:53:51+00:00",
+    "event_id": "df7e5433800b",
+    "sources": [
+     {
+      "title": "Anthropic launches free AI security scans for open-source projects",
+      "summary": "Anthropic launches free OSS Scanner security service for open-source projects. The tool helps developers identify vulnerabilities in collaborative software codebases.",
+      "lang": "en",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1008521/anthropic-open-source-oss-scanner",
+      "published": "2026-10-08T21:53:51+00:00"
+     },
+     {
+      "title": "Anthropic ya incluye \"cláusulas de abuso contra Claude\" en sus términos de uso para proteger a sus modelos de IA",
+      "summary": "Anthropic añade cláusulas contra abuso de Claude en sus términos de servicio. La empresa protege su modelo de IA de posibles maltratos según expresó su máximo responsable.",
+      "lang": "es",
+      "source": "Xataka",
+      "url": "https://www.xataka.com/robotica-e-ia/anthropic-incluye-clausulas-abuso-claude-sus-terminos-uso-para-proteger-a-sus-modelos-ia",
+      "published": "2026-10-09T11:58:00+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "Beam es la nueva apuesta de EEUU para plantar cara a los modelos chinos de IA de pesos abiertos",
+    "summary": "Estados Unidos lanza Beam para competir con modelos chinos de IA de código abierto. Modelos como DeepSeek y Qwen se acercan a inteligencias artificiales estadounidenses avanzadas.",
+    "lang": "es",
+    "source": "Xataka",
+    "url": "https://www.xataka.com/robotica-e-ia/beam-nueva-apuesta-eeuu-para-plantar-cara-a-modelos-chinos-ia-pesos-abiertos",
+    "published": "2026-10-09T10:30:27+00:00",
+    "event_id": "095ef91df325",
+    "sources": [
+     {
+      "title": "Beam es la nueva apuesta de EEUU para plantar cara a los modelos chinos de IA de pesos abiertos",
+      "summary": "Estados Unidos lanza Beam para competir con modelos chinos de IA de código abierto. Modelos como DeepSeek y Qwen se acercan a inteligencias artificiales estadounidenses avanzadas.",
+      "lang": "es",
+      "source": "Xataka",
+      "url": "https://www.xataka.com/robotica-e-ia/beam-nueva-apuesta-eeuu-para-plantar-cara-a-modelos-chinos-ia-pesos-abiertos",
+      "published": "2026-10-09T10:30:27+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "SpaceX calls for better coordination in orbit after near-misses with Starlink",
+    "summary": "SpaceX calls for improved orbital coordination after near-misses with Starlink satellites. Recent conjunctions involved distances of tens to hundreds of meters distance.",
+    "lang": "en",
+    "source": "Ars Technica",
+    "url": "https://arstechnica.com/space/2026/10/spacex-calls-for-better-coordination-in-orbit-after-near-misses-with-starlink/",
+    "published": "2026-10-08T21:37:32+00:00",
+    "event_id": "f1ae7b0e7583",
+    "sources": [
+     {
+      "title": "SpaceX calls for better coordination in orbit after near-misses with Starlink",
+      "summary": "SpaceX calls for improved orbital coordination after near-misses with Starlink satellites. Recent conjunctions involved distances of tens to hundreds of meters distance.",
+      "lang": "en",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/space/2026/10/spacex-calls-for-better-coordination-in-orbit-after-near-misses-with-starlink/",
+      "published": "2026-10-08T21:37:32+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "OpenAI doubles down on decision to fire three AI safety researchers",
+    "summary": "OpenAI stands firm on firing three safety researchers after trust violation investigation. Investigation found the researchers committed significant breach of company protocols.",
+    "lang": "en",
+    "source": "The Verge",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/1008604/openai-defends-decision-fire-safety-researchers",
+    "published": "2026-10-09T09:48:26+00:00",
+    "event_id": "15717a6b7c9a",
+    "sources": [
+     {
+      "title": "OpenAI doubles down on decision to fire three AI safety researchers",
+      "summary": "OpenAI stands firm on firing three safety researchers after trust violation investigation. Investigation found the researchers committed significant breach of company protocols.",
+      "lang": "en",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1008604/openai-defends-decision-fire-safety-researchers",
+      "published": "2026-10-09T09:48:26+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "Trump Mobile hack and apparent lack of FCC authorization raise security alarms",
+    "summary": "Trump Mobile hack and missing FCC authorization filings raise security concerns. Senator questions regulatory gaps in wireless carrier licensing and data protection.",
+    "lang": "en",
+    "source": "Ars Technica",
+    "url": "https://arstechnica.com/tech-policy/2026/10/trump-mobile-doesnt-seem-to-have-fcc-authorization-for-phone-service-senator-says/",
+    "published": "2026-10-08T20:39:31+00:00",
+    "event_id": "785366c28218",
+    "sources": [
+     {
+      "title": "Trump Mobile hack and apparent lack of FCC authorization raise security alarms",
+      "summary": "Trump Mobile hack and missing FCC authorization filings raise security concerns. Senator questions regulatory gaps in wireless carrier licensing and data protection.",
+      "lang": "en",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/tech-policy/2026/10/trump-mobile-doesnt-seem-to-have-fcc-authorization-for-phone-service-senator-says/",
+      "published": "2026-10-08T20:39:31+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "SpaceX announces plan to become a ‘major mobile carrier’",
+    "summary": "SpaceX acquires low-band spectrum licenses to launch major US mobile carrier service. Starlink Mobile will expand beyond satellite internet into terrestrial wireless operations.",
+    "lang": "en",
+    "source": "The Verge",
+    "url": "https://www.theverge.com/science/1008467/spacex-announces-plan-to-become-a-major-mobile-carrier",
+    "published": "2026-10-08T21:23:31+00:00",
+    "event_id": "be1de6b9c2b5",
+    "sources": [
+     {
+      "title": "SpaceX announces plan to become a ‘major mobile carrier’",
+      "summary": "SpaceX acquires low-band spectrum licenses to launch major US mobile carrier service. Starlink Mobile will expand beyond satellite internet into terrestrial wireless operations.",
+      "lang": "en",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/science/1008467/spacex-announces-plan-to-become-a-major-mobile-carrier",
+      "published": "2026-10-08T21:23:31+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   }
+  ],
+  "tecnologia|europa": [
+   {
+    "title": "Los drones ucranianos están consiguiendo lo que años de transición energética no lograron: que los rusos se lancen a la compra de coches eléctricos",
+    "summary": "Drones ucranianos aceleran adopción de coches eléctricos en Rusia más que años de políticas. Los ataques logran lo que subvenciones y ventajas fiscales no consiguieron.",
+    "lang": "es",
+    "source": "Xataka",
+    "url": "https://www.xataka.com/magnet/drones-ucranianos-estan-consiguiendo-que-anos-transicion-energetica-no-lograron-que-rusos-se-lancen-a-compra-coches-electricos",
+    "published": "2026-10-09T11:00:30+00:00",
+    "event_id": "121bcb46e7e8",
+    "sources": [
+     {
+      "title": "Los drones ucranianos están consiguiendo lo que años de transición energética no lograron: que los rusos se lancen a la compra de coches eléctricos",
+      "summary": "Drones ucranianos aceleran adopción de coches eléctricos en Rusia más que años de políticas. Los ataques logran lo que subvenciones y ventajas fiscales no consiguieron.",
+      "lang": "es",
+      "source": "Xataka",
+      "url": "https://www.xataka.com/magnet/drones-ucranianos-estan-consiguiendo-que-anos-transicion-energetica-no-lograron-que-rusos-se-lancen-a-compra-coches-electricos",
+      "published": "2026-10-09T11:00:30+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   }
+  ]
+ }
+}
