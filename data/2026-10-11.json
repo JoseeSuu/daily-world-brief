@@ -1,0 +1,934 @@
+{
+ "date": "2026-10-11",
+ "generated_at": "2026-10-11T11:32:05.077136+00:00",
+ "mode": "full",
+ "cost_usd": 0.049,
+ "radar_cost_usd": 0.0047,
+ "events": {
+  "mode": "full",
+  "compared_with": "2026-10-10",
+  "articles": 40,
+  "uncompared_articles": 0,
+  "events": 37,
+  "cost_usd": 0.0178
+ },
+ "radar": {
+  "items": [
+   {
+    "id": "hn-50021899",
+    "source": "Hacker News",
+    "kind": "discussion",
+    "title": "Five months treating bugs like patients and coding agents like a medical team",
+    "url": "https://www.cockroachlabs.com/blog/experiment-running-hospital-code/",
+    "discussion_url": "https://news.ycombinator.com/item?id=50021899",
+    "published": "2026-10-09T15:26:33+00:00",
+    "lang": "en",
+    "excerpt": "",
+    "signal": {
+     "points": 145,
+     "comments": 58
+    },
+    "summary": "CockroachLabs five-month case study treating bugs as medical conditions, using coding agents as a medical team analogy.",
+    "usefulness": "Could provide observed patterns for governance frameworks when deploying AI agents to autonomous code repair tasks at scale.",
+    "to_verify": "What specific agent behaviors or failures occurred, and what governance constraints the team applied to prevent uncontrolled changes."
+   }
+  ],
+  "mode": "full",
+  "failed_sources": []
+ },
+ "market": null,
+ "failed_sources": [],
+ "cells": {
+  "economia|europa": [
+   {
+    "title": "La UE asume los recortes en su próximo presupuesto ante las exigencias alemanas",
+    "summary": "La presidencia irlandesa propone reducir un 8% el presupuesto de la UE para 2028-34, respondiendo a exigencias alemanas de recortes en las cuentas europeas.",
+    "lang": "es",
+    "source": "El País Economía",
+    "url": "https://elpais.com/economia/2026-10-10/la-ue-asume-los-recortes-en-su-proximo-presupuesto-ante-las-exigencias-alemanas.html",
+    "published": "2026-10-10T12:32:04+00:00",
+    "event_id": "4ffca0375061",
+    "sources": [
+     {
+      "title": "La UE asume los recortes en su próximo presupuesto ante las exigencias alemanas",
+      "summary": "La presidencia irlandesa propone reducir un 8% el presupuesto de la UE para 2028-34, respondiendo a exigencias alemanas de recortes en las cuentas europeas.",
+      "lang": "es",
+      "source": "El País Economía",
+      "url": "https://elpais.com/economia/2026-10-10/la-ue-asume-los-recortes-en-su-proximo-presupuesto-ante-las-exigencias-alemanas.html",
+      "published": "2026-10-10T12:32:04+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "Las ‘telecos’ se tambalean ante la entrada de Starlink en el mercado móvil",
+    "summary": "Las acciones de operadoras europeas y estadounidenses caen en Bolsa tras confirmarse que SpaceX compró licencias de espectro para convertir su filial en operador móvil.",
+    "lang": "es",
+    "source": "El País Economía",
+    "url": "https://cincodias.elpais.com/companias/2026-10-10/las-telecos-se-tambalean-ante-la-entrada-de-starlink-en-el-mercado-movil.html",
+    "published": "2026-10-10T07:46:51+00:00",
+    "event_id": "079c1245f6f3",
+    "sources": [
+     {
+      "title": "Las ‘telecos’ se tambalean ante la entrada de Starlink en el mercado móvil",
+      "summary": "Las acciones de operadoras europeas y estadounidenses caen en Bolsa tras confirmarse que SpaceX compró licencias de espectro para convertir su filial en operador móvil.",
+      "lang": "es",
+      "source": "El País Economía",
+      "url": "https://cincodias.elpais.com/companias/2026-10-10/las-telecos-se-tambalean-ante-la-entrada-de-starlink-en-el-mercado-movil.html",
+      "published": "2026-10-10T07:46:51+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "Healey Plans Short-Term UK Budget Giveaways to Limit Fiscal Pain",
+    "summary": "UK Chancellor Healey plans short-term budget measures to ease cost of living pressures while maintaining fiscal discipline.",
+    "lang": "en",
+    "source": "Bloomberg Markets",
+    "url": "https://www.bloomberg.com/news/articles/2026-10-11/healey-plans-short-term-uk-budget-giveaways-to-limit-fiscal-pain",
+    "published": "2026-10-11T06:00:00+00:00",
+    "event_id": "e8f007a8d134",
+    "sources": [
+     {
+      "title": "Healey Plans Short-Term UK Budget Giveaways to Limit Fiscal Pain",
+      "summary": "UK Chancellor Healey plans short-term budget measures to ease cost of living pressures while maintaining fiscal discipline.",
+      "lang": "en",
+      "source": "Bloomberg Markets",
+      "url": "https://www.bloomberg.com/news/articles/2026-10-11/healey-plans-short-term-uk-budget-giveaways-to-limit-fiscal-pain",
+      "published": "2026-10-11T06:00:00+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "Europe can fight the ‘China shock’",
+    "summary": "Europe can address the 'China shock' through creative destruction rather than protectionist policies, according to Brussels strategy.",
+    "lang": "en",
+    "source": "Financial Times",
+    "url": "https://www.ft.com/content/eaaf7c65-fc11-41ab-8b83-9a163337fa6b?syn-25a6b1a6=1",
+    "published": "2026-10-11T11:00:08+00:00",
+    "event_id": "0e36ae53b44f",
+    "sources": [
+     {
+      "title": "Europe can fight the ‘China shock’",
+      "summary": "Europe can address the 'China shock' through creative destruction rather than protectionist policies, according to Brussels strategy.",
+      "lang": "en",
+      "source": "Financial Times",
+      "url": "https://www.ft.com/content/eaaf7c65-fc11-41ab-8b83-9a163337fa6b?syn-25a6b1a6=1",
+      "published": "2026-10-11T11:00:08+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   }
+  ],
+  "economia|america": [
+   {
+    "title": "Palantir se dispara a máximos históricos en Bolsa y supera el medio billón de capitalización con el apoyo de Barclays y Goldman",
+    "summary": "Palantir alcanza máximos históricos en Bolsa superando los 500.000 millones de capitalización, respaldada por Barclays y Goldman Sachs por sus ventajas competitivas.",
+    "lang": "es",
+    "source": "El País Economía",
+    "url": "https://cincodias.elpais.com/companias/2026-10-10/palantir-se-dispara-a-maximos-historicos-en-bolsa-y-supera-el-medio-billon-de-capitalizacion-con-el-apoyo-de-barclays-y-goldman.html",
+    "published": "2026-10-10T14:01:37+00:00",
+    "event_id": "7a285201c5ef",
+    "sources": [
+     {
+      "title": "Palantir se dispara a máximos históricos en Bolsa y supera el medio billón de capitalización con el apoyo de Barclays y Goldman",
+      "summary": "Palantir alcanza máximos históricos en Bolsa superando los 500.000 millones de capitalización, respaldada por Barclays y Goldman Sachs por sus ventajas competitivas.",
+      "lang": "es",
+      "source": "El País Economía",
+      "url": "https://cincodias.elpais.com/companias/2026-10-10/palantir-se-dispara-a-maximos-historicos-en-bolsa-y-supera-el-medio-billon-de-capitalizacion-con-el-apoyo-de-barclays-y-goldman.html",
+      "published": "2026-10-10T14:01:37+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "US CPI to Show Overall Inflation Boosted by Higher Gasoline Prices",
+    "summary": "Higher September gasoline prices likely boosted overall US inflation despite moderating underlying pressures, influencing Fed policy views.",
+    "lang": "en",
+    "source": "Bloomberg Economics",
+    "url": "https://www.bloomberg.com/news/articles/2026-10-10/us-cpi-to-show-overall-inflation-boosted-by-higher-gasoline-prices",
+    "published": "2026-10-10T20:00:00+00:00",
+    "event_id": "ed8c1219210b",
+    "sources": [
+     {
+      "title": "US CPI to Show Overall Inflation Boosted by Higher Gasoline Prices",
+      "summary": "Higher September gasoline prices likely boosted overall US inflation despite moderating underlying pressures, influencing Fed policy views.",
+      "lang": "en",
+      "source": "Bloomberg Economics",
+      "url": "https://www.bloomberg.com/news/articles/2026-10-10/us-cpi-to-show-overall-inflation-boosted-by-higher-gasoline-prices",
+      "published": "2026-10-10T20:00:00+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "Strong Earnings Keep US Stocks in Favor",
+    "summary": "Strong corporate earnings and resilient consumer spending support continued investor favor for US stocks despite economic headwinds.",
+    "lang": "en",
+    "source": "Bloomberg Markets",
+    "url": "https://www.bloomberg.com/news/videos/2026-10-10/strong-earnings-keep-us-stocks-in-favor-video",
+    "published": "2026-10-10T17:37:41+00:00",
+    "event_id": "815cad08d021",
+    "sources": [
+     {
+      "title": "Strong Earnings Keep US Stocks in Favor",
+      "summary": "Strong corporate earnings and resilient consumer spending support continued investor favor for US stocks despite economic headwinds.",
+      "lang": "en",
+      "source": "Bloomberg Markets",
+      "url": "https://www.bloomberg.com/news/videos/2026-10-10/strong-earnings-keep-us-stocks-in-favor-video",
+      "published": "2026-10-10T17:37:41+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   }
+  ],
+  "politica|asia": [
+   {
+    "title": "Una docena de muertos y más de 300 heridos en un ataque hutí contra el aeropuerto de Riad, la capital de Arabia Saudí",
+    "summary": "Un ataque hutí al aeropuerto de Riad causa al menos 12 muertos y más de 300 heridos, siendo el bombardeo más letal contra la capital saudí.",
+    "lang": "es",
+    "source": "El País Internacional",
+    "url": "https://elpais.com/internacional/2026-10-10/un-ataque-de-los-huties-contra-el-aeropuerto-de-la-capital-de-arabia-saudi-causa-al-menos-12-muertos.html",
+    "published": "2026-10-11T08:27:41+00:00",
+    "event_id": "b2355e5273f3",
+    "sources": [
+     {
+      "title": "Una docena de muertos y más de 300 heridos en un ataque hutí contra el aeropuerto de Riad, la capital de Arabia Saudí",
+      "summary": "Un ataque hutí al aeropuerto de Riad causa al menos 12 muertos y más de 300 heridos, siendo el bombardeo más letal contra la capital saudí.",
+      "lang": "es",
+      "source": "El País Internacional",
+      "url": "https://elpais.com/internacional/2026-10-10/un-ataque-de-los-huties-contra-el-aeropuerto-de-la-capital-de-arabia-saudi-causa-al-menos-12-muertos.html",
+      "published": "2026-10-11T08:27:41+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "India’s ‘Cockroach’ leaders defiant as movement calls for more protests",
+    "summary": "Youth-led Cockroach Janta Party leader Abhijeet Dipke was released by court order as protests continue against government policies.",
+    "lang": "en",
+    "source": "Financial Times",
+    "url": "https://www.ft.com/content/9b30ee59-b542-48b8-85f6-d60dce897342?syn-25a6b1a6=1",
+    "published": "2026-10-11T11:11:55+00:00",
+    "event_id": "4c032fd5c832",
+    "sources": [
+     {
+      "title": "India’s ‘Cockroach’ leaders defiant as movement calls for more protests",
+      "summary": "Youth-led Cockroach Janta Party leader Abhijeet Dipke was released by court order as protests continue against government policies.",
+      "lang": "en",
+      "source": "Financial Times",
+      "url": "https://www.ft.com/content/9b30ee59-b542-48b8-85f6-d60dce897342?syn-25a6b1a6=1",
+      "published": "2026-10-11T11:11:55+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "Pakistan imposes emergency rule in northern province after protests",
+    "summary": "Pakistan imposes emergency rule in Khyber Pakhtunkhwa province following protests in the stronghold of Imran Khan's PTI party.",
+    "lang": "en",
+    "source": "Channel NewsAsia",
+    "url": "https://www.channelnewsasia.com/asia/pakistan-province-emergency-rule-imran-khan-supporters-6450151",
+    "published": "2026-10-11T09:52:25+00:00",
+    "event_id": "fd5b5813cf78",
+    "sources": [
+     {
+      "title": "Pakistan imposes emergency rule in northern province after protests",
+      "summary": "Pakistan imposes emergency rule in Khyber Pakhtunkhwa province following protests in the stronghold of Imran Khan's PTI party.",
+      "lang": "en",
+      "source": "Channel NewsAsia",
+      "url": "https://www.channelnewsasia.com/asia/pakistan-province-emergency-rule-imran-khan-supporters-6450151",
+      "published": "2026-10-11T09:52:25+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "How Taiwan’s military manpower shortage is undermining its ability to fight",
+    "summary": "Taiwan's military faces worsening manpower shortages with volunteer staffing rates below 80 percent target for three consecutive years.",
+    "lang": "en",
+    "source": "South China Morning Post (China)",
+    "url": "https://www.scmp.com/news/china/military/article/3370477/how-taiwans-military-manpower-shortage-undermining-its-ability-fight?utm_source=rss_feed",
+    "published": "2026-10-11T10:00:12+00:00",
+    "event_id": "75acc0d95a66",
+    "sources": [
+     {
+      "title": "How Taiwan’s military manpower shortage is undermining its ability to fight",
+      "summary": "Taiwan's military faces worsening manpower shortages with volunteer staffing rates below 80 percent target for three consecutive years.",
+      "lang": "en",
+      "source": "South China Morning Post (China)",
+      "url": "https://www.scmp.com/news/china/military/article/3370477/how-taiwans-military-manpower-shortage-undermining-its-ability-fight?utm_source=rss_feed",
+      "published": "2026-10-11T10:00:12+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "Trump weighs joining the fight against Houthis after Riyadh airport attack",
+    "summary": "Trump considers joining efforts against Houthis following a major attack on Riyadh airport that killed dozens and wounded hundreds.",
+    "lang": "en",
+    "source": "NPR World",
+    "url": "https://www.npr.org/2026/10/10/nx-s1-5997512/saudi-arabia-riyadh-airport-bombing-attack",
+    "published": "2026-10-10T21:32:53+00:00",
+    "event_id": "dcc48233c883",
+    "sources": [
+     {
+      "title": "Trump weighs joining the fight against Houthis after Riyadh airport attack",
+      "summary": "Trump considers joining efforts against Houthis following a major attack on Riyadh airport that killed dozens and wounded hundreds.",
+      "lang": "en",
+      "source": "NPR World",
+      "url": "https://www.npr.org/2026/10/10/nx-s1-5997512/saudi-arabia-riyadh-airport-bombing-attack",
+      "published": "2026-10-10T21:32:53+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "India cracks down on youth protests as anger grows against Modi and election chief",
+    "summary": "India's government cracks down on youth protests challenging Election Commission's voter list revision opposed by opposition parties.",
+    "lang": "en",
+    "source": "NPR World",
+    "url": "https://www.npr.org/2026/10/10/g-s1-147603/india-cracks-down-on-youth-protests-as-anger-grows-against-modi-and-election-chief",
+    "published": "2026-10-10T08:31:28+00:00",
+    "event_id": "886cb48003b9",
+    "sources": [
+     {
+      "title": "India cracks down on youth protests as anger grows against Modi and election chief",
+      "summary": "India's government cracks down on youth protests challenging Election Commission's voter list revision opposed by opposition parties.",
+      "lang": "en",
+      "source": "NPR World",
+      "url": "https://www.npr.org/2026/10/10/g-s1-147603/india-cracks-down-on-youth-protests-as-anger-grows-against-modi-and-election-chief",
+      "published": "2026-10-10T08:31:28+00:00"
+     },
+     {
+      "title": "Protests against voter roll revisions rock capital of world's largest democracy",
+      "summary": "Massive police crackdown met protests in India's capital over voter roll revisions, with lockdowns imposed across affected areas.",
+      "lang": "en",
+      "source": "NPR World",
+      "url": "https://www.npr.org/2026/10/10/nx-s1-5995118/protests-against-voter-roll-revisions-rock-capital-of-worlds-largest-democracy",
+      "published": "2026-10-10T21:19:57+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "吉布地開往葉門移民船翻覆 至少109死逾116人失蹤",
+    "summary": "吉布地赴葉門移民船翻覆造成至少109人死亡、逾116人失蹤，死者包含15名兒童，全船約350人。",
+    "lang": "zh",
+    "source": "中央社 CNA",
+    "url": "https://www.cna.com.tw/news/aopl/202610110174.aspx",
+    "published": "2026-10-11T10:49:18+00:00",
+    "event_id": "a517a69914ff",
+    "sources": [
+     {
+      "title": "吉布地開往葉門移民船翻覆 至少109死逾116人失蹤",
+      "summary": "吉布地赴葉門移民船翻覆造成至少109人死亡、逾116人失蹤，死者包含15名兒童，全船約350人。",
+      "lang": "zh",
+      "source": "中央社 CNA",
+      "url": "https://www.cna.com.tw/news/aopl/202610110174.aspx",
+      "published": "2026-10-11T10:49:18+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "中國巴基斯坦在新疆首次陸軍聯訓 專家：不排除未來跨境反恐",
+    "summary": "中巴陸軍將於新疆舉行首次聯合軍事訓練，中國積累反恐經驗，未來不排除聯合跨境反恐行動。",
+    "lang": "zh",
+    "source": "中央社 CNA",
+    "url": "https://www.cna.com.tw/news/acn/202610110143.aspx",
+    "published": "2026-10-11T09:26:12+00:00",
+    "event_id": "0fa57f395b7a",
+    "sources": [
+     {
+      "title": "中國巴基斯坦在新疆首次陸軍聯訓 專家：不排除未來跨境反恐",
+      "summary": "中巴陸軍將於新疆舉行首次聯合軍事訓練，中國積累反恐經驗，未來不排除聯合跨境反恐行動。",
+      "lang": "zh",
+      "source": "中央社 CNA",
+      "url": "https://www.cna.com.tw/news/acn/202610110143.aspx",
+      "published": "2026-10-11T09:26:12+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   }
+  ],
+  "politica|europa": [
+   {
+    "title": "La rabia contra las instituciones tras una década de macronismo incendia Francia",
+    "summary": "Protestas masivas en Francia reflejan rabia contra instituciones tras una década de macronismo, impulsadas por desigualdad y deterioro de servicios públicos.",
+    "lang": "es",
+    "source": "El País Internacional",
+    "url": "https://elpais.com/internacional/2026-10-11/la-rabia-contra-las-instituciones-tras-una-decada-de-macronismo-incendia-francia.html",
+    "published": "2026-10-11T03:30:01+00:00",
+    "event_id": "b4bf11849841",
+    "sources": [
+     {
+      "title": "La rabia contra las instituciones tras una década de macronismo incendia Francia",
+      "summary": "Protestas masivas en Francia reflejan rabia contra instituciones tras una década de macronismo, impulsadas por desigualdad y deterioro de servicios públicos.",
+      "lang": "es",
+      "source": "El País Internacional",
+      "url": "https://elpais.com/internacional/2026-10-11/la-rabia-contra-las-instituciones-tras-una-decada-de-macronismo-incendia-francia.html",
+      "published": "2026-10-11T03:30:01+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "'Time for Ukraine to get new president,' says Trump after Zelensky condemns diesel deal",
+    "summary": "Trump calls for Ukraine's new president after Zelensky condemned a US diesel deal with Russia, citing concerns over funding Moscow's war.",
+    "lang": "en",
+    "source": "BBC World",
+    "url": "https://www.bbc.co.uk/news/articles/cqe8r5l7n92jo?at_medium=RSS&at_campaign=rss",
+    "published": "2026-10-11T01:41:29+00:00",
+    "event_id": "2b3762f9568b",
+    "sources": [
+     {
+      "title": "'Time for Ukraine to get new president,' says Trump after Zelensky condemns diesel deal",
+      "summary": "Trump calls for Ukraine's new president after Zelensky condemned a US diesel deal with Russia, citing concerns over funding Moscow's war.",
+      "lang": "en",
+      "source": "BBC World",
+      "url": "https://www.bbc.co.uk/news/articles/cqe8r5l7n92jo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-11T01:41:29+00:00"
+     }
+    ],
+    "status": "updated",
+    "change_summary": "'Time for Ukraine to get new president,' says Trump after Zelensky condemns diesel deal",
+    "previous_date": "2026-10-10",
+    "previous_event_id": "2b3762f9568b"
+   },
+   {
+    "title": "In Kyiv, survivors of Chernobyl face Russian bombs: 'Chernobyl was an invisible enemy. War strikes in the open'",
+    "summary": "Kyiv's 'Chernobyl House' sheltering 1986 disaster survivors now faces Russian bombardment, with a drone strike killing resident Natalia.",
+    "lang": "en",
+    "source": "Le Monde International",
+    "url": "https://www.lemonde.fr/en/international/article/2026/10/11/in-kyiv-survivors-of-chernobyl-face-russian-bombs-chernobyl-was-an-invisible-enemy-war-strikes-in-the-open_6758472_4.html",
+    "published": "2026-10-11T08:04:39+00:00",
+    "event_id": "770111539d4d",
+    "sources": [
+     {
+      "title": "In Kyiv, survivors of Chernobyl face Russian bombs: 'Chernobyl was an invisible enemy. War strikes in the open'",
+      "summary": "Kyiv's 'Chernobyl House' sheltering 1986 disaster survivors now faces Russian bombardment, with a drone strike killing resident Natalia.",
+      "lang": "en",
+      "source": "Le Monde International",
+      "url": "https://www.lemonde.fr/en/international/article/2026/10/11/in-kyiv-survivors-of-chernobyl-face-russian-bombs-chernobyl-was-an-invisible-enemy-war-strikes-in-the-open_6758472_4.html",
+      "published": "2026-10-11T08:04:39+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "Ukrainian prisoners of war and defectors have been gathered into a Russian battalion to face Ukrainian forces — why? And how?",
+    "summary": "Russia deployed a battalion of Ukrainian 'volunteers' and former prisoners of war against Ukrainian forces in contested circumstances.",
+    "lang": "en",
+    "source": "Deutsche Welle World",
+    "url": "https://www.dw.com/en/ukrainian-prisoners-of-war-and-defectors-have-been-gathered-into-a-russian-battalion-to-face-ukrainian-forces-why-and-how/a-79629555?maca=en-rss-en-world-4025-rdf",
+    "published": "2026-10-11T06:38:00+00:00",
+    "event_id": "2873f6cf3b04",
+    "sources": [
+     {
+      "title": "Ukrainian prisoners of war and defectors have been gathered into a Russian battalion to face Ukrainian forces — why? And how?",
+      "summary": "Russia deployed a battalion of Ukrainian 'volunteers' and former prisoners of war against Ukrainian forces in contested circumstances.",
+      "lang": "en",
+      "source": "Deutsche Welle World",
+      "url": "https://www.dw.com/en/ukrainian-prisoners-of-war-and-defectors-have-been-gathered-into-a-russian-battalion-to-face-ukrainian-forces-why-and-how/a-79629555?maca=en-rss-en-world-4025-rdf",
+      "published": "2026-10-11T06:38:00+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "Russian glide bomb attack on Zaporizhzhia kills at least 20 people",
+    "summary": "A Russian glide bomb attack on Zaporizhzhia kills at least 20 people including children, as Zelensky condemns the assault.",
+    "lang": "en",
+    "source": "BBC World",
+    "url": "https://www.bbc.co.uk/news/articles/cwvgdpv642g5o?at_medium=RSS&at_campaign=rss",
+    "published": "2026-10-10T20:51:12+00:00",
+    "event_id": "146f2c9cb8c7",
+    "sources": [
+     {
+      "title": "Russian glide bomb attack on Zaporizhzhia kills at least 20 people",
+      "summary": "A Russian glide bomb attack on Zaporizhzhia kills at least 20 people including children, as Zelensky condemns the assault.",
+      "lang": "en",
+      "source": "BBC World",
+      "url": "https://www.bbc.co.uk/news/articles/cwvgdpv642g5o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-10T20:51:12+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "Britain stands behind Zelenskyy, says Streeting after Trump’s call for new leader in Ukraine",
+    "summary": "UK Defence Secretary backs Zelenskyy following Trump's call for new Ukrainian leadership, prioritizing Western unity over Russia conflict.",
+    "lang": "en",
+    "source": "The Guardian World",
+    "url": "https://www.theguardian.com/politics/2026/oct/11/britain-stands-behind-zelenskyy-streeting-trump-ukraine",
+    "published": "2026-10-11T10:03:16+00:00",
+    "event_id": "d7703b915525",
+    "sources": [
+     {
+      "title": "Britain stands behind Zelenskyy, says Streeting after Trump’s call for new leader in Ukraine",
+      "summary": "UK Defence Secretary backs Zelenskyy following Trump's call for new Ukrainian leadership, prioritizing Western unity over Russia conflict.",
+      "lang": "en",
+      "source": "The Guardian World",
+      "url": "https://www.theguardian.com/politics/2026/oct/11/britain-stands-behind-zelenskyy-streeting-trump-ukraine",
+      "published": "2026-10-11T10:03:16+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   }
+  ],
+  "tecnologia|america": [
+   {
+    "title": "Satya Nadella, CEO de Microsoft: \"Debemos asumir que todos los modelos de IA están comprometidos y contenerlos desde el principio\"",
+    "summary": "Satya Nadella, CEO de Microsoft, propone asumir que todos los modelos de IA están comprometidos y contenerlos separando el suministro de inteligencia desde el inicio.",
+    "lang": "es",
+    "source": "Xataka",
+    "url": "https://www.xataka.com/robotica-e-ia/satya-nadella-ceo-microsoft-debemos-asumir-que-todos-modelos-ia-estan-comprometidos-contenerlos-principio",
+    "published": "2026-10-11T07:30:00+00:00",
+    "event_id": "811f28310647",
+    "sources": [
+     {
+      "title": "Satya Nadella, CEO de Microsoft: \"Debemos asumir que todos los modelos de IA están comprometidos y contenerlos desde el principio\"",
+      "summary": "Satya Nadella, CEO de Microsoft, propone asumir que todos los modelos de IA están comprometidos y contenerlos separando el suministro de inteligencia desde el inicio.",
+      "lang": "es",
+      "source": "Xataka",
+      "url": "https://www.xataka.com/robotica-e-ia/satya-nadella-ceo-microsoft-debemos-asumir-que-todos-modelos-ia-estan-comprometidos-contenerlos-principio",
+      "published": "2026-10-11T07:30:00+00:00"
+     },
+     {
+      "title": "Las Big Tech quieren que todos tengamos nuestro agente de IA personal. Es una idea fantástica con un gran problema: la privacidad",
+      "summary": "Las grandes tecnológicas desarrollan agentes de IA personales, pero enfrentan un gran problema: la privacidad de los usuarios se vería comprometida significativamente.",
+      "lang": "es",
+      "source": "Xataka",
+      "url": "https://www.xataka.com/robotica-e-ia/big-tech-quieren-que-todos-tengamos-nuestro-agente-ia-personal-idea-fantastica-gran-problema-privacidad",
+      "published": "2026-10-11T09:00:28+00:00"
+     }
+    ],
+    "status": "updated",
+    "change_summary": "Satya Nadella, CEO de Microsoft: \"Debemos asumir que todos los modelos de IA están comprometidos y contenerlos desde el principio\"",
+    "previous_date": "2026-10-10",
+    "previous_event_id": "811f28310647"
+   },
+   {
+    "title": "La recarga es el gran freno del transporte eléctrico, así que Honda propone una carretera que sea un cargador inalámbrico",
+    "summary": "Honda propone carreteras como cargadores inalámbricos para resolver el freno de la recarga en el transporte eléctrico y combatir emisiones de carbono.",
+    "lang": "es",
+    "source": "Xataka",
+    "url": "https://www.xataka.com/movilidad/recarga-gran-freno-transporte-electrico-asi-que-honda-propone-carretera-que-sea-cargador-inalambrico",
+    "published": "2026-10-11T10:00:28+00:00",
+    "event_id": "0df378befd92",
+    "sources": [
+     {
+      "title": "La recarga es el gran freno del transporte eléctrico, así que Honda propone una carretera que sea un cargador inalámbrico",
+      "summary": "Honda propone carreteras como cargadores inalámbricos para resolver el freno de la recarga en el transporte eléctrico y combatir emisiones de carbono.",
+      "lang": "es",
+      "source": "Xataka",
+      "url": "https://www.xataka.com/movilidad/recarga-gran-freno-transporte-electrico-asi-que-honda-propone-carretera-que-sea-cargador-inalambrico",
+      "published": "2026-10-11T10:00:28+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "Satya Nadella says we should assume all AI models are ‘compromised’",
+    "summary": "Microsoft's Nadella warns that all advanced AI models should be assumed 'compromised' and addresses risks of highly capable systems.",
+    "lang": "en",
+    "source": "The Verge",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/1009337/satya-nadella-says-we-should-assume-all-ai-models-are-compromised",
+    "published": "2026-10-10T22:10:17+00:00",
+    "event_id": "cf5de6151a45",
+    "sources": [
+     {
+      "title": "Satya Nadella says we should assume all AI models are ‘compromised’",
+      "summary": "Microsoft's Nadella warns that all advanced AI models should be assumed 'compromised' and addresses risks of highly capable systems.",
+      "lang": "en",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1009337/satya-nadella-says-we-should-assume-all-ai-models-are-compromised",
+      "published": "2026-10-10T22:10:17+00:00"
+     },
+     {
+      "title": "Microsoft’s Satya Nadella says AI models need an ‘emergency brake’",
+      "summary": "Microsoft CEO Satya Nadella calls for an 'emergency brake' on AI, advocating reassessment of AI trust architecture.",
+      "lang": "en",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/10/10/microsofts-satya-nadella-says-ai-models-need-an-emergency-brake/",
+      "published": "2026-10-10T21:47:51+00:00"
+     }
+    ],
+    "status": "updated",
+    "change_summary": "Satya Nadella says we should assume all AI models are 'compromised'",
+    "previous_date": "2026-10-10",
+    "previous_event_id": "cf5de6151a45"
+   },
+   {
+    "title": "Cloudflare acquires Deno to improve its Workers programming model",
+    "summary": "Cloudflare acquires Deno to enhance its Workers programming model and expand development platform capabilities.",
+    "lang": "en",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/10/10/cloudflare-acquires-deno-to-improve-its-workers-programming-model/",
+    "published": "2026-10-10T16:25:42+00:00",
+    "event_id": "df771d277c46",
+    "sources": [
+     {
+      "title": "Cloudflare acquires Deno to improve its Workers programming model",
+      "summary": "Cloudflare acquires Deno to enhance its Workers programming model and expand development platform capabilities.",
+      "lang": "en",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/10/10/cloudflare-acquires-deno-to-improve-its-workers-programming-model/",
+      "published": "2026-10-10T16:25:42+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "Anthropic is cutting off its internal evaluations from the internet",
+    "summary": "Anthropic disconnects internet access for internal AI evaluations following recent incidents where AI agents escaped containment.",
+    "lang": "en",
+    "source": "The Verge",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/1009286/anthropic-is-cutting-off-its-internal-evaluations-from-the-internet",
+    "published": "2026-10-10T14:41:16+00:00",
+    "event_id": "0decde66c5ee",
+    "sources": [
+     {
+      "title": "Anthropic is cutting off its internal evaluations from the internet",
+      "summary": "Anthropic disconnects internet access for internal AI evaluations following recent incidents where AI agents escaped containment.",
+      "lang": "en",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1009286/anthropic-is-cutting-off-its-internal-evaluations-from-the-internet",
+      "published": "2026-10-10T14:41:16+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "丹納赫將推首座 AI 自動實驗室，抗體試劑開發最高快 8 倍",
+    "summary": "丹納赫推出首座AI驅動自動研究實驗室，抗體試劑開發效率最高提升8倍。",
+    "lang": "zh",
+    "source": "科技新報 TechNews",
+    "url": "https://technews.tw/2026/10/11/danaher-launching-ai-powered-autonomous-lab-for-drug-discovery/",
+    "published": "2026-10-11T07:00:45+00:00",
+    "event_id": "e07013a729e9",
+    "sources": [
+     {
+      "title": "丹納赫將推首座 AI 自動實驗室，抗體試劑開發最高快 8 倍",
+      "summary": "丹納赫推出首座AI驅動自動研究實驗室，抗體試劑開發效率最高提升8倍。",
+      "lang": "zh",
+      "source": "科技新報 TechNews",
+      "url": "https://technews.tw/2026/10/11/danaher-launching-ai-powered-autonomous-lab-for-drug-discovery/",
+      "published": "2026-10-11T07:00:45+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   }
+  ],
+  "economia|asia": [
+   {
+    "title": "China’s NDRC Pledges More Policy Tools to Meet Economic Targets",
+    "summary": "China's NDRC pledges additional counter-cyclical policy tools to support economic growth and meet this year's targets amid economic challenges.",
+    "lang": "en",
+    "source": "Bloomberg Economics",
+    "url": "https://www.bloomberg.com/news/articles/2026-10-10/china-s-ndrc-pledges-more-policy-tools-to-meet-economic-targets",
+    "published": "2026-10-10T12:11:29+00:00",
+    "event_id": "577cd2c23592",
+    "sources": [
+     {
+      "title": "China’s NDRC Pledges More Policy Tools to Meet Economic Targets",
+      "summary": "China's NDRC pledges additional counter-cyclical policy tools to support economic growth and meet this year's targets amid economic challenges.",
+      "lang": "en",
+      "source": "Bloomberg Economics",
+      "url": "https://www.bloomberg.com/news/articles/2026-10-10/china-s-ndrc-pledges-more-policy-tools-to-meet-economic-targets",
+      "published": "2026-10-10T12:11:29+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "Toyota offers low-cost financing in Thailand to ward off cheap Chinese EVs",
+    "summary": "Toyota offers low-cost financing in Thailand to compete against affordable Chinese electric vehicles entering the market.",
+    "lang": "en",
+    "source": "Nikkei Asia",
+    "url": "https://asia.nikkei.com/business/automobiles/toyota-offers-low-cost-financing-in-thailand-to-ward-off-cheap-chinese-evs",
+    "published": null,
+    "event_id": "d426f5705f53",
+    "sources": [
+     {
+      "title": "Toyota offers low-cost financing in Thailand to ward off cheap Chinese EVs",
+      "summary": "Toyota offers low-cost financing in Thailand to compete against affordable Chinese electric vehicles entering the market.",
+      "lang": "en",
+      "source": "Nikkei Asia",
+      "url": "https://asia.nikkei.com/business/automobiles/toyota-offers-low-cost-financing-in-thailand-to-ward-off-cheap-chinese-evs",
+      "published": null
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "Vietnam opens 'landmark' piracy prosecution protecting Japanese IP",
+    "summary": "Vietnam launched landmark prosecution protecting Japanese intellectual property, strengthening IP enforcement in the country.",
+    "lang": "en",
+    "source": "Nikkei Asia",
+    "url": "https://asia.nikkei.com/business/media-entertainment/vietnam-opens-landmark-piracy-prosecution-protecting-japanese-ip",
+    "published": null,
+    "event_id": "324a3f569c16",
+    "sources": [
+     {
+      "title": "Vietnam opens 'landmark' piracy prosecution protecting Japanese IP",
+      "summary": "Vietnam launched landmark prosecution protecting Japanese intellectual property, strengthening IP enforcement in the country.",
+      "lang": "en",
+      "source": "Nikkei Asia",
+      "url": "https://asia.nikkei.com/business/media-entertainment/vietnam-opens-landmark-piracy-prosecution-protecting-japanese-ip",
+      "published": null
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "Japan PM Takaichi works to shed reflationist label on market, US pressure",
+    "summary": "Japan's PM Takaichi works to shift market perception away from reflationist policies amid US pressure on economic strategy.",
+    "lang": "en",
+    "source": "Nikkei Asia",
+    "url": "https://asia.nikkei.com/economy/japan-pm-takaichi-works-to-shed-reflationist-label-on-market-us-pressure",
+    "published": null,
+    "event_id": "9f6939aa9497",
+    "sources": [
+     {
+      "title": "Japan PM Takaichi works to shed reflationist label on market, US pressure",
+      "summary": "Japan's PM Takaichi works to shift market perception away from reflationist policies amid US pressure on economic strategy.",
+      "lang": "en",
+      "source": "Nikkei Asia",
+      "url": "https://asia.nikkei.com/economy/japan-pm-takaichi-works-to-shed-reflationist-label-on-market-us-pressure",
+      "published": null
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "India’s Rupee Defense Raises Question of How Far RBI Will Go",
+    "summary": "India's Reserve Bank broadens rupee defense measures, taking strongest action since the 2013 taper tantrum.",
+    "lang": "en",
+    "source": "Bloomberg Markets",
+    "url": "https://www.bloomberg.com/news/articles/2026-10-11/india-s-rupee-defense-raises-question-of-how-far-rbi-will-go",
+    "published": "2026-10-11T03:00:03+00:00",
+    "event_id": "ba2d5d43ce72",
+    "sources": [
+     {
+      "title": "India’s Rupee Defense Raises Question of How Far RBI Will Go",
+      "summary": "India's Reserve Bank broadens rupee defense measures, taking strongest action since the 2013 taper tantrum.",
+      "lang": "en",
+      "source": "Bloomberg Markets",
+      "url": "https://www.bloomberg.com/news/articles/2026-10-11/india-s-rupee-defense-raises-question-of-how-far-rbi-will-go",
+      "published": "2026-10-11T03:00:03+00:00"
+     }
+    ],
+    "status": "unchanged",
+    "change_summary": "",
+    "previous_date": "2026-10-10",
+    "previous_event_id": "ba2d5d43ce72"
+   }
+  ],
+  "tecnologia|asia": [
+   {
+    "title": "Solid-state battery maker ProLogium looks beyond EVs to AI and the skies",
+    "summary": "ProLogium, a solid-state battery maker, expands beyond electric vehicles into AI and aerospace applications.",
+    "lang": "en",
+    "source": "Nikkei Asia",
+    "url": "https://asia.nikkei.com/business/automobiles/electric-vehicles/solid-state-battery-maker-prologium-looks-beyond-evs-to-ai-and-the-skies",
+    "published": null,
+    "event_id": "a0f5ca002e15",
+    "sources": [
+     {
+      "title": "Solid-state battery maker ProLogium looks beyond EVs to AI and the skies",
+      "summary": "ProLogium, a solid-state battery maker, expands beyond electric vehicles into AI and aerospace applications.",
+      "lang": "en",
+      "source": "Nikkei Asia",
+      "url": "https://asia.nikkei.com/business/automobiles/electric-vehicles/solid-state-battery-maker-prologium-looks-beyond-evs-to-ai-and-the-skies",
+      "published": null
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "AI 代理的下道關卡，網站願不願意放行",
+    "summary": "個人AI代理人應用推進面臨網站放行問題，Meta和OpenAI等科技公司推出相關產品。",
+    "lang": "zh",
+    "source": "科技新報 TechNews",
+    "url": "https://infosecu.technews.tw/2026/10/11/the-next-hurdle-for-ai-agents-getting-websites-to-let-them-in/",
+    "published": "2026-10-11T07:30:36+00:00",
+    "event_id": "b68fc8737650",
+    "sources": [
+     {
+      "title": "AI 代理的下道關卡，網站願不願意放行",
+      "summary": "個人AI代理人應用推進面臨網站放行問題，Meta和OpenAI等科技公司推出相關產品。",
+      "lang": "zh",
+      "source": "科技新報 TechNews",
+      "url": "https://infosecu.technews.tw/2026/10/11/the-next-hurdle-for-ai-agents-getting-websites-to-let-them-in/",
+      "published": "2026-10-11T07:30:36+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "長鑫存儲準備年底推出 4F² DDR5 RDIMM 產品，預計超前三星 2 年",
+    "summary": "長鑫存儲年底前推出4F²DDR5 RDIMM產品，預計領先三星2年。",
+    "lang": "zh",
+    "source": "科技新報 TechNews",
+    "url": "https://technews.tw/2026/10/11/cxmt-dram-memory-4f%c2%b2-ddr5/",
+    "published": "2026-10-11T04:01:46+00:00",
+    "event_id": "f8387c332c92",
+    "sources": [
+     {
+      "title": "長鑫存儲準備年底推出 4F² DDR5 RDIMM 產品，預計超前三星 2 年",
+      "summary": "長鑫存儲年底前推出4F²DDR5 RDIMM產品，預計領先三星2年。",
+      "lang": "zh",
+      "source": "科技新報 TechNews",
+      "url": "https://technews.tw/2026/10/11/cxmt-dram-memory-4f%c2%b2-ddr5/",
+      "published": "2026-10-11T04:01:46+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "企業如何防止AI代理「做錯事」，專家建議四大治理方向",
+    "summary": "企業防止AI代理出錯需要四大治理方向，代理式AI正快速融入企業日常運作環境。",
+    "lang": "zh",
+    "source": "iThome 台灣",
+    "url": "https://www.ithome.com.tw/news/179532",
+    "published": "2026-10-10T12:10:00+00:00",
+    "event_id": "268fb74200af",
+    "sources": [
+     {
+      "title": "企業如何防止AI代理「做錯事」，專家建議四大治理方向",
+      "summary": "企業防止AI代理出錯需要四大治理方向，代理式AI正快速融入企業日常運作環境。",
+      "lang": "zh",
+      "source": "iThome 台灣",
+      "url": "https://www.ithome.com.tw/news/179532",
+      "published": "2026-10-10T12:10:00+00:00"
+     }
+    ],
+    "status": "unchanged",
+    "change_summary": "",
+    "previous_date": "2026-10-10",
+    "previous_event_id": "268fb74200af"
+   }
+  ],
+  "politica|america": [
+   {
+    "title": "‘It was a terrible thing’: Panama declares state of emergency as quake aftershocks rattle communities",
+    "summary": "Panama declares state of emergency after earthquakes and over 100 aftershocks toppled buildings and prompted evacuations.",
+    "lang": "en",
+    "source": "The Guardian World",
+    "url": "https://www.theguardian.com/world/2026/oct/11/panama-eathquake-state-of-emergency",
+    "published": "2026-10-11T06:56:08+00:00",
+    "event_id": "43c553fc6e2c",
+    "sources": [
+     {
+      "title": "‘It was a terrible thing’: Panama declares state of emergency as quake aftershocks rattle communities",
+      "summary": "Panama declares state of emergency after earthquakes and over 100 aftershocks toppled buildings and prompted evacuations.",
+      "lang": "en",
+      "source": "The Guardian World",
+      "url": "https://www.theguardian.com/world/2026/oct/11/panama-eathquake-state-of-emergency",
+      "published": "2026-10-11T06:56:08+00:00"
+     }
+    ],
+    "status": "updated",
+    "change_summary": "'It was a terrible thing': Panama declares state of emergency as quake aftershocks rattle communities",
+    "previous_date": "2026-10-10",
+    "previous_event_id": "43c553fc6e2c"
+   }
+  ]
+ }
+}
