@@ -1,0 +1,751 @@
+{
+ "date": "2026-10-12",
+ "generated_at": "2026-10-12T13:24:04.416801+00:00",
+ "mode": "full",
+ "cost_usd": 0.0447,
+ "radar_cost_usd": 0.0046,
+ "events": {
+  "mode": "full",
+  "compared_with": "2026-10-11",
+  "articles": 32,
+  "uncompared_articles": 0,
+  "events": 29,
+  "cost_usd": 0.0171
+ },
+ "radar": {
+  "items": [
+   {
+    "id": "gh-1403307052",
+    "source": "GitHub",
+    "kind": "project",
+    "title": "jiwoochris/artex-ko",
+    "url": "https://github.com/jiwoochris/artex-ko",
+    "discussion_url": "",
+    "published": "2026-10-03T14:49:48Z",
+    "lang": "en",
+    "excerpt": "ARTEX 한국어판 · AI 자율 침투 테스트 프레임워크(upstream: Autumn-27/ARTEX, AGPL-3.0)",
+    "signal": {
+     "stars_total": 1354
+    },
+    "summary": "Author presents ARTEX, described as an AI autonomous penetration testing framework, with a Korean language variant based on upstream Autumn-27/ARTEX under AGPL-3.0.",
+    "usefulness": "Could serve as a reference for understanding how agents are designed to operate autonomously within security contexts, relevant to AI governance study.",
+    "to_verify": "What specific autonomous capabilities ARTEX demonstrates; whether it has been peer-reviewed or deployed in production security testing."
+   }
+  ],
+  "mode": "full",
+  "failed_sources": []
+ },
+ "market": null,
+ "failed_sources": [],
+ "cells": {
+  "economia|europa": [
+   {
+    "title": "Michael Woodford y Robert E. Hall ganan el Nobel de Economía por sus propuestas para suavizar crisis y burbujas",
+    "summary": "Michael Woodford y Robert E. Hall ganaron el Premio Nobel de Economía por investigar cómo estabilizar economías mediante políticas monetarias y fiscales durante crisis y burbujas.",
+    "lang": "es",
+    "source": "El País Economía",
+    "url": "https://elpais.com/economia/2026-10-12/premio-nobel-de-economia-2026-en-directo-para.html",
+    "published": "2026-10-12T12:03:27+00:00",
+    "event_id": "e12bda5f8bf4",
+    "sources": [
+     {
+      "title": "Michael Woodford y Robert E. Hall ganan el Nobel de Economía por sus propuestas para suavizar crisis y burbujas",
+      "summary": "Michael Woodford y Robert E. Hall ganaron el Premio Nobel de Economía por investigar cómo estabilizar economías mediante políticas monetarias y fiscales durante crisis y burbujas.",
+      "lang": "es",
+      "source": "El País Economía",
+      "url": "https://elpais.com/economia/2026-10-12/premio-nobel-de-economia-2026-en-directo-para.html",
+      "published": "2026-10-12T12:03:27+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "Francia ya ha tenido 800 horas de electricidad gratis (y hasta de precio negativo) por estos motivos",
+    "summary": "Francia registró 800 horas de electricidad gratuita o con precio negativo debido al auge de energías renovables, especialmente solar, que genera exceso de oferta en ciertas horas.",
+    "lang": "es",
+    "source": "Xataka",
+    "url": "https://www.xataka.com/energia/francia-ha-tenido-800-horas-electricidad-gratis-precio-negativo-estos-motivos",
+    "published": "2026-10-12T12:30:25+00:00",
+    "event_id": "23bcfa4dd487",
+    "sources": [
+     {
+      "title": "Francia ya ha tenido 800 horas de electricidad gratis (y hasta de precio negativo) por estos motivos",
+      "summary": "Francia registró 800 horas de electricidad gratuita o con precio negativo debido al auge de energías renovables, especialmente solar, que genera exceso de oferta en ciertas horas.",
+      "lang": "es",
+      "source": "Xataka",
+      "url": "https://www.xataka.com/energia/francia-ha-tenido-800-horas-electricidad-gratis-precio-negativo-estos-motivos",
+      "published": "2026-10-12T12:30:25+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "VW chief calls for France and Germany to co-operate on China car fightback",
+    "summary": "Volkswagen's CEO calls for France and Germany to cooperate against Chinese competition ahead of the Paris Motor Show.",
+    "lang": "en",
+    "source": "FT Global Economy",
+    "url": "https://www.ft.com/content/258611cc-d4ec-40f7-9d3e-930991725837?syn-25a6b1a6=1",
+    "published": "2026-10-11T18:09:24+00:00",
+    "event_id": "8c12111a557e",
+    "sources": [
+     {
+      "title": "VW chief calls for France and Germany to co-operate on China car fightback",
+      "summary": "Volkswagen's CEO calls for France and Germany to cooperate against Chinese competition ahead of the Paris Motor Show.",
+      "lang": "en",
+      "source": "FT Global Economy",
+      "url": "https://www.ft.com/content/258611cc-d4ec-40f7-9d3e-930991725837?syn-25a6b1a6=1",
+      "published": "2026-10-11T18:09:24+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "Bank of England’s Breeden in No Rush to Launch ‘Britcoin’",
+    "summary": "Bank of England Deputy Governor Sarah Breeden says there is no rush to launch a central bank digital currency for the public.",
+    "lang": "en",
+    "source": "Bloomberg Economics",
+    "url": "https://www.bloomberg.com/news/articles/2026-10-12/bank-of-england-s-breeden-in-no-rush-to-launch-britcoin",
+    "published": "2026-10-12T10:58:38+00:00",
+    "event_id": "ac6752a8064d",
+    "sources": [
+     {
+      "title": "Bank of England’s Breeden in No Rush to Launch ‘Britcoin’",
+      "summary": "Bank of England Deputy Governor Sarah Breeden says there is no rush to launch a central bank digital currency for the public.",
+      "lang": "en",
+      "source": "Bloomberg Economics",
+      "url": "https://www.bloomberg.com/news/articles/2026-10-12/bank-of-england-s-breeden-in-no-rush-to-launch-britcoin",
+      "published": "2026-10-12T10:58:38+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "EU warns against large cuts to bloc budget",
+    "summary": "L'UE avertit contre les réductions budgétaires importantes du bloc après une proposition de réduction de 141 milliards d'euros.",
+    "lang": "en",
+    "source": "Le Monde International",
+    "url": "https://www.lemonde.fr/en/economy/article/2026/10/12/eu-warns-against-large-cuts-to-bloc-budget_6758513_19.html",
+    "published": "2026-10-12T12:32:56+00:00",
+    "event_id": "4ffca0375061",
+    "sources": [
+     {
+      "title": "EU warns against large cuts to bloc budget",
+      "summary": "L'UE avertit contre les réductions budgétaires importantes du bloc après une proposition de réduction de 141 milliards d'euros.",
+      "lang": "en",
+      "source": "Le Monde International",
+      "url": "https://www.lemonde.fr/en/economy/article/2026/10/12/eu-warns-against-large-cuts-to-bloc-budget_6758513_19.html",
+      "published": "2026-10-12T12:32:56+00:00"
+     }
+    ],
+    "status": "unchanged",
+    "change_summary": "",
+    "previous_date": "2026-10-11",
+    "previous_event_id": "4ffca0375061"
+   }
+  ],
+  "tecnologia|europa": [
+   {
+    "title": "La gran paradoja de la IA es que creará más empleo del que destruye. El problema es que casi nadie está preparado",
+    "summary": "La IA destruirá menos empleos de los que creará, aunque la mayoría de trabajadores no está preparada para la transición, como ocurrió con los contables en los años ochenta.",
+    "lang": "es",
+    "source": "Xataka",
+    "url": "https://www.xataka.com/empresas-y-economia/gran-paradoja-ia-que-creara-empleo-que-destruye-problema-que-casi-nadie-esta-preparado",
+    "published": "2026-10-12T11:30:27+00:00",
+    "event_id": "58703958bc64",
+    "sources": [
+     {
+      "title": "La gran paradoja de la IA es que creará más empleo del que destruye. El problema es que casi nadie está preparado",
+      "summary": "La IA destruirá menos empleos de los que creará, aunque la mayoría de trabajadores no está preparada para la transición, como ocurrió con los contables en los años ochenta.",
+      "lang": "es",
+      "source": "Xataka",
+      "url": "https://www.xataka.com/empresas-y-economia/gran-paradoja-ia-que-creara-empleo-que-destruye-problema-que-casi-nadie-esta-preparado",
+      "published": "2026-10-12T11:30:27+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "漏洞挖掘競賽Pwn2Own Ireland 2026共找出近100個零時差漏洞",
+    "summary": "Pwn2Own Ireland 2026漏洞挖掘竞赛发现近100个零时差漏洞，覆盖智能手机、家庭设备、打印机等7种类型。",
+    "lang": "zh",
+    "source": "iThome 台灣",
+    "url": "https://www.ithome.com.tw/news/179590",
+    "published": "2026-10-12T05:10:16+00:00",
+    "event_id": "263a4848dd9b",
+    "sources": [
+     {
+      "title": "漏洞挖掘競賽Pwn2Own Ireland 2026共找出近100個零時差漏洞",
+      "summary": "Pwn2Own Ireland 2026漏洞挖掘竞赛发现近100个零时差漏洞，覆盖智能手机、家庭设备、打印机等7种类型。",
+      "lang": "zh",
+      "source": "iThome 台灣",
+      "url": "https://www.ithome.com.tw/news/179590",
+      "published": "2026-10-12T05:10:16+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   }
+  ],
+  "economia|asia": [
+   {
+    "title": "India Inflation Hits Two-Year High, Backs RBI Tightening",
+    "summary": "India's inflation reached a two-year high in September, approaching the central bank's 6% tolerance ceiling and reinforcing its decision to tighten monetary policy.",
+    "lang": "en",
+    "source": "Bloomberg Economics",
+    "url": "https://www.bloomberg.com/news/articles/2026-10-12/india-inflation-hits-almost-two-year-high-backs-rbi-tightening",
+    "published": "2026-10-12T10:32:18+00:00",
+    "event_id": "b52015da6a20",
+    "sources": [
+     {
+      "title": "India Inflation Hits Two-Year High, Backs RBI Tightening",
+      "summary": "India's inflation reached a two-year high in September, approaching the central bank's 6% tolerance ceiling and reinforcing its decision to tighten monetary policy.",
+      "lang": "en",
+      "source": "Bloomberg Economics",
+      "url": "https://www.bloomberg.com/news/articles/2026-10-12/india-inflation-hits-almost-two-year-high-backs-rbi-tightening",
+      "published": "2026-10-12T10:32:18+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "China's peak-season auto sales flop with sharpest monthly drop of year",
+    "summary": "China's auto sales declined sharply in September, marking the steepest monthly drop of the year during peak season.",
+    "lang": "en",
+    "source": "Nikkei Asia",
+    "url": "https://asia.nikkei.com/business/automobiles/china-s-peak-season-auto-sales-flop-with-sharpest-monthly-drop-of-year",
+    "published": null,
+    "event_id": "c05401190259",
+    "sources": [
+     {
+      "title": "China's peak-season auto sales flop with sharpest monthly drop of year",
+      "summary": "China's auto sales declined sharply in September, marking the steepest monthly drop of the year during peak season.",
+      "lang": "en",
+      "source": "Nikkei Asia",
+      "url": "https://asia.nikkei.com/business/automobiles/china-s-peak-season-auto-sales-flop-with-sharpest-monthly-drop-of-year",
+      "published": null
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "India's Kaynes Semicon eyes foreign help as it targets $31m revenue",
+    "summary": "India's Kaynes Semicon seeks international partnerships to achieve its $31 million revenue target.",
+    "lang": "en",
+    "source": "Nikkei Asia",
+    "url": "https://asia.nikkei.com/editor-s-picks/interview/india-s-kaynes-semicon-eyes-foreign-help-as-it-targets-31m-revenue",
+    "published": null,
+    "event_id": "e97178bcc684",
+    "sources": [
+     {
+      "title": "India's Kaynes Semicon eyes foreign help as it targets $31m revenue",
+      "summary": "India's Kaynes Semicon seeks international partnerships to achieve its $31 million revenue target.",
+      "lang": "en",
+      "source": "Nikkei Asia",
+      "url": "https://asia.nikkei.com/editor-s-picks/interview/india-s-kaynes-semicon-eyes-foreign-help-as-it-targets-31m-revenue",
+      "published": null
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "Inflation, AI and climate: IMF kicks off key meeting in Bangkok",
+    "summary": "The IMF convenes a key meeting in Bangkok to address inflation, artificial intelligence, and climate issues.",
+    "lang": "en",
+    "source": "Nikkei Asia",
+    "url": "https://asia.nikkei.com/economy/inflation-ai-and-climate-imf-kicks-off-key-meeting-in-bangkok",
+    "published": null,
+    "event_id": "2001546f2b32",
+    "sources": [
+     {
+      "title": "Inflation, AI and climate: IMF kicks off key meeting in Bangkok",
+      "summary": "The IMF convenes a key meeting in Bangkok to address inflation, artificial intelligence, and climate issues.",
+      "lang": "en",
+      "source": "Nikkei Asia",
+      "url": "https://asia.nikkei.com/economy/inflation-ai-and-climate-imf-kicks-off-key-meeting-in-bangkok",
+      "published": null
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "IMF and World Bank to warn central bankers of a gathering storm",
+    "summary": "The IMF and World Bank warn central bankers of emerging challenges at annual meetings in Bangkok; Dublin hosts AI summit.",
+    "lang": "en",
+    "source": "FT Global Economy",
+    "url": "https://www.ft.com/content/5b90cdd3-b78b-44ee-8045-8a0602ac0ef4?syn-25a6b1a6=1",
+    "published": "2026-10-11T17:15:01+00:00",
+    "event_id": "c4f7da57e4f3",
+    "sources": [
+     {
+      "title": "IMF and World Bank to warn central bankers of a gathering storm",
+      "summary": "The IMF and World Bank warn central bankers of emerging challenges at annual meetings in Bangkok; Dublin hosts AI summit.",
+      "lang": "en",
+      "source": "FT Global Economy",
+      "url": "https://www.ft.com/content/5b90cdd3-b78b-44ee-8045-8a0602ac0ef4?syn-25a6b1a6=1",
+      "published": "2026-10-11T17:15:01+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   }
+  ],
+  "politica|america": [
+   {
+    "title": "Trump says Russia and Ukraine agree to an 'energy ceasefire'",
+    "summary": "Trump announces Russia and Ukraine agreed to an 'energy ceasefire,' though Kyiv reports continued Russian attacks on energy infrastructure.",
+    "lang": "en",
+    "source": "NPR World",
+    "url": "https://www.npr.org/2026/10/12/nx-s1-5998614/trump-russia-ukraine-energy-ceasefire",
+    "published": "2026-10-12T06:41:57+00:00",
+    "event_id": "2b3762f9568b",
+    "sources": [
+     {
+      "title": "Trump says Russia and Ukraine agree to an 'energy ceasefire'",
+      "summary": "Trump announces Russia and Ukraine agreed to an 'energy ceasefire,' though Kyiv reports continued Russian attacks on energy infrastructure.",
+      "lang": "en",
+      "source": "NPR World",
+      "url": "https://www.npr.org/2026/10/12/nx-s1-5998614/trump-russia-ukraine-energy-ceasefire",
+      "published": "2026-10-12T06:41:57+00:00"
+     },
+     {
+      "title": "FirstFT: Diesel prices slip after Trump announces ‘energy ceasefire’",
+      "summary": "Diesel prices decline following Trump's announcement of an 'energy ceasefire' involving Russia and Ukraine.",
+      "lang": "en",
+      "source": "FT Global Economy",
+      "url": "https://www.ft.com/content/7dc561ba-a386-479d-9633-9209b76b1812?syn-25a6b1a6=1",
+      "published": "2026-10-12T10:24:38+00:00"
+     },
+     {
+      "title": "Trump faces Republican opposition to his diesel deal with Russia’s Putin",
+      "summary": "Republican and Democratic lawmakers oppose Trump's diesel agreement with Russia, saying it finances Putin's war in Ukraine and violates US law.",
+      "lang": "en",
+      "source": "Financial Times",
+      "url": "https://www.ft.com/content/debf0be6-d5aa-4ba7-bb66-7daf770d99ff?syn-25a6b1a6=1",
+      "published": "2026-10-11T21:17:58+00:00"
+     },
+     {
+      "title": "Ukrainian MP calls U.S.-Russia diesel deal a 'betrayal'",
+      "summary": "Ukrainian parliamentarian Oleksandr Merezhko calls the US-Russia diesel deal a betrayal affecting Ukraine.",
+      "lang": "en",
+      "source": "NPR World",
+      "url": "https://www.npr.org/2026/10/11/nx-s1-5997466/ukrainian-mp-calls-u-s-russia-diesel-deal-a-betrayal",
+      "published": "2026-10-11T21:16:10+00:00"
+     }
+    ],
+    "status": "updated",
+    "change_summary": "Trump says Russia and Ukraine agree to an 'energy ceasefire'",
+    "previous_date": "2026-10-11",
+    "previous_event_id": "2b3762f9568b"
+   },
+   {
+    "title": "DOJ launches antitrust probe of TV networks. And, Trump says Ukraine needs new leader",
+    "summary": "The Justice Department investigates TV networks for antitrust violations; Trump pressures Ukraine to elect new leadership.",
+    "lang": "en",
+    "source": "NPR World",
+    "url": "https://www.npr.org/2026/10/12/g-s1-147772/up-first-newsletter-trump-ukraine-russia-antitrust-investigation-hurricane-isaias-saudi-airport",
+    "published": "2026-10-12T11:29:56+00:00",
+    "event_id": "c5aa093a7f7a",
+    "sources": [
+     {
+      "title": "DOJ launches antitrust probe of TV networks. And, Trump says Ukraine needs new leader",
+      "summary": "The Justice Department investigates TV networks for antitrust violations; Trump pressures Ukraine to elect new leadership.",
+      "lang": "en",
+      "source": "NPR World",
+      "url": "https://www.npr.org/2026/10/12/g-s1-147772/up-first-newsletter-trump-ukraine-russia-antitrust-investigation-hurricane-isaias-saudi-airport",
+      "published": "2026-10-12T11:29:56+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   }
+  ],
+  "economia|america": [
+   {
+    "title": "Is the US economy as narrow as its stock market?",
+    "summary": "Analysis questions whether US economic strength matches its narrow stock market concentration.",
+    "lang": "en",
+    "source": "FT Global Economy",
+    "url": "https://www.ft.com/content/2aa849df-5670-4577-87dd-2c40f2bac2aa?syn-25a6b1a6=1",
+    "published": "2026-10-12T05:30:05+00:00",
+    "event_id": "42c31df4cdb1",
+    "sources": [
+     {
+      "title": "Is the US economy as narrow as its stock market?",
+      "summary": "Analysis questions whether US economic strength matches its narrow stock market concentration.",
+      "lang": "en",
+      "source": "FT Global Economy",
+      "url": "https://www.ft.com/content/2aa849df-5670-4577-87dd-2c40f2bac2aa?syn-25a6b1a6=1",
+      "published": "2026-10-12T05:30:05+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   }
+  ],
+  "politica|asia": [
+   {
+    "title": "Crackdown exposes limits of Modi’s playbook for maintaining power",
+    "summary": "Indian Prime Minister Modi faces unprecedented dissent as crackdowns expose limits of his governance strategy.",
+    "lang": "en",
+    "source": "Japan Times",
+    "url": "https://www.japantimes.co.jp/news/2026/10/12/asia-pacific/mdoi-power-playbook/",
+    "published": "2026-10-12T09:30:00+00:00",
+    "event_id": "886cb48003b9",
+    "sources": [
+     {
+      "title": "Crackdown exposes limits of Modi’s playbook for maintaining power",
+      "summary": "Indian Prime Minister Modi faces unprecedented dissent as crackdowns expose limits of his governance strategy.",
+      "lang": "en",
+      "source": "Japan Times",
+      "url": "https://www.japantimes.co.jp/news/2026/10/12/asia-pacific/mdoi-power-playbook/",
+      "published": "2026-10-12T09:30:00+00:00"
+     }
+    ],
+    "status": "updated",
+    "change_summary": "Crackdown exposes limits of Modi's playbook for maintaining power",
+    "previous_date": "2026-10-11",
+    "previous_event_id": "886cb48003b9"
+   },
+   {
+    "title": "US turns to low-cost Blackbeard hypersonic missiles to overwhelm Chinese defences",
+    "summary": "The US Navy develops low-cost Blackbeard hypersonic missiles to challenge Chinese air defenses.",
+    "lang": "en",
+    "source": "South China Morning Post (China)",
+    "url": "https://www.scmp.com/news/china/military/article/3370598/us-turns-low-cost-blackbeard-hypersonic-missiles-overwhelm-chinese-defences?utm_source=rss_feed",
+    "published": "2026-10-12T12:00:19+00:00",
+    "event_id": "cf59ae2a436b",
+    "sources": [
+     {
+      "title": "US turns to low-cost Blackbeard hypersonic missiles to overwhelm Chinese defences",
+      "summary": "The US Navy develops low-cost Blackbeard hypersonic missiles to challenge Chinese air defenses.",
+      "lang": "en",
+      "source": "South China Morning Post (China)",
+      "url": "https://www.scmp.com/news/china/military/article/3370598/us-turns-low-cost-blackbeard-hypersonic-missiles-overwhelm-chinese-defences?utm_source=rss_feed",
+      "published": "2026-10-12T12:00:19+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "Taiwan aims to raise pilot retirement age to 58 as new F-16V jets arrive",
+    "summary": "Taiwan raises military pilot retirement age to 58 to address pilot shortages as new F-16V jets arrive.",
+    "lang": "en",
+    "source": "South China Morning Post (China)",
+    "url": "https://www.scmp.com/news/china/military/article/3370611/taiwan-aims-raise-pilot-retirement-age-58-new-f-16v-jets-arrive?utm_source=rss_feed",
+    "published": "2026-10-12T10:23:46+00:00",
+    "event_id": "75acc0d95a66",
+    "sources": [
+     {
+      "title": "Taiwan aims to raise pilot retirement age to 58 as new F-16V jets arrive",
+      "summary": "Taiwan raises military pilot retirement age to 58 to address pilot shortages as new F-16V jets arrive.",
+      "lang": "en",
+      "source": "South China Morning Post (China)",
+      "url": "https://www.scmp.com/news/china/military/article/3370611/taiwan-aims-raise-pilot-retirement-age-58-new-f-16v-jets-arrive?utm_source=rss_feed",
+      "published": "2026-10-12T10:23:46+00:00"
+     }
+    ],
+    "status": "updated",
+    "change_summary": "Taiwan aims to raise pilot retirement age to 58 as new F-16V jets arrive",
+    "previous_date": "2026-10-11",
+    "previous_event_id": "75acc0d95a66"
+   },
+   {
+    "title": "胡塞武裝空襲對華重要窗口利雅德機場 中東衝突又一危險時刻",
+    "summary": "胡塞武装加强对沙特阿拉伯领土的空袭，攻击利雅得机场，虽然实体损害可快速修复，但其声誉遭到严重打击。",
+    "lang": "zh",
+    "source": "BBC中文",
+    "url": "https://www.bbc.com/zhongwen/articles/cqy0rd16x33lo/trad?at_medium=RSS&at_campaign=rss",
+    "published": "2026-10-12T11:06:34+00:00",
+    "event_id": "b2355e5273f3",
+    "sources": [
+     {
+      "title": "胡塞武裝空襲對華重要窗口利雅德機場 中東衝突又一危險時刻",
+      "summary": "胡塞武装加强对沙特阿拉伯领土的空袭，攻击利雅得机场，虽然实体损害可快速修复，但其声誉遭到严重打击。",
+      "lang": "zh",
+      "source": "BBC中文",
+      "url": "https://www.bbc.com/zhongwen/articles/cqy0rd16x33lo/trad?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-12T11:06:34+00:00"
+     }
+    ],
+    "status": "unchanged",
+    "change_summary": "",
+    "previous_date": "2026-10-11",
+    "previous_event_id": "b2355e5273f3"
+   }
+  ],
+  "politica|europa": [
+   {
+    "title": "China’s top diplomat to visit Azerbaijan, Croatia, Montenegro and Bulgaria to boost ties",
+    "summary": "Chinese Foreign Minister Wang Yi visits Azerbaijan and three Balkan countries to strengthen trade corridors and geopolitical influence.",
+    "lang": "en",
+    "source": "South China Morning Post (China)",
+    "url": "https://www.scmp.com/news/china/diplomacy/article/3370626/chinas-top-diplomat-visit-azerbaijan-croatia-montenegro-and-bulgaria-boost-ties?utm_source=rss_feed",
+    "published": "2026-10-12T12:11:19+00:00",
+    "event_id": "7e0455f162f9",
+    "sources": [
+     {
+      "title": "China’s top diplomat to visit Azerbaijan, Croatia, Montenegro and Bulgaria to boost ties",
+      "summary": "Chinese Foreign Minister Wang Yi visits Azerbaijan and three Balkan countries to strengthen trade corridors and geopolitical influence.",
+      "lang": "en",
+      "source": "South China Morning Post (China)",
+      "url": "https://www.scmp.com/news/china/diplomacy/article/3370626/chinas-top-diplomat-visit-azerbaijan-croatia-montenegro-and-bulgaria-boost-ties?utm_source=rss_feed",
+      "published": "2026-10-12T12:11:19+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "German minister resigns, rocking coalition government",
+    "summary": "La ministre allemande du Travail Bärbel Bas démissionne, fragilisant la coalition gouvernementale.",
+    "lang": "en",
+    "source": "Le Monde International",
+    "url": "https://www.lemonde.fr/en/international/article/2026/10/12/german-minister-resigns-rocking-coalition-government_6758507_4.html",
+    "published": "2026-10-12T10:33:22+00:00",
+    "event_id": "be372ec0a670",
+    "sources": [
+     {
+      "title": "German minister resigns, rocking coalition government",
+      "summary": "La ministre allemande du Travail Bärbel Bas démissionne, fragilisant la coalition gouvernementale.",
+      "lang": "en",
+      "source": "Le Monde International",
+      "url": "https://www.lemonde.fr/en/international/article/2026/10/12/german-minister-resigns-rocking-coalition-government_6758507_4.html",
+      "published": "2026-10-12T10:33:22+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "Russia prefers 'long-term peace' to 'ceasefire,' Kremlin says as Trump had announced 'energy ceasefire' in Ukraine",
+    "summary": "Le Kremlin préfère une 'paix à long terme' à un 'cessez-le-feu' suite à l'annonce d'un cessez-le-feu énergétique par Trump.",
+    "lang": "en",
+    "source": "Le Monde International",
+    "url": "https://www.lemonde.fr/en/international/article/2026/10/12/kremlin-russia-prefers-long-term-peace-to-ceasefire_6758506_4.html",
+    "published": "2026-10-12T10:26:17+00:00",
+    "event_id": "234f89f41ab6",
+    "sources": [
+     {
+      "title": "Russia prefers 'long-term peace' to 'ceasefire,' Kremlin says as Trump had announced 'energy ceasefire' in Ukraine",
+      "summary": "Le Kremlin préfère une 'paix à long terme' à un 'cessez-le-feu' suite à l'annonce d'un cessez-le-feu énergétique par Trump.",
+      "lang": "en",
+      "source": "Le Monde International",
+      "url": "https://www.lemonde.fr/en/international/article/2026/10/12/kremlin-russia-prefers-long-term-peace-to-ceasefire_6758506_4.html",
+      "published": "2026-10-12T10:26:17+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "Ukraine and Europe seek to keep pressure on Putin after Trump deal on Russian diesel",
+    "summary": "",
+    "lang": "en",
+    "source": "Le Monde International",
+    "url": "https://www.lemonde.fr/en/international/article/2026/10/12/ukraine-and-europe-seek-to-keep-pressure-on-putin-after-trump-deal-on-russian-diesel_6758498_4.html",
+    "published": "2026-10-12T08:17:36+00:00",
+    "event_id": "2b8e1d64c26a",
+    "sources": [
+     {
+      "title": "Ukraine and Europe seek to keep pressure on Putin after Trump deal on Russian diesel",
+      "summary": "",
+      "lang": "en",
+      "source": "Le Monde International",
+      "url": "https://www.lemonde.fr/en/international/article/2026/10/12/ukraine-and-europe-seek-to-keep-pressure-on-putin-after-trump-deal-on-russian-diesel_6758498_4.html",
+      "published": "2026-10-12T08:17:36+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "France investigates Thales contracts in Azerbaijan denounced by jailed former employee",
+    "summary": "",
+    "lang": "en",
+    "source": "Le Monde International",
+    "url": "https://www.lemonde.fr/en/les-decodeurs/article/2026/10/11/france-investigates-thales-contracts-in-azerbaijan-denounced-by-jailed-former-employee_6758489_8.html",
+    "published": "2026-10-11T18:00:08+00:00",
+    "event_id": "315a90f136d4",
+    "sources": [
+     {
+      "title": "France investigates Thales contracts in Azerbaijan denounced by jailed former employee",
+      "summary": "",
+      "lang": "en",
+      "source": "Le Monde International",
+      "url": "https://www.lemonde.fr/en/les-decodeurs/article/2026/10/11/france-investigates-thales-contracts-in-azerbaijan-denounced-by-jailed-former-employee_6758489_8.html",
+      "published": "2026-10-11T18:00:08+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   }
+  ],
+  "tecnologia|america": [
+   {
+    "title": "Microsoft’s new AI chip makes it less reliant on Nvidia’s GPUs",
+    "summary": "Microsoft launches its third-generation Maia AI chip to reduce dependence on Nvidia's GPUs for AI inference.",
+    "lang": "en",
+    "source": "The Verge",
+    "url": "https://www.theverge.com/news/1009465/microsoft-maia-300-chip-improvements-rollout",
+    "published": "2026-10-12T13:00:00+00:00",
+    "event_id": "f35a07389044",
+    "sources": [
+     {
+      "title": "Microsoft’s new AI chip makes it less reliant on Nvidia’s GPUs",
+      "summary": "Microsoft launches its third-generation Maia AI chip to reduce dependence on Nvidia's GPUs for AI inference.",
+      "lang": "en",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/news/1009465/microsoft-maia-300-chip-improvements-rollout",
+      "published": "2026-10-12T13:00:00+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "Inside the mini factory where GM builds its EV future",
+    "summary": "General Motors builds its electric vehicle future in mini factories at its Warren, Michigan campus.",
+    "lang": "en",
+    "source": "The Verge",
+    "url": "https://www.theverge.com/transportation/1008023/gm-bcdc-ev-battery-factory-china-tesla",
+    "published": "2026-10-12T11:00:00+00:00",
+    "event_id": "d62d9673fa7a",
+    "sources": [
+     {
+      "title": "Inside the mini factory where GM builds its EV future",
+      "summary": "General Motors builds its electric vehicle future in mini factories at its Warren, Michigan campus.",
+      "lang": "en",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/transportation/1008023/gm-bcdc-ev-battery-factory-china-tesla",
+      "published": "2026-10-12T11:00:00+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "TechCrunch Mobility: A roadblock clears for self-driving trucks",
+    "summary": "Self-driving truck development progresses as regulatory obstacles clear the path forward.",
+    "lang": "en",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/10/11/techcrunch-mobility-a-roadblock-clears-for-self-driving-trucks/",
+    "published": "2026-10-11T16:02:00+00:00",
+    "event_id": "6f8358166e6c",
+    "sources": [
+     {
+      "title": "TechCrunch Mobility: A roadblock clears for self-driving trucks",
+      "summary": "Self-driving truck development progresses as regulatory obstacles clear the path forward.",
+      "lang": "en",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/10/11/techcrunch-mobility-a-roadblock-clears-for-self-driving-trucks/",
+      "published": "2026-10-11T16:02:00+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   }
+  ],
+  "tecnologia|asia": [
+   {
+    "title": "微軟Decision-1專攻AI代理決策，準確率83.5%領先同類模型",
+    "summary": "微软推出Decision-1模型用于AI代理决策，准确率83.5%，可处理分类、评分和流程控管，通过Foundry和OpenRouter提供服务。",
+    "lang": "zh",
+    "source": "iThome 台灣",
+    "url": "https://www.ithome.com.tw/news/179586",
+    "published": "2026-10-12T07:10:02+00:00",
+    "event_id": "378e60681238",
+    "sources": [
+     {
+      "title": "微軟Decision-1專攻AI代理決策，準確率83.5%領先同類模型",
+      "summary": "微软推出Decision-1模型用于AI代理决策，准确率83.5%，可处理分类、评分和流程控管，通过Foundry和OpenRouter提供服务。",
+      "lang": "zh",
+      "source": "iThome 台灣",
+      "url": "https://www.ithome.com.tw/news/179586",
+      "published": "2026-10-12T07:10:02+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "PCI SSC發布支付環境AI安全指引，AI代理存取明文持卡人資料應經人工核准",
+    "summary": "支付卡产业安全标准委员会发布AI安全指引，要求AI代理存取持卡人明文资料需人工核准，应对AI在支付安全中的影响。",
+    "lang": "zh",
+    "source": "iThome 台灣",
+    "url": "https://www.ithome.com.tw/news/179591",
+    "published": "2026-10-12T06:10:01+00:00",
+    "event_id": "88db35ebd612",
+    "sources": [
+     {
+      "title": "PCI SSC發布支付環境AI安全指引，AI代理存取明文持卡人資料應經人工核准",
+      "summary": "支付卡产业安全标准委员会发布AI安全指引，要求AI代理存取持卡人明文资料需人工核准，应对AI在支付安全中的影响。",
+      "lang": "zh",
+      "source": "iThome 台灣",
+      "url": "https://www.ithome.com.tw/news/179591",
+      "published": "2026-10-12T06:10:01+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   }
+  ]
+ }
+}
