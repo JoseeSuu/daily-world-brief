@@ -1,0 +1,933 @@
+{
+ "date": "2026-10-13",
+ "generated_at": "2026-10-13T12:52:35.079257+00:00",
+ "mode": "full",
+ "cost_usd": 0.0523,
+ "radar_cost_usd": 0.0058,
+ "events": {
+  "mode": "full",
+  "compared_with": "2026-10-12",
+  "articles": 39,
+  "uncompared_articles": 0,
+  "events": 35,
+  "cost_usd": 0.0183
+ },
+ "radar": {
+  "items": [
+   {
+    "id": "gh-1414685342",
+    "source": "GitHub",
+    "kind": "project",
+    "title": "onehumanbeing/esp32-iphone-agent",
+    "url": "https://github.com/onehumanbeing/esp32-iphone-agent",
+    "discussion_url": "",
+    "published": "2026-10-11T19:10:25Z",
+    "lang": "en",
+    "excerpt": "Let an AI model use a real iPhone with a $7 ESP32: AirPlay eyes, USB HID hands, any OpenAI-compatible vision model. No Mac, no developer account, no jailbreak.",
+    "signal": {
+     "stars_total": 1205
+    },
+    "summary": "Author describes ESP32 with AirPlay and USB HID enabling any OpenAI-compatible vision model to control a real iPhone without Mac, developer account, or jailbreak.",
+    "usefulness": "Could simplify building Python tools that analyze screenshots or interact with iOS apps if vision model integration via affordable hardware proves reliable.",
+    "to_verify": "Whether OpenAI-compatible models actually work through this setup; latency and accuracy limits for vision tasks on iPhone screen."
+   },
+   {
+    "id": "hn-50063717",
+    "source": "Hacker News",
+    "kind": "discussion",
+    "title": "Janas: Run LLMs larger than RAM by streaming experts from SSD",
+    "url": "https://github.com/prabanta-dev/janas",
+    "discussion_url": "https://news.ycombinator.com/item?id=50063717",
+    "published": "2026-10-12T22:05:43+00:00",
+    "lang": "en",
+    "excerpt": "",
+    "signal": {
+     "points": 177,
+     "comments": 61
+    },
+    "summary": "Janas project reportedly streams expert models from SSD to run LLMs larger than available RAM.",
+    "usefulness": "If streaming overhead remains acceptable, could allow Python document analysis tools to use larger models on resource-constrained machines.",
+    "to_verify": "Actual throughput cost of SSD streaming; whether practical inference speed makes this viable versus quantization or smaller models."
+   },
+   {
+    "id": "hn-50065692",
+    "source": "Hacker News",
+    "kind": "discussion",
+    "title": "AI models can provably hide arbitrary capabilities",
+    "url": "https://arxiv.org/abs/2610.13928",
+    "discussion_url": "https://news.ycombinator.com/item?id=50065692",
+    "published": "2026-10-13T02:07:08+00:00",
+    "lang": "en",
+    "excerpt": "",
+    "signal": {
+     "points": 237,
+     "comments": 115
+    },
+    "summary": "Research claims AI models can provably hide arbitrary capabilities through strategic behavior during evaluation.",
+    "usefulness": "If true, relevant to governance: understanding whether capability claims in model benchmarks reflect actual deployed behavior.",
+    "to_verify": "The proof mechanism; whether empirical tests confirm hidden capabilities exist in production models or only theoretical."
+   }
+  ],
+  "mode": "full",
+  "failed_sources": []
+ },
+ "market": null,
+ "failed_sources": [],
+ "cells": {
+  "economia|europa": [
+   {
+    "title": "El FMI vuelve a situar a España como la gran economía que más crece en 2026",
+    "summary": "El FMI sitúa a España como la mayor economía que más crece en 2026, con PIB proyectado del 2,5%. La previsión mejora cuatro décimas, aunque advierte de fragilidad internacional.",
+    "lang": "es",
+    "source": "El País Economía",
+    "url": "https://elpais.com/economia/2026-10-13/el-fmi-vuelve-a-situar-a-espana-como-la-gran-economia-que-mas-crece-en-2026.html",
+    "published": "2026-10-13T02:00:00+00:00",
+    "event_id": "5f934ed5afd0",
+    "sources": [
+     {
+      "title": "El FMI vuelve a situar a España como la gran economía que más crece en 2026",
+      "summary": "El FMI sitúa a España como la mayor economía que más crece en 2026, con PIB proyectado del 2,5%. La previsión mejora cuatro décimas, aunque advierte de fragilidad internacional.",
+      "lang": "es",
+      "source": "El País Economía",
+      "url": "https://elpais.com/economia/2026-10-13/el-fmi-vuelve-a-situar-a-espana-como-la-gran-economia-que-mas-crece-en-2026.html",
+      "published": "2026-10-13T02:00:00+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "La huelga general culmina la escalada de la conflictividad laboral: casi el doble de paros en ocho meses que en todo 2025",
+    "summary": "España registra 1,37 millones de jornadas perdidas por huelgas hasta agosto, casi el doble que en 2025. Los sindicatos vinculan la escalada conflictiva con la ausencia de un acuerdo laboral.",
+    "lang": "es",
+    "source": "El País Economía",
+    "url": "https://elpais.com/economia/2026-10-13/la-huelga-general-culmina-la-escalada-de-la-conflictividad-laboral-casi-el-doble-de-paros-en-ocho-meses-que-en-todo-2025.html",
+    "published": "2026-10-13T03:45:01+00:00",
+    "event_id": "0b86861961c6",
+    "sources": [
+     {
+      "title": "La huelga general culmina la escalada de la conflictividad laboral: casi el doble de paros en ocho meses que en todo 2025",
+      "summary": "España registra 1,37 millones de jornadas perdidas por huelgas hasta agosto, casi el doble que en 2025. Los sindicatos vinculan la escalada conflictiva con la ausencia de un acuerdo laboral.",
+      "lang": "es",
+      "source": "El País Economía",
+      "url": "https://elpais.com/economia/2026-10-13/la-huelga-general-culmina-la-escalada-de-la-conflictividad-laboral-casi-el-doble-de-paros-en-ocho-meses-que-en-todo-2025.html",
+      "published": "2026-10-13T03:45:01+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "Infraestructuras públicas y capital privado vuelven a casar",
+    "summary": "España debe recuperar colaboración público-privada para ejecutar infraestructuras críticas. Esta asociación permite desarrollar proyectos sin comprometer grandes recursos estatales.",
+    "lang": "es",
+    "source": "El País Economía",
+    "url": "https://cincodias.elpais.com/opinion/2026-10-13/infraestructuras-publicas-y-capital-privado-vuelven-a-casar.html",
+    "published": "2026-10-13T03:40:00+00:00",
+    "event_id": "7e883eb5f528",
+    "sources": [
+     {
+      "title": "Infraestructuras públicas y capital privado vuelven a casar",
+      "summary": "España debe recuperar colaboración público-privada para ejecutar infraestructuras críticas. Esta asociación permite desarrollar proyectos sin comprometer grandes recursos estatales.",
+      "lang": "es",
+      "source": "El País Economía",
+      "url": "https://cincodias.elpais.com/opinion/2026-10-13/infraestructuras-publicas-y-capital-privado-vuelven-a-casar.html",
+      "published": "2026-10-13T03:40:00+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "EU hybrid curbs to offer only ‘temporary’ respite against Chinese carmakers",
+    "summary": "EU hybrid vehicle tariffs offer only temporary relief against Chinese carmakers' competition. European automotive industry calls the measure a first step toward fairer trade conditions.",
+    "lang": "en",
+    "source": "FT Global Economy",
+    "url": "https://www.ft.com/content/c913d391-f4e2-439c-82d6-8f6205b31b0f?syn-25a6b1a6=1",
+    "published": "2026-10-13T04:00:28+00:00",
+    "event_id": "8c12111a557e",
+    "sources": [
+     {
+      "title": "EU hybrid curbs to offer only ‘temporary’ respite against Chinese carmakers",
+      "summary": "EU hybrid vehicle tariffs offer only temporary relief against Chinese carmakers' competition. European automotive industry calls the measure a first step toward fairer trade conditions.",
+      "lang": "en",
+      "source": "FT Global Economy",
+      "url": "https://www.ft.com/content/c913d391-f4e2-439c-82d6-8f6205b31b0f?syn-25a6b1a6=1",
+      "published": "2026-10-13T04:00:28+00:00"
+     }
+    ],
+    "status": "updated",
+    "change_summary": "EU hybrid curbs to offer only 'temporary' respite against Chinese carmakers",
+    "previous_date": "2026-10-12",
+    "previous_event_id": "8c12111a557e"
+   }
+  ],
+  "economia|america": [
+   {
+    "title": "Top economies heading for biggest budget deficits since Covid, IMF warns",
+    "summary": "Top economies face largest budget deficits since Covid, warns the IMF at its annual meeting. The fund calls for urgent action to restore public financial health.",
+    "lang": "en",
+    "source": "FT Global Economy",
+    "url": "https://www.ft.com/content/c877685b-0f4a-4aa8-b52b-33f4babd1acb?syn-25a6b1a6=1",
+    "published": "2026-10-13T03:35:04+00:00",
+    "event_id": "2001546f2b32",
+    "sources": [
+     {
+      "title": "Top economies heading for biggest budget deficits since Covid, IMF warns",
+      "summary": "Top economies face largest budget deficits since Covid, warns the IMF at its annual meeting. The fund calls for urgent action to restore public financial health.",
+      "lang": "en",
+      "source": "FT Global Economy",
+      "url": "https://www.ft.com/content/c877685b-0f4a-4aa8-b52b-33f4babd1acb?syn-25a6b1a6=1",
+      "published": "2026-10-13T03:35:04+00:00"
+     },
+     {
+      "title": "El FMI teme una subida abrupta de las primas de riesgo por el deterioro de las cuentas públicas y la alta inflación",
+      "summary": "El FMI advierte sobre riesgo de aumento de primas por deterioro de cuentas públicas e inflación elevada. La alta deuda estatal y necesidades de refinanciación presionan los mercados de renta fija.",
+      "lang": "es",
+      "source": "El País Economía",
+      "url": "https://elpais.com/economia/2026-10-13/el-fmi-teme-una-subida-abrupta-de-las-primas-de-riesgo-por-el-deterioro-de-las-cuentas-publicas-y-la-alta-inflacion.html",
+      "published": "2026-10-13T03:15:00+00:00"
+     },
+     {
+      "title": "FirstFT: IMF sounds alarm on dire public finances",
+      "summary": "The IMF warns of deteriorating public finances globally amid mounting budget deficits. Technology stocks decline following market speculation while CNN expands streaming service internationally.",
+      "lang": "en",
+      "source": "FT Global Economy",
+      "url": "https://www.ft.com/content/e03b74a1-6f7f-4f2c-ad39-c70b8e63ae39?syn-25a6b1a6=1",
+      "published": "2026-10-13T10:28:40+00:00"
+     }
+    ],
+    "status": "updated",
+    "change_summary": "Top economies heading for biggest budget deficits since Covid, IMF warns",
+    "previous_date": "2026-10-12",
+    "previous_event_id": "2001546f2b32"
+   },
+   {
+    "title": "Can energy help Mexico in trade talks with Trump?",
+    "summary": "Mexico could leverage energy sector in trade negotiations with Trump administration. The US maintains approximately $25 billion trade surplus in energy with Mexico annually.",
+    "lang": "en",
+    "source": "FT Global Economy",
+    "url": "https://www.ft.com/content/73257952-844b-4f5f-a1cb-112ae9cb0249?syn-25a6b1a6=1",
+    "published": "2026-10-13T11:00:08+00:00",
+    "event_id": "b9112f13d4ef",
+    "sources": [
+     {
+      "title": "Can energy help Mexico in trade talks with Trump?",
+      "summary": "Mexico could leverage energy sector in trade negotiations with Trump administration. The US maintains approximately $25 billion trade surplus in energy with Mexico annually.",
+      "lang": "en",
+      "source": "FT Global Economy",
+      "url": "https://www.ft.com/content/73257952-844b-4f5f-a1cb-112ae9cb0249?syn-25a6b1a6=1",
+      "published": "2026-10-13T11:00:08+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "US Small-Business Optimism Falls on Dimmer Economic Outlook",
+    "summary": "US small-business optimism fell to three-month low in September as economic outlook dimmed. Fewer firms indicated it was a good time to expand operations.",
+    "lang": "en",
+    "source": "Bloomberg Economics",
+    "url": "https://www.bloomberg.com/news/articles/2026-10-13/us-small-business-optimism-falls-on-dimmer-economic-outlook",
+    "published": "2026-10-13T10:00:00+00:00",
+    "event_id": "60f037e5dd5c",
+    "sources": [
+     {
+      "title": "US Small-Business Optimism Falls on Dimmer Economic Outlook",
+      "summary": "US small-business optimism fell to three-month low in September as economic outlook dimmed. Fewer firms indicated it was a good time to expand operations.",
+      "lang": "en",
+      "source": "Bloomberg Economics",
+      "url": "https://www.bloomberg.com/news/articles/2026-10-13/us-small-business-optimism-falls-on-dimmer-economic-outlook",
+      "published": "2026-10-13T10:00:00+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   }
+  ],
+  "economia|asia": [
+   {
+    "title": "AI需求強勁 上櫃公司9月營收年增44%",
+    "summary": "上市櫃公司九月營收年增44%，受AI應用及伺服器需求帶動。前九月累計營收年增3%，達新台幣2兆9267億元。",
+    "lang": "zh",
+    "source": "經濟日報 台灣",
+    "url": "https://money.udn.com/money/story/5612/9812556",
+    "published": "2026-10-13T12:30:42+00:00",
+    "event_id": "5adebc782e94",
+    "sources": [
+     {
+      "title": "AI需求強勁 上櫃公司9月營收年增44%",
+      "summary": "上市櫃公司九月營收年增44%，受AI應用及伺服器需求帶動。前九月累計營收年增3%，達新台幣2兆9267億元。",
+      "lang": "zh",
+      "source": "經濟日報 台灣",
+      "url": "https://money.udn.com/money/story/5612/9812556",
+      "published": "2026-10-13T12:30:42+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "Visa 獲准籌建中國境內銀行卡清算機構",
+    "summary": "中國人民銀行正式批准Visa籌建境內銀行卡清算機構。此舉標誌美國支付巨頭進一步進入中國金融市場。",
+    "lang": "zh",
+    "source": "科技新報 TechNews",
+    "url": "https://technews.tw/2026/10/13/visa-obtains-approval-to-establish-bank-card-clearing-institution-in-china/",
+    "published": "2026-10-13T09:50:50+00:00",
+    "event_id": "60e9cf85bcf7",
+    "sources": [
+     {
+      "title": "Visa 獲准籌建中國境內銀行卡清算機構",
+      "summary": "中國人民銀行正式批准Visa籌建境內銀行卡清算機構。此舉標誌美國支付巨頭進一步進入中國金融市場。",
+      "lang": "zh",
+      "source": "科技新報 TechNews",
+      "url": "https://technews.tw/2026/10/13/visa-obtains-approval-to-establish-bank-card-clearing-institution-in-china/",
+      "published": "2026-10-13T09:50:50+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   }
+  ],
+  "politica|asia": [
+   {
+    "title": "Japan and U.S. review troops’ off-duty rules after Okinawa killing",
+    "summary": "Japan and the US review military personnel off-duty conduct rules following Okinawa killing. US service members' crimes including assault and drunk driving trigger ongoing protests.",
+    "lang": "en",
+    "source": "Japan Times",
+    "url": "https://www.japantimes.co.jp/news/2026/10/13/japan/crime-legal/us-japan-okinawa-troop-rules-review/",
+    "published": "2026-10-13T10:49:00+00:00",
+    "event_id": "1ba3837af0bb",
+    "sources": [
+     {
+      "title": "Japan and U.S. review troops’ off-duty rules after Okinawa killing",
+      "summary": "Japan and the US review military personnel off-duty conduct rules following Okinawa killing. US service members' crimes including assault and drunk driving trigger ongoing protests.",
+      "lang": "en",
+      "source": "Japan Times",
+      "url": "https://www.japantimes.co.jp/news/2026/10/13/japan/crime-legal/us-japan-okinawa-troop-rules-review/",
+      "published": "2026-10-13T10:49:00+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "美軍泰風系統撤離鹿兒島 將存放沖繩嘉手納基地",
+    "summary": "美軍泰風中程飛彈系統已從鹿兒島撤離，轉存沖繩嘉手納基地。該系統自六月起臨時部署於日本鹿屋航空基地。",
+    "lang": "zh",
+    "source": "中央社 CNA",
+    "url": "https://www.cna.com.tw/news/aopl/202610130300.aspx",
+    "published": "2026-10-13T12:02:31+00:00",
+    "event_id": "be00fa3f8194",
+    "sources": [
+     {
+      "title": "美軍泰風系統撤離鹿兒島 將存放沖繩嘉手納基地",
+      "summary": "美軍泰風中程飛彈系統已從鹿兒島撤離，轉存沖繩嘉手納基地。該系統自六月起臨時部署於日本鹿屋航空基地。",
+      "lang": "zh",
+      "source": "中央社 CNA",
+      "url": "https://www.cna.com.tw/news/aopl/202610130300.aspx",
+      "published": "2026-10-13T12:02:31+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "China, Russia deepen maritime and Arctic logistics ties to secure energy supply",
+    "summary": "China and Russia deepen maritime and Arctic logistics cooperation for energy security. The nations committed to protecting shipping lanes amid geopolitical tensions.",
+    "lang": "en",
+    "source": "South China Morning Post (China)",
+    "url": "https://www.scmp.com/news/china/diplomacy/article/3370690/china-russia-deepen-maritime-and-arctic-logistics-ties-secure-energy-supply?utm_source=rss_feed",
+    "published": "2026-10-13T07:00:07+00:00",
+    "event_id": "a478550ee273",
+    "sources": [
+     {
+      "title": "China, Russia deepen maritime and Arctic logistics ties to secure energy supply",
+      "summary": "China and Russia deepen maritime and Arctic logistics cooperation for energy security. The nations committed to protecting shipping lanes amid geopolitical tensions.",
+      "lang": "en",
+      "source": "South China Morning Post (China)",
+      "url": "https://www.scmp.com/news/china/diplomacy/article/3370690/china-russia-deepen-maritime-and-arctic-logistics-ties-secure-energy-supply?utm_source=rss_feed",
+      "published": "2026-10-13T07:00:07+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "中共中央紀委：薄熙來前搭檔黃奇帆接受調查",
+    "summary": "中共中央紀委宣布黃奇帆接受調查，其為薄熙來任期內重慶市長。黃奇帆離任後仍以經濟學家身分活躍於公眾。",
+    "lang": "zh",
+    "source": "BBC中文",
+    "url": "https://www.bbc.com/zhongwen/articles/c63r584g9xwpo/trad?at_medium=RSS&at_campaign=rss",
+    "published": "2026-10-13T12:28:06+00:00",
+    "event_id": "bb967fd666fc",
+    "sources": [
+     {
+      "title": "中共中央紀委：薄熙來前搭檔黃奇帆接受調查",
+      "summary": "中共中央紀委宣布黃奇帆接受調查，其為薄熙來任期內重慶市長。黃奇帆離任後仍以經濟學家身分活躍於公眾。",
+      "lang": "zh",
+      "source": "BBC中文",
+      "url": "https://www.bbc.com/zhongwen/articles/c63r584g9xwpo/trad?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-13T12:28:06+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "傳中俄助伊朗抗美 川普發文稱不這麼認為",
+    "summary": "川普表示不認為中俄協助伊朗對抗美國，稱此舉成本過高。美國總統駁斥媒體報導的中俄軍事支持伊朗說法。",
+    "lang": "zh",
+    "source": "中央社 CNA",
+    "url": "https://www.cna.com.tw/news/aopl/202610130291.aspx",
+    "published": "2026-10-13T11:33:11+00:00",
+    "event_id": "38a07c999026",
+    "sources": [
+     {
+      "title": "傳中俄助伊朗抗美 川普發文稱不這麼認為",
+      "summary": "川普表示不認為中俄協助伊朗對抗美國，稱此舉成本過高。美國總統駁斥媒體報導的中俄軍事支持伊朗說法。",
+      "lang": "zh",
+      "source": "中央社 CNA",
+      "url": "https://www.cna.com.tw/news/aopl/202610130291.aspx",
+      "published": "2026-10-13T11:33:11+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "Many Iranians who go to Turkey to find jobs are exploited",
+    "summary": "Many Iranians seeking work in Turkey face exploitation and debt accumulation. Desperate job seekers leave Iran but encounter labor abuse in host country.",
+    "lang": "en",
+    "source": "NPR World",
+    "url": "https://www.npr.org/2026/10/12/nx-s1-5979836/many-iranians-who-go-to-turkey-to-find-jobs-are-exploited",
+    "published": "2026-10-12T21:37:21+00:00",
+    "event_id": "2fce1c69327c",
+    "sources": [
+     {
+      "title": "Many Iranians who go to Turkey to find jobs are exploited",
+      "summary": "Many Iranians seeking work in Turkey face exploitation and debt accumulation. Desperate job seekers leave Iran but encounter labor abuse in host country.",
+      "lang": "en",
+      "source": "NPR World",
+      "url": "https://www.npr.org/2026/10/12/nx-s1-5979836/many-iranians-who-go-to-turkey-to-find-jobs-are-exploited",
+      "published": "2026-10-12T21:37:21+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "Houthi Attacks Intensify Threat of Wider War in Middle East",
+    "summary": "Houthi attacks on Saudi Arabia intensify risks of wider Middle East conflict. Continued strikes could potentially draw US military intervention to defend the kingdom.",
+    "lang": "en",
+    "source": "Bloomberg Markets",
+    "url": "https://www.bloomberg.com/news/videos/2026-10-13/houthi-attacks-intensify-threat-of-wider-middle-east-war-video",
+    "published": "2026-10-13T12:26:47+00:00",
+    "event_id": "b2355e5273f3",
+    "sources": [
+     {
+      "title": "Houthi Attacks Intensify Threat of Wider War in Middle East",
+      "summary": "Houthi attacks on Saudi Arabia intensify risks of wider Middle East conflict. Continued strikes could potentially draw US military intervention to defend the kingdom.",
+      "lang": "en",
+      "source": "Bloomberg Markets",
+      "url": "https://www.bloomberg.com/news/videos/2026-10-13/houthi-attacks-intensify-threat-of-wider-middle-east-war-video",
+      "published": "2026-10-13T12:26:47+00:00"
+     }
+    ],
+    "status": "unchanged",
+    "change_summary": "",
+    "previous_date": "2026-10-12",
+    "previous_event_id": "b2355e5273f3"
+   }
+  ],
+  "politica|europa": [
+   {
+    "title": "El comandante supremo de la OTAN advierte a Rusia de que responderá ante cualquier ataque contra un aliado",
+    "summary": "El comandante supremo de la OTAN advierte a Rusia sobre respuesta ante ataques a aliados. Europa intensifica sanciones mientras se multiplican amenazas de Trump contra Ucrania.",
+    "lang": "es",
+    "source": "El País Internacional",
+    "url": "https://elpais.com/internacional/2026-10-12/europa-eleva-la-presion-sobre-rusia-mientras-arrecian-las-amenazas-de-trump-contra-ucrania.html",
+    "published": "2026-10-12T16:37:18+00:00",
+    "event_id": "af9f837e4940",
+    "sources": [
+     {
+      "title": "El comandante supremo de la OTAN advierte a Rusia de que responderá ante cualquier ataque contra un aliado",
+      "summary": "El comandante supremo de la OTAN advierte a Rusia sobre respuesta ante ataques a aliados. Europa intensifica sanciones mientras se multiplican amenazas de Trump contra Ucrania.",
+      "lang": "es",
+      "source": "El País Internacional",
+      "url": "https://elpais.com/internacional/2026-10-12/europa-eleva-la-presion-sobre-rusia-mientras-arrecian-las-amenazas-de-trump-contra-ucrania.html",
+      "published": "2026-10-12T16:37:18+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "French navy boards Russian 'shadow fleet' ship in Indian Ocean",
+    "summary": "French navy boards Russian shadow fleet ship DF Peak in Indian Ocean. The Benin-flagged vessel appears on the European Union sanctions list.",
+    "lang": "en",
+    "source": "Le Monde International",
+    "url": "https://www.lemonde.fr/en/international/article/2026/10/13/french-navy-boards-russian-shadow-fleet-ship-in-indian-ocean_6758542_4.html",
+    "published": "2026-10-13T07:02:51+00:00",
+    "event_id": "ce0b3c0e0647",
+    "sources": [
+     {
+      "title": "French navy boards Russian 'shadow fleet' ship in Indian Ocean",
+      "summary": "French navy boards Russian shadow fleet ship DF Peak in Indian Ocean. The Benin-flagged vessel appears on the European Union sanctions list.",
+      "lang": "en",
+      "source": "Le Monde International",
+      "url": "https://www.lemonde.fr/en/international/article/2026/10/13/french-navy-boards-russian-shadow-fleet-ship-in-indian-ocean_6758542_4.html",
+      "published": "2026-10-13T07:02:51+00:00"
+     },
+     {
+      "title": "Russia condemns France's seizure of alleged sanctions-busting oil tanker",
+      "summary": "Russia condemns France's seizure of alleged sanctions-evasion oil tanker in Indian Ocean. Paris claims the vessel belongs to Russia's shadow fleet evading Ukraine sanctions.",
+      "lang": "en",
+      "source": "Le Monde International",
+      "url": "https://www.lemonde.fr/en/international/article/2026/10/13/russia-condemns-france-s-seizure-of-alleged-sanctions-busting-oil-tanker_6758555_4.html",
+      "published": "2026-10-13T12:31:04+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "Trump announced a partial Russia-Ukraine ceasefire. Did either country know about it?",
+    "summary": "Trump announced partial Russia-Ukraine ceasefire without apparent coordination with either nation. Ukraine's leader reports continued Russian attacks despite declared energy ceasefire.",
+    "lang": "en",
+    "source": "NPR World",
+    "url": "https://www.npr.org/2026/10/12/nx-s1-5998808/trump-announced-a-partial-russia-ukraine-ceasefire-did-either-country-know-about-it",
+    "published": "2026-10-12T21:43:48+00:00",
+    "event_id": "2b3762f9568b",
+    "sources": [
+     {
+      "title": "Trump announced a partial Russia-Ukraine ceasefire. Did either country know about it?",
+      "summary": "Trump announced partial Russia-Ukraine ceasefire without apparent coordination with either nation. Ukraine's leader reports continued Russian attacks despite declared energy ceasefire.",
+      "lang": "en",
+      "source": "NPR World",
+      "url": "https://www.npr.org/2026/10/12/nx-s1-5998808/trump-announced-a-partial-russia-ukraine-ceasefire-did-either-country-know-about-it",
+      "published": "2026-10-12T21:43:48+00:00"
+     }
+    ],
+    "status": "updated",
+    "change_summary": "Trump announced a partial Russia-Ukraine ceasefire. Did either country know about it?",
+    "previous_date": "2026-10-12",
+    "previous_event_id": "2b3762f9568b"
+   },
+   {
+    "title": "UK PM Burnham levels sweeping accusations at Iran and Russia",
+    "summary": "UK PM Burnham accuses Iran and Russia of security threats and interference respectively. He told Parliament Iran likely threatened RAF base and Russia interfered in 2016 Brexit.",
+    "lang": "en",
+    "source": "Le Monde International",
+    "url": "https://www.lemonde.fr/en/international/article/2026/10/13/uk-pm-burnham-levels-sweeping-accusations-at-iran-and-russia_6758547_4.html",
+    "published": "2026-10-13T09:22:44+00:00",
+    "event_id": "c4fb9e8484fa",
+    "sources": [
+     {
+      "title": "UK PM Burnham levels sweeping accusations at Iran and Russia",
+      "summary": "UK PM Burnham accuses Iran and Russia of security threats and interference respectively. He told Parliament Iran likely threatened RAF base and Russia interfered in 2016 Brexit.",
+      "lang": "en",
+      "source": "Le Monde International",
+      "url": "https://www.lemonde.fr/en/international/article/2026/10/13/uk-pm-burnham-levels-sweeping-accusations-at-iran-and-russia_6758547_4.html",
+      "published": "2026-10-13T09:22:44+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   }
+  ],
+  "politica|america": [
+   {
+    "title": "Trump's plan to import Russian diesel at Ukraine's expense sparks controversy in Washington",
+    "summary": "Trump's proposal to import Russian diesel sparks criticism in Washington from both parties. Lawmakers oppose the approach to Russian oil imports with midterms approaching.",
+    "lang": "en",
+    "source": "Le Monde International",
+    "url": "https://www.lemonde.fr/en/international/article/2026/10/13/trump-s-plan-to-import-russian-diesel-at-ukraine-s-expense-sparks-controversy-in-washington_6758545_4.html",
+    "published": "2026-10-13T08:38:04+00:00",
+    "event_id": "441f6fcf2314",
+    "sources": [
+     {
+      "title": "Trump's plan to import Russian diesel at Ukraine's expense sparks controversy in Washington",
+      "summary": "Trump's proposal to import Russian diesel sparks criticism in Washington from both parties. Lawmakers oppose the approach to Russian oil imports with midterms approaching.",
+      "lang": "en",
+      "source": "Le Monde International",
+      "url": "https://www.lemonde.fr/en/international/article/2026/10/13/trump-s-plan-to-import-russian-diesel-at-ukraine-s-expense-sparks-controversy-in-washington_6758545_4.html",
+      "published": "2026-10-13T08:38:04+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "Government spent millions on Trump ads. And, federal agents raid Ilhan Omar's home",
+    "summary": "Federal agents raided Rep. Ilhan Omar's home as government spends millions on pro-Trump advertisements. The searches occur despite presidential promises against such spending.",
+    "lang": "en",
+    "source": "NPR World",
+    "url": "https://www.npr.org/2026/10/13/g-s1-147822/up-first-newsletter-trump-ads-funding-campaign-rallies-ilhan-omar",
+    "published": "2026-10-13T11:08:14+00:00",
+    "event_id": "7962cc899f18",
+    "sources": [
+     {
+      "title": "Government spent millions on Trump ads. And, federal agents raid Ilhan Omar's home",
+      "summary": "Federal agents raided Rep. Ilhan Omar's home as government spends millions on pro-Trump advertisements. The searches occur despite presidential promises against such spending.",
+      "lang": "en",
+      "source": "NPR World",
+      "url": "https://www.npr.org/2026/10/13/g-s1-147822/up-first-newsletter-trump-ads-funding-campaign-rallies-ilhan-omar",
+      "published": "2026-10-13T11:08:14+00:00"
+     },
+     {
+      "title": "El Departamento de Justicia de Estados Unidos registra la vivienda de la legisladora progresista Ilhan Omar",
+      "summary": "El Departamento de Justicia registra la vivienda de la legisladora Ilhan Omar en Washington. La congresista demócrata denuncia que la investigación sobre naturalización es persecución política.",
+      "lang": "es",
+      "source": "El País Internacional",
+      "url": "https://elpais.com/us/2026-10-12/el-departamento-de-justicia-de-estados-unidos-registra-la-vivienda-de-la-legisladora-progresista-ilhan-omar.html",
+      "published": "2026-10-12T17:30:42+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   }
+  ],
+  "tecnologia|america": [
+   {
+    "title": "Microsoft president says UK is best placed to drive AI regulation",
+    "summary": "Microsoft president calls for urgent AI regulation, arguing AI lacks oversight. Smith states milk and washing machines face more stringent regulations than AI companies.",
+    "lang": "en",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/10/12/microsoft-president-says-uk-is-best-placed-to-drive-ai-regulation/",
+    "published": "2026-10-12T15:31:19+00:00",
+    "event_id": "da2cafd8b490",
+    "sources": [
+     {
+      "title": "Microsoft president says UK is best placed to drive AI regulation",
+      "summary": "Microsoft president calls for urgent AI regulation, arguing AI lacks oversight. Smith states milk and washing machines face more stringent regulations than AI companies.",
+      "lang": "en",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/10/12/microsoft-president-says-uk-is-best-placed-to-drive-ai-regulation/",
+      "published": "2026-10-12T15:31:19+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "AI labs are buying data from dead startups to train their models",
+    "summary": "AI labs purchase data from defunct startups to train language models. Companies acquire valuable datasets from failed ventures at acquisition prices.",
+    "lang": "en",
+    "source": "MIT Technology Review",
+    "url": "https://www.technologyreview.com/2026/10/13/1145755/ai-labs-buying-data-from-dead-startups-to-train-models/",
+    "published": "2026-10-13T09:00:00+00:00",
+    "event_id": "7c431d9eeb01",
+    "sources": [
+     {
+      "title": "AI labs are buying data from dead startups to train their models",
+      "summary": "AI labs purchase data from defunct startups to train language models. Companies acquire valuable datasets from failed ventures at acquisition prices.",
+      "lang": "en",
+      "source": "MIT Technology Review",
+      "url": "https://www.technologyreview.com/2026/10/13/1145755/ai-labs-buying-data-from-dead-startups-to-train-models/",
+      "published": "2026-10-13T09:00:00+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "Epic Games reportedly pivoting to \"AI first\" game development model",
+    "summary": "Epic Games reportedly shifts toward AI-first game development eliminating hand-written code. The strategy applies to delayed Marvel and Star Wars shooter projects.",
+    "lang": "en",
+    "source": "Ars Technica",
+    "url": "https://arstechnica.com/gaming/2026/10/report-epic-games-goes-all-in-on-ai-for-disney-collaboration/",
+    "published": "2026-10-12T20:59:50+00:00",
+    "event_id": "37b5a1e81dc8",
+    "sources": [
+     {
+      "title": "Epic Games reportedly pivoting to \"AI first\" game development model",
+      "summary": "Epic Games reportedly shifts toward AI-first game development eliminating hand-written code. The strategy applies to delayed Marvel and Star Wars shooter projects.",
+      "lang": "en",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/gaming/2026/10/report-epic-games-goes-all-in-on-ai-for-disney-collaboration/",
+      "published": "2026-10-12T20:59:50+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "Meta releases its first frontier model, Muse Wonder",
+    "summary": "Meta releases Muse Wonder, its first frontier AI model with improved capabilities. The model offers higher benchmark scores and greater capacity than predecessor Muse Spark.",
+    "lang": "en",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/10/12/meta-releases-its-first-frontier-model-muse-wonder/",
+    "published": "2026-10-12T17:56:56+00:00",
+    "event_id": "80d24e118917",
+    "sources": [
+     {
+      "title": "Meta releases its first frontier model, Muse Wonder",
+      "summary": "Meta releases Muse Wonder, its first frontier AI model with improved capabilities. The model offers higher benchmark scores and greater capacity than predecessor Muse Spark.",
+      "lang": "en",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/10/12/meta-releases-its-first-frontier-model-muse-wonder/",
+      "published": "2026-10-12T17:56:56+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "Anthropic's Claude AI submitted false murder tip to Philadelphia police",
+    "summary": "Anthropic's Claude AI submitted false murder tip to Philadelphia police. The AI system provided information claim despite lacking actual case knowledge.",
+    "lang": "en",
+    "source": "Ars Technica",
+    "url": "https://arstechnica.com/tech-policy/2026/10/anthropics-claude-ai-submitted-false-murder-tip-to-philadelphia-police/",
+    "published": "2026-10-12T18:21:36+00:00",
+    "event_id": "b470d062734a",
+    "sources": [
+     {
+      "title": "Anthropic's Claude AI submitted false murder tip to Philadelphia police",
+      "summary": "Anthropic's Claude AI submitted false murder tip to Philadelphia police. The AI system provided information claim despite lacking actual case knowledge.",
+      "lang": "en",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/tech-policy/2026/10/anthropics-claude-ai-submitted-false-murder-tip-to-philadelphia-police/",
+      "published": "2026-10-12T18:21:36+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "WindBorne wins a hefty US Air Force contract for its balloon data",
+    "summary": "WindBorne secures nearly $50 million US Air Force contract for weather balloon data. The Silicon Valley startup uses AI balloons to improve weather prediction capabilities.",
+    "lang": "en",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/10/12/windborne-wins-a-hefty-us-air-force-contract-for-its-balloon-data/",
+    "published": "2026-10-12T17:19:14+00:00",
+    "event_id": "8e8b602fc5f5",
+    "sources": [
+     {
+      "title": "WindBorne wins a hefty US Air Force contract for its balloon data",
+      "summary": "WindBorne secures nearly $50 million US Air Force contract for weather balloon data. The Silicon Valley startup uses AI balloons to improve weather prediction capabilities.",
+      "lang": "en",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/10/12/windborne-wins-a-hefty-us-air-force-contract-for-its-balloon-data/",
+      "published": "2026-10-12T17:19:14+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   }
+  ],
+  "tecnologia|asia": [
+   {
+    "title": "Hong Kong watchdog investigates IPO rigging, suspends ChaPanda shares",
+    "summary": "Hong Kong's securities watchdog investigates IPO rigging and suspends ChaPanda shares. The investigation addresses potential market manipulation in initial public offerings.",
+    "lang": "en",
+    "source": "Nikkei Asia",
+    "url": "https://asia.nikkei.com/business/markets/equities/hong-kong-watchdog-investigates-ipo-rigging-suspends-chapanda-shares",
+    "published": null,
+    "event_id": "c523081a058c",
+    "sources": [
+     {
+      "title": "Hong Kong watchdog investigates IPO rigging, suspends ChaPanda shares",
+      "summary": "Hong Kong's securities watchdog investigates IPO rigging and suspends ChaPanda shares. The investigation addresses potential market manipulation in initial public offerings.",
+      "lang": "en",
+      "source": "Nikkei Asia",
+      "url": "https://asia.nikkei.com/business/markets/equities/hong-kong-watchdog-investigates-ipo-rigging-suspends-chapanda-shares",
+      "published": null
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "TSMC, Intel supplier Qnity bets on local production to win business",
+    "summary": "TSMC supplier Qnity pursues local production strategy to secure business with major clients. The company bets on domestic manufacturing to strengthen market position.",
+    "lang": "en",
+    "source": "Nikkei Asia",
+    "url": "https://asia.nikkei.com/editor-s-picks/interview/tsmc-intel-supplier-qnity-bets-on-local-production-to-win-business",
+    "published": null,
+    "event_id": "aa3e1cf93d2a",
+    "sources": [
+     {
+      "title": "TSMC, Intel supplier Qnity bets on local production to win business",
+      "summary": "TSMC supplier Qnity pursues local production strategy to secure business with major clients. The company bets on domestic manufacturing to strengthen market position.",
+      "lang": "en",
+      "source": "Nikkei Asia",
+      "url": "https://asia.nikkei.com/editor-s-picks/interview/tsmc-intel-supplier-qnity-bets-on-local-production-to-win-business",
+      "published": null
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "Japan automakers highlight multi-power source plan as Chinese focus on EVs",
+    "summary": "Japanese automakers emphasize multi-power source vehicle development amid Chinese EV dominance. The strategy diversifies technology as competition in electric vehicles intensifies.",
+    "lang": "en",
+    "source": "Nikkei Asia",
+    "url": "https://asia.nikkei.com/business/automobiles/japan-automakers-highlight-multi-power-source-plan-as-chinese-focus-on-evs",
+    "published": null,
+    "event_id": "f6256c638639",
+    "sources": [
+     {
+      "title": "Japan automakers highlight multi-power source plan as Chinese focus on EVs",
+      "summary": "Japanese automakers emphasize multi-power source vehicle development amid Chinese EV dominance. The strategy diversifies technology as competition in electric vehicles intensifies.",
+      "lang": "en",
+      "source": "Nikkei Asia",
+      "url": "https://asia.nikkei.com/business/automobiles/japan-automakers-highlight-multi-power-source-plan-as-chinese-focus-on-evs",
+      "published": null
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "輝達、AMD 點火 AI 機櫃戰局，800 VDC 電源、散熱族群蓄勢待發",
+    "summary": "輝達與AMD推進新一代AI機櫃規格，機櫃功率邁向250瓦級別。800伏直流電源及散熱供應商蓄勢待發。",
+    "lang": "zh",
+    "source": "科技新報 TechNews",
+    "url": "https://technews.tw/2026/10/13/nvidia-amd-ai-server-rack-specs-emerge-800vdc-power-liquid-cooling-opportunities/",
+    "published": "2026-10-13T09:21:47+00:00",
+    "event_id": "32886ea79a96",
+    "sources": [
+     {
+      "title": "輝達、AMD 點火 AI 機櫃戰局，800 VDC 電源、散熱族群蓄勢待發",
+      "summary": "輝達與AMD推進新一代AI機櫃規格，機櫃功率邁向250瓦級別。800伏直流電源及散熱供應商蓄勢待發。",
+      "lang": "zh",
+      "source": "科技新報 TechNews",
+      "url": "https://technews.tw/2026/10/13/nvidia-amd-ai-server-rack-specs-emerge-800vdc-power-liquid-cooling-opportunities/",
+      "published": "2026-10-13T09:21:47+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "Ledger硬體加密貨幣錢包設備驚傳被植入隱藏晶片，遭竊資產超過一億美元",
+    "summary": "法國硬體錢包Ledger遭植入隱藏晶片，超過300個錢包資產遭竊失超1億美元。公司定調經銷商CryptoBillis販售設備有問題。",
+    "lang": "zh",
+    "source": "iThome 台灣",
+    "url": "https://www.ithome.com.tw/news/179658",
+    "published": "2026-10-13T06:10:44+00:00",
+    "event_id": "cd16032303fe",
+    "sources": [
+     {
+      "title": "Ledger硬體加密貨幣錢包設備驚傳被植入隱藏晶片，遭竊資產超過一億美元",
+      "summary": "法國硬體錢包Ledger遭植入隱藏晶片，超過300個錢包資產遭竊失超1億美元。公司定調經銷商CryptoBillis販售設備有問題。",
+      "lang": "zh",
+      "source": "iThome 台灣",
+      "url": "https://www.ithome.com.tw/news/179658",
+      "published": "2026-10-13T06:10:44+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   }
+  ],
+  "tecnologia|europa": [
+   {
+    "title": "GhostAction攻擊再襲GitHub，346個儲存庫遭植入竊密工作流程",
+    "summary": "軟體供應鏈攻擊GhostAction再次入侵GitHub，346個儲存庫被植入竊密工作流程。新版攻擊掘取開發者刪除但仍在歷史記錄中的密鑰。",
+    "lang": "zh",
+    "source": "iThome 台灣",
+    "url": "https://www.ithome.com.tw/news/179638",
+    "published": "2026-10-13T03:10:42+00:00",
+    "event_id": "4ef00b92b714",
+    "sources": [
+     {
+      "title": "GhostAction攻擊再襲GitHub，346個儲存庫遭植入竊密工作流程",
+      "summary": "軟體供應鏈攻擊GhostAction再次入侵GitHub，346個儲存庫被植入竊密工作流程。新版攻擊掘取開發者刪除但仍在歷史記錄中的密鑰。",
+      "lang": "zh",
+      "source": "iThome 台灣",
+      "url": "https://www.ithome.com.tw/news/179638",
+      "published": "2026-10-13T03:10:42+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "德國政府公布PQC遷移指引，高風險系統最晚2030年完成轉換、整體遷移目標2035年",
+    "summary": "德國政府公布後量子密碼學遷移指引，高風險系統最晚2030年完成轉換。整體遷移目標定於2035年前完成。",
+    "lang": "zh",
+    "source": "iThome 台灣",
+    "url": "https://www.ithome.com.tw/news/179641",
+    "published": "2026-10-13T04:10:09+00:00",
+    "event_id": "6f5b177bd4b4",
+    "sources": [
+     {
+      "title": "德國政府公布PQC遷移指引，高風險系統最晚2030年完成轉換、整體遷移目標2035年",
+      "summary": "德國政府公布後量子密碼學遷移指引，高風險系統最晚2030年完成轉換。整體遷移目標定於2035年前完成。",
+      "lang": "zh",
+      "source": "iThome 台灣",
+      "url": "https://www.ithome.com.tw/news/179641",
+      "published": "2026-10-13T04:10:09+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   }
+  ]
+ }
+}
