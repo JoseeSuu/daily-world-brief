@@ -1,0 +1,1029 @@
+{
+ "date": "2026-10-14",
+ "generated_at": "2026-10-14T10:26:27.026664+00:00",
+ "mode": "full",
+ "cost_usd": 0.0549,
+ "radar_cost_usd": 0.0058,
+ "events": {
+  "mode": "full",
+  "compared_with": "2026-10-13",
+  "articles": 42,
+  "uncompared_articles": 0,
+  "events": 41,
+  "cost_usd": 0.0221
+ },
+ "radar": {
+  "items": [
+   {
+    "id": "gh-1379166549",
+    "source": "GitHub",
+    "kind": "project",
+    "title": "nokia-applied-research/AnyJev",
+    "url": "https://github.com/nokia-applied-research/AnyJev",
+    "discussion_url": "",
+    "published": "2026-09-21T05:55:40Z",
+    "lang": "en",
+    "excerpt": "Turn any LLM into a Jev-style decision model: typed decisions, real probabilities, no training. (continue updating, welcome any issue and PR request)",
+    "signal": {
+     "stars_total": 1262
+    },
+    "summary": "Nokia AnyJev authors report converting any LLM into typed decision models with real probabilities, requiring no training.",
+    "usefulness": "Could help Python developers structure LLM outputs as constrained decision types if the probability calibration claim holds.",
+    "to_verify": "Whether 'real probabilities' are calibrated and whether the approach works across diverse base models."
+   },
+   {
+    "id": "hn-50077619",
+    "source": "Hacker News",
+    "kind": "discussion",
+    "title": "Show HN: Parsimony – an open-source benchmark for how much code AI models add",
+    "url": "https://parsimony.lasu.dev/",
+    "discussion_url": "https://news.ycombinator.com/item?id=50077619",
+    "published": "2026-10-13T19:50:31+00:00",
+    "lang": "en",
+    "excerpt": "Existing benchmarks measure solve rate and token output/cost, but don't punish excess code, which makes a codebase harder to work with in the long term. I wanted to measure this since it matters most for long-term projects. Method: it takes the patches that benchmarks already publish (DeepSWE, SWE-bench Verified, SWE-bench Live) and counts \"coding units\": syntax elements like statements, calls, names and literals. I didn't use lines of code, so cramming code isn't rewarded. Deleted code is subtracted, so it measures net units. GPT-6 and Claude 5.5 have no public patches yet, so I ran them myse",
+    "signal": {
+     "points": 69,
+     "comments": 13
+    },
+    "summary": "Parsimony benchmark counts code units (statements, calls, names, literals) across model patches to penalize excess code addition, excluding lines-of-code metrics.",
+    "usefulness": "Might help evaluate if Python AI coding tools produce maintainable patches, not just solve problems.",
+    "to_verify": "Whether net unit counting actually correlates with long-term codebase health and maintainability."
+   }
+  ],
+  "mode": "full",
+  "failed_sources": []
+ },
+ "market": null,
+ "failed_sources": [],
+ "cells": {
+  "economia|asia": [
+   {
+    "title": "China’s exports surge 36% as AI-related shipments boom",
+    "summary": "",
+    "lang": "en",
+    "source": "FT Global Economy",
+    "url": "https://www.ft.com/content/4eab6c20-60d6-46b6-accd-2e04edfa541d?syn-25a6b1a6=1",
+    "published": "2026-10-14T03:56:03+00:00",
+    "event_id": "efb4d5c74655",
+    "sources": [
+     {
+      "title": "China’s exports surge 36% as AI-related shipments boom",
+      "summary": "",
+      "lang": "en",
+      "source": "FT Global Economy",
+      "url": "https://www.ft.com/content/4eab6c20-60d6-46b6-accd-2e04edfa541d?syn-25a6b1a6=1",
+      "published": "2026-10-14T03:56:03+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "Taiwan and Trump confirm plans for Alaska LNG cooperation",
+    "summary": "",
+    "lang": "en",
+    "source": "Nikkei Asia",
+    "url": "https://asia.nikkei.com/politics/international-relations/taiwan-tensions/taiwan-and-trump-confirm-plans-for-alaska-lng-cooperation",
+    "published": null,
+    "event_id": "ab5e7120e134",
+    "sources": [
+     {
+      "title": "Taiwan and Trump confirm plans for Alaska LNG cooperation",
+      "summary": "",
+      "lang": "en",
+      "source": "Nikkei Asia",
+      "url": "https://asia.nikkei.com/politics/international-relations/taiwan-tensions/taiwan-and-trump-confirm-plans-for-alaska-lng-cooperation",
+      "published": null
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "Chinese AI startup Manus drums up over $500m in fresh funding",
+    "summary": "",
+    "lang": "en",
+    "source": "Nikkei Asia",
+    "url": "https://asia.nikkei.com/business/technology/artificial-intelligence/chinese-ai-startup-manus-drums-up-over-500m-in-fresh-funding",
+    "published": null,
+    "event_id": "b8801a13e82f",
+    "sources": [
+     {
+      "title": "Chinese AI startup Manus drums up over $500m in fresh funding",
+      "summary": "",
+      "lang": "en",
+      "source": "Nikkei Asia",
+      "url": "https://asia.nikkei.com/business/technology/artificial-intelligence/chinese-ai-startup-manus-drums-up-over-500m-in-fresh-funding",
+      "published": null
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "Vietnam sends final trade agreement wording to US, deputy PM says",
+    "summary": "",
+    "lang": "en",
+    "source": "Nikkei Asia",
+    "url": "https://asia.nikkei.com/economy/trade/vietnam-sends-final-trade-agreement-wording-to-us-deputy-pm-says",
+    "published": null,
+    "event_id": "2e48fd273f67",
+    "sources": [
+     {
+      "title": "Vietnam sends final trade agreement wording to US, deputy PM says",
+      "summary": "",
+      "lang": "en",
+      "source": "Nikkei Asia",
+      "url": "https://asia.nikkei.com/economy/trade/vietnam-sends-final-trade-agreement-wording-to-us-deputy-pm-says",
+      "published": null
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "Indonesia names over 200 people, nine firms as suspects over forest fires as transboundary haze worsens",
+    "summary": "Indonesian authorities named over 200 suspects and nine firms in forest fire investigations as transboundary haze worsens, prompting Malaysia and Indonesia to discuss joint mitigation efforts for the first time.",
+    "lang": "en",
+    "source": "Channel NewsAsia",
+    "url": "https://www.channelnewsasia.com/asia/indonesia-individuals-companies-suspects-forest-fires-haze-6458531",
+    "published": "2026-10-14T09:16:00+00:00",
+    "event_id": "50daf855e3c8",
+    "sources": [
+     {
+      "title": "Indonesia names over 200 people, nine firms as suspects over forest fires as transboundary haze worsens",
+      "summary": "Indonesian authorities named over 200 suspects and nine firms in forest fire investigations as transboundary haze worsens, prompting Malaysia and Indonesia to discuss joint mitigation efforts for the first time.",
+      "lang": "en",
+      "source": "Channel NewsAsia",
+      "url": "https://www.channelnewsasia.com/asia/indonesia-individuals-companies-suspects-forest-fires-haze-6458531",
+      "published": "2026-10-14T09:16:00+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "中國退稅砍 4 個百分點、歐盟設油電車配額，中國電動車出海遭雙重夾擊",
+    "summary": "中国电动车产业面临双重打击：中国政府将退税优惠削减4个百分点，欧盟同时实施油电混合车配额限制措施。",
+    "lang": "zh",
+    "source": "科技新報 TechNews",
+    "url": "https://technews.tw/2026/10/14/chinas-ev-industry-faces-double-blow-from-eu-export-quota-vat-rebate-cut/",
+    "published": "2026-10-14T10:00:01+00:00",
+    "event_id": "8c12111a557e",
+    "sources": [
+     {
+      "title": "中國退稅砍 4 個百分點、歐盟設油電車配額，中國電動車出海遭雙重夾擊",
+      "summary": "中国电动车产业面临双重打击：中国政府将退税优惠削减4个百分点，欧盟同时实施油电混合车配额限制措施。",
+      "lang": "zh",
+      "source": "科技新報 TechNews",
+      "url": "https://technews.tw/2026/10/14/chinas-ev-industry-faces-double-blow-from-eu-export-quota-vat-rebate-cut/",
+      "published": "2026-10-14T10:00:01+00:00"
+     }
+    ],
+    "status": "updated",
+    "change_summary": "中國退稅砍 4 個百分點、歐盟設油電車配額，中國電動車出海遭雙重夾擊",
+    "previous_date": "2026-10-13",
+    "previous_event_id": "8c12111a557e"
+   }
+  ],
+  "tecnologia|asia": [
+   {
+    "title": "Memory breakthrough by China's CXMT puts chip rivals on back foot",
+    "summary": "",
+    "lang": "en",
+    "source": "Nikkei Asia",
+    "url": "https://asia.nikkei.com/business/tech/semiconductors/memory-breakthrough-by-china-s-cxmt-puts-chip-rivals-on-back-foot",
+    "published": null,
+    "event_id": "80707a653c70",
+    "sources": [
+     {
+      "title": "Memory breakthrough by China's CXMT puts chip rivals on back foot",
+      "summary": "",
+      "lang": "en",
+      "source": "Nikkei Asia",
+      "url": "https://asia.nikkei.com/business/tech/semiconductors/memory-breakthrough-by-china-s-cxmt-puts-chip-rivals-on-back-foot",
+      "published": null
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "Google DeepMind and Singapore Government collaborate to build fine-tuned AI model for scam detection",
+    "summary": "Google DeepMind and Singapore's GovTech deployed lightweight Gemma models on-device to detect conversational scams in private chats without cloud data transfer.",
+    "lang": "en",
+    "source": "Google DeepMind Blog",
+    "url": "https://deepmind.google/blog/on-device-ai-scam-detection-mddi/",
+    "published": "2026-10-14T02:00:14+00:00",
+    "event_id": "58e4191fcfe4",
+    "sources": [
+     {
+      "title": "Google DeepMind and Singapore Government collaborate to build fine-tuned AI model for scam detection",
+      "summary": "Google DeepMind and Singapore's GovTech deployed lightweight Gemma models on-device to detect conversational scams in private chats without cloud data transfer.",
+      "lang": "en",
+      "source": "Google DeepMind Blog",
+      "url": "https://deepmind.google/blog/on-device-ai-scam-detection-mddi/",
+      "published": "2026-10-14T02:00:14+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "Ledger加密錢包設備遭植入隱藏晶片，影響範圍已從亞洲擴及歐洲",
+    "summary": "加密钱包硬件设备Ledger遭植入间谍芯片，受影响范围已从亚洲扩展至欧洲，用户需紧急转移资产并更换通关密语。",
+    "lang": "zh",
+    "source": "iThome 台灣",
+    "url": "https://www.ithome.com.tw/news/179660",
+    "published": "2026-10-14T05:10:39+00:00",
+    "event_id": "cd16032303fe",
+    "sources": [
+     {
+      "title": "Ledger加密錢包設備遭植入隱藏晶片，影響範圍已從亞洲擴及歐洲",
+      "summary": "加密钱包硬件设备Ledger遭植入间谍芯片，受影响范围已从亚洲扩展至欧洲，用户需紧急转移资产并更换通关密语。",
+      "lang": "zh",
+      "source": "iThome 台灣",
+      "url": "https://www.ithome.com.tw/news/179660",
+      "published": "2026-10-14T05:10:39+00:00"
+     }
+    ],
+    "status": "updated",
+    "change_summary": "Ledger加密錢包設備遭植入隱藏晶片，影響範圍已從亞洲擴及歐洲",
+    "previous_date": "2026-10-13",
+    "previous_event_id": "cd16032303fe"
+   },
+   {
+    "title": "金管會擬推出金融業代理AI安全指引，先公布諮詢文件徵詢意見，聚焦安全治理、風險分級與權限控管",
+    "summary": "金管会发布金融业代理AI安全诮詢文件，聚焦安全治理、风险分级与权限控管三大面向，公开征询意见30天。",
+    "lang": "zh",
+    "source": "iThome 台灣",
+    "url": "https://www.ithome.com.tw/news/179681",
+    "published": "2026-10-14T04:10:05+00:00",
+    "event_id": "0ad256161701",
+    "sources": [
+     {
+      "title": "金管會擬推出金融業代理AI安全指引，先公布諮詢文件徵詢意見，聚焦安全治理、風險分級與權限控管",
+      "summary": "金管会发布金融业代理AI安全诮詢文件，聚焦安全治理、风险分级与权限控管三大面向，公开征询意见30天。",
+      "lang": "zh",
+      "source": "iThome 台灣",
+      "url": "https://www.ithome.com.tw/news/179681",
+      "published": "2026-10-14T04:10:05+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   }
+  ],
+  "tecnologia|europa": [
+   {
+    "title": "Philip R. Lane: The AI opportunity for Europe",
+    "summary": "",
+    "lang": "en",
+    "source": "BCE (notas de prensa)",
+    "url": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp261013~9db9bf4fd6.en.html",
+    "published": "2026-10-13T18:30:00+00:00",
+    "event_id": "31a2bbd9d03d",
+    "sources": [
+     {
+      "title": "Philip R. Lane: The AI opportunity for Europe",
+      "summary": "",
+      "lang": "en",
+      "source": "BCE (notas de prensa)",
+      "url": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp261013~9db9bf4fd6.en.html",
+      "published": "2026-10-13T18:30:00+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "“Tu lavadora está sujeta a más reglas de seguridad que la IA”: Brad Smith, presidente de Microsoft, pide frenar el Salvaje Oeste de la IA",
+    "summary": "Brad Smith, presidente de Microsoft, afirma que la IA carece de regulación adecuada comparada con electrodomésticos, pidiendo frenar el desarrollo descontrolado del sector.",
+    "lang": "es",
+    "source": "Xataka",
+    "url": "https://www.xataka.com/empresas-y-economia/tu-lavadora-esta-sujeta-a-reglas-seguridad-que-ia-brad-smith-presidente-microsoft-pide-frenar-salvaje-oeste-ia",
+    "published": "2026-10-14T10:00:29+00:00",
+    "event_id": "da2cafd8b490",
+    "sources": [
+     {
+      "title": "“Tu lavadora está sujeta a más reglas de seguridad que la IA”: Brad Smith, presidente de Microsoft, pide frenar el Salvaje Oeste de la IA",
+      "summary": "Brad Smith, presidente de Microsoft, afirma que la IA carece de regulación adecuada comparada con electrodomésticos, pidiendo frenar el desarrollo descontrolado del sector.",
+      "lang": "es",
+      "source": "Xataka",
+      "url": "https://www.xataka.com/empresas-y-economia/tu-lavadora-esta-sujeta-a-reglas-seguridad-que-ia-brad-smith-presidente-microsoft-pide-frenar-salvaje-oeste-ia",
+      "published": "2026-10-14T10:00:29+00:00"
+     }
+    ],
+    "status": "updated",
+    "change_summary": "\"Tu lavadora está sujeta a más reglas de seguridad que la IA\": Brad Smith, presidente de Microsoft, pide frenar el Salvaje Oeste de la IA",
+    "previous_date": "2026-10-13",
+    "previous_event_id": "da2cafd8b490"
+   }
+  ],
+  "economia|europa": [
+   {
+    "title": "ECB Not Seeing Second-Round Inflation Effects, Lagarde Says",
+    "summary": "ECB President Christine Lagarde stated the central bank sees no second-round inflation effects yet, as elevated euro-area inflation driven by energy prices has not spread to the broader economy.",
+    "lang": "en",
+    "source": "Bloomberg Economics",
+    "url": "https://www.bloomberg.com/news/articles/2026-10-14/ecb-not-seeing-second-round-inflation-effects-lagarde-says",
+    "published": "2026-10-14T02:51:44+00:00",
+    "event_id": "1062369de4bf",
+    "sources": [
+     {
+      "title": "ECB Not Seeing Second-Round Inflation Effects, Lagarde Says",
+      "summary": "ECB President Christine Lagarde stated the central bank sees no second-round inflation effects yet, as elevated euro-area inflation driven by energy prices has not spread to the broader economy.",
+      "lang": "en",
+      "source": "Bloomberg Economics",
+      "url": "https://www.bloomberg.com/news/articles/2026-10-14/ecb-not-seeing-second-round-inflation-effects-lagarde-says",
+      "published": "2026-10-14T02:51:44+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "Commerzbank Sees ECB Approval for UniCredit Control Soon",
+    "summary": "Commerzbank CEO Bettina Orlopp said UniCredit will receive European Central Bank approval for control \"in the next days or weeks,\" clearing the way for the Italian lender's takeover bid.",
+    "lang": "en",
+    "source": "Bloomberg Economics",
+    "url": "https://www.bloomberg.com/news/videos/2026-10-14/commerzbank-sees-ecb-approval-for-unicredit-control-soon-video",
+    "published": "2026-10-14T08:31:28+00:00",
+    "event_id": "812d9170be9a",
+    "sources": [
+     {
+      "title": "Commerzbank Sees ECB Approval for UniCredit Control Soon",
+      "summary": "Commerzbank CEO Bettina Orlopp said UniCredit will receive European Central Bank approval for control \"in the next days or weeks,\" clearing the way for the Italian lender's takeover bid.",
+      "lang": "en",
+      "source": "Bloomberg Economics",
+      "url": "https://www.bloomberg.com/news/videos/2026-10-14/commerzbank-sees-ecb-approval-for-unicredit-control-soon-video",
+      "published": "2026-10-14T08:31:28+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "Los países europeos se preparan para el impacto de la inflación en sus salarios mínimos",
+    "summary": "Francia y Bélgica poseen mecanismos automáticos para ajustar el salario mínimo según la inflación, mientras que otros países europeos utilizan diversos criterios en sus decisiones.",
+    "lang": "es",
+    "source": "El País Economía",
+    "url": "https://elpais.com/economia/2026-10-14/los-paises-europeos-se-preparan-para-el-impacto-de-la-inflacion-en-sus-salarios-minimos.html",
+    "published": "2026-10-14T03:30:01+00:00",
+    "event_id": "ad457b52ee13",
+    "sources": [
+     {
+      "title": "Los países europeos se preparan para el impacto de la inflación en sus salarios mínimos",
+      "summary": "Francia y Bélgica poseen mecanismos automáticos para ajustar el salario mínimo según la inflación, mientras que otros países europeos utilizan diversos criterios en sus decisiones.",
+      "lang": "es",
+      "source": "El País Economía",
+      "url": "https://elpais.com/economia/2026-10-14/los-paises-europeos-se-preparan-para-el-impacto-de-la-inflacion-en-sus-salarios-minimos.html",
+      "published": "2026-10-14T03:30:01+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "Italy Industry Lobby Says Energy Shock Could Wipe Out Growth",
+    "summary": "Italy's industry lobby warned that worsening energy shocks could eliminate economic growth next year due to high power prices and EU carbon costs hurting industrial competitiveness.",
+    "lang": "en",
+    "source": "Bloomberg Economics",
+    "url": "https://www.bloomberg.com/news/articles/2026-10-14/italy-industry-lobby-says-energy-shock-could-wipe-out-growth",
+    "published": "2026-10-14T08:00:34+00:00",
+    "event_id": "8397d482e953",
+    "sources": [
+     {
+      "title": "Italy Industry Lobby Says Energy Shock Could Wipe Out Growth",
+      "summary": "Italy's industry lobby warned that worsening energy shocks could eliminate economic growth next year due to high power prices and EU carbon costs hurting industrial competitiveness.",
+      "lang": "en",
+      "source": "Bloomberg Economics",
+      "url": "https://www.bloomberg.com/news/articles/2026-10-14/italy-industry-lobby-says-energy-shock-could-wipe-out-growth",
+      "published": "2026-10-14T08:00:34+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   }
+  ],
+  "economia|america": [
+   {
+    "title": "US grocery prices poised to climb as soaring fuel costs drive inflation",
+    "summary": "US grocery prices are set to rise as soaring fuel costs drive inflation, with food manufacturers warning consumers of impacts ahead of midterm elections.",
+    "lang": "en",
+    "source": "FT Global Economy",
+    "url": "https://www.ft.com/content/13929c26-1c01-41b2-b81a-d337fa5c9d27?syn-25a6b1a6=1",
+    "published": "2026-10-14T04:00:12+00:00",
+    "event_id": "9a323fab5ff1",
+    "sources": [
+     {
+      "title": "US grocery prices poised to climb as soaring fuel costs drive inflation",
+      "summary": "US grocery prices are set to rise as soaring fuel costs drive inflation, with food manufacturers warning consumers of impacts ahead of midterm elections.",
+      "lang": "en",
+      "source": "FT Global Economy",
+      "url": "https://www.ft.com/content/13929c26-1c01-41b2-b81a-d337fa5c9d27?syn-25a6b1a6=1",
+      "published": "2026-10-14T04:00:12+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "Minutes of the Board's discount rate meetings on August 17, September 9, and September 16, 2026",
+    "summary": "",
+    "lang": "en",
+    "source": "Reserva Federal (notas de prensa)",
+    "url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20261013a.htm",
+    "published": "2026-10-13T18:00:00+00:00",
+    "event_id": "d85e5d360934",
+    "sources": [
+     {
+      "title": "Minutes of the Board's discount rate meetings on August 17, September 9, and September 16, 2026",
+      "summary": "",
+      "lang": "en",
+      "source": "Reserva Federal (notas de prensa)",
+      "url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20261013a.htm",
+      "published": "2026-10-13T18:00:00+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "Can energy help Mexico in trade talks with Trump?",
+    "summary": "Energy is a key sector in Mexico-US trade negotiations, with the US running its largest trade surplus with Mexico at approximately $25 billion annually in this sector.",
+    "lang": "en",
+    "source": "FT Global Economy",
+    "url": "https://www.ft.com/content/73257952-844b-4f5f-a1cb-112ae9cb0249?syn-25a6b1a6=1",
+    "published": "2026-10-13T11:00:08+00:00",
+    "event_id": "b9112f13d4ef",
+    "sources": [
+     {
+      "title": "Can energy help Mexico in trade talks with Trump?",
+      "summary": "Energy is a key sector in Mexico-US trade negotiations, with the US running its largest trade surplus with Mexico at approximately $25 billion annually in this sector.",
+      "lang": "en",
+      "source": "FT Global Economy",
+      "url": "https://www.ft.com/content/73257952-844b-4f5f-a1cb-112ae9cb0249?syn-25a6b1a6=1",
+      "published": "2026-10-13T11:00:08+00:00"
+     }
+    ],
+    "status": "unchanged",
+    "change_summary": "",
+    "previous_date": "2026-10-13",
+    "previous_event_id": "b9112f13d4ef"
+   }
+  ],
+  "politica|europa": [
+   {
+    "title": "Russian strikes leave 600,000 without power in Ukraine, as Starlink restrictions affect front line",
+    "summary": "Russian strikes knocked out power for 600,000 Ukrainians, while Starlink speed restrictions are hindering battlefield operations on the front lines.",
+    "lang": "en",
+    "source": "BBC World",
+    "url": "https://www.bbc.co.uk/news/articles/cm2d6e62p49do?at_medium=RSS&at_campaign=rss",
+    "published": "2026-10-14T10:04:28+00:00",
+    "event_id": "2b3762f9568b",
+    "sources": [
+     {
+      "title": "Russian strikes leave 600,000 without power in Ukraine, as Starlink restrictions affect front line",
+      "summary": "Russian strikes knocked out power for 600,000 Ukrainians, while Starlink speed restrictions are hindering battlefield operations on the front lines.",
+      "lang": "en",
+      "source": "BBC World",
+      "url": "https://www.bbc.co.uk/news/articles/cm2d6e62p49do?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-14T10:04:28+00:00"
+     },
+     {
+      "title": "Russian strikes on Ukraine energy sites leave 600,000 without power, says Zelensky",
+      "summary": "Ukrainian President Zelenskyy reported Russian ballistic missile strikes targeted energy infrastructure leaving 600,000 without power, contradicting claimed energy ceasefire terms.",
+      "lang": "en",
+      "source": "Le Monde International",
+      "url": "https://www.lemonde.fr/en/international/article/2026/10/14/russian-energy-strikes-leave-600-000-people-without-power-says-zelensky_6758587_4.html",
+      "published": "2026-10-14T06:50:32+00:00"
+     }
+    ],
+    "status": "updated",
+    "change_summary": "Russian strikes leave 600,000 without power in Ukraine, as Starlink restrictions affect front line",
+    "previous_date": "2026-10-13",
+    "previous_event_id": "2b3762f9568b"
+   },
+   {
+    "title": "Germany puts Ukrainian on trial accused of blowing up Nord Stream pipelines",
+    "summary": "A Ukrainian man stands trial in Germany four years after the Nord Stream pipeline attacks, accused of plotting to destroy Russia's gas pipelines supplying Germany.",
+    "lang": "en",
+    "source": "BBC World",
+    "url": "https://www.bbc.co.uk/news/articles/cw99zpmnxzmjo?at_medium=RSS&at_campaign=rss",
+    "published": "2026-10-14T09:32:54+00:00",
+    "event_id": "881c1b6b7738",
+    "sources": [
+     {
+      "title": "Germany puts Ukrainian on trial accused of blowing up Nord Stream pipelines",
+      "summary": "A Ukrainian man stands trial in Germany four years after the Nord Stream pipeline attacks, accused of plotting to destroy Russia's gas pipelines supplying Germany.",
+      "lang": "en",
+      "source": "BBC World",
+      "url": "https://www.bbc.co.uk/news/articles/cw99zpmnxzmjo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-14T09:32:54+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "EU opens new talks in Ukraine membership bid",
+    "summary": "The EU launched new membership negotiations with Ukraine after Kyiv MPs passed legislation protecting Hungarian-speaking minority rights, advancing accession discussions.",
+    "lang": "en",
+    "source": "Le Monde International",
+    "url": "https://www.lemonde.fr/en/international/article/2026/10/13/eu-opens-new-talks-in-ukraine-membership-bid_6758575_4.html",
+    "published": "2026-10-13T18:59:01+00:00",
+    "event_id": "5ca8cbad77f3",
+    "sources": [
+     {
+      "title": "EU opens new talks in Ukraine membership bid",
+      "summary": "The EU launched new membership negotiations with Ukraine after Kyiv MPs passed legislation protecting Hungarian-speaking minority rights, advancing accession discussions.",
+      "lang": "en",
+      "source": "Le Monde International",
+      "url": "https://www.lemonde.fr/en/international/article/2026/10/13/eu-opens-new-talks-in-ukraine-membership-bid_6758575_4.html",
+      "published": "2026-10-13T18:59:01+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "How NATO plans to combat potential attacks on the alliance from Russia",
+    "summary": "NATO developed detailed plans to counter potential Russian attacks on alliance members, signaling increased preparedness against Russian military threats.",
+    "lang": "en",
+    "source": "NPR World",
+    "url": "https://www.npr.org/2026/10/13/nx-s1-5998721/how-nato-plans-to-combat-potential-attacks-on-the-alliance-from-russia",
+    "published": "2026-10-13T08:44:14+00:00",
+    "event_id": "2fbd2470940e",
+    "sources": [
+     {
+      "title": "How NATO plans to combat potential attacks on the alliance from Russia",
+      "summary": "NATO developed detailed plans to counter potential Russian attacks on alliance members, signaling increased preparedness against Russian military threats.",
+      "lang": "en",
+      "source": "NPR World",
+      "url": "https://www.npr.org/2026/10/13/nx-s1-5998721/how-nato-plans-to-combat-potential-attacks-on-the-alliance-from-russia",
+      "published": "2026-10-13T08:44:14+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   }
+  ],
+  "politica|asia": [
+   {
+    "title": "土耳其親反對派電視台遭搜索接管 11人被捕頻道停播",
+    "summary": "土耳其警方突袭亲反对派人民电视台，逮捕11人并停止直播，恰逢伊斯坦堡市长伊瑪莫魯贪污案辩方即将陈述之际。",
+    "lang": "zh",
+    "source": "中央社 CNA",
+    "url": "https://www.cna.com.tw/news/aopl/202610140264.aspx",
+    "published": "2026-10-14T09:41:38+00:00",
+    "event_id": "476f8591fda3",
+    "sources": [
+     {
+      "title": "土耳其親反對派電視台遭搜索接管 11人被捕頻道停播",
+      "summary": "土耳其警方突袭亲反对派人民电视台，逮捕11人并停止直播，恰逢伊斯坦堡市长伊瑪莫魯贪污案辩方即将陈述之际。",
+      "lang": "zh",
+      "source": "中央社 CNA",
+      "url": "https://www.cna.com.tw/news/aopl/202610140264.aspx",
+      "published": "2026-10-14T09:41:38+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "China’s Liaoning carrier heads to the Pacific as US, Japan prepare for missile drills",
+    "summary": "China's Liaoning aircraft carrier launched its second western Pacific drill series this year, coinciding with expanded US-Japan missile exercises in the region.",
+    "lang": "en",
+    "source": "South China Morning Post (China)",
+    "url": "https://www.scmp.com/news/china/military/article/3370859/chinas-liaoning-carrier-heads-pacific-us-japan-prepare-missile-drills?utm_source=rss_feed",
+    "published": "2026-10-14T09:00:06+00:00",
+    "event_id": "c866c84fea5c",
+    "sources": [
+     {
+      "title": "China’s Liaoning carrier heads to the Pacific as US, Japan prepare for missile drills",
+      "summary": "China's Liaoning aircraft carrier launched its second western Pacific drill series this year, coinciding with expanded US-Japan missile exercises in the region.",
+      "lang": "en",
+      "source": "South China Morning Post (China)",
+      "url": "https://www.scmp.com/news/china/military/article/3370859/chinas-liaoning-carrier-heads-pacific-us-japan-prepare-missile-drills?utm_source=rss_feed",
+      "published": "2026-10-14T09:00:06+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "China and North Korea to open border bridge after unexplained 12-year delay",
+    "summary": "A bridge between China and North Korea completed 12 years ago will finally open Thursday after an unexplained delay, marking restored border connectivity between the two nations.",
+    "lang": "en",
+    "source": "South China Morning Post (China)",
+    "url": "https://www.scmp.com/news/china/diplomacy/article/3370843/china-and-north-korea-open-border-bridge-after-unexplained-12-year-delay?utm_source=rss_feed",
+    "published": "2026-10-14T07:02:37+00:00",
+    "event_id": "c959c045499c",
+    "sources": [
+     {
+      "title": "China and North Korea to open border bridge after unexplained 12-year delay",
+      "summary": "A bridge between China and North Korea completed 12 years ago will finally open Thursday after an unexplained delay, marking restored border connectivity between the two nations.",
+      "lang": "en",
+      "source": "South China Morning Post (China)",
+      "url": "https://www.scmp.com/news/china/diplomacy/article/3370843/china-and-north-korea-open-border-bridge-after-unexplained-12-year-delay?utm_source=rss_feed",
+      "published": "2026-10-14T07:02:37+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "In the occupied West Bank, one Palestinian family's story shows the limits of the Israeli court system",
+    "summary": "Israeli court rulings favoring Palestinians dispossessed of land by settlers remain largely unenforced in the occupied West Bank, revealing systemic enforcement limitations.",
+    "lang": "en",
+    "source": "Le Monde International",
+    "url": "https://www.lemonde.fr/en/international/article/2026/10/14/in-the-occupied-west-bank-one-palestinian-family-s-story-shows-the-limits-of-the-israeli-court-system_6758585_4.html",
+    "published": "2026-10-14T03:30:08+00:00",
+    "event_id": "ef45635259e5",
+    "sources": [
+     {
+      "title": "In the occupied West Bank, one Palestinian family's story shows the limits of the Israeli court system",
+      "summary": "Israeli court rulings favoring Palestinians dispossessed of land by settlers remain largely unenforced in the occupied West Bank, revealing systemic enforcement limitations.",
+      "lang": "en",
+      "source": "Le Monde International",
+      "url": "https://www.lemonde.fr/en/international/article/2026/10/14/in-the-occupied-west-bank-one-palestinian-family-s-story-shows-the-limits-of-the-israeli-court-system_6758585_4.html",
+      "published": "2026-10-14T03:30:08+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   }
+  ],
+  "politica|america": [
+   {
+    "title": "The Trump administration warns Ukraine it could cut off intel, Zelenskyy tells NPR",
+    "summary": "Ukrainian President Zelenskyy told NPR the Trump administration warned it could cut intelligence sharing, signaling renewed tensions between Washington and Kyiv.",
+    "lang": "en",
+    "source": "NPR World",
+    "url": "https://www.npr.org/2026/10/13/nx-s1-6000051/ukraine-zelenskyy-npr-interview-russia-war",
+    "published": "2026-10-13T18:51:55+00:00",
+    "event_id": "130ee83d3473",
+    "sources": [
+     {
+      "title": "The Trump administration warns Ukraine it could cut off intel, Zelenskyy tells NPR",
+      "summary": "Ukrainian President Zelenskyy told NPR the Trump administration warned it could cut intelligence sharing, signaling renewed tensions between Washington and Kyiv.",
+      "lang": "en",
+      "source": "NPR World",
+      "url": "https://www.npr.org/2026/10/13/nx-s1-6000051/ukraine-zelenskyy-npr-interview-russia-war",
+      "published": "2026-10-13T18:51:55+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "Trump's ambassador to Greece, Kimberly Guilfoyle, resigns after allegations of improper conduct",
+    "summary": "The White House publicly requested US Ambassador to Greece Kimberly Guilfoyle's resignation after mounting allegations of improper conduct against her.",
+    "lang": "en",
+    "source": "NPR World",
+    "url": "https://www.npr.org/2026/10/14/g-s1-148027/trump-ambassador-greece-resignation",
+    "published": "2026-10-14T09:09:39+00:00",
+    "event_id": "ab59beee9b9b",
+    "sources": [
+     {
+      "title": "Trump's ambassador to Greece, Kimberly Guilfoyle, resigns after allegations of improper conduct",
+      "summary": "The White House publicly requested US Ambassador to Greece Kimberly Guilfoyle's resignation after mounting allegations of improper conduct against her.",
+      "lang": "en",
+      "source": "NPR World",
+      "url": "https://www.npr.org/2026/10/14/g-s1-148027/trump-ambassador-greece-resignation",
+      "published": "2026-10-14T09:09:39+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "Trump's diesel deal with Putin angers Europe",
+    "summary": "Trump's diesel deal with Russia sparked European fury, with Zelenskyy questioning US motives and NATO allies vowing continued pressure on Moscow.",
+    "lang": "en",
+    "source": "NPR World",
+    "url": "https://www.npr.org/2026/10/13/nx-s1-5998764/trumps-diesel-deal-with-putin-angers-europe",
+    "published": "2026-10-13T08:44:19+00:00",
+    "event_id": "a4d9ed87756d",
+    "sources": [
+     {
+      "title": "Trump's diesel deal with Putin angers Europe",
+      "summary": "Trump's diesel deal with Russia sparked European fury, with Zelenskyy questioning US motives and NATO allies vowing continued pressure on Moscow.",
+      "lang": "en",
+      "source": "NPR World",
+      "url": "https://www.npr.org/2026/10/13/nx-s1-5998764/trumps-diesel-deal-with-putin-angers-europe",
+      "published": "2026-10-13T08:44:19+00:00"
+     }
+    ],
+    "status": "updated",
+    "change_summary": "Trump's diesel deal with Putin angers Europe",
+    "previous_date": "2026-10-13",
+    "previous_event_id": "441f6fcf2314"
+   },
+   {
+    "title": "Ukraine and the US: What's next after Trump's diesel deal with Russia?",
+    "summary": "Trump plans to allow Russian diesel purchases, sparking domestic and international criticism and raising questions about US-Ukraine relations and strategy ahead.",
+    "lang": "en",
+    "source": "Deutsche Welle World",
+    "url": "https://www.dw.com/en/ukraine-and-the-us-what-s-next-after-trump-s-diesel-deal-with-russia/a-79650785?maca=en-rss-en-world-4025-rdf",
+    "published": "2026-10-13T18:51:00+00:00",
+    "event_id": "441f6fcf2314",
+    "sources": [
+     {
+      "title": "Ukraine and the US: What's next after Trump's diesel deal with Russia?",
+      "summary": "Trump plans to allow Russian diesel purchases, sparking domestic and international criticism and raising questions about US-Ukraine relations and strategy ahead.",
+      "lang": "en",
+      "source": "Deutsche Welle World",
+      "url": "https://www.dw.com/en/ukraine-and-the-us-what-s-next-after-trump-s-diesel-deal-with-russia/a-79650785?maca=en-rss-en-world-4025-rdf",
+      "published": "2026-10-13T18:51:00+00:00"
+     }
+    ],
+    "status": "unchanged",
+    "change_summary": "",
+    "previous_date": "2026-10-13",
+    "previous_event_id": "441f6fcf2314"
+   },
+   {
+    "title": "Government spent millions on Trump ads. And, federal agents raid Ilhan Omar's home",
+    "summary": "The government spent millions on Trump advertisements despite presidential promises against it, while federal agents raided Rep. Ilhan Omar's Washington residence.",
+    "lang": "en",
+    "source": "NPR World",
+    "url": "https://www.npr.org/2026/10/13/g-s1-147822/up-first-newsletter-trump-ads-funding-campaign-rallies-ilhan-omar",
+    "published": "2026-10-13T11:08:14+00:00",
+    "event_id": "7962cc899f18",
+    "sources": [
+     {
+      "title": "Government spent millions on Trump ads. And, federal agents raid Ilhan Omar's home",
+      "summary": "The government spent millions on Trump advertisements despite presidential promises against it, while federal agents raided Rep. Ilhan Omar's Washington residence.",
+      "lang": "en",
+      "source": "NPR World",
+      "url": "https://www.npr.org/2026/10/13/g-s1-147822/up-first-newsletter-trump-ads-funding-campaign-rallies-ilhan-omar",
+      "published": "2026-10-13T11:08:14+00:00"
+     }
+    ],
+    "status": "unchanged",
+    "change_summary": "",
+    "previous_date": "2026-10-13",
+    "previous_event_id": "7962cc899f18"
+   }
+  ],
+  "tecnologia|america": [
+   {
+    "title": "Justice Department says North Koreans have infiltrated dozens of U.S. companies",
+    "summary": "US authorities warned that sanctioned North Korean hackers increasingly target Americans to facilitate breaches between compromised US companies and Pyongyang.",
+    "lang": "en",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/10/13/justice-department-says-north-koreans-have-infiltrated-dozens-of-u-s-companies/",
+    "published": "2026-10-14T01:30:42+00:00",
+    "event_id": "018d1b6a7724",
+    "sources": [
+     {
+      "title": "Justice Department says North Koreans have infiltrated dozens of U.S. companies",
+      "summary": "US authorities warned that sanctioned North Korean hackers increasingly target Americans to facilitate breaches between compromised US companies and Pyongyang.",
+      "lang": "en",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/10/13/justice-department-says-north-koreans-have-infiltrated-dozens-of-u-s-companies/",
+      "published": "2026-10-14T01:30:42+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "Science Corporation implants its vision-restoring chip in its first Stargardt disease patient",
+    "summary": "Science Corporation implanted its vision-restoring chip in a Stargardt disease patient, with Max Hodak detailing the company's progress toward novel treatments at TechCrunch Disrupt.",
+    "lang": "en",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/10/13/science-corporation-implants-its-vision-restoring-chip-in-its-first-stargardt-disease-patient/",
+    "published": "2026-10-13T23:13:31+00:00",
+    "event_id": "a2d00ff109e7",
+    "sources": [
+     {
+      "title": "Science Corporation implants its vision-restoring chip in its first Stargardt disease patient",
+      "summary": "Science Corporation implanted its vision-restoring chip in a Stargardt disease patient, with Max Hodak detailing the company's progress toward novel treatments at TechCrunch Disrupt.",
+      "lang": "en",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/10/13/science-corporation-implants-its-vision-restoring-chip-in-its-first-stargardt-disease-patient/",
+      "published": "2026-10-13T23:13:31+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "FBI arrests OpenAI employee accused of planting hidden recording device in conference room",
+    "summary": "FBI arrested an OpenAI employee accused of planting a hidden recording device in a conference room; FBI director Kash Patel said the scheme aimed to capture sensitive company communications.",
+    "lang": "en",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/10/13/fbi-arrests-openai-employee-accused-of-planting-hidden-recording-device-in-conference-room/",
+    "published": "2026-10-13T20:59:11+00:00",
+    "event_id": "ef2fc60aa90b",
+    "sources": [
+     {
+      "title": "FBI arrests OpenAI employee accused of planting hidden recording device in conference room",
+      "summary": "FBI arrested an OpenAI employee accused of planting a hidden recording device in a conference room; FBI director Kash Patel said the scheme aimed to capture sensitive company communications.",
+      "lang": "en",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/10/13/fbi-arrests-openai-employee-accused-of-planting-hidden-recording-device-in-conference-room/",
+      "published": "2026-10-13T20:59:11+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "Shopify opens its catalog up to more AI agents",
+    "summary": "Shopify expanded its catalog access to more AI agents, enabling them to browse and purchase from listings as part of the company's agentic commerce expansion.",
+    "lang": "en",
+    "source": "The Verge",
+    "url": "https://www.theverge.com/news/1010365/shopify-opens-its-catalog-up-to-more-ai-agents",
+    "published": "2026-10-13T19:42:42+00:00",
+    "event_id": "c839b9474fae",
+    "sources": [
+     {
+      "title": "Shopify opens its catalog up to more AI agents",
+      "summary": "Shopify expanded its catalog access to more AI agents, enabling them to browse and purchase from listings as part of the company's agentic commerce expansion.",
+      "lang": "en",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/news/1010365/shopify-opens-its-catalog-up-to-more-ai-agents",
+      "published": "2026-10-13T19:42:42+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "Developing Gemini 4 Argon responsibly and safely",
+    "summary": "",
+    "lang": "en",
+    "source": "Google DeepMind Blog",
+    "url": "https://deepmind.google/blog/developing-gemini-4-argon-responsibly-and-safely/",
+    "published": "2026-10-13T19:43:07+00:00",
+    "event_id": "471508c04c30",
+    "sources": [
+     {
+      "title": "Developing Gemini 4 Argon responsibly and safely",
+      "summary": "",
+      "lang": "en",
+      "source": "Google DeepMind Blog",
+      "url": "https://deepmind.google/blog/developing-gemini-4-argon-responsibly-and-safely/",
+      "published": "2026-10-13T19:43:07+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "Gemini 4 Argon for Robotics",
+    "summary": "",
+    "lang": "en",
+    "source": "Google DeepMind Blog",
+    "url": "https://deepmind.google/blog/gemini-4-argon-for-robotics/",
+    "published": "2026-10-13T16:01:58+00:00",
+    "event_id": "884ebf3c3978",
+    "sources": [
+     {
+      "title": "Gemini 4 Argon for Robotics",
+      "summary": "",
+      "lang": "en",
+      "source": "Google DeepMind Blog",
+      "url": "https://deepmind.google/blog/gemini-4-argon-for-robotics/",
+      "published": "2026-10-13T16:01:58+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "英特爾推GPU D系列與Xeon新機櫃，瞄準代理AI推論市場",
+    "summary": "英特尔在OCP2026大会公布代理式AI基础架构进展，发布GPU D系列和新一代Xeon机柜设计，瞄准企业数据中心市场。",
+    "lang": "zh",
+    "source": "iThome 台灣",
+    "url": "https://www.ithome.com.tw/news/179683",
+    "published": "2026-10-14T03:10:20+00:00",
+    "event_id": "32886ea79a96",
+    "sources": [
+     {
+      "title": "英特爾推GPU D系列與Xeon新機櫃，瞄準代理AI推論市場",
+      "summary": "英特尔在OCP2026大会公布代理式AI基础架构进展，发布GPU D系列和新一代Xeon机柜设计，瞄准企业数据中心市场。",
+      "lang": "zh",
+      "source": "iThome 台灣",
+      "url": "https://www.ithome.com.tw/news/179683",
+      "published": "2026-10-14T03:10:20+00:00"
+     }
+    ],
+    "status": "updated",
+    "change_summary": "英特爾推GPU D系列與Xeon新機櫃，瞄準代理AI推論市場",
+    "previous_date": "2026-10-13",
+    "previous_event_id": "32886ea79a96"
+   },
+   {
+    "title": "GitLab發布重大安全性更新，修補嚴重程度滿分的資安漏洞",
+    "summary": "GitLab发布重大安全补丁更新，修复24个漏洞其中满分等级漏洞多个，涉及社群版和企业版用户需立即更新。",
+    "lang": "zh",
+    "source": "iThome 台灣",
+    "url": "https://www.ithome.com.tw/news/179685",
+    "published": "2026-10-14T03:10:50+00:00",
+    "event_id": "af5e8d02ce60",
+    "sources": [
+     {
+      "title": "GitLab發布重大安全性更新，修補嚴重程度滿分的資安漏洞",
+      "summary": "GitLab发布重大安全补丁更新，修复24个漏洞其中满分等级漏洞多个，涉及社群版和企业版用户需立即更新。",
+      "lang": "zh",
+      "source": "iThome 台灣",
+      "url": "https://www.ithome.com.tw/news/179685",
+      "published": "2026-10-14T03:10:50+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "AI labs are buying data from dead startups to train their models",
+    "summary": "AI labs purchase data from defunct startups to train models, with companies finding value in previously underutilized datasets from shuttered crypto and tech ventures.",
+    "lang": "en",
+    "source": "MIT Technology Review",
+    "url": "https://www.technologyreview.com/2026/10/13/1145755/ai-labs-buying-data-from-dead-startups-to-train-models/",
+    "published": "2026-10-13T09:00:00+00:00",
+    "event_id": "7c431d9eeb01",
+    "sources": [
+     {
+      "title": "AI labs are buying data from dead startups to train their models",
+      "summary": "AI labs purchase data from defunct startups to train models, with companies finding value in previously underutilized datasets from shuttered crypto and tech ventures.",
+      "lang": "en",
+      "source": "MIT Technology Review",
+      "url": "https://www.technologyreview.com/2026/10/13/1145755/ai-labs-buying-data-from-dead-startups-to-train-models/",
+      "published": "2026-10-13T09:00:00+00:00"
+     }
+    ],
+    "status": "unchanged",
+    "change_summary": "",
+    "previous_date": "2026-10-13",
+    "previous_event_id": "7c431d9eeb01"
+   }
+  ]
+ }
+}
