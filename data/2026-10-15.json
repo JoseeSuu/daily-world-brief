@@ -1,0 +1,798 @@
+{
+ "date": "2026-10-15",
+ "generated_at": "2026-10-15T10:11:21.522546+00:00",
+ "mode": "full",
+ "cost_usd": 0.046,
+ "radar_cost_usd": 0.0049,
+ "events": {
+  "mode": "full",
+  "compared_with": "2026-10-14",
+  "articles": 34,
+  "uncompared_articles": 0,
+  "events": 31,
+  "cost_usd": 0.0158
+ },
+ "radar": {
+  "items": [
+   {
+    "id": "hn-50091788",
+    "source": "Hacker News",
+    "kind": "discussion",
+    "title": "Containment and monitoring failures are to blame for AI hacking reports: experts",
+    "url": "https://www.csoonline.com/article/4234854/ai-agents-arent-going-rogue-frontier-labs-are-skipping-security-basics.html",
+    "discussion_url": "https://news.ycombinator.com/item?id=50091788",
+    "published": "2026-10-14T17:45:23+00:00",
+    "lang": "en",
+    "excerpt": "",
+    "signal": {
+     "points": 902,
+     "comments": 533
+    },
+    "summary": "Article claims containment and monitoring failures, not AI agent behavior itself, explain reported hacking incidents; cites expert analysis from frontier labs.",
+    "usefulness": "Could inform governance framework design by identifying which security controls are actually inadequate in current AI agent deployments.",
+    "to_verify": "Which specific containment/monitoring gaps the experts identified; whether the article provides testable examples of failures versus theoretical risks."
+   }
+  ],
+  "mode": "full",
+  "failed_sources": []
+ },
+ "market": null,
+ "failed_sources": [],
+ "cells": {
+  "economia|europa": [
+   {
+    "title": "Los Veintisiete reclaman medidas urgentes a Von der Leyen ante los precios “disparados” de la energía",
+    "summary": "Los líderes de la UE reclaman acciones urgentes a von der Leyen por los precios altos de energía. El comisario de Energía advierte que el invierno será difícil para industrias y familias.",
+    "lang": "es",
+    "source": "El País Economía",
+    "url": "https://elpais.com/economia/2026-10-15/los-veintisiete-reclaman-medidas-urgentes-a-von-der-leyen-ante-los-precios-disparados-de-la-energia.html",
+    "published": "2026-10-15T03:30:01+00:00",
+    "event_id": "1062369de4bf",
+    "sources": [
+     {
+      "title": "Los Veintisiete reclaman medidas urgentes a Von der Leyen ante los precios “disparados” de la energía",
+      "summary": "Los líderes de la UE reclaman acciones urgentes a von der Leyen por los precios altos de energía. El comisario de Energía advierte que el invierno será difícil para industrias y familias.",
+      "lang": "es",
+      "source": "El País Economía",
+      "url": "https://elpais.com/economia/2026-10-15/los-veintisiete-reclaman-medidas-urgentes-a-von-der-leyen-ante-los-precios-disparados-de-la-energia.html",
+      "published": "2026-10-15T03:30:01+00:00"
+     }
+    ],
+    "status": "updated",
+    "change_summary": "Los Veintisiete reclaman medidas urgentes a Von der Leyen ante los precios",
+    "previous_date": "2026-10-14",
+    "previous_event_id": "1062369de4bf"
+   },
+   {
+    "title": "REE prohíbe a las eléctricas parar sus centrales por mantenimiento ante el fuerte estrés del sistema",
+    "summary": "Red Eléctrica prohíbe a las eléctricas parar centrales por mantenimiento debido al estrés del sistema. El operador deniega decenas de solicitudes para el próximo año.",
+    "lang": "es",
+    "source": "El País Economía",
+    "url": "https://cincodias.elpais.com/companias/2026-10-15/ree-prohibe-a-las-electricas-parar-sus-centrales-por-mantenimiento-ante-el-fuerte-estres-del-sistema.html",
+    "published": "2026-10-15T03:15:00+00:00",
+    "event_id": "b1f52415ae32",
+    "sources": [
+     {
+      "title": "REE prohíbe a las eléctricas parar sus centrales por mantenimiento ante el fuerte estrés del sistema",
+      "summary": "Red Eléctrica prohíbe a las eléctricas parar centrales por mantenimiento debido al estrés del sistema. El operador deniega decenas de solicitudes para el próximo año.",
+      "lang": "es",
+      "source": "El País Economía",
+      "url": "https://cincodias.elpais.com/companias/2026-10-15/ree-prohibe-a-las-electricas-parar-sus-centrales-por-mantenimiento-ante-el-fuerte-estres-del-sistema.html",
+      "published": "2026-10-15T03:15:00+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "La banca europea se acerca al precipicio de los tipos altos",
+    "summary": "La banca europea enfrenta riesgos por tipos de interés altos, aunque los analistas consideran que aún son manejables. El mercado accionario castiga más de lo esperado a las entidades del continente.",
+    "lang": "es",
+    "source": "El País Economía",
+    "url": "https://cincodias.elpais.com/opinion/2026-10-15/la-banca-europea-se-acerca-al-precipicio-de-los-tipos-altos.html",
+    "published": "2026-10-15T03:40:00+00:00",
+    "event_id": "084a4f8fb408",
+    "sources": [
+     {
+      "title": "La banca europea se acerca al precipicio de los tipos altos",
+      "summary": "La banca europea enfrenta riesgos por tipos de interés altos, aunque los analistas consideran que aún son manejables. El mercado accionario castiga más de lo esperado a las entidades del continente.",
+      "lang": "es",
+      "source": "El País Economía",
+      "url": "https://cincodias.elpais.com/opinion/2026-10-15/la-banca-europea-se-acerca-al-precipicio-de-los-tipos-altos.html",
+      "published": "2026-10-15T03:40:00+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "French debt worries spill into stocks, driving biggest underperformance since 2010",
+    "summary": "French stocks significantly underperformed regional peers as investor concerns over public debt and the upcoming presidential election intensified.",
+    "lang": "en",
+    "source": "Financial Times",
+    "url": "https://www.ft.com/content/69bfdf93-cbba-477c-9fb0-5978d1d4f506?syn-25a6b1a6=1",
+    "published": "2026-10-15T04:00:29+00:00",
+    "event_id": "b2d2069bf6d9",
+    "sources": [
+     {
+      "title": "French debt worries spill into stocks, driving biggest underperformance since 2010",
+      "summary": "French stocks significantly underperformed regional peers as investor concerns over public debt and the upcoming presidential election intensified.",
+      "lang": "en",
+      "source": "Financial Times",
+      "url": "https://www.ft.com/content/69bfdf93-cbba-477c-9fb0-5978d1d4f506?syn-25a6b1a6=1",
+      "published": "2026-10-15T04:00:29+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   }
+  ],
+  "economia|asia": [
+   {
+    "title": "Japan finance minister: G20 concerned over yields, FX volatility",
+    "summary": "Japan's finance minister reported G20 concerns over rising bond yields and foreign exchange market volatility at an international meeting.",
+    "lang": "en",
+    "source": "Nikkei Asia",
+    "url": "https://asia.nikkei.com/business/markets/japan-finance-minister-g20-concerned-over-yields-fx-volatility",
+    "published": null,
+    "event_id": "5aee773c65e4",
+    "sources": [
+     {
+      "title": "Japan finance minister: G20 concerned over yields, FX volatility",
+      "summary": "Japan's finance minister reported G20 concerns over rising bond yields and foreign exchange market volatility at an international meeting.",
+      "lang": "en",
+      "source": "Nikkei Asia",
+      "url": "https://asia.nikkei.com/business/markets/japan-finance-minister-g20-concerned-over-yields-fx-volatility",
+      "published": null
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "Asian stocks plummet as AI debt and inflation fears bite",
+    "summary": "Asian stock markets declined sharply as investors grew worried about AI-related debt accumulation and persistent inflation pressures across the region.",
+    "lang": "en",
+    "source": "Nikkei Asia",
+    "url": "https://asia.nikkei.com/business/markets/asian-stocks-plummet-as-ai-debt-and-inflation-fears-bite",
+    "published": null,
+    "event_id": "e44e9e481937",
+    "sources": [
+     {
+      "title": "Asian stocks plummet as AI debt and inflation fears bite",
+      "summary": "Asian stock markets declined sharply as investors grew worried about AI-related debt accumulation and persistent inflation pressures across the region.",
+      "lang": "en",
+      "source": "Nikkei Asia",
+      "url": "https://asia.nikkei.com/business/markets/asian-stocks-plummet-as-ai-debt-and-inflation-fears-bite",
+      "published": null
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "India's Lohum targets EV batteries after opening Zimbabwe lithium mine",
+    "summary": "India's Lohum is targeting EV battery production after opening a lithium mine in Zimbabwe to secure raw materials for electric vehicles.",
+    "lang": "en",
+    "source": "Nikkei Asia",
+    "url": "https://asia.nikkei.com/editor-s-picks/interview/india-s-lohum-targets-ev-batteries-after-opening-zimbabwe-lithium-mine",
+    "published": null,
+    "event_id": "c077808194b3",
+    "sources": [
+     {
+      "title": "India's Lohum targets EV batteries after opening Zimbabwe lithium mine",
+      "summary": "India's Lohum is targeting EV battery production after opening a lithium mine in Zimbabwe to secure raw materials for electric vehicles.",
+      "lang": "en",
+      "source": "Nikkei Asia",
+      "url": "https://asia.nikkei.com/editor-s-picks/interview/india-s-lohum-targets-ev-batteries-after-opening-zimbabwe-lithium-mine",
+      "published": null
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "India Trade Deficit Widened in September on Higher Import Bill",
+    "summary": "India's trade deficit widened in September due to increased imports driven by festive demand and rising oil prices, adding to regional geopolitical risks.",
+    "lang": "en",
+    "source": "Bloomberg Economics",
+    "url": "https://www.bloomberg.com/news/articles/2026-10-15/india-trade-deficit-widened-in-september-on-higher-import-bill",
+    "published": "2026-10-15T09:01:12+00:00",
+    "event_id": "4fe40ad82cc4",
+    "sources": [
+     {
+      "title": "India Trade Deficit Widened in September on Higher Import Bill",
+      "summary": "India's trade deficit widened in September due to increased imports driven by festive demand and rising oil prices, adding to regional geopolitical risks.",
+      "lang": "en",
+      "source": "Bloomberg Economics",
+      "url": "https://www.bloomberg.com/news/articles/2026-10-15/india-trade-deficit-widened-in-september-on-higher-import-bill",
+      "published": "2026-10-15T09:01:12+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "韓股「黑色星期四」 金融當局緊急開會籲避免不安情緒",
+    "summary": "韩国股市遭遇",
+    "lang": "zh",
+    "source": "中央社 CNA",
+    "url": "https://www.cna.com.tw/news/aopl/202610150223.aspx",
+    "published": "2026-10-15T08:42:08+00:00",
+    "event_id": "80c92b08129f",
+    "sources": [
+     {
+      "title": "韓股「黑色星期四」 金融當局緊急開會籲避免不安情緒",
+      "summary": "韩国股市遭遇",
+      "lang": "zh",
+      "source": "中央社 CNA",
+      "url": "https://www.cna.com.tw/news/aopl/202610150223.aspx",
+      "published": "2026-10-15T08:42:08+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   }
+  ],
+  "economia|america": [
+   {
+    "title": "US inflation jumps to 3.7% as Iran war drives up prices",
+    "summary": "US inflation rebounded to 3.7% as fuel costs surged, putting pressure on voters weeks before midterm elections.",
+    "lang": "en",
+    "source": "FT Global Economy",
+    "url": "https://www.ft.com/content/c1e4c8b1-8fe0-414d-b52f-c74a6d927b3d?syn-25a6b1a6=1",
+    "published": "2026-10-14T20:06:12+00:00",
+    "event_id": "9a323fab5ff1",
+    "sources": [
+     {
+      "title": "US inflation jumps to 3.7% as Iran war drives up prices",
+      "summary": "US inflation rebounded to 3.7% as fuel costs surged, putting pressure on voters weeks before midterm elections.",
+      "lang": "en",
+      "source": "FT Global Economy",
+      "url": "https://www.ft.com/content/c1e4c8b1-8fe0-414d-b52f-c74a6d927b3d?syn-25a6b1a6=1",
+      "published": "2026-10-14T20:06:12+00:00"
+     }
+    ],
+    "status": "updated",
+    "change_summary": "US inflation jumps to 3.7% as Iran war drives up prices",
+    "previous_date": "2026-10-14",
+    "previous_event_id": "9a323fab5ff1"
+   },
+   {
+    "title": "Draghi Says AI Can Help US Steady Debt If Congress Curbs Deficit",
+    "summary": "Mario Draghi suggested the US could stabilize its debt if Congress agrees to deficit cuts, stating AI could support fiscal management efforts.",
+    "lang": "en",
+    "source": "Bloomberg Economics",
+    "url": "https://www.bloomberg.com/news/articles/2026-10-15/draghi-says-ai-can-help-us-steady-debt-if-congress-curbs-deficit",
+    "published": "2026-10-15T08:42:48+00:00",
+    "event_id": "dd5149666bdd",
+    "sources": [
+     {
+      "title": "Draghi Says AI Can Help US Steady Debt If Congress Curbs Deficit",
+      "summary": "Mario Draghi suggested the US could stabilize its debt if Congress agrees to deficit cuts, stating AI could support fiscal management efforts.",
+      "lang": "en",
+      "source": "Bloomberg Economics",
+      "url": "https://www.bloomberg.com/news/articles/2026-10-15/draghi-says-ai-can-help-us-steady-debt-if-congress-curbs-deficit",
+      "published": "2026-10-15T08:42:48+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   }
+  ],
+  "politica|america": [
+   {
+    "title": "Chile, Bolivia Seek Diplomatic Reset in New Right-Wing Alignment",
+    "summary": "Chile's President José Antonio Kast will visit Bolivia on Friday in a rare state visit, reflecting growing right-wing regional alignment.",
+    "lang": "en",
+    "source": "Bloomberg Markets",
+    "url": "https://www.bloomberg.com/news/articles/2026-10-15/chile-bolivia-seek-diplomatic-reset-in-new-right-wing-alignment",
+    "published": "2026-10-15T09:30:00+00:00",
+    "event_id": "f14ab5cc2343",
+    "sources": [
+     {
+      "title": "Chile, Bolivia Seek Diplomatic Reset in New Right-Wing Alignment",
+      "summary": "Chile's President José Antonio Kast will visit Bolivia on Friday in a rare state visit, reflecting growing right-wing regional alignment.",
+      "lang": "en",
+      "source": "Bloomberg Markets",
+      "url": "https://www.bloomberg.com/news/articles/2026-10-15/chile-bolivia-seek-diplomatic-reset-in-new-right-wing-alignment",
+      "published": "2026-10-15T09:30:00+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "Netanyahu hails gains as Colombia opens Jerusalem embassy",
+    "summary": "Israel's Netanyahu praised Colombia's decision to open a Jerusalem embassy, following the new right-wing president's August inauguration.",
+    "lang": "en",
+    "source": "Le Monde International",
+    "url": "https://www.lemonde.fr/en/international/article/2026/10/14/netanyahu-hails-gains-as-colombia-opens-jerusalem-embassy_6758619_4.html",
+    "published": "2026-10-14T21:59:58+00:00",
+    "event_id": "0b58c65e34ef",
+    "sources": [
+     {
+      "title": "Netanyahu hails gains as Colombia opens Jerusalem embassy",
+      "summary": "Israel's Netanyahu praised Colombia's decision to open a Jerusalem embassy, following the new right-wing president's August inauguration.",
+      "lang": "en",
+      "source": "Le Monde International",
+      "url": "https://www.lemonde.fr/en/international/article/2026/10/14/netanyahu-hails-gains-as-colombia-opens-jerusalem-embassy_6758619_4.html",
+      "published": "2026-10-14T21:59:58+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "加州期中選舉將公投富豪稅 全美首例掀貧富論戰",
+    "summary": "加州选民将在期中选举中投票决定是否向200名亿万富翁征收5%净资产税，这是美国首例，税收用于公共医疗。",
+    "lang": "zh",
+    "source": "中央社 CNA",
+    "url": "https://www.cna.com.tw/news/aopl/202610150183.aspx",
+    "published": "2026-10-15T07:25:42+00:00",
+    "event_id": "c80cd2d9d570",
+    "sources": [
+     {
+      "title": "加州期中選舉將公投富豪稅 全美首例掀貧富論戰",
+      "summary": "加州选民将在期中选举中投票决定是否向200名亿万富翁征收5%净资产税，这是美国首例，税收用于公共医疗。",
+      "lang": "zh",
+      "source": "中央社 CNA",
+      "url": "https://www.cna.com.tw/news/aopl/202610150183.aspx",
+      "published": "2026-10-15T07:25:42+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   }
+  ],
+  "politica|asia": [
+   {
+    "title": "China keen to strengthen North Korea trade ties with New Yalu River Bridge opening",
+    "summary": "China's premier reaffirmed support for North Korea during the opening of the New Yalu River Bridge, signaling strengthened trade ties between the neighbors.",
+    "lang": "en",
+    "source": "South China Morning Post (China)",
+    "url": "https://www.scmp.com/news/china/diplomacy/article/3371000/china-keen-strengthen-north-korea-trade-ties-new-yalu-river-bridge-opening?utm_source=rss_feed",
+    "published": "2026-10-15T10:00:13+00:00",
+    "event_id": "c959c045499c",
+    "sources": [
+     {
+      "title": "China keen to strengthen North Korea trade ties with New Yalu River Bridge opening",
+      "summary": "China's premier reaffirmed support for North Korea during the opening of the New Yalu River Bridge, signaling strengthened trade ties between the neighbors.",
+      "lang": "en",
+      "source": "South China Morning Post (China)",
+      "url": "https://www.scmp.com/news/china/diplomacy/article/3371000/china-keen-strengthen-north-korea-trade-ties-new-yalu-river-bridge-opening?utm_source=rss_feed",
+      "published": "2026-10-15T10:00:13+00:00"
+     },
+     {
+      "title": "Long-delayed China-North Korea bridge officially opens",
+      "summary": "China and North Korea officially opened the New Yalu River Bridge after a 12-year delay, marking renewed infrastructure cooperation.",
+      "lang": "en",
+      "source": "Al Jazeera English",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/15/long-delayed-china-north-korea-bridge-officially-opens?traffic_source=rss",
+      "published": "2026-10-15T10:00:58+00:00"
+     }
+    ],
+    "status": "updated",
+    "change_summary": "China keen to strengthen North Korea trade ties with New Yalu River Bridge opening",
+    "previous_date": "2026-10-14",
+    "previous_event_id": "c959c045499c"
+   },
+   {
+    "title": "School roof collapse kills at least 29, injures more than 3 dozen in Pakistan",
+    "summary": "A school roof collapsed in northwestern Pakistan, killing at least 29 people including 28 children and one teacher, injuring over 50 others.",
+    "lang": "en",
+    "source": "NPR World",
+    "url": "https://www.npr.org/2026/10/15/nx-s1-6003437/school-roof-collapse-pakistan",
+    "published": "2026-10-15T08:22:07+00:00",
+    "event_id": "51d25dbff751",
+    "sources": [
+     {
+      "title": "School roof collapse kills at least 29, injures more than 3 dozen in Pakistan",
+      "summary": "A school roof collapsed in northwestern Pakistan, killing at least 29 people including 28 children and one teacher, injuring over 50 others.",
+      "lang": "en",
+      "source": "NPR World",
+      "url": "https://www.npr.org/2026/10/15/nx-s1-6003437/school-roof-collapse-pakistan",
+      "published": "2026-10-15T08:22:07+00:00"
+     },
+     {
+      "title": "巴基斯坦學校屋頂坍塌至少28死 恐有更多人罹難",
+      "summary": "巴基斯坦白沙瓦一所学校屋顶坍塌，造成至少28名学生和1名教师死亡。死亡人数可能继续上升。",
+      "lang": "zh",
+      "source": "中央社 CNA",
+      "url": "https://www.cna.com.tw/news/aopl/202610150236.aspx",
+      "published": "2026-10-15T09:10:38+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "俄控間諜罪嫌逮日本記者 日相高市：日本政府並無從事間諜活動",
+    "summary": "俄罗斯指控日本北海道新闻社记者从事间谍活动并逮捕。日本首相高市早苗否认政府从事间谍活动。",
+    "lang": "zh",
+    "source": "中央社 CNA",
+    "url": "https://www.cna.com.tw/news/aopl/202610150201.aspx",
+    "published": "2026-10-15T08:09:21+00:00",
+    "event_id": "43a014befc3e",
+    "sources": [
+     {
+      "title": "俄控間諜罪嫌逮日本記者 日相高市：日本政府並無從事間諜活動",
+      "summary": "俄罗斯指控日本北海道新闻社记者从事间谍活动并逮捕。日本首相高市早苗否认政府从事间谍活动。",
+      "lang": "zh",
+      "source": "中央社 CNA",
+      "url": "https://www.cna.com.tw/news/aopl/202610150201.aspx",
+      "published": "2026-10-15T08:09:21+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   }
+  ],
+  "politica|europa": [
+   {
+    "title": "EU summit to focus on China, Ukraine and bloc budget",
+    "summary": "EU leaders meeting in Brussels will address measures to reduce the bloc's large trade deficit with China and discuss the next EU budget.",
+    "lang": "en",
+    "source": "Deutsche Welle World",
+    "url": "https://www.dw.com/en/eu-summit-to-focus-on-china-ukraine-and-bloc-budget/a-79665338?maca=en-rss-en-world-4025-rdf",
+    "published": "2026-10-15T06:43:00+00:00",
+    "event_id": "dd3ad5e0e7c6",
+    "sources": [
+     {
+      "title": "EU summit to focus on China, Ukraine and bloc budget",
+      "summary": "EU leaders meeting in Brussels will address measures to reduce the bloc's large trade deficit with China and discuss the next EU budget.",
+      "lang": "en",
+      "source": "Deutsche Welle World",
+      "url": "https://www.dw.com/en/eu-summit-to-focus-on-china-ukraine-and-bloc-budget/a-79665338?maca=en-rss-en-world-4025-rdf",
+      "published": "2026-10-15T06:43:00+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "Violent anti-government protests erupt in Albania's capital",
+    "summary": "Thousands of protesters rallied in Tirana demanding improved university conditions and Prime Minister Edi Rama's resignation amid violent demonstrations.",
+    "lang": "en",
+    "source": "Le Monde International",
+    "url": "https://www.lemonde.fr/en/international/article/2026/10/15/violent-anti-government-protests-erupt-in-albania-s-capital_6758620_4.html",
+    "published": "2026-10-14T22:26:55+00:00",
+    "event_id": "196acc16bd86",
+    "sources": [
+     {
+      "title": "Violent anti-government protests erupt in Albania's capital",
+      "summary": "Thousands of protesters rallied in Tirana demanding improved university conditions and Prime Minister Edi Rama's resignation amid violent demonstrations.",
+      "lang": "en",
+      "source": "Le Monde International",
+      "url": "https://www.lemonde.fr/en/international/article/2026/10/15/violent-anti-government-protests-erupt-in-albania-s-capital_6758620_4.html",
+      "published": "2026-10-14T22:26:55+00:00"
+     },
+     {
+      "title": "Albania: Fire at Education Ministry as students protest",
+      "summary": "Riot police deployed in Tirana on the second day of student protests as a fire broke out at the Education Ministry.",
+      "lang": "en",
+      "source": "Deutsche Welle World",
+      "url": "https://www.dw.com/en/albania-fire-at-education-ministry-as-students-protest/a-79661193?maca=en-rss-en-world-4025-rdf",
+      "published": "2026-10-14T14:56:00+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "NATO may redeploy anti-drone defenses as attacks sink more Black Sea shipping",
+    "summary": "NATO may redeploy anti-drone defenses after suspected Russian drones sank or damaged five ships near Bulgaria and Romania in the Black Sea.",
+    "lang": "en",
+    "source": "Ars Technica",
+    "url": "https://arstechnica.com/gadgets/2026/10/nato-may-redeploy-anti-drone-defenses-as-attacks-sink-more-black-sea-shipping/",
+    "published": "2026-10-14T21:03:11+00:00",
+    "event_id": "2b3762f9568b",
+    "sources": [
+     {
+      "title": "NATO may redeploy anti-drone defenses as attacks sink more Black Sea shipping",
+      "summary": "NATO may redeploy anti-drone defenses after suspected Russian drones sank or damaged five ships near Bulgaria and Romania in the Black Sea.",
+      "lang": "en",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/gadgets/2026/10/nato-may-redeploy-anti-drone-defenses-as-attacks-sink-more-black-sea-shipping/",
+      "published": "2026-10-14T21:03:11+00:00"
+     }
+    ],
+    "status": "updated",
+    "change_summary": "NATO may redeploy anti-drone defenses as attacks sink more Black Sea shipping",
+    "previous_date": "2026-10-14",
+    "previous_event_id": "2b3762f9568b"
+   },
+   {
+    "title": "星盾使用受限、俄方袭击升级：乌克兰“腹背受敌”",
+    "summary": "俄罗斯准备在冬季升级对乌克兰的攻击，本周一次大规模轰炸导致基辅60万人断电。乌克兰星盾系统使用权受限。",
+    "lang": "zh",
+    "source": "纽约时报中文网",
+    "url": "https://cn.nytimes.com/world/20261015/ukraine-starlink-energy/?utm_source=RSS",
+    "published": "2026-10-14T18:01:24+00:00",
+    "event_id": "860d11574738",
+    "sources": [
+     {
+      "title": "星盾使用受限、俄方袭击升级：乌克兰“腹背受敌”",
+      "summary": "俄罗斯准备在冬季升级对乌克兰的攻击，本周一次大规模轰炸导致基辅60万人断电。乌克兰星盾系统使用权受限。",
+      "lang": "zh",
+      "source": "纽约时报中文网",
+      "url": "https://cn.nytimes.com/world/20261015/ukraine-starlink-energy/?utm_source=RSS",
+      "published": "2026-10-14T18:01:24+00:00"
+     }
+    ],
+    "status": "unchanged",
+    "change_summary": "",
+    "previous_date": "2026-10-14",
+    "previous_event_id": "2b3762f9568b"
+   }
+  ],
+  "tecnologia|america": [
+   {
+    "title": "Microsoft and Japan took down a cybercrime network behind over a billion scam messages",
+    "summary": "Microsoft and international partners dismantled a cybercrime network responsible for over one billion scam messages, reducing fraudulent texts.",
+    "lang": "en",
+    "source": "The Verge",
+    "url": "https://www.theverge.com/tech/1011487/microsoft-scam-messages-marketplace-takedown",
+    "published": "2026-10-14T20:03:43+00:00",
+    "event_id": "76d41b2d5145",
+    "sources": [
+     {
+      "title": "Microsoft and Japan took down a cybercrime network behind over a billion scam messages",
+      "summary": "Microsoft and international partners dismantled a cybercrime network responsible for over one billion scam messages, reducing fraudulent texts.",
+      "lang": "en",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/tech/1011487/microsoft-scam-messages-marketplace-takedown",
+      "published": "2026-10-14T20:03:43+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "‘Nightmare Scenario’: Zero-Click Spyware Is Infecting Phones via Targeted Ads",
+    "summary": "Researchers from The Citizen Lab released technical evidence that sophisticated mercenary spyware is being distributed through targeted online advertisements.",
+    "lang": "en",
+    "source": "Wired",
+    "url": "https://www.wired.com/story/nightmare-scenario-zero-click-spyware-is-infecting-phones-via-targeted-ads/",
+    "published": "2026-10-15T10:00:00+00:00",
+    "event_id": "695376ae2615",
+    "sources": [
+     {
+      "title": "‘Nightmare Scenario’: Zero-Click Spyware Is Infecting Phones via Targeted Ads",
+      "summary": "Researchers from The Citizen Lab released technical evidence that sophisticated mercenary spyware is being distributed through targeted online advertisements.",
+      "lang": "en",
+      "source": "Wired",
+      "url": "https://www.wired.com/story/nightmare-scenario-zero-click-spyware-is-infecting-phones-via-targeted-ads/",
+      "published": "2026-10-15T10:00:00+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "SentinelOne cuts malware analysis from weeks to hours",
+    "summary": "SentinelOne now uses OpenAI's Daybreak to reduce malware analysis from weeks to hours, enabling investigation of more security threats.",
+    "lang": "en",
+    "source": "OpenAI News",
+    "url": "https://openai.com/index/sentinelone",
+    "published": "2026-10-14T12:00:00+00:00",
+    "event_id": "24cc989c02db",
+    "sources": [
+     {
+      "title": "SentinelOne cuts malware analysis from weeks to hours",
+      "summary": "SentinelOne now uses OpenAI's Daybreak to reduce malware analysis from weeks to hours, enabling investigation of more security threats.",
+      "lang": "en",
+      "source": "OpenAI News",
+      "url": "https://openai.com/index/sentinelone",
+      "published": "2026-10-14T12:00:00+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "Eight states sue OpenAI, saying ChatGPT isn’t safe for kids",
+    "summary": "Eight US states sued OpenAI alleging ChatGPT harms children and that the company misrepresented the platform's safety to customers.",
+    "lang": "en",
+    "source": "The Verge",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/1011500/openai-state-lawsuits-chatgpt-safety",
+    "published": "2026-10-14T21:11:28+00:00",
+    "event_id": "88ac6d1c3f06",
+    "sources": [
+     {
+      "title": "Eight states sue OpenAI, saying ChatGPT isn’t safe for kids",
+      "summary": "Eight US states sued OpenAI alleging ChatGPT harms children and that the company misrepresented the platform's safety to customers.",
+      "lang": "en",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1011500/openai-state-lawsuits-chatgpt-safety",
+      "published": "2026-10-14T21:11:28+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "Now that Character.AI is going bankrupt, what happens to all of its users’ data?",
+    "summary": "New York's Attorney General revealed a multi-state investigation into Character.AI as the startup faces bankruptcy and data protection concerns emerge.",
+    "lang": "en",
+    "source": "The Verge",
+    "url": "https://www.theverge.com/policy/1011417/new-york-ag-characterai-bankruptcy",
+    "published": "2026-10-14T18:47:54+00:00",
+    "event_id": "738aed8dcc6e",
+    "sources": [
+     {
+      "title": "Now that Character.AI is going bankrupt, what happens to all of its users’ data?",
+      "summary": "New York's Attorney General revealed a multi-state investigation into Character.AI as the startup faces bankruptcy and data protection concerns emerge.",
+      "lang": "en",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/policy/1011417/new-york-ag-characterai-bankruptcy",
+      "published": "2026-10-14T18:47:54+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "The AI race is back on",
+    "summary": "The AI race intensifies as Anthropic and OpenAI face renewed competition after other companies developed increasingly powerful competing models.",
+    "lang": "en",
+    "source": "The Verge",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/1011311/the-ai-race-is-back-on",
+    "published": "2026-10-14T19:06:03+00:00",
+    "event_id": "2fac9b600466",
+    "sources": [
+     {
+      "title": "The AI race is back on",
+      "summary": "The AI race intensifies as Anthropic and OpenAI face renewed competition after other companies developed increasingly powerful competing models.",
+      "lang": "en",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1011311/the-ai-race-is-back-on",
+      "published": "2026-10-14T19:06:03+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "微軟10月修補RCE漏洞達315個再創新高，DHCP、DNS伺服器漏洞恐遭遠端利用須特別留意",
+    "summary": "微软10月发布315个远程代码执行漏洞补丁，创13个月新高。DHCP和DNS服务器漏洞可能遭远程利用。",
+    "lang": "zh",
+    "source": "iThome 台灣",
+    "url": "https://www.ithome.com.tw/news/179725",
+    "published": "2026-10-15T05:10:07+00:00",
+    "event_id": "ec9393203d01",
+    "sources": [
+     {
+      "title": "微軟10月修補RCE漏洞達315個再創新高，DHCP、DNS伺服器漏洞恐遭遠端利用須特別留意",
+      "summary": "微软10月发布315个远程代码执行漏洞补丁，创13个月新高。DHCP和DNS服务器漏洞可能遭远程利用。",
+      "lang": "zh",
+      "source": "iThome 台灣",
+      "url": "https://www.ithome.com.tw/news/179725",
+      "published": "2026-10-15T05:10:07+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "美國CISA警告3款系統、4個資安漏洞遭積極利用",
+    "summary": "美国CISA警告4个安全漏洞遭积极利用，包括Palo Alto防火牆和思科邮件安全网关的漏洞。",
+    "lang": "zh",
+    "source": "iThome 台灣",
+    "url": "https://www.ithome.com.tw/news/179713",
+    "published": "2026-10-15T01:10:31+00:00",
+    "event_id": "8ef1ddee288f",
+    "sources": [
+     {
+      "title": "美國CISA警告3款系統、4個資安漏洞遭積極利用",
+      "summary": "美国CISA警告4个安全漏洞遭积极利用，包括Palo Alto防火牆和思科邮件安全网关的漏洞。",
+      "lang": "zh",
+      "source": "iThome 台灣",
+      "url": "https://www.ithome.com.tw/news/179713",
+      "published": "2026-10-15T01:10:31+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   }
+  ],
+  "tecnologia|asia": [
+   {
+    "title": "台積電全球擴產加速！近 20 座廠依計畫進行，台美日產能再升級",
+    "summary": "台积电加速全球产能扩张，近20座工厂按计划推进。随着AI和先进制程需求持续强劲，台美日产能进一步升级。",
+    "lang": "zh",
+    "source": "科技新報 TechNews",
+    "url": "https://technews.tw/2026/10/15/ai-applications-flourish-tsmc-foresees-continued-growth-advanced-process-demand/",
+    "published": "2026-10-15T07:57:25+00:00",
+    "event_id": "5b96bd0d0255",
+    "sources": [
+     {
+      "title": "台積電全球擴產加速！近 20 座廠依計畫進行，台美日產能再升級",
+      "summary": "台积电加速全球产能扩张，近20座工厂按计划推进。随着AI和先进制程需求持续强劲，台美日产能进一步升级。",
+      "lang": "zh",
+      "source": "科技新報 TechNews",
+      "url": "https://technews.tw/2026/10/15/ai-applications-flourish-tsmc-foresees-continued-growth-advanced-process-demand/",
+      "published": "2026-10-15T07:57:25+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   }
+  ],
+  "tecnologia|europa": [
+   {
+    "title": "Google Cloud、DeepMind將提供歐盟研究機構使用尖端模型",
+    "summary": "谷歌云和DeepMind向200名欧洲顶尖科研人员提供先进AI模型使用权，并提供300万美元计算点数支持科学研究。",
+    "lang": "zh",
+    "source": "iThome 台灣",
+    "url": "https://www.ithome.com.tw/news/179719",
+    "published": "2026-10-15T03:10:18+00:00",
+    "event_id": "b664ab63056d",
+    "sources": [
+     {
+      "title": "Google Cloud、DeepMind將提供歐盟研究機構使用尖端模型",
+      "summary": "谷歌云和DeepMind向200名欧洲顶尖科研人员提供先进AI模型使用权，并提供300万美元计算点数支持科学研究。",
+      "lang": "zh",
+      "source": "iThome 台灣",
+      "url": "https://www.ithome.com.tw/news/179719",
+      "published": "2026-10-15T03:10:18+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   }
+  ]
+ }
+}
