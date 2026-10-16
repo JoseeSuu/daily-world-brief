@@ -1,0 +1,737 @@
+{
+ "date": "2026-10-16",
+ "generated_at": "2026-10-16T10:02:22.039896+00:00",
+ "mode": "full",
+ "cost_usd": 0.0435,
+ "radar_cost_usd": 0.0048,
+ "events": {
+  "mode": "full",
+  "compared_with": "2026-10-15",
+  "articles": 32,
+  "uncompared_articles": 0,
+  "events": 28,
+  "cost_usd": 0.016
+ },
+ "radar": {
+  "items": [
+   {
+    "id": "hn-50100387",
+    "source": "Hacker News",
+    "kind": "discussion",
+    "title": "Aidlc: Adaptive workflow steering rules for AI coding agents",
+    "url": "https://github.com/awslabs/aidlc-workflows",
+    "discussion_url": "https://news.ycombinator.com/item?id=50100387",
+    "published": "2026-10-15T07:20:39+00:00",
+    "lang": "en",
+    "excerpt": "",
+    "signal": {
+     "points": 25,
+     "comments": 19
+    },
+    "summary": "Adaptive workflow steering rules for AI coding agents (Aidlc), presented on Hacker News by AWS Labs.",
+    "usefulness": "If studying AI governance, could clarify how constraint rules guide agent behavior during code generation tasks.",
+    "to_verify": "What specific steering mechanisms exist and whether they provide auditability for compliance in Python tool development."
+   }
+  ],
+  "mode": "full",
+  "failed_sources": []
+ },
+ "market": null,
+ "failed_sources": [],
+ "cells": {
+  "economia|asia": [
+   {
+    "title": "China to add AI, biopharma and solar tech to export control list",
+    "summary": "China is adding artificial intelligence, biopharmaceuticals, and solar technology to its export control list to restrict sensitive technology transfers.",
+    "lang": "en",
+    "source": "Nikkei Asia",
+    "url": "https://asia.nikkei.com/business/technology/artificial-intelligence/china-to-add-ai-biopharma-and-solar-tech-to-export-control-list",
+    "published": null,
+    "event_id": "902b67678018",
+    "sources": [
+     {
+      "title": "China to add AI, biopharma and solar tech to export control list",
+      "summary": "China is adding artificial intelligence, biopharmaceuticals, and solar technology to its export control list to restrict sensitive technology transfers.",
+      "lang": "en",
+      "source": "Nikkei Asia",
+      "url": "https://asia.nikkei.com/business/technology/artificial-intelligence/china-to-add-ai-biopharma-and-solar-tech-to-export-control-list",
+      "published": null
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "Indonesia stocks plunge after MSCI signals possible downgrade in status",
+    "summary": "Indonesian stocks fell sharply after MSCI signaled a possible downgrade in the country's market status, affecting investor confidence.",
+    "lang": "en",
+    "source": "Nikkei Asia",
+    "url": "https://asia.nikkei.com/business/markets/indonesia-stocks-plunge-after-msci-signals-possible-downgrade-in-status",
+    "published": null,
+    "event_id": "69086276aa49",
+    "sources": [
+     {
+      "title": "Indonesia stocks plunge after MSCI signals possible downgrade in status",
+      "summary": "Indonesian stocks fell sharply after MSCI signaled a possible downgrade in the country's market status, affecting investor confidence.",
+      "lang": "en",
+      "source": "Nikkei Asia",
+      "url": "https://asia.nikkei.com/business/markets/indonesia-stocks-plunge-after-msci-signals-possible-downgrade-in-status",
+      "published": null
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "China’s Payback for Late Stimulus Looms With Sub-4.5% Growth",
+    "summary": "China's economy is forecast for a second consecutive quarter of sub-target growth as recent stimulus measures arrive too late to meet 2026 goals.",
+    "lang": "en",
+    "source": "Bloomberg Economics",
+    "url": "https://www.bloomberg.com/news/articles/2026-10-16/tardy-china-stimulus-sets-up-second-quarter-of-sub-target-growth",
+    "published": "2026-10-16T02:01:35+00:00",
+    "event_id": "98c1c1acee61",
+    "sources": [
+     {
+      "title": "China’s Payback for Late Stimulus Looms With Sub-4.5% Growth",
+      "summary": "China's economy is forecast for a second consecutive quarter of sub-target growth as recent stimulus measures arrive too late to meet 2026 goals.",
+      "lang": "en",
+      "source": "Bloomberg Economics",
+      "url": "https://www.bloomberg.com/news/articles/2026-10-16/tardy-china-stimulus-sets-up-second-quarter-of-sub-target-growth",
+      "published": "2026-10-16T02:01:35+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "Tech market sell-off deepens amid fears over US inflation and AI debt",
+    "summary": "Tech stocks including chip makers Samsung and SoftBank plunged as markets worry about US inflation and potential interest rate hikes.",
+    "lang": "en",
+    "source": "The Guardian World",
+    "url": "https://www.theguardian.com/business/2026/oct/15/tech-market-sell-off-deepens-amid-fears-over-us-inflation-and-ai-debt",
+    "published": "2026-10-15T14:33:12+00:00",
+    "event_id": "e44e9e481937",
+    "sources": [
+     {
+      "title": "Tech market sell-off deepens amid fears over US inflation and AI debt",
+      "summary": "Tech stocks including chip makers Samsung and SoftBank plunged as markets worry about US inflation and potential interest rate hikes.",
+      "lang": "en",
+      "source": "The Guardian World",
+      "url": "https://www.theguardian.com/business/2026/oct/15/tech-market-sell-off-deepens-amid-fears-over-us-inflation-and-ai-debt",
+      "published": "2026-10-15T14:33:12+00:00"
+     }
+    ],
+    "status": "unclear",
+    "change_summary": "",
+    "previous_date": "2026-10-15",
+    "previous_event_id": "e44e9e481937"
+   }
+  ],
+  "economia|europa": [
+   {
+    "title": "EU to Boost Its Power to Block Chinese Goods in Trade Fight",
+    "summary": "The European Union is creating new trade powers to potentially block Chinese goods and close market access as it fights its trade deficit.",
+    "lang": "en",
+    "source": "Bloomberg Economics",
+    "url": "https://www.bloomberg.com/news/articles/2026-10-15/eu-prepares-trade-tool-that-could-block-china-from-single-market",
+    "published": "2026-10-15T18:01:22+00:00",
+    "event_id": "dd3ad5e0e7c6",
+    "sources": [
+     {
+      "title": "EU to Boost Its Power to Block Chinese Goods in Trade Fight",
+      "summary": "The European Union is creating new trade powers to potentially block Chinese goods and close market access as it fights its trade deficit.",
+      "lang": "en",
+      "source": "Bloomberg Economics",
+      "url": "https://www.bloomberg.com/news/articles/2026-10-15/eu-prepares-trade-tool-that-could-block-china-from-single-market",
+      "published": "2026-10-15T18:01:22+00:00"
+     },
+     {
+      "title": "EU summit to focus on China, Ukraine and bloc budget",
+      "summary": "EU leaders meeting in Brussels will address measures to reduce China's trade surplus and discuss Ukraine aid and the next EU budget.",
+      "lang": "en",
+      "source": "Deutsche Welle World",
+      "url": "https://www.dw.com/en/eu-summit-to-focus-on-china-ukraine-and-bloc-budget/a-79665338?maca=en-rss-en-world-4025-rdf",
+      "published": "2026-10-15T14:37:00+00:00"
+     }
+    ],
+    "status": "updated",
+    "change_summary": "EU to Boost Its Power to Block Chinese Goods in Trade Fight",
+    "previous_date": "2026-10-15",
+    "previous_event_id": "dd3ad5e0e7c6"
+   },
+   {
+    "title": "Healey Plans to Raise UK Taxes on Banks at Budget This Month",
+    "summary": "UK Chancellor Healey plans to raise taxes on banks to fund cost-of-living support and stabilize public finances in this month's budget.",
+    "lang": "en",
+    "source": "Bloomberg Economics",
+    "url": "https://www.bloomberg.com/news/articles/2026-10-15/healey-plans-to-raise-uk-taxes-on-banks-at-budget-this-month",
+    "published": "2026-10-15T19:07:16+00:00",
+    "event_id": "e92149f42dd5",
+    "sources": [
+     {
+      "title": "Healey Plans to Raise UK Taxes on Banks at Budget This Month",
+      "summary": "UK Chancellor Healey plans to raise taxes on banks to fund cost-of-living support and stabilize public finances in this month's budget.",
+      "lang": "en",
+      "source": "Bloomberg Economics",
+      "url": "https://www.bloomberg.com/news/articles/2026-10-15/healey-plans-to-raise-uk-taxes-on-banks-at-budget-this-month",
+      "published": "2026-10-15T19:07:16+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   }
+  ],
+  "tecnologia|europa": [
+   {
+    "title": "G7 economies plan simulated AI attacks on banks as cyber fears rise",
+    "summary": "G7 finance ministers agreed to conduct tabletop drills simulating AI-powered cyber attacks on banks to prepare against future threats.",
+    "lang": "en",
+    "source": "Financial Times",
+    "url": "https://www.ft.com/content/ce1b9236-1e53-47f1-b1f9-443a9f430b0d?syn-25a6b1a6=1",
+    "published": "2026-10-16T07:36:24+00:00",
+    "event_id": "d69d0f29a4e0",
+    "sources": [
+     {
+      "title": "G7 economies plan simulated AI attacks on banks as cyber fears rise",
+      "summary": "G7 finance ministers agreed to conduct tabletop drills simulating AI-powered cyber attacks on banks to prepare against future threats.",
+      "lang": "en",
+      "source": "Financial Times",
+      "url": "https://www.ft.com/content/ce1b9236-1e53-47f1-b1f9-443a9f430b0d?syn-25a6b1a6=1",
+      "published": "2026-10-16T07:36:24+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "Ukraine says its Starshield access is back",
+    "summary": "Ukraine confirmed that its access to SpaceX's Starshield system, used for offensive drone attacks on Russia, has been restored.",
+    "lang": "en",
+    "source": "NPR World",
+    "url": "https://www.npr.org/2026/10/15/nx-s1-6002949/ukraine-says-its-starshield-access-is-back",
+    "published": "2026-10-15T08:46:09+00:00",
+    "event_id": "d6e446bdaa51",
+    "sources": [
+     {
+      "title": "Ukraine says its Starshield access is back",
+      "summary": "Ukraine confirmed that its access to SpaceX's Starshield system, used for offensive drone attacks on Russia, has been restored.",
+      "lang": "en",
+      "source": "NPR World",
+      "url": "https://www.npr.org/2026/10/15/nx-s1-6002949/ukraine-says-its-starshield-access-is-back",
+      "published": "2026-10-15T08:46:09+00:00"
+     }
+    ],
+    "status": "updated",
+    "change_summary": "Ukraine says its Starshield access is back",
+    "previous_date": "2026-10-15",
+    "previous_event_id": "860d11574738"
+   }
+  ],
+  "politica|europa": [
+   {
+    "title": "EU vows to maintain Russia sanctions after US pivot",
+    "summary": "EU leaders reaffirmed commitment to Russia sanctions following Trump's reported fuel deal with Moscow and renewed support for Ukraine's Zelenskyy.",
+    "lang": "en",
+    "source": "Financial Times",
+    "url": "https://www.ft.com/content/ee6dfd48-fa31-4bde-9962-2f9f09c36798?syn-25a6b1a6=1",
+    "published": "2026-10-16T09:26:37+00:00",
+    "event_id": "ce48ada2276c",
+    "sources": [
+     {
+      "title": "EU vows to maintain Russia sanctions after US pivot",
+      "summary": "EU leaders reaffirmed commitment to Russia sanctions following Trump's reported fuel deal with Moscow and renewed support for Ukraine's Zelenskyy.",
+      "lang": "en",
+      "source": "Financial Times",
+      "url": "https://www.ft.com/content/ee6dfd48-fa31-4bde-9962-2f9f09c36798?syn-25a6b1a6=1",
+      "published": "2026-10-16T09:26:37+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "Zelensky resumes strikes on Russian refineries, Trump brands them 'a disgrace'",
+    "summary": "Ukraine resumed strikes on Russian refineries, escalating tensions as Trump criticized the attacks following a brief truce.",
+    "lang": "en",
+    "source": "Le Monde International",
+    "url": "https://www.lemonde.fr/en/international/article/2026/10/16/zelensky-resumes-strikes-on-russian-refineries-trump-brands-them-a-disgrace_6758672_4.html",
+    "published": "2026-10-16T09:35:38+00:00",
+    "event_id": "860d11574738",
+    "sources": [
+     {
+      "title": "Zelensky resumes strikes on Russian refineries, Trump brands them 'a disgrace'",
+      "summary": "Ukraine resumed strikes on Russian refineries, escalating tensions as Trump criticized the attacks following a brief truce.",
+      "lang": "en",
+      "source": "Le Monde International",
+      "url": "https://www.lemonde.fr/en/international/article/2026/10/16/zelensky-resumes-strikes-on-russian-refineries-trump-brands-them-a-disgrace_6758672_4.html",
+      "published": "2026-10-16T09:35:38+00:00"
+     },
+     {
+      "title": "Ukraine resumes attacks on Russian oil refineries, officials say, after brief truce",
+      "summary": "Ukrainian drones attacked a Russian oil refinery in Ryazan region after a brief truce ended with no breakthrough from Moscow.",
+      "lang": "en",
+      "source": "NPR World",
+      "url": "https://www.npr.org/2026/10/15/g-s1-148194/russia-ukraine-war",
+      "published": "2026-10-15T10:05:58+00:00"
+     }
+    ],
+    "status": "updated",
+    "change_summary": "Zelensky resumes strikes on Russian refineries, Trump brands them 'a disgrace'",
+    "previous_date": "2026-10-15",
+    "previous_event_id": "860d11574738"
+   },
+   {
+    "title": "Zelensky rallies EU support as Trump says Ukraine leader 'more difficult to deal with than Putin'",
+    "summary": "Zelenskyy rallied EU support in Brussels as Trump intensified criticism, calling the Ukrainian leader more difficult to deal with than Putin.",
+    "lang": "en",
+    "source": "BBC World",
+    "url": "https://www.bbc.co.uk/news/articles/c58jz174w89ro?at_medium=RSS&at_campaign=rss",
+    "published": "2026-10-16T09:34:30+00:00",
+    "event_id": "adb9ff1cde83",
+    "sources": [
+     {
+      "title": "Zelensky rallies EU support as Trump says Ukraine leader 'more difficult to deal with than Putin'",
+      "summary": "Zelenskyy rallied EU support in Brussels as Trump intensified criticism, calling the Ukrainian leader more difficult to deal with than Putin.",
+      "lang": "en",
+      "source": "BBC World",
+      "url": "https://www.bbc.co.uk/news/articles/c58jz174w89ro?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-16T09:34:30+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "Police raid the major pro-opposition Halk TV channel in Turkey",
+    "summary": "Turkish police raided the Istanbul headquarters of pro-opposition Halk TV channel on the day jailed Mayor Ekrem Imamoglu was to start serving time.",
+    "lang": "en",
+    "source": "Deutsche Welle World",
+    "url": "https://www.dw.com/en/police-raid-the-major-pro-opposition-halk-tv-channel-in-turkey/a-79671673?maca=en-rss-en-world-4025-rdf",
+    "published": "2026-10-15T16:48:00+00:00",
+    "event_id": "1bdb8c6f87f4",
+    "sources": [
+     {
+      "title": "Police raid the major pro-opposition Halk TV channel in Turkey",
+      "summary": "Turkish police raided the Istanbul headquarters of pro-opposition Halk TV channel on the day jailed Mayor Ekrem Imamoglu was to start serving time.",
+      "lang": "en",
+      "source": "Deutsche Welle World",
+      "url": "https://www.dw.com/en/police-raid-the-major-pro-opposition-halk-tv-channel-in-turkey/a-79671673?maca=en-rss-en-world-4025-rdf",
+      "published": "2026-10-15T16:48:00+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "Romania: 2 ships on fire in Black Sea, 7 crew missing",
+    "summary": "Two chemical tankers caught fire in Romanian Black Sea territorial waters after Russian drones were detected in Romanian airspace, with seven crew missing.",
+    "lang": "en",
+    "source": "Deutsche Welle World",
+    "url": "https://www.dw.com/en/romania-2-ships-on-fire-in-black-sea-7-crew-missing/a-79667003?maca=en-rss-en-world-4025-rdf",
+    "published": "2026-10-15T14:34:00+00:00",
+    "event_id": "2b3762f9568b",
+    "sources": [
+     {
+      "title": "Romania: 2 ships on fire in Black Sea, 7 crew missing",
+      "summary": "Two chemical tankers caught fire in Romanian Black Sea territorial waters after Russian drones were detected in Romanian airspace, with seven crew missing.",
+      "lang": "en",
+      "source": "Deutsche Welle World",
+      "url": "https://www.dw.com/en/romania-2-ships-on-fire-in-black-sea-7-crew-missing/a-79667003?maca=en-rss-en-world-4025-rdf",
+      "published": "2026-10-15T14:34:00+00:00"
+     },
+     {
+      "title": "Black Sea drone attacks enter NATO country's territorial waters for first time",
+      "summary": "Suspected Russian drones attacked a chemical tanker in Romanian Black Sea territorial waters, marking the first drone incursion into NATO member airspace.",
+      "lang": "en",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/gadgets/2026/10/black-sea-drone-attacks-enter-nato-countrys-territorial-waters-for-first-time/",
+      "published": "2026-10-15T18:48:11+00:00"
+     }
+    ],
+    "status": "updated",
+    "change_summary": "Romania: 2 ships on fire in Black Sea, 7 crew missing",
+    "previous_date": "2026-10-15",
+    "previous_event_id": "2b3762f9568b"
+   }
+  ],
+  "economia|america": [
+   {
+    "title": "In AI-dominated markets, LatAm debt is a diversifier",
+    "summary": "Latin American local currency bonds are gaining attention as diversifiers in markets dominated by artificial intelligence stocks.",
+    "lang": "en",
+    "source": "FT Global Economy",
+    "url": "https://www.ft.com/content/086b7a80-acdd-48d2-bd5c-a04bad812264",
+    "published": "2026-10-15T15:51:35+00:00",
+    "event_id": "a414382d6f57",
+    "sources": [
+     {
+      "title": "In AI-dominated markets, LatAm debt is a diversifier",
+      "summary": "Latin American local currency bonds are gaining attention as diversifiers in markets dominated by artificial intelligence stocks.",
+      "lang": "en",
+      "source": "FT Global Economy",
+      "url": "https://www.ft.com/content/086b7a80-acdd-48d2-bd5c-a04bad812264",
+      "published": "2026-10-15T15:51:35+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   }
+  ],
+  "politica|asia": [
+   {
+    "title": "Envoy says China could ‘easily win’ conflict as Manila claims it is ‘thinly veiled threat’",
+    "summary": "Manila called for diplomatic restraint after China's ambassador suggested Beijing could easily win a military conflict with the Philippines.",
+    "lang": "en",
+    "source": "South China Morning Post (China)",
+    "url": "https://www.scmp.com/news/china/diplomacy/article/3371121/envoy-says-china-could-easily-win-conflict-manila-claims-it-thinly-veiled-threat?utm_source=rss_feed",
+    "published": "2026-10-16T06:58:59+00:00",
+    "event_id": "1b5df6510a91",
+    "sources": [
+     {
+      "title": "Envoy says China could ‘easily win’ conflict as Manila claims it is ‘thinly veiled threat’",
+      "summary": "Manila called for diplomatic restraint after China's ambassador suggested Beijing could easily win a military conflict with the Philippines.",
+      "lang": "en",
+      "source": "South China Morning Post (China)",
+      "url": "https://www.scmp.com/news/china/diplomacy/article/3371121/envoy-says-china-could-easily-win-conflict-manila-claims-it-thinly-veiled-threat?utm_source=rss_feed",
+      "published": "2026-10-16T06:58:59+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "Modi’s predicament: Gen Z pours out on India’s streets as dissent surges",
+    "summary": "Indian Gen Z protesters scaled barricades and clashed with police in large demonstrations against the Modi government despite heavy security deployment.",
+    "lang": "en",
+    "source": "Japan Times",
+    "url": "https://www.japantimes.co.jp/news/2026/10/16/asia-pacific/politics/modi-youth-protests/",
+    "published": "2026-10-16T08:17:00+00:00",
+    "event_id": "35b851d1202d",
+    "sources": [
+     {
+      "title": "Modi’s predicament: Gen Z pours out on India’s streets as dissent surges",
+      "summary": "Indian Gen Z protesters scaled barricades and clashed with police in large demonstrations against the Modi government despite heavy security deployment.",
+      "lang": "en",
+      "source": "Japan Times",
+      "url": "https://www.japantimes.co.jp/news/2026/10/16/asia-pacific/politics/modi-youth-protests/",
+      "published": "2026-10-16T08:17:00+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "Hypersonic missiles highlight arms race on Korean Peninsula",
+    "summary": "Both North and South Korea tested hypersonic missiles, escalating the arms race on the Korean Peninsula with weapons feared for their speed and maneuverability.",
+    "lang": "en",
+    "source": "Deutsche Welle World",
+    "url": "https://www.dw.com/en/hypersonic-missiles-highlight-arms-race-on-korean-peninsula/a-79667084?maca=en-rss-en-world-4025-rdf",
+    "published": "2026-10-15T12:02:00+00:00",
+    "event_id": "03c5fdf00155",
+    "sources": [
+     {
+      "title": "Hypersonic missiles highlight arms race on Korean Peninsula",
+      "summary": "Both North and South Korea tested hypersonic missiles, escalating the arms race on the Korean Peninsula with weapons feared for their speed and maneuverability.",
+      "lang": "en",
+      "source": "Deutsche Welle World",
+      "url": "https://www.dw.com/en/hypersonic-missiles-highlight-arms-race-on-korean-peninsula/a-79667084?maca=en-rss-en-world-4025-rdf",
+      "published": "2026-10-15T12:02:00+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "School roof collapse kills at least 29, injures more than 3 dozen in Pakistan",
+    "summary": "A private school roof collapsed in northwestern Pakistan, killing at least 29 people including children and injuring over 50 others.",
+    "lang": "en",
+    "source": "NPR World",
+    "url": "https://www.npr.org/2026/10/15/nx-s1-6003437/school-roof-collapse-pakistan",
+    "published": "2026-10-15T08:22:07+00:00",
+    "event_id": "51d25dbff751",
+    "sources": [
+     {
+      "title": "School roof collapse kills at least 29, injures more than 3 dozen in Pakistan",
+      "summary": "A private school roof collapsed in northwestern Pakistan, killing at least 29 people including children and injuring over 50 others.",
+      "lang": "en",
+      "source": "NPR World",
+      "url": "https://www.npr.org/2026/10/15/nx-s1-6003437/school-roof-collapse-pakistan",
+      "published": "2026-10-15T08:22:07+00:00"
+     }
+    ],
+    "status": "unchanged",
+    "change_summary": "",
+    "previous_date": "2026-10-15",
+    "previous_event_id": "51d25dbff751"
+   }
+  ],
+  "tecnologia|asia": [
+   {
+    "title": "China leans in to hi-tech systems to counter emerging AI-fuelled terror threats",
+    "summary": "China unveiled AI-powered drone interceptors and unmanned systems at an international counterterrorism forum to address emerging AI-driven security threats.",
+    "lang": "en",
+    "source": "South China Morning Post (China)",
+    "url": "https://www.scmp.com/news/china/military/article/3371127/china-leans-hi-tech-systems-counter-emerging-ai-fuelled-terror-threats?utm_source=rss_feed",
+    "published": "2026-10-16T09:56:50+00:00",
+    "event_id": "ab0137ce35cb",
+    "sources": [
+     {
+      "title": "China leans in to hi-tech systems to counter emerging AI-fuelled terror threats",
+      "summary": "China unveiled AI-powered drone interceptors and unmanned systems at an international counterterrorism forum to address emerging AI-driven security threats.",
+      "lang": "en",
+      "source": "South China Morning Post (China)",
+      "url": "https://www.scmp.com/news/china/military/article/3371127/china-leans-hi-tech-systems-counter-emerging-ai-fuelled-terror-threats?utm_source=rss_feed",
+      "published": "2026-10-16T09:56:50+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "【資安週報】1012～1016，美國查封中國永信至誠的網路攻擊基礎設施，7國網路安全與執法機構亦針對其攻擊活動聯合示警",
+    "summary": "美国司法部和FBI查封了中国永信至誠公司涉及网络攻击的7个网域，包括漏洞扫描工具Microscan和钓鱼工具FishHub。7个国家的网络安全机构联合对该公司的攻击活动发布警告。",
+    "lang": "zh",
+    "source": "iThome 台灣",
+    "url": "https://www.ithome.com.tw/news/179748",
+    "published": "2026-10-16T05:10:06+00:00",
+    "event_id": "3ee756bf46bd",
+    "sources": [
+     {
+      "title": "【資安週報】1012～1016，美國查封中國永信至誠的網路攻擊基礎設施，7國網路安全與執法機構亦針對其攻擊活動聯合示警",
+      "summary": "美国司法部和FBI查封了中国永信至誠公司涉及网络攻击的7个网域，包括漏洞扫描工具Microscan和钓鱼工具FishHub。7个国家的网络安全机构联合对该公司的攻击活动发布警告。",
+      "lang": "zh",
+      "source": "iThome 台灣",
+      "url": "https://www.ithome.com.tw/news/179748",
+      "published": "2026-10-16T05:10:06+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "駭客組織UTA0576串連3個零時差漏洞入侵Ivanti Connect Secure",
+    "summary": "黑客组织UTA0576利用3个零日漏洞入侵Ivanti Connect Secure。美国网络安全机构CISA表示漏洞CVE-2026-104935遭到积极利用，已敦促所有用户尽快更新并检查是否被入侵。",
+    "lang": "zh",
+    "source": "iThome 台灣",
+    "url": "https://www.ithome.com.tw/news/179714",
+    "published": "2026-10-16T02:10:11+00:00",
+    "event_id": "1e3e63c2845d",
+    "sources": [
+     {
+      "title": "駭客組織UTA0576串連3個零時差漏洞入侵Ivanti Connect Secure",
+      "summary": "黑客组织UTA0576利用3个零日漏洞入侵Ivanti Connect Secure。美国网络安全机构CISA表示漏洞CVE-2026-104935遭到积极利用，已敦促所有用户尽快更新并检查是否被入侵。",
+      "lang": "zh",
+      "source": "iThome 台灣",
+      "url": "https://www.ithome.com.tw/news/179714",
+      "published": "2026-10-16T02:10:11+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   }
+  ],
+  "politica|america": [
+   {
+    "title": "Children aged 5, 8 and 11 killed in US school shooting before suspect shot by bystander",
+    "summary": "A teacher and three children aged 5, 8, and 11 were killed at Silver Rail Elementary School in Bend before a bystander shot the suspect.",
+    "lang": "en",
+    "source": "BBC World",
+    "url": "https://www.bbc.co.uk/news/articles/cm89zp48k4kzo?at_medium=RSS&at_campaign=rss",
+    "published": "2026-10-16T03:45:09+00:00",
+    "event_id": "ec13367c2ac3",
+    "sources": [
+     {
+      "title": "Children aged 5, 8 and 11 killed in US school shooting before suspect shot by bystander",
+      "summary": "A teacher and three children aged 5, 8, and 11 were killed at Silver Rail Elementary School in Bend before a bystander shot the suspect.",
+      "lang": "en",
+      "source": "BBC World",
+      "url": "https://www.bbc.co.uk/news/articles/cm89zp48k4kzo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-16T03:45:09+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "Carney implies US trying to 'break' Canada amid vote for Alberta independence referendum",
+    "summary": "Alberta will hold a referendum on separation from Canada as the oil-rich province considers independence amid tensions over federal energy policies.",
+    "lang": "en",
+    "source": "Deutsche Welle World",
+    "url": "https://www.dw.com/en/carney-implies-us-trying-to-break-canada-amid-vote-for-alberta-independence-referendum/a-79675652?maca=en-rss-en-world-4025-rdf",
+    "published": "2026-10-16T04:24:00+00:00",
+    "event_id": "25442dc83962",
+    "sources": [
+     {
+      "title": "Carney implies US trying to 'break' Canada amid vote for Alberta independence referendum",
+      "summary": "Alberta will hold a referendum on separation from Canada as the oil-rich province considers independence amid tensions over federal energy policies.",
+      "lang": "en",
+      "source": "Deutsche Welle World",
+      "url": "https://www.dw.com/en/carney-implies-us-trying-to-break-canada-amid-vote-for-alberta-independence-referendum/a-79675652?maca=en-rss-en-world-4025-rdf",
+      "published": "2026-10-16T04:24:00+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   }
+  ],
+  "tecnologia|america": [
+   {
+    "title": "This implant can restore sight for patients with macular degeneration",
+    "summary": "The Prima implant system can restore vision for patients with age-related macular degeneration, a condition affecting over 5 million people worldwide.",
+    "lang": "en",
+    "source": "MIT Technology Review",
+    "url": "https://www.technologyreview.com/2026/10/16/1145840/prima-implant-restores-sight-macular-degeneration-patients/",
+    "published": "2026-10-16T09:00:00+00:00",
+    "event_id": "bb62f8b7f627",
+    "sources": [
+     {
+      "title": "This implant can restore sight for patients with macular degeneration",
+      "summary": "The Prima implant system can restore vision for patients with age-related macular degeneration, a condition affecting over 5 million people worldwide.",
+      "lang": "en",
+      "source": "MIT Technology Review",
+      "url": "https://www.technologyreview.com/2026/10/16/1145840/prima-implant-restores-sight-macular-degeneration-patients/",
+      "published": "2026-10-16T09:00:00+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "ChatGPT can peek at your Chrome tabs now",
+    "summary": "OpenAI's ChatGPT Chrome extension now allows users to access browser tabs, enabling the AI to interact with content already open.",
+    "lang": "en",
+    "source": "The Verge",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/1012510/openai-chatgpt-google-chrome-tabs",
+    "published": "2026-10-15T22:43:23+00:00",
+    "event_id": "924ca13842a3",
+    "sources": [
+     {
+      "title": "ChatGPT can peek at your Chrome tabs now",
+      "summary": "OpenAI's ChatGPT Chrome extension now allows users to access browser tabs, enabling the AI to interact with content already open.",
+      "lang": "en",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1012510/openai-chatgpt-google-chrome-tabs",
+      "published": "2026-10-15T22:43:23+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "Meta launches an open-weight AI model that runs on Macs",
+    "summary": "Meta launched Muse Spark Open, an open-weight AI model developed with Apple that runs locally on Apple silicon devices.",
+    "lang": "en",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/10/15/meta-launches-an-open-weight-model-that-runs-on-macs/",
+    "published": "2026-10-15T20:04:53+00:00",
+    "event_id": "21e3505542d9",
+    "sources": [
+     {
+      "title": "Meta launches an open-weight AI model that runs on Macs",
+      "summary": "Meta launched Muse Spark Open, an open-weight AI model developed with Apple that runs locally on Apple silicon devices.",
+      "lang": "en",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/10/15/meta-launches-an-open-weight-model-that-runs-on-macs/",
+      "published": "2026-10-15T20:04:53+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "Accelerating the search for antimicrobial peptides with Google Antigravity",
+    "summary": "Google DeepMind is using its Antigravity tool to accelerate discovery of novel antimicrobial peptides for medical research.",
+    "lang": "en",
+    "source": "Google DeepMind Blog",
+    "url": "https://deepmind.google/blog/accelerating-antimicrobial-discovery/",
+    "published": "2026-10-15T16:08:03+00:00",
+    "event_id": "996b33c09ad5",
+    "sources": [
+     {
+      "title": "Accelerating the search for antimicrobial peptides with Google Antigravity",
+      "summary": "Google DeepMind is using its Antigravity tool to accelerate discovery of novel antimicrobial peptides for medical research.",
+      "lang": "en",
+      "source": "Google DeepMind Blog",
+      "url": "https://deepmind.google/blog/accelerating-antimicrobial-discovery/",
+      "published": "2026-10-15T16:08:03+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "Targeted ads delivered 0-click exploits to install mercenary malware",
+    "summary": "Targeted advertisements delivered zero-click exploits installing mercenary spyware, likely marking the first confirmed case of such spyware delivery via ads.",
+    "lang": "en",
+    "source": "Ars Technica",
+    "url": "https://arstechnica.com/security/2026/10/targeted-ads-delivered-0-click-exploits-to-install-mercenary-malware/",
+    "published": "2026-10-15T20:32:41+00:00",
+    "event_id": "695376ae2615",
+    "sources": [
+     {
+      "title": "Targeted ads delivered 0-click exploits to install mercenary malware",
+      "summary": "Targeted advertisements delivered zero-click exploits installing mercenary spyware, likely marking the first confirmed case of such spyware delivery via ads.",
+      "lang": "en",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/security/2026/10/targeted-ads-delivered-0-click-exploits-to-install-mercenary-malware/",
+      "published": "2026-10-15T20:32:41+00:00"
+     },
+     {
+      "title": "以色列廣告業者利用定向廣告發動零點擊攻擊，半島電視臺裝置遭間諜軟體入侵",
+      "summary": "加拿大多伦多大学公民实验室发现以色列广告商通过定向广告发动零点击攻击，导致半岛电视台设备被间谍软件入侵。",
+      "lang": "zh",
+      "source": "iThome 台灣",
+      "url": "https://www.ithome.com.tw/news/179747",
+      "published": "2026-10-16T04:10:44+00:00"
+     }
+    ],
+    "status": "unchanged",
+    "change_summary": "",
+    "previous_date": "2026-10-15",
+    "previous_event_id": "695376ae2615"
+   }
+  ]
+ }
+}
