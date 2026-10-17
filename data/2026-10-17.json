@@ -1,0 +1,876 @@
+{
+ "date": "2026-10-17",
+ "generated_at": "2026-10-17T09:35:22.659448+00:00",
+ "mode": "full",
+ "cost_usd": 0.0473,
+ "radar_cost_usd": 0.005,
+ "events": {
+  "mode": "full",
+  "compared_with": "2026-10-16",
+  "articles": 36,
+  "uncompared_articles": 0,
+  "events": 34,
+  "cost_usd": 0.0175
+ },
+ "radar": {
+  "items": [
+   {
+    "id": "gh-1407997858",
+    "source": "GitHub",
+    "kind": "project",
+    "title": "mw00/project-maya",
+    "url": "https://github.com/mw00/project-maya",
+    "discussion_url": "",
+    "published": "2026-10-06T22:55:13Z",
+    "lang": "en",
+    "excerpt": "Project Maya - run GLM-5.3-Flash (321B MoE) privately on your own GPU(s), from one card to 16, NVIDIA or AMD, Linux or Windows. Engine, server, dashboard, OpenAI- and Anthropic-compatible API, quant tools.",
+    "signal": {
+     "stars_total": 976
+    },
+    "summary": "Project Maya lets users run GLM-5.3-Flash (321B MoE) privately on own GPUs—1 to 16 cards, NVIDIA or AMD, Linux or Windows—with engine, server, dashboard, OpenAI- and Anthropic-compatible API, and quantization tools.",
+    "usefulness": "Could enable building Python tools for local inference if deploying quantized models on available hardware proves feasible without undisclosed dependencies.",
+    "to_verify": "Whether the quantization tools support standard formats; actual VRAM requirements per GPU count; API compatibility depth with Claude/OpenAI clients."
+   },
+   {
+    "id": "hn-50122951",
+    "source": "Hacker News",
+    "kind": "discussion",
+    "title": "How the Claude Code team does code review",
+    "url": "https://claude.dev/blog/solving-code-review-at-anthropic/",
+    "discussion_url": "https://news.ycombinator.com/item?id=50122951",
+    "published": "2026-10-16T19:04:47+00:00",
+    "lang": "en",
+    "excerpt": "",
+    "signal": {
+     "points": 348,
+     "comments": 325
+    },
+    "summary": "Claude Code team describes their code review practices at Anthropic, suggesting AI governance patterns for collaborative development workflows.",
+    "usefulness": "Could inform governance policies when building Python tools with AI assistance if the post details review criteria, approval flows, or risk controls specific to AI-generated code.",
+    "to_verify": "What specific code review criteria apply to AI-generated versus human code; whether approval patterns differ by risk class; reproducibility of review process."
+   }
+  ],
+  "mode": "full",
+  "failed_sources": []
+ },
+ "market": null,
+ "failed_sources": [],
+ "cells": {
+  "economia|asia": [
+   {
+    "title": "Iraq Seeks IMF Program, Fund Chief Pledges ‘Firm’ Support",
+    "summary": "",
+    "lang": "en",
+    "source": "Bloomberg Economics",
+    "url": "https://www.bloomberg.com/news/articles/2026-10-17/iraq-seeks-imf-program-fund-chief-pledges-very-firm-support",
+    "published": "2026-10-17T06:34:07+00:00",
+    "event_id": "2122e38ef9b3",
+    "sources": [
+     {
+      "title": "Iraq Seeks IMF Program, Fund Chief Pledges ‘Firm’ Support",
+      "summary": "",
+      "lang": "en",
+      "source": "Bloomberg Economics",
+      "url": "https://www.bloomberg.com/news/articles/2026-10-17/iraq-seeks-imf-program-fund-chief-pledges-very-firm-support",
+      "published": "2026-10-17T06:34:07+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "Vietnam Prime Minister Targets 2027 GDP Growth of at Least 10%",
+    "summary": "Vietnam's Prime Minister Le Minh Hung projected at least 10% GDP growth for 2027 in his parliamentary economic targets speech.",
+    "lang": "en",
+    "source": "Bloomberg Markets",
+    "url": "https://www.bloomberg.com/news/articles/2026-10-17/vietnam-prime-minister-targets-2027-gdp-growth-of-at-least-10",
+    "published": "2026-10-17T03:03:57+00:00",
+    "event_id": "db7a0ba32507",
+    "sources": [
+     {
+      "title": "Vietnam Prime Minister Targets 2027 GDP Growth of at Least 10%",
+      "summary": "Vietnam's Prime Minister Le Minh Hung projected at least 10% GDP growth for 2027 in his parliamentary economic targets speech.",
+      "lang": "en",
+      "source": "Bloomberg Markets",
+      "url": "https://www.bloomberg.com/news/articles/2026-10-17/vietnam-prime-minister-targets-2027-gdp-growth-of-at-least-10",
+      "published": "2026-10-17T03:03:57+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   }
+  ],
+  "tecnologia|asia": [
+   {
+    "title": "Southeast Asia caught amid competing US and Chinese AI blocs",
+    "summary": "Southeast Asian nations face pressure to choose sides between competing US and Chinese artificial intelligence blocs amid geopolitical tensions.",
+    "lang": "en",
+    "source": "Nikkei Asia",
+    "url": "https://asia.nikkei.com/business/technology/artificial-intelligence/southeast-asia-caught-amid-competing-us-and-chinese-ai-blocs",
+    "published": null,
+    "event_id": "80cf36f2e8d2",
+    "sources": [
+     {
+      "title": "Southeast Asia caught amid competing US and Chinese AI blocs",
+      "summary": "Southeast Asian nations face pressure to choose sides between competing US and Chinese artificial intelligence blocs amid geopolitical tensions.",
+      "lang": "en",
+      "source": "Nikkei Asia",
+      "url": "https://asia.nikkei.com/business/technology/artificial-intelligence/southeast-asia-caught-amid-competing-us-and-chinese-ai-blocs",
+      "published": null
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "朝鲜宣称成功测试采用AI辅助的新型鱼雷",
+    "summary": "朝鲜官方媒体报道该国成功测试新型AI精确制导鱼雷系统，朝韩军备竞赛在高超音速导弹领域持续升温。",
+    "lang": "zh",
+    "source": "德國之聲中文",
+    "url": "https://www.dw.com/zh/朝鲜宣称成功测试采用ai辅助的新型鱼雷/a-79686243?maca=chi-rss-chi-all-1127-rdf",
+    "published": "2026-10-17T09:00:00+00:00",
+    "event_id": "03c5fdf00155",
+    "sources": [
+     {
+      "title": "朝鲜宣称成功测试采用AI辅助的新型鱼雷",
+      "summary": "朝鲜官方媒体报道该国成功测试新型AI精确制导鱼雷系统，朝韩军备竞赛在高超音速导弹领域持续升温。",
+      "lang": "zh",
+      "source": "德國之聲中文",
+      "url": "https://www.dw.com/zh/朝鲜宣称成功测试采用ai辅助的新型鱼雷/a-79686243?maca=chi-rss-chi-all-1127-rdf",
+      "published": "2026-10-17T09:00:00+00:00"
+     }
+    ],
+    "status": "unclear",
+    "change_summary": "",
+    "previous_date": "2026-10-16",
+    "previous_event_id": "03c5fdf00155"
+   },
+   {
+    "title": "Landmark China trial gets 84% efficacy in treating cancer with cue from waste water tech",
+    "summary": "Chinese scientists achieved 84% efficacy treating advanced metastatic cancer using a technique inspired by wastewater technology.",
+    "lang": "en",
+    "source": "South China Morning Post (China)",
+    "url": "https://www.scmp.com/news/china/science/article/3370996/landmark-china-trial-gets-84-efficacy-treating-cancer-clue-waste-water-tech?utm_source=rss_feed",
+    "published": "2026-10-17T08:00:09+00:00",
+    "event_id": "5f24ddfb70d4",
+    "sources": [
+     {
+      "title": "Landmark China trial gets 84% efficacy in treating cancer with cue from waste water tech",
+      "summary": "Chinese scientists achieved 84% efficacy treating advanced metastatic cancer using a technique inspired by wastewater technology.",
+      "lang": "en",
+      "source": "South China Morning Post (China)",
+      "url": "https://www.scmp.com/news/china/science/article/3370996/landmark-china-trial-gets-84-efficacy-treating-cancer-clue-waste-water-tech?utm_source=rss_feed",
+      "published": "2026-10-17T08:00:09+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "SK 海力士明確否認拿條件換美國允許中國大連廠設備輸入",
+    "summary": "韩国SK海力士发表官方声明，强烈否认以在美建晶圆厂为条件换取美方允许中国大连厂设备输入的指控。",
+    "lang": "zh",
+    "source": "科技新報 TechNews",
+    "url": "https://finance.technews.tw/2026/10/17/sk-hynix-explicitly-denied-using-conditions-in-exchange-for-the-us-allowing-the-import-of-equipment-from-its-dalian-china-plant/",
+    "published": "2026-10-17T09:10:19+00:00",
+    "event_id": "d5710542015b",
+    "sources": [
+     {
+      "title": "SK 海力士明確否認拿條件換美國允許中國大連廠設備輸入",
+      "summary": "韩国SK海力士发表官方声明，强烈否认以在美建晶圆厂为条件换取美方允许中国大连厂设备输入的指控。",
+      "lang": "zh",
+      "source": "科技新報 TechNews",
+      "url": "https://finance.technews.tw/2026/10/17/sk-hynix-explicitly-denied-using-conditions-in-exchange-for-the-us-allowing-the-import-of-equipment-from-its-dalian-china-plant/",
+      "published": "2026-10-17T09:10:19+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "AI 記憶體下一步？三星確認速度、可擴展性、持久性為發展重點",
+    "summary": "三星于OCP全球峰会上确认AI记忆体发展重点为速度、可扩展性和持久性等关键指标。",
+    "lang": "zh",
+    "source": "科技新報 TechNews",
+    "url": "https://finance.technews.tw/2026/10/17/samsung-confirms-speed-scalability-and-durability-as-key-focuses-for-ai-memory-development/",
+    "published": "2026-10-17T08:00:17+00:00",
+    "event_id": "8eba7eee1666",
+    "sources": [
+     {
+      "title": "AI 記憶體下一步？三星確認速度、可擴展性、持久性為發展重點",
+      "summary": "三星于OCP全球峰会上确认AI记忆体发展重点为速度、可扩展性和持久性等关键指标。",
+      "lang": "zh",
+      "source": "科技新報 TechNews",
+      "url": "https://finance.technews.tw/2026/10/17/samsung-confirms-speed-scalability-and-durability-as-key-focuses-for-ai-memory-development/",
+      "published": "2026-10-17T08:00:17+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "最賺錢的時候押注下一步，黃仁勳帶領輝達再一次歷史性轉型",
+    "summary": "黄仁勳领导輝達狂砸400亿美元完成历史性转型，在利润高峰期重新押注未来发展方向。",
+    "lang": "zh",
+    "source": "科技新報 TechNews",
+    "url": "https://technews.tw/2026/10/17/nvidia-completes-another-historic-transformation/",
+    "published": "2026-10-17T08:00:01+00:00",
+    "event_id": "6e9940ecb09b",
+    "sources": [
+     {
+      "title": "最賺錢的時候押注下一步，黃仁勳帶領輝達再一次歷史性轉型",
+      "summary": "黄仁勳领导輝達狂砸400亿美元完成历史性转型，在利润高峰期重新押注未来发展方向。",
+      "lang": "zh",
+      "source": "科技新報 TechNews",
+      "url": "https://technews.tw/2026/10/17/nvidia-completes-another-historic-transformation/",
+      "published": "2026-10-17T08:00:01+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   }
+  ],
+  "tecnologia|america": [
+   {
+    "title": "Intel chief says White House will not meddle in its semiconductor business",
+    "summary": "Intel's chief stated the White House will not interfere in the company's semiconductor business decisions and operations.",
+    "lang": "en",
+    "source": "Nikkei Asia",
+    "url": "https://asia.nikkei.com/business/tech/semiconductors/intel-chief-says-white-house-will-not-meddle-in-its-semiconductor-business",
+    "published": null,
+    "event_id": "13d8c385cc93",
+    "sources": [
+     {
+      "title": "Intel chief says White House will not meddle in its semiconductor business",
+      "summary": "Intel's chief stated the White House will not interfere in the company's semiconductor business decisions and operations.",
+      "lang": "en",
+      "source": "Nikkei Asia",
+      "url": "https://asia.nikkei.com/business/tech/semiconductors/intel-chief-says-white-house-will-not-meddle-in-its-semiconductor-business",
+      "published": null
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "OpenAI models hacked a crypto wallet and breached more websites",
+    "summary": "OpenAI models successfully hacked a crypto wallet and breached websites, actions that would constitute criminal charges if performed by humans.",
+    "lang": "en",
+    "source": "Ars Technica",
+    "url": "https://arstechnica.com/security/2026/10/openai-models-hacked-a-crypto-wallet-and-breached-more-websites/",
+    "published": "2026-10-16T20:59:01+00:00",
+    "event_id": "b140e0bf691c",
+    "sources": [
+     {
+      "title": "OpenAI models hacked a crypto wallet and breached more websites",
+      "summary": "OpenAI models successfully hacked a crypto wallet and breached websites, actions that would constitute criminal charges if performed by humans.",
+      "lang": "en",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/security/2026/10/openai-models-hacked-a-crypto-wallet-and-breached-more-websites/",
+      "published": "2026-10-16T20:59:01+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "Apple’s updated App Store rules go after ‘nudify’ AI apps",
+    "summary": "Apple updated App Store rules to explicitly ban 'nudify' AI apps that generate intimate non-consensual images of people.",
+    "lang": "en",
+    "source": "The Verge",
+    "url": "https://www.theverge.com/tech/1013314/apple-app-store-nudify-ai-apps-harassment",
+    "published": "2026-10-16T22:51:22+00:00",
+    "event_id": "cb4458cafd2f",
+    "sources": [
+     {
+      "title": "Apple’s updated App Store rules go after ‘nudify’ AI apps",
+      "summary": "Apple updated App Store rules to explicitly ban 'nudify' AI apps that generate intimate non-consensual images of people.",
+      "lang": "en",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/tech/1013314/apple-app-store-nudify-ai-apps-harassment",
+      "published": "2026-10-16T22:51:22+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "US Rep proposes bill to give video game buyers \"ownership,\" not \"a license\"",
+    "summary": "A US representative proposed legislation granting video game buyers 'ownership' rights instead of licenses, facing significant technical and legislative hurdles.",
+    "lang": "en",
+    "source": "Ars Technica",
+    "url": "https://arstechnica.com/gaming/2026/10/us-rep-proposes-bill-to-give-video-game-buyers-ownership-not-a-license/",
+    "published": "2026-10-16T19:41:18+00:00",
+    "event_id": "9eceffc368d5",
+    "sources": [
+     {
+      "title": "US Rep proposes bill to give video game buyers \"ownership,\" not \"a license\"",
+      "summary": "A US representative proposed legislation granting video game buyers 'ownership' rights instead of licenses, facing significant technical and legislative hurdles.",
+      "lang": "en",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/gaming/2026/10/us-rep-proposes-bill-to-give-video-game-buyers-ownership-not-a-license/",
+      "published": "2026-10-16T19:41:18+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "Meta may use sweeping new commercial TOS to avoid millions in AI licensing fees",
+    "summary": "Meta streamlined its commercial terms of service, with legal experts warning it represents an AI power grab to avoid licensing fees.",
+    "lang": "en",
+    "source": "Ars Technica",
+    "url": "https://arstechnica.com/tech-policy/2026/10/meta-may-use-sweeping-new-commercial-tos-to-avoid-millions-in-ai-licensing-fees/",
+    "published": "2026-10-16T15:41:00+00:00",
+    "event_id": "ae8741fad803",
+    "sources": [
+     {
+      "title": "Meta may use sweeping new commercial TOS to avoid millions in AI licensing fees",
+      "summary": "Meta streamlined its commercial terms of service, with legal experts warning it represents an AI power grab to avoid licensing fees.",
+      "lang": "en",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/tech-policy/2026/10/meta-may-use-sweeping-new-commercial-tos-to-avoid-millions-in-ai-licensing-fees/",
+      "published": "2026-10-16T15:41:00+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "美國CISA警告影響Atlassian旗下多款系統的重大漏洞遭積極利用",
+    "summary": "美国CISA发现影响Atlassian系统的重大漏洞遭积极利用，要求联邦机构需在3天内完成修补。",
+    "lang": "zh",
+    "source": "iThome 台灣",
+    "url": "https://www.ithome.com.tw/news/179739",
+    "published": "2026-10-16T11:10:37+00:00",
+    "event_id": "1e3e63c2845d",
+    "sources": [
+     {
+      "title": "美國CISA警告影響Atlassian旗下多款系統的重大漏洞遭積極利用",
+      "summary": "美国CISA发现影响Atlassian系统的重大漏洞遭积极利用，要求联邦机构需在3天内完成修补。",
+      "lang": "zh",
+      "source": "iThome 台灣",
+      "url": "https://www.ithome.com.tw/news/179739",
+      "published": "2026-10-16T11:10:37+00:00"
+     }
+    ],
+    "status": "unclear",
+    "change_summary": "",
+    "previous_date": "2026-10-16",
+    "previous_event_id": "1e3e63c2845d"
+   },
+   {
+    "title": "ChatGPT sigue siendo el rey, pero ya no es tan intocable: así ha cambiado el mapa de la IA en un año",
+    "summary": "ChatGPT revolucionó la IA en noviembre de 2022, pero OpenAI ya enfrenta rivales en una feroz carrera por dominar el mercado de inteligencia artificial.",
+    "lang": "es",
+    "source": "Xataka",
+    "url": "https://www.xataka.com/robotica-e-ia/chatgpt-sigue-siendo-rey-no-intocable-asi-ha-cambiado-mapa-ia-ano",
+    "published": "2026-10-17T08:00:04+00:00",
+    "event_id": "acf2891c8758",
+    "sources": [
+     {
+      "title": "ChatGPT sigue siendo el rey, pero ya no es tan intocable: así ha cambiado el mapa de la IA en un año",
+      "summary": "ChatGPT revolucionó la IA en noviembre de 2022, pero OpenAI ya enfrenta rivales en una feroz carrera por dominar el mercado de inteligencia artificial.",
+      "lang": "es",
+      "source": "Xataka",
+      "url": "https://www.xataka.com/robotica-e-ia/chatgpt-sigue-siendo-rey-no-intocable-asi-ha-cambiado-mapa-ia-ano",
+      "published": "2026-10-17T08:00:04+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "不禁 AI 但拒絕 AI 垃圾內容，YouTube、TikTok 等社群平台齊改規則",
+    "summary": "YouTube、TikTok等社群平台调整规则，在鼓励AI创新与防堵低品质大量生成内容间寻求平衡。",
+    "lang": "zh",
+    "source": "科技新報 TechNews",
+    "url": "https://technews.tw/2026/10/17/from-substack-to-youtube-here-are-the-social-platforms-cracking-down-on-ai-slop/",
+    "published": "2026-10-17T08:30:15+00:00",
+    "event_id": "f4012417be60",
+    "sources": [
+     {
+      "title": "不禁 AI 但拒絕 AI 垃圾內容，YouTube、TikTok 等社群平台齊改規則",
+      "summary": "YouTube、TikTok等社群平台调整规则，在鼓励AI创新与防堵低品质大量生成内容间寻求平衡。",
+      "lang": "zh",
+      "source": "科技新報 TechNews",
+      "url": "https://technews.tw/2026/10/17/from-substack-to-youtube-here-are-the-social-platforms-cracking-down-on-ai-slop/",
+      "published": "2026-10-17T08:30:15+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "This implant can restore sight for patients with macular degeneration",
+    "summary": "A new implant can restore vision for millions of patients with age-related macular degeneration, addressing previously untreatable retinal atrophy.",
+    "lang": "en",
+    "source": "MIT Technology Review",
+    "url": "https://www.technologyreview.com/2026/10/16/1145840/prima-implant-restores-sight-macular-degeneration-patients/",
+    "published": "2026-10-16T09:00:00+00:00",
+    "event_id": "bb62f8b7f627",
+    "sources": [
+     {
+      "title": "This implant can restore sight for patients with macular degeneration",
+      "summary": "A new implant can restore vision for millions of patients with age-related macular degeneration, addressing previously untreatable retinal atrophy.",
+      "lang": "en",
+      "source": "MIT Technology Review",
+      "url": "https://www.technologyreview.com/2026/10/16/1145840/prima-implant-restores-sight-macular-degeneration-patients/",
+      "published": "2026-10-16T09:00:00+00:00"
+     }
+    ],
+    "status": "unchanged",
+    "change_summary": "",
+    "previous_date": "2026-10-16",
+    "previous_event_id": "bb62f8b7f627"
+   }
+  ],
+  "economia|europa": [
+   {
+    "title": "Christine Lagarde: IMFC Statement",
+    "summary": "ECB President Christine Lagarde addressed international finance leaders on monetary policy and economic conditions at the IMFC statement.",
+    "lang": "en",
+    "source": "BCE (notas de prensa)",
+    "url": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp261017~7015ea3099.en.html",
+    "published": "2026-10-17T05:00:00+00:00",
+    "event_id": "e545c030814a",
+    "sources": [
+     {
+      "title": "Christine Lagarde: IMFC Statement",
+      "summary": "ECB President Christine Lagarde addressed international finance leaders on monetary policy and economic conditions at the IMFC statement.",
+      "lang": "en",
+      "source": "BCE (notas de prensa)",
+      "url": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp261017~7015ea3099.en.html",
+      "published": "2026-10-17T05:00:00+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "France and Germany seal EU car deal",
+    "summary": "France and Germany reached an EU deal on cars, with Berlin securing combustion engine concessions and Paris limiting partners' access to 'Made in Europe' products.",
+    "lang": "en",
+    "source": "FT Global Economy",
+    "url": "https://www.ft.com/content/c36f858f-73e2-478b-9fdb-92b9167ce37f?syn-25a6b1a6=1",
+    "published": "2026-10-16T13:42:38+00:00",
+    "event_id": "096a664f029a",
+    "sources": [
+     {
+      "title": "France and Germany seal EU car deal",
+      "summary": "France and Germany reached an EU deal on cars, with Berlin securing combustion engine concessions and Paris limiting partners' access to 'Made in Europe' products.",
+      "lang": "en",
+      "source": "FT Global Economy",
+      "url": "https://www.ft.com/content/c36f858f-73e2-478b-9fdb-92b9167ce37f?syn-25a6b1a6=1",
+      "published": "2026-10-16T13:42:38+00:00"
+     },
+     {
+      "title": "Merz Says EU Combustion-Car Ban Is History After French Deal",
+      "summary": "German Chancellor Merz expects the EU to relax emissions rules following a pact with France, allowing fuel-burning car sales beyond 2035.",
+      "lang": "en",
+      "source": "Bloomberg Economics",
+      "url": "https://www.bloomberg.com/news/articles/2026-10-16/france-germany-reach-deal-on-future-of-european-auto-industry",
+      "published": "2026-10-16T09:49:47+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   }
+  ],
+  "economia|america": [
+   {
+    "title": "US Posts $1.99 Trillion Budget Gap for 2026 on Spending Rise",
+    "summary": "The US federal budget deficit reached nearly $2 trillion for fiscal year 2026, reflecting rising government spending needs.",
+    "lang": "en",
+    "source": "Bloomberg Economics",
+    "url": "https://www.bloomberg.com/news/articles/2026-10-16/us-posts-1-99-trillion-budget-gap-for-2026-as-spending-climbs",
+    "published": "2026-10-16T18:10:57+00:00",
+    "event_id": "969e230a9ab4",
+    "sources": [
+     {
+      "title": "US Posts $1.99 Trillion Budget Gap for 2026 on Spending Rise",
+      "summary": "The US federal budget deficit reached nearly $2 trillion for fiscal year 2026, reflecting rising government spending needs.",
+      "lang": "en",
+      "source": "Bloomberg Economics",
+      "url": "https://www.bloomberg.com/news/articles/2026-10-16/us-posts-1-99-trillion-budget-gap-for-2026-as-spending-climbs",
+      "published": "2026-10-16T18:10:57+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "Wall Street Profit Boom Drives Surge in New York Tax Collections",
+    "summary": "New York state tax collections surge as a Wall Street trading boom promises record profits to the financial sector.",
+    "lang": "en",
+    "source": "Bloomberg Economics",
+    "url": "https://www.bloomberg.com/news/articles/2026-10-16/wall-street-profit-boom-drives-surge-in-new-york-tax-collections",
+    "published": "2026-10-16T17:47:01+00:00",
+    "event_id": "05144044cae8",
+    "sources": [
+     {
+      "title": "Wall Street Profit Boom Drives Surge in New York Tax Collections",
+      "summary": "New York state tax collections surge as a Wall Street trading boom promises record profits to the financial sector.",
+      "lang": "en",
+      "source": "Bloomberg Economics",
+      "url": "https://www.bloomberg.com/news/articles/2026-10-16/wall-street-profit-boom-drives-surge-in-new-york-tax-collections",
+      "published": "2026-10-16T17:47:01+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "Brazilian Amazon deforestation falls to lowest on record as pivotal vote looms",
+    "summary": "Brazilian Amazon deforestation fell to record lows, marking success for President Lula before his upcoming presidential run-off.",
+    "lang": "en",
+    "source": "The Guardian World",
+    "url": "https://www.theguardian.com/environment/2026/oct/16/brazil-amazon-deforestation-lowest-on-record-election",
+    "published": "2026-10-16T19:37:53+00:00",
+    "event_id": "42c147a6a504",
+    "sources": [
+     {
+      "title": "Brazilian Amazon deforestation falls to lowest on record as pivotal vote looms",
+      "summary": "Brazilian Amazon deforestation fell to record lows, marking success for President Lula before his upcoming presidential run-off.",
+      "lang": "en",
+      "source": "The Guardian World",
+      "url": "https://www.theguardian.com/environment/2026/oct/16/brazil-amazon-deforestation-lowest-on-record-election",
+      "published": "2026-10-16T19:37:53+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   }
+  ],
+  "politica|america": [
+   {
+    "title": "Republicans turn on Trump’s tariffs in battle for ‘political survival’",
+    "summary": "Republicans increasingly oppose Trump's tariffs as the trade war threatens their party's performance in crucial midterm election races.",
+    "lang": "en",
+    "source": "Financial Times",
+    "url": "https://www.ft.com/content/e2acd655-0a6a-4de6-9404-c838f6e7b8cb?syn-25a6b1a6=1",
+    "published": "2026-10-16T10:00:09+00:00",
+    "event_id": "69a7207ea7c9",
+    "sources": [
+     {
+      "title": "Republicans turn on Trump’s tariffs in battle for ‘political survival’",
+      "summary": "Republicans increasingly oppose Trump's tariffs as the trade war threatens their party's performance in crucial midterm election races.",
+      "lang": "en",
+      "source": "Financial Times",
+      "url": "https://www.ft.com/content/e2acd655-0a6a-4de6-9404-c838f6e7b8cb?syn-25a6b1a6=1",
+      "published": "2026-10-16T10:00:09+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "Three men jailed for 158 years each for murdering Australian and US surfers in Mexico",
+    "summary": "Three men received 158-year sentences each for murdering Australian and US surfers Jake and Callum Robinson and Carter Rhoad in Mexico.",
+    "lang": "en",
+    "source": "BBC World",
+    "url": "https://www.bbc.co.uk/news/articles/c3kgqjkzw29wo?at_medium=RSS&at_campaign=rss",
+    "published": "2026-10-17T03:11:10+00:00",
+    "event_id": "fcafbe262041",
+    "sources": [
+     {
+      "title": "Three men jailed for 158 years each for murdering Australian and US surfers in Mexico",
+      "summary": "Three men received 158-year sentences each for murdering Australian and US surfers Jake and Callum Robinson and Carter Rhoad in Mexico.",
+      "lang": "en",
+      "source": "BBC World",
+      "url": "https://www.bbc.co.uk/news/articles/c3kgqjkzw29wo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-17T03:11:10+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "Brazil’s Lula says he now backs lowering age of criminal responsibility to 16",
+    "summary": "Brazil's President Lula reversed his position, now supporting lowering criminal responsibility age to 16 for serious crimes.",
+    "lang": "en",
+    "source": "The Guardian World",
+    "url": "https://www.theguardian.com/world/2026/oct/16/brazil-lula-age-criminal-responsibility",
+    "published": "2026-10-16T16:47:35+00:00",
+    "event_id": "f9c920be19b6",
+    "sources": [
+     {
+      "title": "Brazil’s Lula says he now backs lowering age of criminal responsibility to 16",
+      "summary": "Brazil's President Lula reversed his position, now supporting lowering criminal responsibility age to 16 for serious crimes.",
+      "lang": "en",
+      "source": "The Guardian World",
+      "url": "https://www.theguardian.com/world/2026/oct/16/brazil-lula-age-criminal-responsibility",
+      "published": "2026-10-16T16:47:35+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   }
+  ],
+  "politica|europa": [
+   {
+    "title": "Trump waives several Russia sanctions as row with Zelensky intensifies",
+    "summary": "Trump waived multiple Russia sanctions citing national security concerns, escalating tensions with President Zelensky.",
+    "lang": "en",
+    "source": "BBC World",
+    "url": "https://www.bbc.co.uk/news/articles/cxr5yvzv7rp0o?at_medium=RSS&at_campaign=rss",
+    "published": "2026-10-17T07:41:01+00:00",
+    "event_id": "ce48ada2276c",
+    "sources": [
+     {
+      "title": "Trump waives several Russia sanctions as row with Zelensky intensifies",
+      "summary": "Trump waived multiple Russia sanctions citing national security concerns, escalating tensions with President Zelensky.",
+      "lang": "en",
+      "source": "BBC World",
+      "url": "https://www.bbc.co.uk/news/articles/cxr5yvzv7rp0o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-17T07:41:01+00:00"
+     }
+    ],
+    "status": "updated",
+    "change_summary": "Trump waives several Russia sanctions as row with Zelensky intensifies",
+    "previous_date": "2026-10-16",
+    "previous_event_id": "ce48ada2276c"
+   },
+   {
+    "title": "Albania's 'Flamingo Revolution' radicalizes in response to prime minister's 'contempt' and 'indifference'",
+    "summary": "Albania's 'Flamingo Revolution' protests intensified after four months, with demonstrators demanding Prime Minister Edi Rama's resignation.",
+    "lang": "en",
+    "source": "Le Monde International",
+    "url": "https://www.lemonde.fr/en/international/article/2026/10/17/in-albania-the-flamingo-revolution-radicalizes-in-response-to-the-prime-minister-s-contempt-and-indifference_6758697_4.html",
+    "published": "2026-10-17T02:03:04+00:00",
+    "event_id": "8710a9390796",
+    "sources": [
+     {
+      "title": "Albania's 'Flamingo Revolution' radicalizes in response to prime minister's 'contempt' and 'indifference'",
+      "summary": "Albania's 'Flamingo Revolution' protests intensified after four months, with demonstrators demanding Prime Minister Edi Rama's resignation.",
+      "lang": "en",
+      "source": "Le Monde International",
+      "url": "https://www.lemonde.fr/en/international/article/2026/10/17/in-albania-the-flamingo-revolution-radicalizes-in-response-to-the-prime-minister-s-contempt-and-indifference_6758697_4.html",
+      "published": "2026-10-17T02:03:04+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "France braces for nationwide protests",
+    "summary": "Students, trade unionists, and Yellow Vest activists protest across France over high prices and inequality amid concerns of violence.",
+    "lang": "en",
+    "source": "Deutsche Welle World",
+    "url": "https://www.dw.com/en/france-braces-for-nationwide-protests/a-79685584?maca=en-rss-en-world-4025-rdf",
+    "published": "2026-10-17T08:02:00+00:00",
+    "event_id": "52c4a7c09806",
+    "sources": [
+     {
+      "title": "France braces for nationwide protests",
+      "summary": "Students, trade unionists, and Yellow Vest activists protest across France over high prices and inequality amid concerns of violence.",
+      "lang": "en",
+      "source": "Deutsche Welle World",
+      "url": "https://www.dw.com/en/france-braces-for-nationwide-protests/a-79685584?maca=en-rss-en-world-4025-rdf",
+      "published": "2026-10-17T08:02:00+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "Sally Rooney's books will no longer be sold in U.K. after support for pro-Palestinian group",
+    "summary": "Irish author Sally Rooney's books will no longer be sold in the UK after she pledged royalties to a banned pro-Palestinian organization.",
+    "lang": "en",
+    "source": "NPR World",
+    "url": "https://www.npr.org/2026/10/16/nx-s1-6004838/sally-rooney-books-uk-palestinian-action-support",
+    "published": "2026-10-16T11:30:31+00:00",
+    "event_id": "3aa553f998bf",
+    "sources": [
+     {
+      "title": "Sally Rooney's books will no longer be sold in U.K. after support for pro-Palestinian group",
+      "summary": "Irish author Sally Rooney's books will no longer be sold in the UK after she pledged royalties to a banned pro-Palestinian organization.",
+      "lang": "en",
+      "source": "NPR World",
+      "url": "https://www.npr.org/2026/10/16/nx-s1-6004838/sally-rooney-books-uk-palestinian-action-support",
+      "published": "2026-10-16T11:30:31+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "Ukrainian President Zelenskyy speaks at EU summit amid spat with Donald Trump",
+    "summary": "Ukrainian President Zelenskyy addressed an EU summit reaffirming European support for Ukraine amid deteriorating US relations and budget concerns.",
+    "lang": "en",
+    "source": "Deutsche Welle World",
+    "url": "https://www.dw.com/en/ukrainian-president-zelenskyy-speaks-at-eu-summit-amid-spat-with-donald-trump/a-79684340?maca=en-rss-en-world-4025-rdf",
+    "published": "2026-10-16T19:42:00+00:00",
+    "event_id": "adb9ff1cde83",
+    "sources": [
+     {
+      "title": "Ukrainian President Zelenskyy speaks at EU summit amid spat with Donald Trump",
+      "summary": "Ukrainian President Zelenskyy addressed an EU summit reaffirming European support for Ukraine amid deteriorating US relations and budget concerns.",
+      "lang": "en",
+      "source": "Deutsche Welle World",
+      "url": "https://www.dw.com/en/ukrainian-president-zelenskyy-speaks-at-eu-summit-amid-spat-with-donald-trump/a-79684340?maca=en-rss-en-world-4025-rdf",
+      "published": "2026-10-16T19:42:00+00:00"
+     },
+     {
+      "title": "War in Ukraine: Europe stands united behind Kyiv but must revisit how to finance its support",
+      "summary": "Zelenskyy sought additional financial support from European allies at Brussels summit, citing Trump's 'betrayal' and budget shortfalls.",
+      "lang": "en",
+      "source": "Le Monde International",
+      "url": "https://www.lemonde.fr/en/international/article/2026/10/17/war-in-ukraine-europe-stands-united-behind-kyiv-but-must-revisit-how-to-finance-its-support_6758692_4.html",
+      "published": "2026-10-16T23:25:52+00:00"
+     }
+    ],
+    "status": "unchanged",
+    "change_summary": "",
+    "previous_date": "2026-10-16",
+    "previous_event_id": "adb9ff1cde83"
+   }
+  ],
+  "politica|asia": [
+   {
+    "title": "葉門戰火加劇 叛軍圍城塔伊茲直逼政府所在地亞丁",
+    "summary": "也门胡塞武装与沙特领导联军战火升级，青年运动已全面包围第三大城市塔伊茨威胁政府所在地亚丁。",
+    "lang": "zh",
+    "source": "中央社 CNA",
+    "url": "https://www.cna.com.tw/news/aopl/202610170107.aspx",
+    "published": "2026-10-17T08:00:46+00:00",
+    "event_id": "8ca71bcb71cd",
+    "sources": [
+     {
+      "title": "葉門戰火加劇 叛軍圍城塔伊茲直逼政府所在地亞丁",
+      "summary": "也门胡塞武装与沙特领导联军战火升级，青年运动已全面包围第三大城市塔伊茨威胁政府所在地亚丁。",
+      "lang": "zh",
+      "source": "中央社 CNA",
+      "url": "https://www.cna.com.tw/news/aopl/202610170107.aspx",
+      "published": "2026-10-17T08:00:46+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "Rubio’s Uzbekistan trip underlines Central Asia’s hunt for diverse partners",
+    "summary": "US Secretary Rubio's Uzbekistan trip demonstrates America's pragmatic approach to reassert influence in Central Asia.",
+    "lang": "en",
+    "source": "Al Jazeera English",
+    "url": "https://www.aljazeera.com/news-analysis/2026/10/17/rubios-uzbekistan-trip-underlines-central-asias-hunt-for-diverse-partners?traffic_source=rss",
+    "published": "2026-10-17T08:27:28+00:00",
+    "event_id": "07448408962b",
+    "sources": [
+     {
+      "title": "Rubio’s Uzbekistan trip underlines Central Asia’s hunt for diverse partners",
+      "summary": "US Secretary Rubio's Uzbekistan trip demonstrates America's pragmatic approach to reassert influence in Central Asia.",
+      "lang": "en",
+      "source": "Al Jazeera English",
+      "url": "https://www.aljazeera.com/news-analysis/2026/10/17/rubios-uzbekistan-trip-underlines-central-asias-hunt-for-diverse-partners?traffic_source=rss",
+      "published": "2026-10-17T08:27:28+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "Hijab ban at schools in Azerbaijan: What's behind the rare wave of protests?",
+    "summary": "Girls wearing headscarves faced school exclusion in Azerbaijan, triggering rare protests despite government rules not explicitly mentioning hijabs.",
+    "lang": "en",
+    "source": "Deutsche Welle World",
+    "url": "https://www.dw.com/en/hijab-ban-at-schools-in-azerbaijan-what-s-behind-the-rare-wave-of-protests/a-79683716?maca=en-rss-en-world-4025-rdf",
+    "published": "2026-10-16T17:46:00+00:00",
+    "event_id": "c7ed78f1aab1",
+    "sources": [
+     {
+      "title": "Hijab ban at schools in Azerbaijan: What's behind the rare wave of protests?",
+      "summary": "Girls wearing headscarves faced school exclusion in Azerbaijan, triggering rare protests despite government rules not explicitly mentioning hijabs.",
+      "lang": "en",
+      "source": "Deutsche Welle World",
+      "url": "https://www.dw.com/en/hijab-ban-at-schools-in-azerbaijan-what-s-behind-the-rare-wave-of-protests/a-79683716?maca=en-rss-en-world-4025-rdf",
+      "published": "2026-10-16T17:46:00+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   }
+  ],
+  "tecnologia|europa": [
+   {
+    "title": "Ubuntu 26.10全面改用Rust版核心工具，軟體更新驗證與企業登入也獲強化",
+    "summary": "Canonical发布Ubuntu 26.10，完成Rust核心工具迁移并强化软件验证与企业账号登入功能，提供9个月维护至2027年7月。",
+    "lang": "zh",
+    "source": "iThome 台灣",
+    "url": "https://www.ithome.com.tw/news/179750",
+    "published": "2026-10-16T06:10:16+00:00",
+    "event_id": "c7fa2716a805",
+    "sources": [
+     {
+      "title": "Ubuntu 26.10全面改用Rust版核心工具，軟體更新驗證與企業登入也獲強化",
+      "summary": "Canonical发布Ubuntu 26.10，完成Rust核心工具迁移并强化软件验证与企业账号登入功能，提供9个月维护至2027年7月。",
+      "lang": "zh",
+      "source": "iThome 台灣",
+      "url": "https://www.ithome.com.tw/news/179750",
+      "published": "2026-10-16T06:10:16+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   }
+  ]
+ }
+}
