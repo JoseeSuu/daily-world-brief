@@ -1,0 +1,974 @@
+{
+ "date": "2026-10-18",
+ "generated_at": "2026-10-18T09:47:49.579369+00:00",
+ "mode": "full",
+ "cost_usd": 0.0523,
+ "radar_cost_usd": 0.0044,
+ "events": {
+  "mode": "full",
+  "compared_with": "2026-10-17",
+  "articles": 41,
+  "uncompared_articles": 0,
+  "events": 39,
+  "cost_usd": 0.0205
+ },
+ "radar": {
+  "items": [
+   {
+    "id": "hn-50137950",
+    "source": "Hacker News",
+    "kind": "discussion",
+    "title": "Show HN: Sphinx – A hook that quizzes you on your AI's code before shipping",
+    "url": "https://sphinx-six-theta.vercel.app/",
+    "discussion_url": "https://news.ycombinator.com/item?id=50137950",
+    "published": "2026-10-18T04:33:49+00:00",
+    "lang": "en",
+    "excerpt": "FOSS, Basically it plugs into your existing coding agent workflow and every time you push to prod it'll throw up a questionnaire that checks if you understand how the code you're pushing works.",
+    "signal": {
+     "points": 125,
+     "comments": 32
+    },
+    "summary": "Sphinx is a FOSS hook that integrates with AI coding agent workflows and presents a questionnaire before production deployment to verify code understanding.",
+    "usefulness": "If building Python tools with agent assistance, could help confirm the generated code's logic before shipping to catch integration gaps.",
+    "to_verify": "Whether the questionnaire reliably identifies genuine misunderstandings versus superficial knowledge; what code patterns it covers."
+   }
+  ],
+  "mode": "full",
+  "failed_sources": []
+ },
+ "market": null,
+ "failed_sources": [],
+ "cells": {
+  "economia|europa": [
+   {
+    "title": "El auge de AfD amenaza la capacidad de Alemania para atraer la mano de obra que necesita",
+    "summary": "El auge de AfD en Alemania amenaza la capacidad del país para atraer trabajadores extranjeros. Los economistas advierten que las políticas antiinmigración empeorarán el déficit laboral.",
+    "lang": "es",
+    "source": "El País Economía",
+    "url": "https://elpais.com/internacional/2026-10-18/el-auge-de-afd-amenaza-la-capacidad-de-alemania-para-atraer-la-mano-de-obra-que-necesita.html",
+    "published": "2026-10-18T03:30:01+00:00",
+    "event_id": "d94b75118c5f",
+    "sources": [
+     {
+      "title": "El auge de AfD amenaza la capacidad de Alemania para atraer la mano de obra que necesita",
+      "summary": "El auge de AfD en Alemania amenaza la capacidad del país para atraer trabajadores extranjeros. Los economistas advierten que las políticas antiinmigración empeorarán el déficit laboral.",
+      "lang": "es",
+      "source": "El País Economía",
+      "url": "https://elpais.com/internacional/2026-10-18/el-auge-de-afd-amenaza-la-capacidad-de-alemania-para-atraer-la-mano-de-obra-que-necesita.html",
+      "published": "2026-10-18T03:30:01+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "Nuevas reglas bancarias en la UE: ¿incentivarán las fusiones?",
+    "summary": "Nuevas reglas bancarias en la UE podrían incentivar fusiones transfronterizas. Las operaciones de este tipo escasean desde la crisis de deuda soberana hace 15 años.",
+    "lang": "es",
+    "source": "El País Economía",
+    "url": "https://elpais.com/economia/negocios/2026-10-18/nuevas-reglas-bancarias-en-la-ue-incentivaran-las-fusiones.html",
+    "published": "2026-10-18T03:30:00+00:00",
+    "event_id": "4d32df5f0c70",
+    "sources": [
+     {
+      "title": "Nuevas reglas bancarias en la UE: ¿incentivarán las fusiones?",
+      "summary": "Nuevas reglas bancarias en la UE podrían incentivar fusiones transfronterizas. Las operaciones de este tipo escasean desde la crisis de deuda soberana hace 15 años.",
+      "lang": "es",
+      "source": "El País Economía",
+      "url": "https://elpais.com/economia/negocios/2026-10-18/nuevas-reglas-bancarias-en-la-ue-incentivaran-las-fusiones.html",
+      "published": "2026-10-18T03:30:00+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "La inflación que se diluye y la que persiste",
+    "summary": "La inflación se diluye parcialmente en la UE, aunque persisten presiones en ciertos sectores. No se observan aún los temidos efectos de segunda ronda del encarecimiento energético.",
+    "lang": "es",
+    "source": "El País Economía",
+    "url": "https://elpais.com/economia/negocios/2026-10-18/la-inflacion-que-se-diluye-y-la-que-persiste.html",
+    "published": "2026-10-18T03:40:00+00:00",
+    "event_id": "6c1f09af58f9",
+    "sources": [
+     {
+      "title": "La inflación que se diluye y la que persiste",
+      "summary": "La inflación se diluye parcialmente en la UE, aunque persisten presiones en ciertos sectores. No se observan aún los temidos efectos de segunda ronda del encarecimiento energético.",
+      "lang": "es",
+      "source": "El País Economía",
+      "url": "https://elpais.com/economia/negocios/2026-10-18/la-inflacion-que-se-diluye-y-la-que-persiste.html",
+      "published": "2026-10-18T03:40:00+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "UK Inflation Can Seal the Deal on the BOE’s November Rate Hike",
+    "summary": "UK inflation rising to a nine-month high this week will likely support the Bank of England's November rate hike decision. The data signals continued price pressures in the economy.",
+    "lang": "en",
+    "source": "Bloomberg Economics",
+    "url": "https://www.bloomberg.com/news/articles/2026-10-17/uk-inflation-can-seal-the-deal-on-the-boe-s-november-rate-hike",
+    "published": "2026-10-17T20:00:00+00:00",
+    "event_id": "ca3075ef18db",
+    "sources": [
+     {
+      "title": "UK Inflation Can Seal the Deal on the BOE’s November Rate Hike",
+      "summary": "UK inflation rising to a nine-month high this week will likely support the Bank of England's November rate hike decision. The data signals continued price pressures in the economy.",
+      "lang": "en",
+      "source": "Bloomberg Economics",
+      "url": "https://www.bloomberg.com/news/articles/2026-10-17/uk-inflation-can-seal-the-deal-on-the-boe-s-november-rate-hike",
+      "published": "2026-10-17T20:00:00+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   }
+  ],
+  "economia|america": [
+   {
+    "title": "Latinoamérica: se requiere atender lo urgente, pero también lo importante",
+    "summary": "Latinoamérica enfrenta presiones inflacionistas que requieren atención urgente. Sin embargo, los desequilibrios estructurales de la región también demandan soluciones a largo plazo.",
+    "lang": "es",
+    "source": "El País Economía",
+    "url": "https://elpais.com/economia/negocios/2026-10-18/latinoamerica-se-requiere-atender-lo-urgente-pero-tambien-lo-importante.html",
+    "published": "2026-10-18T03:30:00+00:00",
+    "event_id": "170b5eb02dc0",
+    "sources": [
+     {
+      "title": "Latinoamérica: se requiere atender lo urgente, pero también lo importante",
+      "summary": "Latinoamérica enfrenta presiones inflacionistas que requieren atención urgente. Sin embargo, los desequilibrios estructurales de la región también demandan soluciones a largo plazo.",
+      "lang": "es",
+      "source": "El País Economía",
+      "url": "https://elpais.com/economia/negocios/2026-10-18/latinoamerica-se-requiere-atender-lo-urgente-pero-tambien-lo-importante.html",
+      "published": "2026-10-18T03:30:00+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "America’s $10tn AI infrastructure boom is starting to fray",
+    "summary": "America's $10 trillion AI infrastructure investment is encountering economic challenges from the physical realities of construction and operation. The ambitious bet on AI faces unforeseen practical obstacles.",
+    "lang": "en",
+    "source": "Financial Times",
+    "url": "https://www.ft.com/content/9ea5a37d-15c9-4d5b-94d6-719048c9cd3c?syn-25a6b1a6=1",
+    "published": "2026-10-18T04:00:18+00:00",
+    "event_id": "ffb7b8294fe9",
+    "sources": [
+     {
+      "title": "America’s $10tn AI infrastructure boom is starting to fray",
+      "summary": "America's $10 trillion AI infrastructure investment is encountering economic challenges from the physical realities of construction and operation. The ambitious bet on AI faces unforeseen practical obstacles.",
+      "lang": "en",
+      "source": "Financial Times",
+      "url": "https://www.ft.com/content/9ea5a37d-15c9-4d5b-94d6-719048c9cd3c?syn-25a6b1a6=1",
+      "published": "2026-10-18T04:00:18+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "US Interest Costs Hit Record $1 Trillion, Risking Debt Snowball",
+    "summary": "US government debt interest costs reached a record $1 trillion in fiscal 2026, consuming growing federal revenue. Rising interest burdens risk creating a debt snowball effect.",
+    "lang": "en",
+    "source": "Bloomberg Economics",
+    "url": "https://www.bloomberg.com/news/articles/2026-10-17/us-interest-costs-hit-record-1-trillion-risking-debt-snowball",
+    "published": "2026-10-17T12:00:00+00:00",
+    "event_id": "969e230a9ab4",
+    "sources": [
+     {
+      "title": "US Interest Costs Hit Record $1 Trillion, Risking Debt Snowball",
+      "summary": "US government debt interest costs reached a record $1 trillion in fiscal 2026, consuming growing federal revenue. Rising interest burdens risk creating a debt snowball effect.",
+      "lang": "en",
+      "source": "Bloomberg Economics",
+      "url": "https://www.bloomberg.com/news/articles/2026-10-17/us-interest-costs-hit-record-1-trillion-risking-debt-snowball",
+      "published": "2026-10-17T12:00:00+00:00"
+     }
+    ],
+    "status": "updated",
+    "change_summary": "US Interest Costs Hit Record $1 Trillion, Risking Debt Snowball",
+    "previous_date": "2026-10-17",
+    "previous_event_id": "969e230a9ab4"
+   },
+   {
+    "title": "Venezuela Sees Nearly $76 Billion Oil Investment Over Five Years",
+    "summary": "Venezuela expects nearly $76 billion in oil and gas sector investment over the next five years, Acting President Rodríguez announced. The country seeks foreign capital to revive its energy industry.",
+    "lang": "en",
+    "source": "Bloomberg Markets",
+    "url": "https://www.bloomberg.com/news/articles/2026-10-18/venezuela-sees-nearly-76-billion-oil-investment-over-five-years",
+    "published": "2026-10-18T00:48:28+00:00",
+    "event_id": "752b128da20b",
+    "sources": [
+     {
+      "title": "Venezuela Sees Nearly $76 Billion Oil Investment Over Five Years",
+      "summary": "Venezuela expects nearly $76 billion in oil and gas sector investment over the next five years, Acting President Rodríguez announced. The country seeks foreign capital to revive its energy industry.",
+      "lang": "en",
+      "source": "Bloomberg Markets",
+      "url": "https://www.bloomberg.com/news/articles/2026-10-18/venezuela-sees-nearly-76-billion-oil-investment-over-five-years",
+      "published": "2026-10-18T00:48:28+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "Fed 主席華許：AI 是我一生中影響最深遠經濟變革",
+    "summary": "美联储主席华许表示人工智能是他一生中影响最深远的经济变革。该评估凸显了AI对全球经济的重大影响。",
+    "lang": "zh",
+    "source": "科技新報 TechNews",
+    "url": "https://technews.tw/2026/10/18/kevin-warsh-calls-ai-the-most-consequential-economic-shift/",
+    "published": "2026-10-18T05:00:13+00:00",
+    "event_id": "426db97c3d95",
+    "sources": [
+     {
+      "title": "Fed 主席華許：AI 是我一生中影響最深遠經濟變革",
+      "summary": "美联储主席华许表示人工智能是他一生中影响最深远的经济变革。该评估凸显了AI对全球经济的重大影响。",
+      "lang": "zh",
+      "source": "科技新報 TechNews",
+      "url": "https://technews.tw/2026/10/18/kevin-warsh-calls-ai-the-most-consequential-economic-shift/",
+      "published": "2026-10-18T05:00:13+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   }
+  ],
+  "tecnologia|america": [
+   {
+    "title": "\"Ya está resuelto\". Meta admite un error en sus gafas inteligentes que grababa conversaciones sin permiso",
+    "summary": "Meta admitió un error en sus gafas Ray-Ban que grababa conversaciones sin permiso. La compañía afirmó que el problema ya está resuelto tras reportes de usuarios.",
+    "lang": "es",
+    "source": "Xataka",
+    "url": "https://www.xataka.com/privacidad/esta-resuelto-meta-admite-error-sus-gafas-inteligentes-que-grababa-conversaciones-permiso",
+    "published": "2026-10-18T07:30:00+00:00",
+    "event_id": "704e1a1268a7",
+    "sources": [
+     {
+      "title": "\"Ya está resuelto\". Meta admite un error en sus gafas inteligentes que grababa conversaciones sin permiso",
+      "summary": "Meta admitió un error en sus gafas Ray-Ban que grababa conversaciones sin permiso. La compañía afirmó que el problema ya está resuelto tras reportes de usuarios.",
+      "lang": "es",
+      "source": "Xataka",
+      "url": "https://www.xataka.com/privacidad/esta-resuelto-meta-admite-error-sus-gafas-inteligentes-que-grababa-conversaciones-permiso",
+      "published": "2026-10-18T07:30:00+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "Meta removes language that may have allowed it to scrape news sites",
+    "summary": "Meta updated its terms of service after backlash to remove language suggesting it could scrape news sites for AI training. The change addresses concerns about unauthorized content use.",
+    "lang": "en",
+    "source": "The Verge",
+    "url": "https://www.theverge.com/tech/1013409/meta-removes-language-that-may-have-allowed-it-to-scrape-news-sites",
+    "published": "2026-10-17T15:04:36+00:00",
+    "event_id": "ae8741fad803",
+    "sources": [
+     {
+      "title": "Meta removes language that may have allowed it to scrape news sites",
+      "summary": "Meta updated its terms of service after backlash to remove language suggesting it could scrape news sites for AI training. The change addresses concerns about unauthorized content use.",
+      "lang": "en",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/tech/1013409/meta-removes-language-that-may-have-allowed-it-to-scrape-news-sites",
+      "published": "2026-10-17T15:04:36+00:00"
+     }
+    ],
+    "status": "updated",
+    "change_summary": "Meta removes language that may have allowed it to scrape news sites",
+    "previous_date": "2026-10-17",
+    "previous_event_id": "ae8741fad803"
+   },
+   {
+    "title": "SpaceX’s ambitious, expensive gamble to replace AT&T, T-Mobile, and Verizon",
+    "summary": "SpaceX announced an ambitious plan to compete with AT&T, T-Mobile, and Verizon in telecommunications. The venture represents a costly gamble to enter the mobile carrier market.",
+    "lang": "en",
+    "source": "The Verge",
+    "url": "https://www.theverge.com/podcast/1012416/spacex-starlink-elon-musk-cell-carrier-wireless-mobile-att-verizon-t-mobile",
+    "published": "2026-10-17T14:00:00+00:00",
+    "event_id": "26c06698b2a0",
+    "sources": [
+     {
+      "title": "SpaceX’s ambitious, expensive gamble to replace AT&T, T-Mobile, and Verizon",
+      "summary": "SpaceX announced an ambitious plan to compete with AT&T, T-Mobile, and Verizon in telecommunications. The venture represents a costly gamble to enter the mobile carrier market.",
+      "lang": "en",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/podcast/1012416/spacex-starlink-elon-musk-cell-carrier-wireless-mobile-att-verizon-t-mobile",
+      "published": "2026-10-17T14:00:00+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "Websites are closing their doors to AI agents",
+    "summary": "Websites are increasingly blocking autonomous AI agents from accessing their content as the technology becomes widespread. Sites resist OpenAI, Meta, Google, and other AI companies' agents from scraping data.",
+    "lang": "en",
+    "source": "The Verge",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/1013195/ai-agents-blocked-web",
+    "published": "2026-10-17T13:00:00+00:00",
+    "event_id": "79619743255e",
+    "sources": [
+     {
+      "title": "Websites are closing their doors to AI agents",
+      "summary": "Websites are increasingly blocking autonomous AI agents from accessing their content as the technology becomes widespread. Sites resist OpenAI, Meta, Google, and other AI companies' agents from scraping data.",
+      "lang": "en",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1013195/ai-agents-blocked-web",
+      "published": "2026-10-17T13:00:00+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "Encryption Is Getting Squeezed From All Sides",
+    "summary": "Encryption faces mounting threats globally as Canada advances surveillance legislation targeting encrypted communications. The security measure represents one of several concerning restrictions on encryption technology.",
+    "lang": "en",
+    "source": "Wired",
+    "url": "https://www.wired.com/story/kernel-panic-encryption-is-getting-squeezed-from-all-sides/",
+    "published": "2026-10-17T12:00:00+00:00",
+    "event_id": "101afedc1d0a",
+    "sources": [
+     {
+      "title": "Encryption Is Getting Squeezed From All Sides",
+      "summary": "Encryption faces mounting threats globally as Canada advances surveillance legislation targeting encrypted communications. The security measure represents one of several concerning restrictions on encryption technology.",
+      "lang": "en",
+      "source": "Wired",
+      "url": "https://www.wired.com/story/kernel-panic-encryption-is-getting-squeezed-from-all-sides/",
+      "published": "2026-10-17T12:00:00+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "優達科技於 2026 OCP 全球高峰會展示 1.6T AI 網路架構，動態實測液冷平台驗證散熱可行性",
+    "summary": "优达科技在2026年OCP全球高峰会展示1.6T AI网络架构和液冷平台散热方案。该验证证明了动态液冷技术的可行性。",
+    "lang": "zh",
+    "source": "科技新報 TechNews",
+    "url": "https://technews.tw/2026/10/18/ufispace-s9331-64ho3l/",
+    "published": "2026-10-18T06:00:29+00:00",
+    "event_id": "ae4d673ce36e",
+    "sources": [
+     {
+      "title": "優達科技於 2026 OCP 全球高峰會展示 1.6T AI 網路架構，動態實測液冷平台驗證散熱可行性",
+      "summary": "优达科技在2026年OCP全球高峰会展示1.6T AI网络架构和液冷平台散热方案。该验证证明了动态液冷技术的可行性。",
+      "lang": "zh",
+      "source": "科技新報 TechNews",
+      "url": "https://technews.tw/2026/10/18/ufispace-s9331-64ho3l/",
+      "published": "2026-10-18T06:00:29+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   }
+  ],
+  "tecnologia|europa": [
+   {
+    "title": "Los paneles solares pueden hacer algo inesperado cuando se instalan sobre cultivos: proteger a los agricultores del calor",
+    "summary": "Los paneles solares instalados sobre cultivos protegen a agricultores del calor excesivo. Esta práctica, conocida como agrovoltaica, combina energía renovable con producción agrícola.",
+    "lang": "es",
+    "source": "Xataka",
+    "url": "https://www.xataka.com/energia/paneles-solares-pueden-hacer-algo-inesperado-cuando-se-instalan-cultivos-proteger-a-agricultores-calor",
+    "published": "2026-10-18T07:01:34+00:00",
+    "event_id": "577a22516cab",
+    "sources": [
+     {
+      "title": "Los paneles solares pueden hacer algo inesperado cuando se instalan sobre cultivos: proteger a los agricultores del calor",
+      "summary": "Los paneles solares instalados sobre cultivos protegen a agricultores del calor excesivo. Esta práctica, conocida como agrovoltaica, combina energía renovable con producción agrícola.",
+      "lang": "es",
+      "source": "Xataka",
+      "url": "https://www.xataka.com/energia/paneles-solares-pueden-hacer-algo-inesperado-cuando-se-instalan-cultivos-proteger-a-agricultores-calor",
+      "published": "2026-10-18T07:01:34+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "Las células zombis están detrás del envejecimiento: así es como los científicos pretenden eliminarlas",
+    "summary": "Las células senescentes o zombis contribuyen significativamente al envejecimiento humano. Los científicos buscan formas de eliminarlas para ralentizar el proceso de envejecimiento.",
+    "lang": "es",
+    "source": "Xataka",
+    "url": "https://www.xataka.com/medicina-y-salud/celulas-zombis-estan-detras-envejecimiento-asi-como-cientificos-pretenden-eliminarlas",
+    "published": "2026-10-17T18:00:04+00:00",
+    "event_id": "2d78a769f04e",
+    "sources": [
+     {
+      "title": "Las células zombis están detrás del envejecimiento: así es como los científicos pretenden eliminarlas",
+      "summary": "Las células senescentes o zombis contribuyen significativamente al envejecimiento humano. Los científicos buscan formas de eliminarlas para ralentizar el proceso de envejecimiento.",
+      "lang": "es",
+      "source": "Xataka",
+      "url": "https://www.xataka.com/medicina-y-salud/celulas-zombis-estan-detras-envejecimiento-asi-como-cientificos-pretenden-eliminarlas",
+      "published": "2026-10-17T18:00:04+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "德國放棄直接採購 MQ-28，無人僚機競爭重新洗牌",
+    "summary": "德国国防部正式通知波音不再直接采购MQ-28幽灵蝙蝠无人僚机。该决定将重新调整无人机竞争格局。",
+    "lang": "zh",
+    "source": "科技新報 TechNews",
+    "url": "https://technews.tw/2026/10/18/germany-canceled-mq-28-purchase-and-reconsider-other-options/",
+    "published": "2026-10-18T08:56:14+00:00",
+    "event_id": "5c1bbc686f44",
+    "sources": [
+     {
+      "title": "德國放棄直接採購 MQ-28，無人僚機競爭重新洗牌",
+      "summary": "德国国防部正式通知波音不再直接采购MQ-28幽灵蝙蝠无人僚机。该决定将重新调整无人机竞争格局。",
+      "lang": "zh",
+      "source": "科技新報 TechNews",
+      "url": "https://technews.tw/2026/10/18/germany-canceled-mq-28-purchase-and-reconsider-other-options/",
+      "published": "2026-10-18T08:56:14+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   }
+  ],
+  "politica|asia": [
+   {
+    "title": "The US-China grand bargain remains out of reach",
+    "summary": "Negotiations between the US and China for a comprehensive agreement remain difficult to achieve. The two powers continue to struggle over fundamental strategic differences.",
+    "lang": "en",
+    "source": "Nikkei Asia",
+    "url": "https://asia.nikkei.com/spotlight/comment/the-us-china-grand-bargain-remains-out-of-reach",
+    "published": null,
+    "event_id": "a9e8e1e50cb6",
+    "sources": [
+     {
+      "title": "The US-China grand bargain remains out of reach",
+      "summary": "Negotiations between the US and China for a comprehensive agreement remain difficult to achieve. The two powers continue to struggle over fundamental strategic differences.",
+      "lang": "en",
+      "source": "Nikkei Asia",
+      "url": "https://asia.nikkei.com/spotlight/comment/the-us-china-grand-bargain-remains-out-of-reach",
+      "published": null
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "US and China must ensure AI dialogue is more than just hot air",
+    "summary": "The US and China must move beyond rhetorical exchanges on AI dialogue to produce concrete results. Substantive cooperation on artificial intelligence governance remains elusive.",
+    "lang": "en",
+    "source": "Nikkei Asia",
+    "url": "https://asia.nikkei.com/opinion/us-and-china-must-ensure-ai-dialogue-is-more-than-just-hot-air",
+    "published": null,
+    "event_id": "80cf36f2e8d2",
+    "sources": [
+     {
+      "title": "US and China must ensure AI dialogue is more than just hot air",
+      "summary": "The US and China must move beyond rhetorical exchanges on AI dialogue to produce concrete results. Substantive cooperation on artificial intelligence governance remains elusive.",
+      "lang": "en",
+      "source": "Nikkei Asia",
+      "url": "https://asia.nikkei.com/opinion/us-and-china-must-ensure-ai-dialogue-is-more-than-just-hot-air",
+      "published": null
+     }
+    ],
+    "status": "updated",
+    "change_summary": "US and China must ensure AI dialogue is more than just hot air",
+    "previous_date": "2026-10-17",
+    "previous_event_id": "80cf36f2e8d2"
+   },
+   {
+    "title": "China slams Japan’s Takaichi over Yasukuni ritual offering, warns of ‘remilitarisation’",
+    "summary": "China condemned Japanese Prime Minister Sanae Takaichi for sending an offering to Yasukuni Shrine, warning of remilitarization. The ritual offering heightens tensions between the two nations.",
+    "lang": "en",
+    "source": "South China Morning Post (China)",
+    "url": "https://www.scmp.com/news/china/diplomacy/article/3371294/china-slams-japans-takaichi-over-yasukuni-ritual-offering-warns-remilitarisation?utm_source=rss_feed",
+    "published": "2026-10-18T07:58:01+00:00",
+    "event_id": "f8b0258fd371",
+    "sources": [
+     {
+      "title": "China slams Japan’s Takaichi over Yasukuni ritual offering, warns of ‘remilitarisation’",
+      "summary": "China condemned Japanese Prime Minister Sanae Takaichi for sending an offering to Yasukuni Shrine, warning of remilitarization. The ritual offering heightens tensions between the two nations.",
+      "lang": "en",
+      "source": "South China Morning Post (China)",
+      "url": "https://www.scmp.com/news/china/diplomacy/article/3371294/china-slams-japans-takaichi-over-yasukuni-ritual-offering-warns-remilitarisation?utm_source=rss_feed",
+      "published": "2026-10-18T07:58:01+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "China moves to cement ties with Uzbekistan amid tussle with US for Central Asian influence",
+    "summary": "Chinese Premier Li Qiang called for deeper cooperation with Uzbekistan in minerals and AI amid US-China competition for Central Asian influence. Beijing seeks to strengthen regional partnerships.",
+    "lang": "en",
+    "source": "South China Morning Post (China)",
+    "url": "https://www.scmp.com/news/china/diplomacy/article/3371285/china-moves-cement-ties-uzbekistan-amid-tussle-us-central-asian-influence?utm_source=rss_feed",
+    "published": "2026-10-18T05:12:38+00:00",
+    "event_id": "07448408962b",
+    "sources": [
+     {
+      "title": "China moves to cement ties with Uzbekistan amid tussle with US for Central Asian influence",
+      "summary": "Chinese Premier Li Qiang called for deeper cooperation with Uzbekistan in minerals and AI amid US-China competition for Central Asian influence. Beijing seeks to strengthen regional partnerships.",
+      "lang": "en",
+      "source": "South China Morning Post (China)",
+      "url": "https://www.scmp.com/news/china/diplomacy/article/3371285/china-moves-cement-ties-uzbekistan-amid-tussle-us-central-asian-influence?utm_source=rss_feed",
+      "published": "2026-10-18T05:12:38+00:00"
+     }
+    ],
+    "status": "updated",
+    "change_summary": "China moves to cement ties with Uzbekistan amid tussle with US for Central Asian influence",
+    "previous_date": "2026-10-17",
+    "previous_event_id": "07448408962b"
+   },
+   {
+    "title": "Rubio warns of West Bank 'crisis' as settlers attack diplomats and a French mayor",
+    "summary": "US Secretary of State Rubio warned of a brewing West Bank crisis after settlers attacked diplomats and a French mayor. An American photojournalist was injured in the brutal assault.",
+    "lang": "en",
+    "source": "Le Monde International",
+    "url": "https://www.lemonde.fr/en/international/article/2026/10/18/israeli-settlers-attack-european-diplomats-beat-french-mayor_6758721_4.html",
+    "published": "2026-10-18T02:30:11+00:00",
+    "event_id": "3815191f817e",
+    "sources": [
+     {
+      "title": "Rubio warns of West Bank 'crisis' as settlers attack diplomats and a French mayor",
+      "summary": "US Secretary of State Rubio warned of a brewing West Bank crisis after settlers attacked diplomats and a French mayor. An American photojournalist was injured in the brutal assault.",
+      "lang": "en",
+      "source": "Le Monde International",
+      "url": "https://www.lemonde.fr/en/international/article/2026/10/18/israeli-settlers-attack-european-diplomats-beat-french-mayor_6758721_4.html",
+      "published": "2026-10-18T02:30:11+00:00"
+     },
+     {
+      "title": "Israeli settlers attack European diplomatic cars in West Bank and beat French mayor, say witnesses",
+      "summary": "Israeli settlers attacked diplomatic vehicles from France, Belgium, and Poland and beat a French mayor in the West Bank. The assault occurred during a visit to the largely Christian village of Taybeh.",
+      "lang": "en",
+      "source": "Le Monde International",
+      "url": "https://www.lemonde.fr/en/international/article/2026/10/17/israeli-settlers-attack-european-diplomatic-cars-in-west-bank-beat-french-mayor-say-witnesses_6758711_4.html",
+      "published": "2026-10-17T15:56:46+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "印度发生严重踩踏事件 已有多人伤亡",
+    "summary": "印度加尔各答发生严重踩踏事件，至少17人死亡。该事故发生在一次印度教节庆活动期间，多人受伤。",
+    "lang": "zh",
+    "source": "德國之聲中文",
+    "url": "https://www.dw.com/zh/印度发生严重踩踏事件-已有多人伤亡/a-79691690?maca=chi-rss-chi-all-1127-rdf",
+    "published": "2026-10-18T08:41:00+00:00",
+    "event_id": "f67769aa82f1",
+    "sources": [
+     {
+      "title": "印度发生严重踩踏事件 已有多人伤亡",
+      "summary": "印度加尔各答发生严重踩踏事件，至少17人死亡。该事故发生在一次印度教节庆活动期间，多人受伤。",
+      "lang": "zh",
+      "source": "德國之聲中文",
+      "url": "https://www.dw.com/zh/印度发生严重踩踏事件-已有多人伤亡/a-79691690?maca=chi-rss-chi-all-1127-rdf",
+      "published": "2026-10-18T08:41:00+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   }
+  ],
+  "economia|asia": [
+   {
+    "title": "AI, climate and private capital reveal Asia's diverging fortunes",
+    "summary": "Asia's economic prospects diverge significantly based on AI adoption, climate adaptation, and access to private capital. Countries face uneven opportunities for growth and development.",
+    "lang": "en",
+    "source": "Nikkei Asia",
+    "url": "https://asia.nikkei.com/economy/ai-climate-and-private-capital-reveal-asia-s-diverging-fortunes",
+    "published": null,
+    "event_id": "4f8f9880fa0e",
+    "sources": [
+     {
+      "title": "AI, climate and private capital reveal Asia's diverging fortunes",
+      "summary": "Asia's economic prospects diverge significantly based on AI adoption, climate adaptation, and access to private capital. Countries face uneven opportunities for growth and development.",
+      "lang": "en",
+      "source": "Nikkei Asia",
+      "url": "https://asia.nikkei.com/economy/ai-climate-and-private-capital-reveal-asia-s-diverging-fortunes",
+      "published": null
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "Toyota to build next-gen Corolla in China from 2028",
+    "summary": "Toyota plans to manufacture the next-generation Corolla in China starting in 2028. The move signals continued investment in the world's largest automotive market.",
+    "lang": "en",
+    "source": "Nikkei Asia",
+    "url": "https://asia.nikkei.com/business/automobiles/toyota-to-build-next-gen-corolla-in-china-from-2028",
+    "published": null,
+    "event_id": "2decb3b1e098",
+    "sources": [
+     {
+      "title": "Toyota to build next-gen Corolla in China from 2028",
+      "summary": "Toyota plans to manufacture the next-generation Corolla in China starting in 2028. The move signals continued investment in the world's largest automotive market.",
+      "lang": "en",
+      "source": "Nikkei Asia",
+      "url": "https://asia.nikkei.com/business/automobiles/toyota-to-build-next-gen-corolla-in-china-from-2028",
+      "published": null
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "Japan set to move forward with Bangladesh's first economic pact",
+    "summary": "Japan is advancing negotiations for its first economic partnership agreement with Bangladesh. The pact aims to strengthen bilateral trade and development cooperation.",
+    "lang": "en",
+    "source": "Nikkei Asia",
+    "url": "https://asia.nikkei.com/economy/trade/japan-set-to-move-forward-with-bangladesh-s-first-economic-pact",
+    "published": null,
+    "event_id": "67ff0c211ef4",
+    "sources": [
+     {
+      "title": "Japan set to move forward with Bangladesh's first economic pact",
+      "summary": "Japan is advancing negotiations for its first economic partnership agreement with Bangladesh. The pact aims to strengthen bilateral trade and development cooperation.",
+      "lang": "en",
+      "source": "Nikkei Asia",
+      "url": "https://asia.nikkei.com/economy/trade/japan-set-to-move-forward-with-bangladesh-s-first-economic-pact",
+      "published": null
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   }
+  ],
+  "politica|europa": [
+   {
+    "title": "Europe must liberate Belgium from its huge Russian assets risk",
+    "summary": "Belgium holds hundreds of billions in blocked Russian assets through Euroclear, creating risk if the US attempts seizure. Europe must address this potential conflict over frozen funds.",
+    "lang": "en",
+    "source": "Financial Times",
+    "url": "https://www.ft.com/content/c3d73770-4d91-4bd0-bf6d-7f9375e2b938?syn-25a6b1a6=1",
+    "published": "2026-10-18T04:00:09+00:00",
+    "event_id": "99662c585a67",
+    "sources": [
+     {
+      "title": "Europe must liberate Belgium from its huge Russian assets risk",
+      "summary": "Belgium holds hundreds of billions in blocked Russian assets through Euroclear, creating risk if the US attempts seizure. Europe must address this potential conflict over frozen funds.",
+      "lang": "en",
+      "source": "Financial Times",
+      "url": "https://www.ft.com/content/c3d73770-4d91-4bd0-bf6d-7f9375e2b938?syn-25a6b1a6=1",
+      "published": "2026-10-18T04:00:09+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "Violent clashes, looting and buildings ablaze in France as more than 1,200 arrested after protests",
+    "summary": "More than 1,200 arrests occurred as violent clashes, looting, and fires erupted across French cities during cost-of-living protests. Over half a million people participated in nationwide demonstrations.",
+    "lang": "en",
+    "source": "BBC World",
+    "url": "https://www.bbc.co.uk/news/articles/c6d937wedj7jo?at_medium=RSS&at_campaign=rss",
+    "published": "2026-10-18T05:56:20+00:00",
+    "event_id": "52c4a7c09806",
+    "sources": [
+     {
+      "title": "Violent clashes, looting and buildings ablaze in France as more than 1,200 arrested after protests",
+      "summary": "More than 1,200 arrests occurred as violent clashes, looting, and fires erupted across French cities during cost-of-living protests. Over half a million people participated in nationwide demonstrations.",
+      "lang": "en",
+      "source": "BBC World",
+      "url": "https://www.bbc.co.uk/news/articles/c6d937wedj7jo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-18T05:56:20+00:00"
+     }
+    ],
+    "status": "updated",
+    "change_summary": "Violent clashes, looting and buildings ablaze in France as more than 1,200 arrested after protests",
+    "previous_date": "2026-10-17",
+    "previous_event_id": "52c4a7c09806"
+   },
+   {
+    "title": "Russia wants blackout in Ukraine as winter comes — Zelenskyy",
+    "summary": "Ukrainian President Zelenskyy accused Russia of attempting to cut electricity and heating to civilians ahead of winter. He criticized the US president's waiver of new sanctions on Moscow.",
+    "lang": "en",
+    "source": "Deutsche Welle World",
+    "url": "https://www.dw.com/en/russia-wants-blackout-in-ukraine-as-winter-comes-zelenskyy/a-79686703?maca=en-rss-en-world-4025-rdf",
+    "published": "2026-10-17T11:34:00+00:00",
+    "event_id": "4927dc620d15",
+    "sources": [
+     {
+      "title": "Russia wants blackout in Ukraine as winter comes — Zelenskyy",
+      "summary": "Ukrainian President Zelenskyy accused Russia of attempting to cut electricity and heating to civilians ahead of winter. He criticized the US president's waiver of new sanctions on Moscow.",
+      "lang": "en",
+      "source": "Deutsche Welle World",
+      "url": "https://www.dw.com/en/russia-wants-blackout-in-ukraine-as-winter-comes-zelenskyy/a-79686703?maca=en-rss-en-world-4025-rdf",
+      "published": "2026-10-17T11:34:00+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "Ukraine's increasingly powerful intelligence services worry its political leaders",
+    "summary": "Ukraine's intelligence services have grown significantly more powerful during the war, raising concerns among political leaders about oversight. Inter-agency rivalries have undermined coordination and civilian control.",
+    "lang": "en",
+    "source": "Le Monde International",
+    "url": "https://www.lemonde.fr/en/international/article/2026/10/17/ukraine-s-increasingly-powerful-intelligence-services-worry-its-political-leaders_6758715_4.html",
+    "published": "2026-10-17T18:30:07+00:00",
+    "event_id": "36c3c65519d4",
+    "sources": [
+     {
+      "title": "Ukraine's increasingly powerful intelligence services worry its political leaders",
+      "summary": "Ukraine's intelligence services have grown significantly more powerful during the war, raising concerns among political leaders about oversight. Inter-agency rivalries have undermined coordination and civilian control.",
+      "lang": "en",
+      "source": "Le Monde International",
+      "url": "https://www.lemonde.fr/en/international/article/2026/10/17/ukraine-s-increasingly-powerful-intelligence-services-worry-its-political-leaders_6758715_4.html",
+      "published": "2026-10-17T18:30:07+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "Trump waives several Russia sanctions as row with Zelensky intensifies",
+    "summary": "President Trump waived several Russia sanctions passed by Congress, citing national security concerns. The temporary suspension has intensified the dispute with Zelenskyy over Russia policy.",
+    "lang": "en",
+    "source": "BBC World",
+    "url": "https://www.bbc.co.uk/news/articles/cxr5yvzv7rp0o?at_medium=RSS&at_campaign=rss",
+    "published": "2026-10-18T01:10:25+00:00",
+    "event_id": "ce48ada2276c",
+    "sources": [
+     {
+      "title": "Trump waives several Russia sanctions as row with Zelensky intensifies",
+      "summary": "President Trump waived several Russia sanctions passed by Congress, citing national security concerns. The temporary suspension has intensified the dispute with Zelenskyy over Russia policy.",
+      "lang": "en",
+      "source": "BBC World",
+      "url": "https://www.bbc.co.uk/news/articles/cxr5yvzv7rp0o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-18T01:10:25+00:00"
+     }
+    ],
+    "status": "unchanged",
+    "change_summary": "",
+    "previous_date": "2026-10-17",
+    "previous_event_id": "ce48ada2276c"
+   },
+   {
+    "title": "特朗普签署豁免令 暂缓对俄多项制裁、限制及关税",
+    "summary": "特朗普以国家利益为由签署豁免令，暂缓国会新一轮对俄制裁和关税措施。此举正值美俄达成柴油交易之际，引发乌克兰和欧洲盟友的批评。",
+    "lang": "zh",
+    "source": "德國之聲中文",
+    "url": "https://www.dw.com/zh/特朗普签署豁免令-暂缓对俄多项制裁、限制及关税/a-79686658?maca=chi-rss-chi-all-1127-rdf",
+    "published": "2026-10-17T09:56:00+00:00",
+    "event_id": "ac3be4ec2bfd",
+    "sources": [
+     {
+      "title": "特朗普签署豁免令 暂缓对俄多项制裁、限制及关税",
+      "summary": "特朗普以国家利益为由签署豁免令，暂缓国会新一轮对俄制裁和关税措施。此举正值美俄达成柴油交易之际，引发乌克兰和欧洲盟友的批评。",
+      "lang": "zh",
+      "source": "德國之聲中文",
+      "url": "https://www.dw.com/zh/特朗普签署豁免令-暂缓对俄多项制裁、限制及关税/a-79686658?maca=chi-rss-chi-all-1127-rdf",
+      "published": "2026-10-17T09:56:00+00:00"
+     }
+    ],
+    "status": "unchanged",
+    "change_summary": "",
+    "previous_date": "2026-10-17",
+    "previous_event_id": "ce48ada2276c"
+   }
+  ],
+  "politica|america": [
+   {
+    "title": "Guyana to Block Vape Product Imports Amid Youth Health Concerns",
+    "summary": "Guyana will ban imports of vaping products to address youth health concerns over electronic cigarette use. The restriction tightens the country's regulations on nicotine products.",
+    "lang": "en",
+    "source": "Bloomberg Markets",
+    "url": "https://www.bloomberg.com/news/articles/2026-10-18/guyana-to-block-vape-product-imports-amid-youth-health-concerns",
+    "published": "2026-10-18T01:49:34+00:00",
+    "event_id": "abd11067834a",
+    "sources": [
+     {
+      "title": "Guyana to Block Vape Product Imports Amid Youth Health Concerns",
+      "summary": "Guyana will ban imports of vaping products to address youth health concerns over electronic cigarette use. The restriction tightens the country's regulations on nicotine products.",
+      "lang": "en",
+      "source": "Bloomberg Markets",
+      "url": "https://www.bloomberg.com/news/articles/2026-10-18/guyana-to-block-vape-product-imports-amid-youth-health-concerns",
+      "published": "2026-10-18T01:49:34+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "Several dead or injured in major fire at Canada military base",
+    "summary": "Several people died or were injured in a major fire at Canadian Forces Base Wainwright. Officials have not disclosed the cause or death toll, citing the active situation.",
+    "lang": "en",
+    "source": "BBC World",
+    "url": "https://www.bbc.co.uk/news/articles/cr86z0w4lxdxo?at_medium=RSS&at_campaign=rss",
+    "published": "2026-10-18T08:52:41+00:00",
+    "event_id": "351390f82ca4",
+    "sources": [
+     {
+      "title": "Several dead or injured in major fire at Canada military base",
+      "summary": "Several people died or were injured in a major fire at Canadian Forces Base Wainwright. Officials have not disclosed the cause or death toll, citing the active situation.",
+      "lang": "en",
+      "source": "BBC World",
+      "url": "https://www.bbc.co.uk/news/articles/cr86z0w4lxdxo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-18T08:52:41+00:00"
+     },
+     {
+      "title": "Major fire breaks out in Alberta after deadly incident at military base",
+      "summary": "A major fire broke out in Alberta following a deadly incident at a Canadian military base on Saturday. Canada's defense minister confirmed that people were killed and injured in the incident.",
+      "lang": "en",
+      "source": "NPR World",
+      "url": "https://www.npr.org/2026/10/18/nx-s1-6007276/fire-alberta-deadly-canada-military-base",
+      "published": "2026-10-18T07:56:08+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "‘No Kings’ protests spread across the US ahead of midterm elections",
+    "summary": "Thousands participated in 'No Kings' protests across the US against President Trump ahead of midterm elections. The demonstrations reflected opposition to his administration.",
+    "lang": "en",
+    "source": "Al Jazeera English",
+    "url": "https://www.aljazeera.com/video/newsfeed/2026/10/18/no-kings-protests-spread-across-the-us-ahead-of-midterm-elections?traffic_source=rss",
+    "published": "2026-10-18T08:25:24+00:00",
+    "event_id": "320d3cc785f5",
+    "sources": [
+     {
+      "title": "‘No Kings’ protests spread across the US ahead of midterm elections",
+      "summary": "Thousands participated in 'No Kings' protests across the US against President Trump ahead of midterm elections. The demonstrations reflected opposition to his administration.",
+      "lang": "en",
+      "source": "Al Jazeera English",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/18/no-kings-protests-spread-across-the-us-ahead-of-midterm-elections?traffic_source=rss",
+      "published": "2026-10-18T08:25:24+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "Elon Musk settles lawsuits over $1 million voter giveaway",
+    "summary": "Elon Musk settled lawsuits over his $1 million daily voter giveaway program conducted during 2024. The promotion to swing state voters had prompted legal challenges and raised campaign finance questions.",
+    "lang": "en",
+    "source": "The Verge",
+    "url": "https://www.theverge.com/tech/1013431/elon-musk-settles-lawsuits-over-1-million-voter-giveaway",
+    "published": "2026-10-17T16:39:44+00:00",
+    "event_id": "1b9b6ec35709",
+    "sources": [
+     {
+      "title": "Elon Musk settles lawsuits over $1 million voter giveaway",
+      "summary": "Elon Musk settled lawsuits over his $1 million daily voter giveaway program conducted during 2024. The promotion to swing state voters had prompted legal challenges and raised campaign finance questions.",
+      "lang": "en",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/tech/1013431/elon-musk-settles-lawsuits-over-1-million-voter-giveaway",
+      "published": "2026-10-17T16:39:44+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "Zelenskyy urges support for new US sanctions on Russia after Trump puts them on hold",
+    "summary": "Zelenskyy urged the US to maintain support for new sanctions on Russia after Trump temporarily halted them. The Ukrainian president warned the pause would encourage continued Russian military operations.",
+    "lang": "en",
+    "source": "NPR World",
+    "url": "https://www.npr.org/2026/10/17/nx-s1-6006745/us-sanctions-russia",
+    "published": "2026-10-17T14:25:10+00:00",
+    "event_id": "79f6bbd497cf",
+    "sources": [
+     {
+      "title": "Zelenskyy urges support for new US sanctions on Russia after Trump puts them on hold",
+      "summary": "Zelenskyy urged the US to maintain support for new sanctions on Russia after Trump temporarily halted them. The Ukrainian president warned the pause would encourage continued Russian military operations.",
+      "lang": "en",
+      "source": "NPR World",
+      "url": "https://www.npr.org/2026/10/17/nx-s1-6006745/us-sanctions-russia",
+      "published": "2026-10-17T14:25:10+00:00"
+     }
+    ],
+    "status": "unchanged",
+    "change_summary": "",
+    "previous_date": "2026-10-17",
+    "previous_event_id": "ce48ada2276c"
+   }
+  ],
+  "tecnologia|asia": [
+   {
+    "title": "How Taiwan’s new AI satellite system aims to speed up early warning against PLA moves",
+    "summary": "Taiwan plans to acquire an AI-powered satellite system to detect PLA ships, aircraft, and missile launchers. The system aims to improve early warning capabilities against potential military threats.",
+    "lang": "en",
+    "source": "South China Morning Post (China)",
+    "url": "https://www.scmp.com/news/china/military/article/3371252/how-taiwans-new-ai-satellite-system-aims-speed-early-warning-against-pla-moves?utm_source=rss_feed",
+    "published": "2026-10-17T14:00:07+00:00",
+    "event_id": "57a61aa5187f",
+    "sources": [
+     {
+      "title": "How Taiwan’s new AI satellite system aims to speed up early warning against PLA moves",
+      "summary": "Taiwan plans to acquire an AI-powered satellite system to detect PLA ships, aircraft, and missile launchers. The system aims to improve early warning capabilities against potential military threats.",
+      "lang": "en",
+      "source": "South China Morning Post (China)",
+      "url": "https://www.scmp.com/news/china/military/article/3371252/how-taiwans-new-ai-satellite-system-aims-speed-early-warning-against-pla-moves?utm_source=rss_feed",
+      "published": "2026-10-17T14:00:07+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   }
+  ]
+ }
+}
