@@ -1,0 +1,864 @@
+{
+ "date": "2026-10-19",
+ "generated_at": "2026-10-19T11:04:08.014179+00:00",
+ "mode": "full",
+ "cost_usd": 0.0503,
+ "radar_cost_usd": 0.0048,
+ "events": {
+  "mode": "full",
+  "compared_with": "2026-10-18",
+  "articles": 40,
+  "uncompared_articles": 0,
+  "events": 31,
+  "cost_usd": 0.0182
+ },
+ "radar": {
+  "items": [
+   {
+    "id": "hn-50145507",
+    "source": "Hacker News",
+    "kind": "discussion",
+    "title": "If you don't run your own LLM proxy, how do you know whats going on?",
+    "url": "https://jrdsgl.com/if-you-dont-run-your-own-llm-proxy-how-the-fuck-do-you-even-know-whats-going-on/",
+    "discussion_url": "https://news.ycombinator.com/item?id=50145507",
+    "published": "2026-10-18T21:09:12+00:00",
+    "lang": "en",
+    "excerpt": "",
+    "signal": {
+     "points": 182,
+     "comments": 128
+    },
+    "summary": "Author raises governance question: if you don't run your own LLM proxy, how do you verify what your AI system actually sends and receives? Post emphasizes observability and control as governance concerns.",
+    "usefulness": "Could help assess whether your Python tool needs to intercept and log LLM requests for compliance or debugging purposes.",
+    "to_verify": "What specific proxy patterns or logging methods the author recommends for Python-based tools; what transparency gaps exist in closed APIs."
+   },
+   {
+    "id": "hn-50140462",
+    "source": "Hacker News",
+    "kind": "discussion",
+    "title": "How Far Will AI Assistants Go for a Refund They Can't Get?",
+    "url": "https://www.vals.ai/blogs/impossible-refund",
+    "discussion_url": "https://news.ycombinator.com/item?id=50140462",
+    "published": "2026-10-18T12:22:58+00:00",
+    "lang": "en",
+    "excerpt": "",
+    "signal": {
+     "points": 88,
+     "comments": 107
+    },
+    "summary": "Author tests whether AI assistants follow harmful requests when framed as legitimate customer service (refund scenarios where refunds are impossible). Tests governance: do safety boundaries hold under social pressure?",
+    "usefulness": "Could inform how to design guardrails in your own AI tools to resist manipulation and stay aligned with intended policy.",
+    "to_verify": "Specific scenarios tested, how the assistant rationalized harmful behavior, and what safety failures the author documented."
+   }
+  ],
+  "mode": "full",
+  "failed_sources": []
+ },
+ "market": null,
+ "failed_sources": [],
+ "cells": {
+  "economia|asia": [
+   {
+    "title": "China’s economy picks up pace with 4.5% growth",
+    "summary": "China's economy grew 4.5% in the third quarter, putting it on track to meet its full-year target. The figure shows the world's second-largest economy maintaining momentum.",
+    "lang": "en",
+    "source": "FT Global Economy",
+    "url": "https://www.ft.com/content/cf113314-1077-4ab4-b667-9912656684f1?syn-25a6b1a6=1",
+    "published": "2026-10-19T05:03:27+00:00",
+    "event_id": "a98b7d7a084d",
+    "sources": [
+     {
+      "title": "China’s economy picks up pace with 4.5% growth",
+      "summary": "China's economy grew 4.5% in the third quarter, putting it on track to meet its full-year target. The figure shows the world's second-largest economy maintaining momentum.",
+      "lang": "en",
+      "source": "FT Global Economy",
+      "url": "https://www.ft.com/content/cf113314-1077-4ab4-b667-9912656684f1?syn-25a6b1a6=1",
+      "published": "2026-10-19T05:03:27+00:00"
+     },
+     {
+      "title": "China's Q3 GDP narrowly beats forecasts as strong exports buoy growth",
+      "summary": "China's third-quarter GDP exceeded forecasts as strong export performance supported growth. The economic expansion demonstrates resilience amid global uncertainty.",
+      "lang": "en",
+      "source": "Nikkei Asia",
+      "url": "https://asia.nikkei.com/economy/china-s-q3-gdp-narrowly-beats-forecasts-as-strong-exports-buoy-growth",
+      "published": null
+     },
+     {
+      "title": "中國三季度增長4.5%但冷熱不均：出口暴增，樓市新開工面積暴跌",
+      "summary": "中國三季度增長4.5%但分化明顯，出口暴增而樓市新開工面積暴跌。分析指出中國過度依賴外需，刺激空間有限。",
+      "lang": "zh",
+      "source": "BBC中文",
+      "url": "https://www.bbc.com/zhongwen/articles/cqdjv2vw9n4po/trad?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-19T09:19:13+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "日本擬調降消費稅 日相高市不否認發行國債",
+    "summary": "日本政府擬2027年4月起調降食品消費稅率，日相高市早苗未否認發行國債籌措財源。消費稅調整方案正在規劃中。",
+    "lang": "zh",
+    "source": "中央社 CNA",
+    "url": "https://www.cna.com.tw/news/aopl/202610190209.aspx",
+    "published": "2026-10-19T10:00:31+00:00",
+    "event_id": "56833ad1c4e2",
+    "sources": [
+     {
+      "title": "日本擬調降消費稅 日相高市不否認發行國債",
+      "summary": "日本政府擬2027年4月起調降食品消費稅率，日相高市早苗未否認發行國債籌措財源。消費稅調整方案正在規劃中。",
+      "lang": "zh",
+      "source": "中央社 CNA",
+      "url": "https://www.cna.com.tw/news/aopl/202610190209.aspx",
+      "published": "2026-10-19T10:00:31+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "外資賣超767億元連9賣 調節力積電4.64萬張居首",
+    "summary": "外資賣超767億元實現連續第9日淨賣出，台股盤中一度重挫逾940點。終場下跌289.18點至46822.08點，力積電成主要調節標的。",
+    "lang": "zh",
+    "source": "經濟日報 台灣",
+    "url": "https://money.udn.com/money/story/5612/9824526",
+    "published": "2026-10-19T10:54:32+00:00",
+    "event_id": "3eeff497aa2c",
+    "sources": [
+     {
+      "title": "外資賣超767億元連9賣 調節力積電4.64萬張居首",
+      "summary": "外資賣超767億元實現連續第9日淨賣出，台股盤中一度重挫逾940點。終場下跌289.18點至46822.08點，力積電成主要調節標的。",
+      "lang": "zh",
+      "source": "經濟日報 台灣",
+      "url": "https://money.udn.com/money/story/5612/9824526",
+      "published": "2026-10-19T10:54:32+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   }
+  ],
+  "tecnologia|asia": [
+   {
+    "title": "Foxconn, Mitsubishi Electric join forces for global EV push",
+    "summary": "Foxconn and Mitsubishi Electric partnered to advance electric vehicle manufacturing globally. The collaboration combines their expertise in battery technology and automotive systems.",
+    "lang": "en",
+    "source": "Nikkei Asia",
+    "url": "https://asia.nikkei.com/business/automobiles/foxconn-mitsubishi-electric-join-forces-for-global-ev-push",
+    "published": null,
+    "event_id": "24781369dbdd",
+    "sources": [
+     {
+      "title": "Foxconn, Mitsubishi Electric join forces for global EV push",
+      "summary": "Foxconn and Mitsubishi Electric partnered to advance electric vehicle manufacturing globally. The collaboration combines their expertise in battery technology and automotive systems.",
+      "lang": "en",
+      "source": "Nikkei Asia",
+      "url": "https://asia.nikkei.com/business/automobiles/foxconn-mitsubishi-electric-join-forces-for-global-ev-push",
+      "published": null
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "Indian chemical firms turn to foreign partners to crack chip supply chains",
+    "summary": "Indian chemical companies are partnering with foreign firms to access semiconductor supply chains. These alliances aim to strengthen domestic capabilities in chipmaking.",
+    "lang": "en",
+    "source": "Nikkei Asia",
+    "url": "https://asia.nikkei.com/business/tech/semiconductors/indian-chemical-firms-turn-to-foreign-partners-to-crack-chip-supply-chains",
+    "published": null,
+    "event_id": "971b6bbe071d",
+    "sources": [
+     {
+      "title": "Indian chemical firms turn to foreign partners to crack chip supply chains",
+      "summary": "Indian chemical companies are partnering with foreign firms to access semiconductor supply chains. These alliances aim to strengthen domestic capabilities in chipmaking.",
+      "lang": "en",
+      "source": "Nikkei Asia",
+      "url": "https://asia.nikkei.com/business/tech/semiconductors/indian-chemical-firms-turn-to-foreign-partners-to-crack-chip-supply-chains",
+      "published": null
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "日本擬對雲端服務等設安全認證制度，實質上排除受中俄影響業者",
+    "summary": "日本政府擬建立雲端服務安全認證制度，實質上排除受中俄影響的業者。金融醫療等部門需使用政府認證的服務。",
+    "lang": "zh",
+    "source": "科技新報 TechNews",
+    "url": "https://infosecu.technews.tw/2026/10/19/japan-security-certification-cloud-services-exclude-china-russia-influenced-firms/",
+    "published": "2026-10-19T10:00:29+00:00",
+    "event_id": "b221a9748cf2",
+    "sources": [
+     {
+      "title": "日本擬對雲端服務等設安全認證制度，實質上排除受中俄影響業者",
+      "summary": "日本政府擬建立雲端服務安全認證制度，實質上排除受中俄影響的業者。金融醫療等部門需使用政府認證的服務。",
+      "lang": "zh",
+      "source": "科技新報 TechNews",
+      "url": "https://infosecu.technews.tw/2026/10/19/japan-security-certification-cloud-services-exclude-china-russia-influenced-firms/",
+      "published": "2026-10-19T10:00:29+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "SK 海力士聯手韓政府與四大銀行，推 2 兆韓圜貸款保證支援半導體供應商",
+    "summary": "SK海力士與韓國產業部及四大銀行合作，為半導體供應商提供2兆韓圜貸款保證。支援涵蓋材料零組件與設備供應商。",
+    "lang": "zh",
+    "source": "科技新報 TechNews",
+    "url": "https://finance.technews.tw/2026/10/19/sk-hynix-govt-to-provide-2-tln-won-in-loan-guarantees-to-semiconductor-suppliers/",
+    "published": "2026-10-19T08:50:06+00:00",
+    "event_id": "717b81580745",
+    "sources": [
+     {
+      "title": "SK 海力士聯手韓政府與四大銀行，推 2 兆韓圜貸款保證支援半導體供應商",
+      "summary": "SK海力士與韓國產業部及四大銀行合作，為半導體供應商提供2兆韓圜貸款保證。支援涵蓋材料零組件與設備供應商。",
+      "lang": "zh",
+      "source": "科技新報 TechNews",
+      "url": "https://finance.technews.tw/2026/10/19/sk-hynix-govt-to-provide-2-tln-won-in-loan-guarantees-to-semiconductor-suppliers/",
+      "published": "2026-10-19T08:50:06+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "為什麼三星要結盟台積電，生產下代 NVHBM 3 奈米基礎晶片？",
+    "summary": "三星應輝達要求採用台積電生產下代NVHBM 3奈米基礎晶片。三星與台積電聯手滿足最大客戶的先進晶片需求。",
+    "lang": "zh",
+    "source": "科技新報 TechNews",
+    "url": "https://technews.tw/2026/10/19/samsung-to-partner-with-tsmc-to-produce-next-generation-nvhbm-3-nanometer-base-chips/",
+    "published": "2026-10-19T08:45:00+00:00",
+    "event_id": "dca18be561bf",
+    "sources": [
+     {
+      "title": "為什麼三星要結盟台積電，生產下代 NVHBM 3 奈米基礎晶片？",
+      "summary": "三星應輝達要求採用台積電生產下代NVHBM 3奈米基礎晶片。三星與台積電聯手滿足最大客戶的先進晶片需求。",
+      "lang": "zh",
+      "source": "科技新報 TechNews",
+      "url": "https://technews.tw/2026/10/19/samsung-to-partner-with-tsmc-to-produce-next-generation-nvhbm-3-nanometer-base-chips/",
+      "published": "2026-10-19T08:45:00+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   }
+  ],
+  "politica|europa": [
+   {
+    "title": "Bomb threat forces airliner from Tel Aviv to divert to Bulgaria",
+    "summary": "An Austrian Airlines flight from Tel Aviv diverted to Bulgaria following a bomb threat. The plane landed in Sofia under escort by a Bulgarian MiG-29 fighter jet.",
+    "lang": "en",
+    "source": "Le Monde International",
+    "url": "https://www.lemonde.fr/en/international/article/2026/10/19/bomb-threat-forces-airliner-from-tel-aviv-to-divert-to-bulgaria_6758741_4.html",
+    "published": "2026-10-18T22:42:12+00:00",
+    "event_id": "65f6b7e13c76",
+    "sources": [
+     {
+      "title": "Bomb threat forces airliner from Tel Aviv to divert to Bulgaria",
+      "summary": "An Austrian Airlines flight from Tel Aviv diverted to Bulgaria following a bomb threat. The plane landed in Sofia under escort by a Bulgarian MiG-29 fighter jet.",
+      "lang": "en",
+      "source": "Le Monde International",
+      "url": "https://www.lemonde.fr/en/international/article/2026/10/19/bomb-threat-forces-airliner-from-tel-aviv-to-divert-to-bulgaria_6758741_4.html",
+      "published": "2026-10-18T22:42:12+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "Macron faces political firestorm after riots",
+    "summary": "France experienced its worst street violence in years following mass protests about cost of living. The unrest comes six months before a major European election.",
+    "lang": "en",
+    "source": "Financial Times",
+    "url": "https://www.ft.com/content/19495e50-0f55-44b1-8d19-19244163a4e8?syn-25a6b1a6=1",
+    "published": "2026-10-19T10:42:31+00:00",
+    "event_id": "52c4a7c09806",
+    "sources": [
+     {
+      "title": "Macron faces political firestorm after riots",
+      "summary": "France experienced its worst street violence in years following mass protests about cost of living. The unrest comes six months before a major European election.",
+      "lang": "en",
+      "source": "Financial Times",
+      "url": "https://www.ft.com/content/19495e50-0f55-44b1-8d19-19244163a4e8?syn-25a6b1a6=1",
+      "published": "2026-10-19T10:42:31+00:00"
+     },
+     {
+      "title": "French Stocks and Bonds Retreat as Government Comes Under Pressure",
+      "summary": "French stocks and bonds fell as government came under political pressure amid budget constraints. France's large debt and deficit limit spending options to address public demands.",
+      "lang": "en",
+      "source": "Bloomberg Markets",
+      "url": "https://www.bloomberg.com/news/newsletters/2026-10-19/french-stocks-and-bonds-retreat-as-government-comes-under-pressure",
+      "published": "2026-10-19T10:36:25+00:00"
+     },
+     {
+      "title": "法国和平示威扩大为暴力骚乱 马克龙归咎极左派人士",
+      "summary": "約50萬示威者17日走上法國街頭抗議物價高漲，和平示威演變為全國騷亂。馬克龍將暴力行為歸咎於極左派，梅朗雄批評政府無能。",
+      "lang": "zh",
+      "source": "德國之聲中文",
+      "url": "https://www.dw.com/zh/法国和平示威扩大为暴力骚乱-马克龙归咎极左派人士/a-79692524?maca=chi-rss-chi-all-1127-rdf",
+      "published": "2026-10-19T04:42:00+00:00"
+     },
+     {
+      "title": "Germany warns citizens to exercise 'caution' after French protests",
+      "summary": "Germany warned its citizens to exercise caution following violent French protests. German authorities issued updated travel advice citing possible further demonstrations and violence.",
+      "lang": "en",
+      "source": "Le Monde International",
+      "url": "https://www.lemonde.fr/en/germany/article/2026/10/19/germany-warns-citizens-to-exercise-caution-after-french-protests_6758790_146.html",
+      "published": "2026-10-19T09:37:33+00:00"
+     },
+     {
+      "title": "Trump and Putin claim French protests are evidence of 'migrant chaos' and 'Europe's decline'",
+      "summary": "Trump supporters and the Kremlin cited French protests as evidence of Europe's decline from immigration. Far-right groups across Europe also blamed the unrest on migration policies.",
+      "lang": "en",
+      "source": "Le Monde International",
+      "url": "https://www.lemonde.fr/en/international/article/2026/10/19/trump-and-putin-claim-french-protests-are-evidence-of-migrant-chaos-and-europe-s-decline_6758781_4.html",
+      "published": "2026-10-19T08:12:54+00:00"
+     }
+    ],
+    "status": "unchanged",
+    "change_summary": "",
+    "previous_date": "2026-10-18",
+    "previous_event_id": "52c4a7c09806"
+   },
+   {
+    "title": "Ukraine and Russia exchange strikes, as relations between Trump and Zelenskyy sour",
+    "summary": "Ukraine conducted massive drone strikes on Russia while Russia attacked Ukrainian energy infrastructure. Tensions between Trump and Zelenskyy worsened amid ongoing military operations.",
+    "lang": "en",
+    "source": "NPR World",
+    "url": "https://www.npr.org/2026/10/19/nx-s1-6007371/ukraine-and-russia-exchange-strikes-as-relations-between-trump-and-zelenskyy-sour",
+    "published": "2026-10-19T10:38:03+00:00",
+    "event_id": "4927dc620d15",
+    "sources": [
+     {
+      "title": "Ukraine and Russia exchange strikes, as relations between Trump and Zelenskyy sour",
+      "summary": "Ukraine conducted massive drone strikes on Russia while Russia attacked Ukrainian energy infrastructure. Tensions between Trump and Zelenskyy worsened amid ongoing military operations.",
+      "lang": "en",
+      "source": "NPR World",
+      "url": "https://www.npr.org/2026/10/19/nx-s1-6007371/ukraine-and-russia-exchange-strikes-as-relations-between-trump-and-zelenskyy-sour",
+      "published": "2026-10-19T10:38:03+00:00"
+     },
+     {
+      "title": "Zelensky speaks to US envoys as Trump accuses him of not wanting to end the war",
+      "summary": "Zelenskyy spoke with Trump envoys Steve Witkoff and Jared Kushner as Trump accused him of resisting peace. Russia and Ukraine exchanged drone strikes on energy infrastructure.",
+      "lang": "en",
+      "source": "Le Monde International",
+      "url": "https://www.lemonde.fr/en/international/article/2026/10/19/zelensky-speaks-to-us-envoys-as-trump-accuses-him-of-not-wanting-to-end-the-war_6758742_4.html",
+      "published": "2026-10-18T23:24:31+00:00"
+     },
+     {
+      "title": "Ukraine and the U.S. are at odds over Starshield. Here's what to know",
+      "summary": "Ukraine and the U.S. disagreed over Starshield satellite communications access for Ukrainian forces. Zelenskyy believes the U.S. government restricted military use of the critical service.",
+      "lang": "en",
+      "source": "NPR World",
+      "url": "https://www.npr.org/2026/10/18/nx-s1-6007382/ukraine-us-starshield-starlink-what-to-know-trump",
+      "published": "2026-10-18T18:38:49+00:00"
+     }
+    ],
+    "status": "unchanged",
+    "change_summary": "",
+    "previous_date": "2026-10-18",
+    "previous_event_id": "4927dc620d15"
+   }
+  ],
+  "economia|europa": [
+   {
+    "title": "German Inflation Risks Clearly Tilted to Upside, Bundesbank Says",
+    "summary": "Germany's central bank warned inflation risks lean upward despite expectations of lower price growth. Multiple threats could push prices higher than currently forecast.",
+    "lang": "en",
+    "source": "Bloomberg Economics",
+    "url": "https://www.bloomberg.com/news/articles/2026-10-19/german-inflation-risks-clearly-tilted-to-upside-bundesbank-says",
+    "published": "2026-10-19T10:00:00+00:00",
+    "event_id": "b49076ebce3e",
+    "sources": [
+     {
+      "title": "German Inflation Risks Clearly Tilted to Upside, Bundesbank Says",
+      "summary": "Germany's central bank warned inflation risks lean upward despite expectations of lower price growth. Multiple threats could push prices higher than currently forecast.",
+      "lang": "en",
+      "source": "Bloomberg Economics",
+      "url": "https://www.bloomberg.com/news/articles/2026-10-19/german-inflation-risks-clearly-tilted-to-upside-bundesbank-says",
+      "published": "2026-10-19T10:00:00+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "Libertad, fraternidad y… desigualdad: ¿Está la deuda francesa contra las cuerdas?",
+    "summary": "La deuda francesa presenta una situación delicada, aunque no representa una crisis de solvencia inmediata. Los inversores europeos mantienen cautela sobre la solidez financiera del país.",
+    "lang": "es",
+    "source": "El País Economía",
+    "url": "https://cincodias.elpais.com/mercados-financieros/2026-10-19/libertad-fraternidad-y-desigualdad-esta-la-deuda-francesa-contra-las-cuerdas.html",
+    "published": "2026-10-19T03:25:00+00:00",
+    "event_id": "bf98631f7d75",
+    "sources": [
+     {
+      "title": "Libertad, fraternidad y… desigualdad: ¿Está la deuda francesa contra las cuerdas?",
+      "summary": "La deuda francesa presenta una situación delicada, aunque no representa una crisis de solvencia inmediata. Los inversores europeos mantienen cautela sobre la solidez financiera del país.",
+      "lang": "es",
+      "source": "El País Economía",
+      "url": "https://cincodias.elpais.com/mercados-financieros/2026-10-19/libertad-fraternidad-y-desigualdad-esta-la-deuda-francesa-contra-las-cuerdas.html",
+      "published": "2026-10-19T03:25:00+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "Los inversores huyen de los centros de datos: la deuda se hunde y las salidas a Bolsa se cancelan",
+    "summary": "Los inversores huyen del mercado de centros de datos debido a la desconfianza sobre estructuras de financiación complejas. La mayor empresa de alquiler de capacidad de cálculo cae un 25%.",
+    "lang": "es",
+    "source": "El País Economía",
+    "url": "https://cincodias.elpais.com/mercados-financieros/2026-10-19/los-inversores-huyen-de-los-centros-de-datos-la-deuda-se-hunde-y-las-salidas-a-bolsa-se-cancelan.html",
+    "published": "2026-10-19T03:30:00+00:00",
+    "event_id": "be7dd154fa13",
+    "sources": [
+     {
+      "title": "Los inversores huyen de los centros de datos: la deuda se hunde y las salidas a Bolsa se cancelan",
+      "summary": "Los inversores huyen del mercado de centros de datos debido a la desconfianza sobre estructuras de financiación complejas. La mayor empresa de alquiler de capacidad de cálculo cae un 25%.",
+      "lang": "es",
+      "source": "El País Economía",
+      "url": "https://cincodias.elpais.com/mercados-financieros/2026-10-19/los-inversores-huyen-de-los-centros-de-datos-la-deuda-se-hunde-y-las-salidas-a-bolsa-se-cancelan.html",
+      "published": "2026-10-19T03:30:00+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "En el intento por salvar su industria, Alemania, Italia y Francia se han unido: \"La prohibición de los motores de combustión ya es historia\"",
+    "summary": "Alemania, Italia y Francia se unieron para impulsar la transición al vehículo eléctrico en Europa. La prohibición de motores de combustión ya es política oficial de la Unión Europea.",
+    "lang": "es",
+    "source": "Xataka",
+    "url": "https://www.xataka.com/movilidad/intento-salvar-su-industria-alemania-italia-francia-se-han-unido-prohibicion-motores-combustion-historia",
+    "published": "2026-10-19T09:30:12+00:00",
+    "event_id": "8479c402854d",
+    "sources": [
+     {
+      "title": "En el intento por salvar su industria, Alemania, Italia y Francia se han unido: \"La prohibición de los motores de combustión ya es historia\"",
+      "summary": "Alemania, Italia y Francia se unieron para impulsar la transición al vehículo eléctrico en Europa. La prohibición de motores de combustión ya es política oficial de la Unión Europea.",
+      "lang": "es",
+      "source": "Xataka",
+      "url": "https://www.xataka.com/movilidad/intento-salvar-su-industria-alemania-italia-francia-se-han-unido-prohibicion-motores-combustion-historia",
+      "published": "2026-10-19T09:30:12+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   }
+  ],
+  "politica|america": [
+   {
+    "title": "Crunch time for Brazilian politics",
+    "summary": "Brazil holds a presidential run-off as South America's largest economy faces critical political decisions. Alberta votes on an independence referendum alongside key UK economic data releases.",
+    "lang": "en",
+    "source": "FT Global Economy",
+    "url": "https://www.ft.com/content/783dbcdc-fe1e-4539-a740-3d2e4b3d5fc1?syn-25a6b1a6=1",
+    "published": "2026-10-18T17:15:01+00:00",
+    "event_id": "5d0ffce51f62",
+    "sources": [
+     {
+      "title": "Crunch time for Brazilian politics",
+      "summary": "Brazil holds a presidential run-off as South America's largest economy faces critical political decisions. Alberta votes on an independence referendum alongside key UK economic data releases.",
+      "lang": "en",
+      "source": "FT Global Economy",
+      "url": "https://www.ft.com/content/783dbcdc-fe1e-4539-a740-3d2e4b3d5fc1?syn-25a6b1a6=1",
+      "published": "2026-10-18T17:15:01+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "Has America’s wave of anti-globalisation populism peaked?",
+    "summary": "Anti-globalization populism may be peaking as voter sentiment shifts political leadership priorities. Electoral results increasingly reflect changing public attitudes on trade policy.",
+    "lang": "en",
+    "source": "FT Global Economy",
+    "url": "https://www.ft.com/content/ba3b9244-bf94-4c3f-a89b-b761488fd71d",
+    "published": "2026-10-19T05:00:06+00:00",
+    "event_id": "e20553be9708",
+    "sources": [
+     {
+      "title": "Has America’s wave of anti-globalisation populism peaked?",
+      "summary": "Anti-globalization populism may be peaking as voter sentiment shifts political leadership priorities. Electoral results increasingly reflect changing public attitudes on trade policy.",
+      "lang": "en",
+      "source": "FT Global Economy",
+      "url": "https://www.ft.com/content/ba3b9244-bf94-4c3f-a89b-b761488fd71d",
+      "published": "2026-10-19T05:00:06+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "Alberta heads to polls to decide whether to hold vote on separation from Canada",
+    "summary": "Alberta votes on whether to hold a separation referendum from Canada. Polls indicate most Albertans favor remaining in the country despite ongoing independence debate.",
+    "lang": "en",
+    "source": "BBC World",
+    "url": "https://www.bbc.co.uk/news/articles/cxvgd0ymgzgyo?at_medium=RSS&at_campaign=rss",
+    "published": "2026-10-19T09:24:33+00:00",
+    "event_id": "41fb58d0589d",
+    "sources": [
+     {
+      "title": "Alberta heads to polls to decide whether to hold vote on separation from Canada",
+      "summary": "Alberta votes on whether to hold a separation referendum from Canada. Polls indicate most Albertans favor remaining in the country despite ongoing independence debate.",
+      "lang": "en",
+      "source": "BBC World",
+      "url": "https://www.bbc.co.uk/news/articles/cxvgd0ymgzgyo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-19T09:24:33+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "Deadly fire at Canada military base moved a kilometre 'in 30 to 60 seconds'",
+    "summary": "A deadly fire at a Canadian military base spread across one kilometer in 30 to 60 seconds. The blaze killed four men and injured dozens of others at high speed.",
+    "lang": "en",
+    "source": "BBC World",
+    "url": "https://www.bbc.co.uk/news/articles/ckj0ly6qnp1lo?at_medium=RSS&at_campaign=rss",
+    "published": "2026-10-19T09:40:44+00:00",
+    "event_id": "351390f82ca4",
+    "sources": [
+     {
+      "title": "Deadly fire at Canada military base moved a kilometre 'in 30 to 60 seconds'",
+      "summary": "A deadly fire at a Canadian military base spread across one kilometer in 30 to 60 seconds. The blaze killed four men and injured dozens of others at high speed.",
+      "lang": "en",
+      "source": "BBC World",
+      "url": "https://www.bbc.co.uk/news/articles/ckj0ly6qnp1lo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-19T09:40:44+00:00"
+     },
+     {
+      "title": "Carney says 4 service members killed and dozens injured in fire at Alberta military base",
+      "summary": "Canadian Prime Minister Mark Carney confirmed four service members died and dozens were injured in a military base fire. The incident ranks among Canada's worst peacetime military tragedies.",
+      "lang": "en",
+      "source": "NPR World",
+      "url": "https://www.npr.org/2026/10/18/nx-s1-6007276/fire-alberta-deadly-canada-military-base",
+      "published": "2026-10-18T07:56:08+00:00"
+     }
+    ],
+    "status": "updated",
+    "change_summary": "Deadly fire at Canada military base moved a kilometre 'in 30 to 60 seconds'",
+    "previous_date": "2026-10-18",
+    "previous_event_id": "351390f82ca4"
+   }
+  ],
+  "economia|america": [
+   {
+    "title": "Trump’s bid to make America cheap again has failed",
+    "summary": "Trump's efforts to reduce American costs have failed to control energy prices for voters. Rising energy costs are increasingly blamed on administration policies rather than external factors.",
+    "lang": "en",
+    "source": "FT Global Economy",
+    "url": "https://www.ft.com/content/52a5e9df-cd9a-4951-99b5-2364e575bb44?syn-25a6b1a6=1",
+    "published": "2026-10-18T15:00:00+00:00",
+    "event_id": "80b5638bee46",
+    "sources": [
+     {
+      "title": "Trump’s bid to make America cheap again has failed",
+      "summary": "Trump's efforts to reduce American costs have failed to control energy prices for voters. Rising energy costs are increasingly blamed on administration policies rather than external factors.",
+      "lang": "en",
+      "source": "FT Global Economy",
+      "url": "https://www.ft.com/content/52a5e9df-cd9a-4951-99b5-2364e575bb44?syn-25a6b1a6=1",
+      "published": "2026-10-18T15:00:00+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "US stocks set for rebound after AI sell-off",
+    "summary": "U.S. stock futures gained 1% as markets recovered from an AI-driven sell-off. The Nasdaq 100 rebound follows its biggest weekly decline since April last year.",
+    "lang": "en",
+    "source": "Financial Times",
+    "url": "https://www.ft.com/content/915ea7ca-1f35-4847-810a-fb29e8344496?syn-25a6b1a6=1",
+    "published": "2026-10-19T09:16:12+00:00",
+    "event_id": "001d2f3a4643",
+    "sources": [
+     {
+      "title": "US stocks set for rebound after AI sell-off",
+      "summary": "U.S. stock futures gained 1% as markets recovered from an AI-driven sell-off. The Nasdaq 100 rebound follows its biggest weekly decline since April last year.",
+      "lang": "en",
+      "source": "Financial Times",
+      "url": "https://www.ft.com/content/915ea7ca-1f35-4847-810a-fb29e8344496?syn-25a6b1a6=1",
+      "published": "2026-10-19T09:16:12+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   }
+  ],
+  "tecnologia|europa": [
+   {
+    "title": "US threatens European companies over Starlink restrictions",
+    "summary": "The U.S. threatened European companies with retaliation over Starlink spectrum restrictions. Ambassador Andrew Puzder warned of devastating consequences if Brussels limits non-EU spectrum access.",
+    "lang": "en",
+    "source": "Financial Times",
+    "url": "https://www.ft.com/content/d1e28d93-8574-4a46-946a-b261c401d6fa?syn-25a6b1a6=1",
+    "published": "2026-10-18T16:00:00+00:00",
+    "event_id": "ea6627fceb80",
+    "sources": [
+     {
+      "title": "US threatens European companies over Starlink restrictions",
+      "summary": "The U.S. threatened European companies with retaliation over Starlink spectrum restrictions. Ambassador Andrew Puzder warned of devastating consequences if Brussels limits non-EU spectrum access.",
+      "lang": "en",
+      "source": "Financial Times",
+      "url": "https://www.ft.com/content/d1e28d93-8574-4a46-946a-b261c401d6fa?syn-25a6b1a6=1",
+      "published": "2026-10-18T16:00:00+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "Dell inaugura la era de la IA agéntica con el nuevo XPS 16 Creator Edition y los superchips NVIDIA RTX Spark",
+    "summary": "Dell lanzó nuevos PCs y estaciones de trabajo con tecnología IA agéntica en colaboración con NVIDIA y Microsoft. Los equipos XPS 16 Creator Edition buscan atraer a creadores profesionales.",
+    "lang": "es",
+    "source": "Xataka",
+    "url": "https://www.xataka.com/seleccion/dell-inaugura-era-ia-agentica-nuevo-xps-16-creator-edition-superchips-nvidia-rtx-spark",
+    "published": "2026-10-19T10:16:08+00:00",
+    "event_id": "d1ef6c8c12c0",
+    "sources": [
+     {
+      "title": "Dell inaugura la era de la IA agéntica con el nuevo XPS 16 Creator Edition y los superchips NVIDIA RTX Spark",
+      "summary": "Dell lanzó nuevos PCs y estaciones de trabajo con tecnología IA agéntica en colaboración con NVIDIA y Microsoft. Los equipos XPS 16 Creator Edition buscan atraer a creadores profesionales.",
+      "lang": "es",
+      "source": "Xataka",
+      "url": "https://www.xataka.com/seleccion/dell-inaugura-era-ia-agentica-nuevo-xps-16-creator-edition-superchips-nvidia-rtx-spark",
+      "published": "2026-10-19T10:16:08+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "La contaminación lumínica de los satélites ya tiene cifras. Starlink pone más infractores, pero Guowang lleva peor nota",
+    "summary": "Los satélites Starlink generan mayor contaminación lumínica que otros sistemas orbitales según datos cuantitativos. Guowang presenta indicadores de impacto aún más preocupantes.",
+    "lang": "es",
+    "source": "Xataka",
+    "url": "https://www.xataka.com/espacio/contaminacion-luminica-satelites-tiene-cifras-starlink-pone-infractores-guowang-lleva-peor-nota",
+    "published": "2026-10-19T10:00:10+00:00",
+    "event_id": "2ccccae60bb0",
+    "sources": [
+     {
+      "title": "La contaminación lumínica de los satélites ya tiene cifras. Starlink pone más infractores, pero Guowang lleva peor nota",
+      "summary": "Los satélites Starlink generan mayor contaminación lumínica que otros sistemas orbitales según datos cuantitativos. Guowang presenta indicadores de impacto aún más preocupantes.",
+      "lang": "es",
+      "source": "Xataka",
+      "url": "https://www.xataka.com/espacio/contaminacion-luminica-satelites-tiene-cifras-starlink-pone-infractores-guowang-lleva-peor-nota",
+      "published": "2026-10-19T10:00:10+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "Inside the quest to combat Arctic fires and save the planet’s frozen carbon",
+    "summary": "Researchers are combating Arctic wildfires to protect frozen carbon stored in northern ecosystems. A major fire in 2021 highlighted climate risks from warming and fire acceleration.",
+    "lang": "en",
+    "source": "MIT Technology Review",
+    "url": "https://www.technologyreview.com/2026/10/19/1146832/inside-the-quest-to-combat-arctic-fires-and-save-the-planets-frozen-carbon/",
+    "published": "2026-10-19T09:22:17+00:00",
+    "event_id": "02a380a09a05",
+    "sources": [
+     {
+      "title": "Inside the quest to combat Arctic fires and save the planet’s frozen carbon",
+      "summary": "Researchers are combating Arctic wildfires to protect frozen carbon stored in northern ecosystems. A major fire in 2021 highlighted climate risks from warming and fire acceleration.",
+      "lang": "en",
+      "source": "MIT Technology Review",
+      "url": "https://www.technologyreview.com/2026/10/19/1146832/inside-the-quest-to-combat-arctic-fires-and-save-the-planets-frozen-carbon/",
+      "published": "2026-10-19T09:22:17+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   }
+  ],
+  "politica|asia": [
+   {
+    "title": "China reveals advanced nuclear sub was used to test-fire missile",
+    "summary": "China revealed an advanced nuclear submarine conducted an intercontinental ballistic missile test in the Pacific. The test marked only the third known ICBM launch from Chinese forces.",
+    "lang": "en",
+    "source": "Japan Times",
+    "url": "https://www.japantimes.co.jp/news/2026/10/19/asia-pacific/china-nuclear-sub-test-fire/",
+    "published": "2026-10-19T09:59:00+00:00",
+    "event_id": "5c6cd49a354d",
+    "sources": [
+     {
+      "title": "China reveals advanced nuclear sub was used to test-fire missile",
+      "summary": "China revealed an advanced nuclear submarine conducted an intercontinental ballistic missile test in the Pacific. The test marked only the third known ICBM launch from Chinese forces.",
+      "lang": "en",
+      "source": "Japan Times",
+      "url": "https://www.japantimes.co.jp/news/2026/10/19/asia-pacific/china-nuclear-sub-test-fire/",
+      "published": "2026-10-19T09:59:00+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "聯合國COP17登場 全球生物多樣性目標多數進度落後",
+    "summary": "聯合國生物多樣性公約第17次締約方會議在亞美尼亞開幕檢視進展。多數全球生物多樣性目標落後進度，資金籌措未達共識。",
+    "lang": "zh",
+    "source": "中央社 CNA",
+    "url": "https://www.cna.com.tw/news/aopl/202610190208.aspx",
+    "published": "2026-10-19T09:59:29+00:00",
+    "event_id": "c984363ad420",
+    "sources": [
+     {
+      "title": "聯合國COP17登場 全球生物多樣性目標多數進度落後",
+      "summary": "聯合國生物多樣性公約第17次締約方會議在亞美尼亞開幕檢視進展。多數全球生物多樣性目標落後進度，資金籌措未達共識。",
+      "lang": "zh",
+      "source": "中央社 CNA",
+      "url": "https://www.cna.com.tw/news/aopl/202610190208.aspx",
+      "published": "2026-10-19T09:59:29+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "俄羅斯外長訪伊朗 尋求斡旋中東戰爭",
+    "summary": "俄羅斯外長拉夫羅夫訪問伊朗尋求斡旋中東戰爭。這是中東戰事爆發以來俄國外交部長首次訪伊。",
+    "lang": "zh",
+    "source": "中央社 CNA",
+    "url": "https://www.cna.com.tw/news/aopl/202610190212.aspx",
+    "published": "2026-10-19T10:13:37+00:00",
+    "event_id": "cb343c584995",
+    "sources": [
+     {
+      "title": "俄羅斯外長訪伊朗 尋求斡旋中東戰爭",
+      "summary": "俄羅斯外長拉夫羅夫訪問伊朗尋求斡旋中東戰爭。這是中東戰事爆發以來俄國外交部長首次訪伊。",
+      "lang": "zh",
+      "source": "中央社 CNA",
+      "url": "https://www.cna.com.tw/news/aopl/202610190212.aspx",
+      "published": "2026-10-19T10:13:37+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   }
+  ],
+  "tecnologia|america": [
+   {
+    "title": "Anthropic gives outside AI watchdog “employee-like” access",
+    "summary": "Anthropic granted an external AI watchdog employee-like access to its systems without approval requirements. The watchdog can now publish findings independently without company veto.",
+    "lang": "en",
+    "source": "Ars Technica",
+    "url": "https://arstechnica.com/ai/2026/10/anthropic-gives-outside-ai-watchdog-employee-like-access/",
+    "published": "2026-10-18T16:25:19+00:00",
+    "event_id": "c82b8eb2cf96",
+    "sources": [
+     {
+      "title": "Anthropic gives outside AI watchdog “employee-like” access",
+      "summary": "Anthropic granted an external AI watchdog employee-like access to its systems without approval requirements. The watchdog can now publish findings independently without company veto.",
+      "lang": "en",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/ai/2026/10/anthropic-gives-outside-ai-watchdog-employee-like-access/",
+      "published": "2026-10-18T16:25:19+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "Anthropic says it’s committing 5% of its shares to a ‘public benefit fund’",
+    "summary": "Anthropic committed 5% of its company shares to establish a public benefit fund. The commitment aims to align AI development with broader societal interests.",
+    "lang": "en",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/10/18/anthropic-says-its-committing-5-of-its-shares-to-a-public-benefit-fund/",
+    "published": "2026-10-18T20:37:40+00:00",
+    "event_id": "cef1d05c7525",
+    "sources": [
+     {
+      "title": "Anthropic says it’s committing 5% of its shares to a ‘public benefit fund’",
+      "summary": "Anthropic committed 5% of its company shares to establish a public benefit fund. The commitment aims to align AI development with broader societal interests.",
+      "lang": "en",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/10/18/anthropic-says-its-committing-5-of-its-shares-to-a-public-benefit-fund/",
+      "published": "2026-10-18T20:37:40+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "Video game ownership bill introduced in Congress",
+    "summary": "Representative Ritchie Torres introduced the Power To The Players Act in Congress. The bill would establish consumer rights to own purchased video games without licensing restrictions.",
+    "lang": "en",
+    "source": "The Verge",
+    "url": "https://www.theverge.com/policy/1013521/video-game-ownership-bill-congress-power-to-the-players-act",
+    "published": "2026-10-18T16:27:51+00:00",
+    "event_id": "4bd8f13ff5d6",
+    "sources": [
+     {
+      "title": "Video game ownership bill introduced in Congress",
+      "summary": "Representative Ritchie Torres introduced the Power To The Players Act in Congress. The bill would establish consumer rights to own purchased video games without licensing restrictions.",
+      "lang": "en",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/policy/1013521/video-game-ownership-bill-congress-power-to-the-players-act",
+      "published": "2026-10-18T16:27:51+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   }
+  ]
+ }
+}
