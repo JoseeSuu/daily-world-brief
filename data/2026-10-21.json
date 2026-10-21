@@ -1,0 +1,909 @@
+{
+ "date": "2026-10-21",
+ "generated_at": "2026-10-21T10:27:01.538699+00:00",
+ "mode": "full",
+ "cost_usd": 0.0552,
+ "radar_cost_usd": 0.0054,
+ "events": {
+  "mode": "full",
+  "compared_with": "2026-10-20",
+  "articles": 38,
+  "uncompared_articles": 0,
+  "events": 34,
+  "cost_usd": 0.0227
+ },
+ "radar": {
+  "items": [
+   {
+    "id": "gh-1414685342",
+    "source": "GitHub",
+    "kind": "project",
+    "title": "onehumanbeing/esp32-iphone-agent",
+    "url": "https://github.com/onehumanbeing/esp32-iphone-agent",
+    "discussion_url": "",
+    "published": "2026-10-11T19:10:25Z",
+    "lang": "en",
+    "excerpt": "Let an AI model use a real iPhone with a $7 ESP32: AirPlay eyes, USB HID hands, any OpenAI-compatible vision model. No Mac, no developer account, no jailbreak.",
+    "signal": {
+     "stars_total": 3453
+    },
+    "summary": "ESP32-based agent control layer enables OpenAI-compatible vision models to operate iPhone hardware via AirPlay streaming and USB HID, requiring only $7 microcontroller, no developer account or jailbreak.",
+    "usefulness": "Could support building agentic systems that learn from real mobile device interaction if vision model integration proves reliable on commodity hardware.",
+    "to_verify": "Whether vision accuracy and latency over AirPlay streaming meets practical thresholds; actual token costs and error rates compared to native APIs."
+   },
+   {
+    "id": "hn-50165801",
+    "source": "Hacker News",
+    "kind": "discussion",
+    "title": "Publish fake stats, get cited in LLMs",
+    "url": "https://peec.ai/blog/publish-stats-get-cited-the-tactic-that-put-my-data-all-over-the-web",
+    "discussion_url": "https://news.ycombinator.com/item?id=50165801",
+    "published": "2026-10-20T13:06:22+00:00",
+    "lang": "en",
+    "excerpt": "",
+    "signal": {
+     "points": 343,
+     "comments": 198
+    },
+    "summary": "Author documented how fabricated statistics published to web get ingested and cited by LLMs, establishing feedback loop that amplifies false claims through model training data.",
+    "usefulness": "Could inform Python document analysis tools with concrete example of AI governance risk: automated contamination of training corpora through coordinated publication.",
+    "to_verify": "Whether effect persists across different LLM architectures and training dates; how retrieval and ranking systems weighted the fabricated source before being cited."
+   },
+   {
+    "id": "gh-1395116154",
+    "source": "GitHub",
+    "kind": "project",
+    "title": "StartLuxLabs/StartLux-Decision",
+    "url": "https://github.com/StartLuxLabs/StartLux-Decision",
+    "discussion_url": "",
+    "published": "2026-09-29T11:53:37Z",
+    "lang": "en",
+    "excerpt": "Open decision models from 0.8B to 27B: a calibrated probability for every option in one pass, and a short thought only when unsure. Engine for vLLM, llama.cpp and MLX.",
+    "signal": {
+     "stars_total": 1058
+    },
+    "summary": "Open decision models from 0.8B to 27B parameters output calibrated probabilities for options in one forward pass, with short reasoning only when confidence is low; engine support includes vLLM, llama.cpp and MLX.",
+    "usefulness": "If probability calibration claim is validated, could reduce token costs in Python document classification by avoiding unnecessary reasoning steps for high-confidence decisions.",
+    "to_verify": "Actual calibration accuracy metrics against held-out decision tasks; comparison of token usage and latency versus baseline reasoning-always approaches."
+   }
+  ],
+  "mode": "full",
+  "failed_sources": []
+ },
+ "market": null,
+ "failed_sources": [],
+ "cells": {
+  "economia|asia": [
+   {
+    "title": "Ambani's tech shift in focus as investors pile into Jio's record IPO",
+    "summary": "Jio's record IPO attracts significant investor interest as Mukesh Ambani's company shifts focus toward technology ventures. The offering marks a major capital raise for the Indian telecommunications platform.",
+    "lang": "en",
+    "source": "Nikkei Asia",
+    "url": "https://asia.nikkei.com/business/markets/ipo/ambani-s-tech-shift-in-focus-as-investors-pile-into-jio-s-record-ipo",
+    "published": null,
+    "event_id": "b946aff375aa",
+    "sources": [
+     {
+      "title": "Ambani's tech shift in focus as investors pile into Jio's record IPO",
+      "summary": "Jio's record IPO attracts significant investor interest as Mukesh Ambani's company shifts focus toward technology ventures. The offering marks a major capital raise for the Indian telecommunications platform.",
+      "lang": "en",
+      "source": "Nikkei Asia",
+      "url": "https://asia.nikkei.com/business/markets/ipo/ambani-s-tech-shift-in-focus-as-investors-pile-into-jio-s-record-ipo",
+      "published": null
+     },
+     {
+      "title": "料成印度史上最大上市案 Jio IPO不到兩小時獲足額認購",
+      "summary": "印度安巴尼旗下电信公司Jio Platforms启动IPO后不到两小时便获足额认购。该上市案有望创下印度历史最大规模记录。",
+      "lang": "zh",
+      "source": "中央社 CNA",
+      "url": "https://www.cna.com.tw/news/aopl/202610210221.aspx",
+      "published": "2026-10-21T08:55:31+00:00"
+     },
+     {
+      "title": "料成印度史上最大上市案，Jio IPO 不到兩小時獲足額認購",
+      "summary": "印度电信公司Jio Platforms的IPO启动后不到两小时便获足额认购。该上市案有望成为印度历史最大规模上市。",
+      "lang": "zh",
+      "source": "科技新報 TechNews",
+      "url": "https://finance.technews.tw/2026/10/21/jio-platforms-ipo/",
+      "published": "2026-10-21T09:40:14+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "'De-CATLization' tests China's battery king as share price falls 10%",
+    "summary": "CATL's stock price falls 10% as Chinese competitors seek to reduce dependence on the battery leader. The 'de-CATLization' trend reflects market diversification efforts within China's battery industry.",
+    "lang": "en",
+    "source": "Nikkei Asia",
+    "url": "https://asia.nikkei.com/business/markets/de-catlization-tests-china-s-battery-king-as-share-price-falls-10",
+    "published": null,
+    "event_id": "d9307f079059",
+    "sources": [
+     {
+      "title": "'De-CATLization' tests China's battery king as share price falls 10%",
+      "summary": "CATL's stock price falls 10% as Chinese competitors seek to reduce dependence on the battery leader. The 'de-CATLization' trend reflects market diversification efforts within China's battery industry.",
+      "lang": "en",
+      "source": "Nikkei Asia",
+      "url": "https://asia.nikkei.com/business/markets/de-catlization-tests-china-s-battery-king-as-share-price-falls-10",
+      "published": null
+     },
+     {
+      "title": "中國電池龍頭寧德時代股價大跌逾 11%，自 5 月高點腰斬",
+      "summary": "中国电池龙头宁德时代第三季度财报公布后股价大跌超11%，引发市场对其盈利能力的担忧。股价自5月高点已下跌逾50%。",
+      "lang": "zh",
+      "source": "科技新報 TechNews",
+      "url": "https://finance.technews.tw/2026/10/21/china-battery-giant-catl-stock-price-plunges-11-percent-halved-may-high/",
+      "published": "2026-10-21T09:50:26+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "China’s battery makers race to invest abroad to avoid western barriers",
+    "summary": "Chinese battery makers CATL and rivals are investing abroad to build new supply chains amid rising Western protectionism. The strategy aims to circumvent trade barriers and secure global market access.",
+    "lang": "en",
+    "source": "FT Global Economy",
+    "url": "https://www.ft.com/content/36f60d90-a6f8-4cc4-9d9a-cb2301b3cff7?syn-25a6b1a6=1",
+    "published": "2026-10-21T02:06:42+00:00",
+    "event_id": "f95e34ac24da",
+    "sources": [
+     {
+      "title": "China’s battery makers race to invest abroad to avoid western barriers",
+      "summary": "Chinese battery makers CATL and rivals are investing abroad to build new supply chains amid rising Western protectionism. The strategy aims to circumvent trade barriers and secure global market access.",
+      "lang": "en",
+      "source": "FT Global Economy",
+      "url": "https://www.ft.com/content/36f60d90-a6f8-4cc4-9d9a-cb2301b3cff7?syn-25a6b1a6=1",
+      "published": "2026-10-21T02:06:42+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   }
+  ],
+  "tecnologia|asia": [
+   {
+    "title": "Vietnam security ministry seeks Samsung's help on AI and chips",
+    "summary": "Vietnam's security ministry is requesting Samsung's assistance in developing AI and semiconductor capabilities. The partnership reflects regional efforts to strengthen technological independence in critical sectors.",
+    "lang": "en",
+    "source": "Nikkei Asia",
+    "url": "https://asia.nikkei.com/business/electronics/vietnam-security-ministry-seeks-samsung-s-help-on-ai-and-chips",
+    "published": null,
+    "event_id": "78d8910ba2ca",
+    "sources": [
+     {
+      "title": "Vietnam security ministry seeks Samsung's help on AI and chips",
+      "summary": "Vietnam's security ministry is requesting Samsung's assistance in developing AI and semiconductor capabilities. The partnership reflects regional efforts to strengthen technological independence in critical sectors.",
+      "lang": "en",
+      "source": "Nikkei Asia",
+      "url": "https://asia.nikkei.com/business/electronics/vietnam-security-ministry-seeks-samsung-s-help-on-ai-and-chips",
+      "published": null
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "趨勢科技宣布提供最高100億日圓資安服務，協助日本企業強化網路韌性",
+    "summary": "趋势科技推出日本网络韧性计划，提供最高100亿日圆的安全服务额度。该计划助力日本企业通过TrendAI Vision One平台升级防护能力。",
+    "lang": "zh",
+    "source": "iThome 台灣",
+    "url": "https://www.ithome.com.tw/news/179866",
+    "published": "2026-10-21T06:10:18+00:00",
+    "event_id": "203ac5dfe2bf",
+    "sources": [
+     {
+      "title": "趨勢科技宣布提供最高100億日圓資安服務，協助日本企業強化網路韌性",
+      "summary": "趋势科技推出日本网络韧性计划，提供最高100亿日圆的安全服务额度。该计划助力日本企业通过TrendAI Vision One平台升级防护能力。",
+      "lang": "zh",
+      "source": "iThome 台灣",
+      "url": "https://www.ithome.com.tw/news/179866",
+      "published": "2026-10-21T06:10:18+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "高通擴大車聯網 V2X 全球部署，攜手 Toyota 推進零事故願景",
+    "summary": "高通宣布车联网V2X晶片组将扩大全球支持范围，通过单一平台支持主要地区。与丰田携手推进零事故愿景。",
+    "lang": "zh",
+    "source": "科技新報 TechNews",
+    "url": "https://technews.tw/2026/10/21/qualcomm-toyota-v2x/",
+    "published": "2026-10-21T09:47:51+00:00",
+    "event_id": "f5e79629f137",
+    "sources": [
+     {
+      "title": "高通擴大車聯網 V2X 全球部署，攜手 Toyota 推進零事故願景",
+      "summary": "高通宣布车联网V2X晶片组将扩大全球支持范围，通过单一平台支持主要地区。与丰田携手推进零事故愿景。",
+      "lang": "zh",
+      "source": "科技新報 TechNews",
+      "url": "https://technews.tw/2026/10/21/qualcomm-toyota-v2x/",
+      "published": "2026-10-21T09:47:51+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "AI 訂單推升 PCB 技術門檻，設備交期拉長、供應鏈面臨量產挑戰",
+    "summary": "AI服务器需求推动高端PCB及IC载板规格升级，产业面临产能挑战。设备交期延长，供应链量产压力增加。",
+    "lang": "zh",
+    "source": "科技新報 TechNews",
+    "url": "https://technews.tw/2026/10/21/ai-orders-elevate-pcb-technology-requirements-longer-equipment-lead-times-mass-production-challenges-supply-chain/",
+    "published": "2026-10-21T09:42:23+00:00",
+    "event_id": "4cd559e2bf6d",
+    "sources": [
+     {
+      "title": "AI 訂單推升 PCB 技術門檻，設備交期拉長、供應鏈面臨量產挑戰",
+      "summary": "AI服务器需求推动高端PCB及IC载板规格升级，产业面临产能挑战。设备交期延长，供应链量产压力增加。",
+      "lang": "zh",
+      "source": "科技新報 TechNews",
+      "url": "https://technews.tw/2026/10/21/ai-orders-elevate-pcb-technology-requirements-longer-equipment-lead-times-mass-production-challenges-supply-chain/",
+      "published": "2026-10-21T09:42:23+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "Broadcom Wi-Fi晶片WPSplinter漏洞波及臺灣網通廠商產品",
+    "summary": "Broadcom Wi-Fi晶片WPSplinter漏洞已波及台湾网通厂商产品。资安研究人员揭露该安全漏洞带来的潜在风险。",
+    "lang": "zh",
+    "source": "iThome 台灣",
+    "url": "https://www.ithome.com.tw/news/179857",
+    "published": "2026-10-21T01:10:07+00:00",
+    "event_id": "931aad2fa3aa",
+    "sources": [
+     {
+      "title": "Broadcom Wi-Fi晶片WPSplinter漏洞波及臺灣網通廠商產品",
+      "summary": "Broadcom Wi-Fi晶片WPSplinter漏洞已波及台湾网通厂商产品。资安研究人员揭露该安全漏洞带来的潜在风险。",
+      "lang": "zh",
+      "source": "iThome 台灣",
+      "url": "https://www.ithome.com.tw/news/179857",
+      "published": "2026-10-21T01:10:07+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   }
+  ],
+  "economia|europa": [
+   {
+    "title": "France’s borrowing costs hit 5% for first time since 2002",
+    "summary": "France's 10-year bond borrowing costs hit 5% for the first time since 2002 due to fiscal concerns and political instability. The yield increase reflects investor anxiety over public finances.",
+    "lang": "en",
+    "source": "Financial Times",
+    "url": "https://www.ft.com/content/76f076e4-9db2-4971-8ac9-73d9f39e4876?syn-25a6b1a6=1",
+    "published": "2026-10-21T09:07:37+00:00",
+    "event_id": "bf98631f7d75",
+    "sources": [
+     {
+      "title": "France’s borrowing costs hit 5% for first time since 2002",
+      "summary": "France's 10-year bond borrowing costs hit 5% for the first time since 2002 due to fiscal concerns and political instability. The yield increase reflects investor anxiety over public finances.",
+      "lang": "en",
+      "source": "Financial Times",
+      "url": "https://www.ft.com/content/76f076e4-9db2-4971-8ac9-73d9f39e4876?syn-25a6b1a6=1",
+      "published": "2026-10-21T09:07:37+00:00"
+     },
+     {
+      "title": "French Bond Risk Hits 15-Year High on $110 Crude, Budget Concern",
+      "summary": "French government bond risk reached a 15-year high as rising crude oil prices and budget concerns weighed on investor confidence. The gauge reflects growing concerns about fiscal sustainability.",
+      "lang": "en",
+      "source": "Bloomberg Markets",
+      "url": "https://www.bloomberg.com/news/articles/2026-10-21/french-bond-risk-gauge-nears-160-basis-points-hits-15-year-high",
+      "published": "2026-10-21T09:18:02+00:00"
+     }
+    ],
+    "status": "updated",
+    "change_summary": "France's 10-year bond borrowing costs hit 5% for the first time since 2002 due to fiscal concerns and political instability. The yield increase reflects investor anxiety over public finances.",
+    "previous_date": "2026-10-20",
+    "previous_event_id": "bf98631f7d75"
+   },
+   {
+    "title": "German Economy Probably Stagnated in Third Quarter: Bundesbank",
+    "summary": "Germany's economy likely stagnated in the third quarter but is expected to accelerate in the final months of 2024, according to Bundesbank projections. Growth momentum is anticipated to strengthen year-end.",
+    "lang": "en",
+    "source": "Bloomberg Economics",
+    "url": "https://www.bloomberg.com/news/articles/2026-10-21/german-economy-probably-stagnated-in-third-quarter-bundesbank",
+    "published": "2026-10-21T10:00:00+00:00",
+    "event_id": "b49076ebce3e",
+    "sources": [
+     {
+      "title": "German Economy Probably Stagnated in Third Quarter: Bundesbank",
+      "summary": "Germany's economy likely stagnated in the third quarter but is expected to accelerate in the final months of 2024, according to Bundesbank projections. Growth momentum is anticipated to strengthen year-end.",
+      "lang": "en",
+      "source": "Bloomberg Economics",
+      "url": "https://www.bloomberg.com/news/articles/2026-10-21/german-economy-probably-stagnated-in-third-quarter-bundesbank",
+      "published": "2026-10-21T10:00:00+00:00"
+     }
+    ],
+    "status": "unclear",
+    "change_summary": "",
+    "previous_date": "2026-10-20",
+    "previous_event_id": "b49076ebce3e"
+   },
+   {
+    "title": "UK government borrowing rises to £24.5bn ahead of Budget",
+    "summary": "UK government borrowing rose to £24.5 billion in September, exceeding expectations before the October 28 Budget announcement. The figures provide a final public finance snapshot ahead of fiscal announcements.",
+    "lang": "en",
+    "source": "FT Global Economy",
+    "url": "https://www.ft.com/content/89322cfb-54cd-4fcd-9ba7-cd7e74382215?syn-25a6b1a6=1",
+    "published": "2026-10-21T06:10:16+00:00",
+    "event_id": "4507f8c50fe6",
+    "sources": [
+     {
+      "title": "UK government borrowing rises to £24.5bn ahead of Budget",
+      "summary": "UK government borrowing rose to £24.5 billion in September, exceeding expectations before the October 28 Budget announcement. The figures provide a final public finance snapshot ahead of fiscal announcements.",
+      "lang": "en",
+      "source": "FT Global Economy",
+      "url": "https://www.ft.com/content/89322cfb-54cd-4fcd-9ba7-cd7e74382215?syn-25a6b1a6=1",
+      "published": "2026-10-21T06:10:16+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "UK September inflation fuels expectations of imminent BoE rate rise",
+    "summary": "UK September inflation accelerated in both headline and core measures, raising expectations for a Bank of England rate increase at its November meeting. Rising inflation pressures mount policy tightening prospects.",
+    "lang": "en",
+    "source": "FT Global Economy",
+    "url": "https://www.ft.com/content/70f1da13-3c33-4881-aaa8-3458c1ba7eaf",
+    "published": "2026-10-21T07:03:47+00:00",
+    "event_id": "62d6f4f9ede3",
+    "sources": [
+     {
+      "title": "UK September inflation fuels expectations of imminent BoE rate rise",
+      "summary": "UK September inflation accelerated in both headline and core measures, raising expectations for a Bank of England rate increase at its November meeting. Rising inflation pressures mount policy tightening prospects.",
+      "lang": "en",
+      "source": "FT Global Economy",
+      "url": "https://www.ft.com/content/70f1da13-3c33-4881-aaa8-3458c1ba7eaf",
+      "published": "2026-10-21T07:03:47+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "Pablo Hernández de Cos busca apoyos en Francia y Alemania para impulsar su candidatura a presidente del BCE",
+    "summary": "El exgobernador Pablo Hernández de Cos busca apoyo en Francia y Alemania para su candidatura a presidente del BCE. Las negociaciones podrían verse afectadas por la crisis política francesa.",
+    "lang": "es",
+    "source": "El País Economía",
+    "url": "https://elpais.com/economia/2026-10-21/pablo-hernandez-de-cos-busca-apoyos-en-francia-y-alemania-para-impulsar-su-candidatura-a-presidente-del-bce.html",
+    "published": "2026-10-21T03:30:01+00:00",
+    "event_id": "c584c11ce534",
+    "sources": [
+     {
+      "title": "Pablo Hernández de Cos busca apoyos en Francia y Alemania para impulsar su candidatura a presidente del BCE",
+      "summary": "El exgobernador Pablo Hernández de Cos busca apoyo en Francia y Alemania para su candidatura a presidente del BCE. Las negociaciones podrían verse afectadas por la crisis política francesa.",
+      "lang": "es",
+      "source": "El País Economía",
+      "url": "https://elpais.com/economia/2026-10-21/pablo-hernandez-de-cos-busca-apoyos-en-francia-y-alemania-para-impulsar-su-candidatura-a-presidente-del-bce.html",
+      "published": "2026-10-21T03:30:01+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   }
+  ],
+  "economia|america": [
+   {
+    "title": "US pending home sales fall to record low as mortgage rates surge",
+    "summary": "US pending home sales fell to a record low in September as mortgage rates increased, deepening the housing market slowdown. Contracts dropped 7.3% amid higher borrowing costs deterring buyers.",
+    "lang": "en",
+    "source": "FT Global Economy",
+    "url": "https://www.ft.com/content/42ed6778-d350-48a6-ba3d-99efca3cd276?syn-25a6b1a6=1",
+    "published": "2026-10-20T15:47:56+00:00",
+    "event_id": "38c58414457c",
+    "sources": [
+     {
+      "title": "US pending home sales fall to record low as mortgage rates surge",
+      "summary": "US pending home sales fell to a record low in September as mortgage rates increased, deepening the housing market slowdown. Contracts dropped 7.3% amid higher borrowing costs deterring buyers.",
+      "lang": "en",
+      "source": "FT Global Economy",
+      "url": "https://www.ft.com/content/42ed6778-d350-48a6-ba3d-99efca3cd276?syn-25a6b1a6=1",
+      "published": "2026-10-20T15:47:56+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   }
+  ],
+  "politica|europa": [
+   {
+    "title": "Putin hosts Trump envoy for new Ukraine peace talks, frees US citizen held in Russia",
+    "summary": "Putin hosted a Trump envoy for Ukraine peace talks and released Stephen Hubbard, a 74-year-old retired US teacher held on mercenary charges. The moves signal potential diplomatic engagement on conflict resolution.",
+    "lang": "en",
+    "source": "Channel NewsAsia",
+    "url": "https://www.channelnewsasia.com/world/putin-steve-witkoff-ukraine-peace-talks-frees-us-citizen-6478526",
+    "published": "2026-10-21T09:55:31+00:00",
+    "event_id": "22cd3d35122c",
+    "sources": [
+     {
+      "title": "Putin hosts Trump envoy for new Ukraine peace talks, frees US citizen held in Russia",
+      "summary": "Putin hosted a Trump envoy for Ukraine peace talks and released Stephen Hubbard, a 74-year-old retired US teacher held on mercenary charges. The moves signal potential diplomatic engagement on conflict resolution.",
+      "lang": "en",
+      "source": "Channel NewsAsia",
+      "url": "https://www.channelnewsasia.com/world/putin-steve-witkoff-ukraine-peace-talks-frees-us-citizen-6478526",
+      "published": "2026-10-21T09:55:31+00:00"
+     }
+    ],
+    "status": "updated",
+    "change_summary": "Putin hosted a Trump envoy for Ukraine peace talks and released Stephen Hubbard, a 74-year-old retired US teacher held on mercenary charges. The moves signal potential diplomatic engagement on conflict resolution.",
+    "previous_date": "2026-10-20",
+    "previous_event_id": "22cd3d35122c"
+   },
+   {
+    "title": "Macron's image abroad tarnished by riots as his term ends",
+    "summary": "Macron's international image has been damaged by riots and social unrest during his presidency's final period. The violence provides opportunities for France's adversaries to exploit instability.",
+    "lang": "en",
+    "source": "Le Monde International",
+    "url": "https://www.lemonde.fr/en/opinion/article/2026/10/21/macron-s-image-abroad-tarnished-by-riots-as-his-term-ends_6760924_23.html",
+    "published": "2026-10-21T10:14:05+00:00",
+    "event_id": "35d27ef4ccbf",
+    "sources": [
+     {
+      "title": "Macron's image abroad tarnished by riots as his term ends",
+      "summary": "Macron's international image has been damaged by riots and social unrest during his presidency's final period. The violence provides opportunities for France's adversaries to exploit instability.",
+      "lang": "en",
+      "source": "Le Monde International",
+      "url": "https://www.lemonde.fr/en/opinion/article/2026/10/21/macron-s-image-abroad-tarnished-by-riots-as-his-term-ends_6760924_23.html",
+      "published": "2026-10-21T10:14:05+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "French fighter jet crashes during training, at least one dead",
+    "summary": "A French military fighter jet crashed during training exercises near Nancy, killing at least one crew member. Search efforts continue for the second crew member.",
+    "lang": "en",
+    "source": "Le Monde International",
+    "url": "https://www.lemonde.fr/en/france/article/2026/10/21/french-fighter-jet-crashes-during-training-at-least-one-dead_6760822_7.html",
+    "published": "2026-10-21T07:04:50+00:00",
+    "event_id": "5080eaadc65f",
+    "sources": [
+     {
+      "title": "French fighter jet crashes during training, at least one dead",
+      "summary": "A French military fighter jet crashed during training exercises near Nancy, killing at least one crew member. Search efforts continue for the second crew member.",
+      "lang": "en",
+      "source": "Le Monde International",
+      "url": "https://www.lemonde.fr/en/france/article/2026/10/21/french-fighter-jet-crashes-during-training-at-least-one-dead_6760822_7.html",
+      "published": "2026-10-21T07:04:50+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "Portugal housing protests continue after police clear camps",
+    "summary": "Portuguese housing protesters vow to continue campaigning for affordable housing after police cleared tent camps and arrested at least 55 demonstrators. The movement persists despite security operations.",
+    "lang": "en",
+    "source": "Deutsche Welle World",
+    "url": "https://www.dw.com/en/portugal-housing-protests-continue-after-police-clear-camps/a-79717904?maca=en-rss-en-world-4025-rdf",
+    "published": "2026-10-20T23:11:00+00:00",
+    "event_id": "52c4a7c09806",
+    "sources": [
+     {
+      "title": "Portugal housing protests continue after police clear camps",
+      "summary": "Portuguese housing protesters vow to continue campaigning for affordable housing after police cleared tent camps and arrested at least 55 demonstrators. The movement persists despite security operations.",
+      "lang": "en",
+      "source": "Deutsche Welle World",
+      "url": "https://www.dw.com/en/portugal-housing-protests-continue-after-police-clear-camps/a-79717904?maca=en-rss-en-world-4025-rdf",
+      "published": "2026-10-20T23:11:00+00:00"
+     }
+    ],
+    "status": "updated",
+    "change_summary": "Portuguese housing protesters vow to continue campaigning for affordable housing after police cleared tent camps and arrested at least 55 demonstrators. The movement persists despite security operations.",
+    "previous_date": "2026-10-20",
+    "previous_event_id": "52c4a7c09806"
+   },
+   {
+    "title": "North Korean workers treated as 'slaves' at Russian drone factory, says new report",
+    "summary": "A new report reveals North Korean workers face exploitative conditions at a Russian drone factory, raising concerns Pyongyang could gain weapons technology knowledge. The situation highlights potential technology transfer risks.",
+    "lang": "en",
+    "source": "Deutsche Welle World",
+    "url": "https://www.dw.com/en/north-korean-workers-treated-as-slaves-at-russian-drone-factory-says-new-report/a-79710877?maca=en-rss-en-world-4025-rdf",
+    "published": "2026-10-20T17:10:00+00:00",
+    "event_id": "ddf34eb8ffb6",
+    "sources": [
+     {
+      "title": "North Korean workers treated as 'slaves' at Russian drone factory, says new report",
+      "summary": "A new report reveals North Korean workers face exploitative conditions at a Russian drone factory, raising concerns Pyongyang could gain weapons technology knowledge. The situation highlights potential technology transfer risks.",
+      "lang": "en",
+      "source": "Deutsche Welle World",
+      "url": "https://www.dw.com/en/north-korean-workers-treated-as-slaves-at-russian-drone-factory-says-new-report/a-79710877?maca=en-rss-en-world-4025-rdf",
+      "published": "2026-10-20T17:10:00+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "Zelenskyy says early warning system for Russian missile attacks resumes",
+    "summary": "Ukrainian President Zelenskyy announced that Russia's early warning system for missile attacks has resumed following talks with US officials including Secretary of State Rubio. The restoration improves Ukraine's defense capabilities.",
+    "lang": "en",
+    "source": "NPR World",
+    "url": "https://www.npr.org/2026/10/21/g-s1-149026/zelenskyy-russian-missiles-warning",
+    "published": "2026-10-21T05:43:24+00:00",
+    "event_id": "16e0cf2edde7",
+    "sources": [
+     {
+      "title": "Zelenskyy says early warning system for Russian missile attacks resumes",
+      "summary": "Ukrainian President Zelenskyy announced that Russia's early warning system for missile attacks has resumed following talks with US officials including Secretary of State Rubio. The restoration improves Ukraine's defense capabilities.",
+      "lang": "en",
+      "source": "NPR World",
+      "url": "https://www.npr.org/2026/10/21/g-s1-149026/zelenskyy-russian-missiles-warning",
+      "published": "2026-10-21T05:43:24+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "Current U.S. support for Ukraine looks very different than it did",
+    "summary": "Current US support for Ukraine differs significantly from previous approaches as Trump administration policies reshape assistance levels. Former US Ambassador William Taylor discusses the strategic shift in American engagement.",
+    "lang": "en",
+    "source": "NPR World",
+    "url": "https://www.npr.org/2026/10/20/nx-s1-6009227/current-u-s-support-for-ukraine-looks-very-different-than-it-did",
+    "published": "2026-10-20T20:27:23+00:00",
+    "event_id": "4927dc620d15",
+    "sources": [
+     {
+      "title": "Current U.S. support for Ukraine looks very different than it did",
+      "summary": "Current US support for Ukraine differs significantly from previous approaches as Trump administration policies reshape assistance levels. Former US Ambassador William Taylor discusses the strategic shift in American engagement.",
+      "lang": "en",
+      "source": "NPR World",
+      "url": "https://www.npr.org/2026/10/20/nx-s1-6009227/current-u-s-support-for-ukraine-looks-very-different-than-it-did",
+      "published": "2026-10-20T20:27:23+00:00"
+     }
+    ],
+    "status": "unclear",
+    "change_summary": "",
+    "previous_date": "2026-10-20",
+    "previous_event_id": "4927dc620d15"
+   }
+  ],
+  "tecnologia|america": [
+   {
+    "title": "川普揭15億美元晶片生產回流計畫 商務部長嫌台灣製造「太遠了」",
+    "summary": "美国总统川普宣布国防部将投资15亿美元在北卡罗来纳州扩大半导体生产。商务部长卢特尼克批评台湾制造对美国距离太远，强调重振本土芯片产业的必要性。",
+    "lang": "zh",
+    "source": "中央社 CNA",
+    "url": "https://www.cna.com.tw/news/aopl/202610210234.aspx",
+    "published": "2026-10-21T09:12:01+00:00",
+    "event_id": "0605d8d691aa",
+    "sources": [
+     {
+      "title": "川普揭15億美元晶片生產回流計畫 商務部長嫌台灣製造「太遠了」",
+      "summary": "美国总统川普宣布国防部将投资15亿美元在北卡罗来纳州扩大半导体生产。商务部长卢特尼克批评台湾制造对美国距离太远，强调重振本土芯片产业的必要性。",
+      "lang": "zh",
+      "source": "中央社 CNA",
+      "url": "https://www.cna.com.tw/news/aopl/202610210234.aspx",
+      "published": "2026-10-21T09:12:01+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "Anthropic pitches AI safety bill that may block a model if 50+ people could be killed",
+    "summary": "Anthropic proposes an AI safety bill that would block models if 50+ deaths could result, but restricts federal agencies from blocking releases without judicial approval. The policy balances safety with approval processes.",
+    "lang": "en",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/10/20/anthropic-pitches-ai-safety-bill-that-may-block-a-model-if-50-people-could-be-killed/",
+    "published": "2026-10-20T23:01:23+00:00",
+    "event_id": "d4e57614c374",
+    "sources": [
+     {
+      "title": "Anthropic pitches AI safety bill that may block a model if 50+ people could be killed",
+      "summary": "Anthropic proposes an AI safety bill that would block models if 50+ deaths could result, but restricts federal agencies from blocking releases without judicial approval. The policy balances safety with approval processes.",
+      "lang": "en",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/10/20/anthropic-pitches-ai-safety-bill-that-may-block-a-model-if-50-people-could-be-killed/",
+      "published": "2026-10-20T23:01:23+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "SpaceX and Tesla boards form special committees to review merger",
+    "summary": "SpaceX and Tesla boards established special committees to review a potential merger while Elon Musk supports the idea but claims non-membership. Independent directors comprise the review committees.",
+    "lang": "en",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/10/20/spacex-and-tesla-boards-form-special-committees-to-review-merger/",
+    "published": "2026-10-20T22:57:57+00:00",
+    "event_id": "954ba61da6d3",
+    "sources": [
+     {
+      "title": "SpaceX and Tesla boards form special committees to review merger",
+      "summary": "SpaceX and Tesla boards established special committees to review a potential merger while Elon Musk supports the idea but claims non-membership. Independent directors comprise the review committees.",
+      "lang": "en",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/10/20/spacex-and-tesla-boards-form-special-committees-to-review-merger/",
+      "published": "2026-10-20T22:57:57+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "OpenAI acquires startup Orchestra Bio⁠ to beef up its biotech business",
+    "summary": "OpenAI acquired Orchestra Bio to strengthen its biotech division and enhance Rosalind, its AI model for life sciences research. The acquisition expands OpenAI's capabilities in biotech applications.",
+    "lang": "en",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/10/20/openai-acquires-startup-orchestra-bio%e2%81%a0-to-beef-up-its-biotech-business/",
+    "published": "2026-10-20T20:35:10+00:00",
+    "event_id": "a323e283c5c7",
+    "sources": [
+     {
+      "title": "OpenAI acquires startup Orchestra Bio⁠ to beef up its biotech business",
+      "summary": "OpenAI acquired Orchestra Bio to strengthen its biotech division and enhance Rosalind, its AI model for life sciences research. The acquisition expands OpenAI's capabilities in biotech applications.",
+      "lang": "en",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/10/20/openai-acquires-startup-orchestra-bio%e2%81%a0-to-beef-up-its-biotech-business/",
+      "published": "2026-10-20T20:35:10+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "Meta drops the word \"train\" from its commercial TOS after AI backlash",
+    "summary": "Meta removed the word \"train\" from its commercial terms of service following AI backlash over data scraping. The policy change does not add language respecting robots.txt standards.",
+    "lang": "en",
+    "source": "Ars Technica",
+    "url": "https://arstechnica.com/tech-policy/2026/10/meta-drops-the-word-train-from-its-commercial-tos-after-ai-backlash/",
+    "published": "2026-10-20T20:07:58+00:00",
+    "event_id": "165cb1553146",
+    "sources": [
+     {
+      "title": "Meta drops the word \"train\" from its commercial TOS after AI backlash",
+      "summary": "Meta removed the word \"train\" from its commercial terms of service following AI backlash over data scraping. The policy change does not add language respecting robots.txt standards.",
+      "lang": "en",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/tech-policy/2026/10/meta-drops-the-word-train-from-its-commercial-tos-after-ai-backlash/",
+      "published": "2026-10-20T20:07:58+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "Gemini's Personal Intelligence is coming to cars",
+    "summary": "Google's Gemini Personal Intelligence feature is expanding to vehicles for in-car AI functionality. Users should audit their Gemini settings as the integration advances.",
+    "lang": "en",
+    "source": "Ars Technica",
+    "url": "https://arstechnica.com/google/2026/10/geminis-personal-intelligence-is-coming-to-cars/",
+    "published": "2026-10-20T20:00:33+00:00",
+    "event_id": "f74f11fae08f",
+    "sources": [
+     {
+      "title": "Gemini's Personal Intelligence is coming to cars",
+      "summary": "Google's Gemini Personal Intelligence feature is expanding to vehicles for in-car AI functionality. Users should audit their Gemini settings as the integration advances.",
+      "lang": "en",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/google/2026/10/geminis-personal-intelligence-is-coming-to-cars/",
+      "published": "2026-10-20T20:00:33+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   }
+  ],
+  "politica|asia": [
+   {
+    "title": "Taiwan admits paying for retired US general to observe largest annual war games",
+    "summary": "Taiwan's defence ministry confirmed for the first time it funded US Indo-Pacific Command to send a retired general to observe its largest annual war games. The arrangement reflects Taiwan's security cooperation with the US.",
+    "lang": "en",
+    "source": "South China Morning Post (China)",
+    "url": "https://www.scmp.com/news/china/military/article/3371531/taiwan-admits-paying-retired-us-general-observe-largest-annual-war-games",
+    "published": "2026-10-21T01:30:08+00:00",
+    "event_id": "9a3ec5fd0c4c",
+    "sources": [
+     {
+      "title": "Taiwan admits paying for retired US general to observe largest annual war games",
+      "summary": "Taiwan's defence ministry confirmed for the first time it funded US Indo-Pacific Command to send a retired general to observe its largest annual war games. The arrangement reflects Taiwan's security cooperation with the US.",
+      "lang": "en",
+      "source": "South China Morning Post (China)",
+      "url": "https://www.scmp.com/news/china/military/article/3371531/taiwan-admits-paying-retired-us-general-observe-largest-annual-war-games",
+      "published": "2026-10-21T01:30:08+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "日相高市早苗執政滿一年 矢言加強因應物價",
+    "summary": "日本首相高市早苗执政满一年，表示第二年重点是强化应对全球物价上涨的对策。政府将继续推进价格稳定相关政策。",
+    "lang": "zh",
+    "source": "中央社 CNA",
+    "url": "https://www.cna.com.tw/news/aopl/202610210149.aspx",
+    "published": "2026-10-21T06:39:56+00:00",
+    "event_id": "a4559c9b8bd8",
+    "sources": [
+     {
+      "title": "日相高市早苗執政滿一年 矢言加強因應物價",
+      "summary": "日本首相高市早苗执政满一年，表示第二年重点是强化应对全球物价上涨的对策。政府将继续推进价格稳定相关政策。",
+      "lang": "zh",
+      "source": "中央社 CNA",
+      "url": "https://www.cna.com.tw/news/aopl/202610210149.aspx",
+      "published": "2026-10-21T06:39:56+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "UK fighter jets to protect Saudi Arabia from Houthi attacks",
+    "summary": "The UK is deploying fighter jets to protect Saudi Arabia from Iranian-aligned Houthi rebel attacks. The military support aims to defend against repeated strikes on the kingdom.",
+    "lang": "en",
+    "source": "Deutsche Welle World",
+    "url": "https://www.dw.com/en/uk-fighter-jets-to-protect-saudi-arabia-from-houthi-attacks/a-79718467?maca=en-rss-en-world-4025-rdf",
+    "published": "2026-10-21T01:23:00+00:00",
+    "event_id": "085df90913ae",
+    "sources": [
+     {
+      "title": "UK fighter jets to protect Saudi Arabia from Houthi attacks",
+      "summary": "The UK is deploying fighter jets to protect Saudi Arabia from Iranian-aligned Houthi rebel attacks. The military support aims to defend against repeated strikes on the kingdom.",
+      "lang": "en",
+      "source": "Deutsche Welle World",
+      "url": "https://www.dw.com/en/uk-fighter-jets-to-protect-saudi-arabia-from-houthi-attacks/a-79718467?maca=en-rss-en-world-4025-rdf",
+      "published": "2026-10-21T01:23:00+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   }
+  ],
+  "politica|america": [
+   {
+    "title": "Trump makes Russia-friendly moves as he looks for a way to end the war with Ukraine",
+    "summary": "President Trump is pursuing Russia-friendly policies while seeking to end the Ukraine war amid concerns over high energy costs before midterms. His diplomatic efforts prioritize conflict resolution with Moscow.",
+    "lang": "en",
+    "source": "NPR World",
+    "url": "https://www.npr.org/2026/10/20/nx-s1-6007897/trump-makes-russia-friendly-moves-as-he-looks-for-a-way-to-end-the-war-with-ukraine",
+    "published": "2026-10-20T11:03:52+00:00",
+    "event_id": "1fe44c6c0b60",
+    "sources": [
+     {
+      "title": "Trump makes Russia-friendly moves as he looks for a way to end the war with Ukraine",
+      "summary": "President Trump is pursuing Russia-friendly policies while seeking to end the Ukraine war amid concerns over high energy costs before midterms. His diplomatic efforts prioritize conflict resolution with Moscow.",
+      "lang": "en",
+      "source": "NPR World",
+      "url": "https://www.npr.org/2026/10/20/nx-s1-6007897/trump-makes-russia-friendly-moves-as-he-looks-for-a-way-to-end-the-war-with-ukraine",
+      "published": "2026-10-20T11:03:52+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "DOJ charges 28 with voting crimes. And, TikTok ignored staff's child safety concerns",
+    "summary": "The Justice Department charged 28 people in California with voting crimes as Election Day approaches. TikTok staff raised unheeded child safety concerns with executives.",
+    "lang": "en",
+    "source": "NPR World",
+    "url": "https://www.npr.org/2026/10/20/g-s1-148877/up-first-newsletter-california-elections-doj-midterms-trump-tiktok",
+    "published": "2026-10-20T11:04:49+00:00",
+    "event_id": "b43780c23f72",
+    "sources": [
+     {
+      "title": "DOJ charges 28 with voting crimes. And, TikTok ignored staff's child safety concerns",
+      "summary": "The Justice Department charged 28 people in California with voting crimes as Election Day approaches. TikTok staff raised unheeded child safety concerns with executives.",
+      "lang": "en",
+      "source": "NPR World",
+      "url": "https://www.npr.org/2026/10/20/g-s1-148877/up-first-newsletter-california-elections-doj-midterms-trump-tiktok",
+      "published": "2026-10-20T11:04:49+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "Alberta voters overwhelmingly reject plan to leave Canada in referendum",
+    "summary": "Alberta voters overwhelmingly rejected a referendum proposal to begin the process of leaving Canada. The result represents a victory for Prime Minister Mark Carney and Canadian unity supporters.",
+    "lang": "en",
+    "source": "The Guardian World",
+    "url": "https://www.theguardian.com/world/2026/oct/20/canada-alberta-rejects-independence-succession-referendum",
+    "published": "2026-10-20T16:24:05+00:00",
+    "event_id": "41fb58d0589d",
+    "sources": [
+     {
+      "title": "Alberta voters overwhelmingly reject plan to leave Canada in referendum",
+      "summary": "Alberta voters overwhelmingly rejected a referendum proposal to begin the process of leaving Canada. The result represents a victory for Prime Minister Mark Carney and Canadian unity supporters.",
+      "lang": "en",
+      "source": "The Guardian World",
+      "url": "https://www.theguardian.com/world/2026/oct/20/canada-alberta-rejects-independence-succession-referendum",
+      "published": "2026-10-20T16:24:05+00:00"
+     }
+    ],
+    "status": "unchanged",
+    "change_summary": "",
+    "previous_date": "2026-10-20",
+    "previous_event_id": "41fb58d0589d"
+   }
+  ],
+  "tecnologia|europa": [
+   {
+    "title": "Defensa quiere dejar de depender de la IA militar de Palantir con una alternativa española que no está a la altura",
+    "summary": "España busca reducir su dependencia de la tecnología militar de IA de Palantir con alternativas nacionales. Sin embargo, enfrentan desafíos geopolíticos al intentar alejarse de países que controlan tecnologías militares críticas.",
+    "lang": "es",
+    "source": "Xataka",
+    "url": "https://www.xataka.com/empresas-y-economia/defensa-quiere-dejar-depender-ia-militar-palantir-alternativa-espanola-que-no-esta-a-altura",
+    "published": "2026-10-21T10:14:15+00:00",
+    "event_id": "411e0c123915",
+    "sources": [
+     {
+      "title": "Defensa quiere dejar de depender de la IA militar de Palantir con una alternativa española que no está a la altura",
+      "summary": "España busca reducir su dependencia de la tecnología militar de IA de Palantir con alternativas nacionales. Sin embargo, enfrentan desafíos geopolíticos al intentar alejarse de países que controlan tecnologías militares críticas.",
+      "lang": "es",
+      "source": "Xataka",
+      "url": "https://www.xataka.com/empresas-y-economia/defensa-quiere-dejar-depender-ia-militar-palantir-alternativa-espanola-que-no-esta-a-altura",
+      "published": "2026-10-21T10:14:15+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   }
+  ]
+ }
+}
