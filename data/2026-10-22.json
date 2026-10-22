@@ -1,0 +1,793 @@
+{
+ "date": "2026-10-22",
+ "generated_at": "2026-10-22T10:25:37.439111+00:00",
+ "mode": "full",
+ "cost_usd": 0.0456,
+ "radar_cost_usd": 0.0054,
+ "events": {
+  "mode": "full",
+  "compared_with": "2026-10-21",
+  "articles": 35,
+  "uncompared_articles": 0,
+  "events": 29,
+  "cost_usd": 0.0162
+ },
+ "radar": {
+  "items": [
+   {
+    "id": "gh-1401123204",
+    "source": "GitHub",
+    "kind": "project",
+    "title": "Harvil1/codeAgent",
+    "url": "https://github.com/Harvil1/codeAgent",
+    "discussion_url": "",
+    "published": "2026-10-02T05:15:41Z",
+    "lang": "en",
+    "excerpt": "CodeAgent is an open-source coding agent that lives in your terminal. It understands your repository, plans multi-step changes, writes and edits files, runs commands and tests, and iterates until the task is done — all with a transparent, extensible tool loop.",
+    "signal": {
+     "stars_total": 1026
+    },
+    "summary": "CodeAgent is an open-source coding agent running in terminal that understands repositories, plans multi-step changes, writes and edits files, runs commands and tests, iterating until task completion with transparent tool loop.",
+    "usefulness": "Could support learning to build Python tools by providing a working reference implementation of agent planning, file manipulation, and command execution workflows in a contained environment.",
+    "to_verify": "Whether CodeAgent's tool loop implementation handles Python-specific patterns; how it manages state across multi-step repository changes; actual error recovery mechanics."
+   },
+   {
+    "id": "hn-50176082",
+    "source": "Hacker News",
+    "kind": "discussion",
+    "title": "Using LLM for confidence scoring is a bad idea",
+    "url": "https://rumple.github.io/blog/2026/10/20/asking-llm-for-confidence.html",
+    "discussion_url": "https://news.ycombinator.com/item?id=50176082",
+    "published": "2026-10-21T04:27:51+00:00",
+    "lang": "en",
+    "excerpt": "",
+    "signal": {
+     "points": 98,
+     "comments": 52
+    },
+    "summary": "HN discussion claims using LLM for confidence scoring is problematic, authored as blog post exploring this limitation.",
+    "usefulness": "Could inform governance decisions about LLM reliability assessment in Python applications where confidence scores drive downstream actions or safety-critical logic.",
+    "to_verify": "Specific failure modes when LLMs provide confidence scores; whether proposed alternative exists; empirical evidence distinguishing this from general LLM calibration issues."
+   }
+  ],
+  "mode": "full",
+  "failed_sources": []
+ },
+ "market": null,
+ "failed_sources": [],
+ "cells": {
+  "economia|asia": [
+   {
+    "title": "Philippines Ready to Tighten Further After Surprise Jumbo Hike",
+    "summary": "The Philippine central bank surprised with a large interest rate hike and signaled further tightening to curb inflation and support the weakening peso.",
+    "lang": "en",
+    "source": "Bloomberg Economics",
+    "url": "https://www.bloomberg.com/news/articles/2026-10-22/philippines-delivers-jumbo-rate-hike-as-inflation-heats-up-anew",
+    "published": "2026-10-22T06:31:05+00:00",
+    "event_id": "d7ce0579d875",
+    "sources": [
+     {
+      "title": "Philippines Ready to Tighten Further After Surprise Jumbo Hike",
+      "summary": "The Philippine central bank surprised with a large interest rate hike and signaled further tightening to curb inflation and support the weakening peso.",
+      "lang": "en",
+      "source": "Bloomberg Economics",
+      "url": "https://www.bloomberg.com/news/articles/2026-10-22/philippines-delivers-jumbo-rate-hike-as-inflation-heats-up-anew",
+      "published": "2026-10-22T06:31:05+00:00"
+     },
+     {
+      "title": "Philippines raises key rate to 5.5% as inflation saps growth",
+      "summary": "The Philippines raised its key interest rate to 5.5% to combat inflation that is undermining economic growth.",
+      "lang": "en",
+      "source": "Nikkei Asia",
+      "url": "https://asia.nikkei.com/business/markets/philippines-raises-key-rate-to-5.5-as-inflation-saps-growth",
+      "published": null
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "Taiwan's first-ever chip workers strike hits Micron plant",
+    "summary": "Taiwan workers at Micron launched their first-ever chip industry strike, marking a significant labor dispute in the semiconductor sector.",
+    "lang": "en",
+    "source": "Nikkei Asia",
+    "url": "https://asia.nikkei.com/business/tech/semiconductors/taiwan-s-first-ever-chip-workers-strike-hits-micron-plant",
+    "published": null,
+    "event_id": "0107a791e744",
+    "sources": [
+     {
+      "title": "Taiwan's first-ever chip workers strike hits Micron plant",
+      "summary": "Taiwan workers at Micron launched their first-ever chip industry strike, marking a significant labor dispute in the semiconductor sector.",
+      "lang": "en",
+      "source": "Nikkei Asia",
+      "url": "https://asia.nikkei.com/business/tech/semiconductors/taiwan-s-first-ever-chip-workers-strike-hits-micron-plant",
+      "published": null
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "BOJ to hold rate at 1.25% at meeting next week",
+    "summary": "The Bank of Japan will maintain its interest rate at 1.25% at next week's monetary policy meeting.",
+    "lang": "en",
+    "source": "Nikkei Asia",
+    "url": "https://asia.nikkei.com/economy/bank-of-japan/boj-to-hold-rate-at-1.25-at-meeting-next-week",
+    "published": null,
+    "event_id": "cb0b601771c2",
+    "sources": [
+     {
+      "title": "BOJ to hold rate at 1.25% at meeting next week",
+      "summary": "The Bank of Japan will maintain its interest rate at 1.25% at next week's monetary policy meeting.",
+      "lang": "en",
+      "source": "Nikkei Asia",
+      "url": "https://asia.nikkei.com/economy/bank-of-japan/boj-to-hold-rate-at-1.25-at-meeting-next-week",
+      "published": null
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "UBS Acquires 4.8% Stake in Leading India Wealth Manager 360 One",
+    "summary": "UBS acquired a 4.8% stake in Indian wealth manager 360 One by converting warrants over a year after selling its wealth business.",
+    "lang": "en",
+    "source": "Bloomberg Markets",
+    "url": "https://www.bloomberg.com/news/articles/2026-10-22/ubs-acquires-4-8-stake-in-leading-india-wealth-manager-360-one",
+    "published": "2026-10-22T09:55:38+00:00",
+    "event_id": "4a00a80c03f5",
+    "sources": [
+     {
+      "title": "UBS Acquires 4.8% Stake in Leading India Wealth Manager 360 One",
+      "summary": "UBS acquired a 4.8% stake in Indian wealth manager 360 One by converting warrants over a year after selling its wealth business.",
+      "lang": "en",
+      "source": "Bloomberg Markets",
+      "url": "https://www.bloomberg.com/news/articles/2026-10-22/ubs-acquires-4-8-stake-in-leading-india-wealth-manager-360-one",
+      "published": "2026-10-22T09:55:38+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   }
+  ],
+  "tecnologia|asia": [
+   {
+    "title": "Malaysia's SkyeChip joins SoftBank-backed AI memory project in Japan",
+    "summary": "Malaysia's SkyeChip has joined a SoftBank-backed AI memory project being developed in Japan.",
+    "lang": "en",
+    "source": "Nikkei Asia",
+    "url": "https://asia.nikkei.com/business/tech/semiconductors/malaysia-s-skyechip-joins-softbank-backed-ai-memory-project-in-japan",
+    "published": null,
+    "event_id": "6e7c6e65830e",
+    "sources": [
+     {
+      "title": "Malaysia's SkyeChip joins SoftBank-backed AI memory project in Japan",
+      "summary": "Malaysia's SkyeChip has joined a SoftBank-backed AI memory project being developed in Japan.",
+      "lang": "en",
+      "source": "Nikkei Asia",
+      "url": "https://asia.nikkei.com/business/tech/semiconductors/malaysia-s-skyechip-joins-softbank-backed-ai-memory-project-in-japan",
+      "published": null
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "中国拟出台新规，加强对先进人工智能模型出口管控",
+    "summary": "中国拟出台新规加强先进AI模型出口管控，政府将获得限制顶尖AI系统传播的权力。",
+    "lang": "zh",
+    "source": "纽约时报中文网",
+    "url": "https://cn.nytimes.com/china/20261022/china-moves-to-tighten-its-grip-over-exports-of-top-ai-models/?utm_source=RSS",
+    "published": "2026-10-22T01:28:48+00:00",
+    "event_id": "2e5bb8cd355f",
+    "sources": [
+     {
+      "title": "中国拟出台新规，加强对先进人工智能模型出口管控",
+      "summary": "中国拟出台新规加强先进AI模型出口管控，政府将获得限制顶尖AI系统传播的权力。",
+      "lang": "zh",
+      "source": "纽约时报中文网",
+      "url": "https://cn.nytimes.com/china/20261022/china-moves-to-tighten-its-grip-over-exports-of-top-ai-models/?utm_source=RSS",
+      "published": "2026-10-22T01:28:48+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   }
+  ],
+  "economia|europa": [
+   {
+    "title": "La banca afronta una factura millonaria al tener que devolver el dinero a sus clientes víctimas de fraude",
+    "summary": "Los bancos deberán reembolsar en 24 horas el dinero de operaciones no autorizadas de clientes víctimas de fraude. El fraude europeo alcanza 4.200 millones de euros.",
+    "lang": "es",
+    "source": "El País Economía",
+    "url": "https://cincodias.elpais.com/mercados-financieros/2026-10-22/la-banca-afronta-una-factura-milmillonaria-al-tener-que-devolver-el-dinero-a-sus-clientes-victimas-de-fraude.html",
+    "published": "2026-10-22T03:30:01+00:00",
+    "event_id": "d8f2a806a154",
+    "sources": [
+     {
+      "title": "La banca afronta una factura millonaria al tener que devolver el dinero a sus clientes víctimas de fraude",
+      "summary": "Los bancos deberán reembolsar en 24 horas el dinero de operaciones no autorizadas de clientes víctimas de fraude. El fraude europeo alcanza 4.200 millones de euros.",
+      "lang": "es",
+      "source": "El País Economía",
+      "url": "https://cincodias.elpais.com/mercados-financieros/2026-10-22/la-banca-afronta-una-factura-milmillonaria-al-tener-que-devolver-el-dinero-a-sus-clientes-victimas-de-fraude.html",
+      "published": "2026-10-22T03:30:01+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "Europe’s bracing reality on US bond yields",
+    "summary": "Europe cannot rely on falling U.S. bond yields and must address its own economic problems to improve borrowing costs.",
+    "lang": "en",
+    "source": "FT Global Economy",
+    "url": "https://www.ft.com/content/92e1700d-7990-4c6a-bd3f-63685df2fdf6?syn-25a6b1a6=1",
+    "published": "2026-10-22T10:07:31+00:00",
+    "event_id": "ffe10641ec4b",
+    "sources": [
+     {
+      "title": "Europe’s bracing reality on US bond yields",
+      "summary": "Europe cannot rely on falling U.S. bond yields and must address its own economic problems to improve borrowing costs.",
+      "lang": "en",
+      "source": "FT Global Economy",
+      "url": "https://www.ft.com/content/92e1700d-7990-4c6a-bd3f-63685df2fdf6?syn-25a6b1a6=1",
+      "published": "2026-10-22T10:07:31+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "Construir más, construir ya",
+    "summary": "España afronta un déficit de 750.000 viviendas que obliga a acelerar la construcción sin repetir errores de la burbuja inmobiliaria.",
+    "lang": "es",
+    "source": "El País Economía",
+    "url": "https://cincodias.elpais.com/opinion/2026-10-22/construir-mas-construir-ya.html",
+    "published": "2026-10-22T03:40:00+00:00",
+    "event_id": "c03712f4a910",
+    "sources": [
+     {
+      "title": "Construir más, construir ya",
+      "summary": "España afronta un déficit de 750.000 viviendas que obliga a acelerar la construcción sin repetir errores de la burbuja inmobiliaria.",
+      "lang": "es",
+      "source": "El País Economía",
+      "url": "https://cincodias.elpais.com/opinion/2026-10-22/construir-mas-construir-ya.html",
+      "published": "2026-10-22T03:40:00+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   }
+  ],
+  "economia|america": [
+   {
+    "title": "John Kerry: “La decisión de Trump de permitir la compra de petróleo ruso es contraproducente y peligrosa”",
+    "summary": "John Kerry advierte que permitir compras de petróleo ruso es contraproducente y rechazar energías renovables retrasa la transición energética.",
+    "lang": "es",
+    "source": "El País Economía",
+    "url": "https://elpais.com/economia/2026-10-22/john-kerry-la-decision-de-trump-de-permitir-la-compra-de-petroleo-ruso-es-contraproducente-y-peligrosa.html",
+    "published": "2026-10-22T03:45:01+00:00",
+    "event_id": "ac7ede0be866",
+    "sources": [
+     {
+      "title": "John Kerry: “La decisión de Trump de permitir la compra de petróleo ruso es contraproducente y peligrosa”",
+      "summary": "John Kerry advierte que permitir compras de petróleo ruso es contraproducente y rechazar energías renovables retrasa la transición energética.",
+      "lang": "es",
+      "source": "El País Economía",
+      "url": "https://elpais.com/economia/2026-10-22/john-kerry-la-decision-de-trump-de-permitir-la-compra-de-petroleo-ruso-es-contraproducente-y-peligrosa.html",
+      "published": "2026-10-22T03:45:01+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "Brazil’s weird economy needs serious reform",
+    "summary": "Brazil's economy requires serious structural reforms, but neither President Lula nor opposition leader Flávio Bolsonaro have the political will to pursue them.",
+    "lang": "en",
+    "source": "The Economist (Finance)",
+    "url": "https://www.economist.com/finance-and-economics/2026/10/22/brazils-weird-economy-needs-serious-reform",
+    "published": "2026-10-22T09:11:38+00:00",
+    "event_id": "200cf3e3453a",
+    "sources": [
+     {
+      "title": "Brazil’s weird economy needs serious reform",
+      "summary": "Brazil's economy requires serious structural reforms, but neither President Lula nor opposition leader Flávio Bolsonaro have the political will to pursue them.",
+      "lang": "en",
+      "source": "The Economist (Finance)",
+      "url": "https://www.economist.com/finance-and-economics/2026/10/22/brazils-weird-economy-needs-serious-reform",
+      "published": "2026-10-22T09:11:38+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   }
+  ],
+  "politica|asia": [
+   {
+    "title": "Ahead of Communist Party plenum, Xi Jinping warns that China faces a ‘new Long March’",
+    "summary": "Xi Jinping warned China faces a new strategic challenge and emphasized strong party unity is essential for victory.",
+    "lang": "en",
+    "source": "South China Morning Post (China)",
+    "url": "https://www.scmp.com/news/china/politics/article/3371796/ahead-communist-party-plenum-xi-jinping-warns-china-faces-new-long-march",
+    "published": "2026-10-22T10:18:11+00:00",
+    "event_id": "8f8aa1fa39e4",
+    "sources": [
+     {
+      "title": "Ahead of Communist Party plenum, Xi Jinping warns that China faces a ‘new Long March’",
+      "summary": "Xi Jinping warned China faces a new strategic challenge and emphasized strong party unity is essential for victory.",
+      "lang": "en",
+      "source": "South China Morning Post (China)",
+      "url": "https://www.scmp.com/news/china/politics/article/3371796/ahead-communist-party-plenum-xi-jinping-warns-china-faces-new-long-march",
+      "published": "2026-10-22T10:18:11+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "India seeks to expand navy’s reach with 4 amphibious warships",
+    "summary": "India plans to acquire four large amphibious warships to enhance naval logistics and humanitarian capabilities across the Indian Ocean.",
+    "lang": "en",
+    "source": "South China Morning Post (Asia)",
+    "url": "https://www.scmp.com/week-asia/politics/article/3371775/india-seeks-expand-navys-reach-4-amphibious-warships",
+    "published": "2026-10-22T09:00:12+00:00",
+    "event_id": "0159ea1a3a9a",
+    "sources": [
+     {
+      "title": "India seeks to expand navy’s reach with 4 amphibious warships",
+      "summary": "India plans to acquire four large amphibious warships to enhance naval logistics and humanitarian capabilities across the Indian Ocean.",
+      "lang": "en",
+      "source": "South China Morning Post (Asia)",
+      "url": "https://www.scmp.com/week-asia/politics/article/3371775/india-seeks-expand-navys-reach-4-amphibious-warships",
+      "published": "2026-10-22T09:00:12+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "Son of Aung San Suu Kyi says had first call in five years",
+    "summary": "Kim Aris had his first phone call with his mother Aung San Suu Kyi in five years; he says one conversation does not constitute regular family access.",
+    "lang": "en",
+    "source": "Channel NewsAsia",
+    "url": "https://www.channelnewsasia.com/asia/son-myanmar-aung-san-suu-kyi-first-call-five-years-6482161",
+    "published": "2026-10-22T09:49:00+00:00",
+    "event_id": "05f93eeac9d7",
+    "sources": [
+     {
+      "title": "Son of Aung San Suu Kyi says had first call in five years",
+      "summary": "Kim Aris had his first phone call with his mother Aung San Suu Kyi in five years; he says one conversation does not constitute regular family access.",
+      "lang": "en",
+      "source": "Channel NewsAsia",
+      "url": "https://www.channelnewsasia.com/asia/son-myanmar-aung-san-suu-kyi-first-call-five-years-6482161",
+      "published": "2026-10-22T09:49:00+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "U.S. and Israel are planning for a possible attack on Iran, source tells NPR",
+    "summary": "The U.S. and Israel are preparing plans for a possible attack on Iran in early November following the U.S. midterm elections.",
+    "lang": "en",
+    "source": "NPR World",
+    "url": "https://www.npr.org/2026/10/22/nx-s1-6011514/us-israel-iran-war",
+    "published": "2026-10-22T08:56:58+00:00",
+    "event_id": "2aa21d37b680",
+    "sources": [
+     {
+      "title": "U.S. and Israel are planning for a possible attack on Iran, source tells NPR",
+      "summary": "The U.S. and Israel are preparing plans for a possible attack on Iran in early November following the U.S. midterm elections.",
+      "lang": "en",
+      "source": "NPR World",
+      "url": "https://www.npr.org/2026/10/22/nx-s1-6011514/us-israel-iran-war",
+      "published": "2026-10-22T08:56:58+00:00"
+     },
+     {
+      "title": "紐時：美以擬在期中選後再炸伊朗迫其讓步",
+      "summary": "纽约时报报道美以计划在美期中选后再次攻击伊朗，试图迫使德黑兰让步。",
+      "lang": "zh",
+      "source": "中央社 CNA",
+      "url": "https://www.cna.com.tw/news/aopl/202610220161.aspx",
+      "published": "2026-10-22T05:57:03+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   }
+  ],
+  "politica|europa": [
+   {
+    "title": "Russia and Ukraine ready to resume trilateral talks with the US",
+    "summary": "Russia signaled readiness to resume trilateral talks with Ukraine and the U.S. in mid-November following diplomatic discussions.",
+    "lang": "en",
+    "source": "Le Monde International",
+    "url": "https://www.lemonde.fr/en/international/article/2026/10/22/russia-and-ukraine-ready-to-resume-trilateral-talks-with-the-us_6761221_4.html",
+    "published": "2026-10-22T03:48:17+00:00",
+    "event_id": "22cd3d35122c",
+    "sources": [
+     {
+      "title": "Russia and Ukraine ready to resume trilateral talks with the US",
+      "summary": "Russia signaled readiness to resume trilateral talks with Ukraine and the U.S. in mid-November following diplomatic discussions.",
+      "lang": "en",
+      "source": "Le Monde International",
+      "url": "https://www.lemonde.fr/en/international/article/2026/10/22/russia-and-ukraine-ready-to-resume-trilateral-talks-with-the-us_6761221_4.html",
+      "published": "2026-10-22T03:48:17+00:00"
+     }
+    ],
+    "status": "updated",
+    "change_summary": "Russia and Ukraine ready to resume trilateral talks with the US",
+    "previous_date": "2026-10-21",
+    "previous_event_id": "22cd3d35122c"
+   },
+   {
+    "title": "Bulgaria: Concerns about security in the Black Sea dominate presidential election campaign",
+    "summary": "Bulgaria's presidential election campaign focuses on security concerns in the Black Sea amid drone attacks on ships and reduced government support for Ukraine.",
+    "lang": "en",
+    "source": "Deutsche Welle World",
+    "url": "https://www.dw.com/en/bulgaria-concerns-about-security-in-the-black-sea-dominate-presidential-election-campaign/a-79729094?maca=en-rss-en-world-4025-rdf",
+    "published": "2026-10-22T08:31:00+00:00",
+    "event_id": "0c96e2a5cfe3",
+    "sources": [
+     {
+      "title": "Bulgaria: Concerns about security in the Black Sea dominate presidential election campaign",
+      "summary": "Bulgaria's presidential election campaign focuses on security concerns in the Black Sea amid drone attacks on ships and reduced government support for Ukraine.",
+      "lang": "en",
+      "source": "Deutsche Welle World",
+      "url": "https://www.dw.com/en/bulgaria-concerns-about-security-in-the-black-sea-dominate-presidential-election-campaign/a-79729094?maca=en-rss-en-world-4025-rdf",
+      "published": "2026-10-22T08:31:00+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "Russia arrests German man, calls him a Ukraine 'mercenary'",
+    "summary": "Russia arrested a German national and accused him of fighting as a mercenary for Ukraine's military, claiming he deserted over unpaid wages.",
+    "lang": "en",
+    "source": "Deutsche Welle World",
+    "url": "https://www.dw.com/en/russia-arrests-german-man-calls-him-a-ukraine-mercenary/a-79723871?maca=en-rss-en-world-4025-rdf",
+    "published": "2026-10-21T14:17:00+00:00",
+    "event_id": "8341d01afd4a",
+    "sources": [
+     {
+      "title": "Russia arrests German man, calls him a Ukraine 'mercenary'",
+      "summary": "Russia arrested a German national and accused him of fighting as a mercenary for Ukraine's military, claiming he deserted over unpaid wages.",
+      "lang": "en",
+      "source": "Deutsche Welle World",
+      "url": "https://www.dw.com/en/russia-arrests-german-man-calls-him-a-ukraine-mercenary/a-79723871?maca=en-rss-en-world-4025-rdf",
+      "published": "2026-10-21T14:17:00+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "War in Ukraine: Bolstered by Trump's support, Putin refuses to back down",
+    "summary": "Trump's envoy Steve Witkoff met Putin near Saint Petersburg and praised the Russian leader, signaling support that emboldened Putin to resist backing down in Ukraine.",
+    "lang": "en",
+    "source": "Le Monde International",
+    "url": "https://www.lemonde.fr/en/international/article/2026/10/22/war-in-ukraine-bolstered-by-donald-trump-s-support-vladimir-putin-refuses-to-back-down_6761086_4.html",
+    "published": "2026-10-21T23:54:56+00:00",
+    "event_id": "18c222eb9c92",
+    "sources": [
+     {
+      "title": "War in Ukraine: Bolstered by Trump's support, Putin refuses to back down",
+      "summary": "Trump's envoy Steve Witkoff met Putin near Saint Petersburg and praised the Russian leader, signaling support that emboldened Putin to resist backing down in Ukraine.",
+      "lang": "en",
+      "source": "Le Monde International",
+      "url": "https://www.lemonde.fr/en/international/article/2026/10/22/war-in-ukraine-bolstered-by-donald-trump-s-support-vladimir-putin-refuses-to-back-down_6761086_4.html",
+      "published": "2026-10-21T23:54:56+00:00"
+     }
+    ],
+    "status": "updated",
+    "change_summary": "War in Ukraine: Bolstered by Trump's support, Putin refuses to back down",
+    "previous_date": "2026-10-21",
+    "previous_event_id": "22cd3d35122c"
+   }
+  ],
+  "politica|america": [
+   {
+    "title": "Bukele says military operation launched to rescue Salvadorans held by gangs in Haiti",
+    "summary": "El Salvador's President Nayib Bukele launched a military operation to rescue four Salvadoran aviation technicians kidnapped by gangs in Haiti.",
+    "lang": "en",
+    "source": "NPR World",
+    "url": "https://www.npr.org/2026/10/22/nx-s1-6012029/bukele-military-operation-haiti",
+    "published": "2026-10-22T08:39:19+00:00",
+    "event_id": "5b0b1c5830fb",
+    "sources": [
+     {
+      "title": "Bukele says military operation launched to rescue Salvadorans held by gangs in Haiti",
+      "summary": "El Salvador's President Nayib Bukele launched a military operation to rescue four Salvadoran aviation technicians kidnapped by gangs in Haiti.",
+      "lang": "en",
+      "source": "NPR World",
+      "url": "https://www.npr.org/2026/10/22/nx-s1-6012029/bukele-military-operation-haiti",
+      "published": "2026-10-22T08:39:19+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "AIPAC halts endorsements and direct contributions to candidates",
+    "summary": "AIPAC announced it will no longer endorse candidates or make direct campaign contributions, though its affiliated super PAC continues funding.",
+    "lang": "en",
+    "source": "NPR World",
+    "url": "https://www.npr.org/2026/10/21/nx-s1-6011531/aipac-campaign-contributions-israel-democrats",
+    "published": "2026-10-22T00:22:48+00:00",
+    "event_id": "b0a6f5fee4d8",
+    "sources": [
+     {
+      "title": "AIPAC halts endorsements and direct contributions to candidates",
+      "summary": "AIPAC announced it will no longer endorse candidates or make direct campaign contributions, though its affiliated super PAC continues funding.",
+      "lang": "en",
+      "source": "NPR World",
+      "url": "https://www.npr.org/2026/10/21/nx-s1-6011531/aipac-campaign-contributions-israel-democrats",
+      "published": "2026-10-22T00:22:48+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "Putin releases American Stephen Hubbard from Russian prison",
+    "summary": "Russian President Putin released 74-year-old American Stephen Hubbard from prison following a request from President Trump.",
+    "lang": "en",
+    "source": "NPR World",
+    "url": "https://www.npr.org/2026/10/21/nx-s1-6010608/putin-releases-american-stephen-hubbard-from-russian-prison",
+    "published": "2026-10-21T22:39:19+00:00",
+    "event_id": "f721a790285b",
+    "sources": [
+     {
+      "title": "Putin releases American Stephen Hubbard from Russian prison",
+      "summary": "Russian President Putin released 74-year-old American Stephen Hubbard from prison following a request from President Trump.",
+      "lang": "en",
+      "source": "NPR World",
+      "url": "https://www.npr.org/2026/10/21/nx-s1-6010608/putin-releases-american-stephen-hubbard-from-russian-prison",
+      "published": "2026-10-21T22:39:19+00:00"
+     },
+     {
+      "title": "Russia frees jailed American Stephen Hubbard during Witkoff talks",
+      "summary": "Russia freed imprisoned American Stephen Hubbard during talks between Vladimir Putin and Trump envoy Steve Witkoff.",
+      "lang": "en",
+      "source": "Deutsche Welle World",
+      "url": "https://www.dw.com/en/russia-frees-jailed-american-stephen-hubbard-during-witkoff-talks/a-79719452?maca=en-rss-en-world-4025-rdf",
+      "published": "2026-10-21T13:56:00+00:00"
+     }
+    ],
+    "status": "unchanged",
+    "change_summary": "",
+    "previous_date": "2026-10-21",
+    "previous_event_id": "22cd3d35122c"
+   }
+  ],
+  "tecnologia|europa": [
+   {
+    "title": "PHP ha sido la brecha, Cloudflare ha sido el escudo que ha protegido al otro 40% de internet de caer",
+    "summary": "Una vulnerabilidad en PHP dejó sin conexión varios sitios de gobiernos europeos; Cloudflare protegió el 40% restante de internet de caer.",
+    "lang": "es",
+    "source": "Xataka",
+    "url": "https://www.xataka.com/seguridad/php-ha-sido-brecha-cloudflare-ha-sido-escudo-que-ha-protegido-al-otro-40-internet-caer",
+    "published": "2026-10-22T09:30:00+00:00",
+    "event_id": "24e718ee97bd",
+    "sources": [
+     {
+      "title": "PHP ha sido la brecha, Cloudflare ha sido el escudo que ha protegido al otro 40% de internet de caer",
+      "summary": "Una vulnerabilidad en PHP dejó sin conexión varios sitios de gobiernos europeos; Cloudflare protegió el 40% restante de internet de caer.",
+      "lang": "es",
+      "source": "Xataka",
+      "url": "https://www.xataka.com/seguridad/php-ha-sido-brecha-cloudflare-ha-sido-escudo-que-ha-protegido-al-otro-40-internet-caer",
+      "published": "2026-10-22T09:30:00+00:00"
+     },
+     {
+      "title": "PHP: The three letters that shut down sites all over the internet today",
+      "summary": "Critical vulnerabilities discovered in PHP shut down major websites including Wikipedia, 4chan, and DeviantArt across the internet.",
+      "lang": "en",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/tech/1015906/php2shell-vulnerability-october-2026",
+      "published": "2026-10-21T20:36:56+00:00"
+     },
+     {
+      "title": "數發部：PHP重大漏洞影響約2.8萬個國內網站，約200個政府機關網站受影響，要求優先修補、必要時暫停服務",
+      "summary": "PHP重大漏洞影响国内约2.8万个网站和200个政府机构网站，数发部要求立即修补并必要时暂停服务。",
+      "lang": "zh",
+      "source": "iThome 台灣",
+      "url": "https://www.ithome.com.tw/news/179891",
+      "published": "2026-10-22T03:10:48+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "El primer impacto realmente visible de la IA en el mundo real es la ciberseguridad: ha cambiado completamente de forma y tamaño",
+    "summary": "Las vulnerabilidades de ciberseguridad representan el impacto más visible de la IA en el mundo real, transformando completamente la defensa digital.",
+    "lang": "es",
+    "source": "Xataka",
+    "url": "https://www.xataka.com/seguridad/primer-impacto-realmente-visible-ia-mundo-real-ciberseguridad-ha-cambiado-completamente-forma-tamano",
+    "published": "2026-10-22T10:00:12+00:00",
+    "event_id": "c0d9b75b52e3",
+    "sources": [
+     {
+      "title": "El primer impacto realmente visible de la IA en el mundo real es la ciberseguridad: ha cambiado completamente de forma y tamaño",
+      "summary": "Las vulnerabilidades de ciberseguridad representan el impacto más visible de la IA en el mundo real, transformando completamente la defensa digital.",
+      "lang": "es",
+      "source": "Xataka",
+      "url": "https://www.xataka.com/seguridad/primer-impacto-realmente-visible-ia-mundo-real-ciberseguridad-ha-cambiado-completamente-forma-tamano",
+      "published": "2026-10-22T10:00:12+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   }
+  ],
+  "tecnologia|america": [
+   {
+    "title": "Meta wants to pay for its broad AI buildout with a newly created class of stock",
+    "summary": "Meta plans to create a new class of stock to finance its massive investments in AI models, services, and infrastructure.",
+    "lang": "en",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/10/21/meta-wants-to-pay-for-its-broad-ai-buildout-with-a-newly-created-class-of-stock/",
+    "published": "2026-10-21T22:45:34+00:00",
+    "event_id": "c1d080de5b43",
+    "sources": [
+     {
+      "title": "Meta wants to pay for its broad AI buildout with a newly created class of stock",
+      "summary": "Meta plans to create a new class of stock to finance its massive investments in AI models, services, and infrastructure.",
+      "lang": "en",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/10/21/meta-wants-to-pay-for-its-broad-ai-buildout-with-a-newly-created-class-of-stock/",
+      "published": "2026-10-21T22:45:34+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "Tesla starts Optimus robot production in California as profit falls 43%",
+    "summary": "Tesla began Optimus robot production in California as quarterly profits fell 43% amid flat revenue and soaring expenses on AI and autonomous driving.",
+    "lang": "en",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/10/21/tesla-stars-optimus-robot-production-in-california-as-profit-falls-43/",
+    "published": "2026-10-21T20:33:09+00:00",
+    "event_id": "6ec4c467ad3b",
+    "sources": [
+     {
+      "title": "Tesla starts Optimus robot production in California as profit falls 43%",
+      "summary": "Tesla began Optimus robot production in California as quarterly profits fell 43% amid flat revenue and soaring expenses on AI and autonomous driving.",
+      "lang": "en",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/10/21/tesla-stars-optimus-robot-production-in-california-as-profit-falls-43/",
+      "published": "2026-10-21T20:33:09+00:00"
+     },
+     {
+      "title": "Tesla profits drop 43% in Q3",
+      "summary": "Tesla's profits dropped 43% in Q3 as its energy storage business also contracted significantly.",
+      "lang": "en",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/cars/2026/10/tesla-profits-drop-43-in-q3/",
+      "published": "2026-10-21T21:35:07+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "Patch the Planet: global response coordination as agents uncover critical vulnerabilities",
+    "summary": "Patch the Planet coordinates global response among security researchers and maintainers to address critical open-source vulnerabilities.",
+    "lang": "en",
+    "source": "OpenAI News",
+    "url": "https://openai.com/index/coordinated-disclosure-of-critical-vulnerabilities",
+    "published": "2026-10-21T07:00:00+00:00",
+    "event_id": "d3f519557f32",
+    "sources": [
+     {
+      "title": "Patch the Planet: global response coordination as agents uncover critical vulnerabilities",
+      "summary": "Patch the Planet coordinates global response among security researchers and maintainers to address critical open-source vulnerabilities.",
+      "lang": "en",
+      "source": "OpenAI News",
+      "url": "https://openai.com/index/coordinated-disclosure-of-critical-vulnerabilities",
+      "published": "2026-10-21T07:00:00+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "Google 執行長皮查伊靠 AI 代理團隊掌握公司動態，每天可省下大把時間",
+    "summary": "谷歌首席执行官皮查伊通过AI代理团队掌握公司运营情况，每天可节省大量时间。",
+    "lang": "zh",
+    "source": "科技新報 TechNews",
+    "url": "https://finance.technews.tw/2026/10/22/sundar-pichai-explains-how-a-team-of-ai-agents-helps-him-run-the-company/",
+    "published": "2026-10-22T10:00:24+00:00",
+    "event_id": "1e1955032b3e",
+    "sources": [
+     {
+      "title": "Google 執行長皮查伊靠 AI 代理團隊掌握公司動態，每天可省下大把時間",
+      "summary": "谷歌首席执行官皮查伊通过AI代理团队掌握公司运营情况，每天可节省大量时间。",
+      "lang": "zh",
+      "source": "科技新報 TechNews",
+      "url": "https://finance.technews.tw/2026/10/22/sundar-pichai-explains-how-a-team-of-ai-agents-helps-him-run-the-company/",
+      "published": "2026-10-22T10:00:24+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "OpenAI、Meta之後，Anthropic也推出主動式AI代理Claude Duet",
+    "summary": "Anthropic推出主动式AI代理Claude Duet，可主动检查用户应用、整理重要事项并离线处理任务。",
+    "lang": "zh",
+    "source": "iThome 台灣",
+    "url": "https://www.ithome.com.tw/news/179897",
+    "published": "2026-10-22T06:10:36+00:00",
+    "event_id": "d08854c5cb99",
+    "sources": [
+     {
+      "title": "OpenAI、Meta之後，Anthropic也推出主動式AI代理Claude Duet",
+      "summary": "Anthropic推出主动式AI代理Claude Duet，可主动检查用户应用、整理重要事项并离线处理任务。",
+      "lang": "zh",
+      "source": "iThome 台灣",
+      "url": "https://www.ithome.com.tw/news/179897",
+      "published": "2026-10-22T06:10:36+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   }
+  ]
+ }
+}
