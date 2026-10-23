@@ -1,0 +1,891 @@
+{
+ "date": "2026-10-23",
+ "generated_at": "2026-10-23T10:22:31.740513+00:00",
+ "mode": "full",
+ "cost_usd": 0.0452,
+ "radar_cost_usd": 0.0046,
+ "events": {
+  "mode": "full",
+  "compared_with": "2026-10-22",
+  "articles": 40,
+  "uncompared_articles": 0,
+  "events": 34,
+  "cost_usd": 0.0156
+ },
+ "radar": {
+  "items": [
+   {
+    "id": "hn-50202217",
+    "source": "Hacker News",
+    "kind": "discussion",
+    "title": "LLMs are making formal software verification feasible at a much larger scale",
+    "url": "https://www.anthropic.com/research/formal-verification",
+    "discussion_url": "https://news.ycombinator.com/item?id=50202217",
+    "published": "2026-10-22T22:54:43+00:00",
+    "lang": "en",
+    "excerpt": "",
+    "signal": {
+     "points": 350,
+     "comments": 207
+    },
+    "summary": "Anthropic research claims LLMs are making formal software verification feasible at larger scale than previously possible.",
+    "usefulness": "When building Python tools with formal correctness requirements, could conditionally explore using LLMs to assist with verification task generation or proof structure guidance.",
+    "to_verify": "What scale and verification domain the claim covers; whether results require Claude specifically or generalize; actual performance on production Python codebases."
+   }
+  ],
+  "mode": "full",
+  "failed_sources": []
+ },
+ "market": null,
+ "failed_sources": [],
+ "cells": {
+  "economia|asia": [
+   {
+    "title": "Japan's regional banks in merger talks to form largest in nation's west",
+    "summary": "Regional banks in Japan's west region are in merger talks to establish the nation's largest bank in that area.",
+    "lang": "en",
+    "source": "Nikkei Asia",
+    "url": "https://asia.nikkei.com/business/business-deals/japan-s-regional-banks-in-merger-talks-to-form-largest-in-nation-s-west",
+    "published": null,
+    "event_id": "1cc449280dd9",
+    "sources": [
+     {
+      "title": "Japan's regional banks in merger talks to form largest in nation's west",
+      "summary": "Regional banks in Japan's west region are in merger talks to establish the nation's largest bank in that area.",
+      "lang": "en",
+      "source": "Nikkei Asia",
+      "url": "https://asia.nikkei.com/business/business-deals/japan-s-regional-banks-in-merger-talks-to-form-largest-in-nation-s-west",
+      "published": null
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "China's 'national team' comes to rescue as stocks flash bearish signs",
+    "summary": "China's state-backed 'national team' is intervening in stock markets as bearish signals increase across the sector.",
+    "lang": "en",
+    "source": "Nikkei Asia",
+    "url": "https://asia.nikkei.com/business/markets/china-s-national-team-comes-to-rescue-as-stocks-flash-bearish-signs",
+    "published": null,
+    "event_id": "7f7ef885b5d6",
+    "sources": [
+     {
+      "title": "China's 'national team' comes to rescue as stocks flash bearish signs",
+      "summary": "China's state-backed 'national team' is intervening in stock markets as bearish signals increase across the sector.",
+      "lang": "en",
+      "source": "Nikkei Asia",
+      "url": "https://asia.nikkei.com/business/markets/china-s-national-team-comes-to-rescue-as-stocks-flash-bearish-signs",
+      "published": null
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "Investors turn to JGBs as a safe haven as stock risks rise",
+    "summary": "Investors are increasingly buying Japanese Government Bonds as a safe haven amid rising stock market risks.",
+    "lang": "en",
+    "source": "Nikkei Asia",
+    "url": "https://asia.nikkei.com/business/markets/investors-turn-to-jgbs-as-a-safe-haven-as-stock-risks-rise",
+    "published": null,
+    "event_id": "407fe8782851",
+    "sources": [
+     {
+      "title": "Investors turn to JGBs as a safe haven as stock risks rise",
+      "summary": "Investors are increasingly buying Japanese Government Bonds as a safe haven amid rising stock market risks.",
+      "lang": "en",
+      "source": "Nikkei Asia",
+      "url": "https://asia.nikkei.com/business/markets/investors-turn-to-jgbs-as-a-safe-haven-as-stock-risks-rise",
+      "published": null
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   }
+  ],
+  "tecnologia|asia": [
+   {
+    "title": "Japan’s university defence bids surge as post-war taboo fades amid China concerns",
+    "summary": "Japanese universities more than doubled defense research funding applications to record 291, up from 123, amid China security concerns.",
+    "lang": "en",
+    "source": "South China Morning Post (China)",
+    "url": "https://www.scmp.com/news/china/military/article/3371931/japans-university-defence-bids-surge-post-war-taboo-fades-amid-china-concerns",
+    "published": "2026-10-23T09:31:50+00:00",
+    "event_id": "dd38e45cbf9f",
+    "sources": [
+     {
+      "title": "Japan’s university defence bids surge as post-war taboo fades amid China concerns",
+      "summary": "Japanese universities more than doubled defense research funding applications to record 291, up from 123, amid China security concerns.",
+      "lang": "en",
+      "source": "South China Morning Post (China)",
+      "url": "https://www.scmp.com/news/china/military/article/3371931/japans-university-defence-bids-surge-post-war-taboo-fades-amid-china-concerns",
+      "published": "2026-10-23T09:31:50+00:00"
+     },
+     {
+      "title": "Japan to reorganize defense research around AI, cyber",
+      "summary": "Japan plans to reorganize defense research to focus on artificial intelligence and cybersecurity capabilities.",
+      "lang": "en",
+      "source": "Nikkei Asia",
+      "url": "https://asia.nikkei.com/politics/defense/japan-to-reorganize-defense-research-around-ai-cyber",
+      "published": null
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "Asia's AI data center boom faces 'reality check' from public markets",
+    "summary": "Asia's booming AI data center expansion faces reality checks as public markets reassess growth valuations.",
+    "lang": "en",
+    "source": "Nikkei Asia",
+    "url": "https://asia.nikkei.com/business/technology/artificial-intelligence/asia-s-ai-data-center-boom-faces-reality-check-from-public-markets",
+    "published": null,
+    "event_id": "f662cf8ec861",
+    "sources": [
+     {
+      "title": "Asia's AI data center boom faces 'reality check' from public markets",
+      "summary": "Asia's booming AI data center expansion faces reality checks as public markets reassess growth valuations.",
+      "lang": "en",
+      "source": "Nikkei Asia",
+      "url": "https://asia.nikkei.com/business/technology/artificial-intelligence/asia-s-ai-data-center-boom-faces-reality-check-from-public-markets",
+      "published": null
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "Disgraced eMudhra drops out of TLS business after using cert private key of 4",
+    "summary": "eMudhra exits TLS certificate business after exposing private keys that enabled fraudulent credentials for any website.",
+    "lang": "en",
+    "source": "Ars Technica",
+    "url": "https://arstechnica.com/security/2026/10/disgraced-emudhra-drops-out-of-tls-business-following-certificate-debacle/",
+    "published": "2026-10-22T20:17:52+00:00",
+    "event_id": "49672d89136f",
+    "sources": [
+     {
+      "title": "Disgraced eMudhra drops out of TLS business after using cert private key of 4",
+      "summary": "eMudhra exits TLS certificate business after exposing private keys that enabled fraudulent credentials for any website.",
+      "lang": "en",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/security/2026/10/disgraced-emudhra-drops-out-of-tls-business-following-certificate-debacle/",
+      "published": "2026-10-22T20:17:52+00:00"
+     },
+     {
+      "title": "eMudhra憑證事件波及Python，官方緊急更新pip，並提醒僅更新作業系統憑證仍不足",
+      "summary": "印度数字凭证商eMudhra的emSign凭证出现安全漏洞，Python官方10月21日紧急更新3.15.1等版本，更新pip内含凭证清单。",
+      "lang": "zh",
+      "source": "iThome 台灣",
+      "url": "https://www.ithome.com.tw/news/179932",
+      "published": "2026-10-23T05:10:17+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "日本擬設 AI 資安專隊，以模擬攻擊對抗 AI 網攻趨勢",
+    "summary": "日本经济产业省将在IPA设置AI网络安全专队，利用模拟攻击技术应对日益增长的AI网络攻击威胁。",
+    "lang": "zh",
+    "source": "科技新報 TechNews",
+    "url": "https://infosecu.technews.tw/2026/10/23/japan-to-reorganize-defense-research-around-ai-cyber/",
+    "published": "2026-10-23T08:50:25+00:00",
+    "event_id": "34324761d440",
+    "sources": [
+     {
+      "title": "日本擬設 AI 資安專隊，以模擬攻擊對抗 AI 網攻趨勢",
+      "summary": "日本经济产业省将在IPA设置AI网络安全专队，利用模拟攻击技术应对日益增长的AI网络攻击威胁。",
+      "lang": "zh",
+      "source": "科技新報 TechNews",
+      "url": "https://infosecu.technews.tw/2026/10/23/japan-to-reorganize-defense-research-around-ai-cyber/",
+      "published": "2026-10-23T08:50:25+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   }
+  ],
+  "economia|europa": [
+   {
+    "title": "ECB Consumer Expectations Survey results – September 2026",
+    "summary": "ECB releases September 2026 Consumer Expectations Survey results on economic and price outlook data.",
+    "lang": "en",
+    "source": "BCE (notas de prensa)",
+    "url": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr261023~a3d201c97c.en.html",
+    "published": "2026-10-23T08:00:00+00:00",
+    "event_id": "da039c1481be",
+    "sources": [
+     {
+      "title": "ECB Consumer Expectations Survey results – September 2026",
+      "summary": "ECB releases September 2026 Consumer Expectations Survey results on economic and price outlook data.",
+      "lang": "en",
+      "source": "BCE (notas de prensa)",
+      "url": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr261023~a3d201c97c.en.html",
+      "published": "2026-10-23T08:00:00+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "How nervous are bond markets about France?",
+    "summary": "Bond markets are increasingly nervous about France's fiscal and political stability following government weakness indicators.",
+    "lang": "en",
+    "source": "FT Global Economy",
+    "url": "https://www.ft.com/content/9aa4549e-26f4-4963-94eb-50cf0fc0b8f9",
+    "published": "2026-10-23T05:00:08+00:00",
+    "event_id": "f70765deb2df",
+    "sources": [
+     {
+      "title": "How nervous are bond markets about France?",
+      "summary": "Bond markets are increasingly nervous about France's fiscal and political stability following government weakness indicators.",
+      "lang": "en",
+      "source": "FT Global Economy",
+      "url": "https://www.ft.com/content/9aa4549e-26f4-4963-94eb-50cf0fc0b8f9",
+      "published": "2026-10-23T05:00:08+00:00"
+     },
+     {
+      "title": "Qué necesita Francia para no terminar como Grecia: crecer y políticos creíbles",
+      "summary": "Francia enfrenta presión de inversores por su débil respuesta fiscal, similar a la crisis griega, aunque aún no hay crisis de deuda inmediata.",
+      "lang": "es",
+      "source": "El País Economía",
+      "url": "https://cincodias.elpais.com/opinion/2026-10-23/que-necesita-francia-para-no-terminar-como-grecia-crecer-y-politicos-creibles.html",
+      "published": "2026-10-23T06:15:44+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "Ukraine seeks to move customs checks inside EU to avoid Russian drones",
+    "summary": "Ukraine proposes moving customs checks inside EU borders to protect agricultural exports from Russian drone attacks at crossing points.",
+    "lang": "en",
+    "source": "FT Global Economy",
+    "url": "https://www.ft.com/content/ab922590-7f73-4a84-a3bd-a42cf80c92f7?syn-25a6b1a6=1",
+    "published": "2026-10-23T04:00:37+00:00",
+    "event_id": "4755437b6460",
+    "sources": [
+     {
+      "title": "Ukraine seeks to move customs checks inside EU to avoid Russian drones",
+      "summary": "Ukraine proposes moving customs checks inside EU borders to protect agricultural exports from Russian drone attacks at crossing points.",
+      "lang": "en",
+      "source": "FT Global Economy",
+      "url": "https://www.ft.com/content/ab922590-7f73-4a84-a3bd-a42cf80c92f7?syn-25a6b1a6=1",
+      "published": "2026-10-23T04:00:37+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   }
+  ],
+  "politica|europa": [
+   {
+    "title": "De Cos Is Narrow Favorite to Follow Lagarde at ECB, Survey Shows",
+    "summary": "Pablo Hernandez de Cos emerges as the leading candidate to succeed Christine Lagarde as ECB president, according to survey results.",
+    "lang": "en",
+    "source": "Bloomberg Economics",
+    "url": "https://www.bloomberg.com/news/articles/2026-10-23/de-cos-is-narrow-favorite-to-follow-lagarde-at-ecb-survey-shows",
+    "published": "2026-10-23T09:05:08+00:00",
+    "event_id": "b9c561678469",
+    "sources": [
+     {
+      "title": "De Cos Is Narrow Favorite to Follow Lagarde at ECB, Survey Shows",
+      "summary": "Pablo Hernandez de Cos emerges as the leading candidate to succeed Christine Lagarde as ECB president, according to survey results.",
+      "lang": "en",
+      "source": "Bloomberg Economics",
+      "url": "https://www.bloomberg.com/news/articles/2026-10-23/de-cos-is-narrow-favorite-to-follow-lagarde-at-ecb-survey-shows",
+      "published": "2026-10-23T09:05:08+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "Albania's student protests are only getting bigger",
+    "summary": "Albanian student anti-corruption protests continue to grow despite police suppression, with PM Rama's 'antifa' claims gaining little credibility.",
+    "lang": "en",
+    "source": "Deutsche Welle World",
+    "url": "https://www.dw.com/en/albania-s-student-protests-are-only-getting-bigger/a-79735213?maca=en-rss-en-world-4025-rdf",
+    "published": "2026-10-22T19:18:00+00:00",
+    "event_id": "78633f9f9a90",
+    "sources": [
+     {
+      "title": "Albania's student protests are only getting bigger",
+      "summary": "Albanian student anti-corruption protests continue to grow despite police suppression, with PM Rama's 'antifa' claims gaining little credibility.",
+      "lang": "en",
+      "source": "Deutsche Welle World",
+      "url": "https://www.dw.com/en/albania-s-student-protests-are-only-getting-bigger/a-79735213?maca=en-rss-en-world-4025-rdf",
+      "published": "2026-10-22T19:18:00+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "Ukraine: Life near the front line in Sloviansk",
+    "summary": "Thousands of residents remain in or struggle to leave Sloviansk despite continued Russian attacks on the eastern Ukrainian city.",
+    "lang": "en",
+    "source": "Deutsche Welle World",
+    "url": "https://www.dw.com/en/ukraine-life-near-the-front-line-in-sloviansk/a-79722636?maca=en-rss-en-world-4025-rdf",
+    "published": "2026-10-22T11:44:00+00:00",
+    "event_id": "95568b74f760",
+    "sources": [
+     {
+      "title": "Ukraine: Life near the front line in Sloviansk",
+      "summary": "Thousands of residents remain in or struggle to leave Sloviansk despite continued Russian attacks on the eastern Ukrainian city.",
+      "lang": "en",
+      "source": "Deutsche Welle World",
+      "url": "https://www.dw.com/en/ukraine-life-near-the-front-line-in-sloviansk/a-79722636?maca=en-rss-en-world-4025-rdf",
+      "published": "2026-10-22T11:44:00+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   }
+  ],
+  "economia|america": [
+   {
+    "title": "Macklem Ensnared by Market Pricing and Will Hike, Economists Say",
+    "summary": "Bank of Canada Governor Macklem faces market pressure toward a rate hike after hawkish comments convinced traders one is inevitable.",
+    "lang": "en",
+    "source": "Bloomberg Economics",
+    "url": "https://www.bloomberg.com/news/articles/2026-10-23/macklem-ensnared-by-market-pricing-and-will-hike-economists-say",
+    "published": "2026-10-23T10:00:00+00:00",
+    "event_id": "27b9a4014bc9",
+    "sources": [
+     {
+      "title": "Macklem Ensnared by Market Pricing and Will Hike, Economists Say",
+      "summary": "Bank of Canada Governor Macklem faces market pressure toward a rate hike after hawkish comments convinced traders one is inevitable.",
+      "lang": "en",
+      "source": "Bloomberg Economics",
+      "url": "https://www.bloomberg.com/news/articles/2026-10-23/macklem-ensnared-by-market-pricing-and-will-hike-economists-say",
+      "published": "2026-10-23T10:00:00+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "Argentina in global trading sweet spot",
+    "summary": "Trump's tariffs have left Argentina relatively unaffected, though rising Brazil tensions threaten the Mercosur trade bloc's survival.",
+    "lang": "en",
+    "source": "FT Global Economy",
+    "url": "https://www.ft.com/content/f1e6e30a-7f2b-49c9-bc8d-ef3821c9695a?syn-25a6b1a6=1",
+    "published": "2026-10-23T04:00:10+00:00",
+    "event_id": "0f257c1f4dfc",
+    "sources": [
+     {
+      "title": "Argentina in global trading sweet spot",
+      "summary": "Trump's tariffs have left Argentina relatively unaffected, though rising Brazil tensions threaten the Mercosur trade bloc's survival.",
+      "lang": "en",
+      "source": "FT Global Economy",
+      "url": "https://www.ft.com/content/f1e6e30a-7f2b-49c9-bc8d-ef3821c9695a?syn-25a6b1a6=1",
+      "published": "2026-10-23T04:00:10+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "Milei’s economic reforms under pressure",
+    "summary": "Argentine President Milei's radical economic reforms face challenges as austerity and tight monetary policy stagnate the economy.",
+    "lang": "en",
+    "source": "FT Global Economy",
+    "url": "https://www.ft.com/content/bba22699-a32b-4c1e-bc19-8a53de122fc9?syn-25a6b1a6=1",
+    "published": "2026-10-23T04:00:10+00:00",
+    "event_id": "6c4806c1a6ee",
+    "sources": [
+     {
+      "title": "Milei’s economic reforms under pressure",
+      "summary": "Argentine President Milei's radical economic reforms face challenges as austerity and tight monetary policy stagnate the economy.",
+      "lang": "en",
+      "source": "FT Global Economy",
+      "url": "https://www.ft.com/content/bba22699-a32b-4c1e-bc19-8a53de122fc9?syn-25a6b1a6=1",
+      "published": "2026-10-23T04:00:10+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "The limits of Trump’s trade war",
+    "summary": "Mexico and other economies must navigate Trump's trade policies and choose strategic trade alignment positions.",
+    "lang": "en",
+    "source": "Financial Times",
+    "url": "https://www.ft.com/content/0ce7d049-b264-47da-9aaa-08b33941585a?syn-25a6b1a6=1",
+    "published": "2026-10-23T04:00:18+00:00",
+    "event_id": "6807541f873a",
+    "sources": [
+     {
+      "title": "The limits of Trump’s trade war",
+      "summary": "Mexico and other economies must navigate Trump's trade policies and choose strategic trade alignment positions.",
+      "lang": "en",
+      "source": "Financial Times",
+      "url": "https://www.ft.com/content/0ce7d049-b264-47da-9aaa-08b33941585a?syn-25a6b1a6=1",
+      "published": "2026-10-23T04:00:18+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "Greetings from the Brazil-Argentina border, where waterfalls are flowing at near-record rates",
+    "summary": "Iguazú Falls between Brazil and Argentina flows at near-record rates following October's heavy rainfall linked to Super El Niño.",
+    "lang": "en",
+    "source": "NPR World",
+    "url": "https://www.npr.org/2026/10/22/g-s1-148553/argentina-brazil-iguazu-falls-waterfalls-super-el-nino",
+    "published": "2026-10-22T13:50:55+00:00",
+    "event_id": "993b96077412",
+    "sources": [
+     {
+      "title": "Greetings from the Brazil-Argentina border, where waterfalls are flowing at near-record rates",
+      "summary": "Iguazú Falls between Brazil and Argentina flows at near-record rates following October's heavy rainfall linked to Super El Niño.",
+      "lang": "en",
+      "source": "NPR World",
+      "url": "https://www.npr.org/2026/10/22/g-s1-148553/argentina-brazil-iguazu-falls-waterfalls-super-el-nino",
+      "published": "2026-10-22T13:50:55+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   }
+  ],
+  "politica|asia": [
+   {
+    "title": "西藏那曲发生7.0级地震，十余人死亡",
+    "summary": "西藏那曲7.0级地震致16人死亡、54人受伤、300多栋房屋毁，该地区高海拔寒冷气候增加救援难度。",
+    "lang": "zh",
+    "source": "纽约时报中文网",
+    "url": "https://cn.nytimes.com/china/20261023/earthquake-tibet-china/?utm_source=RSS",
+    "published": "2026-10-23T04:40:30+00:00",
+    "event_id": "65d881ed60df",
+    "sources": [
+     {
+      "title": "西藏那曲发生7.0级地震，十余人死亡",
+      "summary": "西藏那曲7.0级地震致16人死亡、54人受伤、300多栋房屋毁，该地区高海拔寒冷气候增加救援难度。",
+      "lang": "zh",
+      "source": "纽约时报中文网",
+      "url": "https://cn.nytimes.com/china/20261023/earthquake-tibet-china/?utm_source=RSS",
+      "published": "2026-10-23T04:40:30+00:00"
+     },
+     {
+      "title": "西藏那曲發生淺層強震 習近平下令全力救災",
+      "summary": "西藏那曲巴青县发生7.0级地震，至少16人死亡，超400次余震。习近平下令全力救灾，应急管理部提升响应级别至三级。",
+      "lang": "zh",
+      "source": "德國之聲中文",
+      "url": "https://www.dw.com/zh/西藏那曲發生淺層強震-習近平下令全力救災/a-79738526?maca=chi-rss-chi-all-1127-rdf",
+      "published": "2026-10-23T04:36:00+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "Philippines offers US$786,000 bounty for ‘dangerous’ senator wanted by ICC",
+    "summary": "Philippines government placed $786,000 bounty on senator and Duterte-era drug war enforcer wanted by International Criminal Court.",
+    "lang": "en",
+    "source": "South China Morning Post (Asia)",
+    "url": "https://www.scmp.com/news/asia/southeast-asia/article/3371939/philippines-offers-us786000-bounty-dangerous-senator-wanted-icc",
+    "published": "2026-10-23T09:53:23+00:00",
+    "event_id": "24cc9148de1c",
+    "sources": [
+     {
+      "title": "Philippines offers US$786,000 bounty for ‘dangerous’ senator wanted by ICC",
+      "summary": "Philippines government placed $786,000 bounty on senator and Duterte-era drug war enforcer wanted by International Criminal Court.",
+      "lang": "en",
+      "source": "South China Morning Post (Asia)",
+      "url": "https://www.scmp.com/news/asia/southeast-asia/article/3371939/philippines-offers-us786000-bounty-dangerous-senator-wanted-icc",
+      "published": "2026-10-23T09:53:23+00:00"
+     },
+     {
+      "title": "菲律賓懸賞千萬 緝捕涉掃毒戰前警察總長",
+      "summary": "菲律宾政府悬赏5000万披索追捕参议员德拉罗沙，其涉嫌在前总统杜特蒂任期内参与扫毒战，被国际刑事法院通缉。",
+      "lang": "zh",
+      "source": "中央社 CNA",
+      "url": "https://www.cna.com.tw/news/aopl/202610230177.aspx",
+      "published": "2026-10-23T09:25:53+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "Netanyahu orders West Bank closure as attack wounds Israelis before election",
+    "summary": "Netanyahu orders West Bank closure after Israeli forces prevent alleged major attack; election timing complicates security situation.",
+    "lang": "en",
+    "source": "Le Monde International",
+    "url": "https://www.lemonde.fr/en/international/article/2026/10/23/netanyahu-orders-west-bank-closure-as-attack-wounds-israelis-before-election_6762244_4.html",
+    "published": "2026-10-23T09:34:29+00:00",
+    "event_id": "fcb929922b6a",
+    "sources": [
+     {
+      "title": "Netanyahu orders West Bank closure as attack wounds Israelis before election",
+      "summary": "Netanyahu orders West Bank closure after Israeli forces prevent alleged major attack; election timing complicates security situation.",
+      "lang": "en",
+      "source": "Le Monde International",
+      "url": "https://www.lemonde.fr/en/international/article/2026/10/23/netanyahu-orders-west-bank-closure-as-attack-wounds-israelis-before-election_6762244_4.html",
+      "published": "2026-10-23T09:34:29+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "What we know about war plans that Trump and Netanyahu are drawing up",
+    "summary": "Trump and Netanyahu discuss potential joint military operations against Iran, signaling possible escalation in Middle East conflict.",
+    "lang": "en",
+    "source": "NPR World",
+    "url": "https://www.npr.org/2026/10/22/nx-s1-6012306/what-we-know-about-war-plans-that-trump-and-netanyahu-are-drawing-up",
+    "published": "2026-10-22T22:17:04+00:00",
+    "event_id": "2aa21d37b680",
+    "sources": [
+     {
+      "title": "What we know about war plans that Trump and Netanyahu are drawing up",
+      "summary": "Trump and Netanyahu discuss potential joint military operations against Iran, signaling possible escalation in Middle East conflict.",
+      "lang": "en",
+      "source": "NPR World",
+      "url": "https://www.npr.org/2026/10/22/nx-s1-6012306/what-we-know-about-war-plans-that-trump-and-netanyahu-are-drawing-up",
+      "published": "2026-10-22T22:17:04+00:00"
+     }
+    ],
+    "status": "unchanged",
+    "change_summary": "",
+    "previous_date": "2026-10-22",
+    "previous_event_id": "2aa21d37b680"
+   }
+  ],
+  "tecnologia|europa": [
+   {
+    "title": "Ukraine says Starlink still restricted after Trump says limits lifted",
+    "summary": "Ukraine reports Starlink connectivity remains restricted for military use despite Trump's claims that limitations were lifted.",
+    "lang": "en",
+    "source": "BBC World",
+    "url": "https://www.bbc.co.uk/news/articles/cq74pjpmx0e8o?at_medium=RSS&at_campaign=rss",
+    "published": "2026-10-23T09:36:43+00:00",
+    "event_id": "9c464aa25357",
+    "sources": [
+     {
+      "title": "Ukraine says Starlink still restricted after Trump says limits lifted",
+      "summary": "Ukraine reports Starlink connectivity remains restricted for military use despite Trump's claims that limitations were lifted.",
+      "lang": "en",
+      "source": "BBC World",
+      "url": "https://www.bbc.co.uk/news/articles/cq74pjpmx0e8o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-23T09:36:43+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "OpenAI and Poland’s NASK partner to advance AI safety and security",
+    "summary": "OpenAI and Poland's NASK partner to advance AI safety, security, and technical research for digital ecosystem resilience.",
+    "lang": "en",
+    "source": "OpenAI News",
+    "url": "https://openai.com/index/openai-nask-ai-safety-security-partnership",
+    "published": "2026-10-23T00:00:00+00:00",
+    "event_id": "15c1f8ef7a58",
+    "sources": [
+     {
+      "title": "OpenAI and Poland’s NASK partner to advance AI safety and security",
+      "summary": "OpenAI and Poland's NASK partner to advance AI safety, security, and technical research for digital ecosystem resilience.",
+      "lang": "en",
+      "source": "OpenAI News",
+      "url": "https://openai.com/index/openai-nask-ai-safety-security-partnership",
+      "published": "2026-10-23T00:00:00+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   }
+  ],
+  "politica|america": [
+   {
+    "title": "Trump ordered to sit for deposition in defamation lawsuit against the BBC",
+    "summary": "US judge orders Trump to sit for deposition in BBC defamation lawsuit by December 11 or face sanctions including potential dismissal.",
+    "lang": "en",
+    "source": "Le Monde International",
+    "url": "https://www.lemonde.fr/en/international/article/2026/10/23/judge-orders-trump-to-sit-for-a-deposition-in-his-defamation-lawsuit-against-the-bbc_6762010_4.html",
+    "published": "2026-10-23T01:15:17+00:00",
+    "event_id": "446c05fa3f9a",
+    "sources": [
+     {
+      "title": "Trump ordered to sit for deposition in defamation lawsuit against the BBC",
+      "summary": "US judge orders Trump to sit for deposition in BBC defamation lawsuit by December 11 or face sanctions including potential dismissal.",
+      "lang": "en",
+      "source": "Le Monde International",
+      "url": "https://www.lemonde.fr/en/international/article/2026/10/23/judge-orders-trump-to-sit-for-a-deposition-in-his-defamation-lawsuit-against-the-bbc_6762010_4.html",
+      "published": "2026-10-23T01:15:17+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "Brazil's runoff: Lula's legacy vs. Bolsonaro's dynasty",
+    "summary": "Brazil's presidential runoff pits incumbent Lula against a Bolsonaro family heir in a contest over the nation's political direction.",
+    "lang": "en",
+    "source": "NPR World",
+    "url": "https://www.npr.org/2026/10/23/nx-s1-6004277/brazil-vote-runoff-lula-bolsonaro",
+    "published": "2026-10-23T09:00:00+00:00",
+    "event_id": "51bfe497d9fa",
+    "sources": [
+     {
+      "title": "Brazil's runoff: Lula's legacy vs. Bolsonaro's dynasty",
+      "summary": "Brazil's presidential runoff pits incumbent Lula against a Bolsonaro family heir in a contest over the nation's political direction.",
+      "lang": "en",
+      "source": "NPR World",
+      "url": "https://www.npr.org/2026/10/23/nx-s1-6004277/brazil-vote-runoff-lula-bolsonaro",
+      "published": "2026-10-23T09:00:00+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   }
+  ],
+  "tecnologia|america": [
+   {
+    "title": "PHP 漏洞修補前四天已遭攻擊，AWS 揭駭客提前鎖定目標",
+    "summary": "PHP程序语言曝出重大安全漏洞，AWS证实攻击活动在官方公布前四天已开始，黑客提前锁定目标。",
+    "lang": "zh",
+    "source": "科技新報 TechNews",
+    "url": "https://infosecu.technews.tw/2026/10/23/php-loopholes-aws/",
+    "published": "2026-10-23T08:49:01+00:00",
+    "event_id": "24e718ee97bd",
+    "sources": [
+     {
+      "title": "PHP 漏洞修補前四天已遭攻擊，AWS 揭駭客提前鎖定目標",
+      "summary": "PHP程序语言曝出重大安全漏洞，AWS证实攻击活动在官方公布前四天已开始，黑客提前锁定目标。",
+      "lang": "zh",
+      "source": "科技新報 TechNews",
+      "url": "https://infosecu.technews.tw/2026/10/23/php-loopholes-aws/",
+      "published": "2026-10-23T08:49:01+00:00"
+     },
+     {
+      "title": "Hacking attempts rise after flaws found in program affecting 70 percent of websites",
+      "summary": "Governments worldwide rush to patch severe vulnerabilities discovered in PHP, a programming language used in 70% of websites.",
+      "lang": "en",
+      "source": "NPR World",
+      "url": "https://www.npr.org/2026/10/23/g-s1-149503/hacking-php-flaws",
+      "published": "2026-10-23T09:37:38+00:00"
+     }
+    ],
+    "status": "updated",
+    "change_summary": "PHP 漏洞修補前四天已遭攻擊，AWS 揭駭客提前鎖定目標",
+    "previous_date": "2026-10-22",
+    "previous_event_id": "24e718ee97bd"
+   },
+   {
+    "title": "年初還被要求別碰，美國太空軍將向業界徵求地月空間現成技術",
+    "summary": "美国太空军计划发布信息请求书，向业界征求可快速投入任务的地月空间商用技术，以应对中国月球空间布局加快。",
+    "lang": "zh",
+    "source": "科技新報 TechNews",
+    "url": "https://technews.tw/2026/10/23/us-space-force-is-requesting-techs-for-cislunar-space-operations/",
+    "published": "2026-10-23T09:40:26+00:00",
+    "event_id": "ec5ec7eefcc4",
+    "sources": [
+     {
+      "title": "年初還被要求別碰，美國太空軍將向業界徵求地月空間現成技術",
+      "summary": "美国太空军计划发布信息请求书，向业界征求可快速投入任务的地月空间商用技术，以应对中国月球空间布局加快。",
+      "lang": "zh",
+      "source": "科技新報 TechNews",
+      "url": "https://technews.tw/2026/10/23/us-space-force-is-requesting-techs-for-cislunar-space-operations/",
+      "published": "2026-10-23T09:40:26+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "Beyond tree cover: mapping the world’s forest types",
+    "summary": "Google DeepMind releases global forest type map categorizing every 10-meter land patch on Earth into distinct forest classifications.",
+    "lang": "en",
+    "source": "Google DeepMind Blog",
+    "url": "https://deepmind.google/blog/beyond-tree-cover-mapping-the-worlds-forest-types/",
+    "published": "2026-10-22T14:30:24+00:00",
+    "event_id": "e66e9796ba6b",
+    "sources": [
+     {
+      "title": "Beyond tree cover: mapping the world’s forest types",
+      "summary": "Google DeepMind releases global forest type map categorizing every 10-meter land patch on Earth into distinct forest classifications.",
+      "lang": "en",
+      "source": "Google DeepMind Blog",
+      "url": "https://deepmind.google/blog/beyond-tree-cover-mapping-the-worlds-forest-types/",
+      "published": "2026-10-22T14:30:24+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "Moderna and Merck say their mRNA cancer vaccine cut death, recurrence by 42%",
+    "summary": "Moderna and Merck report their mRNA cancer vaccine reduced death and recurrence by 42% in top-line trial results.",
+    "lang": "en",
+    "source": "Ars Technica",
+    "url": "https://arstechnica.com/health/2026/10/personalized-mrna-cancer-vaccine-cut-melanoma-death-recurrence-by-42/",
+    "published": "2026-10-22T22:12:19+00:00",
+    "event_id": "9423c8063b2e",
+    "sources": [
+     {
+      "title": "Moderna and Merck say their mRNA cancer vaccine cut death, recurrence by 42%",
+      "summary": "Moderna and Merck report their mRNA cancer vaccine reduced death and recurrence by 42% in top-line trial results.",
+      "lang": "en",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/health/2026/10/personalized-mrna-cancer-vaccine-cut-melanoma-death-recurrence-by-42/",
+      "published": "2026-10-22T22:12:19+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "Latest estimate for Starship launches required to support a Moon landing? 22.",
+    "summary": "SpaceX estimates 22 Starship launches would be needed to support a Moon landing mission with multiple required fuel transfers.",
+    "lang": "en",
+    "source": "Ars Technica",
+    "url": "https://arstechnica.com/space/2026/10/latest-estimate-for-starship-launches-required-to-support-a-moon-landing-22/",
+    "published": "2026-10-22T21:52:31+00:00",
+    "event_id": "724bb9eec32d",
+    "sources": [
+     {
+      "title": "Latest estimate for Starship launches required to support a Moon landing? 22.",
+      "summary": "SpaceX estimates 22 Starship launches would be needed to support a Moon landing mission with multiple required fuel transfers.",
+      "lang": "en",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/space/2026/10/latest-estimate-for-starship-launches-required-to-support-a-moon-landing-22/",
+      "published": "2026-10-22T21:52:31+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "OpenAI working on new $30B raise at $1.25T valuation ahead of IPO",
+    "summary": "OpenAI seeks $30 billion funding at $1.25 trillion valuation ahead of planned IPO, potentially setting record for private company value.",
+    "lang": "en",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/10/22/openai-working-on-new-30b-raise-at-1-25t-valuation-ahead-of-ipo/",
+    "published": "2026-10-22T22:08:24+00:00",
+    "event_id": "d73c3fbf5a8b",
+    "sources": [
+     {
+      "title": "OpenAI working on new $30B raise at $1.25T valuation ahead of IPO",
+      "summary": "OpenAI seeks $30 billion funding at $1.25 trillion valuation ahead of planned IPO, potentially setting record for private company value.",
+      "lang": "en",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/10/22/openai-working-on-new-30b-raise-at-1-25t-valuation-ahead-of-ipo/",
+      "published": "2026-10-22T22:08:24+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "Rivian buys world model startup to accelerate self-driving ambitions",
+    "summary": "Rivian acquires world model startup Third Dimension to accelerate self-driving capabilities using AI-physics matching technology.",
+    "lang": "en",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/10/22/rivian-buys-world-model-startup-to-accelerate-self-driving-ambitions/",
+    "published": "2026-10-22T21:05:05+00:00",
+    "event_id": "ec73a13041d6",
+    "sources": [
+     {
+      "title": "Rivian buys world model startup to accelerate self-driving ambitions",
+      "summary": "Rivian acquires world model startup Third Dimension to accelerate self-driving capabilities using AI-physics matching technology.",
+      "lang": "en",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/10/22/rivian-buys-world-model-startup-to-accelerate-self-driving-ambitions/",
+      "published": "2026-10-22T21:05:05+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "Canva’s first AI image model plans designs before generating them",
+    "summary": "Canva launches AI image generation model that plans designs before generating them, competing with OpenAI, Microsoft, and Google.",
+    "lang": "en",
+    "source": "The Verge",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/1017151/canva-craft-in-house-ai-model",
+    "published": "2026-10-22T21:51:25+00:00",
+    "event_id": "1437b0ebe886",
+    "sources": [
+     {
+      "title": "Canva’s first AI image model plans designs before generating them",
+      "summary": "Canva launches AI image generation model that plans designs before generating them, competing with OpenAI, Microsoft, and Google.",
+      "lang": "en",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1017151/canva-craft-in-house-ai-model",
+      "published": "2026-10-22T21:51:25+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   }
+  ]
+ }
+}
