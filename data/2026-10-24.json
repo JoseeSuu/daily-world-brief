@@ -1,0 +1,779 @@
+{
+ "date": "2026-10-24",
+ "generated_at": "2026-10-24T09:43:24.936641+00:00",
+ "mode": "full",
+ "cost_usd": 0.047,
+ "radar_cost_usd": 0.0049,
+ "events": {
+  "mode": "full",
+  "compared_with": "2026-10-23",
+  "articles": 34,
+  "uncompared_articles": 0,
+  "events": 31,
+  "cost_usd": 0.0163
+ },
+ "radar": {
+  "items": [],
+  "mode": "unavailable",
+  "failed_sources": []
+ },
+ "market": null,
+ "failed_sources": [],
+ "cells": {
+  "economia|asia": [
+   {
+    "title": "Oil hits $117 for first time since April on fears of flare-up in Iran hostilities",
+    "summary": "",
+    "lang": "en",
+    "source": "FT Global Economy",
+    "url": "https://www.ft.com/content/8948193b-438b-4d71-a0b1-31dff56fc308?syn-25a6b1a6=1",
+    "published": "2026-10-23T20:13:21+00:00",
+    "event_id": "be49da96e5c1",
+    "sources": [
+     {
+      "title": "Oil hits $117 for first time since April on fears of flare-up in Iran hostilities",
+      "summary": "",
+      "lang": "en",
+      "source": "FT Global Economy",
+      "url": "https://www.ft.com/content/8948193b-438b-4d71-a0b1-31dff56fc308?syn-25a6b1a6=1",
+      "published": "2026-10-23T20:13:21+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "China Barely Eased Austerity Before Shift Into Stimulus Mode",
+    "summary": "",
+    "lang": "en",
+    "source": "Bloomberg Economics",
+    "url": "https://www.bloomberg.com/news/articles/2026-10-23/china-barely-eased-austerity-just-before-shift-to-stimulus-mode",
+    "published": "2026-10-23T07:34:26+00:00",
+    "event_id": "7f7ef885b5d6",
+    "sources": [
+     {
+      "title": "China Barely Eased Austerity Before Shift Into Stimulus Mode",
+      "summary": "",
+      "lang": "en",
+      "source": "Bloomberg Economics",
+      "url": "https://www.bloomberg.com/news/articles/2026-10-23/china-barely-eased-austerity-just-before-shift-to-stimulus-mode",
+      "published": "2026-10-23T07:34:26+00:00"
+     }
+    ],
+    "status": "updated",
+    "change_summary": "China Barely Eased Austerity Before Shift Into Stimulus Mode",
+    "previous_date": "2026-10-23",
+    "previous_event_id": "7f7ef885b5d6"
+   },
+   {
+    "title": "China carries out in-depth investigation of Turkey’s largest rare earth deposit",
+    "summary": "",
+    "lang": "en",
+    "source": "South China Morning Post (China)",
+    "url": "https://www.scmp.com/news/china/science/article/3371800/china-carries-out-depth-investigation-turkeys-largest-rare-earth-deposit",
+    "published": "2026-10-24T04:00:11+00:00",
+    "event_id": "9009e3caf6b3",
+    "sources": [
+     {
+      "title": "China carries out in-depth investigation of Turkey’s largest rare earth deposit",
+      "summary": "",
+      "lang": "en",
+      "source": "South China Morning Post (China)",
+      "url": "https://www.scmp.com/news/china/science/article/3371800/china-carries-out-depth-investigation-turkeys-largest-rare-earth-deposit",
+      "published": "2026-10-24T04:00:11+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   }
+  ],
+  "politica|asia": [
+   {
+    "title": "US lawmaker to press Trump to expedite Taiwan arms sales",
+    "summary": "",
+    "lang": "en",
+    "source": "Nikkei Asia",
+    "url": "https://asia.nikkei.com/politics/defense/us-lawmaker-to-press-trump-to-expedite-taiwan-arms-sales2",
+    "published": null,
+    "event_id": "af505e40b140",
+    "sources": [
+     {
+      "title": "US lawmaker to press Trump to expedite Taiwan arms sales",
+      "summary": "",
+      "lang": "en",
+      "source": "Nikkei Asia",
+      "url": "https://asia.nikkei.com/politics/defense/us-lawmaker-to-press-trump-to-expedite-taiwan-arms-sales2",
+      "published": null
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "Kim Jong Un tells North Korean army units to prepare for 'new-era military build-up'",
+    "summary": "",
+    "lang": "en",
+    "source": "Channel NewsAsia",
+    "url": "https://www.channelnewsasia.com/east-asia/kim-jong-un-tells-north-korean-army-units-prepare-new-era-military-build-up-6488631",
+    "published": "2026-10-24T07:17:00+00:00",
+    "event_id": "2577914e9f6d",
+    "sources": [
+     {
+      "title": "Kim Jong Un tells North Korean army units to prepare for 'new-era military build-up'",
+      "summary": "",
+      "lang": "en",
+      "source": "Channel NewsAsia",
+      "url": "https://www.channelnewsasia.com/east-asia/kim-jong-un-tells-north-korean-army-units-prepare-new-era-military-build-up-6488631",
+      "published": "2026-10-24T07:17:00+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "North Korea’s Kim visits China ahead of key anniversary",
+    "summary": "",
+    "lang": "en",
+    "source": "Japan Times",
+    "url": "https://www.japantimes.co.jp/news/2026/10/24/asia-pacific/politics/north-korea-kim-jong-un-china-dandong/",
+    "published": "2026-10-24T08:07:00+00:00",
+    "event_id": "12c2caf4ede6",
+    "sources": [
+     {
+      "title": "North Korea’s Kim visits China ahead of key anniversary",
+      "summary": "",
+      "lang": "en",
+      "source": "Japan Times",
+      "url": "https://www.japantimes.co.jp/news/2026/10/24/asia-pacific/politics/north-korea-kim-jong-un-china-dandong/",
+      "published": "2026-10-24T08:07:00+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "What to know about the Chinese Communist Party’s Fifth Plenum",
+    "summary": "",
+    "lang": "en",
+    "source": "Japan Times",
+    "url": "https://www.japantimes.co.jp/news/2026/10/24/asia-pacific/politics/china-fifth-plenum-explainer/",
+    "published": "2026-10-24T07:19:00+00:00",
+    "event_id": "5161ee99d696",
+    "sources": [
+     {
+      "title": "What to know about the Chinese Communist Party’s Fifth Plenum",
+      "summary": "",
+      "lang": "en",
+      "source": "Japan Times",
+      "url": "https://www.japantimes.co.jp/news/2026/10/24/asia-pacific/politics/china-fifth-plenum-explainer/",
+      "published": "2026-10-24T07:19:00+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "US, allies and China vie for influence through Pacific security deals",
+    "summary": "",
+    "lang": "en",
+    "source": "South China Morning Post (China)",
+    "url": "https://www.scmp.com/news/us/article/3371989/us-allies-and-china-vie-influence-through-pacific-security-deals",
+    "published": "2026-10-23T22:27:23+00:00",
+    "event_id": "a17a1ef845fe",
+    "sources": [
+     {
+      "title": "US, allies and China vie for influence through Pacific security deals",
+      "summary": "",
+      "lang": "en",
+      "source": "South China Morning Post (China)",
+      "url": "https://www.scmp.com/news/us/article/3371989/us-allies-and-china-vie-influence-through-pacific-security-deals",
+      "published": "2026-10-23T22:27:23+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "Netanyahu orders West Bank closure as attack wounds Israelis before election",
+    "summary": "",
+    "lang": "en",
+    "source": "Le Monde International",
+    "url": "https://www.lemonde.fr/en/international/article/2026/10/23/netanyahu-orders-west-bank-closure-as-attack-wounds-israelis-before-election_6762244_4.html",
+    "published": "2026-10-23T09:34:29+00:00",
+    "event_id": "fcb929922b6a",
+    "sources": [
+     {
+      "title": "Netanyahu orders West Bank closure as attack wounds Israelis before election",
+      "summary": "",
+      "lang": "en",
+      "source": "Le Monde International",
+      "url": "https://www.lemonde.fr/en/international/article/2026/10/23/netanyahu-orders-west-bank-closure-as-attack-wounds-israelis-before-election_6762244_4.html",
+      "published": "2026-10-23T09:34:29+00:00"
+     },
+     {
+      "title": "Israel orders closure of West Bank after soldiers kill 2 men behind an alleged attack",
+      "summary": "",
+      "lang": "en",
+      "source": "NPR World",
+      "url": "https://www.npr.org/2026/10/23/nx-s1-6013333/netanyahu-closure-west-bank",
+      "published": "2026-10-23T09:40:32+00:00"
+     }
+    ],
+    "status": "unchanged",
+    "change_summary": "",
+    "previous_date": "2026-10-23",
+    "previous_event_id": "fcb929922b6a"
+   }
+  ],
+  "economia|europa": [
+   {
+    "title": "World Economy Latest: Euro Area Business Activity Cools on Weakness in France",
+    "summary": "",
+    "lang": "en",
+    "source": "Bloomberg Economics",
+    "url": "https://www.bloomberg.com/news/articles/2026-10-24/world-economy-latest-euro-area-business-activity-cools-on-weakness-in-france",
+    "published": "2026-10-24T09:00:00+00:00",
+    "event_id": "13456efd79d0",
+    "sources": [
+     {
+      "title": "World Economy Latest: Euro Area Business Activity Cools on Weakness in France",
+      "summary": "",
+      "lang": "en",
+      "source": "Bloomberg Economics",
+      "url": "https://www.bloomberg.com/news/articles/2026-10-24/world-economy-latest-euro-area-business-activity-cools-on-weakness-in-france",
+      "published": "2026-10-24T09:00:00+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "España surfea la crisis del motor transformando sus plantas al eléctrico: la producción se duplicará en 2026",
+    "summary": "España duplicará la producción de vehículos eléctricos en 2026 gracias a cuatro nuevos modelos de Volkswagen que acumulan más de 150.000 pedidos, transformando sus plantas automotrices.",
+    "lang": "es",
+    "source": "El País Economía",
+    "url": "https://cincodias.elpais.com/companias/2026-10-24/espana-surfea-la-crisis-del-motor-transformando-sus-plantas-al-electrico-la-produccion-se-duplicara-en-2026.html",
+    "published": "2026-10-24T03:15:00+00:00",
+    "event_id": "cdb089db71a8",
+    "sources": [
+     {
+      "title": "España surfea la crisis del motor transformando sus plantas al eléctrico: la producción se duplicará en 2026",
+      "summary": "España duplicará la producción de vehículos eléctricos en 2026 gracias a cuatro nuevos modelos de Volkswagen que acumulan más de 150.000 pedidos, transformando sus plantas automotrices.",
+      "lang": "es",
+      "source": "El País Economía",
+      "url": "https://cincodias.elpais.com/companias/2026-10-24/espana-surfea-la-crisis-del-motor-transformando-sus-plantas-al-electrico-la-produccion-se-duplicara-en-2026.html",
+      "published": "2026-10-24T03:15:00+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "France avoids downgrade from Moody’s in boost for Macron’s government",
+    "summary": "",
+    "lang": "en",
+    "source": "Financial Times",
+    "url": "https://www.ft.com/content/840f9c94-cb41-4340-9fc4-41e76d908831?syn-25a6b1a6=1",
+    "published": "2026-10-23T22:28:52+00:00",
+    "event_id": "f70765deb2df",
+    "sources": [
+     {
+      "title": "France avoids downgrade from Moody’s in boost for Macron’s government",
+      "summary": "",
+      "lang": "en",
+      "source": "Financial Times",
+      "url": "https://www.ft.com/content/840f9c94-cb41-4340-9fc4-41e76d908831?syn-25a6b1a6=1",
+      "published": "2026-10-23T22:28:52+00:00"
+     }
+    ],
+    "status": "updated",
+    "change_summary": "France avoids downgrade from Moody's in boost for Macron's government",
+    "previous_date": "2026-10-23",
+    "previous_event_id": "f70765deb2df"
+   },
+   {
+    "title": "Europe's heat claims 50,000 lives. Climate change blamed for two-thirds of deaths",
+    "summary": "",
+    "lang": "en",
+    "source": "NPR World",
+    "url": "https://www.npr.org/2026/10/23/g-s1-149498/europe-heat-deaths",
+    "published": "2026-10-23T08:17:06+00:00",
+    "event_id": "a0cbb500670e",
+    "sources": [
+     {
+      "title": "Europe's heat claims 50,000 lives. Climate change blamed for two-thirds of deaths",
+      "summary": "",
+      "lang": "en",
+      "source": "NPR World",
+      "url": "https://www.npr.org/2026/10/23/g-s1-149498/europe-heat-deaths",
+      "published": "2026-10-23T08:17:06+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   }
+  ],
+  "economia|america": [
+   {
+    "title": "US executives quit $25bn gas venture over claims of secret Russian control",
+    "summary": "",
+    "lang": "en",
+    "source": "Financial Times",
+    "url": "https://www.ft.com/content/e9cfbfbb-e65a-4303-aebb-20d59319ef1b?syn-25a6b1a6=1",
+    "published": "2026-10-24T00:22:20+00:00",
+    "event_id": "8dc0844d9b2e",
+    "sources": [
+     {
+      "title": "US executives quit $25bn gas venture over claims of secret Russian control",
+      "summary": "",
+      "lang": "en",
+      "source": "Financial Times",
+      "url": "https://www.ft.com/content/e9cfbfbb-e65a-4303-aebb-20d59319ef1b?syn-25a6b1a6=1",
+      "published": "2026-10-24T00:22:20+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "Trump to cut Canadian tariffs after pressure from Republicans",
+    "summary": "",
+    "lang": "en",
+    "source": "Financial Times",
+    "url": "https://www.ft.com/content/d3d12f54-fcf0-400c-96f1-484aea980be5?syn-25a6b1a6=1",
+    "published": "2026-10-23T22:29:30+00:00",
+    "event_id": "523cd8ab07d8",
+    "sources": [
+     {
+      "title": "Trump to cut Canadian tariffs after pressure from Republicans",
+      "summary": "",
+      "lang": "en",
+      "source": "Financial Times",
+      "url": "https://www.ft.com/content/d3d12f54-fcf0-400c-96f1-484aea980be5?syn-25a6b1a6=1",
+      "published": "2026-10-23T22:29:30+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "US Business Activity Expands, Prices Surge Most Since 2022",
+    "summary": "",
+    "lang": "en",
+    "source": "Bloomberg Economics",
+    "url": "https://www.bloomberg.com/news/articles/2026-10-23/us-business-activity-expands-prices-surge-by-most-since-2022",
+    "published": "2026-10-23T13:45:00+00:00",
+    "event_id": "603137ec2bf2",
+    "sources": [
+     {
+      "title": "US Business Activity Expands, Prices Surge Most Since 2022",
+      "summary": "",
+      "lang": "en",
+      "source": "Bloomberg Economics",
+      "url": "https://www.bloomberg.com/news/articles/2026-10-23/us-business-activity-expands-prices-surge-by-most-since-2022",
+      "published": "2026-10-23T13:45:00+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   }
+  ],
+  "politica|europa": [
+   {
+    "title": "Russia's attacks on Ukraine's capital, Kyiv, are intensifying. DW asked people on the ground what life is like",
+    "summary": "",
+    "lang": "en",
+    "source": "Deutsche Welle World",
+    "url": "https://www.dw.com/en/russia-s-attacks-on-ukraine-s-capital-kyiv-are-intensifying-dw-asked-people-on-the-ground-what-life-is-like/a-79741090?maca=en-rss-en-world-4025-rdf",
+    "published": "2026-10-23T19:08:00+00:00",
+    "event_id": "95568b74f760",
+    "sources": [
+     {
+      "title": "Russia's attacks on Ukraine's capital, Kyiv, are intensifying. DW asked people on the ground what life is like",
+      "summary": "",
+      "lang": "en",
+      "source": "Deutsche Welle World",
+      "url": "https://www.dw.com/en/russia-s-attacks-on-ukraine-s-capital-kyiv-are-intensifying-dw-asked-people-on-the-ground-what-life-is-like/a-79741090?maca=en-rss-en-world-4025-rdf",
+      "published": "2026-10-23T19:08:00+00:00"
+     },
+     {
+      "title": "Ukraine tries to shut Moscow's airports with drone strikes on Russia",
+      "summary": "",
+      "lang": "en",
+      "source": "Deutsche Welle World",
+      "url": "https://www.dw.com/en/ukraine-tries-to-shut-moscow-s-airports-with-drone-strikes-on-russia/a-79737469?maca=en-rss-en-world-4025-rdf",
+      "published": "2026-10-23T14:23:00+00:00"
+     }
+    ],
+    "status": "updated",
+    "change_summary": "Russia's attacks on Ukraine's capital, Kyiv, are intensifying. DW asked people on the ground what life is like",
+    "previous_date": "2026-10-23",
+    "previous_event_id": "95568b74f760"
+   },
+   {
+    "title": "Student movement takes Serbia's Vučić to the wire in neck-and-neck election",
+    "summary": "",
+    "lang": "en",
+    "source": "BBC World",
+    "url": "https://www.bbc.co.uk/news/articles/cm1dwz311476o?at_medium=RSS&at_campaign=rss",
+    "published": "2026-10-23T23:08:23+00:00",
+    "event_id": "c4c48ac64982",
+    "sources": [
+     {
+      "title": "Student movement takes Serbia's Vučić to the wire in neck-and-neck election",
+      "summary": "",
+      "lang": "en",
+      "source": "BBC World",
+      "url": "https://www.bbc.co.uk/news/articles/cm1dwz311476o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-23T23:08:23+00:00"
+     },
+     {
+      "title": "Serbia: Hope, tension and apprehension as voters prepare to elect new parliament",
+      "summary": "",
+      "lang": "en",
+      "source": "Deutsche Welle World",
+      "url": "https://www.dw.com/en/serbia-hope-tension-and-apprehension-as-voters-prepare-to-elect-new-parliament/a-79738102?maca=en-rss-en-world-4025-rdf",
+      "published": "2026-10-23T11:43:00+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   }
+  ],
+  "politica|america": [
+   {
+    "title": "Military reinforcements move to Mideast. And, millions of Americans vote early",
+    "summary": "",
+    "lang": "en",
+    "source": "NPR World",
+    "url": "https://www.npr.org/2026/10/23/g-s1-149514/up-first-newsletter-iran-war-midterm-voting-trump-bbc",
+    "published": "2026-10-23T11:22:25+00:00",
+    "event_id": "537af07b2733",
+    "sources": [
+     {
+      "title": "Military reinforcements move to Mideast. And, millions of Americans vote early",
+      "summary": "",
+      "lang": "en",
+      "source": "NPR World",
+      "url": "https://www.npr.org/2026/10/23/g-s1-149514/up-first-newsletter-iran-war-midterm-voting-trump-bbc",
+      "published": "2026-10-23T11:22:25+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "Brazil's runoff: Lula's legacy vs. Bolsonaro's dynasty",
+    "summary": "",
+    "lang": "en",
+    "source": "NPR World",
+    "url": "https://www.npr.org/2026/10/23/nx-s1-6004277/brazil-vote-runoff-lula-bolsonaro",
+    "published": "2026-10-23T09:00:00+00:00",
+    "event_id": "51bfe497d9fa",
+    "sources": [
+     {
+      "title": "Brazil's runoff: Lula's legacy vs. Bolsonaro's dynasty",
+      "summary": "",
+      "lang": "en",
+      "source": "NPR World",
+      "url": "https://www.npr.org/2026/10/23/nx-s1-6004277/brazil-vote-runoff-lula-bolsonaro",
+      "published": "2026-10-23T09:00:00+00:00"
+     }
+    ],
+    "status": "unchanged",
+    "change_summary": "",
+    "previous_date": "2026-10-23",
+    "previous_event_id": "51bfe497d9fa"
+   }
+  ],
+  "tecnologia|america": [
+   {
+    "title": "NASA updates lander plans for Moon landings, finally solves long-festering Orion issue",
+    "summary": "",
+    "lang": "en",
+    "source": "Ars Technica",
+    "url": "https://arstechnica.com/space/2026/10/nasa-updates-lander-plans-for-moon-landings-finally-solves-long-festering-orion-issue/",
+    "published": "2026-10-23T22:48:25+00:00",
+    "event_id": "724bb9eec32d",
+    "sources": [
+     {
+      "title": "NASA updates lander plans for Moon landings, finally solves long-festering Orion issue",
+      "summary": "",
+      "lang": "en",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/space/2026/10/nasa-updates-lander-plans-for-moon-landings-finally-solves-long-festering-orion-issue/",
+      "published": "2026-10-23T22:48:25+00:00"
+     }
+    ],
+    "status": "updated",
+    "change_summary": "NASA updates lander plans for Moon landings, finally solves long-festering Orion issue",
+    "previous_date": "2026-10-23",
+    "previous_event_id": "724bb9eec32d"
+   },
+   {
+    "title": "Securing our frontier model training environment",
+    "summary": "",
+    "lang": "en",
+    "source": "OpenAI News",
+    "url": "https://openai.com/index/securing-our-frontier-model-training-environment",
+    "published": "2026-10-23T10:00:00+00:00",
+    "event_id": "48e2274fdf2b",
+    "sources": [
+     {
+      "title": "Securing our frontier model training environment",
+      "summary": "",
+      "lang": "en",
+      "source": "OpenAI News",
+      "url": "https://openai.com/index/securing-our-frontier-model-training-environment",
+      "published": "2026-10-23T10:00:00+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "Updated Google privacy policy says your Gmail might be used for advertising",
+    "summary": "",
+    "lang": "en",
+    "source": "Ars Technica",
+    "url": "https://arstechnica.com/gadgets/2026/10/updated-google-privacy-policy-says-your-gmail-might-be-used-for-advertising/",
+    "published": "2026-10-23T20:19:55+00:00",
+    "event_id": "3e249e7fc631",
+    "sources": [
+     {
+      "title": "Updated Google privacy policy says your Gmail might be used for advertising",
+      "summary": "",
+      "lang": "en",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/gadgets/2026/10/updated-google-privacy-policy-says-your-gmail-might-be-used-for-advertising/",
+      "published": "2026-10-23T20:19:55+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "Intel gets waiver after worries fuzzy US ban on foreign-made robots may hit fabs",
+    "summary": "Intel recibe exención tras preocupaciones que vaga prohibición estadounidense robots extranjeros afecte fábricas, vehículos robóticos extranjeros cruciales producción chips.",
+    "lang": "en",
+    "source": "Ars Technica",
+    "url": "https://arstechnica.com/ai/2026/10/intel-gets-waiver-after-worries-fuzzy-us-ban-on-foreign-made-robots-may-hit-fabs/",
+    "published": "2026-10-23T17:18:31+00:00",
+    "event_id": "e44aee2d4402",
+    "sources": [
+     {
+      "title": "Intel gets waiver after worries fuzzy US ban on foreign-made robots may hit fabs",
+      "summary": "Intel recibe exención tras preocupaciones que vaga prohibición estadounidense robots extranjeros afecte fábricas, vehículos robóticos extranjeros cruciales producción chips.",
+      "lang": "en",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/ai/2026/10/intel-gets-waiver-after-worries-fuzzy-us-ban-on-foreign-made-robots-may-hit-fabs/",
+      "published": "2026-10-23T17:18:31+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "Commonwealth Fusion Systems gets $85M to build better fusion-ready semiconductors",
+    "summary": "",
+    "lang": "en",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/10/23/commonwealth-fusion-systems-gets-85m-to-build-better-fusion-ready-semiconductors/",
+    "published": "2026-10-23T16:20:28+00:00",
+    "event_id": "d88ee30f6264",
+    "sources": [
+     {
+      "title": "Commonwealth Fusion Systems gets $85M to build better fusion-ready semiconductors",
+      "summary": "",
+      "lang": "en",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/10/23/commonwealth-fusion-systems-gets-85m-to-build-better-fusion-ready-semiconductors/",
+      "published": "2026-10-23T16:20:28+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "IBM tiene unas cifras que desafían a los gigantes de la IA cerrada: 90% del rendimiento por solo el 10% del coste por token",
+    "summary": "IBM desarrolla modelos de inteligencia artificial que logran el 90% del rendimiento de competidores al 10% del coste por token, desafiando el dominio de sistemas cerrados.",
+    "lang": "es",
+    "source": "Xataka",
+    "url": "https://www.xataka.com/robotica-e-ia/ibm-tiene-unas-cifras-que-desafian-a-gigantes-ia-cerrada-90-rendimiento-solo-10-coste-token",
+    "published": "2026-10-23T19:30:07+00:00",
+    "event_id": "046787590fc3",
+    "sources": [
+     {
+      "title": "IBM tiene unas cifras que desafían a los gigantes de la IA cerrada: 90% del rendimiento por solo el 10% del coste por token",
+      "summary": "IBM desarrolla modelos de inteligencia artificial que logran el 90% del rendimiento de competidores al 10% del coste por token, desafiando el dominio de sistemas cerrados.",
+      "lang": "es",
+      "source": "Xataka",
+      "url": "https://www.xataka.com/robotica-e-ia/ibm-tiene-unas-cifras-que-desafian-a-gigantes-ia-cerrada-90-rendimiento-solo-10-coste-token",
+      "published": "2026-10-23T19:30:07+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "非科學家團隊靠 Claude 設計抗蠍毒蛋白質，64 小時完成、實驗驗證成功",
+    "summary": "团队在Claude帮助下64小时内成功设计抗蝎毒蛋白质并通过实验验证，该团队几乎没有科学背景。",
+    "lang": "zh",
+    "source": "科技新報 TechNews",
+    "url": "https://technews.tw/2026/10/24/ai-does-the-lab-work/",
+    "published": "2026-10-24T08:00:32+00:00",
+    "event_id": "ee403b6f009c",
+    "sources": [
+     {
+      "title": "非科學家團隊靠 Claude 設計抗蠍毒蛋白質，64 小時完成、實驗驗證成功",
+      "summary": "团队在Claude帮助下64小时内成功设计抗蝎毒蛋白质并通过实验验证，该团队几乎没有科学背景。",
+      "lang": "zh",
+      "source": "科技新報 TechNews",
+      "url": "https://technews.tw/2026/10/24/ai-does-the-lab-work/",
+      "published": "2026-10-24T08:00:32+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "超導類神經網路晶片通過核融合測試，每秒即時分析百萬筆電漿資料",
+    "summary": "美国能源部布鲁克海文国家实验室研制的超导类神经网络芯片通过核融合测试，可每秒实时分析百万笔等离子体数据。",
+    "lang": "zh",
+    "source": "科技新報 TechNews",
+    "url": "https://technews.tw/2026/10/24/covering-the-fastest-computers-in-the-world-and-the-people-who-run-them-13/",
+    "published": "2026-10-24T06:00:30+00:00",
+    "event_id": "d7266bcfee07",
+    "sources": [
+     {
+      "title": "超導類神經網路晶片通過核融合測試，每秒即時分析百萬筆電漿資料",
+      "summary": "美国能源部布鲁克海文国家实验室研制的超导类神经网络芯片通过核融合测试，可每秒实时分析百万笔等离子体数据。",
+      "lang": "zh",
+      "source": "科技新報 TechNews",
+      "url": "https://technews.tw/2026/10/24/covering-the-fastest-computers-in-the-world-and-the-people-who-run-them-13/",
+      "published": "2026-10-24T06:00:30+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "PHP2Shell恐源自20年前的嚴重記憶體錯誤",
+    "summary": "PHP开发团队10月21日发布修补CVE-2026-109618、CVE-2026-109619等重大漏洞PHP2Shell，可能源于20年前严重内存错误。",
+    "lang": "zh",
+    "source": "iThome 台灣",
+    "url": "https://www.ithome.com.tw/news/179913",
+    "published": "2026-10-23T11:10:10+00:00",
+    "event_id": "24e718ee97bd",
+    "sources": [
+     {
+      "title": "PHP2Shell恐源自20年前的嚴重記憶體錯誤",
+      "summary": "PHP开发团队10月21日发布修补CVE-2026-109618、CVE-2026-109619等重大漏洞PHP2Shell，可能源于20年前严重内存错误。",
+      "lang": "zh",
+      "source": "iThome 台灣",
+      "url": "https://www.ithome.com.tw/news/179913",
+      "published": "2026-10-23T11:10:10+00:00"
+     }
+    ],
+    "status": "updated",
+    "change_summary": "PHP2Shell恐源自20年前的嚴重記憶體錯誤",
+    "previous_date": "2026-10-23",
+    "previous_event_id": "24e718ee97bd"
+   }
+  ],
+  "tecnologia|europa": [
+   {
+    "title": "Europa empieza a preguntarse quién controla realmente su tecnología militar. Palantir responde: Maven no tiene “botón de apagado”",
+    "summary": "Europa cuestiona quién controla su tecnología militar tras incidentes con redes de SpaceX y sistemas como Maven de Palantir que carecen de controles de desactivación.",
+    "lang": "es",
+    "source": "Xataka",
+    "url": "https://www.xataka.com/magnet/europa-empieza-a-preguntarse-quien-controla-realmente-su-tecnologia-militar-palantir-responde-maven-no-tiene-boton-apagado",
+    "published": "2026-10-24T06:00:09+00:00",
+    "event_id": "b188b7525ded",
+    "sources": [
+     {
+      "title": "Europa empieza a preguntarse quién controla realmente su tecnología militar. Palantir responde: Maven no tiene “botón de apagado”",
+      "summary": "Europa cuestiona quién controla su tecnología militar tras incidentes con redes de SpaceX y sistemas como Maven de Palantir que carecen de controles de desactivación.",
+      "lang": "es",
+      "source": "Xataka",
+      "url": "https://www.xataka.com/magnet/europa-empieza-a-preguntarse-quien-controla-realmente-su-tecnologia-militar-palantir-responde-maven-no-tiene-boton-apagado",
+      "published": "2026-10-24T06:00:09+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   }
+  ],
+  "tecnologia|asia": [
+   {
+    "title": "Sophos揭露中國駭客使用改造版Meterpreter，受害範圍涵蓋臺灣",
+    "summary": "安全公司Sophos发现中国黑客组织BRONZE SANDCASTLE部署改造Meterpreter后门，受害范围涵盖台湾、菲律宾、阿富汗和纳米比亚。",
+    "lang": "zh",
+    "source": "iThome 台灣",
+    "url": "https://www.ithome.com.tw/news/179914",
+    "published": "2026-10-23T06:10:06+00:00",
+    "event_id": "34902668a689",
+    "sources": [
+     {
+      "title": "Sophos揭露中國駭客使用改造版Meterpreter，受害範圍涵蓋臺灣",
+      "summary": "安全公司Sophos发现中国黑客组织BRONZE SANDCASTLE部署改造Meterpreter后门，受害范围涵盖台湾、菲律宾、阿富汗和纳米比亚。",
+      "lang": "zh",
+      "source": "iThome 台灣",
+      "url": "https://www.ithome.com.tw/news/179914",
+      "published": "2026-10-23T06:10:06+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   }
+  ]
+ }
+}
