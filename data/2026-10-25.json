@@ -1,0 +1,667 @@
+{
+ "date": "2026-10-25",
+ "generated_at": "2026-10-25T10:00:27.928121+00:00",
+ "mode": "full",
+ "cost_usd": 0.0399,
+ "radar_cost_usd": 0.0048,
+ "events": {
+  "mode": "full",
+  "compared_with": "2026-10-24",
+  "articles": 29,
+  "uncompared_articles": 0,
+  "events": 25,
+  "cost_usd": 0.0126
+ },
+ "radar": {
+  "items": [
+   {
+    "id": "gh-1407997858",
+    "source": "GitHub",
+    "kind": "project",
+    "title": "mw00/project-maya",
+    "url": "https://github.com/mw00/project-maya",
+    "discussion_url": "",
+    "published": "2026-10-06T22:55:13Z",
+    "lang": "en",
+    "excerpt": "Project Maya - run GLM-5.3-Flash (321B MoE) and DeepSeek-V4.1-Flash-1017 (748B MoE) privately on your own GPU(s), from one card to 16, NVIDIA or AMD, Linux or Windows. Engine, server, dashboard, OpenAI- and Anthropic-compatible API, quant tools.",
+    "signal": {
+     "stars_total": 1809
+    },
+    "summary": "Project Maya enables running large language models (GLM-5.3-Flash 321B MoE and DeepSeek-V4.1-Flash-1017 748B MoE) locally on GPUs with engine, server, dashboard, and OpenAI/Anthropic-compatible APIs.",
+    "usefulness": "Could reduce costs and latency if you build Python tools requiring private model inference across single to 16 GPUs on NVIDIA or AMD hardware.",
+    "to_verify": "Whether quantization tools produce usable accuracy; documented compatibility across claimed GPU counts and operating systems."
+   }
+  ],
+  "mode": "full",
+  "failed_sources": []
+ },
+ "market": null,
+ "failed_sources": [],
+ "cells": {
+  "economia|europa": [
+   {
+    "title": "Luxury groups’ value drops by €250bn as Chinese consumer demand fades",
+    "summary": "European luxury groups lost €250bn in value as Chinese consumer demand weakens and global stock markets cool. The slowdown in China is exacerbating the sector's downturn.",
+    "lang": "en",
+    "source": "Financial Times",
+    "url": "https://www.ft.com/content/1c3065cf-538f-433a-9749-0355a3642c7c?syn-25a6b1a6=1",
+    "published": "2026-10-25T05:00:10+00:00",
+    "event_id": "9d4e3a3c6707",
+    "sources": [
+     {
+      "title": "Luxury groups’ value drops by €250bn as Chinese consumer demand fades",
+      "summary": "European luxury groups lost €250bn in value as Chinese consumer demand weakens and global stock markets cool. The slowdown in China is exacerbating the sector's downturn.",
+      "lang": "en",
+      "source": "Financial Times",
+      "url": "https://www.ft.com/content/1c3065cf-538f-433a-9749-0355a3642c7c?syn-25a6b1a6=1",
+      "published": "2026-10-25T05:00:10+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "Japan PM Takaichi to urge Germany for favorable EV treatment in EU",
+    "summary": "Japan PM Takaichi urges Germany to provide favorable EV treatment within EU regulations.",
+    "lang": "en",
+    "source": "Nikkei Asia",
+    "url": "https://asia.nikkei.com/politics/international-relations/japan-pm-takaichi-to-urge-germany-for-favorable-ev-treatment-in-eu",
+    "published": null,
+    "event_id": "c600f6d1881f",
+    "sources": [
+     {
+      "title": "Japan PM Takaichi to urge Germany for favorable EV treatment in EU",
+      "summary": "Japan PM Takaichi urges Germany to provide favorable EV treatment within EU regulations.",
+      "lang": "en",
+      "source": "Nikkei Asia",
+      "url": "https://asia.nikkei.com/politics/international-relations/japan-pm-takaichi-to-urge-germany-for-favorable-ev-treatment-in-eu",
+      "published": null
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "Piero Cipollone: Interview with Milano Finanza",
+    "summary": "Piero Cipollone discusses economic policy in interview with Milano Finanza.",
+    "lang": "en",
+    "source": "BCE (notas de prensa)",
+    "url": "https://www.ecb.europa.eu//press/inter/date/2026/html/ecb.in261024~ee2ba73cf3.en.html",
+    "published": "2026-10-24T06:00:00+00:00",
+    "event_id": "23d46987719e",
+    "sources": [
+     {
+      "title": "Piero Cipollone: Interview with Milano Finanza",
+      "summary": "Piero Cipollone discusses economic policy in interview with Milano Finanza.",
+      "lang": "en",
+      "source": "BCE (notas de prensa)",
+      "url": "https://www.ecb.europa.eu//press/inter/date/2026/html/ecb.in261024~ee2ba73cf3.en.html",
+      "published": "2026-10-24T06:00:00+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "El modelo vasco para la crisis de la vivienda: más pisos protegidos, reserva de suelo y hasta reconvertir una antigua cárcel",
+    "summary": "El País Economía|El modelo vasco para la crisis de la vivienda: más pisos protegidos, reserva de suelo y hasta reconvertir una antigua cárcel|La comunidad acaba de comprar 500 pisos a un gran fondo y lidera la promoción de pisos protegidos y alquiler social",
+    "lang": "es",
+    "source": "El País Economía",
+    "url": "https://elpais.com/economia/vivienda/2026-10-25/el-modelo-vasco-para-la-crisis-de-la-vivienda-mas-pisos-protegidos-reserva-de-suelo-y-hasta-reconvertir-una-antigua-carcel.html",
+    "published": "2026-10-25T04:45:01+00:00",
+    "event_id": "8b8e7333d7b5",
+    "sources": [
+     {
+      "title": "El modelo vasco para la crisis de la vivienda: más pisos protegidos, reserva de suelo y hasta reconvertir una antigua cárcel",
+      "summary": "El País Economía|El modelo vasco para la crisis de la vivienda: más pisos protegidos, reserva de suelo y hasta reconvertir una antigua cárcel|La comunidad acaba de comprar 500 pisos a un gran fondo y lidera la promoción de pisos protegidos y alquiler social",
+      "lang": "es",
+      "source": "El País Economía",
+      "url": "https://elpais.com/economia/vivienda/2026-10-25/el-modelo-vasco-para-la-crisis-de-la-vivienda-mas-pisos-protegidos-reserva-de-suelo-y-hasta-reconvertir-una-antigua-carcel.html",
+      "published": "2026-10-25T04:45:01+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "Francia en aprietos: enseñanzas para España",
+    "summary": "Francia en aprietos: enseñanzas para España|El crecimiento de la economía es el principal factor que explica la divergencia fiscal entre ambos países",
+    "lang": "es",
+    "source": "El País Economía",
+    "url": "https://elpais.com/economia/negocios/2026-10-25/francia-en-aprietos-ensenanzas-para-espana.html",
+    "published": "2026-10-25T04:30:00+00:00",
+    "event_id": "aa3449f3e88a",
+    "sources": [
+     {
+      "title": "Francia en aprietos: enseñanzas para España",
+      "summary": "Francia en aprietos: enseñanzas para España|El crecimiento de la economía es el principal factor que explica la divergencia fiscal entre ambos países",
+      "lang": "es",
+      "source": "El País Economía",
+      "url": "https://elpais.com/economia/negocios/2026-10-25/francia-en-aprietos-ensenanzas-para-espana.html",
+      "published": "2026-10-25T04:30:00+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   }
+  ],
+  "economia|asia": [
+   {
+    "title": "Japan snack maker Kameda Seika to exit India, shift focus to North America",
+    "summary": "Japanese snack maker Kameda Seika is exiting India to shift focus to North America market expansion.",
+    "lang": "en",
+    "source": "Nikkei Asia",
+    "url": "https://asia.nikkei.com/business/food-beverage/japan-snack-maker-kameda-seika-to-exit-india-shift-focus-to-north-america",
+    "published": null,
+    "event_id": "4876bf905816",
+    "sources": [
+     {
+      "title": "Japan snack maker Kameda Seika to exit India, shift focus to North America",
+      "summary": "Japanese snack maker Kameda Seika is exiting India to shift focus to North America market expansion.",
+      "lang": "en",
+      "source": "Nikkei Asia",
+      "url": "https://asia.nikkei.com/business/food-beverage/japan-snack-maker-kameda-seika-to-exit-india-shift-focus-to-north-america",
+      "published": null
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "Indonesia free university plan to attract AI risks more fiscal strain",
+    "summary": "Indonesia's free university plan to attract AI talent risks increasing fiscal strain on the government budget.",
+    "lang": "en",
+    "source": "Nikkei Asia",
+    "url": "https://asia.nikkei.com/politics/indonesia-free-university-plan-to-attract-ai-risks-more-fiscal-strain",
+    "published": null,
+    "event_id": "713dc274eb3a",
+    "sources": [
+     {
+      "title": "Indonesia free university plan to attract AI risks more fiscal strain",
+      "summary": "Indonesia's free university plan to attract AI talent risks increasing fiscal strain on the government budget.",
+      "lang": "en",
+      "source": "Nikkei Asia",
+      "url": "https://asia.nikkei.com/politics/indonesia-free-university-plan-to-attract-ai-risks-more-fiscal-strain",
+      "published": null
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "Pressed by Chinese EVs in Southeast Asia, Mitsubishi Motors makes risky pivot",
+    "summary": "Mitsubishi Motors makes risky pivot to compete against Chinese EVs gaining market share in Southeast Asia.",
+    "lang": "en",
+    "source": "Nikkei Asia",
+    "url": "https://asia.nikkei.com/business/automobiles/pressed-by-chinese-evs-in-southeast-asia-mitsubishi-motors-makes-risky-pivot",
+    "published": null,
+    "event_id": "3ebf49880cb0",
+    "sources": [
+     {
+      "title": "Pressed by Chinese EVs in Southeast Asia, Mitsubishi Motors makes risky pivot",
+      "summary": "Mitsubishi Motors makes risky pivot to compete against Chinese EVs gaining market share in Southeast Asia.",
+      "lang": "en",
+      "source": "Nikkei Asia",
+      "url": "https://asia.nikkei.com/business/automobiles/pressed-by-chinese-evs-in-southeast-asia-mitsubishi-motors-makes-risky-pivot",
+      "published": null
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   }
+  ],
+  "economia|america": [
+   {
+    "title": "“Es la inflación, estúpido”: Estados Unidos se sume en el descontento pese al crecimiento económico",
+    "summary": "Es la inflación, estúpido: Estados Unidos se sume en el descontento pese al crecimiento económico|La caótica política arancelaria y la guerra contra Irán han disparado los precios y golpeado el poder adquisitivo de las familias agrandando la desigualdad. Pese a todo, es una de",
+    "lang": "es",
+    "source": "El País Economía",
+    "url": "https://elpais.com/economia/negocios/2026-10-24/es-la-inflacion-estupido-estados-unidos-se-sume-en-el-descontento-pese-al-crecimiento-economico.html",
+    "published": "2026-10-24T15:30:00+00:00",
+    "event_id": "47ea73dd16f5",
+    "sources": [
+     {
+      "title": "“Es la inflación, estúpido”: Estados Unidos se sume en el descontento pese al crecimiento económico",
+      "summary": "Es la inflación, estúpido: Estados Unidos se sume en el descontento pese al crecimiento económico|La caótica política arancelaria y la guerra contra Irán han disparado los precios y golpeado el poder adquisitivo de las familias agrandando la desigualdad. Pese a todo, es una de",
+      "lang": "es",
+      "source": "El País Economía",
+      "url": "https://elpais.com/economia/negocios/2026-10-24/es-la-inflacion-estupido-estados-unidos-se-sume-en-el-descontento-pese-al-crecimiento-economico.html",
+      "published": "2026-10-24T15:30:00+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   }
+  ],
+  "politica|europa": [
+   {
+    "title": "The Black Sea is now the world’s deadliest shipping route",
+    "summary": "The Black Sea has become the world's deadliest shipping route, with commercial sailor fatalities from Russia-Ukraine conflict exceeding deaths in the Gulf.",
+    "lang": "en",
+    "source": "Financial Times",
+    "url": "https://www.ft.com/content/8c874f60-0041-476d-9c53-8524c374443f?syn-25a6b1a6=1",
+    "published": "2026-10-25T05:00:02+00:00",
+    "event_id": "fe34e2096207",
+    "sources": [
+     {
+      "title": "The Black Sea is now the world’s deadliest shipping route",
+      "summary": "The Black Sea has become the world's deadliest shipping route, with commercial sailor fatalities from Russia-Ukraine conflict exceeding deaths in the Gulf.",
+      "lang": "en",
+      "source": "Financial Times",
+      "url": "https://www.ft.com/content/8c874f60-0041-476d-9c53-8524c374443f?syn-25a6b1a6=1",
+      "published": "2026-10-25T05:00:02+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "Almost 1,000 arrested as clashes follow another day of mass protests across France",
+    "summary": "Almost 1,000 people arrested as clashes escalate during mass protests across France, with demonstrations also spreading to other European countries.",
+    "lang": "en",
+    "source": "BBC World",
+    "url": "https://www.bbc.co.uk/news/articles/c95ynd587ynzo?at_medium=RSS&at_campaign=rss",
+    "published": "2026-10-25T09:32:59+00:00",
+    "event_id": "0a5bd0ce690d",
+    "sources": [
+     {
+      "title": "Almost 1,000 arrested as clashes follow another day of mass protests across France",
+      "summary": "Almost 1,000 people arrested as clashes escalate during mass protests across France, with demonstrations also spreading to other European countries.",
+      "lang": "en",
+      "source": "BBC World",
+      "url": "https://www.bbc.co.uk/news/articles/c95ynd587ynzo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-25T09:32:59+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "Bulgaria holds presidential elections amid divisions over Ukraine war",
+    "summary": "Bulgaria holds presidential elections amid security concerns over Black Sea attacks, with the vote serving as a test of public sentiment on Ukraine war.",
+    "lang": "en",
+    "source": "Deutsche Welle World",
+    "url": "https://www.dw.com/en/bulgaria-holds-presidential-elections-amid-divisions-over-ukraine-war/a-79753496?maca=en-rss-en-world-4025-rdf",
+    "published": "2026-10-25T07:19:00+00:00",
+    "event_id": "31c9b014f0ac",
+    "sources": [
+     {
+      "title": "Bulgaria holds presidential elections amid divisions over Ukraine war",
+      "summary": "Bulgaria holds presidential elections amid security concerns over Black Sea attacks, with the vote serving as a test of public sentiment on Ukraine war.",
+      "lang": "en",
+      "source": "Deutsche Welle World",
+      "url": "https://www.dw.com/en/bulgaria-holds-presidential-elections-amid-divisions-over-ukraine-war/a-79753496?maca=en-rss-en-world-4025-rdf",
+      "published": "2026-10-25T07:19:00+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "Thousands protest in Italy despite heavy security",
+    "summary": "Thousands protest in Italy despite heavy police security. Meloni's government approved tough measures and conducted dozens of searches.",
+    "lang": "en",
+    "source": "Le Monde International",
+    "url": "https://www.lemonde.fr/en/international/article/2026/10/24/thousands-protest-in-italy-despite-heavy-security_6763363_4.html",
+    "published": "2026-10-24T20:43:25+00:00",
+    "event_id": "8abe179bd3a3",
+    "sources": [
+     {
+      "title": "Thousands protest in Italy despite heavy security",
+      "summary": "Thousands protest in Italy despite heavy police security. Meloni's government approved tough measures and conducted dozens of searches.",
+      "lang": "en",
+      "source": "Le Monde International",
+      "url": "https://www.lemonde.fr/en/international/article/2026/10/24/thousands-protest-in-italy-despite-heavy-security_6763363_4.html",
+      "published": "2026-10-24T20:43:25+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "Serbia votes as ruling party faces student-led anti-corruption list",
+    "summary": "Serbia holds parliamentary elections Sunday with student-led anti-corruption movement challenging ruling party in most contested race in 14 years.",
+    "lang": "en",
+    "source": "South China Morning Post (Asia)",
+    "url": "https://www.scmp.com/news/world/europe/article/3372068/serbia-votes-ruling-party-faces-student-led-anti-corruption-list",
+    "published": "2026-10-25T08:53:07+00:00",
+    "event_id": "c4c48ac64982",
+    "sources": [
+     {
+      "title": "Serbia votes as ruling party faces student-led anti-corruption list",
+      "summary": "Serbia holds parliamentary elections Sunday with student-led anti-corruption movement challenging ruling party in most contested race in 14 years.",
+      "lang": "en",
+      "source": "South China Morning Post (Asia)",
+      "url": "https://www.scmp.com/news/world/europe/article/3372068/serbia-votes-ruling-party-faces-student-led-anti-corruption-list",
+      "published": "2026-10-25T08:53:07+00:00"
+     }
+    ],
+    "status": "unchanged",
+    "change_summary": "",
+    "previous_date": "2026-10-24",
+    "previous_event_id": "c4c48ac64982"
+   }
+  ],
+  "politica|america": [
+   {
+    "title": "Brazilians vote in presidential election runoff pitting leftist Lula against far-right Bolsonaro",
+    "summary": "Brazilians vote in presidential runoff between leftist incumbent Lula and far-right Bolsonaro, highly unpredictable after Bolsonaro lost first round.",
+    "lang": "en",
+    "source": "The Guardian World",
+    "url": "https://www.theguardian.com/world/2026/oct/25/lula-da-silva-flavio-bolsonaro-brazil-presidential-election",
+    "published": "2026-10-25T08:00:58+00:00",
+    "event_id": "51bfe497d9fa",
+    "sources": [
+     {
+      "title": "Brazilians vote in presidential election runoff pitting leftist Lula against far-right Bolsonaro",
+      "summary": "Brazilians vote in presidential runoff between leftist incumbent Lula and far-right Bolsonaro, highly unpredictable after Bolsonaro lost first round.",
+      "lang": "en",
+      "source": "The Guardian World",
+      "url": "https://www.theguardian.com/world/2026/oct/25/lula-da-silva-flavio-bolsonaro-brazil-presidential-election",
+      "published": "2026-10-25T08:00:58+00:00"
+     },
+     {
+      "title": "More than one million Lula supporters rally on eve of Brazilian election runoff",
+      "summary": "Over one million Lula supporters rally before Brazilian election runoff. Nearly 159 million eligible voters head to polls Sunday.",
+      "lang": "en",
+      "source": "The Guardian World",
+      "url": "https://www.theguardian.com/world/2026/oct/24/lula-da-silva-supporters-rally-eve-brazil-election-runoff-bolsonaro",
+      "published": "2026-10-24T21:10:23+00:00"
+     },
+     {
+      "title": "Brazil Election: Lula Rallies Supporters for One Last Comeback",
+      "summary": "Luiz Inácio Lula da Silva rallies supporters for comeback in Brazil election race.",
+      "lang": "en",
+      "source": "Bloomberg Markets",
+      "url": "https://www.bloomberg.com/news/articles/2026-10-25/brazil-election-lula-rallies-supporters-for-one-last-comeback",
+      "published": "2026-10-25T02:02:19+00:00"
+     },
+     {
+      "title": "Bolsonaro and Lula face off in knife-edge Brazil election",
+      "summary": "Bolsonaro challenges leftist President Lula in Brazil's election, seeking to shift the nation closer to Donald Trump.",
+      "lang": "en",
+      "source": "Financial Times",
+      "url": "https://www.ft.com/content/29033fb9-2dc7-4af0-a2ff-55d1bdd5dece?syn-25a6b1a6=1",
+      "published": "2026-10-25T05:00:10+00:00"
+     }
+    ],
+    "status": "updated",
+    "change_summary": "Brazilians vote in presidential election runoff pitting leftist Lula against far-right Bolsonaro",
+    "previous_date": "2026-10-24",
+    "previous_event_id": "51bfe497d9fa"
+   }
+  ],
+  "politica|asia": [
+   {
+    "title": "Kim Jong-un crosses newly opened bridge into China",
+    "summary": "North Korean leader Kim Jong-un crosses newly opened Yalu River Bridge to visit China and meet senior Communist party officials.",
+    "lang": "en",
+    "source": "The Guardian World",
+    "url": "https://www.theguardian.com/world/2026/oct/24/kim-jong-un-crosses-newly-opened-bridge-into-china",
+    "published": "2026-10-24T13:34:56+00:00",
+    "event_id": "12c2caf4ede6",
+    "sources": [
+     {
+      "title": "Kim Jong-un crosses newly opened bridge into China",
+      "summary": "North Korean leader Kim Jong-un crosses newly opened Yalu River Bridge to visit China and meet senior Communist party officials.",
+      "lang": "en",
+      "source": "The Guardian World",
+      "url": "https://www.theguardian.com/world/2026/oct/24/kim-jong-un-crosses-newly-opened-bridge-into-china",
+      "published": "2026-10-24T13:34:56+00:00"
+     }
+    ],
+    "status": "updated",
+    "change_summary": "North Korean leader Kim Jong-un crosses newly opened Yalu River Bridge to visit China and meet senior Communist party officials.",
+    "previous_date": "2026-10-24",
+    "previous_event_id": "12c2caf4ede6"
+   },
+   {
+    "title": "Beijing pledges to back Taiwan’s pro-unification ‘patriots’ as it marks key anniversary",
+    "summary": "Beijing pledges support for pro-unification forces in Taiwan as it marks 81st anniversary of Japanese occupation's end.",
+    "lang": "en",
+    "source": "South China Morning Post (China)",
+    "url": "https://www.scmp.com/news/china/politics/article/3372065/beijing-commemorates-end-japanese-rule-over-taiwan-call-reunification",
+    "published": "2026-10-25T08:05:09+00:00",
+    "event_id": "162b08433dfb",
+    "sources": [
+     {
+      "title": "Beijing pledges to back Taiwan’s pro-unification ‘patriots’ as it marks key anniversary",
+      "summary": "Beijing pledges support for pro-unification forces in Taiwan as it marks 81st anniversary of Japanese occupation's end.",
+      "lang": "en",
+      "source": "South China Morning Post (China)",
+      "url": "https://www.scmp.com/news/china/politics/article/3372065/beijing-commemorates-end-japanese-rule-over-taiwan-call-reunification",
+      "published": "2026-10-25T08:05:09+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   }
+  ],
+  "tecnologia|asia": [
+   {
+    "title": "China’s J-20 stealth jet designers plan to put powerful radar into aircraft wing",
+    "summary": "China's J-20 stealth jet designers plan to integrate powerful radar into aircraft wing, departing from traditional nose-mounted radar design.",
+    "lang": "en",
+    "source": "South China Morning Post (China)",
+    "url": "https://www.scmp.com/news/china/science/article/3371706/chinas-j-20-stealth-jet-designers-plan-put-powerful-radar-aircraft-wing",
+    "published": "2026-10-24T14:00:10+00:00",
+    "event_id": "43d48f12c902",
+    "sources": [
+     {
+      "title": "China’s J-20 stealth jet designers plan to put powerful radar into aircraft wing",
+      "summary": "China's J-20 stealth jet designers plan to integrate powerful radar into aircraft wing, departing from traditional nose-mounted radar design.",
+      "lang": "en",
+      "source": "South China Morning Post (China)",
+      "url": "https://www.scmp.com/news/china/science/article/3371706/chinas-j-20-stealth-jet-designers-plan-put-powerful-radar-aircraft-wing",
+      "published": "2026-10-24T14:00:10+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "AI 駭客攻擊速度快人類 10 倍、日韓接連受害，台灣企業準備好了嗎？",
+    "summary": "AI 黑客攻击速度比人类快 10 倍。日本政府机关和连锁牛丼品牌 Sukiya 因 PHP 漏洞遭受攻击，台湾企业需做好防护准备。",
+    "lang": "zh",
+    "source": "科技新報 TechNews",
+    "url": "https://infosecu.technews.tw/2026/10/25/ai-hackers-attack-10x-faster-humans-japan-south-korea-victimized-taiwanese-enterprises-ready/",
+    "published": "2026-10-25T06:00:32+00:00",
+    "event_id": "7566e0ceb50c",
+    "sources": [
+     {
+      "title": "AI 駭客攻擊速度快人類 10 倍、日韓接連受害，台灣企業準備好了嗎？",
+      "summary": "AI 黑客攻击速度比人类快 10 倍。日本政府机关和连锁牛丼品牌 Sukiya 因 PHP 漏洞遭受攻击，台湾企业需做好防护准备。",
+      "lang": "zh",
+      "source": "科技新報 TechNews",
+      "url": "https://infosecu.technews.tw/2026/10/25/ai-hackers-attack-10x-faster-humans-japan-south-korea-victimized-taiwanese-enterprises-ready/",
+      "published": "2026-10-25T06:00:32+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "AI 也會「腦腐」？研究警告：吸收過多農場文將導致 AI 推理退化且難以逆轉",
+    "summary": "大型语言模型若长期接触大量低质量内容，会出现推理能力退化现象且难以逆转，研究警告 AI 存在",
+    "lang": "zh",
+    "source": "科技新報 TechNews",
+    "url": "https://technews.tw/2026/10/25/ai-brain-rot/",
+    "published": "2026-10-25T08:00:47+00:00",
+    "event_id": "1d43199de5e9",
+    "sources": [
+     {
+      "title": "AI 也會「腦腐」？研究警告：吸收過多農場文將導致 AI 推理退化且難以逆轉",
+      "summary": "大型语言模型若长期接触大量低质量内容，会出现推理能力退化现象且难以逆转，研究警告 AI 存在",
+      "lang": "zh",
+      "source": "科技新報 TechNews",
+      "url": "https://technews.tw/2026/10/25/ai-brain-rot/",
+      "published": "2026-10-25T08:00:47+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   }
+  ],
+  "tecnologia|america": [
+   {
+    "title": "PHP-ocalypse: How two critical web bugs almost broke the internet",
+    "summary": "Two critical bugs in PHP, used by internet majority, nearly broke the web. Major software vulnerabilities pose ongoing risks to internet stability.",
+    "lang": "en",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/10/24/php-ocalypse-how-two-critical-web-bugs-almost-broke-the-internet/",
+    "published": "2026-10-24T15:30:00+00:00",
+    "event_id": "24e718ee97bd",
+    "sources": [
+     {
+      "title": "PHP-ocalypse: How two critical web bugs almost broke the internet",
+      "summary": "Two critical bugs in PHP, used by internet majority, nearly broke the web. Major software vulnerabilities pose ongoing risks to internet stability.",
+      "lang": "en",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/10/24/php-ocalypse-how-two-critical-web-bugs-almost-broke-the-internet/",
+      "published": "2026-10-24T15:30:00+00:00"
+     },
+     {
+      "title": "Casi todo internet se sostiene en PHP. Resulta que en su fundación solo trabaja una persona a jornada completa",
+      "summary": "Casi todo internet se sostiene en PHP. Resulta que en su fundación solo trabaja una persona a jornada completa|Esta semana hemos comprobado (otra vez) que internet pende de un hilo: dos fallos graves en PHP han desatado una carrera contrarreloj para proteger una web que se apoya en buena",
+      "lang": "es",
+      "source": "Xataka",
+      "url": "https://www.xataka.com/aplicaciones/mayoria-internet-se-apoya-php-resulta-que-su-fundacion-solo-trabaja-persona-a-jornada-completa",
+      "published": "2026-10-25T08:30:08+00:00"
+     }
+    ],
+    "status": "updated",
+    "change_summary": "Two critical bugs in PHP, used by internet majority, nearly broke the web. Major software vulnerabilities pose ongoing risks to internet stability.",
+    "previous_date": "2026-10-24",
+    "previous_event_id": "24e718ee97bd"
+   },
+   {
+    "title": "La IA ya está cambiando la predicción del tiempo: con el huracán Isaías acertó su trayectoria cuando los modelos tradicionales fallaron",
+    "summary": "La IA ya está cambiando la predicción del tiempo: con el huracán Isaías acertó su trayectoria cuando los modelos tradicionales fallaron|Durante décadas, predecir el tiempo que hará en los próximos días ha sido un auténtico reto que pasaba por el uso de supercomputación bruta y física pura con un equipo de",
+    "lang": "es",
+    "source": "Xataka",
+    "url": "https://www.xataka.com/ecologia-y-naturaleza/ia-esta-cambiando-prediccion-tiempo-huracan-isaias-acerto-su-trayectoria-cuando-modelos-tradicionales-fallaron",
+    "published": "2026-10-24T16:30:10+00:00",
+    "event_id": "e70bce0956cb",
+    "sources": [
+     {
+      "title": "La IA ya está cambiando la predicción del tiempo: con el huracán Isaías acertó su trayectoria cuando los modelos tradicionales fallaron",
+      "summary": "La IA ya está cambiando la predicción del tiempo: con el huracán Isaías acertó su trayectoria cuando los modelos tradicionales fallaron|Durante décadas, predecir el tiempo que hará en los próximos días ha sido un auténtico reto que pasaba por el uso de supercomputación bruta y física pura con un equipo de",
+      "lang": "es",
+      "source": "Xataka",
+      "url": "https://www.xataka.com/ecologia-y-naturaleza/ia-esta-cambiando-prediccion-tiempo-huracan-isaias-acerto-su-trayectoria-cuando-modelos-tradicionales-fallaron",
+      "published": "2026-10-24T16:30:10+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "Will AI expose the rickety infrastructure of the internet?",
+    "summary": "AI growth threatens to expose fragile internet infrastructure held together by outdated systems and insufficient resources.",
+    "lang": "en",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/10/24/will-ai-expose-the-rickety-infrastructure-of-the-internet/",
+    "published": "2026-10-24T20:15:33+00:00",
+    "event_id": "770c71828f23",
+    "sources": [
+     {
+      "title": "Will AI expose the rickety infrastructure of the internet?",
+      "summary": "AI growth threatens to expose fragile internet infrastructure held together by outdated systems and insufficient resources.",
+      "lang": "en",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/10/24/will-ai-expose-the-rickety-infrastructure-of-the-internet/",
+      "published": "2026-10-24T20:15:33+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "Pennsylvania will require labels on AI-generated ads",
+    "summary": "Pennsylvania Governor Josh Shapiro signed the Artificial Intelligence Deceptive Advertising Act, requiring disclosure labels on AI-generated advertisements.",
+    "lang": "en",
+    "source": "The Verge",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/1018187/pennsylvania-ai-deceptive-advertising-act",
+    "published": "2026-10-24T18:32:21+00:00",
+    "event_id": "09a5dda45158",
+    "sources": [
+     {
+      "title": "Pennsylvania will require labels on AI-generated ads",
+      "summary": "Pennsylvania Governor Josh Shapiro signed the Artificial Intelligence Deceptive Advertising Act, requiring disclosure labels on AI-generated advertisements.",
+      "lang": "en",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1018187/pennsylvania-ai-deceptive-advertising-act",
+      "published": "2026-10-24T18:32:21+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   }
+  ],
+  "tecnologia|europa": [
+   {
+    "title": "Starlink seems to be working normally again in Ukraine",
+    "summary": "Starlink service appears to have returned to normal operations in Ukraine after reported throttling by SpaceX.",
+    "lang": "en",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/10/24/starlink-seems-to-be-working-normally-again-in-ukraine/",
+    "published": "2026-10-24T20:46:34+00:00",
+    "event_id": "9355f9f27997",
+    "sources": [
+     {
+      "title": "Starlink seems to be working normally again in Ukraine",
+      "summary": "Starlink service appears to have returned to normal operations in Ukraine after reported throttling by SpaceX.",
+      "lang": "en",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/10/24/starlink-seems-to-be-working-normally-again-in-ukraine/",
+      "published": "2026-10-24T20:46:34+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   }
+  ]
+ }
+}
