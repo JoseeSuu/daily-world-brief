@@ -1,22 +1,22 @@
 {
  "date": "2026-10-26",
- "generated_at": "2026-10-26T12:16:22.513614+00:00",
+ "generated_at": "2026-10-26T12:58:50.688315+00:00",
  "mode": "full",
- "cost_usd": 0.0454,
+ "cost_usd": 0.0457,
  "selection": {
   "model": "claude-haiku-5-5",
   "effort": "high",
   "passes": 3,
   "passes_ok": 3,
-  "cost_usd": 0.0168
+  "cost_usd": 0.0174
  },
  "events": {
   "mode": "full",
   "compared_with": "2026-10-25",
   "articles": 37,
   "uncompared_articles": 0,
-  "events": 36,
-  "cost_usd": 0.0158
+  "events": 35,
+  "cost_usd": 0.0156
  },
  "market": null,
  "failed_sources": [],
@@ -24,7 +24,7 @@
   "economia|asia": [
    {
     "title": "Pakistan Raises Rates as Middle East Conflict Fans Inflation",
-    "summary": "Pakistan raised its benchmark interest rate Monday as Middle East conflict-driven inflation risks prompted policymakers to tighten policy despite economic growth concerns.",
+    "summary": "Pakistan raised its benchmark interest rate Monday to combat inflation risks stemming from Middle East conflict tensions, tightening monetary policy despite economic slowdown concerns.",
     "lang": "en",
     "source": "Bloomberg Economics",
     "url": "https://www.bloomberg.com/news/articles/2026-10-26/pakistan-hikes-interest-rate-to-curb-inflation-risks",
@@ -33,7 +33,7 @@
     "sources": [
      {
       "title": "Pakistan Raises Rates as Middle East Conflict Fans Inflation",
-      "summary": "Pakistan raised its benchmark interest rate Monday as Middle East conflict-driven inflation risks prompted policymakers to tighten policy despite economic growth concerns.",
+      "summary": "Pakistan raised its benchmark interest rate Monday to combat inflation risks stemming from Middle East conflict tensions, tightening monetary policy despite economic slowdown concerns.",
       "lang": "en",
       "source": "Bloomberg Economics",
       "url": "https://www.bloomberg.com/news/articles/2026-10-26/pakistan-hikes-interest-rate-to-curb-inflation-risks",
@@ -46,44 +46,21 @@
     "previous_event_id": ""
    },
    {
-    "title": "Gulf Oil Bargains Lure India Away From Russia as Freight Soars",
-    "summary": "Indian refiners are shifting from Russian crude to Persian Gulf oil as soaring freight costs make long-distance imports from Russia economically unviable.",
+    "title": "Oil price falls back as traders remain focused on Middle East conflict",
+    "summary": "Oil prices retreated from last week's $117 peak as traders assess Middle East conflict developments and geopolitical risk premiums.",
     "lang": "en",
-    "source": "Bloomberg Markets",
-    "url": "https://www.bloomberg.com/news/articles/2026-10-26/gulf-oil-bargains-lure-india-away-from-russia-as-freight-soars",
-    "published": "2026-10-26T11:37:41+00:00",
-    "event_id": "75da3691a3a5",
+    "source": "Financial Times",
+    "url": "https://www.ft.com/content/97a60042-f7b6-4c87-9387-8572968a7de0?syn-25a6b1a6=1",
+    "published": "2026-10-26T07:28:34+00:00",
+    "event_id": "9939d78be2c9",
     "sources": [
      {
-      "title": "Gulf Oil Bargains Lure India Away From Russia as Freight Soars",
-      "summary": "Indian refiners are shifting from Russian crude to Persian Gulf oil as soaring freight costs make long-distance imports from Russia economically unviable.",
+      "title": "Oil price falls back as traders remain focused on Middle East conflict",
+      "summary": "Oil prices retreated from last week's $117 peak as traders assess Middle East conflict developments and geopolitical risk premiums.",
       "lang": "en",
-      "source": "Bloomberg Markets",
-      "url": "https://www.bloomberg.com/news/articles/2026-10-26/gulf-oil-bargains-lure-india-away-from-russia-as-freight-soars",
-      "published": "2026-10-26T11:37:41+00:00"
-     }
-    ],
-    "status": "new",
-    "change_summary": "",
-    "previous_date": null,
-    "previous_event_id": ""
-   },
-   {
-    "title": "Apollo to Buy Nearly 10% Stake in Mubadala Capital, CNBC Reports",
-    "summary": "Apollo Global Management is nearing a deal to acquire nearly 10% of Mubadala Capital, the alternative asset management arm of Abu Dhabi's sovereign wealth fund.",
-    "lang": "en",
-    "source": "Bloomberg Markets",
-    "url": "https://www.bloomberg.com/news/articles/2026-10-26/apollo-to-buy-nearly-10-stake-in-mubadala-capital-cnbc-reports",
-    "published": "2026-10-26T11:49:19+00:00",
-    "event_id": "dae43dbf0d38",
-    "sources": [
-     {
-      "title": "Apollo to Buy Nearly 10% Stake in Mubadala Capital, CNBC Reports",
-      "summary": "Apollo Global Management is nearing a deal to acquire nearly 10% of Mubadala Capital, the alternative asset management arm of Abu Dhabi's sovereign wealth fund.",
-      "lang": "en",
-      "source": "Bloomberg Markets",
-      "url": "https://www.bloomberg.com/news/articles/2026-10-26/apollo-to-buy-nearly-10-stake-in-mubadala-capital-cnbc-reports",
-      "published": "2026-10-26T11:49:19+00:00"
+      "source": "Financial Times",
+      "url": "https://www.ft.com/content/97a60042-f7b6-4c87-9387-8572968a7de0?syn-25a6b1a6=1",
+      "published": "2026-10-26T07:28:34+00:00"
      }
     ],
     "status": "new",
@@ -94,8 +71,8 @@
   ],
   "politica|asia": [
    {
-    "title": "Iran hosts regional powers for talks to prevent renewed escalation",
-    "summary": "Senior security officials from Saudi Arabia, Pakistan, and Turkey will meet Iranian counterparts in Tehran Monday to discuss preventing regional escalation.",
+    "title": "Iran hosts regional powers for talks to prevent fresh escalation",
+    "summary": "Senior security officials from Saudi Arabia, Pakistan, and Turkey met Iranian counterparts in Tehran to discuss preventing further escalation of Middle East conflicts.",
     "lang": "en",
     "source": "Financial Times",
     "url": "https://www.ft.com/content/7f6943d3-b089-49a7-a0bc-a6f677c09802?syn-25a6b1a6=1",
@@ -103,12 +80,20 @@
     "event_id": "e602605fd5ab",
     "sources": [
      {
-      "title": "Iran hosts regional powers for talks to prevent renewed escalation",
-      "summary": "Senior security officials from Saudi Arabia, Pakistan, and Turkey will meet Iranian counterparts in Tehran Monday to discuss preventing regional escalation.",
+      "title": "Iran hosts regional powers for talks to prevent fresh escalation",
+      "summary": "Senior security officials from Saudi Arabia, Pakistan, and Turkey met Iranian counterparts in Tehran to discuss preventing further escalation of Middle East conflicts.",
       "lang": "en",
       "source": "Financial Times",
       "url": "https://www.ft.com/content/7f6943d3-b089-49a7-a0bc-a6f677c09802?syn-25a6b1a6=1",
       "published": "2026-10-26T09:33:47+00:00"
+     },
+     {
+      "title": "沙烏地、巴基斯坦及土耳其代表赴伊朗會談 試圖避免中東戰火升級",
+      "summary": "沙特、巴基斯坦、土耳其高级代表团在德黑兰与伊朗会谈，试图防止伊以及伊美之间爆发新一轮冲突。",
+      "lang": "zh",
+      "source": "中央社 CNA",
+      "url": "https://www.cna.com.tw/news/aopl/202610260190.aspx",
+      "published": "2026-10-26T09:50:55+00:00"
      }
     ],
     "status": "new",
@@ -118,7 +103,7 @@
    },
    {
     "title": "Why is Japan tightening its immigration rules?",
-    "summary": "Japan is tightening immigration rules, though the excerpt provided insufficient detail for a complete summary.",
+    "summary": "Japan is tightening immigration rules to address domestic labor and demographic challenges.",
     "lang": "en",
     "source": "Nikkei Asia",
     "url": "https://asia.nikkei.com/video/why-is-japan-tightening-its-immigration-rules",
@@ -127,7 +112,7 @@
     "sources": [
      {
       "title": "Why is Japan tightening its immigration rules?",
-      "summary": "Japan is tightening immigration rules, though the excerpt provided insufficient detail for a complete summary.",
+      "summary": "Japan is tightening immigration rules to address domestic labor and demographic challenges.",
       "lang": "en",
       "source": "Nikkei Asia",
       "url": "https://asia.nikkei.com/video/why-is-japan-tightening-its-immigration-rules",
@@ -140,8 +125,31 @@
     "previous_event_id": ""
    },
    {
+    "title": "Former Prime Minister Yasuo Fukuda dies at 90",
+    "summary": "Japan's former Prime Minister Yasuo Fukuda died at age 90; he was the country's first second-generation prime minister serving in 2007.",
+    "lang": "en",
+    "source": "Japan Times",
+    "url": "https://www.japantimes.co.jp/news/2026/10/26/japan/politics/yasuo-fukuda-obituary/",
+    "published": "2026-10-26T09:03:00+00:00",
+    "event_id": "a27dc63b13ac",
+    "sources": [
+     {
+      "title": "Former Prime Minister Yasuo Fukuda dies at 90",
+      "summary": "Japan's former Prime Minister Yasuo Fukuda died at age 90; he was the country's first second-generation prime minister serving in 2007.",
+      "lang": "en",
+      "source": "Japan Times",
+      "url": "https://www.japantimes.co.jp/news/2026/10/26/japan/politics/yasuo-fukuda-obituary/",
+      "published": "2026-10-26T09:03:00+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
     "title": "中共五中全會開幕：十三年反腐後，如何繼續「從嚴治黨」？",
-    "summary": "中共五中全會開幕，受訪專家認為習近平面臨兩難：不指定接班人有助維持權威，指定則可能形成新權力中心。",
+    "summary": "中共五中全会召开，中国政坛缺乏明确接班人。专家认为习近平面临困境：不指定接班人维持权威，指定则可能形成新权力中心。",
     "lang": "zh",
     "source": "BBC中文",
     "url": "https://www.bbc.com/zhongwen/articles/ckx2q587wvrqo/trad?at_medium=RSS&at_campaign=rss",
@@ -150,7 +158,7 @@
     "sources": [
      {
       "title": "中共五中全會開幕：十三年反腐後，如何繼續「從嚴治黨」？",
-      "summary": "中共五中全會開幕，受訪專家認為習近平面臨兩難：不指定接班人有助維持權威，指定則可能形成新權力中心。",
+      "summary": "中共五中全会召开，中国政坛缺乏明确接班人。专家认为习近平面临困境：不指定接班人维持权威，指定则可能形成新权力中心。",
       "lang": "zh",
       "source": "BBC中文",
       "url": "https://www.bbc.com/zhongwen/articles/ckx2q587wvrqo/trad?at_medium=RSS&at_campaign=rss",
@@ -163,31 +171,8 @@
     "previous_event_id": ""
    },
    {
-    "title": "CNN：美軍備妥大規模攻伊朗計畫 川普可能期中選舉後下令",
-    "summary": "美軍已準備大規模攻伊朗計畫，一旦川普下令可在96小時內行動，官員推估最可能在美國11月期中選舉後發生。",
-    "lang": "zh",
-    "source": "中央社 CNA",
-    "url": "https://www.cna.com.tw/news/aopl/202610260156.aspx",
-    "published": "2026-10-26T08:21:38+00:00",
-    "event_id": "732bf2220fa7",
-    "sources": [
-     {
-      "title": "CNN：美軍備妥大規模攻伊朗計畫 川普可能期中選舉後下令",
-      "summary": "美軍已準備大規模攻伊朗計畫，一旦川普下令可在96小時內行動，官員推估最可能在美國11月期中選舉後發生。",
-      "lang": "zh",
-      "source": "中央社 CNA",
-      "url": "https://www.cna.com.tw/news/aopl/202610260156.aspx",
-      "published": "2026-10-26T08:21:38+00:00"
-     }
-    ],
-    "status": "new",
-    "change_summary": "",
-    "previous_date": null,
-    "previous_event_id": ""
-   },
-   {
     "title": "Deeply divided Israel braces for pivotal election",
-    "summary": "Israel prepares for a pivotal election following three years of regional conflict.",
+    "summary": "Israel faces pivotal elections after three years of regional conflict, with the vote serving as a critical political turning point.",
     "lang": "en",
     "source": "BBC World",
     "url": "https://www.bbc.co.uk/news/articles/ckpdgy6pl7xlo?at_medium=RSS&at_campaign=rss",
@@ -196,7 +181,7 @@
     "sources": [
      {
       "title": "Deeply divided Israel braces for pivotal election",
-      "summary": "Israel prepares for a pivotal election following three years of regional conflict.",
+      "summary": "Israel faces pivotal elections after three years of regional conflict, with the vote serving as a critical political turning point.",
       "lang": "en",
       "source": "BBC World",
       "url": "https://www.bbc.co.uk/news/articles/ckpdgy6pl7xlo?at_medium=RSS&at_campaign=rss",
@@ -210,7 +195,7 @@
    },
    {
     "title": "Saudi-led coalition says it struck Houthi missile facilities",
-    "summary": "A Saudi-led coalition reported striking Houthi missile facilities, destroying launchers, tunnels, and storage depots.",
+    "summary": "Saudi-led coalition destroyed Houthi ballistic missile launchers, storage depots, and tunnel facilities in military strikes.",
     "lang": "en",
     "source": "Al Jazeera English",
     "url": "https://www.aljazeera.com/news/2026/10/26/saudi-led-coalition-says-it-struck-houthi-missile-facilities?traffic_source=rss",
@@ -219,7 +204,7 @@
     "sources": [
      {
       "title": "Saudi-led coalition says it struck Houthi missile facilities",
-      "summary": "A Saudi-led coalition reported striking Houthi missile facilities, destroying launchers, tunnels, and storage depots.",
+      "summary": "Saudi-led coalition destroyed Houthi ballistic missile launchers, storage depots, and tunnel facilities in military strikes.",
       "lang": "en",
       "source": "Al Jazeera English",
       "url": "https://www.aljazeera.com/news/2026/10/26/saudi-led-coalition-says-it-struck-houthi-missile-facilities?traffic_source=rss",
@@ -230,338 +215,25 @@
     "change_summary": "",
     "previous_date": null,
     "previous_event_id": ""
-   },
-   {
-    "title": "Former Prime Minister Yasuo Fukuda dies at 90",
-    "summary": "Former Japanese Prime Minister Yasuo Fukuda, Japan's first second-generation premier, died at age 90.",
-    "lang": "en",
-    "source": "Japan Times",
-    "url": "https://www.japantimes.co.jp/news/2026/10/26/japan/politics/yasuo-fukuda-obituary/",
-    "published": "2026-10-26T09:03:00+00:00",
-    "event_id": "a27dc63b13ac",
-    "sources": [
-     {
-      "title": "Former Prime Minister Yasuo Fukuda dies at 90",
-      "summary": "Former Japanese Prime Minister Yasuo Fukuda, Japan's first second-generation premier, died at age 90.",
-      "lang": "en",
-      "source": "Japan Times",
-      "url": "https://www.japantimes.co.jp/news/2026/10/26/japan/politics/yasuo-fukuda-obituary/",
-      "published": "2026-10-26T09:03:00+00:00"
-     }
-    ],
-    "status": "new",
-    "change_summary": "",
-    "previous_date": null,
-    "previous_event_id": ""
    }
   ],
-  "economia|europa": [
+  "tecnologia|asia": [
    {
-    "title": "French Bond Rout Overshadows ECB Succession",
-    "summary": "Europe seeks a new central bank chief amid French bond market turmoil that overshadows the ECB succession process.",
+    "title": "Japan's Subaru to go EV-only in Europe by 2028",
+    "summary": "Subaru committed to transitioning its European vehicle sales to electric-only models by 2028 amid global automotive electrification.",
     "lang": "en",
-    "source": "Bloomberg Economics",
-    "url": "https://www.bloomberg.com/news/newsletters/2026-10-26/french-bond-rout-overshadows-ecb-succession",
-    "published": "2026-10-26T11:00:21+00:00",
-    "event_id": "2f87a6e09895",
+    "source": "Nikkei Asia",
+    "url": "https://asia.nikkei.com/business/automobiles/japan-s-subaru-to-go-ev-only-in-europe-by-2028",
+    "published": null,
+    "event_id": "d866542e3b24",
     "sources": [
      {
-      "title": "French Bond Rout Overshadows ECB Succession",
-      "summary": "Europe seeks a new central bank chief amid French bond market turmoil that overshadows the ECB succession process.",
+      "title": "Japan's Subaru to go EV-only in Europe by 2028",
+      "summary": "Subaru committed to transitioning its European vehicle sales to electric-only models by 2028 amid global automotive electrification.",
       "lang": "en",
-      "source": "Bloomberg Economics",
-      "url": "https://www.bloomberg.com/news/newsletters/2026-10-26/french-bond-rout-overshadows-ecb-succession",
-      "published": "2026-10-26T11:00:21+00:00"
-     }
-    ],
-    "status": "new",
-    "change_summary": "",
-    "previous_date": null,
-    "previous_event_id": ""
-   },
-   {
-    "title": "EU Plans to Hit China With More Import Curbs in Early 2027",
-    "summary": "The EU plans to use safeguard measures in early 2027 to restrict Chinese imports in chemicals, furniture, and machinery sectors.",
-    "lang": "en",
-    "source": "Bloomberg Economics",
-    "url": "https://www.bloomberg.com/news/articles/2026-10-26/eu-plans-to-hit-china-with-more-import-curbs-in-early-2027",
-    "published": "2026-10-26T08:31:05+00:00",
-    "event_id": "6be01125a2d0",
-    "sources": [
-     {
-      "title": "EU Plans to Hit China With More Import Curbs in Early 2027",
-      "summary": "The EU plans to use safeguard measures in early 2027 to restrict Chinese imports in chemicals, furniture, and machinery sectors.",
-      "lang": "en",
-      "source": "Bloomberg Economics",
-      "url": "https://www.bloomberg.com/news/articles/2026-10-26/eu-plans-to-hit-china-with-more-import-curbs-in-early-2027",
-      "published": "2026-10-26T08:31:05+00:00"
-     }
-    ],
-    "status": "new",
-    "change_summary": "",
-    "previous_date": null,
-    "previous_event_id": ""
-   },
-   {
-    "title": "Dutch Government Plans to Cut 25,000 Jobs in AI-Led Overhaul",
-    "summary": "The Dutch government aims to cut 25,000 civil servant positions through AI-driven efficiency reforms targeting €3.5 billion in annual savings.",
-    "lang": "en",
-    "source": "Bloomberg Economics",
-    "url": "https://www.bloomberg.com/news/articles/2026-10-26/dutch-government-plans-to-cut-25-000-jobs-in-ai-led-overhaul",
-    "published": "2026-10-26T10:10:21+00:00",
-    "event_id": "a4d58eba8d89",
-    "sources": [
-     {
-      "title": "Dutch Government Plans to Cut 25,000 Jobs in AI-Led Overhaul",
-      "summary": "The Dutch government aims to cut 25,000 civil servant positions through AI-driven efficiency reforms targeting €3.5 billion in annual savings.",
-      "lang": "en",
-      "source": "Bloomberg Economics",
-      "url": "https://www.bloomberg.com/news/articles/2026-10-26/dutch-government-plans-to-cut-25-000-jobs-in-ai-led-overhaul",
-      "published": "2026-10-26T10:10:21+00:00"
-     }
-    ],
-    "status": "new",
-    "change_summary": "",
-    "previous_date": null,
-    "previous_event_id": ""
-   },
-   {
-    "title": "Euro-Zone Slowdown Will Help Keep ECB Rates on Hold for Now",
-    "summary": "Slowing eurozone economic momentum suggests the ECB will likely hold interest rates steady rather than raising them.",
-    "lang": "en",
-    "source": "Bloomberg Economics",
-    "url": "https://www.bloomberg.com/news/articles/2026-10-26/euro-zone-slowdown-central-bank-ecb-rates-hold-for-now",
-    "published": "2026-10-26T06:20:00+00:00",
-    "event_id": "074ffda84663",
-    "sources": [
-     {
-      "title": "Euro-Zone Slowdown Will Help Keep ECB Rates on Hold for Now",
-      "summary": "Slowing eurozone economic momentum suggests the ECB will likely hold interest rates steady rather than raising them.",
-      "lang": "en",
-      "source": "Bloomberg Economics",
-      "url": "https://www.bloomberg.com/news/articles/2026-10-26/euro-zone-slowdown-central-bank-ecb-rates-hold-for-now",
-      "published": "2026-10-26T06:20:00+00:00"
-     }
-    ],
-    "status": "new",
-    "change_summary": "",
-    "previous_date": null,
-    "previous_event_id": ""
-   },
-   {
-    "title": "Germany’s Business Outlook Unexpectedly Improves for Sixth Month",
-    "summary": "Germany's business outlook improved for a sixth consecutive month, signaling economic recovery from a prolonged downturn.",
-    "lang": "en",
-    "source": "Bloomberg Economics",
-    "url": "https://www.bloomberg.com/news/articles/2026-10-26/germany-s-business-outlook-unexpectedly-improves-for-sixth-month",
-    "published": "2026-10-26T09:05:45+00:00",
-    "event_id": "ad1b74fdfc39",
-    "sources": [
-     {
-      "title": "Germany’s Business Outlook Unexpectedly Improves for Sixth Month",
-      "summary": "Germany's business outlook improved for a sixth consecutive month, signaling economic recovery from a prolonged downturn.",
-      "lang": "en",
-      "source": "Bloomberg Economics",
-      "url": "https://www.bloomberg.com/news/articles/2026-10-26/germany-s-business-outlook-unexpectedly-improves-for-sixth-month",
-      "published": "2026-10-26T09:05:45+00:00"
-     }
-    ],
-    "status": "new",
-    "change_summary": "",
-    "previous_date": null,
-    "previous_event_id": ""
-   },
-   {
-    "title": "EU to charge two-euro handling fee on packages from outside bloc",
-    "summary": "The EU will impose a two-euro handling fee on all packages from outside the bloc starting November 1.",
-    "lang": "en",
-    "source": "Le Monde International",
-    "url": "https://www.lemonde.fr/en/international/article/2026/10/26/eu-to-charge-two-euro-handling-fee-on-packages-from-outside-bloc_6764287_4.html",
-    "published": "2026-10-26T06:59:37+00:00",
-    "event_id": "5f07ae1cabac",
-    "sources": [
-     {
-      "title": "EU to charge two-euro handling fee on packages from outside bloc",
-      "summary": "The EU will impose a two-euro handling fee on all packages from outside the bloc starting November 1.",
-      "lang": "en",
-      "source": "Le Monde International",
-      "url": "https://www.lemonde.fr/en/international/article/2026/10/26/eu-to-charge-two-euro-handling-fee-on-packages-from-outside-bloc_6764287_4.html",
-      "published": "2026-10-26T06:59:37+00:00"
-     }
-    ],
-    "status": "new",
-    "change_summary": "",
-    "previous_date": null,
-    "previous_event_id": ""
-   }
-  ],
-  "politica|america": [
-   {
-    "title": "Lula wins historic fourth term as Brazilian president in defeat of far-right Flávio Bolsonaro",
-    "summary": "Leftist Lula won an unprecedented fourth term as Brazilian president, defeating far-right Flávio Bolsonaro in a historic comeback.",
-    "lang": "en",
-    "source": "The Guardian World",
-    "url": "https://www.theguardian.com/world/2026/oct/26/lula-wins-brazil-election",
-    "published": "2026-10-26T00:19:05+00:00",
-    "event_id": "51bfe497d9fa",
-    "sources": [
-     {
-      "title": "Lula wins historic fourth term as Brazilian president in defeat of far-right Flávio Bolsonaro",
-      "summary": "Leftist Lula won an unprecedented fourth term as Brazilian president, defeating far-right Flávio Bolsonaro in a historic comeback.",
-      "lang": "en",
-      "source": "The Guardian World",
-      "url": "https://www.theguardian.com/world/2026/oct/26/lula-wins-brazil-election",
-      "published": "2026-10-26T00:19:05+00:00"
-     },
-     {
-      "title": "Lula is re-elected Brazil’s president in knife-edge vote",
-      "summary": "Eighty-year-old leftist Lula won Brazil's presidential election in a tight race against Flávio Bolsonaro, countering Trump's influence ambitions in Latin America.",
-      "lang": "en",
-      "source": "Financial Times",
-      "url": "https://www.ft.com/content/7585a18f-88d9-4fcd-882d-ed938c7c9c41?syn-25a6b1a6=1",
-      "published": "2026-10-26T08:25:20+00:00"
-     }
-    ],
-    "status": "updated",
-    "change_summary": "Lula wins historic fourth term as Brazilian president in defeat of far-right Flávio Bolsonaro",
-    "previous_date": "2026-10-25",
-    "previous_event_id": "51bfe497d9fa"
-   },
-   {
-    "title": "Venezuelan opposition leader María Machado returns after months in exile",
-    "summary": "Venezuelan opposition leader María Machado returned from exile months after the US seized President Nicolás Maduro's assets.",
-    "lang": "en",
-    "source": "BBC World",
-    "url": "https://www.bbc.co.uk/news/articles/cq8ez592pp0eo?at_medium=RSS&at_campaign=rss",
-    "published": "2026-10-26T05:20:19+00:00",
-    "event_id": "b4c30b6342df",
-    "sources": [
-     {
-      "title": "Venezuelan opposition leader María Machado returns after months in exile",
-      "summary": "Venezuelan opposition leader María Machado returned from exile months after the US seized President Nicolás Maduro's assets.",
-      "lang": "en",
-      "source": "BBC World",
-      "url": "https://www.bbc.co.uk/news/articles/cq8ez592pp0eo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-26T05:20:19+00:00"
-     }
-    ],
-    "status": "new",
-    "change_summary": "",
-    "previous_date": null,
-    "previous_event_id": ""
-   }
-  ],
-  "economia|america": [
-   {
-    "title": "Fed to stick with quarterly rate rises as it removes 2025 insurance cuts",
-    "summary": "The Federal Reserve plans quarterly rate increases while removing insurance cuts from 2025 policy projections.",
-    "lang": "en",
-    "source": "FT Global Economy",
-    "url": "https://www.ft.com/content/572bc401-9f82-4e49-9282-3e896562f339",
-    "published": "2026-10-26T05:30:01+00:00",
-    "event_id": "ff63ed2e60e3",
-    "sources": [
-     {
-      "title": "Fed to stick with quarterly rate rises as it removes 2025 insurance cuts",
-      "summary": "The Federal Reserve plans quarterly rate increases while removing insurance cuts from 2025 policy projections.",
-      "lang": "en",
-      "source": "FT Global Economy",
-      "url": "https://www.ft.com/content/572bc401-9f82-4e49-9282-3e896562f339",
-      "published": "2026-10-26T05:30:01+00:00"
-     }
-    ],
-    "status": "new",
-    "change_summary": "",
-    "previous_date": null,
-    "previous_event_id": ""
-   },
-   {
-    "title": "Audi to build $4bn US plant as it grapples with tariffs",
-    "summary": "Audi announced a $4 billion US plant investment at a Trump rally, as Volkswagen seeks tariff relief from the incoming administration.",
-    "lang": "en",
-    "source": "FT Global Economy",
-    "url": "https://www.ft.com/content/8f034740-12a8-47fe-9010-149f87e70f8e?syn-25a6b1a6=1",
-    "published": "2026-10-25T10:33:28+00:00",
-    "event_id": "1d8bc2193587",
-    "sources": [
-     {
-      "title": "Audi to build $4bn US plant as it grapples with tariffs",
-      "summary": "Audi announced a $4 billion US plant investment at a Trump rally, as Volkswagen seeks tariff relief from the incoming administration.",
-      "lang": "en",
-      "source": "FT Global Economy",
-      "url": "https://www.ft.com/content/8f034740-12a8-47fe-9010-149f87e70f8e?syn-25a6b1a6=1",
-      "published": "2026-10-25T10:33:28+00:00"
-     }
-    ],
-    "status": "new",
-    "change_summary": "",
-    "previous_date": null,
-    "previous_event_id": ""
-   },
-   {
-    "title": "期中選舉倒數 川普稱美加貿易協議可望近期敲定",
-    "summary": "川普表示美加貿易協議可望近期敲定，距離11月3日期中選舉投票日僅剩9天。",
-    "lang": "zh",
-    "source": "中央社 CNA",
-    "url": "https://www.cna.com.tw/news/aopl/202610260155.aspx",
-    "published": "2026-10-26T08:10:36+00:00",
-    "event_id": "3c63cc9dd5d5",
-    "sources": [
-     {
-      "title": "期中選舉倒數 川普稱美加貿易協議可望近期敲定",
-      "summary": "川普表示美加貿易協議可望近期敲定，距離11月3日期中選舉投票日僅剩9天。",
-      "lang": "zh",
-      "source": "中央社 CNA",
-      "url": "https://www.cna.com.tw/news/aopl/202610260155.aspx",
-      "published": "2026-10-26T08:10:36+00:00"
-     }
-    ],
-    "status": "new",
-    "change_summary": "",
-    "previous_date": null,
-    "previous_event_id": ""
-   }
-  ],
-  "tecnologia|america": [
-   {
-    "title": "Anthropic Is Said to Plan Public Filing for Mega-IPO Monday",
-    "summary": "AI company Anthropic plans to file for a mega-IPO Monday at 9 a.m. in New York.",
-    "lang": "en",
-    "source": "Bloomberg Markets",
-    "url": "https://www.bloomberg.com/news/articles/2026-10-26/anthropic-is-said-to-plan-public-filing-for-mega-ipo-monday",
-    "published": "2026-10-26T11:53:38+00:00",
-    "event_id": "a0232a326845",
-    "sources": [
-     {
-      "title": "Anthropic Is Said to Plan Public Filing for Mega-IPO Monday",
-      "summary": "AI company Anthropic plans to file for a mega-IPO Monday at 9 a.m. in New York.",
-      "lang": "en",
-      "source": "Bloomberg Markets",
-      "url": "https://www.bloomberg.com/news/articles/2026-10-26/anthropic-is-said-to-plan-public-filing-for-mega-ipo-monday",
-      "published": "2026-10-26T11:53:38+00:00"
-     }
-    ],
-    "status": "new",
-    "change_summary": "",
-    "previous_date": null,
-    "previous_event_id": ""
-   },
-   {
-    "title": "Meta plans $95bn stock offering to bankroll AI expansion",
-    "summary": "Meta plans a $95 billion stock offering to fund AI expansion, with Nvidia, AMD, and Broadcom as cornerstone investors.",
-    "lang": "en",
-    "source": "Financial Times",
-    "url": "https://www.ft.com/content/94e5a0ae-874d-447a-bbfc-cd465a1a7555?syn-25a6b1a6=1",
-    "published": "2026-10-26T11:58:00+00:00",
-    "event_id": "354cf174afe3",
-    "sources": [
-     {
-      "title": "Meta plans $95bn stock offering to bankroll AI expansion",
-      "summary": "Meta plans a $95 billion stock offering to fund AI expansion, with Nvidia, AMD, and Broadcom as cornerstone investors.",
-      "lang": "en",
-      "source": "Financial Times",
-      "url": "https://www.ft.com/content/94e5a0ae-874d-447a-bbfc-cd465a1a7555?syn-25a6b1a6=1",
-      "published": "2026-10-26T11:58:00+00:00"
+      "source": "Nikkei Asia",
+      "url": "https://asia.nikkei.com/business/automobiles/japan-s-subaru-to-go-ev-only-in-europe-by-2028",
+      "published": null
      }
     ],
     "status": "new",
@@ -571,7 +243,7 @@
    },
    {
     "title": "LiteLLM公布供應鏈攻擊後續調查，5月外洩金鑰讓駭客操控官方發布流程",
-    "summary": "開源AI工具LiteLLM公布供應鏈攻擊調查，駭客利用5月外洩的主金鑰獲得GitHub存取權，操控官方發布流程上架含竊密程式的版本。",
+    "summary": "LiteLLM公布供应链攻击调查，5月外泄的主密钥被攻击者利用操纵官方发布流程，恶意版本被上传至PyPI及容器库。",
     "lang": "zh",
     "source": "iThome 台灣",
     "url": "https://www.ithome.com.tw/news/179955",
@@ -580,7 +252,7 @@
     "sources": [
      {
       "title": "LiteLLM公布供應鏈攻擊後續調查，5月外洩金鑰讓駭客操控官方發布流程",
-      "summary": "開源AI工具LiteLLM公布供應鏈攻擊調查，駭客利用5月外洩的主金鑰獲得GitHub存取權，操控官方發布流程上架含竊密程式的版本。",
+      "summary": "LiteLLM公布供应链攻击调查，5月外泄的主密钥被攻击者利用操纵官方发布流程，恶意版本被上传至PyPI及容器库。",
       "lang": "zh",
       "source": "iThome 台灣",
       "url": "https://www.ithome.com.tw/news/179955",
@@ -593,242 +265,8 @@
     "previous_event_id": ""
    },
    {
-    "title": "Tailscale SSH轉送功能遭揭權限提升漏洞，一般帳號恐取得伺服器最高權限",
-    "summary": "VPN服務Tailscale的SSH轉送功能存在權限提升漏洞，攻擊者可能取得其他伺服器的最高管理權限。",
-    "lang": "zh",
-    "source": "iThome 台灣",
-    "url": "https://www.ithome.com.tw/news/179953",
-    "published": "2026-10-26T02:10:09+00:00",
-    "event_id": "62b1081799e7",
-    "sources": [
-     {
-      "title": "Tailscale SSH轉送功能遭揭權限提升漏洞，一般帳號恐取得伺服器最高權限",
-      "summary": "VPN服務Tailscale的SSH轉送功能存在權限提升漏洞，攻擊者可能取得其他伺服器的最高管理權限。",
-      "lang": "zh",
-      "source": "iThome 台灣",
-      "url": "https://www.ithome.com.tw/news/179953",
-      "published": "2026-10-26T02:10:09+00:00"
-     }
-    ],
-    "status": "new",
-    "change_summary": "",
-    "previous_date": null,
-    "previous_event_id": ""
-   },
-   {
-    "title": "GitLab四項RCE漏洞源頭，指向Ruby正規表示式引擎缺陷",
-    "summary": "Ruby官方發布新版本修補正規表示式引擎Onigmo缺陷，該漏洞被GitLab用於修補四項RCE漏洞。",
-    "lang": "zh",
-    "source": "iThome 台灣",
-    "url": "https://www.ithome.com.tw/news/179954",
-    "published": "2026-10-26T03:10:34+00:00",
-    "event_id": "22dea305c50a",
-    "sources": [
-     {
-      "title": "GitLab四項RCE漏洞源頭，指向Ruby正規表示式引擎缺陷",
-      "summary": "Ruby官方發布新版本修補正規表示式引擎Onigmo缺陷，該漏洞被GitLab用於修補四項RCE漏洞。",
-      "lang": "zh",
-      "source": "iThome 台灣",
-      "url": "https://www.ithome.com.tw/news/179954",
-      "published": "2026-10-26T03:10:34+00:00"
-     }
-    ],
-    "status": "new",
-    "change_summary": "",
-    "previous_date": null,
-    "previous_event_id": ""
-   },
-   {
-    "title": "Google’s AI search changes upended online publishing",
-    "summary": "Google's AI search changes have disrupted online publishing, affecting how websites distribute content and generate revenue.",
-    "lang": "en",
-    "source": "The Verge",
-    "url": "https://www.theverge.com/column/1017983/google-ai-search-online-publishing",
-    "published": "2026-10-25T12:00:00+00:00",
-    "event_id": "99c99157c7fa",
-    "sources": [
-     {
-      "title": "Google’s AI search changes upended online publishing",
-      "summary": "Google's AI search changes have disrupted online publishing, affecting how websites distribute content and generate revenue.",
-      "lang": "en",
-      "source": "The Verge",
-      "url": "https://www.theverge.com/column/1017983/google-ai-search-online-publishing",
-      "published": "2026-10-25T12:00:00+00:00"
-     }
-    ],
-    "status": "new",
-    "change_summary": "",
-    "previous_date": null,
-    "previous_event_id": ""
-   },
-   {
-    "title": "iFixit’s look inside the iPhone Duo may explain those broken screens and hinges",
-    "summary": "iFixit's iPhone teardown revealed design details explaining broken screens and hinges on Apple's latest foldable phone.",
-    "lang": "en",
-    "source": "The Verge",
-    "url": "https://www.theverge.com/tech/1018233/ifixit-iphone-duo-teardown-repairability-hinge",
-    "published": "2026-10-25T21:40:27+00:00",
-    "event_id": "da114e8ce7c5",
-    "sources": [
-     {
-      "title": "iFixit’s look inside the iPhone Duo may explain those broken screens and hinges",
-      "summary": "iFixit's iPhone teardown revealed design details explaining broken screens and hinges on Apple's latest foldable phone.",
-      "lang": "en",
-      "source": "The Verge",
-      "url": "https://www.theverge.com/tech/1018233/ifixit-iphone-duo-teardown-repairability-hinge",
-      "published": "2026-10-25T21:40:27+00:00"
-     }
-    ],
-    "status": "new",
-    "change_summary": "",
-    "previous_date": null,
-    "previous_event_id": ""
-   },
-   {
-    "title": "AI delivers ‘zero financial payoff’ to most companies, Apollo economist says",
-    "summary": "An Apollo economist reports that artificial intelligence has delivered zero financial returns to most US companies outside the tech sector.",
-    "lang": "en",
-    "source": "TechCrunch",
-    "url": "https://techcrunch.com/2026/10/25/ai-delivers-zero-financial-payoff-to-most-companies-according-to-apollo-economist/",
-    "published": "2026-10-25T16:57:32+00:00",
-    "event_id": "71334093a413",
-    "sources": [
-     {
-      "title": "AI delivers ‘zero financial payoff’ to most companies, Apollo economist says",
-      "summary": "An Apollo economist reports that artificial intelligence has delivered zero financial returns to most US companies outside the tech sector.",
-      "lang": "en",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/10/25/ai-delivers-zero-financial-payoff-to-most-companies-according-to-apollo-economist/",
-      "published": "2026-10-25T16:57:32+00:00"
-     }
-    ],
-    "status": "new",
-    "change_summary": "",
-    "previous_date": null,
-    "previous_event_id": ""
-   }
-  ],
-  "politica|europa": [
-   {
-    "title": "Celebrations in Serbia after veteran ruler Vučić loses election to student-led protest movement",
-    "summary": "Serbian populist leader Vučić lost his election to a student-led protest movement after ruling for 12 years.",
-    "lang": "en",
-    "source": "BBC World",
-    "url": "https://www.bbc.co.uk/news/articles/cw5yn3xlprpmo?at_medium=RSS&at_campaign=rss",
-    "published": "2026-10-26T11:02:20+00:00",
-    "event_id": "c4c48ac64982",
-    "sources": [
-     {
-      "title": "Celebrations in Serbia after veteran ruler Vučić loses election to student-led protest movement",
-      "summary": "Serbian populist leader Vučić lost his election to a student-led protest movement after ruling for 12 years.",
-      "lang": "en",
-      "source": "BBC World",
-      "url": "https://www.bbc.co.uk/news/articles/cw5yn3xlprpmo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-26T11:02:20+00:00"
-     }
-    ],
-    "status": "updated",
-    "change_summary": "Celebrations in Serbia after veteran ruler Vučić loses election to student-led protest movement",
-    "previous_date": "2026-10-25",
-    "previous_event_id": "c4c48ac64982"
-   },
-   {
-    "title": "Bulgaria heads to presidential runoff after low turnout",
-    "summary": "Bulgaria heads to a presidential runoff after first-round voting saw Iliana Iotova receive 34.7% against Andrey Gyurov.",
-    "lang": "en",
-    "source": "Le Monde International",
-    "url": "https://www.lemonde.fr/en/international/article/2026/10/26/bulgaria-heads-to-presidential-runoff-after-low-turnout_6764452_4.html",
-    "published": "2026-10-26T10:02:04+00:00",
-    "event_id": "31c9b014f0ac",
-    "sources": [
-     {
-      "title": "Bulgaria heads to presidential runoff after low turnout",
-      "summary": "Bulgaria heads to a presidential runoff after first-round voting saw Iliana Iotova receive 34.7% against Andrey Gyurov.",
-      "lang": "en",
-      "source": "Le Monde International",
-      "url": "https://www.lemonde.fr/en/international/article/2026/10/26/bulgaria-heads-to-presidential-runoff-after-low-turnout_6764452_4.html",
-      "published": "2026-10-26T10:02:04+00:00"
-     }
-    ],
-    "status": "updated",
-    "change_summary": "Bulgaria heads to presidential runoff after low turnout",
-    "previous_date": "2026-10-25",
-    "previous_event_id": "31c9b014f0ac"
-   },
-   {
-    "title": "Key European defence ministers meet in Paris to discuss Ukraine support",
-    "summary": "Defence ministers from France, Germany, Italy, Poland, and the UK met in Paris to discuss increasing military assistance to Ukraine.",
-    "lang": "en",
-    "source": "Al Jazeera English",
-    "url": "https://www.aljazeera.com/news/2026/10/26/key-european-defence-ministers-meet-in-paris-to-discuss-ukraine-support?traffic_source=rss",
-    "published": "2026-10-26T11:04:55+00:00",
-    "event_id": "bd58bf8f95ef",
-    "sources": [
-     {
-      "title": "Key European defence ministers meet in Paris to discuss Ukraine support",
-      "summary": "Defence ministers from France, Germany, Italy, Poland, and the UK met in Paris to discuss increasing military assistance to Ukraine.",
-      "lang": "en",
-      "source": "Al Jazeera English",
-      "url": "https://www.aljazeera.com/news/2026/10/26/key-european-defence-ministers-meet-in-paris-to-discuss-ukraine-support?traffic_source=rss",
-      "published": "2026-10-26T11:04:55+00:00"
-     }
-    ],
-    "status": "new",
-    "change_summary": "",
-    "previous_date": null,
-    "previous_event_id": ""
-   },
-   {
-    "title": "Russia says it will open humanitarian corridor to Ukrainian town",
-    "summary": "Russia announced opening a humanitarian corridor to occupied Oleshky, Ukraine, where residents face severe food shortages and minefields.",
-    "lang": "en",
-    "source": "NPR World",
-    "url": "https://www.npr.org/2026/10/26/nx-s1-6014540/russia-says-it-will-open-humanitarian-corridor-to-ukrainian-town",
-    "published": "2026-10-26T08:42:00+00:00",
-    "event_id": "56a7e27836c6",
-    "sources": [
-     {
-      "title": "Russia says it will open humanitarian corridor to Ukrainian town",
-      "summary": "Russia announced opening a humanitarian corridor to occupied Oleshky, Ukraine, where residents face severe food shortages and minefields.",
-      "lang": "en",
-      "source": "NPR World",
-      "url": "https://www.npr.org/2026/10/26/nx-s1-6014540/russia-says-it-will-open-humanitarian-corridor-to-ukrainian-town",
-      "published": "2026-10-26T08:42:00+00:00"
-     }
-    ],
-    "status": "new",
-    "change_summary": "",
-    "previous_date": null,
-    "previous_event_id": ""
-   },
-   {
-    "title": "希臘通過15歲以下社群媒體禁令，違規平臺最高罰全球營收6%",
-    "summary": "希臘國會通過禁止15歲以下兒童使用社群媒體法案，新法2027年1月1日實施，違規平臺最高罰全球營收6%。",
-    "lang": "zh",
-    "source": "iThome 台灣",
-    "url": "https://www.ithome.com.tw/news/179946",
-    "published": "2026-10-26T09:10:44+00:00",
-    "event_id": "e0459a706510",
-    "sources": [
-     {
-      "title": "希臘通過15歲以下社群媒體禁令，違規平臺最高罰全球營收6%",
-      "summary": "希臘國會通過禁止15歲以下兒童使用社群媒體法案，新法2027年1月1日實施，違規平臺最高罰全球營收6%。",
-      "lang": "zh",
-      "source": "iThome 台灣",
-      "url": "https://www.ithome.com.tw/news/179946",
-      "published": "2026-10-26T09:10:44+00:00"
-     }
-    ],
-    "status": "new",
-    "change_summary": "",
-    "previous_date": null,
-    "previous_event_id": ""
-   }
-  ],
-  "tecnologia|asia": [
-   {
     "title": "日本快遞業者佐川急便網站服務被駭，外洩個人、企業及會員個資逾5,300萬筆",
-    "summary": "日本快遞業者佐川急便網站遭駭客未授權存取，超過5,300萬筆客戶資料外洩，公司已於10月23日重新開放查詢服務。",
+    "summary": "日本快递业者佐川急便网站遭未授权访问，超5300万客户个人、企业及会员资料外泄，已于10月23日恢复查询服务。",
     "lang": "zh",
     "source": "iThome 台灣",
     "url": "https://www.ithome.com.tw/news/179948",
@@ -837,7 +275,7 @@
     "sources": [
      {
       "title": "日本快遞業者佐川急便網站服務被駭，外洩個人、企業及會員個資逾5,300萬筆",
-      "summary": "日本快遞業者佐川急便網站遭駭客未授權存取，超過5,300萬筆客戶資料外洩，公司已於10月23日重新開放查詢服務。",
+      "summary": "日本快递业者佐川急便网站遭未授权访问，超5300万客户个人、企业及会员资料外泄，已于10月23日恢复查询服务。",
       "lang": "zh",
       "source": "iThome 台灣",
       "url": "https://www.ithome.com.tw/news/179948",
@@ -851,7 +289,7 @@
    },
    {
     "title": "Amadeus訂票系統帳號憑證外流，洩露大韓、韓亞航空客戶資訊",
-    "summary": "航空票務系統業者Amadeus遭駭客入侵，導致委外客戶大韓航空和韓亞航空客戶個資外洩。",
+    "summary": "航空票务系统Amadeus遭入侵，其客户大韩航空和韩亚航空的数量不详的乘客信息被外泄。",
     "lang": "zh",
     "source": "iThome 台灣",
     "url": "https://www.ithome.com.tw/news/179947",
@@ -860,7 +298,7 @@
     "sources": [
      {
       "title": "Amadeus訂票系統帳號憑證外流，洩露大韓、韓亞航空客戶資訊",
-      "summary": "航空票務系統業者Amadeus遭駭客入侵，導致委外客戶大韓航空和韓亞航空客戶個資外洩。",
+      "summary": "航空票务系统Amadeus遭入侵，其客户大韩航空和韩亚航空的数量不详的乘客信息被外泄。",
       "lang": "zh",
       "source": "iThome 台灣",
       "url": "https://www.ithome.com.tw/news/179947",
@@ -871,6 +309,555 @@
     "change_summary": "",
     "previous_date": null,
     "previous_event_id": ""
+   }
+  ],
+  "economia|europa": [
+   {
+    "title": "French Bond Rout Overshadows ECB Succession",
+    "summary": "French bond market turmoil complicates European Central Bank succession as officials seek leadership capable of managing market pressures.",
+    "lang": "en",
+    "source": "Bloomberg Economics",
+    "url": "https://www.bloomberg.com/news/newsletters/2026-10-26/french-bond-rout-overshadows-ecb-succession",
+    "published": "2026-10-26T11:00:21+00:00",
+    "event_id": "2f87a6e09895",
+    "sources": [
+     {
+      "title": "French Bond Rout Overshadows ECB Succession",
+      "summary": "French bond market turmoil complicates European Central Bank succession as officials seek leadership capable of managing market pressures.",
+      "lang": "en",
+      "source": "Bloomberg Economics",
+      "url": "https://www.bloomberg.com/news/newsletters/2026-10-26/french-bond-rout-overshadows-ecb-succession",
+      "published": "2026-10-26T11:00:21+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "Germany’s Business Outlook Unexpectedly Improves for Sixth Month",
+    "summary": "Germany's business outlook unexpectedly improved for a sixth consecutive month, signaling economic recovery from previous downturn.",
+    "lang": "en",
+    "source": "Bloomberg Economics",
+    "url": "https://www.bloomberg.com/news/articles/2026-10-26/germany-s-business-outlook-unexpectedly-improves-for-sixth-month",
+    "published": "2026-10-26T09:05:45+00:00",
+    "event_id": "ad1b74fdfc39",
+    "sources": [
+     {
+      "title": "Germany’s Business Outlook Unexpectedly Improves for Sixth Month",
+      "summary": "Germany's business outlook unexpectedly improved for a sixth consecutive month, signaling economic recovery from previous downturn.",
+      "lang": "en",
+      "source": "Bloomberg Economics",
+      "url": "https://www.bloomberg.com/news/articles/2026-10-26/germany-s-business-outlook-unexpectedly-improves-for-sixth-month",
+      "published": "2026-10-26T09:05:45+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "EU Plans to Hit China With More Import Curbs in Early 2027",
+    "summary": "European Union planning to impose safeguard measures restricting Chinese imports of chemicals, furniture, and machinery starting early 2027.",
+    "lang": "en",
+    "source": "Bloomberg Economics",
+    "url": "https://www.bloomberg.com/news/articles/2026-10-26/eu-plans-to-hit-china-with-more-import-curbs-in-early-2027",
+    "published": "2026-10-26T08:31:05+00:00",
+    "event_id": "6be01125a2d0",
+    "sources": [
+     {
+      "title": "EU Plans to Hit China With More Import Curbs in Early 2027",
+      "summary": "European Union planning to impose safeguard measures restricting Chinese imports of chemicals, furniture, and machinery starting early 2027.",
+      "lang": "en",
+      "source": "Bloomberg Economics",
+      "url": "https://www.bloomberg.com/news/articles/2026-10-26/eu-plans-to-hit-china-with-more-import-curbs-in-early-2027",
+      "published": "2026-10-26T08:31:05+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "Survey on the Access to Finance of Enterprises: lending conditions tightened",
+    "summary": "European Central Bank survey shows lending conditions for enterprises tightened recently.",
+    "lang": "en",
+    "source": "BCE (notas de prensa)",
+    "url": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr261026~bde7b6d11a.en.html",
+    "published": "2026-10-26T09:00:00+00:00",
+    "event_id": "f737e8530d3d",
+    "sources": [
+     {
+      "title": "Survey on the Access to Finance of Enterprises: lending conditions tightened",
+      "summary": "European Central Bank survey shows lending conditions for enterprises tightened recently.",
+      "lang": "en",
+      "source": "BCE (notas de prensa)",
+      "url": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr261026~bde7b6d11a.en.html",
+      "published": "2026-10-26T09:00:00+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "EU to charge two-euro handling fee on packages from outside bloc",
+    "summary": "European Union introducing two-euro handling fee on packages from outside the bloc beginning November 1.",
+    "lang": "en",
+    "source": "Le Monde International",
+    "url": "https://www.lemonde.fr/en/international/article/2026/10/26/eu-to-charge-two-euro-handling-fee-on-packages-from-outside-bloc_6764287_4.html",
+    "published": "2026-10-26T06:59:37+00:00",
+    "event_id": "5f07ae1cabac",
+    "sources": [
+     {
+      "title": "EU to charge two-euro handling fee on packages from outside bloc",
+      "summary": "European Union introducing two-euro handling fee on packages from outside the bloc beginning November 1.",
+      "lang": "en",
+      "source": "Le Monde International",
+      "url": "https://www.lemonde.fr/en/international/article/2026/10/26/eu-to-charge-two-euro-handling-fee-on-packages-from-outside-bloc_6764287_4.html",
+      "published": "2026-10-26T06:59:37+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   }
+  ],
+  "tecnologia|europa": [
+   {
+    "title": "Dutch Government Plans to Cut 25,000 Jobs in AI-Led Overhaul",
+    "summary": "Dutch government plans to cut 25,000 civil service jobs through AI-driven efficiency measures targeting €3.5 billion annual savings.",
+    "lang": "en",
+    "source": "Bloomberg Economics",
+    "url": "https://www.bloomberg.com/news/articles/2026-10-26/dutch-government-plans-to-cut-25-000-jobs-in-ai-led-overhaul",
+    "published": "2026-10-26T10:10:21+00:00",
+    "event_id": "a4d58eba8d89",
+    "sources": [
+     {
+      "title": "Dutch Government Plans to Cut 25,000 Jobs in AI-Led Overhaul",
+      "summary": "Dutch government plans to cut 25,000 civil service jobs through AI-driven efficiency measures targeting €3.5 billion annual savings.",
+      "lang": "en",
+      "source": "Bloomberg Economics",
+      "url": "https://www.bloomberg.com/news/articles/2026-10-26/dutch-government-plans-to-cut-25-000-jobs-in-ai-led-overhaul",
+      "published": "2026-10-26T10:10:21+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "GitLab四項RCE漏洞源頭，指向Ruby正規表示式引擎缺陷",
+    "summary": "Ruby官方修补正规表示式引擎Onigmo内存处理缺陷，该缺陷曾导致GitLab发现四项可远程执行代码的漏洞。",
+    "lang": "zh",
+    "source": "iThome 台灣",
+    "url": "https://www.ithome.com.tw/news/179954",
+    "published": "2026-10-26T03:10:34+00:00",
+    "event_id": "22dea305c50a",
+    "sources": [
+     {
+      "title": "GitLab四項RCE漏洞源頭，指向Ruby正規表示式引擎缺陷",
+      "summary": "Ruby官方修补正规表示式引擎Onigmo内存处理缺陷，该缺陷曾导致GitLab发现四项可远程执行代码的漏洞。",
+      "lang": "zh",
+      "source": "iThome 台灣",
+      "url": "https://www.ithome.com.tw/news/179954",
+      "published": "2026-10-26T03:10:34+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "Tailscale SSH轉送功能遭揭權限提升漏洞，一般帳號恐取得伺服器最高權限",
+    "summary": "VPN服务Tailscale的SSH转送功能存在权限提升漏洞，攻擎者可能从普通账号取得服务器最高权限。",
+    "lang": "zh",
+    "source": "iThome 台灣",
+    "url": "https://www.ithome.com.tw/news/179953",
+    "published": "2026-10-26T02:10:09+00:00",
+    "event_id": "62b1081799e7",
+    "sources": [
+     {
+      "title": "Tailscale SSH轉送功能遭揭權限提升漏洞，一般帳號恐取得伺服器最高權限",
+      "summary": "VPN服务Tailscale的SSH转送功能存在权限提升漏洞，攻擎者可能从普通账号取得服务器最高权限。",
+      "lang": "zh",
+      "source": "iThome 台灣",
+      "url": "https://www.ithome.com.tw/news/179953",
+      "published": "2026-10-26T02:10:09+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   }
+  ],
+  "politica|america": [
+   {
+    "title": "Lula is re-elected Brazil’s president in knife-edge vote",
+    "summary": "Brazil's leftist President Lula won re-election narrowly over Flávio Bolsonaro, countering Trump's influence strategy for Latin America.",
+    "lang": "en",
+    "source": "Financial Times",
+    "url": "https://www.ft.com/content/7585a18f-88d9-4fcd-882d-ed938c7c9c41?syn-25a6b1a6=1",
+    "published": "2026-10-26T08:25:20+00:00",
+    "event_id": "51bfe497d9fa",
+    "sources": [
+     {
+      "title": "Lula is re-elected Brazil’s president in knife-edge vote",
+      "summary": "Brazil's leftist President Lula won re-election narrowly over Flávio Bolsonaro, countering Trump's influence strategy for Latin America.",
+      "lang": "en",
+      "source": "Financial Times",
+      "url": "https://www.ft.com/content/7585a18f-88d9-4fcd-882d-ed938c7c9c41?syn-25a6b1a6=1",
+      "published": "2026-10-26T08:25:20+00:00"
+     },
+     {
+      "title": "Lula wins historic fourth term as Brazilian president in defeat of far-right Flávio Bolsonaro",
+      "summary": "Brazil's leftist President Lula won historic fourth term defeating far-right Flávio Bolsonaro in stunning political comeback.",
+      "lang": "en",
+      "source": "The Guardian World",
+      "url": "https://www.theguardian.com/world/2026/oct/26/lula-wins-brazil-election",
+      "published": "2026-10-26T00:19:05+00:00"
+     }
+    ],
+    "status": "updated",
+    "change_summary": "Lula is re-elected Brazil's president in knife-edge vote",
+    "previous_date": "2026-10-25",
+    "previous_event_id": "51bfe497d9fa"
+   },
+   {
+    "title": "Venezuelan opposition leader María Machado returns after months in exile",
+    "summary": "Venezuelan opposition leader María Machado returned from exile months after the U.S. seized President Nicolás Maduro's assets.",
+    "lang": "en",
+    "source": "BBC World",
+    "url": "https://www.bbc.co.uk/news/articles/cq8ez592pp0eo?at_medium=RSS&at_campaign=rss",
+    "published": "2026-10-26T05:20:19+00:00",
+    "event_id": "b4c30b6342df",
+    "sources": [
+     {
+      "title": "Venezuelan opposition leader María Machado returns after months in exile",
+      "summary": "Venezuelan opposition leader María Machado returned from exile months after the U.S. seized President Nicolás Maduro's assets.",
+      "lang": "en",
+      "source": "BBC World",
+      "url": "https://www.bbc.co.uk/news/articles/cq8ez592pp0eo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-26T05:20:19+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "美國中選舉前夕，奧巴馬抨擊特朗普政府",
+    "summary": "奥巴马在美国中期选举前夕抨击特朗普政府，称此次选举是抑制政府愚蠢行为的最后机会。",
+    "lang": "zh",
+    "source": "BBC中文",
+    "url": "https://www.bbc.com/zhongwen/articles/cm4g13j5jg5ko/trad?at_medium=RSS&at_campaign=rss",
+    "published": "2026-10-26T05:02:39+00:00",
+    "event_id": "a32b0602482a",
+    "sources": [
+     {
+      "title": "美國中選舉前夕，奧巴馬抨擊特朗普政府",
+      "summary": "奥巴马在美国中期选举前夕抨击特朗普政府，称此次选举是抑制政府愚蠢行为的最后机会。",
+      "lang": "zh",
+      "source": "BBC中文",
+      "url": "https://www.bbc.com/zhongwen/articles/cm4g13j5jg5ko/trad?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-26T05:02:39+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   }
+  ],
+  "economia|america": [
+   {
+    "title": "Fed to stick with quarterly rate rises as it removes 2025 insurance cuts",
+    "summary": "Federal Reserve signals continued quarterly rate increases while removing 2025 insurance rate cuts from policy guidance.",
+    "lang": "en",
+    "source": "FT Global Economy",
+    "url": "https://www.ft.com/content/572bc401-9f82-4e49-9282-3e896562f339",
+    "published": "2026-10-26T05:30:01+00:00",
+    "event_id": "ff63ed2e60e3",
+    "sources": [
+     {
+      "title": "Fed to stick with quarterly rate rises as it removes 2025 insurance cuts",
+      "summary": "Federal Reserve signals continued quarterly rate increases while removing 2025 insurance rate cuts from policy guidance.",
+      "lang": "en",
+      "source": "FT Global Economy",
+      "url": "https://www.ft.com/content/572bc401-9f82-4e49-9282-3e896562f339",
+      "published": "2026-10-26T05:30:01+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "Audi to build $4bn US plant as it grapples with tariffs",
+    "summary": "Audi announced $4 billion U.S. plant construction at Trump rally, seeking tariff relief for Volkswagen Group amid trade tensions.",
+    "lang": "en",
+    "source": "FT Global Economy",
+    "url": "https://www.ft.com/content/8f034740-12a8-47fe-9010-149f87e70f8e?syn-25a6b1a6=1",
+    "published": "2026-10-25T10:33:28+00:00",
+    "event_id": "1d8bc2193587",
+    "sources": [
+     {
+      "title": "Audi to build $4bn US plant as it grapples with tariffs",
+      "summary": "Audi announced $4 billion U.S. plant construction at Trump rally, seeking tariff relief for Volkswagen Group amid trade tensions.",
+      "lang": "en",
+      "source": "FT Global Economy",
+      "url": "https://www.ft.com/content/8f034740-12a8-47fe-9010-149f87e70f8e?syn-25a6b1a6=1",
+      "published": "2026-10-25T10:33:28+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   }
+  ],
+  "tecnologia|america": [
+   {
+    "title": "Meta plans $95bn stock offering to bankroll AI expansion",
+    "summary": "Meta announced $95 billion stock offering with Nvidia, AMD, and Broadcom as cornerstone investors to fund artificial intelligence expansion.",
+    "lang": "en",
+    "source": "Financial Times",
+    "url": "https://www.ft.com/content/94e5a0ae-874d-447a-bbfc-cd465a1a7555?syn-25a6b1a6=1",
+    "published": "2026-10-26T12:34:22+00:00",
+    "event_id": "354cf174afe3",
+    "sources": [
+     {
+      "title": "Meta plans $95bn stock offering to bankroll AI expansion",
+      "summary": "Meta announced $95 billion stock offering with Nvidia, AMD, and Broadcom as cornerstone investors to fund artificial intelligence expansion.",
+      "lang": "en",
+      "source": "Financial Times",
+      "url": "https://www.ft.com/content/94e5a0ae-874d-447a-bbfc-cd465a1a7555?syn-25a6b1a6=1",
+      "published": "2026-10-26T12:34:22+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "Grok releases the first seven minutes of its AI-generated ‘Odyssey’",
+    "summary": "Grok released first seven minutes of AI-generated 'Odyssey' video footage demonstrating artificial intelligence content creation capabilities.",
+    "lang": "en",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/10/25/grok-releases-the-first-seven-minutes-of-its-ai-generated-odyssey/",
+    "published": "2026-10-25T21:31:16+00:00",
+    "event_id": "a6feae291b1a",
+    "sources": [
+     {
+      "title": "Grok releases the first seven minutes of its AI-generated ‘Odyssey’",
+      "summary": "Grok released first seven minutes of AI-generated 'Odyssey' video footage demonstrating artificial intelligence content creation capabilities.",
+      "lang": "en",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/10/25/grok-releases-the-first-seven-minutes-of-its-ai-generated-odyssey/",
+      "published": "2026-10-25T21:31:16+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "Google’s AI search changes upended online publishing",
+    "summary": "Google's AI search integration significantly disrupted online publishing industry dynamics and content distribution models.",
+    "lang": "en",
+    "source": "The Verge",
+    "url": "https://www.theverge.com/column/1017983/google-ai-search-online-publishing",
+    "published": "2026-10-25T12:00:00+00:00",
+    "event_id": "99c99157c7fa",
+    "sources": [
+     {
+      "title": "Google’s AI search changes upended online publishing",
+      "summary": "Google's AI search integration significantly disrupted online publishing industry dynamics and content distribution models.",
+      "lang": "en",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/column/1017983/google-ai-search-online-publishing",
+      "published": "2026-10-25T12:00:00+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "iFixit’s look inside the iPhone Duo may explain those broken screens and hinges",
+    "summary": "iFixit's iPhone disassembly revealed design factors potentially explaining screen and hinge durability issues in latest model.",
+    "lang": "en",
+    "source": "The Verge",
+    "url": "https://www.theverge.com/tech/1018233/ifixit-iphone-duo-teardown-repairability-hinge",
+    "published": "2026-10-25T21:40:27+00:00",
+    "event_id": "da114e8ce7c5",
+    "sources": [
+     {
+      "title": "iFixit’s look inside the iPhone Duo may explain those broken screens and hinges",
+      "summary": "iFixit's iPhone disassembly revealed design factors potentially explaining screen and hinge durability issues in latest model.",
+      "lang": "en",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/tech/1018233/ifixit-iphone-duo-teardown-repairability-hinge",
+      "published": "2026-10-25T21:40:27+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "Scientists Trapped an Antimatter Particle for Months to Study Its Secrets",
+    "summary": "Scientists successfully contained antimatter particles for extended periods, enabling new research into matter-antimatter fundamental differences.",
+    "lang": "en",
+    "source": "Wired",
+    "url": "https://www.wired.com/story/scientists-trapped-an-antimatter-particle-for-months-to-study-its-secrets/",
+    "published": "2026-10-25T12:00:00+00:00",
+    "event_id": "f2894f5ccafc",
+    "sources": [
+     {
+      "title": "Scientists Trapped an Antimatter Particle for Months to Study Its Secrets",
+      "summary": "Scientists successfully contained antimatter particles for extended periods, enabling new research into matter-antimatter fundamental differences.",
+      "lang": "en",
+      "source": "Wired",
+      "url": "https://www.wired.com/story/scientists-trapped-an-antimatter-particle-for-months-to-study-its-secrets/",
+      "published": "2026-10-25T12:00:00+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   }
+  ],
+  "politica|europa": [
+   {
+    "title": "Celebrations in Serbia after veteran ruler Vučić loses election to student-led protest movement",
+    "summary": "Serbian populist leader Aleksandar Vučić lost election to student-led protest movement after 12 years in power amid celebrations.",
+    "lang": "en",
+    "source": "BBC World",
+    "url": "https://www.bbc.co.uk/news/articles/cw5yn3xlprpmo?at_medium=RSS&at_campaign=rss",
+    "published": "2026-10-26T12:52:16+00:00",
+    "event_id": "c4c48ac64982",
+    "sources": [
+     {
+      "title": "Celebrations in Serbia after veteran ruler Vučić loses election to student-led protest movement",
+      "summary": "Serbian populist leader Aleksandar Vučić lost election to student-led protest movement after 12 years in power amid celebrations.",
+      "lang": "en",
+      "source": "BBC World",
+      "url": "https://www.bbc.co.uk/news/articles/cw5yn3xlprpmo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-26T12:52:16+00:00"
+     }
+    ],
+    "status": "updated",
+    "change_summary": "Celebrations in Serbia after veteran ruler Vučić loses election to student-led protest movement",
+    "previous_date": "2026-10-25",
+    "previous_event_id": "c4c48ac64982"
+   },
+   {
+    "title": "Russia says it will open humanitarian corridor to Ukrainian town",
+    "summary": "Russia announced opening humanitarian corridor to occupied Ukrainian town Oleshky where trapped residents face severe food shortages.",
+    "lang": "en",
+    "source": "NPR World",
+    "url": "https://www.npr.org/2026/10/26/nx-s1-6014540/russia-says-it-will-open-humanitarian-corridor-to-ukrainian-town",
+    "published": "2026-10-26T08:42:00+00:00",
+    "event_id": "56a7e27836c6",
+    "sources": [
+     {
+      "title": "Russia says it will open humanitarian corridor to Ukrainian town",
+      "summary": "Russia announced opening humanitarian corridor to occupied Ukrainian town Oleshky where trapped residents face severe food shortages.",
+      "lang": "en",
+      "source": "NPR World",
+      "url": "https://www.npr.org/2026/10/26/nx-s1-6014540/russia-says-it-will-open-humanitarian-corridor-to-ukrainian-town",
+      "published": "2026-10-26T08:42:00+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "Key European defence ministers meet in Paris to discuss Ukraine support",
+    "summary": "European defense ministers from France, Germany, Italy, Poland, and UK met in Paris to discuss increasing military aid to Ukraine.",
+    "lang": "en",
+    "source": "Al Jazeera English",
+    "url": "https://www.aljazeera.com/news/2026/10/26/key-european-defence-ministers-meet-in-paris-to-discuss-ukraine-support?traffic_source=rss",
+    "published": "2026-10-26T11:04:55+00:00",
+    "event_id": "bd58bf8f95ef",
+    "sources": [
+     {
+      "title": "Key European defence ministers meet in Paris to discuss Ukraine support",
+      "summary": "European defense ministers from France, Germany, Italy, Poland, and UK met in Paris to discuss increasing military aid to Ukraine.",
+      "lang": "en",
+      "source": "Al Jazeera English",
+      "url": "https://www.aljazeera.com/news/2026/10/26/key-european-defence-ministers-meet-in-paris-to-discuss-ukraine-support?traffic_source=rss",
+      "published": "2026-10-26T11:04:55+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "希臘通過15歲以下社群媒體禁令，違規平臺最高罰全球營收6%",
+    "summary": "希腊国会通过15岁以下儿童禁用社交媒体法案，违规平台最高罚全球营收6%，新法2027年1月实施。",
+    "lang": "zh",
+    "source": "iThome 台灣",
+    "url": "https://www.ithome.com.tw/news/179946",
+    "published": "2026-10-26T09:10:44+00:00",
+    "event_id": "e0459a706510",
+    "sources": [
+     {
+      "title": "希臘通過15歲以下社群媒體禁令，違規平臺最高罰全球營收6%",
+      "summary": "希腊国会通过15岁以下儿童禁用社交媒体法案，违规平台最高罚全球营收6%，新法2027年1月实施。",
+      "lang": "zh",
+      "source": "iThome 台灣",
+      "url": "https://www.ithome.com.tw/news/179946",
+      "published": "2026-10-26T09:10:44+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "法國再爆大規模示威逾1300人被捕，警民衝突致53警受傷",
+    "summary": "法国周六爆发大规模全国示威，超1300人被捕，53名警员受伤，部分城市警民发生冲突。",
+    "lang": "zh",
+    "source": "BBC中文",
+    "url": "https://www.bbc.com/zhongwen/articles/ckq6nvg7ny1yo/trad?at_medium=RSS&at_campaign=rss",
+    "published": "2026-10-25T11:46:40+00:00",
+    "event_id": "0a5bd0ce690d",
+    "sources": [
+     {
+      "title": "法國再爆大規模示威逾1300人被捕，警民衝突致53警受傷",
+      "summary": "法国周六爆发大规模全国示威，超1300人被捕，53名警员受伤，部分城市警民发生冲突。",
+      "lang": "zh",
+      "source": "BBC中文",
+      "url": "https://www.bbc.com/zhongwen/articles/ckq6nvg7ny1yo/trad?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-25T11:46:40+00:00"
+     }
+    ],
+    "status": "unchanged",
+    "change_summary": "",
+    "previous_date": "2026-10-25",
+    "previous_event_id": "0a5bd0ce690d"
    }
   ]
  }

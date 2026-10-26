@@ -1,6 +1,6 @@
 {
  "date": "2026-10-26",
- "collected_at": "2026-10-26T12:13:55.692225+00:00",
+ "collected_at": "2026-10-26T12:56:18.684396+00:00",
  "total": 458,
  "seen_by_model": 250,
  "selected": 37,
@@ -31,14 +31,14 @@
    "selected": false
   },
   {
-   "id": "c7fa1e6b66",
+   "id": "02de069ddb",
    "source": "Financial Times",
    "section": "economia",
    "continent": "global",
    "lang": "en",
-   "title": "After stunning victory, Lula will face a deep hangover",
-   "url": "https://www.ft.com/content/5c283ba4-37cf-4b0e-81f3-6df04b29529b?syn-25a6b1a6=1",
-   "published": "2026-10-26T01:15:16+00:00",
+   "title": "Brazil’s markets set to tumble as investors bet Lula will add to fiscal pain",
+   "url": "https://www.ft.com/content/bffe028e-838d-4e74-b05e-62f6db4978db?syn-25a6b1a6=1",
+   "published": "2026-10-26T12:21:53+00:00",
    "seen_by_model": true,
    "selected": false
   },
@@ -55,6 +55,18 @@
    "selected": false
   },
   {
+   "id": "8935a9443f",
+   "source": "Financial Times",
+   "section": "economia",
+   "continent": "global",
+   "lang": "en",
+   "title": "Trump, Netanyahu and the politics of escalation against Iran",
+   "url": "https://www.ft.com/content/7b3c17e7-c0bf-4e93-bc5d-17f86fa1b2a5?syn-25a6b1a6=1",
+   "published": "2026-10-26T11:37:21+00:00",
+   "seen_by_model": true,
+   "selected": false
+  },
+  {
    "id": "fd95d8a254",
    "source": "Financial Times",
    "section": "economia",
@@ -67,18 +79,6 @@
    "selected": false
   },
   {
-   "id": "e2fa4d8ce3",
-   "source": "Financial Times",
-   "section": "economia",
-   "continent": "global",
-   "lang": "en",
-   "title": "Oxford Street’s pedestrian revolution is finally here",
-   "url": "https://www.ft.com/content/e14c2beb-cbcd-4e47-9f30-604b766f88e1?syn-25a6b1a6=1",
-   "published": "2026-10-26T05:00:21+00:00",
-   "seen_by_model": true,
-   "selected": false
-  },
-  {
    "id": "354cf174af",
    "source": "Financial Times",
    "section": "economia",
@@ -86,7 +86,7 @@
    "lang": "en",
    "title": "Meta plans $95bn stock offering to bankroll AI expansion",
    "url": "https://www.ft.com/content/94e5a0ae-874d-447a-bbfc-cd465a1a7555?syn-25a6b1a6=1",
-   "published": "2026-10-26T11:58:00+00:00",
+   "published": "2026-10-26T12:34:22+00:00",
    "seen_by_model": true,
    "selected": true
   },
@@ -100,7 +100,7 @@
    "url": "https://www.ft.com/content/97a60042-f7b6-4c87-9387-8572968a7de0?syn-25a6b1a6=1",
    "published": "2026-10-26T07:28:34+00:00",
    "seen_by_model": true,
-   "selected": false
+   "selected": true
   },
   {
    "id": "e602605fd5",
@@ -108,7 +108,7 @@
    "section": "economia",
    "continent": "global",
    "lang": "en",
-   "title": "Iran hosts regional powers for talks to prevent renewed escalation",
+   "title": "Iran hosts regional powers for talks to prevent fresh escalation",
    "url": "https://www.ft.com/content/7f6943d3-b089-49a7-a0bc-a6f677c09802?syn-25a6b1a6=1",
    "published": "2026-10-26T09:33:47+00:00",
    "seen_by_model": true,
@@ -352,7 +352,7 @@
    "url": "https://www.bloomberg.com/news/articles/2026-10-26/euro-zone-slowdown-central-bank-ecb-rates-hold-for-now",
    "published": "2026-10-26T06:20:00+00:00",
    "seen_by_model": true,
-   "selected": true
+   "selected": false
   },
   {
    "id": "b8f0382643",
@@ -427,6 +427,102 @@
    "selected": false
   },
   {
+   "id": "a0d56c6adc",
+   "source": "Bloomberg Markets",
+   "section": "economia",
+   "continent": "global",
+   "lang": "en",
+   "title": "Latest Oil Market News and Analysis for Oct. 26",
+   "url": "https://www.bloomberg.com/news/articles/2026-10-25/latest-oil-market-news-and-analysis-for-oct-26",
+   "published": "2026-10-25T22:04:00+00:00",
+   "seen_by_model": true,
+   "selected": false
+  },
+  {
+   "id": "ec60ce4762",
+   "source": "Bloomberg Markets",
+   "section": "economia",
+   "continent": "global",
+   "lang": "en",
+   "title": "A Fed Skip Cements the Odds for December, Economist Dutta Says",
+   "url": "https://www.bloomberg.com/news/videos/2026-10-26/a-fed-skip-now-cements-odds-for-december-dutta-video",
+   "published": "2026-10-26T12:50:48+00:00",
+   "seen_by_model": true,
+   "selected": false
+  },
+  {
+   "id": "e31384bb79",
+   "source": "Bloomberg Markets",
+   "section": "economia",
+   "continent": "global",
+   "lang": "en",
+   "title": "Turkey Snubs Smaller Investors After Scandal Sparks Liquidations",
+   "url": "https://www.bloomberg.com/news/articles/2026-10-26/turkey-raises-qualified-investor-bar-fivefold-after-fund-rout",
+   "published": "2026-10-26T09:19:02+00:00",
+   "seen_by_model": true,
+   "selected": false
+  },
+  {
+   "id": "5365980c0c",
+   "source": "Bloomberg Markets",
+   "section": "economia",
+   "continent": "global",
+   "lang": "en",
+   "title": "US Stock Futures Gain Ahead of Big Tech Earnings, Fed Decision",
+   "url": "https://www.bloomberg.com/news/articles/2026-10-26/us-stock-futures-gain-ahead-of-big-tech-earnings-fed-decision",
+   "published": "2026-10-26T12:38:56+00:00",
+   "seen_by_model": true,
+   "selected": false
+  },
+  {
+   "id": "b4cdeb1d36",
+   "source": "Bloomberg Markets",
+   "section": "economia",
+   "continent": "global",
+   "lang": "en",
+   "title": "A Stock Investor’s Guide to UK Budget Winners and Losers",
+   "url": "https://www.bloomberg.com/news/articles/2026-10-26/a-stock-investor-s-guide-to-uk-budget-winners-and-losers",
+   "published": "2026-10-26T12:35:28+00:00",
+   "seen_by_model": true,
+   "selected": false
+  },
+  {
+   "id": "bbaf0e8eaa",
+   "source": "Bloomberg Markets",
+   "section": "economia",
+   "continent": "global",
+   "lang": "en",
+   "title": "Stocks Gain Before Tech Earnings as Oil Declines: Markets Wrap",
+   "url": "https://www.bloomberg.com/news/articles/2026-10-25/us-equity-futures-climb-as-crude-oil-price-dips-markets-wrap",
+   "published": "2026-10-25T22:09:07+00:00",
+   "seen_by_model": true,
+   "selected": false
+  },
+  {
+   "id": "a27a72704e",
+   "source": "Bloomberg Markets",
+   "section": "economia",
+   "continent": "global",
+   "lang": "en",
+   "title": "Gold Edges Higher After AI-Driven Selloff as Focus Shifts to Fed",
+   "url": "https://www.bloomberg.com/news/articles/2026-10-25/gold-steadies-after-weekly-drop-as-focus-shifts-to-fed-meeting",
+   "published": "2026-10-25T23:23:38+00:00",
+   "seen_by_model": true,
+   "selected": false
+  },
+  {
+   "id": "dae43dbf0d",
+   "source": "Bloomberg Markets",
+   "section": "economia",
+   "continent": "global",
+   "lang": "en",
+   "title": "Apollo Takes Stake in Mubadala Capital, Deepening Abu Dhabi Ties",
+   "url": "https://www.bloomberg.com/news/articles/2026-10-26/apollo-to-buy-nearly-10-stake-in-mubadala-capital-cnbc-reports",
+   "published": "2026-10-26T11:49:19+00:00",
+   "seen_by_model": true,
+   "selected": false
+  },
+  {
    "id": "0113200875",
    "source": "Bloomberg Markets",
    "section": "economia",
@@ -447,31 +543,7 @@
    "title": "Anthropic Is Said to Plan Public Filing for Mega-IPO Monday",
    "url": "https://www.bloomberg.com/news/articles/2026-10-26/anthropic-is-said-to-plan-public-filing-for-mega-ipo-monday",
    "published": "2026-10-26T11:53:38+00:00",
-   "seen_by_model": true,
-   "selected": true
-  },
-  {
-   "id": "dae43dbf0d",
-   "source": "Bloomberg Markets",
-   "section": "economia",
-   "continent": "global",
-   "lang": "en",
-   "title": "Apollo to Buy Nearly 10% Stake in Mubadala Capital, CNBC Reports",
-   "url": "https://www.bloomberg.com/news/articles/2026-10-26/apollo-to-buy-nearly-10-stake-in-mubadala-capital-cnbc-reports",
-   "published": "2026-10-26T11:49:19+00:00",
-   "seen_by_model": true,
-   "selected": true
-  },
-  {
-   "id": "bbaf0e8eaa",
-   "source": "Bloomberg Markets",
-   "section": "economia",
-   "continent": "global",
-   "lang": "en",
-   "title": "Stocks Gain Before Tech Earnings as Oil Declines: Markets Wrap",
-   "url": "https://www.bloomberg.com/news/articles/2026-10-25/us-equity-futures-climb-as-crude-oil-price-dips-markets-wrap",
-   "published": "2026-10-25T22:09:07+00:00",
-   "seen_by_model": true,
+   "seen_by_model": false,
    "selected": false
   },
   {
@@ -483,8 +555,8 @@
    "title": "Gulf Oil Bargains Lure India Away From Russia as Freight Soars",
    "url": "https://www.bloomberg.com/news/articles/2026-10-26/gulf-oil-bargains-lure-india-away-from-russia-as-freight-soars",
    "published": "2026-10-26T11:37:41+00:00",
-   "seen_by_model": true,
-   "selected": true
+   "seen_by_model": false,
+   "selected": false
   },
   {
    "id": "4b11d3dd34",
@@ -495,7 +567,7 @@
    "title": "Soybeans and Coffee Slump as Brazilian Election Hits Currency",
    "url": "https://www.bloomberg.com/news/articles/2026-10-26/soybeans-hit-2-month-low-as-lula-s-win-lifts-china-trade-outlook",
    "published": "2026-10-26T03:18:39+00:00",
-   "seen_by_model": true,
+   "seen_by_model": false,
    "selected": false
   },
   {
@@ -507,7 +579,7 @@
    "title": "Egypt’s Banque du Caire Prices IPO at Top End, Eyes $648 Million",
    "url": "https://www.bloomberg.com/news/articles/2026-10-26/banque-du-caire-says-ipo-priced-at-top-end-of-range",
    "published": "2026-10-26T07:26:47+00:00",
-   "seen_by_model": true,
+   "seen_by_model": false,
    "selected": false
   },
   {
@@ -519,7 +591,7 @@
    "title": "Brazil Markets Set to Plunge on Lula’s Improbable Election Win",
    "url": "https://www.bloomberg.com/news/articles/2026-10-26/brazil-markets-brace-for-rout-on-lula-s-improbable-election-win",
    "published": "2026-10-26T01:21:55+00:00",
-   "seen_by_model": true,
+   "seen_by_model": false,
    "selected": false
   },
   {
@@ -531,7 +603,7 @@
    "title": "Borr Drilling Falls 11% After 5 Missing From Rig Sunk Off Gabon",
    "url": "https://www.bloomberg.com/news/articles/2026-10-26/borr-drilling-falls-11-after-5-missing-from-rig-sunk-off-gabon",
    "published": "2026-10-26T11:07:04+00:00",
-   "seen_by_model": true,
+   "seen_by_model": false,
    "selected": false
   },
   {
@@ -555,18 +627,6 @@
    "title": "Lula gana en Brasil; Bolsonaro pide anular el balotaje",
    "url": "https://www.bloomberg.com/news/videos/2026-10-26/lula-gana-en-brasil-bolsonaro-pide-anular-el-balotaje-video",
    "published": "2026-10-26T10:44:03+00:00",
-   "seen_by_model": false,
-   "selected": false
-  },
-  {
-   "id": "a0d56c6adc",
-   "source": "Bloomberg Markets",
-   "section": "economia",
-   "continent": "global",
-   "lang": "en",
-   "title": "Latest Oil Market News and Analysis for Oct. 26",
-   "url": "https://www.bloomberg.com/news/articles/2026-10-25/latest-oil-market-news-and-analysis-for-oct-26",
-   "published": "2026-10-25T22:04:00+00:00",
    "seen_by_model": false,
    "selected": false
   },
@@ -603,66 +663,6 @@
    "title": "French Bond Risk Gauge Falls as Moody’s Keeps Rating Stable",
    "url": "https://www.bloomberg.com/news/articles/2026-10-26/french-markets-rebound-after-nation-avoids-moody-s-downgrade",
    "published": "2026-10-26T09:02:58+00:00",
-   "seen_by_model": false,
-   "selected": false
-  },
-  {
-   "id": "f89ce3ab6b",
-   "source": "Bloomberg Markets",
-   "section": "economia",
-   "continent": "global",
-   "lang": "en",
-   "title": "Senegalese Premier Explores Options to End Budget Impasse",
-   "url": "https://www.bloomberg.com/news/articles/2026-10-25/senegal-premier-raises-constitutional-option-in-budget-standoff",
-   "published": "2026-10-25T21:26:30+00:00",
-   "seen_by_model": false,
-   "selected": false
-  },
-  {
-   "id": "efcda77d59",
-   "source": "Bloomberg Markets",
-   "section": "economia",
-   "continent": "global",
-   "lang": "en",
-   "title": "Copper Steadies as Investors Weigh AI Slide Against China Demand",
-   "url": "https://www.bloomberg.com/news/articles/2026-10-26/copper-extends-drop-as-ai-stocks-weigh-ahead-of-fed-meeting",
-   "published": "2026-10-26T03:52:35+00:00",
-   "seen_by_model": false,
-   "selected": false
-  },
-  {
-   "id": "db8b52c920",
-   "source": "Bloomberg Markets",
-   "section": "economia",
-   "continent": "global",
-   "lang": "en",
-   "title": "Audi Splits Logos for China as Carmaker Fights to Revive Sales",
-   "url": "https://www.bloomberg.com/news/articles/2026-10-26/audi-splits-logos-for-china-as-carmaker-fights-to-revive-sales",
-   "published": "2026-10-26T09:41:48+00:00",
-   "seen_by_model": false,
-   "selected": false
-  },
-  {
-   "id": "a9da526d8e",
-   "source": "Bloomberg Markets",
-   "section": "economia",
-   "continent": "global",
-   "lang": "en",
-   "title": "AI Agents Seen Taking Credit Trading Work From Humans Over Time",
-   "url": "https://www.bloomberg.com/news/articles/2026-10-26/ai-agents-seen-taking-credit-trading-work-from-humans-over-time",
-   "published": "2026-10-26T09:30:00+00:00",
-   "seen_by_model": false,
-   "selected": false
-  },
-  {
-   "id": "5f42bc88d5",
-   "source": "Bloomberg Markets",
-   "section": "economia",
-   "continent": "global",
-   "lang": "en",
-   "title": "CoreWeave Rout Sends Warning Sign to Rest of the Stock Market",
-   "url": "https://www.bloomberg.com/news/articles/2026-10-26/coreweave-rout-sends-warning-sign-to-rest-of-the-stock-market",
-   "published": "2026-10-26T09:24:43+00:00",
    "seen_by_model": false,
    "selected": false
   },
@@ -892,7 +892,7 @@
    "url": "https://asia.nikkei.com/business/automobiles/japan-s-subaru-to-go-ev-only-in-europe-by-2028",
    "published": null,
    "seen_by_model": true,
-   "selected": false
+   "selected": true
   },
   {
    "id": "18b03fba32",
@@ -1180,7 +1180,7 @@
    "url": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr261026~bde7b6d11a.en.html",
    "published": "2026-10-26T09:00:00+00:00",
    "seen_by_model": true,
-   "selected": false
+   "selected": true
   },
   {
    "id": "4aa2eb3e52",
@@ -1191,6 +1191,18 @@
    "title": "Frank Elderson: Taking action for nature – investing in economic resilience and prosperity",
    "url": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp261026~d903d7ad85.en.html",
    "published": "2026-10-26T05:00:00+00:00",
+   "seen_by_model": true,
+   "selected": false
+  },
+  {
+   "id": "04067c96c7",
+   "source": "FT中文网",
+   "section": "economia",
+   "continent": "asia",
+   "lang": "zh",
+   "title": "嘲笑“老登”，中国车圈困在互联网思维里",
+   "url": "https://www.ftchinese.com/story/001111200",
+   "published": "2026-10-25T16:00:00+00:00",
    "seen_by_model": true,
    "selected": false
   },
@@ -1299,7 +1311,7 @@
    "title": "为特朗普卖命的司法部长，律师执照保得住吗？",
    "url": "https://www.ftchinese.com/story/001111197",
    "published": "2026-10-25T16:00:00+00:00",
-   "seen_by_model": true,
+   "seen_by_model": false,
    "selected": false
   },
   {
@@ -1622,7 +1634,7 @@
    "lang": "en",
    "title": "Celebrations in Serbia after veteran ruler Vučić loses election to student-led protest movement",
    "url": "https://www.bbc.co.uk/news/articles/cw5yn3xlprpmo?at_medium=RSS&at_campaign=rss",
-   "published": "2026-10-26T11:02:20+00:00",
+   "published": "2026-10-26T12:52:16+00:00",
    "seen_by_model": true,
    "selected": true
   },
@@ -1936,7 +1948,7 @@
    "url": "https://www.bbc.com/zhongwen/articles/cm4g13j5jg5ko/trad?at_medium=RSS&at_campaign=rss",
    "published": "2026-10-26T05:02:39+00:00",
    "seen_by_model": true,
-   "selected": false
+   "selected": true
   },
   {
    "id": "127ca1b340",
@@ -1960,7 +1972,7 @@
    "url": "https://www.bbc.com/zhongwen/articles/ckq6nvg7ny1yo/trad?at_medium=RSS&at_campaign=rss",
    "published": "2026-10-25T11:46:40+00:00",
    "seen_by_model": true,
-   "selected": false
+   "selected": true
   },
   {
    "id": "0b9ea94a4e",
@@ -2119,27 +2131,75 @@
    "selected": false
   },
   {
-   "id": "cb41da3e1f",
-   "source": "德國之聲中文",
+   "id": "2ada32eb0d",
+   "source": "中央社 CNA",
    "section": "politica",
-   "continent": "global",
+   "continent": "asia",
    "lang": "zh",
-   "title": "AI竞赛谁领先？半数商会选中国",
-   "url": "https://www.dw.com/zh/ai竞赛谁领先？半数商会选中国/a-79742384?maca=chi-rss-chi-all-1127-rdf",
-   "published": "2026-10-25T08:22:00+00:00",
+   "title": "俄羅斯稱不排除更多局部停火 但攻烏戰事不減緩",
+   "url": "https://www.cna.com.tw/news/aopl/202610260214.aspx",
+   "published": "2026-10-26T12:10:49+00:00",
    "seen_by_model": true,
    "selected": false
   },
   {
-   "id": "a3d21d3451",
-   "source": "德國之聲中文",
+   "id": "5216f41b06",
+   "source": "中央社 CNA",
    "section": "politica",
-   "continent": "global",
+   "continent": "asia",
    "lang": "zh",
-   "title": "假货涌入欧洲 四成来自中国",
-   "url": "https://www.dw.com/zh/假货涌入欧洲-四成来自中国/a-79732801?maca=chi-rss-chi-all-1127-rdf",
-   "published": "2026-10-25T08:19:00+00:00",
-   "seen_by_model": false,
+   "title": "阿聯外海油輪漏油汙染範圍擴大 多地海灘急關閉",
+   "url": "https://www.cna.com.tw/news/aopl/202610260206.aspx",
+   "published": "2026-10-26T11:20:31+00:00",
+   "seen_by_model": true,
+   "selected": false
+  },
+  {
+   "id": "af277d6a64",
+   "source": "中央社 CNA",
+   "section": "politica",
+   "continent": "asia",
+   "lang": "zh",
+   "title": "日本遭網攻經濟受擾 企業陸續提供用戶補償金",
+   "url": "https://www.cna.com.tw/news/aopl/202610260203.aspx",
+   "published": "2026-10-26T11:08:24+00:00",
+   "seen_by_model": true,
+   "selected": false
+  },
+  {
+   "id": "a2ba070755",
+   "source": "中央社 CNA",
+   "section": "politica",
+   "continent": "asia",
+   "lang": "zh",
+   "title": "路透：越南首座晶片廠難達明年試產目標 未敲定ASML設備採購",
+   "url": "https://www.cna.com.tw/news/aopl/202610260195.aspx",
+   "published": "2026-10-26T10:17:06+00:00",
+   "seen_by_model": true,
+   "selected": false
+  },
+  {
+   "id": "f2a64a26ef",
+   "source": "中央社 CNA",
+   "section": "politica",
+   "continent": "asia",
+   "lang": "zh",
+   "title": "沙烏地、巴基斯坦及土耳其代表赴伊朗會談 試圖避免中東戰火升級",
+   "url": "https://www.cna.com.tw/news/aopl/202610260190.aspx",
+   "published": "2026-10-26T09:50:55+00:00",
+   "seen_by_model": true,
+   "selected": true
+  },
+  {
+   "id": "2917c259e9",
+   "source": "中央社 CNA",
+   "section": "politica",
+   "continent": "asia",
+   "lang": "zh",
+   "title": "歐盟擋中國廉價電商品湧入再出招 11/1起對包裹加收處理費",
+   "url": "https://www.cna.com.tw/news/aopl/202610260188.aspx",
+   "published": "2026-10-26T09:45:51+00:00",
+   "seen_by_model": true,
    "selected": false
   },
   {
@@ -2187,7 +2247,7 @@
    "title": "以色列大選 艾森科特籲團結、尼坦雅胡獲川普支持",
    "url": "https://www.cna.com.tw/news/aopl/202610260160.aspx",
    "published": "2026-10-26T08:44:49+00:00",
-   "seen_by_model": true,
+   "seen_by_model": false,
    "selected": false
   },
   {
@@ -2199,7 +2259,7 @@
    "title": "韓國首爾應對萬聖節人潮 梨泰院、弘大等地加強管制",
    "url": "https://www.cna.com.tw/news/aopl/202610260159.aspx",
    "published": "2026-10-26T08:42:47+00:00",
-   "seen_by_model": true,
+   "seen_by_model": false,
    "selected": false
   },
   {
@@ -2211,8 +2271,8 @@
    "title": "CNN：美軍備妥大規模攻伊朗計畫 川普可能期中選舉後下令",
    "url": "https://www.cna.com.tw/news/aopl/202610260156.aspx",
    "published": "2026-10-26T08:21:38+00:00",
-   "seen_by_model": true,
-   "selected": true
+   "seen_by_model": false,
+   "selected": false
   },
   {
    "id": "3c63cc9dd5",
@@ -2223,8 +2283,8 @@
    "title": "期中選舉倒數 川普稱美加貿易協議可望近期敲定",
    "url": "https://www.cna.com.tw/news/aopl/202610260155.aspx",
    "published": "2026-10-26T08:10:36+00:00",
-   "seen_by_model": true,
-   "selected": true
+   "seen_by_model": false,
+   "selected": false
   },
   {
    "id": "49274ea1ca",
@@ -2235,7 +2295,7 @@
    "title": "菲律賓研議洽簽更多國際防務協定 促進集體安全",
    "url": "https://www.cna.com.tw/news/aopl/202610260154.aspx",
    "published": "2026-10-26T08:09:34+00:00",
-   "seen_by_model": true,
+   "seen_by_model": false,
    "selected": false
   },
   {
@@ -2247,7 +2307,7 @@
    "title": "日本將棋女流四冠西山朋佳 明年4月成首位女性職業棋士",
    "url": "https://www.cna.com.tw/news/aopl/202610260153.aspx",
    "published": "2026-10-26T08:06:31+00:00",
-   "seen_by_model": true,
+   "seen_by_model": false,
    "selected": false
   },
   {
@@ -2311,78 +2371,6 @@
    "selected": false
   },
   {
-   "id": "51b1533648",
-   "source": "中央社 CNA",
-   "section": "politica",
-   "continent": "asia",
-   "lang": "zh",
-   "title": "AI財富浪潮帶動美國慈善捐贈 資金流向備受關注",
-   "url": "https://www.cna.com.tw/news/aopl/202610260119.aspx",
-   "published": "2026-10-26T06:27:17+00:00",
-   "seen_by_model": false,
-   "selected": false
-  },
-  {
-   "id": "d26d708f5b",
-   "source": "中央社 CNA",
-   "section": "politica",
-   "continent": "asia",
-   "lang": "zh",
-   "title": "俄官員：APEC美俄中三方會談籌備已啟動 中國態度非常認真",
-   "url": "https://www.cna.com.tw/news/aopl/202610260115.aspx",
-   "published": "2026-10-26T06:09:08+00:00",
-   "seen_by_model": false,
-   "selected": false
-  },
-  {
-   "id": "0f8a50e602",
-   "source": "中央社 CNA",
-   "section": "politica",
-   "continent": "asia",
-   "lang": "zh",
-   "title": "日本前首相福田康夫享壽90歲 引退後仍致力改善日中關係",
-   "url": "https://www.cna.com.tw/news/aopl/202610260114.aspx",
-   "published": "2026-10-26T06:01:06+00:00",
-   "seen_by_model": false,
-   "selected": false
-  },
-  {
-   "id": "0bd9b53ac8",
-   "source": "中央社 CNA",
-   "section": "politica",
-   "continent": "asia",
-   "lang": "zh",
-   "title": "歷經逾40年規劃 西雪梨國際機場國際線啟航",
-   "url": "https://www.cna.com.tw/news/aopl/202610260112.aspx",
-   "published": "2026-10-26T05:51:02+00:00",
-   "seen_by_model": false,
-   "selected": false
-  },
-  {
-   "id": "e7344ec865",
-   "source": "中央社 CNA",
-   "section": "politica",
-   "continent": "asia",
-   "lang": "zh",
-   "title": "烏干達加強伊波拉防疫 曾赴剛果公民返國須隔離21天",
-   "url": "https://www.cna.com.tw/news/aopl/202610260111.aspx",
-   "published": "2026-10-26T05:48:00+00:00",
-   "seen_by_model": false,
-   "selected": false
-  },
-  {
-   "id": "f5b7fe295c",
-   "source": "中央社 CNA",
-   "section": "politica",
-   "continent": "asia",
-   "lang": "zh",
-   "title": "兩韓緊張升溫 北韓邊境罕見部署自走砲並致函聯合國",
-   "url": "https://www.cna.com.tw/news/aopl/202610260101.aspx",
-   "published": "2026-10-26T05:10:38+00:00",
-   "seen_by_model": false,
-   "selected": false
-  },
-  {
    "id": "7c5e755dd8",
    "source": "The Guardian World",
    "section": "politica",
@@ -2426,7 +2414,7 @@
    "lang": "en",
    "title": "Brazil runoff live updates: world leaders congratulate Lula on historic election win as Bolsonaro refuses to concede",
    "url": "https://www.theguardian.com/world/live/2026/oct/25/brazil-election-runoff-live-updates-flavio-bolsonaro-lula",
-   "published": "2026-10-26T11:37:13+00:00",
+   "published": "2026-10-26T12:44:30+00:00",
    "seen_by_model": true,
    "selected": false
   },
@@ -2582,7 +2570,7 @@
    "lang": "en",
    "title": "Serbia wakes up to new reality after student-led movement ousts Vučić – Europe live",
    "url": "https://www.theguardian.com/world/live/2026/oct/26/serbia-vucic-elections-students-bulgaria-france-urkaine-russia-latest-news-updates",
-   "published": "2026-10-26T11:59:20+00:00",
+   "published": "2026-10-26T12:31:13+00:00",
    "seen_by_model": false,
    "selected": false
   },
@@ -2659,6 +2647,18 @@
    "selected": false
   },
   {
+   "id": "f9a74a7017",
+   "source": "The Guardian World",
+   "section": "politica",
+   "continent": "global",
+   "lang": "en",
+   "title": "Chris Brown given suspended sentence over bottle attack at London club",
+   "url": "https://www.theguardian.com/music/2026/oct/26/chris-brown-suspended-sentence-bottle-attack-london-club",
+   "published": "2026-10-26T12:28:24+00:00",
+   "seen_by_model": false,
+   "selected": false
+  },
+  {
    "id": "4333ea843d",
    "source": "The Guardian World",
    "section": "politica",
@@ -2666,19 +2666,7 @@
    "lang": "en",
    "title": "I would like to rejoin EU, says Burnham, but ‘British public are the bosses’ – UK politics live",
    "url": "https://www.theguardian.com/politics/live/2026/oct/26/andy-burnham-labour-brexit-eu-homelessness-immigration-budget-rosebank-reform-latest-news-updates",
-   "published": "2026-10-26T11:34:00+00:00",
-   "seen_by_model": false,
-   "selected": false
-  },
-  {
-   "id": "2ec06ddd56",
-   "source": "The Guardian World",
-   "section": "politica",
-   "continent": "global",
-   "lang": "en",
-   "title": "About 90,000 properties still without power after two storms strike Britain",
-   "url": "https://www.theguardian.com/uk-news/2026/oct/26/power-cuts-storm-boelo-austen-uk",
-   "published": "2026-10-26T11:09:13+00:00",
+   "published": "2026-10-26T12:13:42+00:00",
    "seen_by_model": false,
    "selected": false
   },
@@ -2872,7 +2860,7 @@
    "url": "https://www.lemonde.fr/en/international/article/2026/10/26/bulgaria-heads-to-presidential-runoff-after-low-turnout_6764452_4.html",
    "published": "2026-10-26T10:02:04+00:00",
    "seen_by_model": true,
-   "selected": true
+   "selected": false
   },
   {
    "id": "a1a11925b5",
@@ -3475,6 +3463,18 @@
    "selected": false
   },
   {
+   "id": "45fd0f8537",
+   "source": "Channel NewsAsia",
+   "section": "politica",
+   "continent": "asia",
+   "lang": "en",
+   "title": "Atkinson replaces injured Smith in England training squad",
+   "url": "https://www.channelnewsasia.com/sport/atkinson-replaces-injured-smith-in-england-training-squad-6493246",
+   "published": "2026-10-26T12:48:19+00:00",
+   "seen_by_model": true,
+   "selected": false
+  },
+  {
    "id": "1efd2fb444",
    "source": "Channel NewsAsia",
    "section": "politica",
@@ -3579,7 +3579,7 @@
    "title": "South Africa make one change for series decider against Australia",
    "url": "https://www.channelnewsasia.com/sport/south-africa-make-one-change-series-decider-against-australia-6492916",
    "published": "2026-10-26T11:03:33+00:00",
-   "seen_by_model": true,
+   "seen_by_model": false,
    "selected": false
   },
   {
@@ -3703,15 +3703,15 @@
    "selected": false
   },
   {
-   "id": "45ddb39e03",
-   "source": "Channel NewsAsia",
+   "id": "f84c5bdb8e",
+   "source": "South China Morning Post (China)",
    "section": "politica",
    "continent": "asia",
    "lang": "en",
-   "title": "Meiji Yasuda to lift Man Group private credit commitment to $1.3 billion",
-   "url": "https://www.channelnewsasia.com/business/meiji-yasuda-lift-man-group-private-credit-commitment-13-billion-6492511",
-   "published": "2026-10-26T07:36:43+00:00",
-   "seen_by_model": false,
+   "title": "Death of former PM Yasuo Fukuda leaves void in fraught China-Japan relations",
+   "url": "https://www.scmp.com/news/china/diplomacy/article/3372192/death-former-pm-yasuo-fukuda-leaves-void-fraught-china-japan-relations",
+   "published": "2026-10-26T12:20:20+00:00",
+   "seen_by_model": true,
    "selected": false
   },
   {
@@ -3819,7 +3819,7 @@
    "title": "Eye on China: Japan reopens taboo debate over nuclear-powered submarines",
    "url": "https://www.scmp.com/news/china/military/article/3372066/eye-china-japan-reopens-taboo-debate-over-nuclear-powered-submarines",
    "published": "2026-10-25T14:00:10+00:00",
-   "seen_by_model": true,
+   "seen_by_model": false,
    "selected": false
   },
   {
@@ -3856,6 +3856,42 @@
    "url": "https://www.scmp.com/news/china/politics/article/3372064/how-chinas-regional-leadership-changes-offer-clues-future-communist-party",
    "published": "2026-10-25T10:00:08+00:00",
    "seen_by_model": false,
+   "selected": false
+  },
+  {
+   "id": "1b6b5a014a",
+   "source": "South China Morning Post (Asia)",
+   "section": "politica",
+   "continent": "asia",
+   "lang": "en",
+   "title": "US singer Chris Brown avoids jail after guilty plea in UK nightclub incident",
+   "url": "https://www.scmp.com/news/world/europe/article/3372197/us-singer-chris-brown-avoids-jail-after-guilty-plea-uk-nightclub-incident",
+   "published": "2026-10-26T12:48:25+00:00",
+   "seen_by_model": true,
+   "selected": false
+  },
+  {
+   "id": "15cb01770f",
+   "source": "South China Morning Post (Asia)",
+   "section": "politica",
+   "continent": "asia",
+   "lang": "en",
+   "title": "Singaporean woman admits to conspiring to abuse Megan Khung, helping dispose of her body",
+   "url": "https://www.scmp.com/week-asia/people/article/3372195/singaporean-woman-admits-conspiring-abuse-megan-khung-disposing-her-body",
+   "published": "2026-10-26T12:40:38+00:00",
+   "seen_by_model": true,
+   "selected": false
+  },
+  {
+   "id": "2237a8c94c",
+   "source": "South China Morning Post (Asia)",
+   "section": "politica",
+   "continent": "asia",
+   "lang": "en",
+   "title": "Europe can still shape the rules of AI",
+   "url": "https://www.scmp.com/opinion/world-opinion/article/3372104/europe-can-still-shape-rules-ai",
+   "published": "2026-10-26T12:30:06+00:00",
+   "seen_by_model": true,
    "selected": false
   },
   {
@@ -3939,7 +3975,7 @@
    "title": "Why China’s heritage-listed Dog-Carrying Festival honours canines as sacred lifesavers",
    "url": "https://www.scmp.com/news/people-culture/trending-china/article/3372156/why-chinas-heritage-listed-dog-carrying-festival-honours-canines-sacred-lifesavers",
    "published": "2026-10-26T10:00:14+00:00",
-   "seen_by_model": true,
+   "seen_by_model": false,
    "selected": false
   },
   {
@@ -3951,7 +3987,7 @@
    "title": "Kweichow Moutai Becomes Premier Partner of the Hong Kong Open 2026, Deepening Its Global Presence",
    "url": "https://www.scmp.com/presented/news/hong-kong/topics/moutai-premier-partner-hk-open/article/3371944/kweichow-moutai-becomes-premier-partner-hong-kong-open-2026-deepening-its-global-presence",
    "published": "2026-10-26T09:50:47+00:00",
-   "seen_by_model": true,
+   "seen_by_model": false,
    "selected": false
   },
   {
@@ -3963,7 +3999,7 @@
    "title": "The Weeknd’s ‘Hong Kong’ captures nostalgia for bygone era, video director says",
    "url": "https://www.scmp.com/news/hong-kong/hong-kong-economy/article/3372168/weeknds-hong-kong-captures-nostalgia-bygone-era-video-director-says",
    "published": "2026-10-26T09:12:48+00:00",
-   "seen_by_model": true,
+   "seen_by_model": false,
    "selected": false
   },
   {
@@ -4075,51 +4111,51 @@
    "selected": false
   },
   {
-   "id": "56ed4838cb",
-   "source": "South China Morning Post (Asia)",
+   "id": "02e206a487",
+   "source": "Al Jazeera English",
    "section": "politica",
-   "continent": "asia",
+   "continent": "global",
    "lang": "en",
-   "title": "Top bankers to gather in Hong Kong to learn how city has rethought ‘playbook’",
-   "url": "https://www.scmp.com/business/banking-finance/article/3372140/top-bankers-gather-hong-kong-learn-how-city-has-been-rethinking-playbook",
-   "published": "2026-10-26T07:00:14+00:00",
-   "seen_by_model": false,
+   "title": "Key takeaways from Real Madrid’s El Clasico win over Barcelona",
+   "url": "https://www.aljazeera.com/sports/2026/10/26/real-madrid-barcelona-el-clasico-mourinho-mbappe-takeaways?traffic_source=rss",
+   "published": "2026-10-26T12:23:44+00:00",
+   "seen_by_model": true,
    "selected": false
   },
   {
-   "id": "1bed74051a",
-   "source": "South China Morning Post (Asia)",
+   "id": "08da361849",
+   "source": "Al Jazeera English",
    "section": "politica",
-   "continent": "asia",
+   "continent": "global",
    "lang": "en",
-   "title": "South Korea urged to guard chip profitability as China’s CXMT and YMTC gain market share",
-   "url": "https://www.scmp.com/tech/tech-war/article/3372138/south-korea-urged-guard-chip-profitability-chinas-cxmt-and-ymtc-gain-market-share",
-   "published": "2026-10-26T07:00:09+00:00",
-   "seen_by_model": false,
+   "title": "Manchester United crisis: What are the top five problems facing the club?",
+   "url": "https://www.aljazeera.com/sports/2026/10/26/manchester-united-crisis-what-are-the-top-five-problems-facing-the-club?traffic_source=rss",
+   "published": "2026-10-26T12:18:12+00:00",
+   "seen_by_model": true,
    "selected": false
   },
   {
-   "id": "c007113d32",
-   "source": "South China Morning Post (Asia)",
+   "id": "d59fc7e155",
+   "source": "Al Jazeera English",
    "section": "politica",
-   "continent": "asia",
+   "continent": "global",
    "lang": "en",
-   "title": "Suspected murder of man at Malaysian underground gig raises safety concerns",
-   "url": "https://www.scmp.com/week-asia/lifestyle-culture/article/3372143/suspected-murder-man-malaysian-underground-gig-raises-safety-concerns",
-   "published": "2026-10-26T06:53:49+00:00",
-   "seen_by_model": false,
+   "title": "Israeli forces kill at least five people in Gaza, including 7-year-old girl",
+   "url": "https://www.aljazeera.com/news/2026/10/26/israeli-forces-kill-at-least-five-people-in-gaza-including-7-year-old-girl?traffic_source=rss",
+   "published": "2026-10-26T12:17:02+00:00",
+   "seen_by_model": true,
    "selected": false
   },
   {
-   "id": "2a82dc2fab",
-   "source": "South China Morning Post (Asia)",
+   "id": "505a881765",
+   "source": "Al Jazeera English",
    "section": "politica",
-   "continent": "asia",
+   "continent": "global",
    "lang": "en",
-   "title": "Former Japanese prime minister Yasuo Fukuda, known for seeking China ties, dies at 90",
-   "url": "https://www.scmp.com/news/asia/east-asia/article/3372141/former-japanese-prime-minister-yasuo-fukuda-known-seeking-china-ties-dies-90",
-   "published": "2026-10-26T06:37:40+00:00",
-   "seen_by_model": false,
+   "title": "Shadab Khan’s record-breaking innings gives Pakistan ODI win over England",
+   "url": "https://www.aljazeera.com/sports/2026/10/26/shadab-khans-record-breaking-innings-gives-pakistan-odi-win-over-england?traffic_source=rss",
+   "published": "2026-10-26T12:11:59+00:00",
+   "seen_by_model": true,
    "selected": false
   },
   {
@@ -4191,7 +4227,7 @@
    "title": "If Netanyahu loses, what changes for Palestinians?",
    "url": "https://www.aljazeera.com/video/by-the-numbers-3/2026/10/26/if-netanyahu-loses-what-changes-for-palestinians?traffic_source=rss",
    "published": "2026-10-26T10:16:39+00:00",
-   "seen_by_model": true,
+   "seen_by_model": false,
    "selected": false
   },
   {
@@ -4203,7 +4239,7 @@
    "title": "Thousands greet opposition leader Maria Machado upon return to Caracas",
    "url": "https://www.aljazeera.com/video/newsfeed/2026/10/26/thousands-greet-opposition-leader-maria-machado-upon-return-to-caracas?traffic_source=rss",
    "published": "2026-10-26T10:14:26+00:00",
-   "seen_by_model": true,
+   "seen_by_model": false,
    "selected": false
   },
   {
@@ -4215,7 +4251,7 @@
    "title": "Saudi Arabia confirms January start for Asian Cup 2027 despite attacks",
    "url": "https://www.aljazeera.com/sports/2026/10/26/saudi-arabia-confirms-january-start-for-asian-cup-2027-despite-attacks?traffic_source=rss",
    "published": "2026-10-26T09:52:58+00:00",
-   "seen_by_model": true,
+   "seen_by_model": false,
    "selected": false
   },
   {
@@ -4227,7 +4263,7 @@
    "title": "Algeria’s military deployment to Niger: What’s behind the move?",
    "url": "https://www.aljazeera.com/news/2026/10/26/algerias-military-deployment-to-niger-whats-behind-the-move?traffic_source=rss",
    "published": "2026-10-26T09:52:11+00:00",
-   "seen_by_model": true,
+   "seen_by_model": false,
    "selected": false
   },
   {
@@ -4375,51 +4411,15 @@
    "selected": false
   },
   {
-   "id": "d367b7d71a",
-   "source": "Al Jazeera English",
-   "section": "politica",
-   "continent": "global",
+   "id": "9ffa0ff77a",
+   "source": "Ars Technica",
+   "section": "tecnologia",
+   "continent": "america",
    "lang": "en",
-   "title": "Dakar Rally 2027 moved out of Saudi Arabia amid conflict in Middle East",
-   "url": "https://www.aljazeera.com/sports/2026/10/26/dakar-rally-2027-moved-out-of-saudi-arabia-amid-conflict-in-middle-east?traffic_source=rss",
-   "published": "2026-10-26T06:29:10+00:00",
-   "seen_by_model": false,
-   "selected": false
-  },
-  {
-   "id": "3084ac86d4",
-   "source": "Al Jazeera English",
-   "section": "politica",
-   "continent": "global",
-   "lang": "en",
-   "title": "The French government is hiding behind a ‘riots’ narrative",
-   "url": "https://www.aljazeera.com/opinions/2026/10/26/the-french-government-is-hiding-behind-a-riots-narrative?traffic_source=rss",
-   "published": "2026-10-26T05:56:04+00:00",
-   "seen_by_model": false,
-   "selected": false
-  },
-  {
-   "id": "41f94125c4",
-   "source": "Al Jazeera English",
-   "section": "politica",
-   "continent": "global",
-   "lang": "en",
-   "title": "China’s political elite gather for talks on Communist Party discipline",
-   "url": "https://www.aljazeera.com/news/2026/10/26/chinas-political-elite-gather-for-talks-on-communist-party-discipline?traffic_source=rss",
-   "published": "2026-10-26T05:38:41+00:00",
-   "seen_by_model": false,
-   "selected": false
-  },
-  {
-   "id": "31d7afd6c4",
-   "source": "Al Jazeera English",
-   "section": "politica",
-   "continent": "global",
-   "lang": "en",
-   "title": "Aleksandar Vucic, the Serbian leader brought down by students",
-   "url": "https://www.aljazeera.com/news/2026/10/26/aleksandar-vucic-the-serbian-leader-brought-down-by-students?traffic_source=rss",
-   "published": "2026-10-26T05:24:59+00:00",
-   "seen_by_model": false,
+   "title": "From impulse purchase to pocket studio: The M-Vave FM-1",
+   "url": "https://arstechnica.com/gadgets/2026/10/from-impulse-purchase-to-pocket-studio-the-m-vave-fm-1/",
+   "published": "2026-10-26T11:00:15+00:00",
+   "seen_by_model": true,
    "selected": false
   },
   {
@@ -4552,7 +4552,7 @@
    "url": "https://techcrunch.com/2026/10/25/grok-releases-the-first-seven-minutes-of-its-ai-generated-odyssey/",
    "published": "2026-10-25T21:31:16+00:00",
    "seen_by_model": true,
-   "selected": false
+   "selected": true
   },
   {
    "id": "960d568650",
@@ -4576,7 +4576,7 @@
    "url": "https://techcrunch.com/2026/10/25/ai-delivers-zero-financial-payoff-to-most-companies-according-to-apollo-economist/",
    "published": "2026-10-25T16:57:32+00:00",
    "seen_by_model": true,
-   "selected": true
+   "selected": false
   },
   {
    "id": "ee35149691",
@@ -4708,7 +4708,7 @@
    "url": "https://www.wired.com/story/scientists-trapped-an-antimatter-particle-for-months-to-study-its-secrets/",
    "published": "2026-10-25T12:00:00+00:00",
    "seen_by_model": true,
-   "selected": false
+   "selected": true
   },
   {
    "id": "1b8933cc3f",
@@ -4792,6 +4792,30 @@
    "url": "https://www.wired.com/story/we-linked-150-ikea-speakers-to-make-a-wall-of-sound/",
    "published": "2026-10-25T09:00:00+00:00",
    "seen_by_model": false,
+   "selected": false
+  },
+  {
+   "id": "9630e73fdc",
+   "source": "Xataka",
+   "section": "tecnologia",
+   "continent": "europa",
+   "lang": "es",
+   "title": "La idea in extremis del Gobierno para los alquileres: que los caseros avisen del fin de los contratos con seis meses de antelación",
+   "url": "https://www.xataka.com/magnet/idea-in-extremis-gobierno-para-alquileres-que-caseros-avisen-fin-contratos-seis-meses-antelacion",
+   "published": "2026-10-26T12:35:32+00:00",
+   "seen_by_model": true,
+   "selected": false
+  },
+  {
+   "id": "e268f7c0e0",
+   "source": "Xataka",
+   "section": "tecnologia",
+   "continent": "europa",
+   "lang": "es",
+   "title": "Tras gastar cientos de miles de millones de dólares en tarjetas de Nvidia, los hiperescaladores tienen la mitad guardadas en cajas",
+   "url": "https://www.xataka.com/empresas-y-economia/gastar-cientos-miles-millones-dolares-tarjetas-nvidia-hiperescaladores-tienen-mitad-guardadas-cajas",
+   "published": "2026-10-26T12:33:25+00:00",
+   "seen_by_model": true,
    "selected": false
   },
   {
@@ -4887,7 +4911,7 @@
    "title": "Action tiene la solución (por menos de 10 euros) para poder tener organizado tu escritorio",
    "url": "https://www.xataka.com/seleccion/action-tiene-solucion-10-euros-para-poder-tener-organizado-tu-escritorio",
    "published": "2026-10-26T10:03:29+00:00",
-   "seen_by_model": true,
+   "seen_by_model": false,
    "selected": false
   },
   {
@@ -4899,7 +4923,7 @@
    "title": "Ofertas en reacondicionados de MediaMarkt con grandes descuentos en el Samsung Galaxy S26 de 512 GB, en televisores, monitores y más",
    "url": "https://www.xataka.com/seleccion/ofertas-reacondicionados-mediamarkt-grandes-descuentos-samsung-galaxy-s26-512-gb-televisores-monitores",
    "published": "2026-10-26T09:15:29+00:00",
-   "seen_by_model": true,
+   "seen_by_model": false,
    "selected": false
   },
   {
@@ -5067,30 +5091,6 @@
    "title": "Llevamos años viendo como los viñedos españoles desaparecen sin que podamos hacer nada. Ha llegado el turno de la ingeniería genética",
    "url": "https://www.xataka.com/ecologia-y-naturaleza/llevamos-anos-viendo-como-vinedos-espanoles-desaparecen-que-podamos-hacer-nada-ha-llegado-turno-ingenieria-genetica",
    "published": "2026-10-25T16:00:11+00:00",
-   "seen_by_model": false,
-   "selected": false
-  },
-  {
-   "id": "26823cdf77",
-   "source": "Xataka",
-   "section": "tecnologia",
-   "continent": "europa",
-   "lang": "es",
-   "title": "El 'boom' de la solar tiene un efecto inesperado: la electricidad barata amenaza la rentabilidad de los nuevos parques",
-   "url": "https://www.xataka.com/energia/boom-solar-tiene-efecto-inesperado-electricidad-barata-amenaza-rentabilidad-nuevos-parques",
-   "published": "2026-10-25T15:32:07+00:00",
-   "seen_by_model": false,
-   "selected": false
-  },
-  {
-   "id": "94bf1e50bd",
-   "source": "Xataka",
-   "section": "tecnologia",
-   "continent": "europa",
-   "lang": "es",
-   "title": "MrBeast sigue creciendo al margen de Youtube: ahora, con una pelota que se inventa con IA sus propios juegos",
-   "url": "https://www.xataka.com/literatura-comics-y-juegos/nuevo-mrbeast-apoyar-cuarto-millon-dolares-bola-inteligente-controlada-ia",
-   "published": "2026-10-25T15:00:00+00:00",
    "seen_by_model": false,
    "selected": false
   },
