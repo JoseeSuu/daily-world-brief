@@ -2,4 +2,5 @@ feedparser>=6.0
 PyYAML>=6.0
 requests>=2.31
 anthropic>=0.100
+opencc-python-reimplemented==0.1.7
 pytest>=8.0
