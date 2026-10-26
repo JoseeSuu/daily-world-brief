@@ -1,7 +1,7 @@
 {
  "date": "2026-10-26",
- "collected_at": "2026-10-26T12:01:23.106523+00:00",
- "total": 453,
+ "collected_at": "2026-10-26T12:13:55.692225+00:00",
+ "total": 458,
  "seen_by_model": 250,
  "selected": 37,
  "failed_sources": [],
@@ -86,7 +86,7 @@
    "lang": "en",
    "title": "Meta plans $95bn stock offering to bankroll AI expansion",
    "url": "https://www.ft.com/content/94e5a0ae-874d-447a-bbfc-cd465a1a7555?syn-25a6b1a6=1",
-   "published": "2026-10-26T11:15:50+00:00",
+   "published": "2026-10-26T11:58:00+00:00",
    "seen_by_model": true,
    "selected": true
   },
@@ -100,7 +100,7 @@
    "url": "https://www.ft.com/content/97a60042-f7b6-4c87-9387-8572968a7de0?syn-25a6b1a6=1",
    "published": "2026-10-26T07:28:34+00:00",
    "seen_by_model": true,
-   "selected": true
+   "selected": false
   },
   {
    "id": "e602605fd5",
@@ -112,7 +112,7 @@
    "url": "https://www.ft.com/content/7f6943d3-b089-49a7-a0bc-a6f677c09802?syn-25a6b1a6=1",
    "published": "2026-10-26T09:33:47+00:00",
    "seen_by_model": true,
-   "selected": false
+   "selected": true
   },
   {
    "id": "b0831d8b44",
@@ -235,6 +235,30 @@
    "selected": true
   },
   {
+   "id": "3dce877d1e",
+   "source": "Bloomberg Economics",
+   "section": "economia",
+   "continent": "global",
+   "lang": "en",
+   "title": "UK Firms Optimistic Healey Will Remove Energy Bill Levies",
+   "url": "https://www.bloomberg.com/news/articles/2026-10-25/uk-firms-optimistic-healey-will-remove-levies-from-energy-bills",
+   "published": "2026-10-25T23:04:09+00:00",
+   "seen_by_model": true,
+   "selected": false
+  },
+  {
+   "id": "74170627eb",
+   "source": "Bloomberg Economics",
+   "section": "economia",
+   "continent": "global",
+   "lang": "en",
+   "title": "Trump’s tariff salesman and election politics of trade",
+   "url": "https://www.bloomberg.com/news/newsletters/2026-10-26/trump-s-tariff-salesman-and-election-politics-of-trade",
+   "published": "2026-10-26T12:00:01+00:00",
+   "seen_by_model": true,
+   "selected": false
+  },
+  {
    "id": "e69b42b6e8",
    "source": "Bloomberg Economics",
    "section": "economia",
@@ -339,7 +363,7 @@
    "title": "BOE Officials Most Hawkish Since Inflation Was 10%, Model Shows",
    "url": "https://www.bloomberg.com/news/articles/2026-10-26/boe-officials-most-hawkish-since-inflation-was-10-model-shows",
    "published": "2026-10-26T05:00:00+00:00",
-   "seen_by_model": true,
+   "seen_by_model": false,
    "selected": false
   },
   {
@@ -351,8 +375,8 @@
    "title": "Thailand Imports Surge at Record Pace on AI, Energy Demand",
    "url": "https://www.bloomberg.com/news/articles/2026-10-26/thailand-imports-surge-at-record-pace-on-ai-energy-demand",
    "published": "2026-10-26T03:58:35+00:00",
-   "seen_by_model": true,
-   "selected": true
+   "seen_by_model": false,
+   "selected": false
   },
   {
    "id": "3c06a718d0",
@@ -363,18 +387,6 @@
    "title": "RBA Warns Retirement Wave Will Test Australian Pension Funds",
    "url": "https://www.bloomberg.com/news/articles/2026-10-25/rba-warns-retirement-wave-will-test-australian-pension-funds",
    "published": "2026-10-25T23:52:07+00:00",
-   "seen_by_model": false,
-   "selected": false
-  },
-  {
-   "id": "3dce877d1e",
-   "source": "Bloomberg Economics",
-   "section": "economia",
-   "continent": "global",
-   "lang": "en",
-   "title": "UK Firms Optimistic Healey Will Remove Levies From Energy Bills",
-   "url": "https://www.bloomberg.com/news/articles/2026-10-25/uk-firms-optimistic-healey-will-remove-levies-from-energy-bills",
-   "published": "2026-10-25T23:04:09+00:00",
    "seen_by_model": false,
    "selected": false
   },
@@ -413,6 +425,42 @@
    "published": "2026-10-25T15:00:00+00:00",
    "seen_by_model": false,
    "selected": false
+  },
+  {
+   "id": "0113200875",
+   "source": "Bloomberg Markets",
+   "section": "economia",
+   "continent": "global",
+   "lang": "en",
+   "title": "HSBC’s Max Kettner Ends Bullish Stocks Call Ahead of Midterms",
+   "url": "https://www.bloomberg.com/news/articles/2026-10-26/hsbc-s-max-kettner-ends-bullish-stocks-call-ahead-of-midterms",
+   "published": "2026-10-26T12:07:31+00:00",
+   "seen_by_model": true,
+   "selected": false
+  },
+  {
+   "id": "a0232a3268",
+   "source": "Bloomberg Markets",
+   "section": "economia",
+   "continent": "global",
+   "lang": "en",
+   "title": "Anthropic Is Said to Plan Public Filing for Mega-IPO Monday",
+   "url": "https://www.bloomberg.com/news/articles/2026-10-26/anthropic-is-said-to-plan-public-filing-for-mega-ipo-monday",
+   "published": "2026-10-26T11:53:38+00:00",
+   "seen_by_model": true,
+   "selected": true
+  },
+  {
+   "id": "dae43dbf0d",
+   "source": "Bloomberg Markets",
+   "section": "economia",
+   "continent": "global",
+   "lang": "en",
+   "title": "Apollo to Buy Nearly 10% Stake in Mubadala Capital, CNBC Reports",
+   "url": "https://www.bloomberg.com/news/articles/2026-10-26/apollo-to-buy-nearly-10-stake-in-mubadala-capital-cnbc-reports",
+   "published": "2026-10-26T11:49:19+00:00",
+   "seen_by_model": true,
+   "selected": true
   },
   {
    "id": "bbaf0e8eaa",
@@ -495,7 +543,7 @@
    "title": "Lula Upset Jolts Brazil as Broader Emerging Markets Hold Steady",
    "url": "https://www.bloomberg.com/news/articles/2026-10-26/em-stocks-fall-before-key-earnings-brazil-in-focus-as-lula-wins",
    "published": "2026-10-26T03:53:33+00:00",
-   "seen_by_model": true,
+   "seen_by_model": false,
    "selected": false
   },
   {
@@ -507,7 +555,7 @@
    "title": "Lula gana en Brasil; Bolsonaro pide anular el balotaje",
    "url": "https://www.bloomberg.com/news/videos/2026-10-26/lula-gana-en-brasil-bolsonaro-pide-anular-el-balotaje-video",
    "published": "2026-10-26T10:44:03+00:00",
-   "seen_by_model": true,
+   "seen_by_model": false,
    "selected": false
   },
   {
@@ -519,7 +567,7 @@
    "title": "Latest Oil Market News and Analysis for Oct. 26",
    "url": "https://www.bloomberg.com/news/articles/2026-10-25/latest-oil-market-news-and-analysis-for-oct-26",
    "published": "2026-10-25T22:04:00+00:00",
-   "seen_by_model": true,
+   "seen_by_model": false,
    "selected": false
   },
   {
@@ -571,18 +619,6 @@
    "selected": false
   },
   {
-   "id": "404030bc46",
-   "source": "Bloomberg Markets",
-   "section": "economia",
-   "continent": "global",
-   "lang": "en",
-   "title": "Genmab Soars as Cancer Drug Impresses in a Late-Stage Trial",
-   "url": "https://www.bloomberg.com/news/articles/2026-10-26/genmab-soars-as-cancer-drug-impresses-in-a-late-stage-trial",
-   "published": "2026-10-26T10:01:05+00:00",
-   "seen_by_model": false,
-   "selected": false
-  },
-  {
    "id": "efcda77d59",
    "source": "Bloomberg Markets",
    "section": "economia",
@@ -627,30 +663,6 @@
    "title": "CoreWeave Rout Sends Warning Sign to Rest of the Stock Market",
    "url": "https://www.bloomberg.com/news/articles/2026-10-26/coreweave-rout-sends-warning-sign-to-rest-of-the-stock-market",
    "published": "2026-10-26T09:24:43+00:00",
-   "seen_by_model": false,
-   "selected": false
-  },
-  {
-   "id": "e31384bb79",
-   "source": "Bloomberg Markets",
-   "section": "economia",
-   "continent": "global",
-   "lang": "en",
-   "title": "Turkey Raises Qualified-Investor Bar Fivefold After Fund Rout",
-   "url": "https://www.bloomberg.com/news/articles/2026-10-26/turkey-raises-qualified-investor-bar-fivefold-after-fund-rout",
-   "published": "2026-10-26T09:19:02+00:00",
-   "seen_by_model": false,
-   "selected": false
-  },
-  {
-   "id": "60d432f992",
-   "source": "Bloomberg Markets",
-   "section": "economia",
-   "continent": "global",
-   "lang": "en",
-   "title": "India Opposition Leader Gandhi Acquitted in Defamation Case",
-   "url": "https://www.bloomberg.com/news/articles/2026-10-26/india-s-opposition-leader-gandhi-acquitted-in-defamation-case",
-   "published": "2026-10-26T07:17:56+00:00",
    "seen_by_model": false,
    "selected": false
   },
@@ -727,6 +739,18 @@
    "selected": false
   },
   {
+   "id": "5f71d984f5",
+   "source": "El País Economía",
+   "section": "economia",
+   "continent": "europa",
+   "lang": "es",
+   "title": "Renta fija, el giro que pocos esperaban",
+   "url": "https://cincodias.elpais.com/fondos-y-planes/2026-10-26/renta-fija-el-giro-que-pocos-esperaban.html",
+   "published": "2026-10-26T04:25:00+00:00",
+   "seen_by_model": true,
+   "selected": false
+  },
+  {
    "id": "655331f9d5",
    "source": "El País Economía",
    "section": "economia",
@@ -759,7 +783,7 @@
    "title": "La industria pone coto a completar el salario a los trabajadores de baja: así lucha el metal contra el absentismo",
    "url": "https://elpais.com/economia/2026-10-25/la-industria-pone-coto-a-completar-el-salario-a-los-trabajadores-de-baja-asi-lucha-el-metal-contra-el-absentismo.html",
    "published": "2026-10-25T17:25:37+00:00",
-   "seen_by_model": true,
+   "seen_by_model": false,
    "selected": false
   },
   {
@@ -904,7 +928,7 @@
    "url": "https://asia.nikkei.com/video/why-is-japan-tightening-its-immigration-rules",
    "published": null,
    "seen_by_model": true,
-   "selected": false
+   "selected": true
   },
   {
    "id": "6b074e814d",
@@ -1171,6 +1195,54 @@
    "selected": false
   },
   {
+   "id": "dbb7a34490",
+   "source": "FT中文网",
+   "section": "economia",
+   "continent": "asia",
+   "lang": "zh",
+   "title": "中国的关键矿产优势在全链条而非资源武器化",
+   "url": "https://www.ftchinese.com/story/001111188",
+   "published": "2026-10-25T16:00:00+00:00",
+   "seen_by_model": true,
+   "selected": false
+  },
+  {
+   "id": "4801cf07e5",
+   "source": "FT中文网",
+   "section": "economia",
+   "continent": "asia",
+   "lang": "zh",
+   "title": "泡沫破灭后，投资人如何应对未来？",
+   "url": "https://www.ftchinese.com/story/001111183",
+   "published": "2026-10-25T16:00:00+00:00",
+   "seen_by_model": true,
+   "selected": false
+  },
+  {
+   "id": "56e9e69ff2",
+   "source": "FT中文网",
+   "section": "economia",
+   "continent": "asia",
+   "lang": "zh",
+   "title": "AI能否让资本看得更长远？",
+   "url": "https://www.ftchinese.com/story/001111184",
+   "published": "2026-10-25T16:00:00+00:00",
+   "seen_by_model": true,
+   "selected": false
+  },
+  {
+   "id": "1abca7b457",
+   "source": "FT中文网",
+   "section": "economia",
+   "continent": "asia",
+   "lang": "zh",
+   "title": "A股风急，耐心何寄：短期急跌与长期回报的困境",
+   "url": "https://www.ftchinese.com/story/001111194",
+   "published": "2026-10-25T16:00:00+00:00",
+   "seen_by_model": true,
+   "selected": false
+  },
+  {
    "id": "5b1676c69d",
    "source": "FT中文网",
    "section": "economia",
@@ -1239,7 +1311,7 @@
    "title": "“定制婴儿”初创公司挑战生物技术禁区",
    "url": "https://www.ftchinese.com/story/001111193",
    "published": "2026-10-25T16:00:00+00:00",
-   "seen_by_model": true,
+   "seen_by_model": false,
    "selected": false
   },
   {
@@ -1251,7 +1323,7 @@
    "title": "曼努埃尔：未来十年至关重要，深刻变革此后可期",
    "url": "https://www.ftchinese.com/story/001111192",
    "published": "2026-10-25T16:00:00+00:00",
-   "seen_by_model": true,
+   "seen_by_model": false,
    "selected": false
   },
   {
@@ -1263,7 +1335,7 @@
    "title": "K型经济下的房地产",
    "url": "https://www.ftchinese.com/story/001111182",
    "published": "2026-10-25T16:00:00+00:00",
-   "seen_by_model": true,
+   "seen_by_model": false,
    "selected": false
   },
   {
@@ -1275,7 +1347,7 @@
    "title": "乌克兰证实星链限制已被解除",
    "url": "https://www.ftchinese.com/story/001111191",
    "published": "2026-10-25T16:00:00+00:00",
-   "seen_by_model": true,
+   "seen_by_model": false,
    "selected": false
   },
   {
@@ -1888,7 +1960,7 @@
    "url": "https://www.bbc.com/zhongwen/articles/ckq6nvg7ny1yo/trad?at_medium=RSS&at_campaign=rss",
    "published": "2026-10-25T11:46:40+00:00",
    "seen_by_model": true,
-   "selected": true
+   "selected": false
   },
   {
    "id": "0b9ea94a4e",
@@ -1948,7 +2020,7 @@
    "url": "https://cn.nytimes.com/asia-pacific/20261026/north-korea-kim-jong-un-china/?utm_source=RSS",
    "published": "2026-10-26T00:45:41+00:00",
    "seen_by_model": true,
-   "selected": true
+   "selected": false
   },
   {
    "id": "9f72e260bd",
@@ -2800,7 +2872,7 @@
    "url": "https://www.lemonde.fr/en/international/article/2026/10/26/bulgaria-heads-to-presidential-runoff-after-low-turnout_6764452_4.html",
    "published": "2026-10-26T10:02:04+00:00",
    "seen_by_model": true,
-   "selected": false
+   "selected": true
   },
   {
    "id": "a1a11925b5",
@@ -3172,7 +3244,7 @@
    "url": "https://www.japantimes.co.jp/news/2026/10/26/japan/politics/yasuo-fukuda-obituary/",
    "published": "2026-10-26T09:03:00+00:00",
    "seen_by_model": true,
-   "selected": false
+   "selected": true
   },
   {
    "id": "bc461f6aea",
@@ -3403,6 +3475,30 @@
    "selected": false
   },
   {
+   "id": "1efd2fb444",
+   "source": "Channel NewsAsia",
+   "section": "politica",
+   "continent": "asia",
+   "lang": "en",
+   "title": "SpaceX enters $40 billion deal with Apollo for AI chip financing",
+   "url": "https://www.channelnewsasia.com/business/spacex-enters-40-billion-deal-apollo-ai-chip-financing-6493106",
+   "published": "2026-10-26T12:07:34+00:00",
+   "seen_by_model": true,
+   "selected": false
+  },
+  {
+   "id": "7348a2b8d1",
+   "source": "Channel NewsAsia",
+   "section": "politica",
+   "continent": "asia",
+   "lang": "en",
+   "title": "Musk's warning hits neocloud stocks as debt concerns mount",
+   "url": "https://www.channelnewsasia.com/business/musks-warning-hits-neocloud-stocks-debt-concerns-mount-6493081",
+   "published": "2026-10-26T12:03:37+00:00",
+   "seen_by_model": true,
+   "selected": false
+  },
+  {
    "id": "aa990f878e",
    "source": "Channel NewsAsia",
    "section": "politica",
@@ -3495,7 +3591,7 @@
    "title": "Verizon lifts annual forecasts, signs more than $2 billion AI infrastructure deal with AWS",
    "url": "https://www.channelnewsasia.com/business/verizon-lifts-annual-forecasts-signs-more-2-billion-ai-infrastructure-deal-aws-6492906",
    "published": "2026-10-26T11:03:18+00:00",
-   "seen_by_model": true,
+   "seen_by_model": false,
    "selected": false
   },
   {
@@ -3507,7 +3603,7 @@
    "title": "Brazil's Itau agrees to buy AI startup NeoSpace for $589 million",
    "url": "https://www.channelnewsasia.com/business/brazils-itau-agrees-buy-ai-startup-neospace-589-million-6492871",
    "published": "2026-10-26T10:52:01+00:00",
-   "seen_by_model": true,
+   "seen_by_model": false,
    "selected": false
   },
   {
@@ -3615,30 +3711,6 @@
    "title": "Meiji Yasuda to lift Man Group private credit commitment to $1.3 billion",
    "url": "https://www.channelnewsasia.com/business/meiji-yasuda-lift-man-group-private-credit-commitment-13-billion-6492511",
    "published": "2026-10-26T07:36:43+00:00",
-   "seen_by_model": false,
-   "selected": false
-  },
-  {
-   "id": "513e0c7f88",
-   "source": "Channel NewsAsia",
-   "section": "politica",
-   "continent": "asia",
-   "lang": "en",
-   "title": "Australia vice-captain Gardner glad for cricket's 'escape' after personal turmoil",
-   "url": "https://www.channelnewsasia.com/sport/australia-vice-captain-gardner-glad-crickets-escape-after-personal-turmoil-6492506",
-   "published": "2026-10-26T07:34:58+00:00",
-   "seen_by_model": false,
-   "selected": false
-  },
-  {
-   "id": "922d69190a",
-   "source": "Channel NewsAsia",
-   "section": "politica",
-   "continent": "asia",
-   "lang": "en",
-   "title": "Jordan arrests three suspects in deadly church attack",
-   "url": "https://www.channelnewsasia.com/world/jordan-arrests-three-suspects-deadly-church-attack-6492146",
-   "published": "2026-10-26T06:14:01+00:00",
    "seen_by_model": false,
    "selected": false
   },
@@ -3787,18 +3859,6 @@
    "selected": false
   },
   {
-   "id": "162b08433d",
-   "source": "South China Morning Post (China)",
-   "section": "politica",
-   "continent": "asia",
-   "lang": "en",
-   "title": "Beijing pledges to back Taiwan’s pro-unification ‘patriots’ as it marks key anniversary",
-   "url": "https://www.scmp.com/news/china/politics/article/3372065/beijing-commemorates-end-japanese-rule-over-taiwan-call-reunification",
-   "published": "2026-10-25T08:05:09+00:00",
-   "seen_by_model": false,
-   "selected": false
-  },
-  {
    "id": "80f117842e",
    "source": "South China Morning Post (Asia)",
    "section": "politica",
@@ -3816,7 +3876,7 @@
    "section": "politica",
    "continent": "asia",
    "lang": "en",
-   "title": "Two workers dangle more than 30 storeys up after Jardine House gondola fault",
+   "title": "2 workers dangle more than 30 storeys up after Jardine House gondola fault",
    "url": "https://www.scmp.com/news/hong-kong/society/article/3372188/two-workers-dangle-more-30-storeys-after-jardine-house-gondola-fault",
    "published": "2026-10-26T11:59:18+00:00",
    "seen_by_model": true,
@@ -4492,7 +4552,7 @@
    "url": "https://techcrunch.com/2026/10/25/grok-releases-the-first-seven-minutes-of-its-ai-generated-odyssey/",
    "published": "2026-10-25T21:31:16+00:00",
    "seen_by_model": true,
-   "selected": true
+   "selected": false
   },
   {
    "id": "960d568650",
@@ -4648,7 +4708,7 @@
    "url": "https://www.wired.com/story/scientists-trapped-an-antimatter-particle-for-months-to-study-its-secrets/",
    "published": "2026-10-25T12:00:00+00:00",
    "seen_by_model": true,
-   "selected": true
+   "selected": false
   },
   {
    "id": "1b8933cc3f",
@@ -4732,6 +4792,18 @@
    "url": "https://www.wired.com/story/we-linked-150-ikea-speakers-to-make-a-wall-of-sound/",
    "published": "2026-10-25T09:00:00+00:00",
    "seen_by_model": false,
+   "selected": false
+  },
+  {
+   "id": "c40c4e7cf6",
+   "source": "Xataka",
+   "section": "tecnologia",
+   "continent": "europa",
+   "lang": "es",
+   "title": "PcComponentes liquida esta barra de sonido compacta ideal para teles pequeñas",
+   "url": "https://www.xataka.com/seleccion/pccomponentes-liquida-esta-barra-sonido-compacta-ideal-para-teles-pequenas",
+   "published": "2026-10-26T12:01:26+00:00",
+   "seen_by_model": true,
    "selected": false
   },
   {
@@ -4839,7 +4911,7 @@
    "title": "Huawei Watch D3, análisis: la mayor sorpresa de este reloj llega cuando empieza a hincharse la correa",
    "url": "https://www.xataka.com/analisis/huawei-watch-d3-analisis-caracteristicas-precio-especificaciones",
    "published": "2026-10-26T09:00:00+00:00",
-   "seen_by_model": true,
+   "seen_by_model": false,
    "selected": false
   },
   {
@@ -5019,18 +5091,6 @@
    "title": "MrBeast sigue creciendo al margen de Youtube: ahora, con una pelota que se inventa con IA sus propios juegos",
    "url": "https://www.xataka.com/literatura-comics-y-juegos/nuevo-mrbeast-apoyar-cuarto-millon-dolares-bola-inteligente-controlada-ia",
    "published": "2026-10-25T15:00:00+00:00",
-   "seen_by_model": false,
-   "selected": false
-  },
-  {
-   "id": "39489ede07",
-   "source": "Xataka",
-   "section": "tecnologia",
-   "continent": "europa",
-   "lang": "es",
-   "title": "Vivimos más que nunca y nos sentimos peor: la salud percibida cae a niveles de 1987",
-   "url": "https://www.xataka.com/medicina-y-salud/vivimos-que-nunca-nos-sentimos-peor-salud-percibida-cae-a-niveles-1987",
-   "published": "2026-10-25T14:30:08+00:00",
    "seen_by_model": false,
    "selected": false
   },
@@ -5368,7 +5428,7 @@
    "url": "https://www.ithome.com.tw/news/179953",
    "published": "2026-10-26T02:10:09+00:00",
    "seen_by_model": true,
-   "selected": false
+   "selected": true
   },
   {
    "id": "27de9a931e",
@@ -5380,7 +5440,7 @@
    "url": "https://www.ithome.com.tw/news/179951",
    "published": "2026-10-26T12:10:52+00:00",
    "seen_by_model": true,
-   "selected": true
+   "selected": false
   },
   {
    "id": "ce2c50b212",
@@ -5442,169 +5502,5 @@
    "seen_by_model": true,
    "selected": true
   }
- ],
- "radar": {
-  "collected_at": "2026-10-26T12:01:25.292930+00:00",
-  "items": [
-   {
-    "id": "hn-50233779",
-    "source": "Hacker News",
-    "kind": "discussion",
-    "title": "A 10-year-old CNN outperforms frontier LLMs for skin cancer diagnosis",
-    "url": "https://lynchlab.net/llm-skin-cancer",
-    "discussion_url": "https://news.ycombinator.com/item?id=50233779",
-    "published": "2026-10-25T17:15:38+00:00",
-    "lang": "en",
-    "excerpt": "",
-    "signal": {
-     "points": 582,
-     "comments": 246
-    },
-    "seen_by_model": true,
-    "selected": false
-   },
-   {
-    "id": "hn-50227041",
-    "source": "Hacker News",
-    "kind": "discussion",
-    "title": "Show HN: ADRs for AI – Deliberation records for human–AI work, versioned in Git",
-    "url": "https://adrs.systems",
-    "discussion_url": "https://news.ycombinator.com/item?id=50227041",
-    "published": "2026-10-25T00:43:47+00:00",
-    "lang": "en",
-    "excerpt": "Why is this worth your time? Essentially, this solves two problems of AI-assisted programming: (a) the first problem is how to do  oversight  and  what  do oversight  of  and this is solved through the ORRCF (for  Options, Recommendation, Rationale, Confidence, Falsifier) question format (in which models are supposed to surface all their doubts with fully fleshed out recommendations, with falsifier, to be approved or overridden) (b) the second problem is how to scaffold sustainable AI-written code; the ADRs (Architectural Deliberation Records, after Nygard's decision records) written by the mo",
-    "signal": {
-     "points": 51,
-     "comments": 30
-    },
-    "seen_by_model": true,
-    "selected": true
-   },
-   {
-    "id": "hn-50236102",
-    "source": "Hacker News",
-    "kind": "discussion",
-    "title": "OpenAI and Anthropic cut their LLM prices by up to 80% within a few months. Why?",
-    "url": "https://minimaxir.com/2026/10/cheap-llms/",
-    "discussion_url": "https://news.ycombinator.com/item?id=50236102",
-    "published": "2026-10-25T21:11:31+00:00",
-    "lang": "en",
-    "excerpt": "",
-    "signal": {
-     "points": 344,
-     "comments": 333
-    },
-    "seen_by_model": true,
-    "selected": false
-   },
-   {
-    "id": "hn-50234699",
-    "source": "Hacker News",
-    "kind": "discussion",
-    "title": "AI didn't cause the tech jobs bust, but it explains why there's no recovery",
-    "url": "https://vithushansylvester.com/writing/the-real-impact-of-ai-on-tech-jobs",
-    "discussion_url": "https://news.ycombinator.com/item?id=50234699",
-    "published": "2026-10-25T18:42:23+00:00",
-    "lang": "en",
-    "excerpt": "",
-    "signal": {
-     "points": 57,
-     "comments": 25
-    },
-    "seen_by_model": true,
-    "selected": false
-   },
-   {
-    "id": "hn-50239041",
-    "source": "Hacker News",
-    "kind": "discussion",
-    "title": "Show HN: Proc-CLI – An agent-friendly CLI tool for process and port management",
-    "url": "https://proc-cli.com/",
-    "discussion_url": "https://news.ycombinator.com/item?id=50239041",
-    "published": "2026-10-26T04:14:35+00:00",
-    "lang": "en",
-    "excerpt": "",
-    "signal": {
-     "points": 14,
-     "comments": 2
-    },
-    "seen_by_model": true,
-    "selected": false
-   },
-   {
-    "id": "hn-50233347",
-    "source": "Hacker News",
-    "kind": "discussion",
-    "title": "A mathematician reads the AI future",
-    "url": "https://www.theatlantic.com/ideas/2026/10/ai-math-human-future/689133/",
-    "discussion_url": "https://news.ycombinator.com/item?id=50233347",
-    "published": "2026-10-25T16:31:21+00:00",
-    "lang": "en",
-    "excerpt": "",
-    "signal": {
-     "points": 63,
-     "comments": 87
-    },
-    "seen_by_model": true,
-    "selected": false
-   },
-   {
-    "id": "hn-50239027",
-    "source": "Hacker News",
-    "kind": "discussion",
-    "title": "Cognitive Mercantilism: AI panic resembles fears of early capitalism",
-    "url": "https://contraptions.venkateshrao.com/p/cognitive-mercantilism",
-    "discussion_url": "https://news.ycombinator.com/item?id=50239027",
-    "published": "2026-10-26T04:11:40+00:00",
-    "lang": "en",
-    "excerpt": "",
-    "signal": {
-     "points": 69,
-     "comments": 75
-    },
-    "seen_by_model": true,
-    "selected": false
-   },
-   {
-    "id": "hn-50233304",
-    "source": "Hacker News",
-    "kind": "discussion",
-    "title": "AI use leads UC Berkeley math professor to see 'no point' in grading homework",
-    "url": "https://www.dailycal.org/news/campus/academics/ai-use-leads-uc-berkeley-math-professor-to-see-no-point-in-grading-homework/article_bdf1eae2-c08b-491f-b9f1-81a7cea177de.html",
-    "discussion_url": "https://news.ycombinator.com/item?id=50233304",
-    "published": "2026-10-25T16:28:26+00:00",
-    "lang": "en",
-    "excerpt": "",
-    "signal": {
-     "points": 220,
-     "comments": 320
-    },
-    "seen_by_model": true,
-    "selected": false
-   },
-   {
-    "id": "hn-50227356",
-    "source": "Hacker News",
-    "kind": "discussion",
-    "title": "Cerebras Deploys Trillion-Parameter AI Models",
-    "url": "https://www.cerebras.ai/blog/how-we-deploy-trillion-parameter-frontier-models-on-cerebras",
-    "discussion_url": "https://news.ycombinator.com/item?id=50227356",
-    "published": "2026-10-25T01:33:49+00:00",
-    "lang": "en",
-    "excerpt": "",
-    "signal": {
-     "points": 356,
-     "comments": 135
-    },
-    "seen_by_model": true,
-    "selected": false
-   }
-  ],
-  "failed_sources": [
-   {
-    "name": "GitHub",
-    "error": "HTTPError"
-   }
-  ]
- }
+ ]
 }
