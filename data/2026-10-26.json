@@ -1,0 +1,842 @@
+{
+ "date": "2026-10-26",
+ "generated_at": "2026-10-26T11:22:43.992326+00:00",
+ "mode": "full",
+ "cost_usd": 0.0496,
+ "radar_cost_usd": 0.0053,
+ "events": {
+  "mode": "full",
+  "compared_with": "2026-10-25",
+  "articles": 36,
+  "uncompared_articles": 0,
+  "events": 33,
+  "cost_usd": 0.0182
+ },
+ "radar": {
+  "items": [
+   {
+    "id": "hn-50227041",
+    "source": "Hacker News",
+    "kind": "discussion",
+    "title": "Show HN: ADRs for AI – Deliberation records for human–AI work, versioned in Git",
+    "url": "https://adrs.systems",
+    "discussion_url": "https://news.ycombinator.com/item?id=50227041",
+    "published": "2026-10-25T00:43:47+00:00",
+    "lang": "en",
+    "excerpt": "Why is this worth your time? Essentially, this solves two problems of AI-assisted programming: (a) the first problem is how to do  oversight  and  what  do oversight  of  and this is solved through the ORRCF (for  Options, Recommendation, Rationale, Confidence, Falsifier) question format (in which models are supposed to surface all their doubts with fully fleshed out recommendations, with falsifier, to be approved or overridden) (b) the second problem is how to scaffold sustainable AI-written code; the ADRs (Architectural Deliberation Records, after Nygard's decision records) written by the mo",
+    "signal": {
+     "points": 46,
+     "comments": 28
+    },
+    "summary": "ADRs for AI proposes Architectural Deliberation Records versioned in Git, using ORRCF format (Options, Recommendation, Rationale, Confidence, Falsifier) to surface model doubts and scaffold AI-written code oversight.",
+    "usefulness": "Could structure human review of AI-assisted code decisions if teams adopt the ORRCF question format for model recommendations before integration.",
+    "to_verify": "Whether the ORRCF format actually surfaces substantive model doubts versus surface-level confidence statements, and adoption barriers in real workflows."
+   }
+  ],
+  "mode": "full",
+  "failed_sources": []
+ },
+ "market": null,
+ "failed_sources": [],
+ "cells": {
+  "economia|asia": [
+   {
+    "title": "Pakistan Raises Rates as Middle East Conflict Fans Inflation",
+    "summary": "Pakistan raised its benchmark interest rate to combat inflation risks stemming from Middle East conflict tensions. The central bank tightened policy despite risks to economic growth.",
+    "lang": "en",
+    "source": "Bloomberg Economics",
+    "url": "https://www.bloomberg.com/news/articles/2026-10-26/pakistan-hikes-interest-rate-to-curb-inflation-risks",
+    "published": "2026-10-26T10:53:31+00:00",
+    "event_id": "9676140a22e5",
+    "sources": [
+     {
+      "title": "Pakistan Raises Rates as Middle East Conflict Fans Inflation",
+      "summary": "Pakistan raised its benchmark interest rate to combat inflation risks stemming from Middle East conflict tensions. The central bank tightened policy despite risks to economic growth.",
+      "lang": "en",
+      "source": "Bloomberg Economics",
+      "url": "https://www.bloomberg.com/news/articles/2026-10-26/pakistan-hikes-interest-rate-to-curb-inflation-risks",
+      "published": "2026-10-26T10:53:31+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "Can Pakistan’s military government make the economy grow?",
+    "summary": "Pakistan's military government stabilized the economy but faces structural reforms needed to break cycle and attract investment.",
+    "lang": "en",
+    "source": "FT Global Economy",
+    "url": "https://www.ft.com/content/14242b5e-0975-4c7d-92fd-e7c04e87238a?syn-25a6b1a6=1",
+    "published": "2026-10-26T05:00:12+00:00",
+    "event_id": "2a18fb2d9c84",
+    "sources": [
+     {
+      "title": "Can Pakistan’s military government make the economy grow?",
+      "summary": "Pakistan's military government stabilized the economy but faces structural reforms needed to break cycle and attract investment.",
+      "lang": "en",
+      "source": "FT Global Economy",
+      "url": "https://www.ft.com/content/14242b5e-0975-4c7d-92fd-e7c04e87238a?syn-25a6b1a6=1",
+      "published": "2026-10-26T05:00:12+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "For India's IT giants TCS and Infosys, AI both dents and supports growth",
+    "summary": "AI impacts India's IT giants TCS and Infosys with both growth headwinds and opportunities in their business models.",
+    "lang": "en",
+    "source": "Nikkei Asia",
+    "url": "https://asia.nikkei.com/business/technology/artificial-intelligence/for-india-s-it-giants-tcs-and-infosys-ai-both-dents-and-supports-growth",
+    "published": null,
+    "event_id": "9f4f5da437b1",
+    "sources": [
+     {
+      "title": "For India's IT giants TCS and Infosys, AI both dents and supports growth",
+      "summary": "AI impacts India's IT giants TCS and Infosys with both growth headwinds and opportunities in their business models.",
+      "lang": "en",
+      "source": "Nikkei Asia",
+      "url": "https://asia.nikkei.com/business/technology/artificial-intelligence/for-india-s-it-giants-tcs-and-infosys-ai-both-dents-and-supports-growth",
+      "published": null
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   }
+  ],
+  "economia|europa": [
+   {
+    "title": "Japan's Subaru to go EV-only in Europe by 2028",
+    "summary": "Subaru commits to EV-only sales in Europe by 2028 as part of its electric vehicle transition strategy.",
+    "lang": "en",
+    "source": "Nikkei Asia",
+    "url": "https://asia.nikkei.com/business/automobiles/japan-s-subaru-to-go-ev-only-in-europe-by-2028",
+    "published": null,
+    "event_id": "c600f6d1881f",
+    "sources": [
+     {
+      "title": "Japan's Subaru to go EV-only in Europe by 2028",
+      "summary": "Subaru commits to EV-only sales in Europe by 2028 as part of its electric vehicle transition strategy.",
+      "lang": "en",
+      "source": "Nikkei Asia",
+      "url": "https://asia.nikkei.com/business/automobiles/japan-s-subaru-to-go-ev-only-in-europe-by-2028",
+      "published": null
+     }
+    ],
+    "status": "unclear",
+    "change_summary": "",
+    "previous_date": "2026-10-25",
+    "previous_event_id": "c600f6d1881f"
+   },
+   {
+    "title": "Survey on the Access to Finance of Enterprises: lending conditions tightened",
+    "summary": "Bank lending conditions tightened according to enterprise finance access survey findings.",
+    "lang": "en",
+    "source": "BCE (notas de prensa)",
+    "url": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr261026~bde7b6d11a.en.html",
+    "published": "2026-10-26T09:00:00+00:00",
+    "event_id": "f737e8530d3d",
+    "sources": [
+     {
+      "title": "Survey on the Access to Finance of Enterprises: lending conditions tightened",
+      "summary": "Bank lending conditions tightened according to enterprise finance access survey findings.",
+      "lang": "en",
+      "source": "BCE (notas de prensa)",
+      "url": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr261026~bde7b6d11a.en.html",
+      "published": "2026-10-26T09:00:00+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "French Bond Rout Overshadows ECB Succession",
+    "summary": "French bond market turmoil complicates ECB's search for new leadership amid market uncertainty.",
+    "lang": "en",
+    "source": "Bloomberg Economics",
+    "url": "https://www.bloomberg.com/news/newsletters/2026-10-26/french-bond-rout-overshadows-ecb-succession",
+    "published": "2026-10-26T11:00:21+00:00",
+    "event_id": "2f87a6e09895",
+    "sources": [
+     {
+      "title": "French Bond Rout Overshadows ECB Succession",
+      "summary": "French bond market turmoil complicates ECB's search for new leadership amid market uncertainty.",
+      "lang": "en",
+      "source": "Bloomberg Economics",
+      "url": "https://www.bloomberg.com/news/newsletters/2026-10-26/french-bond-rout-overshadows-ecb-succession",
+      "published": "2026-10-26T11:00:21+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "Germany’s Business Outlook Unexpectedly Improves for Sixth Month",
+    "summary": "Germany's business outlook unexpectedly improved for sixth consecutive month, signaling economic recovery from prolonged downturn.",
+    "lang": "en",
+    "source": "Bloomberg Economics",
+    "url": "https://www.bloomberg.com/news/articles/2026-10-26/germany-s-business-outlook-unexpectedly-improves-for-sixth-month",
+    "published": "2026-10-26T09:05:45+00:00",
+    "event_id": "ad1b74fdfc39",
+    "sources": [
+     {
+      "title": "Germany’s Business Outlook Unexpectedly Improves for Sixth Month",
+      "summary": "Germany's business outlook unexpectedly improved for sixth consecutive month, signaling economic recovery from prolonged downturn.",
+      "lang": "en",
+      "source": "Bloomberg Economics",
+      "url": "https://www.bloomberg.com/news/articles/2026-10-26/germany-s-business-outlook-unexpectedly-improves-for-sixth-month",
+      "published": "2026-10-26T09:05:45+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "BOE Officials Most Hawkish Since Inflation Was 10%, Model Shows",
+    "summary": "Bank of England officials signal most hawkish stance in over three years, setting stage for potential rate hike next month.",
+    "lang": "en",
+    "source": "Bloomberg Economics",
+    "url": "https://www.bloomberg.com/news/articles/2026-10-26/boe-officials-most-hawkish-since-inflation-was-10-model-shows",
+    "published": "2026-10-26T05:00:00+00:00",
+    "event_id": "b8f0382643df",
+    "sources": [
+     {
+      "title": "BOE Officials Most Hawkish Since Inflation Was 10%, Model Shows",
+      "summary": "Bank of England officials signal most hawkish stance in over three years, setting stage for potential rate hike next month.",
+      "lang": "en",
+      "source": "Bloomberg Economics",
+      "url": "https://www.bloomberg.com/news/articles/2026-10-26/boe-officials-most-hawkish-since-inflation-was-10-model-shows",
+      "published": "2026-10-26T05:00:00+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "Los centros de datos tiran a la atmósfera el calor que podría calentar una ciudad. Ahora quieren vendérnoslo como calefacción “casi gratis”",
+    "summary": "Los centros de datos generan calor residual que podría aprovecharse como calefacción. Las empresas buscan comercializar esta energía como una solución de calefacción casi gratuita.",
+    "lang": "es",
+    "source": "Xataka",
+    "url": "https://www.xataka.com/magnet/centros-datos-tiran-a-atmosfera-calor-que-podria-calentar-ciudad-ahora-quieren-vendernoslo-como-calefaccion-casi-gratis",
+    "published": "2026-10-26T10:31:28+00:00",
+    "event_id": "50cb6b21a422",
+    "sources": [
+     {
+      "title": "Los centros de datos tiran a la atmósfera el calor que podría calentar una ciudad. Ahora quieren vendérnoslo como calefacción “casi gratis”",
+      "summary": "Los centros de datos generan calor residual que podría aprovecharse como calefacción. Las empresas buscan comercializar esta energía como una solución de calefacción casi gratuita.",
+      "lang": "es",
+      "source": "Xataka",
+      "url": "https://www.xataka.com/magnet/centros-datos-tiran-a-atmosfera-calor-que-podria-calentar-ciudad-ahora-quieren-vendernoslo-como-calefaccion-casi-gratis",
+      "published": "2026-10-26T10:31:28+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   }
+  ],
+  "economia|america": [
+   {
+    "title": "Fed to stick with quarterly rate rises as it removes 2025 insurance cuts",
+    "summary": "Federal Reserve plans quarterly rate increases, removing 2025 insurance rate cuts from policy outlook.",
+    "lang": "en",
+    "source": "FT Global Economy",
+    "url": "https://www.ft.com/content/572bc401-9f82-4e49-9282-3e896562f339",
+    "published": "2026-10-26T05:30:01+00:00",
+    "event_id": "ff63ed2e60e3",
+    "sources": [
+     {
+      "title": "Fed to stick with quarterly rate rises as it removes 2025 insurance cuts",
+      "summary": "Federal Reserve plans quarterly rate increases, removing 2025 insurance rate cuts from policy outlook.",
+      "lang": "en",
+      "source": "FT Global Economy",
+      "url": "https://www.ft.com/content/572bc401-9f82-4e49-9282-3e896562f339",
+      "published": "2026-10-26T05:30:01+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "Audi to build $4bn US plant as it grapples with tariffs",
+    "summary": "Audi announces $4 billion US plant investment at Trump rally as Volkswagen seeks tariff relief.",
+    "lang": "en",
+    "source": "FT Global Economy",
+    "url": "https://www.ft.com/content/8f034740-12a8-47fe-9010-149f87e70f8e?syn-25a6b1a6=1",
+    "published": "2026-10-25T10:33:28+00:00",
+    "event_id": "1d8bc2193587",
+    "sources": [
+     {
+      "title": "Audi to build $4bn US plant as it grapples with tariffs",
+      "summary": "Audi announces $4 billion US plant investment at Trump rally as Volkswagen seeks tariff relief.",
+      "lang": "en",
+      "source": "FT Global Economy",
+      "url": "https://www.ft.com/content/8f034740-12a8-47fe-9010-149f87e70f8e?syn-25a6b1a6=1",
+      "published": "2026-10-25T10:33:28+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   }
+  ],
+  "politica|america": [
+   {
+    "title": "Lula is re-elected Brazil’s president in knife-edge vote",
+    "summary": "Brazil's 80-year-old leftist President Lula defeats Bolsonaro ally Flávio Bolsonaro in tight election. Victory undermines Trump's Latin America influence ambitions.",
+    "lang": "en",
+    "source": "Financial Times",
+    "url": "https://www.ft.com/content/7585a18f-88d9-4fcd-882d-ed938c7c9c41?syn-25a6b1a6=1",
+    "published": "2026-10-26T08:25:20+00:00",
+    "event_id": "51bfe497d9fa",
+    "sources": [
+     {
+      "title": "Lula is re-elected Brazil’s president in knife-edge vote",
+      "summary": "Brazil's 80-year-old leftist President Lula defeats Bolsonaro ally Flávio Bolsonaro in tight election. Victory undermines Trump's Latin America influence ambitions.",
+      "lang": "en",
+      "source": "Financial Times",
+      "url": "https://www.ft.com/content/7585a18f-88d9-4fcd-882d-ed938c7c9c41?syn-25a6b1a6=1",
+      "published": "2026-10-26T08:25:20+00:00"
+     },
+     {
+      "title": "Brazil's left-wing President Lula elected for fourth term",
+      "summary": "Brazil's 80-year-old leftist President Lula defeats Flávio Bolsonaro in contested runoff election for fourth term.",
+      "lang": "en",
+      "source": "NPR World",
+      "url": "https://www.npr.org/2026/10/25/nx-s1-6016299/brazil-lula-bolsonaro-election",
+      "published": "2026-10-26T00:35:00+00:00"
+     }
+    ],
+    "status": "updated",
+    "change_summary": "Lula is re-elected Brazil's president in knife-edge vote",
+    "previous_date": "2026-10-25",
+    "previous_event_id": "51bfe497d9fa"
+   },
+   {
+    "title": "Thousands greet opposition leader Maria Machado upon return to Caracas",
+    "summary": "Thousands of Venezuelans welcomed opposition leader María Corina Machado back to Caracas after her exile abroad.",
+    "lang": "en",
+    "source": "Al Jazeera English",
+    "url": "https://www.aljazeera.com/video/newsfeed/2026/10/26/thousands-greet-opposition-leader-maria-machado-upon-return-to-caracas?traffic_source=rss",
+    "published": "2026-10-26T10:14:26+00:00",
+    "event_id": "c9b9afc3fcb1",
+    "sources": [
+     {
+      "title": "Thousands greet opposition leader Maria Machado upon return to Caracas",
+      "summary": "Thousands of Venezuelans welcomed opposition leader María Corina Machado back to Caracas after her exile abroad.",
+      "lang": "en",
+      "source": "Al Jazeera English",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/26/thousands-greet-opposition-leader-maria-machado-upon-return-to-caracas?traffic_source=rss",
+      "published": "2026-10-26T10:14:26+00:00"
+     },
+     {
+      "title": "Venezuela's opposition leader María Corina Machado returns after months in exile",
+      "summary": "Venezuelan opposition leader María Corina Machado returns to country after months in exile.",
+      "lang": "en",
+      "source": "NPR World",
+      "url": "https://www.npr.org/2026/10/25/nx-s1-6016222/venezuela-maria-corina-machado-leader-returns-exile",
+      "published": "2026-10-25T16:18:41+00:00"
+     }
+    ],
+    "status": "unclear",
+    "change_summary": "",
+    "previous_date": "2026-10-25",
+    "previous_event_id": "51bfe497d9fa"
+   },
+   {
+    "title": "期中選舉倒數 川普稱美加貿易協議可望近期敲定",
+    "summary": "美国总统川普表示美加贸易协议有望近期敲定。距11月3日期中选举仅9天。",
+    "lang": "zh",
+    "source": "中央社 CNA",
+    "url": "https://www.cna.com.tw/news/aopl/202610260155.aspx",
+    "published": "2026-10-26T08:10:36+00:00",
+    "event_id": "3c63cc9dd5d5",
+    "sources": [
+     {
+      "title": "期中選舉倒數 川普稱美加貿易協議可望近期敲定",
+      "summary": "美国总统川普表示美加贸易协议有望近期敲定。距11月3日期中选举仅9天。",
+      "lang": "zh",
+      "source": "中央社 CNA",
+      "url": "https://www.cna.com.tw/news/aopl/202610260155.aspx",
+      "published": "2026-10-26T08:10:36+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   }
+  ],
+  "politica|europa": [
+   {
+    "title": "Celebrations in Serbia after veteran ruler Vučić loses election to student-led protest movement",
+    "summary": "Serbian populist leader Aleksandar Vučić loses election to student-led protest movement after 12 years in power. Vote seen as referendum on country's future.",
+    "lang": "en",
+    "source": "BBC World",
+    "url": "https://www.bbc.co.uk/news/articles/cw5yn3xlprpmo?at_medium=RSS&at_campaign=rss",
+    "published": "2026-10-26T11:02:20+00:00",
+    "event_id": "c4c48ac64982",
+    "sources": [
+     {
+      "title": "Celebrations in Serbia after veteran ruler Vučić loses election to student-led protest movement",
+      "summary": "Serbian populist leader Aleksandar Vučić loses election to student-led protest movement after 12 years in power. Vote seen as referendum on country's future.",
+      "lang": "en",
+      "source": "BBC World",
+      "url": "https://www.bbc.co.uk/news/articles/cw5yn3xlprpmo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-26T11:02:20+00:00"
+     },
+     {
+      "title": "Serbia's student movement ousts nationalist leader Aleksandar Vucic in parliamentary elections",
+      "summary": "Serbian student movement defeats nationalist leader Aleksandar Vučić in parliamentary elections. Victory follows nearly two years of anti-government protests.",
+      "lang": "en",
+      "source": "Le Monde International",
+      "url": "https://www.lemonde.fr/en/international/article/2026/10/26/serbia-s-student-movement-ousts-nationalist-leader-aleksandar-vucic-in-parliamentary-elections_6764122_4.html",
+      "published": "2026-10-26T00:10:38+00:00"
+     }
+    ],
+    "status": "updated",
+    "change_summary": "Celebrations in Serbia after veteran ruler Vučić loses election to student-led protest movement",
+    "previous_date": "2026-10-25",
+    "previous_event_id": "c4c48ac64982"
+   },
+   {
+    "title": "Key European defence ministers meet in Paris to discuss Ukraine support",
+    "summary": "Defence ministers from France, Germany, Italy, Poland and UK meet in Paris to discuss increased military assistance to Ukraine.",
+    "lang": "en",
+    "source": "Al Jazeera English",
+    "url": "https://www.aljazeera.com/news/2026/10/26/key-european-defence-ministers-meet-in-paris-to-discuss-ukraine-support?traffic_source=rss",
+    "published": "2026-10-26T11:04:55+00:00",
+    "event_id": "bd58bf8f95ef",
+    "sources": [
+     {
+      "title": "Key European defence ministers meet in Paris to discuss Ukraine support",
+      "summary": "Defence ministers from France, Germany, Italy, Poland and UK meet in Paris to discuss increased military assistance to Ukraine.",
+      "lang": "en",
+      "source": "Al Jazeera English",
+      "url": "https://www.aljazeera.com/news/2026/10/26/key-european-defence-ministers-meet-in-paris-to-discuss-ukraine-support?traffic_source=rss",
+      "published": "2026-10-26T11:04:55+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "Facing Russia, northern and eastern European countries prepare their societies for war",
+    "summary": "Northern and eastern European countries bordering Russia invest heavily in civil defence including bomb shelters and evacuation plans since 2022.",
+    "lang": "en",
+    "source": "Le Monde International",
+    "url": "https://www.lemonde.fr/en/international/article/2026/10/26/facing-russia-northern-and-eastern-european-countries-prepare-their-societies-for-war_6764254_4.html",
+    "published": "2026-10-26T03:50:00+00:00",
+    "event_id": "841d4b0598b9",
+    "sources": [
+     {
+      "title": "Facing Russia, northern and eastern European countries prepare their societies for war",
+      "summary": "Northern and eastern European countries bordering Russia invest heavily in civil defence including bomb shelters and evacuation plans since 2022.",
+      "lang": "en",
+      "source": "Le Monde International",
+      "url": "https://www.lemonde.fr/en/international/article/2026/10/26/facing-russia-northern-and-eastern-european-countries-prepare-their-societies-for-war_6764254_4.html",
+      "published": "2026-10-26T03:50:00+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "法國再爆大規模示威逾1300人被捕，警民衝突致53警受傷",
+    "summary": "法国周六数十万民众参与全国抗议活动，逾1300人被捕，53名警员受伤。示威大致和平进行但局部爆发警民冲突。",
+    "lang": "zh",
+    "source": "BBC中文",
+    "url": "https://www.bbc.com/zhongwen/articles/ckq6nvg7ny1yo/trad?at_medium=RSS&at_campaign=rss",
+    "published": "2026-10-25T11:46:40+00:00",
+    "event_id": "0a5bd0ce690d",
+    "sources": [
+     {
+      "title": "法國再爆大規模示威逾1300人被捕，警民衝突致53警受傷",
+      "summary": "法国周六数十万民众参与全国抗议活动，逾1300人被捕，53名警员受伤。示威大致和平进行但局部爆发警民冲突。",
+      "lang": "zh",
+      "source": "BBC中文",
+      "url": "https://www.bbc.com/zhongwen/articles/ckq6nvg7ny1yo/trad?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-25T11:46:40+00:00"
+     }
+    ],
+    "status": "updated",
+    "change_summary": "法國再爆大規模示威逾1300人被捕，警民衝突致53警受傷",
+    "previous_date": "2026-10-25",
+    "previous_event_id": "0a5bd0ce690d"
+   }
+  ],
+  "politica|asia": [
+   {
+    "title": "Israelis have changed. Will they change their leadership?",
+    "summary": "Israel holds general election this week after years of conflict. Many Israelis view vote as most consequential in decades following October 7 attacks.",
+    "lang": "en",
+    "source": "NPR World",
+    "url": "https://www.npr.org/2026/10/25/g-s1-149563/israel-election-war-netanyahu",
+    "published": "2026-10-25T16:00:00+00:00",
+    "event_id": "874917b14fe9",
+    "sources": [
+     {
+      "title": "Israelis have changed. Will they change their leadership?",
+      "summary": "Israel holds general election this week after years of conflict. Many Israelis view vote as most consequential in decades following October 7 attacks.",
+      "lang": "en",
+      "source": "NPR World",
+      "url": "https://www.npr.org/2026/10/25/g-s1-149563/israel-election-war-netanyahu",
+      "published": "2026-10-25T16:00:00+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "Pentagon chief Hegseth to visit Philippines to meet US allies at Asean events",
+    "summary": "US Defence Secretary Pete Hegseth visits Philippines this week to meet regional allies at ASEAN events.",
+    "lang": "en",
+    "source": "South China Morning Post (China)",
+    "url": "https://www.scmp.com/news/china/diplomacy/article/3372182/pentagon-chief-hegseth-visit-philippines-meet-us-allies-asean-events",
+    "published": "2026-10-26T11:03:12+00:00",
+    "event_id": "45f807d480f4",
+    "sources": [
+     {
+      "title": "Pentagon chief Hegseth to visit Philippines to meet US allies at Asean events",
+      "summary": "US Defence Secretary Pete Hegseth visits Philippines this week to meet regional allies at ASEAN events.",
+      "lang": "en",
+      "source": "South China Morning Post (China)",
+      "url": "https://www.scmp.com/news/china/diplomacy/article/3372182/pentagon-chief-hegseth-visit-philippines-meet-us-allies-asean-events",
+      "published": "2026-10-26T11:03:12+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "“自我革命”、持续清洗：习近平为下一任期铺路",
+    "summary": "习近平为连任第四任期做准备，认为许多官员不忠诚腐败。黄奇帆被调查引发党内震动，习近平的怀疑可能延伸至更高层级。",
+    "lang": "zh",
+    "source": "纽约时报中文网",
+    "url": "https://cn.nytimes.com/china/20261026/china-communist-party-xi-forever-purge/?utm_source=RSS",
+    "published": "2026-10-25T18:38:51+00:00",
+    "event_id": "0b9ea94a4e98",
+    "sources": [
+     {
+      "title": "“自我革命”、持续清洗：习近平为下一任期铺路",
+      "summary": "习近平为连任第四任期做准备，认为许多官员不忠诚腐败。黄奇帆被调查引发党内震动，习近平的怀疑可能延伸至更高层级。",
+      "lang": "zh",
+      "source": "纽约时报中文网",
+      "url": "https://cn.nytimes.com/china/20261026/china-communist-party-xi-forever-purge/?utm_source=RSS",
+      "published": "2026-10-25T18:38:51+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "中國央視、國防部公開台灣衛星影片 日媒：意在宣傳一中原則",
+    "summary": "中国官媒公开台湾卫星影像展示故宫博物院等地点。日媒分析此举意在宣传一中原则。",
+    "lang": "zh",
+    "source": "中央社 CNA",
+    "url": "https://www.cna.com.tw/news/aopl/202610260187.aspx",
+    "published": "2026-10-26T09:42:49+00:00",
+    "event_id": "162b08433dfb",
+    "sources": [
+     {
+      "title": "中國央視、國防部公開台灣衛星影片 日媒：意在宣傳一中原則",
+      "summary": "中国官媒公开台湾卫星影像展示故宫博物院等地点。日媒分析此举意在宣传一中原则。",
+      "lang": "zh",
+      "source": "中央社 CNA",
+      "url": "https://www.cna.com.tw/news/aopl/202610260187.aspx",
+      "published": "2026-10-26T09:42:49+00:00"
+     }
+    ],
+    "status": "unclear",
+    "change_summary": "",
+    "previous_date": "2026-10-25",
+    "previous_event_id": "162b08433dfb"
+   },
+   {
+    "title": "金正恩取道新鸭绿江大桥突访丹东，与王沪宁会晤",
+    "summary": "金正恩取道新鸭绿江大桥访问丹东与王沪宁会晤。此举表明中朝加深关系，分析师预计金正恩可能参加11月APEC会议。",
+    "lang": "zh",
+    "source": "纽约时报中文网",
+    "url": "https://cn.nytimes.com/asia-pacific/20261026/north-korea-kim-jong-un-china/?utm_source=RSS",
+    "published": "2026-10-26T00:45:41+00:00",
+    "event_id": "12c2caf4ede6",
+    "sources": [
+     {
+      "title": "金正恩取道新鸭绿江大桥突访丹东，与王沪宁会晤",
+      "summary": "金正恩取道新鸭绿江大桥访问丹东与王沪宁会晤。此举表明中朝加深关系，分析师预计金正恩可能参加11月APEC会议。",
+      "lang": "zh",
+      "source": "纽约时报中文网",
+      "url": "https://cn.nytimes.com/asia-pacific/20261026/north-korea-kim-jong-un-china/?utm_source=RSS",
+      "published": "2026-10-26T00:45:41+00:00"
+     }
+    ],
+    "status": "updated",
+    "change_summary": "金正恩取道新鸭绿江大桥突访丹东，与王沪宁会晤",
+    "previous_date": "2026-10-25",
+    "previous_event_id": "12c2caf4ede6"
+   },
+   {
+    "title": "The new India-Pakistan ‘cold war’",
+    "summary": "India will negotiate with Pakistan only after complete dismantling of state-supported terrorist networks.",
+    "lang": "en",
+    "source": "Japan Times",
+    "url": "https://www.japantimes.co.jp/commentary/2026/10/26/world/india-pakistan-cold-war/",
+    "published": "2026-10-26T09:20:00+00:00",
+    "event_id": "a61be08b388f",
+    "sources": [
+     {
+      "title": "The new India-Pakistan ‘cold war’",
+      "summary": "India will negotiate with Pakistan only after complete dismantling of state-supported terrorist networks.",
+      "lang": "en",
+      "source": "Japan Times",
+      "url": "https://www.japantimes.co.jp/commentary/2026/10/26/world/india-pakistan-cold-war/",
+      "published": "2026-10-26T09:20:00+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   }
+  ],
+  "tecnologia|america": [
+   {
+    "title": "Google’s AI search changes upended online publishing",
+    "summary": "Google's AI search changes significantly disrupted online publishing industry and content distribution models.",
+    "lang": "en",
+    "source": "The Verge",
+    "url": "https://www.theverge.com/column/1017983/google-ai-search-online-publishing",
+    "published": "2026-10-25T12:00:00+00:00",
+    "event_id": "99c99157c7fa",
+    "sources": [
+     {
+      "title": "Google’s AI search changes upended online publishing",
+      "summary": "Google's AI search changes significantly disrupted online publishing industry and content distribution models.",
+      "lang": "en",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/column/1017983/google-ai-search-online-publishing",
+      "published": "2026-10-25T12:00:00+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "AI delivers ‘zero financial payoff’ to most companies, Apollo economist says",
+    "summary": "Apollo economist reports AI has delivered zero financial payoff to most US corporations despite massive investments and widespread hype.",
+    "lang": "en",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/10/25/ai-delivers-zero-financial-payoff-to-most-companies-according-to-apollo-economist/",
+    "published": "2026-10-25T16:57:32+00:00",
+    "event_id": "71334093a413",
+    "sources": [
+     {
+      "title": "AI delivers ‘zero financial payoff’ to most companies, Apollo economist says",
+      "summary": "Apollo economist reports AI has delivered zero financial payoff to most US corporations despite massive investments and widespread hype.",
+      "lang": "en",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/10/25/ai-delivers-zero-financial-payoff-to-most-companies-according-to-apollo-economist/",
+      "published": "2026-10-25T16:57:32+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "Meet the AI Agents Trying to Be Real-Life Journalists",
+    "summary": "AI agents now pitch editors on reported stories and investigative features, changing journalism landscape.",
+    "lang": "en",
+    "source": "Wired",
+    "url": "https://www.wired.com/story/ai-agents-are-trying-to-be-journalists-now/",
+    "published": "2026-10-26T09:30:00+00:00",
+    "event_id": "3ae98091f4f2",
+    "sources": [
+     {
+      "title": "Meet the AI Agents Trying to Be Real-Life Journalists",
+      "summary": "AI agents now pitch editors on reported stories and investigative features, changing journalism landscape.",
+      "lang": "en",
+      "source": "Wired",
+      "url": "https://www.wired.com/story/ai-agents-are-trying-to-be-journalists-now/",
+      "published": "2026-10-26T09:30:00+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "This AI Radio Host Speaks Spanish and Backs Immigrants. It’s Winning Over Listeners",
+    "summary": "Bilingual AI radio host Coyotec speaking Spanish gains listener popularity by advising on immigration defense tactics.",
+    "lang": "en",
+    "source": "Wired",
+    "url": "https://www.wired.com/story/this-ai-radio-hosts-speaks-spanish-and-backs-immigrants-its-winning-over-listeners/",
+    "published": "2026-10-26T09:00:00+00:00",
+    "event_id": "cb4a474dbab7",
+    "sources": [
+     {
+      "title": "This AI Radio Host Speaks Spanish and Backs Immigrants. It’s Winning Over Listeners",
+      "summary": "Bilingual AI radio host Coyotec speaking Spanish gains listener popularity by advising on immigration defense tactics.",
+      "lang": "en",
+      "source": "Wired",
+      "url": "https://www.wired.com/story/this-ai-radio-hosts-speaks-spanish-and-backs-immigrants-its-winning-over-listeners/",
+      "published": "2026-10-26T09:00:00+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "OpenAI將不再在連網環境下訓練頂尖AI模型",
+    "summary": "OpenAI宣布不再在连网环境下训练顶尖AI模型。该措施响应AI代理出现偏差行为，配合多层防护和红队演练防止AI越界。",
+    "lang": "zh",
+    "source": "iThome 台灣",
+    "url": "https://www.ithome.com.tw/news/179949",
+    "published": "2026-10-26T10:10:00+00:00",
+    "event_id": "f95a84ad8ae3",
+    "sources": [
+     {
+      "title": "OpenAI將不再在連網環境下訓練頂尖AI模型",
+      "summary": "OpenAI宣布不再在连网环境下训练顶尖AI模型。该措施响应AI代理出现偏差行为，配合多层防护和红队演练防止AI越界。",
+      "lang": "zh",
+      "source": "iThome 台灣",
+      "url": "https://www.ithome.com.tw/news/179949",
+      "published": "2026-10-26T10:10:00+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   }
+  ],
+  "tecnologia|asia": [
+   {
+    "title": "LiteLLM公布供應鏈攻擊後續調查，5月外洩金鑰讓駭客操控官方發布流程",
+    "summary": "LiteLLM公布供应链攻击调查结果，5月外泄的主金钥被攻击者利用控制官方发布流程。竊密版本上架PyPI和容器存储库。",
+    "lang": "zh",
+    "source": "iThome 台灣",
+    "url": "https://www.ithome.com.tw/news/179955",
+    "published": "2026-10-26T06:10:38+00:00",
+    "event_id": "d7bc17803a84",
+    "sources": [
+     {
+      "title": "LiteLLM公布供應鏈攻擊後續調查，5月外洩金鑰讓駭客操控官方發布流程",
+      "summary": "LiteLLM公布供应链攻击调查结果，5月外泄的主金钥被攻击者利用控制官方发布流程。竊密版本上架PyPI和容器存储库。",
+      "lang": "zh",
+      "source": "iThome 台灣",
+      "url": "https://www.ithome.com.tw/news/179955",
+      "published": "2026-10-26T06:10:38+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "GitLab四項RCE漏洞源頭，指向Ruby正規表示式引擎缺陷",
+    "summary": "Ruby官方发布新版本修补正规表达式引擎缺陷。问题源于GitLab调查四项RCE漏洞时发现，攻击者可利用特制正规表达式执行程序代码。",
+    "lang": "zh",
+    "source": "iThome 台灣",
+    "url": "https://www.ithome.com.tw/news/179954",
+    "published": "2026-10-26T03:10:34+00:00",
+    "event_id": "22dea305c50a",
+    "sources": [
+     {
+      "title": "GitLab四項RCE漏洞源頭，指向Ruby正規表示式引擎缺陷",
+      "summary": "Ruby官方发布新版本修补正规表达式引擎缺陷。问题源于GitLab调查四项RCE漏洞时发现，攻击者可利用特制正规表达式执行程序代码。",
+      "lang": "zh",
+      "source": "iThome 台灣",
+      "url": "https://www.ithome.com.tw/news/179954",
+      "published": "2026-10-26T03:10:34+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "Tailscale SSH轉送功能遭揭權限提升漏洞，一般帳號恐取得伺服器最高權限",
+    "summary": "Tailscale SSH转送功能存在权限提升漏洞。攻击者若控制已授权设备，可能在SSH转送获准情况下取得其他服务器最高权限。",
+    "lang": "zh",
+    "source": "iThome 台灣",
+    "url": "https://www.ithome.com.tw/news/179953",
+    "published": "2026-10-26T02:10:09+00:00",
+    "event_id": "62b1081799e7",
+    "sources": [
+     {
+      "title": "Tailscale SSH轉送功能遭揭權限提升漏洞，一般帳號恐取得伺服器最高權限",
+      "summary": "Tailscale SSH转送功能存在权限提升漏洞。攻击者若控制已授权设备，可能在SSH转送获准情况下取得其他服务器最高权限。",
+      "lang": "zh",
+      "source": "iThome 台灣",
+      "url": "https://www.ithome.com.tw/news/179953",
+      "published": "2026-10-26T02:10:09+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "日本快遞業者佐川急便網站服務被駭，外洩個人、企業及會員個資逾5,300萬筆",
+    "summary": "日本快递业者佐川急便网站遭黑客入侵，超5300万笔客户资料外泄。该公司已关闭受影响服务并于10月23日重启查询服务。",
+    "lang": "zh",
+    "source": "iThome 台灣",
+    "url": "https://www.ithome.com.tw/news/179948",
+    "published": "2026-10-26T10:10:45+00:00",
+    "event_id": "7566e0ceb50c",
+    "sources": [
+     {
+      "title": "日本快遞業者佐川急便網站服務被駭，外洩個人、企業及會員個資逾5,300萬筆",
+      "summary": "日本快递业者佐川急便网站遭黑客入侵，超5300万笔客户资料外泄。该公司已关闭受影响服务并于10月23日重启查询服务。",
+      "lang": "zh",
+      "source": "iThome 台灣",
+      "url": "https://www.ithome.com.tw/news/179948",
+      "published": "2026-10-26T10:10:45+00:00"
+     }
+    ],
+    "status": "unclear",
+    "change_summary": "",
+    "previous_date": "2026-10-25",
+    "previous_event_id": "7566e0ceb50c"
+   }
+  ]
+ }
+}
