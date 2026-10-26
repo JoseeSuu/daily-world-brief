@@ -71,6 +71,15 @@ footer a{color:var(--accent)}
 .sources li{margin-bottom:.4rem}
 .sources a{color:var(--accent)}
 .card[id]{scroll-margin-top:6rem}
+.aihot{display:flex; align-items:center; justify-content:space-between; gap:.8rem;
+  margin-top:.9rem; padding:.75rem .95rem; border-radius:.8rem; text-decoration:none;
+  color:var(--text); background:var(--card); border:1px solid var(--border);
+  border-left:4px solid var(--accent); transition:border-color .15s, transform .15s}
+.aihot:hover{border-color:var(--accent); transform:translateY(-1px)}
+.aihot b{display:block; font-size:.95rem}
+.aihot small{color:var(--muted); font-size:.8rem}
+.aihot-go{flex:none; display:grid; place-items:center; width:2rem; height:2rem;
+  border-radius:50%; background:var(--accent); color:#fff; font-weight:700}
 @media(min-width:640px){
   .grid{display:grid; grid-template-columns:repeat(3,1fr); gap:.9rem}
   .continent{margin-top:0}
@@ -92,6 +101,10 @@ footer a{color:var(--accent)}
 </header>
 <main>
   <div class="market" id="market"></div>
+  <a class="aihot" href="https://aihot.news" target="_blank" rel="noopener">
+    <span><b>Novedades de IA</b><small>Lo más destacado del día en AIHOT</small></span>
+    <span class="aihot-go" aria-hidden="true">↗</span>
+  </a>
   <div id="content"></div>
 </main>
 <footer id="footer"></footer>
@@ -140,30 +153,6 @@ function render(){
 
   const root = document.getElementById("content");
   root.innerHTML = "";
-  if (brief.radar){
-    const radar = brief.radar;
-    const items = radar.items.filter(it => active.has(it.lang || "en"));
-    let html = `<section class="section" id="radar"><h2>Radar IA</h2>
-      <p class="empty">Hasta 3 descubrimientos para aprender y trabajar con IA. Utilidad por comprobar.</p>`;
-    for (const it of items){
-      html += `<article class="card">
-        <h4><a href="${esc(it.url)}" target="_blank" rel="noopener">${esc(it.title)}</a></h4>
-        <p><b>Según la fuente:</b> ${esc(it.summary)}</p>
-        <p><b>Posible utilidad:</b> ${esc(it.usefulness)}</p>
-        <p><b>Por comprobar:</b> ${esc(it.to_verify)}</p>
-        <div class="meta"><span class="tag">${LANG_TAG[it.lang] || "EN"}</span>
-          <span>${it.kind === "project" ? "Proyecto · descripción del autor" : "Comunidad · publicación sin verificar"}</span>
-          <a href="${esc(it.url)}" target="_blank" rel="noopener">${esc(it.source)}</a>
-          ${it.discussion_url ? `<a href="${esc(it.discussion_url)}" target="_blank" rel="noopener">Conversación</a>` : ""}
-          <span>${it.kind === "project" ? "Repositorio creado" : "Publicado en HN"}: ${fmtTime(it.published)}</span>
-        </div></article>`;
-    }
-    if (!items.length) html += `<p class="empty">${radar.mode === "unavailable"
-      ? "Radar no disponible hoy: no se pudo completar la selección."
-      : radar.items.length ? "Sin novedades en los idiomas elegidos." : "Sin novedades suficientemente relevantes hoy."}</p>`;
-    if (radar.failed_sources.length) html += `<p class="empty">Fuentes del radar no disponibles o incompletas: ${esc(radar.failed_sources.map(f=>f.name).join(", "))}.</p>`;
-    root.innerHTML = html + "</section>";
-  }
   let shown = 0;
   for (const sec of Object.keys(SECTIONS)){
     let html = `<section class="section"><h2>${SECTIONS[sec]}</h2><div class="grid">`;
