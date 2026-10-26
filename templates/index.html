@@ -90,6 +90,13 @@ main{max-width:1040px; margin:0 auto; padding:0 .9rem 3rem}
 .sources li{margin-bottom:.4rem}
 .sources a{color:var(--accent)}
 .card[id]{scroll-margin-top:5rem}
+.analyze{margin-top:.55rem; background:none; border:1px solid var(--border); color:var(--text);
+  border-radius:999px; padding:.22rem .7rem; font:600 .75rem/1.4 inherit; cursor:pointer}
+.analyze:hover{border-color:var(--accent); color:var(--accent)}
+.toast{position:fixed; left:50%; bottom:1.2rem; transform:translateX(-50%) translateY(150%);
+  background:var(--text); color:var(--bg); padding:.6rem 1rem; border-radius:.6rem;
+  font-size:.85rem; max-width:90vw; transition:transform .25s; z-index:20}
+.toast.show{transform:translateX(-50%) translateY(0)}
 
 .lead{margin-top:.6rem}
 .lead .rule-title{border-top:0}
@@ -157,6 +164,7 @@ footer a{color:var(--accent)}
   <div id="content"></div>
 </main>
 <footer id="footer"></footer>
+<div class="toast" id="toast" role="status"></div>
 
 <script type="application/json" id="brief-data">__BRIEF_JSON__</script>
 <script type="application/json" id="dates-data">__DATES_JSON__</script>
@@ -168,6 +176,10 @@ const SECTIONS = {
   tecnologia:"Tecnología e IA",
 };
 const CONTINENTS = { asia:"Asia", europa:"Europa", america:"América" };
+// Chat de Claude donde se analizan las noticias. Una conversación ya empezada no
+// acepta texto por enlace: el botón copia la noticia y abre el chat para pegarla.
+// Sin enlace, abre un chat nuevo con la noticia ya escrita.
+const ANALYSIS_CHAT = "";
 const LANG_TAG = { es:"ES", en:"EN", zh:"中文" };
 // Solo se etiqueta lo que aporta: novedades sobre ayer y lo que sigue igual.
 const STATUS = {updated:'<span class="kicker flag">Con novedades</span>',
@@ -224,6 +236,7 @@ function card(it, extra = "", kicker = ""){
       <span>${fmtTime(display.published)}</span>
       ${previous ? `<a href="${esc(previous)}">Ver ayer</a>` : ""}
     </div>
+    <button class="analyze" type="button" data-story="${esc(storyKey(it))}">Analizar en Claude ↗</button>
     ${sources.length > 1 ? `<details class="sources"><summary>${sources.length} medios · ver cobertura original</summary><ul>${sources.map(s =>
       `<li><span class="tag">${LANG_TAG[s.lang] || "EN"}</span> <a href="${esc(s.url)}" target="_blank" rel="noopener">${esc(s.title)}</a> · ${esc(s.source)}</li>`).join("")}</ul></details>` : ""}
   </article>`;
@@ -235,7 +248,55 @@ function fmtDay(d){
   return s.charAt(0).toUpperCase() + s.slice(1);
 }
 
+const storyByKey = new Map();
+function storyKey(it){
+  const key = it.event_id || (it.sources || [it])[0].url;
+  storyByKey.set(key, it);
+  return key;
+}
+
+function analysisPrompt(it){
+  const sources = it.sources || [it];
+  const main = sources.find(s => active.has(s.lang || "en")) || sources[0];
+  let text = `Analiza esta noticia del ${fmtDay(brief.date).toLowerCase()}:\n\n`
+    + `Titular: ${main.title}\nMedio: ${main.source}${main.published ? " (" + fmtTime(main.published) + ")" : ""}\n`
+    + (main.summary ? `Resumen: ${main.summary}\n` : "")
+    + (it.change_summary && it.change_summary !== main.title ? `Novedad respecto a ayer: ${it.change_summary}\n` : "")
+    + `Enlace: ${main.url}\n`;
+  const others = sources.filter(s => s !== main);
+  if (others.length) text += `\nOtras fuentes:\n` + others.map(s => `- ${s.title} (${s.source}): ${s.url}`).join("\n") + "\n";
+  return text;
+}
+
+let toastTimer;
+function toast(msg){
+  const t = document.getElementById("toast");
+  t.textContent = msg; t.classList.add("show");
+  clearTimeout(toastTimer); toastTimer = setTimeout(() => t.classList.remove("show"), 4000);
+}
+
+document.addEventListener("click", async e => {
+  const btn = e.target.closest(".analyze");
+  if (!btn) return;
+  const it = storyByKey.get(btn.dataset.story);
+  if (!it) return;
+  const text = analysisPrompt(it);
+  if (!ANALYSIS_CHAT){
+    window.open("https://claude.ai/new?q=" + encodeURIComponent(text), "_blank", "noopener");
+    return;
+  }
+  // Se abre la pestaña dentro del clic (si no, el navegador la bloquea) y luego se copia.
+  window.open(ANALYSIS_CHAT, "_blank", "noopener");
+  try{
+    await navigator.clipboard.writeText(text);
+    toast("Noticia copiada. Pégala en el chat con Ctrl+V (o mantén pulsado en el móvil).");
+  }catch(err){
+    toast("No se pudo copiar automáticamente. Copia el titular y el enlace a mano.");
+  }
+});
+
 function render(){
+  storyByKey.clear();
   document.getElementById("todayLine").textContent = fmtDay(brief.date);
   document.querySelectorAll(".filt").forEach(b=>
     b.classList.toggle("on", active.has(b.dataset.lang)));
