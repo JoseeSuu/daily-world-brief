@@ -231,3 +231,14 @@ def test_build_html(tmp_path, monkeypatch):
     assert (build_mod.SITE / "sw.js").exists()
     feed = (build_mod.SITE / "feed.xml").read_text(encoding="utf-8")
     assert "<rss" in feed and "https://e.com/1" in feed
+
+
+def test_build_simplifies_traditional_chinese():
+    brief = {"cells": {"tecnologia|asia": [{
+        "lang": "zh", "title": "網站服務被駭", "summary": "外洩個資", "source": "經濟日報 台灣",
+        "sources": [{"lang": "zh", "title": "網站服務被駭", "source": "中央社"},
+                    {"lang": "en", "title": "Site hacked", "source": "Nikkei"}]}]}}
+    story = build_mod.simplify(brief)["cells"]["tecnologia|asia"][0]
+    assert (story["title"], story["summary"], story["source"]) == ("网站服务被骇", "外泄个资", "经济日报 台湾")
+    assert story["sources"][0]["title"] == "网站服务被骇"
+    assert story["sources"][1]["title"] == "Site hacked"

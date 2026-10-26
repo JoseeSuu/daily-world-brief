@@ -3,19 +3,23 @@
 
 - Inyecta el brief más reciente en index.html (primer render sin fetch).
 - Copia los JSON de los últimos 30 días a site/data/ para el selector de fechas.
+- Pasa el chino tradicional (fuentes de Taiwán y Hong Kong) a simplificado, más
+  fácil de leer; data/ conserva el texto original.
 - Genera feed.xml (RSS del brief), manifest.json, sw.js e icon.svg.
 """
 import datetime as dt
 import email.utils
 import html
 import json
-import shutil
 from pathlib import Path
+
+from opencc import OpenCC
 
 ROOT = Path(__file__).resolve().parent.parent
 DATA = ROOT / "data"
 SITE = ROOT / "site"
 KEEP_DAYS = 30
+TO_SIMPLIFIED = OpenCC("t2s")
 
 ICON_SVG = """<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100">
 <rect width="100" height="100" rx="20" fill="#2563eb"/>
@@ -104,17 +108,34 @@ def build_rss(brief: dict, site_url: str) -> str:
     )
 
 
+def simplify(brief: dict) -> dict:
+    """Pasa a chino simplificado los textos de las noticias en chino (titular,
+    resumen, cambio y nombre del medio), también en sus otras fuentes."""
+    def fix(story):
+        if story.get("lang") == "zh":
+            for key in ("title", "summary", "change_summary", "source"):
+                if story.get(key):
+                    story[key] = TO_SIMPLIFIED.convert(story[key])
+        for source in story.get("sources", []):
+            fix(source)
+    for stories in brief.get("cells", {}).values():
+        for story in stories:
+            fix(story)
+    return brief
+
+
 def build(site_url: str = "https://example.github.io/daily-world-brief/") -> Path:
     briefs = recent_briefs()
     if not briefs:
         raise SystemExit("No hay ningún JSON en data/ — ejecuta antes collect + summarize.")
-    latest = json.loads(briefs[0].read_text(encoding="utf-8"))
+    latest = simplify(json.loads(briefs[0].read_text(encoding="utf-8")))
     dates = [f.stem for f in briefs]
 
     SITE.mkdir(exist_ok=True)
     (SITE / "data").mkdir(exist_ok=True)
     for f in briefs:
-        shutil.copy2(f, SITE / "data" / f.name)
+        brief = simplify(json.loads(f.read_text(encoding="utf-8")))
+        (SITE / "data" / f.name).write_text(json.dumps(brief, ensure_ascii=False), encoding="utf-8")
     # purgar del sitio los JSON fuera de la ventana de 30 días
     for f in (SITE / "data").glob("????-??-??.json"):
         if f.stem not in dates:
