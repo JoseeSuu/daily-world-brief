@@ -67,7 +67,7 @@ main{max-width:1040px; margin:0 auto; padding:0 .9rem 3rem}
   color:var(--muted); font-weight:700; margin-bottom:.1rem}
 
 .card{padding:.85rem 0; border-top:1px solid var(--border)}
-.continent>h3+.card{border-top:0}
+.cards>.card:first-child{border-top:0}
 .card h4{font-family:var(--serif); font-weight:600; font-size:1.13rem; line-height:1.25;
   margin-bottom:.35rem}
 .card h4 a{color:inherit; text-decoration:none}
@@ -123,10 +123,16 @@ footer a{color:var(--accent)}
 .warn{margin-top:.3rem}
 
 @media(min-width:720px){
-  .grid{display:grid; grid-template-columns:repeat(3,1fr); gap:0 1.6rem}
-  .grid .continent{margin-top:1rem}
-  .grid .continent + .continent{border-left:1px solid var(--border); padding-left:1.6rem;
-    margin-left:-.8rem}
+  /* Cada continente es una fila con su etiqueta a la izquierda y sus noticias en
+     rejilla: las columnas no dependen de cuántas noticias tenga cada continente,
+     así que no quedan huecos largos al final de las más cortas. */
+  .grid .continent{display:grid; grid-template-columns:7.5rem 1fr; gap:0 1.4rem;
+    padding:1rem 0 .4rem; margin-top:0; border-top:1px solid var(--border)}
+  .grid .continent:first-child{border-top:0}
+  .grid .continent>h3{padding-top:.95rem}
+  .grid .cards{display:grid; grid-template-columns:repeat(auto-fill, minmax(250px, 1fr));
+    gap:0 1.6rem; align-items:start}
+  .grid .cards .card{border-top:0; border-bottom:1px solid var(--border)}
   .lead-grid{grid-template-columns:1.7fr 1fr}
   .lead-main{grid-row:span 2; padding-right:2rem; border-right:1px solid var(--border)}
   .lead-side:first-of-type{border-top:0}
@@ -328,12 +334,12 @@ function render(){
       const all = (brief.cells && brief.cells[`${sec}|${cont}`]) || [];
       const items = all.filter(it => visible(it) && !leadIds.has(it));
       shown += items.length;
-      html += `<div class="continent"><h3>${CONTINENTS[cont]}</h3>`;
+      html += `<div class="continent"><h3>${CONTINENTS[cont]}</h3><div class="cards">`;
       if (!items.length && !all.some(it => leadIds.has(it)))
         html += `<div class="empty">${all.length ? "Sin noticias en los idiomas elegidos."
                                                  : "Sin noticias destacadas hoy."}</div>`;
       for (const it of items) html += card(it);
-      html += `</div>`;
+      html += `</div></div>`;
     }
     root.innerHTML += html + "</div></section>";
   }
