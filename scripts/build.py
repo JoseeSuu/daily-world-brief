@@ -65,8 +65,7 @@ def recent_briefs() -> list:
 
 def build_rss(brief: dict, site_url: str) -> str:
     items_xml = []
-    groups = {**brief.get("cells", {}), "radar": brief.get("radar", {}).get("items", [])}
-    for key, items in sorted(groups.items()):
+    for key, items in sorted(brief.get("cells", {}).items()):
         for it in items:
             title = html.escape(it["title"])
             desc = html.escape(it["summary"] or it["title"])
