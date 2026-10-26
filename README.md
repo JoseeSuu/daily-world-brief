@@ -26,9 +26,10 @@ feed RSS propio y "dato del día" con indicadores de mercado.
 ```
 feeds.yaml ──► scripts/collect.py ──► work/collected.json
                                           │
-              API de Anthropic (claude-haiku-4-5, hasta 6 llamadas):
-              · 3 de selección, una por sección (dedup + continente)
-              · 1 de resumen, agrupada por idioma
+              API de Anthropic (hasta 12 llamadas):
+              · 9 de selección con claude-haiku-5-5: una por sección,
+                3 veces, y vota (dedup + continente)
+              · 1 de resumen, agrupada por idioma (claude-haiku-4-5, como el resto)
                                           ▼
               · 1 de agrupación y comparación con ayer
               · 1 opcional para Radar IA
@@ -47,6 +48,14 @@ feeds.yaml ──► scripts/collect.py ──► work/collected.json
   dejaba pasar duplicados y confundía continentes (DeepMind en Asia, Colombia
   en Europa). Una llamada por sección lo corrige y cuesta lo mismo, porque cada
   noticia se envía una sola vez.
+- **Selección por votación**: con la misma entrada, Haiku 4.5 solo repetía el
+  77 % de su elección, y una de cada cuatro noticias publicadas era opinión o
+  análisis, que las reglas excluyen. Medido el 2026-10-26 sobre 7 días, Haiku 5.5
+  (esfuerzo `high`) eligiendo 3 veces y quedándose con lo que sale al menos en 2
+  repite el 87 % y baja esas piezas al 13 %, por ~0,006 $/día más. Si falla una
+  pasada vota con las demás; si fallan todas, vuelve a una pasada con Haiku 4.5.
+  `selection` en el JSON diario dice qué modelo eligió y cuántas pasadas
+  funcionaron.
 - **Una tarjeta por acontecimiento**: tras seleccionar y resumir, una llamada
   agrupa coberturas del mismo hecho entre secciones e idiomas. Conserva todas
   las fuentes seleccionadas y sus enlaces originales en `sources`; el filtro
@@ -189,6 +198,17 @@ python scripts/review.py --week     # 7 días + tasa de publicación por fuente
 
 `--week` incluye la lista de fuentes que **nunca** se publicaron, útil para
 detectar feeds que solo aportan ruido.
+
+Para medir un cambio en el selector (modelo, prompt, votación) sobre días ya
+archivados, sin tocar la web:
+
+```bash
+python scripts/stability.py         # ¿elige lo mismo si se repite? (~0,27 $ por 7 días)
+python scripts/judge.py             # ¿cuántas elegidas rompen las reglas? (juez: Opus 5.5)
+```
+
+`stability.py` guarda cada prueba en `work/`; `judge.py` compara todas las que
+encuentra allí con lo publicado y no vuelve a pagar lo ya juzgado.
 
 > **Por qué se archiva en vez de reconstruirlo después**: un RSS es una ventana
 > deslizante, no un archivo. Medido el 2026-08-09, 27 de los 37 feeds retienen

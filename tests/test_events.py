@@ -151,7 +151,7 @@ def test_pipeline_loads_yesterday_and_includes_grouping_cost(monkeypatch, tmp_pa
     (tmp_path / "data").mkdir()
     (tmp_path / "data" / f"{yesterday}.json").write_text(json.dumps({
         "date": str(yesterday), "cells": {"economia|europa": [story("https://old", "Old fine")]}}))
-    def call(client, prompt, schema, max_tokens):
+    def call(client, prompt, schema, max_tokens, **_):
         if schema is summarize.SELECT_SCHEMA:
             result = {"cells": [{"continent": "europa", "item_ids": ["a"]}]}
         elif schema is summarize.SUMMARY_SCHEMA:
@@ -164,10 +164,14 @@ def test_pipeline_loads_yesterday_and_includes_grouping_cost(monkeypatch, tmp_pa
     monkeypatch.setattr(summarize, "call_json", call)
     item = {**story("https://a", "Fine confirmed"), "id": "a", "section": "economia",
             "continent": "europa", "excerpt": "Confirmed fine"}
-    cells, mode, cost, meta = summarize.run_ai({"items": [item]})
+    cells, mode, cost, meta, selection = summarize.run_ai({"items": [item]})
     assert mode == "full" and meta["mode"] == "full"
+    assert selection["model"] == summarize.SELECT_MODEL and selection["passes_ok"] == 3
     assert meta["compared_with"] == str(yesterday)
     assert cells["economia|europa"][0]["status"] == "unchanged"
     assert bool(cells["economia|europa"][0]["summary"]) is not wrong_language
-    assert cost == pytest.approx((360 * summarize.PRICE_IN + 30 * summarize.PRICE_OUT) / 1e6)
+    # 3 pasadas de selección con SELECT_MODEL; resumen y agrupación con MODEL
+    select_in, select_out = summarize.PRICES[summarize.SELECT_MODEL]
+    assert cost == pytest.approx((240 * summarize.PRICE_IN + 20 * summarize.PRICE_OUT
+                                  + 360 * select_in + 30 * select_out) / 1e6)
     assert meta["cost_usd"] == round((120 * summarize.PRICE_IN + 10 * summarize.PRICE_OUT) / 1e6, 4)
