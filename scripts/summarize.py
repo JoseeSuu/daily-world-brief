@@ -271,20 +271,13 @@ def call_json(client, prompt: str, schema: dict, max_tokens: int) -> tuple:
     return json.loads(text), resp.usage
 
 
-def run_ai(collected: dict) -> tuple:
-    """Return cells, mode, estimated cost and event-grouping metadata."""
-    import anthropic
-    client = anthropic.Anthropic()
-
-    items = interleave_by_source(collected["items"])[:MAX_INPUT_ITEMS]
-    by_id = {i["id"]: i for i in items}
-    usage_total = [0, 0]
-
-    # ── Fase 1: una llamada de selección POR SECCIÓN ──
-    # Con las 9 celdas en una sola llamada, Haiku dejaba pasar duplicados y
-    # confundía continentes; con ~1/3 de los ítems por llamada acierta mucho más,
-    # y el coste total es casi idéntico (cada ítem se envía una sola vez).
-    chosen = {}  # id -> (section, continent)
+def select_items(client, items: list) -> tuple:
+    """Fase 1: una llamada de selección POR SECCIÓN.
+    Con las 9 celdas en una sola llamada, Haiku dejaba pasar duplicados y
+    confundía continentes; con ~1/3 de los ítems por llamada acierta mucho más,
+    y el coste total es casi idéntico (cada ítem se envía una sola vez).
+    Devuelve ({id: (section, continent)}, [input_tokens, output_tokens])."""
+    chosen, usage_total = {}, [0, 0]
     for section in SECTIONS:
         pool = [i for i in items if i["section"] == section]
         if not pool:
@@ -303,6 +296,17 @@ def run_ai(collected: dict) -> tuple:
             for iid in cell["item_ids"][:MAX_PER_CELL]:
                 if iid in pool_ids and iid not in chosen:
                     chosen[iid] = (section, cell["continent"])
+    return chosen, usage_total
+
+
+def run_ai(collected: dict) -> tuple:
+    """Return cells, mode, estimated cost and event-grouping metadata."""
+    import anthropic
+    client = anthropic.Anthropic()
+
+    items = interleave_by_source(collected["items"])[:MAX_INPUT_ITEMS]
+    by_id = {i["id"]: i for i in items}
+    chosen, usage_total = select_items(client, items)
     if not chosen:
         raise RuntimeError("la selección no devolvió ítems válidos")
 
