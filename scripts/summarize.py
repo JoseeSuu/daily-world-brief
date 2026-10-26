@@ -1,6 +1,7 @@
 # -*- coding: utf-8 -*-
-"""Selección, deduplicación, resumen y traducción con la API de Anthropic
-(claude-haiku-4-5, dos llamadas compactas para mantener el coste < 0,05 $/día).
+"""Selección, deduplicación, resumen y traducción con la API de Anthropic:
+la selección con claude-haiku-5-5 por votación de 3 y el resto con
+claude-haiku-4-5, con un coste de ~0,05 $/día.
 
 Entrada:  work/collected.json  (de collect.py)
 Salida:   data/YYYY-MM-DD.json (esquema trilingüe)
@@ -20,13 +21,23 @@ sys.path.insert(0, str(ROOT / "scripts"))
 from market import get_market  # noqa: E402
 
 MODEL = os.environ.get("DWB_MODEL", "claude-haiku-4-5")
+# La selección usa Haiku 5.5 y vota: elige 3 veces y se queda con lo que salga
+# al menos en 2. Medido el 2026-10-26 sobre 7 días (scripts/stability.py y
+# judge.py): la elección se repite un 87 % frente al 77 % de Haiku 4.5 con una
+# sola pasada, y las piezas que rompen QUALITY_RULES bajan del 24 % al 13 %.
+SELECT_MODEL = os.environ.get("DWB_SELECT_MODEL", "claude-haiku-5-5")
+SELECT_EFFORT = "high"
+SELECT_PASSES = 3
 SECTIONS = ["economia", "politica", "tecnologia"]
 CONTINENTS = ["asia", "europa", "america"]
 MAX_INPUT_ITEMS = 250      # tope de titulares que entran en la llamada 1
 MIN_PER_CELL, MAX_PER_CELL = 3, 5  # sin traducción x3 el coste queda ~0,03 $/día
 
-# Precios Haiku 4.5 ($/MTok) para el log de coste
-PRICE_IN, PRICE_OUT = 1.0, 5.0
+# Precios ($/MTok, entrada y salida) para el log de coste. Haiku 5.5 tiene
+# otra tarifa por encima de 100K tokens de prompt; aquí nunca se llega.
+PRICES = {"claude-haiku-4-5": (1.0, 5.0), "claude-haiku-5-5": (0.10, 0.50),
+          "claude-opus-5-5": (4.0, 20.0)}
+PRICE_IN, PRICE_OUT = PRICES.get(MODEL, PRICES["claude-haiku-4-5"])
 
 SELECT_SCHEMA = {
     "type": "object",
@@ -93,15 +104,18 @@ never asia). "continent_hint: global" means you must decide from the title.
 If a story is about relations between two continents, file it under the one
 where the main action happens.
 
-QUALITY — include only hard, factual news of international significance. Reject
-opinion and analysis pieces, listicles, product reviews, consumer surveys,
-routine service notices, sport, lifestyle, travel, food and celebrity items.
-Leaving a continent short is better than padding it with a weak story.
+{quality}
 
 Use only ids from the list below.
 
 ITEMS:
 {items}"""
+
+# Aparte del prompt porque judge.py audita la selección con estas mismas reglas.
+QUALITY_RULES = """QUALITY — include only hard, factual news of international significance. Reject
+opinion and analysis pieces, listicles, product reviews, consumer surveys,
+routine service notices, sport, lifestyle, travel, food and celebrity items.
+Leaving a continent short is better than padding it with a weak story."""
 
 SECTION_LABELS = {
     "economia": "Economy, markets and central banks",
@@ -259,19 +273,28 @@ def detect_lang(item: dict) -> str:
     return lang if lang in ("es", "en", "zh") else "en"
 
 
-def call_json(client, prompt: str, schema: dict, max_tokens: int) -> tuple:
-    """Llamada con salida estructurada. Devuelve (dict, usage)."""
+def call_json(client, prompt: str, schema: dict, max_tokens: int,
+              model: str = None, effort: str = None) -> tuple:
+    """Llamada con salida estructurada. Devuelve (dict, usage).
+    effort solo vale en los modelos 5.x (Haiku 4.5 lo rechaza), que además
+    razonan antes de responder: la respuesta puede empezar con bloques
+    `thinking`, así que el texto se busca por tipo."""
+    config = {"format": {"type": "json_schema", "schema": schema}}
+    if effort:
+        config["effort"] = effort
     resp = client.messages.create(
-        model=MODEL,
+        model=model or MODEL,
         max_tokens=max_tokens,
-        output_config={"format": {"type": "json_schema", "schema": schema}},
+        output_config=config,
         messages=[{"role": "user", "content": prompt}],
     )
+    if resp.stop_reason in ("refusal", "max_tokens"):
+        raise RuntimeError(f"respuesta incompleta ({resp.stop_reason})")
     text = next(b.text for b in resp.content if b.type == "text")
     return json.loads(text), resp.usage
 
 
-def select_items(client, items: list) -> tuple:
+def select_items(client, items: list, model: str = None, effort: str = None) -> tuple:
     """Fase 1: una llamada de selección POR SECCIÓN.
     Con las 9 celdas en una sola llamada, Haiku dejaba pasar duplicados y
     confundía continentes; con ~1/3 de los ítems por llamada acierta mucho más,
@@ -286,8 +309,9 @@ def select_items(client, items: list) -> tuple:
             client,
             SELECT_PROMPT.format(section_label=SECTION_LABELS[section],
                                  min_c=MIN_PER_CELL, max_c=MAX_PER_CELL,
-                                 items=compact_listing(pool)),
-            SELECT_SCHEMA, max_tokens=1200,
+                                 quality=QUALITY_RULES, items=compact_listing(pool)),
+            # margen para el razonamiento de los modelos 5.x; la respuesta en sí ocupa ~150
+            SELECT_SCHEMA, max_tokens=16000, model=model, effort=effort,
         )
         usage_total[0] += usage.input_tokens
         usage_total[1] += usage.output_tokens
@@ -299,16 +323,80 @@ def select_items(client, items: list) -> tuple:
     return chosen, usage_total
 
 
+def combine_votes(runs: list, need: int = None) -> dict:
+    """Se queda con lo que eligieron al menos `need` pasadas (por defecto, la
+    mayoría), en el continente más votado (a igualdad, el de la primera pasada
+    que lo eligió). Si una celda pasa de MAX_PER_CELL, gana lo más votado y, a
+    igualdad, lo que apareció antes. No rellena: una celda corta es mejor que
+    una floja."""
+    need = need or len(runs) // 2 + 1
+    votes = defaultdict(list)  # id -> celdas, en orden de pasada
+    for run in runs:
+        for iid, cell in run.items():
+            votes[iid].append(tuple(cell))
+    kept = defaultdict(list)
+    for order, (iid, cells) in enumerate(votes.items()):
+        if len(cells) >= need:
+            cell = max(cells, key=lambda c: (cells.count(c), -cells.index(c)))
+            kept[cell].append((-len(cells), order, iid))
+    return {iid: cell for cell, rows in kept.items()
+            for _, _, iid in sorted(rows)[:MAX_PER_CELL]}
+
+
+def select_by_vote(client, items: list, passes: int = 3, **options) -> tuple:
+    """Selección por votación: repite select_items `passes` veces y se queda
+    con lo que elige la mayoría de `passes` (2 de 3). Una pasada que falla
+    (rechazo del modelo, error de la API) cuenta como pasada sin votos; si
+    solo queda una, vale lo que eligió; si fallan todas, lanza el error.
+    Devuelve (elegidas, [input_tokens, output_tokens], pasadas que funcionaron)."""
+    runs, usage, error = [], [0, 0], None
+    for _ in range(passes):
+        try:
+            chosen, u = select_items(client, items, **options)
+        except Exception as ex:
+            error = ex
+            print(f"[AVISO] Una pasada de selección falló: {type(ex).__name__}: {ex}",
+                  file=sys.stderr)
+            continue
+        runs.append(chosen)
+        usage = [usage[0] + u[0], usage[1] + u[1]]
+    if not runs:
+        raise error
+    return combine_votes(runs, need=min(passes // 2 + 1, len(runs))), usage, runs
+
+
+def run_selection(client, items: list) -> tuple:
+    """Selección por votación con SELECT_MODEL; si fallan todas las pasadas,
+    la selección de antes (una pasada con MODEL), porque mejor eso que un
+    brief sin resúmenes. Devuelve (elegidas, coste, metadatos)."""
+    meta = {"model": SELECT_MODEL, "effort": SELECT_EFFORT, "passes": SELECT_PASSES}
+    try:
+        chosen, usage, runs = select_by_vote(client, items, SELECT_PASSES,
+                                             model=SELECT_MODEL, effort=SELECT_EFFORT)
+        meta["passes_ok"] = len(runs)
+        price_in, price_out = PRICES.get(SELECT_MODEL, (PRICE_IN, PRICE_OUT))
+    except Exception as ex:
+        print(f"[AVISO] Votación no disponible ({type(ex).__name__}: {ex}); "
+              f"selección de una pasada con {MODEL}", file=sys.stderr)
+        chosen, usage = select_items(client, items)
+        meta.update(model=MODEL, effort=None, passes=1, passes_ok=1)
+        price_in, price_out = PRICE_IN, PRICE_OUT
+    cost = usage[0] / 1e6 * price_in + usage[1] / 1e6 * price_out
+    meta["cost_usd"] = round(cost, 4)
+    return chosen, cost, meta
+
+
 def run_ai(collected: dict) -> tuple:
-    """Return cells, mode, estimated cost and event-grouping metadata."""
+    """Return cells, mode, estimated cost, event-grouping and selection metadata."""
     import anthropic
     client = anthropic.Anthropic()
 
     items = interleave_by_source(collected["items"])[:MAX_INPUT_ITEMS]
     by_id = {i["id"]: i for i in items}
-    chosen, usage_total = select_items(client, items)
+    chosen, select_cost, selection = run_selection(client, items)
     if not chosen:
         raise RuntimeError("la selección no devolvió ítems válidos")
+    usage_total = [0, 0]  # resto de llamadas, todas con MODEL
 
     # ── Fase 2: una sola llamada de resumen, agrupando por idioma ──
     # Agrupar es mucho más fiable que un campo "lang" inline: con el campo
@@ -375,8 +463,10 @@ def run_ai(collected: dict) -> tuple:
     usage_total[1] += events.pop("output_tokens")
 
     cost = usage_total[0] / 1e6 * PRICE_IN + usage_total[1] / 1e6 * PRICE_OUT
-    print(f"Tokens: {usage_total[0]} in / {usage_total[1]} out -> ${cost:.4f}")
-    return cells, "full", cost, events
+    print(f"Selección ({selection['model']}, {selection['passes_ok']}/{selection['passes']} "
+          f"pasadas): ${select_cost:.4f}")
+    print(f"Tokens resto: {usage_total[0]} in / {usage_total[1]} out -> ${cost:.4f}")
+    return cells, "full", cost + select_cost, events, selection
 
 
 def run_fallback(collected: dict) -> dict:
@@ -523,10 +613,11 @@ def main():
 
     cost = 0.0
     events = {"mode": "unavailable", "cost_usd": 0.0}
+    selection = {"model": None, "passes_ok": 0, "cost_usd": 0.0}
     try:
         if not os.environ.get("ANTHROPIC_API_KEY"):
             raise RuntimeError("ANTHROPIC_API_KEY no definida")
-        cells, mode, cost, events = run_ai(collected)
+        cells, mode, cost, events, selection = run_ai(collected)
     except Exception as ex:
         print(f"[AVISO] Fallback sin IA: {ex}", file=sys.stderr)
         cells, mode = run_fallback(collected), "headlines-only"
@@ -538,6 +629,7 @@ def main():
         "mode": mode,
         "cost_usd": round(cost + radar_cost, 4),
         "radar_cost_usd": round(radar_cost, 4),
+        "selection": selection,
         "events": events,
         "radar": {k: v for k, v in radar.items() if k != "seen_ids"},
         "market": get_market(),

@@ -5,6 +5,8 @@ import sys
 from pathlib import Path
 from types import SimpleNamespace
 
+import pytest
+
 ROOT = Path(__file__).resolve().parent.parent
 sys.path.insert(0, str(ROOT / "scripts"))
 
@@ -25,18 +27,23 @@ def _collected():
 
 
 class FakeClient:
-    """Elige siempre los dos primeros ids de la lista que recibe."""
-    def __init__(self):
-        self.listings = []
+    """Elige siempre los dos primeros ids de la lista que recibe. Responde
+    como los modelos 5.x: un bloque thinking vacío antes del texto."""
+    def __init__(self, stop_reason="end_turn"):
+        self.listings, self.calls, self.stop_reason = [], [], stop_reason
         self.messages = SimpleNamespace(create=self.create)
 
-    def create(self, messages, **_):
+    def create(self, messages, **kwargs):
+        self.calls.append(kwargs)
         rows = messages[0]["content"].split("ITEMS:\n", 1)[1].splitlines()
         ids = [r.split("|", 1)[0] for r in rows]
         self.listings.append(ids)
         text = json.dumps({"cells": [{"continent": "asia", "item_ids": ids[:2]}]})
-        return SimpleNamespace(content=[SimpleNamespace(type="text", text=text)],
-                               usage=SimpleNamespace(input_tokens=100, output_tokens=10))
+        return SimpleNamespace(
+            content=[SimpleNamespace(type="thinking", thinking=""),
+                     SimpleNamespace(type="text", text=text)],
+            stop_reason=self.stop_reason,
+            usage=SimpleNamespace(input_tokens=100, output_tokens=10))
 
 
 def test_compare_matches_events_across_outlets():
@@ -81,3 +88,99 @@ def test_run_day_compares_two_passes(tmp_path, monkeypatch):
     stability.run_day(shuffled, "2026-01-01", shuffle=True)
     assert shuffled.listings[:3] != shuffled.listings[3:]
     assert [sorted(x) for x in shuffled.listings[:3]] == [sorted(x) for x in shuffled.listings[3:]]
+
+
+def test_call_json_reads_text_after_thinking_and_passes_effort():
+    client = FakeClient()
+    prompt = "ITEMS:\nid1|Src|global|Fed raises interest rates"
+    result, _ = summarize.call_json(client, prompt, {}, 100, model="claude-haiku-5-5", effort="high")
+    assert result["cells"][0]["item_ids"] == ["id1"]
+    assert client.calls[0]["model"] == "claude-haiku-5-5"
+    assert client.calls[0]["output_config"]["effort"] == "high"
+    summarize.call_json(client, prompt, {}, 100)  # Haiku 4.5 rechaza effort: no se envía
+    assert "effort" not in client.calls[1]["output_config"]
+    assert client.calls[1]["model"] == summarize.MODEL
+
+
+def test_call_json_rejects_incomplete_answers():
+    for reason in ("max_tokens", "refusal"):
+        with pytest.raises(RuntimeError, match=reason):
+            summarize.call_json(FakeClient(stop_reason=reason), "ITEMS:\nx|y|z|w", {}, 100)
+
+
+def test_combine_votes_keeps_the_majority():
+    e = "economia"
+    runs = [{"x": (e, "asia"), "y": (e, "asia"), "z": (e, "europa")},
+            {"x": (e, "europa"), "y": (e, "asia")},
+            {"x": (e, "europa"), "w": (e, "asia")}]
+    assert summarize.combine_votes(runs) == {"x": (e, "europa"), "y": (e, "asia")}
+    # empate de continente: gana el de la primera pasada que la eligió
+    assert summarize.combine_votes([{"x": (e, "asia")}, {"x": (e, "europa")},
+                                    {}]) == {"x": (e, "asia")}
+
+
+def test_combine_votes_caps_cells_by_votes_then_order():
+    e, cell = "economia", ("economia", "asia")
+    full = {f"id{n}": cell for n in range(7)}
+    runs = [full, full, {"id6": cell, "id5": cell}]
+    kept = summarize.combine_votes(runs)
+    assert len(kept) == summarize.MAX_PER_CELL
+    assert {"id5", "id6"} <= set(kept)  # tres votos van primero
+    assert {"id0", "id1", "id2"} <= set(kept)
+
+
+def test_run_day_with_vote(tmp_path, monkeypatch):
+    monkeypatch.setattr(summarize, "ROOT", tmp_path)
+    summarize.save_candidates(_collected(), {}, "2026-01-01")
+    monkeypatch.setattr(stability, "CAND", tmp_path / "candidates")
+    client = FakeClient()
+    r = stability.run_day(client, "2026-01-01", False, vote=3,
+                          model="claude-haiku-5-5", effort="high")
+    assert len(client.listings) == 18  # 2 pasadas x 3 votos x 3 secciones
+    assert all(c["model"] == "claude-haiku-5-5" for c in client.calls)
+    assert len(r["raw_a"]) == len(r["raw_b"]) == len(r["single"]) == 3
+    assert r["a"] == r["b"] and r["usage"] == [1800, 180]
+    assert stability.pooled(r["single"]) == 1.0
+
+
+class FlakyClient(FakeClient):
+    """Falla las primeras `fail` llamadas con un rechazo del modelo."""
+    def __init__(self, fail):
+        super().__init__()
+        self.fail = fail
+
+    def create(self, messages, **kwargs):
+        reply = super().create(messages, **kwargs)
+        if len(self.calls) <= self.fail:
+            reply.stop_reason = "refusal"
+        return reply
+
+
+def _economia_items():
+    return [{"id": f"id{n}", "source": "Src", "section": "economia", "continent": "global",
+             "title": TOPICS[n]} for n in range(4)]
+
+
+def test_select_by_vote_survives_a_failed_pass():
+    # una sola sección: la 1ª pasada falla y quedan 2, que deben coincidir
+    chosen, usage, runs = summarize.select_by_vote(FlakyClient(fail=1), _economia_items(), 3)
+    assert len(runs) == 2 and set(chosen) == {"id0", "id1"} and usage == [200, 20]
+    # si solo queda una pasada, vale lo que eligió
+    chosen, _, runs = summarize.select_by_vote(FlakyClient(fail=2), _economia_items(), 3)
+    assert len(runs) == 1 and set(chosen) == {"id0", "id1"}
+    with pytest.raises(RuntimeError, match="refusal"):
+        summarize.select_by_vote(FlakyClient(fail=3), _economia_items(), 3)
+
+
+def test_run_selection_falls_back_to_the_old_selection():
+    client = FlakyClient(fail=3)
+    chosen, cost, meta = summarize.run_selection(client, _economia_items())
+    assert set(chosen) == {"id0", "id1"}
+    assert meta["model"] == summarize.MODEL and meta["passes_ok"] == 1
+    assert client.calls[-1]["model"] == summarize.MODEL
+    assert "effort" not in client.calls[-1]["output_config"]
+    assert cost == pytest.approx((100 * summarize.PRICE_IN + 10 * summarize.PRICE_OUT) / 1e6)
+
+    chosen, cost, meta = summarize.run_selection(FakeClient(), _economia_items())
+    assert meta == {"model": "claude-haiku-5-5", "effort": "high", "passes": 3,
+                    "passes_ok": 3, "cost_usd": round(cost, 4)}
