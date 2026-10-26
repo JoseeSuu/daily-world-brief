@@ -93,10 +93,6 @@ main{max-width:1040px; margin:0 auto; padding:0 .9rem 3rem}
 .analyze{margin-top:.55rem; background:none; border:1px solid var(--border); color:var(--text);
   border-radius:999px; padding:.22rem .7rem; font:600 .75rem/1.4 inherit; cursor:pointer}
 .analyze:hover{border-color:var(--accent); color:var(--accent)}
-.toast{position:fixed; left:50%; bottom:1.2rem; transform:translateX(-50%) translateY(150%);
-  background:var(--text); color:var(--bg); padding:.6rem 1rem; border-radius:.6rem;
-  font-size:.85rem; max-width:90vw; transition:transform .25s; z-index:20}
-.toast.show{transform:translateX(-50%) translateY(0)}
 
 .lead{margin-top:.6rem}
 .lead .rule-title{border-top:0}
@@ -170,7 +166,6 @@ footer a{color:var(--accent)}
   <div id="content"></div>
 </main>
 <footer id="footer"></footer>
-<div class="toast" id="toast" role="status"></div>
 
 <script type="application/json" id="brief-data">__BRIEF_JSON__</script>
 <script type="application/json" id="dates-data">__DATES_JSON__</script>
@@ -182,10 +177,9 @@ const SECTIONS = {
   tecnologia:"Tecnología e IA",
 };
 const CONTINENTS = { asia:"Asia", europa:"Europa", america:"América" };
-// Chat de Claude donde se analizan las noticias. Una conversación ya empezada no
-// acepta texto por enlace: el botón copia la noticia y abre el chat para pegarla.
-// Sin enlace, abre un chat nuevo con la noticia ya escrita.
-const ANALYSIS_CHAT = "";
+// Versión corta y sin datos personales del prompt del chat «Noticias analisis»: la
+// página es pública y un enlace no admite mucho más texto.
+const ANALYSIS_PROMPT = "Actúa como mi analista de noticias (energía, geopolítica, regulación, mercados financieros, IA, infraestructuras y materias primas). No resumas: explica en español qué ha ocurrido, qué cambia realmente, cómo se transmiten sus consecuencias y qué falta para concluir con solidez. Explica con detalle las sanciones y la jerga financiera y de mercados.\n\nPrincipios:\n— Distingue hechos comprobados, afirmaciones atribuidas, previsiones de terceros, tu interpretación y escenarios hipotéticos.\n— No inventes datos, fuentes, citas ni comprobaciones, y no afirmes haber leído lo que no has abierto. Si no puedes navegar, dilo y limítate al material dado.\n— Si puedes navegar, verifica los hechos centrales en fuentes originales (organismo competente, documentos de la empresa, reguladores), contrasta con medios solventes y cita junto al párrafo.\n— Fechas: distingue publicación, acontecimiento, período de los datos y entrada en vigor. No presentes previsiones como datos ni propuestas como normas vigentes.\n— Vigila: capacidad frente a producción, MW frente a MWh, anunciado frente a operativo, acciones nuevas frente a venta de existentes, propuesta frente a norma vigente, señal de alerta frente a infracción demostrada.\n— Cadena causal: acontecimiento → variable afectada → mecanismo → actores → consecuencias → qué podría cambiarlo. No atribuyas movimientos de mercado sin evidencia e incluye lo que debilita tu interpretación.\n— Cuantifica con unidades y supuestos explícitos, etiqueta los ejemplos hipotéticos y no des probabilidades sin base.\n— Si hablamos de invertir: separa calidad del negocio, crecimiento, valoración, financiación y dilución, riesgo de ejecución y rentabilidad para el accionista. Sin precios objetivo ni apalancamiento.\n\nFormato: modo breve (unas 300 palabras): qué ha pasado, qué cambia, el mecanismo en una frase y qué vigilar, con umbral y fecha. Explica cada sigla la primera vez. Si escribo «a fondo»: título, conclusión inicial, qué está confirmado, qué significa, impactos, riesgos y escenarios, y qué seguir (con umbral y fecha).\n\nAnaliza directamente la noticia siguiente, sin repetir estas instrucciones.";
 const LANG_TAG = { es:"ES", en:"EN", zh:"中文" };
 // Solo se etiqueta lo que aporta: novedades sobre ayer y lo que sigue igual.
 const STATUS = {updated:'<span class="kicker flag">Con novedades</span>',
@@ -264,7 +258,7 @@ function storyKey(it){
 function analysisPrompt(it){
   const sources = it.sources || [it];
   const main = sources.find(s => active.has(s.lang || "en")) || sources[0];
-  let text = `Analiza esta noticia del ${fmtDay(brief.date).toLowerCase()}:\n\n`
+  let text = `${ANALYSIS_PROMPT}\n\nNoticia del ${fmtDay(brief.date).toLowerCase()}:\n`
     + `Titular: ${main.title}\nMedio: ${main.source}${main.published ? " (" + fmtTime(main.published) + ")" : ""}\n`
     + (main.summary ? `Resumen: ${main.summary}\n` : "")
     + (it.change_summary && it.change_summary !== main.title ? `Novedad respecto a ayer: ${it.change_summary}\n` : "")
@@ -274,31 +268,13 @@ function analysisPrompt(it){
   return text;
 }
 
-let toastTimer;
-function toast(msg){
-  const t = document.getElementById("toast");
-  t.textContent = msg; t.classList.add("show");
-  clearTimeout(toastTimer); toastTimer = setTimeout(() => t.classList.remove("show"), 4000);
-}
-
-document.addEventListener("click", async e => {
+document.addEventListener("click", e => {
   const btn = e.target.closest(".analyze");
   if (!btn) return;
   const it = storyByKey.get(btn.dataset.story);
   if (!it) return;
-  const text = analysisPrompt(it);
-  if (!ANALYSIS_CHAT){
-    window.open("https://claude.ai/new?q=" + encodeURIComponent(text), "_blank", "noopener");
-    return;
-  }
-  // Se abre la pestaña dentro del clic (si no, el navegador la bloquea) y luego se copia.
-  window.open(ANALYSIS_CHAT, "_blank", "noopener");
-  try{
-    await navigator.clipboard.writeText(text);
-    toast("Noticia copiada. Pégala en el chat con Ctrl+V (o mantén pulsado en el móvil).");
-  }catch(err){
-    toast("No se pudo copiar automáticamente. Copia el titular y el enlace a mano.");
-  }
+  // claude.ai abre un chat nuevo con el texto ya escrito: solo falta pulsar Enviar.
+  window.open("https://claude.ai/new?q=" + encodeURIComponent(analysisPrompt(it)), "_blank", "noopener");
 });
 
 function render(){
