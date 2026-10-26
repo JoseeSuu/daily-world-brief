@@ -1,9 +1,9 @@
 {
  "date": "2026-10-26",
- "collected_at": "2026-10-26T11:21:32.939829+00:00",
- "total": 448,
+ "collected_at": "2026-10-26T12:01:23.106523+00:00",
+ "total": 453,
  "seen_by_model": 250,
- "selected": 36,
+ "selected": 37,
  "failed_sources": [],
  "items": [
   {
@@ -79,6 +79,18 @@
    "selected": false
   },
   {
+   "id": "354cf174af",
+   "source": "Financial Times",
+   "section": "economia",
+   "continent": "global",
+   "lang": "en",
+   "title": "Meta plans $95bn stock offering to bankroll AI expansion",
+   "url": "https://www.ft.com/content/94e5a0ae-874d-447a-bbfc-cd465a1a7555?syn-25a6b1a6=1",
+   "published": "2026-10-26T11:15:50+00:00",
+   "seen_by_model": true,
+   "selected": true
+  },
+  {
    "id": "9939d78be2",
    "source": "Financial Times",
    "section": "economia",
@@ -88,7 +100,7 @@
    "url": "https://www.ft.com/content/97a60042-f7b6-4c87-9387-8572968a7de0?syn-25a6b1a6=1",
    "published": "2026-10-26T07:28:34+00:00",
    "seen_by_model": true,
-   "selected": false
+   "selected": true
   },
   {
    "id": "e602605fd5",
@@ -123,18 +135,6 @@
    "title": "Guernsey, Jersey and other havens rake in revenues from global minimum tax",
    "url": "https://www.ft.com/content/4c3bf863-b21b-4626-83dd-26c6da3f0d8d?syn-25a6b1a6=1",
    "published": "2026-10-26T05:00:12+00:00",
-   "seen_by_model": true,
-   "selected": false
-  },
-  {
-   "id": "0ffb2436a6",
-   "source": "Financial Times",
-   "section": "economia",
-   "continent": "global",
-   "lang": "en",
-   "title": "Germany to tap Ukrainian tech with missile purchase",
-   "url": "https://www.ft.com/content/f9476b15-c2b6-4b8b-86fc-58ae5795fb87?syn-25a6b1a6=1",
-   "published": "2026-10-26T05:00:30+00:00",
    "seen_by_model": false,
    "selected": false
   },
@@ -172,7 +172,7 @@
    "url": "https://www.ft.com/content/14242b5e-0975-4c7d-92fd-e7c04e87238a?syn-25a6b1a6=1",
    "published": "2026-10-26T05:00:12+00:00",
    "seen_by_model": true,
-   "selected": true
+   "selected": false
   },
   {
    "id": "a9600a4c0e",
@@ -235,6 +235,30 @@
    "selected": true
   },
   {
+   "id": "e69b42b6e8",
+   "source": "Bloomberg Economics",
+   "section": "economia",
+   "continent": "global",
+   "lang": "en",
+   "title": "Nigeria Floats Draft Economic Plan to Outlast Governments",
+   "url": "https://www.bloomberg.com/news/articles/2026-10-26/nigeria-floats-draft-economic-plan-to-outlast-governments",
+   "published": "2026-10-26T11:25:39+00:00",
+   "seen_by_model": true,
+   "selected": false
+  },
+  {
+   "id": "a4d58eba8d",
+   "source": "Bloomberg Economics",
+   "section": "economia",
+   "continent": "global",
+   "lang": "en",
+   "title": "Dutch Government Plans to Cut 25,000 Jobs in AI-Led Overhaul",
+   "url": "https://www.bloomberg.com/news/articles/2026-10-26/dutch-government-plans-to-cut-25-000-jobs-in-ai-led-overhaul",
+   "published": "2026-10-26T10:10:21+00:00",
+   "seen_by_model": true,
+   "selected": true
+  },
+  {
    "id": "9676140a22",
    "source": "Bloomberg Economics",
    "section": "economia",
@@ -268,19 +292,7 @@
    "url": "https://www.bloomberg.com/news/articles/2026-10-26/eu-plans-to-hit-china-with-more-import-curbs-in-early-2027",
    "published": "2026-10-26T08:31:05+00:00",
    "seen_by_model": true,
-   "selected": false
-  },
-  {
-   "id": "a4d58eba8d",
-   "source": "Bloomberg Economics",
-   "section": "economia",
-   "continent": "global",
-   "lang": "en",
-   "title": "Dutch Government Plans to Cut 25,000 Jobs in AI-Led Overhaul",
-   "url": "https://www.bloomberg.com/news/articles/2026-10-26/dutch-government-plans-to-cut-25-000-jobs-in-ai-led-overhaul",
-   "published": "2026-10-26T10:10:21+00:00",
-   "seen_by_model": true,
-   "selected": false
+   "selected": true
   },
   {
    "id": "f1e0c8775f",
@@ -316,7 +328,7 @@
    "url": "https://www.bloomberg.com/news/articles/2026-10-26/euro-zone-slowdown-central-bank-ecb-rates-hold-for-now",
    "published": "2026-10-26T06:20:00+00:00",
    "seen_by_model": true,
-   "selected": false
+   "selected": true
   },
   {
    "id": "b8f0382643",
@@ -328,7 +340,7 @@
    "url": "https://www.bloomberg.com/news/articles/2026-10-26/boe-officials-most-hawkish-since-inflation-was-10-model-shows",
    "published": "2026-10-26T05:00:00+00:00",
    "seen_by_model": true,
-   "selected": true
+   "selected": false
   },
   {
    "id": "034a842cab",
@@ -340,7 +352,7 @@
    "url": "https://www.bloomberg.com/news/articles/2026-10-26/thailand-imports-surge-at-record-pace-on-ai-energy-demand",
    "published": "2026-10-26T03:58:35+00:00",
    "seen_by_model": true,
-   "selected": false
+   "selected": true
   },
   {
    "id": "3c06a718d0",
@@ -351,7 +363,7 @@
    "title": "RBA Warns Retirement Wave Will Test Australian Pension Funds",
    "url": "https://www.bloomberg.com/news/articles/2026-10-25/rba-warns-retirement-wave-will-test-australian-pension-funds",
    "published": "2026-10-25T23:52:07+00:00",
-   "seen_by_model": true,
+   "seen_by_model": false,
    "selected": false
   },
   {
@@ -400,6 +412,54 @@
    "url": "https://www.bloomberg.com/news/articles/2026-10-25/warsh-tells-traders-to-watch-the-data-they-still-follow-the-fed",
    "published": "2026-10-25T15:00:00+00:00",
    "seen_by_model": false,
+   "selected": false
+  },
+  {
+   "id": "bbaf0e8eaa",
+   "source": "Bloomberg Markets",
+   "section": "economia",
+   "continent": "global",
+   "lang": "en",
+   "title": "Stocks Gain Before Tech Earnings as Oil Declines: Markets Wrap",
+   "url": "https://www.bloomberg.com/news/articles/2026-10-25/us-equity-futures-climb-as-crude-oil-price-dips-markets-wrap",
+   "published": "2026-10-25T22:09:07+00:00",
+   "seen_by_model": true,
+   "selected": false
+  },
+  {
+   "id": "75da3691a3",
+   "source": "Bloomberg Markets",
+   "section": "economia",
+   "continent": "global",
+   "lang": "en",
+   "title": "Gulf Oil Bargains Lure India Away From Russia as Freight Soars",
+   "url": "https://www.bloomberg.com/news/articles/2026-10-26/gulf-oil-bargains-lure-india-away-from-russia-as-freight-soars",
+   "published": "2026-10-26T11:37:41+00:00",
+   "seen_by_model": true,
+   "selected": true
+  },
+  {
+   "id": "4b11d3dd34",
+   "source": "Bloomberg Markets",
+   "section": "economia",
+   "continent": "global",
+   "lang": "en",
+   "title": "Soybeans and Coffee Slump as Brazilian Election Hits Currency",
+   "url": "https://www.bloomberg.com/news/articles/2026-10-26/soybeans-hit-2-month-low-as-lula-s-win-lifts-china-trade-outlook",
+   "published": "2026-10-26T03:18:39+00:00",
+   "seen_by_model": true,
+   "selected": false
+  },
+  {
+   "id": "9c9861ffcb",
+   "source": "Bloomberg Markets",
+   "section": "economia",
+   "continent": "global",
+   "lang": "en",
+   "title": "Egypt’s Banque du Caire Prices IPO at Top End, Eyes $648 Million",
+   "url": "https://www.bloomberg.com/news/articles/2026-10-26/banque-du-caire-says-ipo-priced-at-top-end-of-range",
+   "published": "2026-10-26T07:26:47+00:00",
+   "seen_by_model": true,
    "selected": false
   },
   {
@@ -471,7 +531,7 @@
    "title": "Pick n Pay Bets on Springboks Rugby to Win Back Shoppers",
    "url": "https://www.bloomberg.com/news/articles/2026-10-26/pick-n-pay-bets-on-springboks-rugby-to-win-back-shoppers",
    "published": "2026-10-26T10:36:51+00:00",
-   "seen_by_model": true,
+   "seen_by_model": false,
    "selected": false
   },
   {
@@ -483,7 +543,7 @@
    "title": "Brazil Catches Investors Leaning the Wrong Way",
    "url": "https://www.bloomberg.com/news/newsletters/2026-10-26/brazil-catches-investors-leaning-the-wrong-way",
    "published": "2026-10-26T10:30:19+00:00",
-   "seen_by_model": true,
+   "seen_by_model": false,
    "selected": false
   },
   {
@@ -495,19 +555,7 @@
    "title": "French Bond Risk Gauge Falls as Moody’s Keeps Rating Stable",
    "url": "https://www.bloomberg.com/news/articles/2026-10-26/french-markets-rebound-after-nation-avoids-moody-s-downgrade",
    "published": "2026-10-26T09:02:58+00:00",
-   "seen_by_model": true,
-   "selected": false
-  },
-  {
-   "id": "bbaf0e8eaa",
-   "source": "Bloomberg Markets",
-   "section": "economia",
-   "continent": "global",
-   "lang": "en",
-   "title": "Stocks Gain Before Tech Earnings as Oil Declines: Markets Wrap",
-   "url": "https://www.bloomberg.com/news/articles/2026-10-25/us-equity-futures-climb-as-crude-oil-price-dips-markets-wrap",
-   "published": "2026-10-25T22:09:07+00:00",
-   "seen_by_model": true,
+   "seen_by_model": false,
    "selected": false
   },
   {
@@ -523,6 +571,18 @@
    "selected": false
   },
   {
+   "id": "404030bc46",
+   "source": "Bloomberg Markets",
+   "section": "economia",
+   "continent": "global",
+   "lang": "en",
+   "title": "Genmab Soars as Cancer Drug Impresses in a Late-Stage Trial",
+   "url": "https://www.bloomberg.com/news/articles/2026-10-26/genmab-soars-as-cancer-drug-impresses-in-a-late-stage-trial",
+   "published": "2026-10-26T10:01:05+00:00",
+   "seen_by_model": false,
+   "selected": false
+  },
+  {
    "id": "efcda77d59",
    "source": "Bloomberg Markets",
    "section": "economia",
@@ -531,18 +591,6 @@
    "title": "Copper Steadies as Investors Weigh AI Slide Against China Demand",
    "url": "https://www.bloomberg.com/news/articles/2026-10-26/copper-extends-drop-as-ai-stocks-weigh-ahead-of-fed-meeting",
    "published": "2026-10-26T03:52:35+00:00",
-   "seen_by_model": false,
-   "selected": false
-  },
-  {
-   "id": "b746dbb879",
-   "source": "Bloomberg Markets",
-   "section": "economia",
-   "continent": "global",
-   "lang": "en",
-   "title": "Chinese Conglomerate Huafa Seeks to Extend Some Debt Payments",
-   "url": "https://www.bloomberg.com/news/articles/2026-10-26/chinese-conglomerate-huafa-seeks-to-extend-some-debt-payments",
-   "published": "2026-10-26T09:56:30+00:00",
    "seen_by_model": false,
    "selected": false
   },
@@ -603,42 +651,6 @@
    "title": "India Opposition Leader Gandhi Acquitted in Defamation Case",
    "url": "https://www.bloomberg.com/news/articles/2026-10-26/india-s-opposition-leader-gandhi-acquitted-in-defamation-case",
    "published": "2026-10-26T07:17:56+00:00",
-   "seen_by_model": false,
-   "selected": false
-  },
-  {
-   "id": "1fd0c270e4",
-   "source": "Bloomberg Markets",
-   "section": "economia",
-   "continent": "global",
-   "lang": "en",
-   "title": "(USD:UGX) Shilling Freefall Has Uganda Tapping Meager Reserve War-Chest",
-   "url": "https://www.bloomberg.com/news/articles/2026-10-26/-usd-ugx-shilling-freefall-has-uganda-tapping-meager-reserve-war-chest",
-   "published": "2026-10-26T05:15:00+00:00",
-   "seen_by_model": false,
-   "selected": false
-  },
-  {
-   "id": "7f456ff5de",
-   "source": "Bloomberg Markets",
-   "section": "economia",
-   "continent": "global",
-   "lang": "en",
-   "title": "BofA Sees Oil Around $120 If Iran Resumes Infrastructure Strikes",
-   "url": "https://www.bloomberg.com/news/videos/2026-10-26/bofa-sees-oil-around-120-if-iran-resumes-strikes-video",
-   "published": "2026-10-26T08:56:15+00:00",
-   "seen_by_model": false,
-   "selected": false
-  },
-  {
-   "id": "936fc257a4",
-   "source": "Bloomberg Markets",
-   "section": "economia",
-   "continent": "global",
-   "lang": "en",
-   "title": "Brazil Braces for More Market Turbulence: Market Analysis",
-   "url": "https://www.bloomberg.com/news/videos/2026-10-26/brazil-braces-for-more-market-turbulence-3-minutes-mliv-video",
-   "published": "2026-10-26T08:40:35+00:00",
    "seen_by_model": false,
    "selected": false
   },
@@ -856,7 +868,7 @@
    "url": "https://asia.nikkei.com/business/automobiles/japan-s-subaru-to-go-ev-only-in-europe-by-2028",
    "published": null,
    "seen_by_model": true,
-   "selected": true
+   "selected": false
   },
   {
    "id": "18b03fba32",
@@ -880,7 +892,7 @@
    "url": "https://asia.nikkei.com/business/technology/artificial-intelligence/for-india-s-it-giants-tcs-and-infosys-ai-both-dents-and-supports-growth",
    "published": null,
    "seen_by_model": true,
-   "selected": true
+   "selected": false
   },
   {
    "id": "966404c5de",
@@ -1144,7 +1156,7 @@
    "url": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr261026~bde7b6d11a.en.html",
    "published": "2026-10-26T09:00:00+00:00",
    "seen_by_model": true,
-   "selected": true
+   "selected": false
   },
   {
    "id": "4aa2eb3e52",
@@ -1155,6 +1167,18 @@
    "title": "Frank Elderson: Taking action for nature – investing in economic resilience and prosperity",
    "url": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp261026~d903d7ad85.en.html",
    "published": "2026-10-26T05:00:00+00:00",
+   "seen_by_model": true,
+   "selected": false
+  },
+  {
+   "id": "5b1676c69d",
+   "source": "FT中文网",
+   "section": "economia",
+   "continent": "asia",
+   "lang": "zh",
+   "title": "百亿市值蒸发九成九，GOGOX壮士断腕一元售中国快狗",
+   "url": "https://www.ftchinese.com/story/001111201",
+   "published": "2026-10-25T16:00:00+00:00",
    "seen_by_model": true,
    "selected": false
   },
@@ -1263,7 +1287,7 @@
    "title": "穆迪未下调评级 法国政府获意外喘息机会",
    "url": "https://www.ftchinese.com/story/001111190",
    "published": "2026-10-25T16:00:00+00:00",
-   "seen_by_model": true,
+   "seen_by_model": false,
    "selected": false
   },
   {
@@ -1276,6 +1300,18 @@
    "url": "https://www.ftchinese.com/story/001111189",
    "published": "2026-10-25T16:00:00+00:00",
    "seen_by_model": false,
+   "selected": false
+  },
+  {
+   "id": "a3545f1521",
+   "source": "經濟日報 台灣",
+   "section": "economia",
+   "continent": "asia",
+   "lang": "zh",
+   "title": "互動國際規劃籌資8.5億元 擴大業務及新市場布局",
+   "url": "https://money.udn.com/money/story/5612/9838048",
+   "published": "2026-10-26T11:37:53+00:00",
+   "seen_by_model": true,
    "selected": false
   },
   {
@@ -1383,7 +1419,7 @@
    "title": "騰輝泰國新廠開幕 昆山同步擴產15億元",
    "url": "https://money.udn.com/money/story/5612/9837683",
    "published": "2026-10-26T06:20:45+00:00",
-   "seen_by_model": true,
+   "seen_by_model": false,
    "selected": false
   },
   {
@@ -1507,18 +1543,6 @@
    "selected": false
   },
   {
-   "id": "4851b03a53",
-   "source": "經濟日報 台灣",
-   "section": "economia",
-   "continent": "asia",
-   "lang": "zh",
-   "title": "鴻海、NVIDIA 合作多點開花 五大成果秀硬實力",
-   "url": "https://money.udn.com/money/story/5612/9837257",
-   "published": "2026-10-26T02:39:10+00:00",
-   "seen_by_model": false,
-   "selected": false
-  },
-  {
    "id": "81bc7b0e59",
    "source": "BBC World",
    "section": "politica",
@@ -1540,7 +1564,7 @@
    "url": "https://www.bbc.co.uk/news/articles/cq8ez592pp0eo?at_medium=RSS&at_campaign=rss",
    "published": "2026-10-26T05:20:19+00:00",
    "seen_by_model": true,
-   "selected": false
+   "selected": true
   },
   {
    "id": "b06ee78099",
@@ -1600,7 +1624,7 @@
    "url": "https://www.bbc.co.uk/news/articles/ckpdgy6pl7xlo?at_medium=RSS&at_campaign=rss",
    "published": "2026-10-25T22:11:13+00:00",
    "seen_by_model": true,
-   "selected": false
+   "selected": true
   },
   {
    "id": "fa795b3ffb",
@@ -1699,26 +1723,62 @@
    "selected": false
   },
   {
+   "id": "f5819427a8",
+   "source": "BBC World",
+   "section": "politica",
+   "continent": "global",
+   "lang": "en",
+   "title": "Who is Lula? From ex-worker and prisoner to Brazil's president again",
+   "url": "https://www.bbc.co.uk/news/articles/c35yn2ye1x85o?at_medium=RSS&at_campaign=rss",
+   "published": "2026-10-26T11:39:16+00:00",
+   "seen_by_model": false,
+   "selected": false
+  },
+  {
+   "id": "8e86b7d9cf",
+   "source": "BBC World",
+   "section": "politica",
+   "continent": "global",
+   "lang": "en",
+   "title": "Five ways Trump has changed immigration in the US",
+   "url": "https://www.bbc.co.uk/news/articles/c9203k1jrmpvo?at_medium=RSS&at_campaign=rss",
+   "published": "2026-10-26T11:29:02+00:00",
+   "seen_by_model": false,
+   "selected": false
+  },
+  {
+   "id": "0130f7fccd",
+   "source": "BBC World",
+   "section": "politica",
+   "continent": "global",
+   "lang": "en",
+   "title": "Stunning photos capture October's Hunter's Moon around the world",
+   "url": "https://www.bbc.co.uk/weather/articles/c6zjxgj83n80o?at_medium=RSS&at_campaign=rss",
+   "published": "2026-10-26T11:27:39+00:00",
+   "seen_by_model": false,
+   "selected": false
+  },
+  {
+   "id": "d44a759073",
+   "source": "BBC World",
+   "section": "politica",
+   "continent": "global",
+   "lang": "en",
+   "title": "Who should win the men's Ballon d'Or? BBC Sport pundits have their say",
+   "url": "https://www.bbc.co.uk/sport/football/articles/cqjdmn0ndxjxo?at_medium=RSS&at_campaign=rss",
+   "published": "2026-10-26T06:19:12+00:00",
+   "seen_by_model": false,
+   "selected": false
+  },
+  {
    "id": "db652c8b9d",
    "source": "BBC World",
    "section": "politica",
    "continent": "global",
    "lang": "en",
-   "title": "China's big political meeting could see Xi 'tighten discipline' in Party",
+   "title": "China's big political meeting could see Xi 'tighten discipline' in party",
    "url": "https://www.bbc.co.uk/news/articles/c6n8djd1078ro?at_medium=RSS&at_campaign=rss",
    "published": "2026-10-26T07:40:57+00:00",
-   "seen_by_model": false,
-   "selected": false
-  },
-  {
-   "id": "226eb026b7",
-   "source": "BBC World",
-   "section": "politica",
-   "continent": "global",
-   "lang": "en",
-   "title": "Big, noisy and coming to a town near you - why the data centre backlash is growing",
-   "url": "https://www.bbc.co.uk/news/articles/cq2e9we7w2ejo?at_medium=RSS&at_campaign=rss",
-   "published": "2026-10-25T23:44:34+00:00",
    "seen_by_model": false,
    "selected": false
   },
@@ -1735,14 +1795,14 @@
    "selected": false
   },
   {
-   "id": "1c414a4f59",
+   "id": "226eb026b7",
    "source": "BBC World",
    "section": "politica",
    "continent": "global",
    "lang": "en",
-   "title": "'I cannot teach you integrity': How employee theft is hurting small businesses in Africa",
-   "url": "https://www.bbc.co.uk/news/articles/cmz98plpjzplo?at_medium=RSS&at_campaign=rss",
-   "published": "2026-10-25T08:36:47+00:00",
+   "title": "Big, noisy and coming to a town near you - why the data centre backlash is growing",
+   "url": "https://www.bbc.co.uk/news/articles/cq2e9we7w2ejo?at_medium=RSS&at_campaign=rss",
+   "published": "2026-10-25T23:44:34+00:00",
    "seen_by_model": false,
    "selected": false
   },
@@ -1768,7 +1828,7 @@
    "url": "https://www.bbc.com/zhongwen/articles/ckx2q587wvrqo/trad?at_medium=RSS&at_campaign=rss",
    "published": "2026-10-26T05:07:40+00:00",
    "seen_by_model": true,
-   "selected": false
+   "selected": true
   },
   {
    "id": "0aa5eba7d1",
@@ -1840,7 +1900,7 @@
    "url": "https://cn.nytimes.com/china/20261026/china-communist-party-xi-forever-purge/?utm_source=RSS",
    "published": "2026-10-25T18:38:51+00:00",
    "seen_by_model": true,
-   "selected": true
+   "selected": false
   },
   {
    "id": "80e2b00c0f",
@@ -2020,7 +2080,7 @@
    "url": "https://www.cna.com.tw/news/aopl/202610260187.aspx",
    "published": "2026-10-26T09:42:49+00:00",
    "seen_by_model": true,
-   "selected": true
+   "selected": false
   },
   {
    "id": "8046d3379f",
@@ -2080,7 +2140,7 @@
    "url": "https://www.cna.com.tw/news/aopl/202610260156.aspx",
    "published": "2026-10-26T08:21:38+00:00",
    "seen_by_model": true,
-   "selected": false
+   "selected": true
   },
   {
    "id": "3c63cc9dd5",
@@ -2294,7 +2354,7 @@
    "lang": "en",
    "title": "Brazil runoff live updates: world leaders congratulate Lula on historic election win as Bolsonaro refuses to concede",
    "url": "https://www.theguardian.com/world/live/2026/oct/25/brazil-election-runoff-live-updates-flavio-bolsonaro-lula",
-   "published": "2026-10-26T11:07:17+00:00",
+   "published": "2026-10-26T11:37:13+00:00",
    "seen_by_model": true,
    "selected": false
   },
@@ -2332,7 +2392,7 @@
    "url": "https://www.theguardian.com/world/2026/oct/26/lula-wins-brazil-election",
    "published": "2026-10-26T00:19:05+00:00",
    "seen_by_model": true,
-   "selected": false
+   "selected": true
   },
   {
    "id": "e189f9f1ed",
@@ -2379,6 +2439,18 @@
    "title": "Signs suggest Thomas Markle Sr may be ‘sex offender of the grossest kind’, says Philippine minister",
    "url": "https://www.theguardian.com/uk-news/2026/oct/25/thomas-markle-sr-philippines-investigation",
    "published": "2026-10-25T11:52:45+00:00",
+   "seen_by_model": false,
+   "selected": false
+  },
+  {
+   "id": "6333a388ac",
+   "source": "The Guardian World",
+   "section": "politica",
+   "continent": "global",
+   "lang": "en",
+   "title": "Australians should prepare for online services to go down unexpectedly as threats rise, cyber agency warns",
+   "url": "https://www.theguardian.com/technology/2026/oct/26/australians-should-prepare-for-online-services-to-go-down-unexpectedly-as-threats-rise-cyber-agency-warns",
+   "published": "2026-10-26T11:30:40+00:00",
    "seen_by_model": false,
    "selected": false
   },
@@ -2431,14 +2503,14 @@
    "selected": false
   },
   {
-   "id": "44a4cfec02",
+   "id": "f30416b600",
    "source": "The Guardian World",
    "section": "politica",
    "continent": "global",
    "lang": "en",
-   "title": "Birthkeeper who allegedly ‘groomed’ pregnant women to fear hospital could face criminal charges",
-   "url": "https://www.theguardian.com/australia-news/2026/oct/26/birthkeeper-groomed-pregnant-women-melbourne-ntwnfb",
-   "published": "2026-10-26T04:29:01+00:00",
+   "title": "Serbia wakes up to new reality after student-led movement ousts Vučić – Europe live",
+   "url": "https://www.theguardian.com/world/live/2026/oct/26/serbia-vucic-elections-students-bulgaria-france-urkaine-russia-latest-news-updates",
+   "published": "2026-10-26T11:59:20+00:00",
    "seen_by_model": false,
    "selected": false
   },
@@ -2451,18 +2523,6 @@
    "title": "European gas prices soar to four-year high over winter supply fears",
    "url": "https://www.theguardian.com/business/2026/oct/26/european-gas-prices-four-year-high-winter-supply-fears-middle-east",
    "published": "2026-10-26T10:35:24+00:00",
-   "seen_by_model": false,
-   "selected": false
-  },
-  {
-   "id": "f30416b600",
-   "source": "The Guardian World",
-   "section": "politica",
-   "continent": "global",
-   "lang": "en",
-   "title": "Serbia wakes up to new reality after student-led movement ousts Vučić – Europe live",
-   "url": "https://www.theguardian.com/world/live/2026/oct/26/serbia-vucic-elections-students-bulgaria-france-urkaine-russia-latest-news-updates",
-   "published": "2026-10-26T10:25:18+00:00",
    "seen_by_model": false,
    "selected": false
   },
@@ -2534,7 +2594,7 @@
    "lang": "en",
    "title": "I would like to rejoin EU, says Burnham, but ‘British public are the bosses’ – UK politics live",
    "url": "https://www.theguardian.com/politics/live/2026/oct/26/andy-burnham-labour-brexit-eu-homelessness-immigration-budget-rosebank-reform-latest-news-updates",
-   "published": "2026-10-26T11:13:20+00:00",
+   "published": "2026-10-26T11:34:00+00:00",
    "seen_by_model": false,
    "selected": false
   },
@@ -2671,18 +2731,6 @@
    "selected": false
   },
   {
-   "id": "04d7afb005",
-   "source": "El País Internacional",
-   "section": "politica",
-   "continent": "global",
-   "lang": "es",
-   "title": "Los estudiantes de Serbia disputan el poder a Vucic en las urnas tras casi dos años de protestas",
-   "url": "https://elpais.com/internacional/2026-10-25/los-estudiantes-de-serbia-disputan-el-poder-a-vucic-en-las-urnas-tras-casi-dos-anos-de-protestas.html",
-   "published": "2026-10-25T07:49:54+00:00",
-   "seen_by_model": false,
-   "selected": false
-  },
-  {
    "id": "0979310743",
    "source": "El País Internacional",
    "section": "politica",
@@ -2788,7 +2836,7 @@
    "url": "https://www.lemonde.fr/en/international/article/2026/10/26/eu-to-charge-two-euro-handling-fee-on-packages-from-outside-bloc_6764287_4.html",
    "published": "2026-10-26T06:59:37+00:00",
    "seen_by_model": true,
-   "selected": false
+   "selected": true
   },
   {
    "id": "841d4b0598",
@@ -2800,7 +2848,7 @@
    "url": "https://www.lemonde.fr/en/international/article/2026/10/26/facing-russia-northern-and-eastern-european-countries-prepare-their-societies-for-war_6764254_4.html",
    "published": "2026-10-26T03:50:00+00:00",
    "seen_by_model": true,
-   "selected": true
+   "selected": false
   },
   {
    "id": "677a544f26",
@@ -2836,7 +2884,7 @@
    "url": "https://www.lemonde.fr/en/international/article/2026/10/26/serbia-s-student-movement-ousts-nationalist-leader-aleksandar-vucic-in-parliamentary-elections_6764122_4.html",
    "published": "2026-10-26T00:10:38+00:00",
    "seen_by_model": true,
-   "selected": true
+   "selected": false
   },
   {
    "id": "5c33da4490",
@@ -2980,7 +3028,7 @@
    "url": "https://www.npr.org/2026/10/26/nx-s1-6014540/russia-says-it-will-open-humanitarian-corridor-to-ukrainian-town",
    "published": "2026-10-26T08:42:00+00:00",
    "seen_by_model": true,
-   "selected": false
+   "selected": true
   },
   {
    "id": "d4946f64eb",
@@ -2992,7 +3040,7 @@
    "url": "https://www.npr.org/2026/10/25/nx-s1-6016299/brazil-lula-bolsonaro-election",
    "published": "2026-10-26T00:35:00+00:00",
    "seen_by_model": true,
-   "selected": true
+   "selected": false
   },
   {
    "id": "7a27886ce0",
@@ -3028,7 +3076,7 @@
    "url": "https://www.npr.org/2026/10/25/nx-s1-6016222/venezuela-maria-corina-machado-leader-returns-exile",
    "published": "2026-10-25T16:18:41+00:00",
    "seen_by_model": true,
-   "selected": true
+   "selected": false
   },
   {
    "id": "874917b14f",
@@ -3040,7 +3088,7 @@
    "url": "https://www.npr.org/2026/10/25/g-s1-149563/israel-election-war-netanyahu",
    "published": "2026-10-25T16:00:00+00:00",
    "seen_by_model": true,
-   "selected": true
+   "selected": false
   },
   {
    "id": "90e508f8fc",
@@ -3051,6 +3099,18 @@
    "title": "This College of Magic turns ordinary kids into cool magicians",
    "url": "https://www.npr.org/2026/10/25/g-s1-149089/magic-magicians-south-africa-school-students",
    "published": "2026-10-25T11:24:58+00:00",
+   "seen_by_model": true,
+   "selected": false
+  },
+  {
+   "id": "48750d8ffe",
+   "source": "Japan Times",
+   "section": "politica",
+   "continent": "asia",
+   "lang": "en",
+   "title": "Meiji Yasuda to buy Man Group stake in asset management push",
+   "url": "https://www.japantimes.co.jp/business/2026/10/26/meiji-yasuda-man-group/",
+   "published": "2026-10-26T11:43:00+00:00",
    "seen_by_model": true,
    "selected": false
   },
@@ -3100,7 +3160,7 @@
    "url": "https://www.japantimes.co.jp/commentary/2026/10/26/world/india-pakistan-cold-war/",
    "published": "2026-10-26T09:20:00+00:00",
    "seen_by_model": true,
-   "selected": true
+   "selected": false
   },
   {
    "id": "a27dc63b13",
@@ -3159,7 +3219,7 @@
    "title": "Chinese beauty brands, flush with success at home, start to vie for global shelf space",
    "url": "https://www.japantimes.co.jp/business/2026/10/26/chinese-beauty-brands-global/",
    "published": "2026-10-26T08:14:00+00:00",
-   "seen_by_model": true,
+   "seen_by_model": false,
    "selected": false
   },
   {
@@ -3228,7 +3288,7 @@
    "section": "politica",
    "continent": "asia",
    "lang": "en",
-   "title": "The key to Japan’s growth strategy: ‘Proactive’ economic security",
+   "title": "The key to Japan’s growth strategy: ‘proactive’ economic security",
    "url": "https://www.japantimes.co.jp/commentary/2026/10/26/japan/japan-proactive-economic-security/",
    "published": "2026-10-26T07:09:00+00:00",
    "seen_by_model": false,
@@ -3343,15 +3403,39 @@
    "selected": false
   },
   {
-   "id": "6348e4f0c4",
-   "source": "Japan Times",
+   "id": "aa990f878e",
+   "source": "Channel NewsAsia",
    "section": "politica",
    "continent": "asia",
    "lang": "en",
-   "title": "Tomoka Nishiyama to become first woman to enter kishi shogi ranks",
-   "url": "https://www.japantimes.co.jp/news/2026/10/26/japan/shogi-nishiyama-kishi/",
-   "published": "2026-10-26T04:57:00+00:00",
-   "seen_by_model": false,
+   "title": "Former Arsenal forward Pennant saved by his dog after German Shepherd attack",
+   "url": "https://www.channelnewsasia.com/sport/former-arsenal-forward-pennant-saved-his-dog-after-german-shepherd-attack-6493011",
+   "published": "2026-10-26T11:52:43+00:00",
+   "seen_by_model": true,
+   "selected": false
+  },
+  {
+   "id": "963af778e1",
+   "source": "Channel NewsAsia",
+   "section": "politica",
+   "continent": "asia",
+   "lang": "en",
+   "title": "CNA Explains: Why are the Houthis targeting Saudi airports?",
+   "url": "https://www.channelnewsasia.com/world/cna-explains-houthis-targeting-saudi-arabia-airports-6492256",
+   "published": "2026-10-26T11:43:41+00:00",
+   "seen_by_model": true,
+   "selected": false
+  },
+  {
+   "id": "5736f10824",
+   "source": "Channel NewsAsia",
+   "section": "politica",
+   "continent": "asia",
+   "lang": "en",
+   "title": "AI cuts some Deutsche Bank corporate loan decisions to minutes",
+   "url": "https://www.channelnewsasia.com/business/ai-cuts-some-deutsche-bank-corporate-loan-decisions-minutes-6492946",
+   "published": "2026-10-26T11:24:45+00:00",
+   "seen_by_model": true,
    "selected": false
   },
   {
@@ -3379,13 +3463,13 @@
    "selected": false
   },
   {
-   "id": "77da45413e",
+   "id": "49065e340e",
    "source": "Channel NewsAsia",
    "section": "politica",
    "continent": "asia",
    "lang": "en",
-   "title": "Meta launches $35 billion stock offering to fund AI expansion",
-   "url": "https://www.channelnewsasia.com/business/meta-launches-35-billion-stock-offering-fund-ai-expansion-6492931",
+   "title": "Meta to raise up to $95 billion in equity to fund costly AI expansion",
+   "url": "https://www.channelnewsasia.com/business/meta-raise-up-95-billion-in-equity-fund-costly-ai-expansion-6492931",
    "published": "2026-10-26T11:09:47+00:00",
    "seen_by_model": true,
    "selected": false
@@ -3435,7 +3519,7 @@
    "title": "Indonesia's gas cuts to Singapore put spotlight on domestic energy needs, economic trade-offs",
    "url": "https://www.channelnewsasia.com/singapore/indonesia-gas-cut-singapore-energy-exports-6492596",
    "published": "2026-10-26T10:33:32+00:00",
-   "seen_by_model": true,
+   "seen_by_model": false,
    "selected": false
   },
   {
@@ -3447,7 +3531,7 @@
    "title": "Exclusive-US political candidates tailor messages for AI models used by voters",
    "url": "https://www.channelnewsasia.com/business/exclusive-us-political-candidates-tailor-messages-ai-models-used-voters-6492791",
    "published": "2026-10-26T10:04:37+00:00",
-   "seen_by_model": true,
+   "seen_by_model": false,
    "selected": false
   },
   {
@@ -3459,7 +3543,7 @@
    "title": "COE quota for November to January increases by more than 1% to 19,298",
    "url": "https://www.channelnewsasia.com/singapore/coe-quota-november-january-lta-6492681",
    "published": "2026-10-26T09:52:40+00:00",
-   "seen_by_model": true,
+   "seen_by_model": false,
    "selected": false
   },
   {
@@ -3559,42 +3643,6 @@
    "selected": false
   },
   {
-   "id": "a5e78d44a7",
-   "source": "Channel NewsAsia",
-   "section": "politica",
-   "continent": "asia",
-   "lang": "en",
-   "title": "North Korea-South Korea tensions high as letters lodged with UN, howitzer spotted",
-   "url": "https://www.channelnewsasia.com/east-asia/north-south-korea-tensions-high-howitzer-spotted-un-letters-6491581",
-   "published": "2026-10-26T06:00:00+00:00",
-   "seen_by_model": false,
-   "selected": false
-  },
-  {
-   "id": "70f3625448",
-   "source": "Channel NewsAsia",
-   "section": "politica",
-   "continent": "asia",
-   "lang": "en",
-   "title": "Saudi coalition strikes Houthi missile facilities after Riyadh airport attack",
-   "url": "https://www.channelnewsasia.com/world/saudi-houthis-riyadh-airport-attack-missile-6492261",
-   "published": "2026-10-26T05:40:00+00:00",
-   "seen_by_model": false,
-   "selected": false
-  },
-  {
-   "id": "6043e92b3e",
-   "source": "Channel NewsAsia",
-   "section": "politica",
-   "continent": "asia",
-   "lang": "en",
-   "title": "Rybakina finds Ningbo spark again ahead of WTA Finals title defence",
-   "url": "https://www.channelnewsasia.com/sport/rybakina-finds-ningbo-spark-again-ahead-wta-finals-title-defence-6492311",
-   "published": "2026-10-26T05:33:39+00:00",
-   "seen_by_model": false,
-   "selected": false
-  },
-  {
    "id": "45f807d480",
    "source": "South China Morning Post (China)",
    "section": "politica",
@@ -3604,7 +3652,7 @@
    "url": "https://www.scmp.com/news/china/diplomacy/article/3372182/pentagon-chief-hegseth-visit-philippines-meet-us-allies-asean-events",
    "published": "2026-10-26T11:03:12+00:00",
    "seen_by_model": true,
-   "selected": true
+   "selected": false
   },
   {
    "id": "3784f2dfab",
@@ -3751,6 +3799,42 @@
    "selected": false
   },
   {
+   "id": "80f117842e",
+   "source": "South China Morning Post (Asia)",
+   "section": "politica",
+   "continent": "asia",
+   "lang": "en",
+   "title": "14 Hong Kong civil servants sue colleague over HK$28.9 million Mark Six winnings",
+   "url": "https://www.scmp.com/news/hong-kong/law-and-crime/article/3372186/14-hong-kong-civil-servants-sue-colleague-over-hk289-million-mark-six-winnings",
+   "published": "2026-10-26T12:00:23+00:00",
+   "seen_by_model": true,
+   "selected": false
+  },
+  {
+   "id": "5019745abe",
+   "source": "South China Morning Post (Asia)",
+   "section": "politica",
+   "continent": "asia",
+   "lang": "en",
+   "title": "Two workers dangle more than 30 storeys up after Jardine House gondola fault",
+   "url": "https://www.scmp.com/news/hong-kong/society/article/3372188/two-workers-dangle-more-30-storeys-after-jardine-house-gondola-fault",
+   "published": "2026-10-26T11:59:18+00:00",
+   "seen_by_model": true,
+   "selected": false
+  },
+  {
+   "id": "b7cbbc1756",
+   "source": "South China Morning Post (Asia)",
+   "section": "politica",
+   "continent": "asia",
+   "lang": "en",
+   "title": "Climate damage to Philippine ports could cost US$70b a year by 2100",
+   "url": "https://www.scmp.com/week-asia/economics/article/3372185/climate-damage-philippine-ports-could-cost-us70b-year-2100",
+   "published": "2026-10-26T11:46:33+00:00",
+   "seen_by_model": true,
+   "selected": false
+  },
+  {
    "id": "4b62e378cf",
    "source": "South China Morning Post (Asia)",
    "section": "politica",
@@ -3831,7 +3915,7 @@
    "title": "AI chip surge lifts South Korea to record surplus, behind only China",
    "url": "https://www.scmp.com/week-asia/economics/article/3372150/ai-chip-surge-lifts-south-korea-record-surplus-behind-only-china",
    "published": "2026-10-26T08:39:38+00:00",
-   "seen_by_model": true,
+   "seen_by_model": false,
    "selected": false
   },
   {
@@ -3843,7 +3927,7 @@
    "title": "China may well be the next big competitor for Asian migrant labour",
    "url": "https://www.scmp.com/opinion/china-opinion/article/3371970/china-may-well-be-next-big-competitor-asian-migrant-labour",
    "published": "2026-10-26T08:30:08+00:00",
-   "seen_by_model": true,
+   "seen_by_model": false,
    "selected": false
   },
   {
@@ -3855,7 +3939,7 @@
    "title": "What Hongkongers need to know about the latest changes to the MPF scheme",
    "url": "https://www.scmp.com/news/hong-kong/hong-kong-economy/article/3372162/what-hongkongers-need-know-about-latest-changes-mpf-scheme",
    "published": "2026-10-26T08:28:55+00:00",
-   "seen_by_model": true,
+   "seen_by_model": false,
    "selected": false
   },
   {
@@ -3979,27 +4063,27 @@
    "selected": false
   },
   {
-   "id": "a9476b32bb",
-   "source": "South China Morning Post (Asia)",
+   "id": "5119674f2a",
+   "source": "Al Jazeera English",
    "section": "politica",
-   "continent": "asia",
+   "continent": "global",
    "lang": "en",
-   "title": "Hong Kong positioned as green gateway for belt and road firms: John Lee",
-   "url": "https://www.scmp.com/news/hong-kong/society/article/3372139/hong-kong-positioned-green-gateway-belt-and-road-firms-john-lee",
-   "published": "2026-10-26T06:28:49+00:00",
-   "seen_by_model": false,
+   "title": "Serbia after Vucic: Who will be PM and when will a government be formed?",
+   "url": "https://www.aljazeera.com/news/2026/10/26/serbia-after-vucic-who-will-be-pm-and-when-will-a-government-be-formed?traffic_source=rss",
+   "published": "2026-10-26T11:28:25+00:00",
+   "seen_by_model": true,
    "selected": false
   },
   {
-   "id": "91a7cb0724",
-   "source": "South China Morning Post (Asia)",
+   "id": "1c4f8c9da4",
+   "source": "Al Jazeera English",
    "section": "politica",
-   "continent": "asia",
+   "continent": "global",
    "lang": "en",
-   "title": "Cooler than Tokyo: Sendai named Japan’s most comfortable city amid record heat",
-   "url": "https://www.scmp.com/week-asia/health-environment/article/3372132/cooler-tokyo-sendai-named-japans-most-comfortable-city-amid-record-heat",
-   "published": "2026-10-26T06:05:32+00:00",
-   "seen_by_model": false,
+   "title": "Jordan arrests three suspects over church attack in dawn raid: What to know",
+   "url": "https://www.aljazeera.com/news/2026/10/26/jordan-arrests-three-suspects-over-church-attack-in-dawn-raid-what-to-know?traffic_source=rss",
+   "published": "2026-10-26T11:08:48+00:00",
+   "seen_by_model": true,
    "selected": false
   },
   {
@@ -4024,7 +4108,7 @@
    "url": "https://www.aljazeera.com/news/2026/10/26/saudi-led-coalition-says-it-struck-houthi-missile-facilities?traffic_source=rss",
    "published": "2026-10-26T10:41:23+00:00",
    "seen_by_model": true,
-   "selected": false
+   "selected": true
   },
   {
    "id": "2dee2dd0af",
@@ -4060,7 +4144,7 @@
    "url": "https://www.aljazeera.com/video/newsfeed/2026/10/26/thousands-greet-opposition-leader-maria-machado-upon-return-to-caracas?traffic_source=rss",
    "published": "2026-10-26T10:14:26+00:00",
    "seen_by_model": true,
-   "selected": true
+   "selected": false
   },
   {
    "id": "6f83f983c3",
@@ -4095,7 +4179,7 @@
    "title": "Palestinians are opening their doors to the displaced of besieged Hebron",
    "url": "https://www.aljazeera.com/news/2026/10/26/palestinians-are-opening-their-doors-to-the-displaced-of-besieged-hebron?traffic_source=rss",
    "published": "2026-10-26T09:45:25+00:00",
-   "seen_by_model": true,
+   "seen_by_model": false,
    "selected": false
   },
   {
@@ -4107,7 +4191,7 @@
    "title": "Flavio Bolsonaro ‘will not give up’ after Brazil election results",
    "url": "https://www.aljazeera.com/video/newsfeed/2026/10/26/flavio-bolsonaro-will-not-give-up-after-brazil-election-results?traffic_source=rss",
    "published": "2026-10-26T09:15:21+00:00",
-   "seen_by_model": true,
+   "seen_by_model": false,
    "selected": false
   },
   {
@@ -4279,30 +4363,6 @@
    "selected": false
   },
   {
-   "id": "a4cc77532c",
-   "source": "Al Jazeera English",
-   "section": "politica",
-   "continent": "global",
-   "lang": "en",
-   "title": "First visually impaired Gambian magistrate tests system built for sighted",
-   "url": "https://www.aljazeera.com/news/2026/10/26/the-gambias-first-blind-magistrate-tests-a-system-built-for-the-sighted?traffic_source=rss",
-   "published": "2026-10-26T05:18:00+00:00",
-   "seen_by_model": false,
-   "selected": false
-  },
-  {
-   "id": "be4621eee0",
-   "source": "Al Jazeera English",
-   "section": "politica",
-   "continent": "global",
-   "lang": "en",
-   "title": "Israel’s election: Five key things to know",
-   "url": "https://www.aljazeera.com/news/2026/10/26/israels-election-five-key-things-to-know?traffic_source=rss",
-   "published": "2026-10-26T05:16:38+00:00",
-   "seen_by_model": false,
-   "selected": false
-  },
-  {
    "id": "4c9bba509c",
    "source": "The Verge",
    "section": "tecnologia",
@@ -4324,7 +4384,7 @@
    "url": "https://www.theverge.com/tech/1018233/ifixit-iphone-duo-teardown-repairability-hinge",
    "published": "2026-10-25T21:40:27+00:00",
    "seen_by_model": true,
-   "selected": false
+   "selected": true
   },
   {
    "id": "727ad38d32",
@@ -4432,7 +4492,7 @@
    "url": "https://techcrunch.com/2026/10/25/grok-releases-the-first-seven-minutes-of-its-ai-generated-odyssey/",
    "published": "2026-10-25T21:31:16+00:00",
    "seen_by_model": true,
-   "selected": false
+   "selected": true
   },
   {
    "id": "960d568650",
@@ -4540,7 +4600,7 @@
    "url": "https://www.wired.com/story/ai-agents-are-trying-to-be-journalists-now/",
    "published": "2026-10-26T09:30:00+00:00",
    "seen_by_model": true,
-   "selected": true
+   "selected": false
   },
   {
    "id": "a6a77be85a",
@@ -4564,7 +4624,7 @@
    "url": "https://www.wired.com/story/this-ai-radio-hosts-speaks-spanish-and-backs-immigrants-its-winning-over-listeners/",
    "published": "2026-10-26T09:00:00+00:00",
    "seen_by_model": true,
-   "selected": true
+   "selected": false
   },
   {
    "id": "a61657df70",
@@ -4588,7 +4648,7 @@
    "url": "https://www.wired.com/story/scientists-trapped-an-antimatter-particle-for-months-to-study-its-secrets/",
    "published": "2026-10-25T12:00:00+00:00",
    "seen_by_model": true,
-   "selected": false
+   "selected": true
   },
   {
    "id": "1b8933cc3f",
@@ -4675,6 +4735,30 @@
    "selected": false
   },
   {
+   "id": "1fdd1653bf",
+   "source": "Xataka",
+   "section": "tecnologia",
+   "continent": "europa",
+   "lang": "es",
+   "title": "Quién vigila al vigilante: los límites de Pangram como árbitro de lo que es IA y lo que no",
+   "url": "https://www.xataka.com/magnet/quien-vigila-al-vigilante-limites-pangram-como-arbitro-que-ia-que-no",
+   "published": "2026-10-26T11:35:29+00:00",
+   "seen_by_model": true,
+   "selected": false
+  },
+  {
+   "id": "4db880843f",
+   "source": "Xataka",
+   "section": "tecnologia",
+   "continent": "europa",
+   "lang": "es",
+   "title": "MediaMarkt está liquidando en su outlet este portátil Lenovo con 32 GB de RAM DDR5, pantalla OLED y apenas 1,19 kg de peso",
+   "url": "https://www.xataka.com/seleccion/mediamarkt-esta-liquidando-su-outlet-este-portatil-lenovo-32-gb-ram-ddr5-pantalla-oled-apenas-1-19-kg-peso",
+   "published": "2026-10-26T11:31:28+00:00",
+   "seen_by_model": true,
+   "selected": false
+  },
+  {
    "id": "e3160ea74e",
    "source": "Xataka",
    "section": "tecnologia",
@@ -4694,7 +4778,7 @@
    "lang": "es",
    "title": "El móvil se está ensanchando. Lo extraño no es el formato nuevo, sino que hayamos aguantado diez años con el anterior",
    "url": "https://www.xataka.com/moviles/movil-se-esta-ensanchando-extrano-no-formato-nuevo-sino-que-hayamos-aguantado-diez-anos-anterior",
-   "published": "2026-10-26T11:01:27+00:00",
+   "published": "2026-10-26T11:00:00+00:00",
    "seen_by_model": true,
    "selected": false
   },
@@ -4720,7 +4804,7 @@
    "url": "https://www.xataka.com/magnet/centros-datos-tiran-a-atmosfera-calor-que-podria-calentar-ciudad-ahora-quieren-vendernoslo-como-calefaccion-casi-gratis",
    "published": "2026-10-26T10:31:28+00:00",
    "seen_by_model": true,
-   "selected": true
+   "selected": false
   },
   {
    "id": "eb46d3c56c",
@@ -4767,7 +4851,7 @@
    "title": "África quiere plantar 100 millones de árboles desde hace 19 años. Ahora su Muralla Verde en el Sáhara coge forma",
    "url": "https://www.xataka.com/ecologia-y-naturaleza/africa-quiere-plantar-100-millones-arboles-hace-19-anos-ahora-su-muralla-verde-sahara-coge-forma",
    "published": "2026-10-26T08:31:29+00:00",
-   "seen_by_model": true,
+   "seen_by_model": false,
    "selected": false
   },
   {
@@ -4779,7 +4863,7 @@
    "title": "Hoy llega a Lidl este calefactor cerámico tipo split por 29,99 euros e ideal para calentar el baño o estancias pequeñas",
    "url": "https://www.xataka.com/seleccion/hoy-llega-a-lidl-este-calefactor-ceramico-tipo-split-29-99-euros-e-ideal-para-calentar-bano-estancias-pequenas",
    "published": "2026-10-26T06:48:08+00:00",
-   "seen_by_model": true,
+   "seen_by_model": false,
    "selected": false
   },
   {
@@ -4947,30 +5031,6 @@
    "title": "Vivimos más que nunca y nos sentimos peor: la salud percibida cae a niveles de 1987",
    "url": "https://www.xataka.com/medicina-y-salud/vivimos-que-nunca-nos-sentimos-peor-salud-percibida-cae-a-niveles-1987",
    "published": "2026-10-25T14:30:08+00:00",
-   "seen_by_model": false,
-   "selected": false
-  },
-  {
-   "id": "e6cb5b7e37",
-   "source": "Xataka",
-   "section": "tecnologia",
-   "continent": "europa",
-   "lang": "es",
-   "title": "La supervivencia de los coleccionables de inicio de curso: \"Es algo que no comprarías directamente, pero son una joya cómo quedan\"",
-   "url": "https://www.xataka.com/magnet/supervivencia-coleccionables-inicio-curso-algo-que-no-comprarias-directamente-joya-como-quedan",
-   "published": "2026-10-25T14:16:12+00:00",
-   "seen_by_model": false,
-   "selected": false
-  },
-  {
-   "id": "bebd0213a7",
-   "source": "Xataka",
-   "section": "tecnologia",
-   "continent": "europa",
-   "lang": "es",
-   "title": "Ladrillos, tuberías y una turbina: un hombre construye su propia central hidroeléctrica en casa",
-   "url": "https://www.xataka.com/energia/ladrillos-tuberias-turbina-hombre-construye-su-propia-central-hidroelectrica-casa",
-   "published": "2026-10-25T14:00:14+00:00",
    "seen_by_model": false,
    "selected": false
   },
@@ -5308,7 +5368,7 @@
    "url": "https://www.ithome.com.tw/news/179953",
    "published": "2026-10-26T02:10:09+00:00",
    "seen_by_model": true,
-   "selected": true
+   "selected": false
   },
   {
    "id": "27de9a931e",
@@ -5320,7 +5380,7 @@
    "url": "https://www.ithome.com.tw/news/179951",
    "published": "2026-10-26T12:10:52+00:00",
    "seen_by_model": true,
-   "selected": false
+   "selected": true
   },
   {
    "id": "ce2c50b212",
@@ -5344,7 +5404,7 @@
    "url": "https://www.ithome.com.tw/news/179949",
    "published": "2026-10-26T10:10:00+00:00",
    "seen_by_model": true,
-   "selected": true
+   "selected": false
   },
   {
    "id": "1413ec0825",
@@ -5368,7 +5428,7 @@
    "url": "https://www.ithome.com.tw/news/179947",
    "published": "2026-10-26T10:10:44+00:00",
    "seen_by_model": true,
-   "selected": false
+   "selected": true
   },
   {
    "id": "e0459a7065",
@@ -5380,252 +5440,12 @@
    "url": "https://www.ithome.com.tw/news/179946",
    "published": "2026-10-26T09:10:44+00:00",
    "seen_by_model": true,
-   "selected": false
+   "selected": true
   }
  ],
  "radar": {
-  "collected_at": "2026-10-26T11:21:35.033413+00:00",
+  "collected_at": "2026-10-26T12:01:25.292930+00:00",
   "items": [
-   {
-    "id": "gh-1393965829",
-    "source": "GitHub",
-    "kind": "project",
-    "title": "KKKKhazix/AIHOT",
-    "url": "https://github.com/KKKKhazix/AIHOT",
-    "discussion_url": "",
-    "published": "2026-09-28T23:40:05Z",
-    "lang": "zh",
-    "excerpt": "一个自己找热点、自己写日报的网站框架。把信源和精选标准换成你的，它就是你的行业热点站。",
-    "signal": {
-     "stars_total": 8657
-    },
-    "seen_by_model": true,
-    "selected": false
-   },
-   {
-    "id": "gh-1401476500",
-    "source": "GitHub",
-    "kind": "project",
-    "title": "QingYunA/answer-me-with-html",
-    "url": "https://github.com/QingYunA/answer-me-with-html",
-    "discussion_url": "",
-    "published": "2026-10-02T09:57:40Z",
-    "lang": "zh",
-    "excerpt": "Answer me with HTML — an agent skill that answers hard questions with a one-page HTML you can actually read. 让 AI Agent 用一页 HTML 回答复杂问题。",
-    "signal": {
-     "stars_total": 4478
-    },
-    "seen_by_model": true,
-    "selected": false
-   },
-   {
-    "id": "gh-1414685342",
-    "source": "GitHub",
-    "kind": "project",
-    "title": "onehumanbeing/esp32-iphone-agent",
-    "url": "https://github.com/onehumanbeing/esp32-iphone-agent",
-    "discussion_url": "",
-    "published": "2026-10-11T19:10:25Z",
-    "lang": "en",
-    "excerpt": "Let an AI model use a real iPhone with a $7 ESP32: AirPlay eyes, USB HID hands, any OpenAI-compatible vision model. No Mac, no developer account, no jailbreak.",
-    "signal": {
-     "stars_total": 3924
-    },
-    "seen_by_model": false,
-    "selected": false
-   },
-   {
-    "id": "gh-1401469171",
-    "source": "GitHub",
-    "kind": "project",
-    "title": "Folkbench/folkbench",
-    "url": "https://github.com/Folkbench/folkbench",
-    "discussion_url": "",
-    "published": "2026-10-02T09:50:45Z",
-    "lang": "zh",
-    "excerpt": "AI API 中转站评测排行与切换工具：实测可用率、延迟与价格 · Open-source AI API relay benchmark, rankings & switcher for Claude Code / Codex",
-    "signal": {
-     "stars_total": 3712
-    },
-    "seen_by_model": true,
-    "selected": false
-   },
-   {
-    "id": "gh-1397771878",
-    "source": "GitHub",
-    "kind": "project",
-    "title": "nanaism/yomiyasu",
-    "url": "https://github.com/nanaism/yomiyasu",
-    "discussion_url": "",
-    "published": "2026-09-30T11:49:32Z",
-    "lang": "zh",
-    "excerpt": "AI生成の日本語を自然な日本語へ推敲するAgent Skill / Agent Skill for Refining AI-Generated Japanese into Natural Japanese",
-    "signal": {
-     "stars_total": 2561
-    },
-    "seen_by_model": true,
-    "selected": false
-   },
-   {
-    "id": "gh-1415358670",
-    "source": "GitHub",
-    "kind": "project",
-    "title": "deeplethe/solid-glass",
-    "url": "https://github.com/deeplethe/solid-glass",
-    "discussion_url": "",
-    "published": "2026-10-12T09:19:02Z",
-    "lang": "en",
-    "excerpt": "A design system for AI applications. Material, physical, tactile, technical.",
-    "signal": {
-     "stars_total": 2247
-    },
-    "seen_by_model": true,
-    "selected": false
-   },
-   {
-    "id": "gh-1403307052",
-    "source": "GitHub",
-    "kind": "project",
-    "title": "jiwoochris/artex-global",
-    "url": "https://github.com/jiwoochris/artex-global",
-    "discussion_url": "",
-    "published": "2026-10-03T14:49:48Z",
-    "lang": "en",
-    "excerpt": "ARTEX 한국어판 · AI 자율 침투 테스트 프레임워크(upstream: Autumn-27/ARTEX, AGPL-3.0)",
-    "signal": {
-     "stars_total": 2191
-    },
-    "seen_by_model": true,
-    "selected": false
-   },
-   {
-    "id": "gh-1410926671",
-    "source": "GitHub",
-    "kind": "project",
-    "title": "trhhubsd/ARTEX",
-    "url": "https://github.com/trhhubsd/ARTEX",
-    "discussion_url": "",
-    "published": "2026-10-08T20:35:22Z",
-    "lang": "zh",
-    "excerpt": "ARTEX · AI autonomous penetration testing system (multi-agent LLM, Go + Next.js) · AI 自主渗透测试系统 · 百度 agent+ 攻防挑战赛冠军",
-    "signal": {
-     "stars_total": 1947
-    },
-    "seen_by_model": false,
-    "selected": false
-   },
-   {
-    "id": "gh-1407997858",
-    "source": "GitHub",
-    "kind": "project",
-    "title": "mw00/project-maya",
-    "url": "https://github.com/mw00/project-maya",
-    "discussion_url": "",
-    "published": "2026-10-06T22:55:13Z",
-    "lang": "en",
-    "excerpt": "Project Maya - run GLM-5.3-Flash (321B MoE) and DeepSeek-V4.1-Flash-1017 (748B MoE) privately on your own GPU(s), from one card to 16, NVIDIA or AMD, Linux or Windows. Engine, server, dashboard, OpenAI- and Anthropic-compatible API, quant tools.",
-    "signal": {
-     "stars_total": 1939
-    },
-    "seen_by_model": false,
-    "selected": false
-   },
-   {
-    "id": "gh-1395116154",
-    "source": "GitHub",
-    "kind": "project",
-    "title": "StartLuxLabs/StartLux-Decision",
-    "url": "https://github.com/StartLuxLabs/StartLux-Decision",
-    "discussion_url": "",
-    "published": "2026-09-29T11:53:37Z",
-    "lang": "en",
-    "excerpt": "Open decision models from 0.8B to 27B: a calibrated probability for every option in one pass, and a short thought only when unsure. Engine for vLLM, llama.cpp and MLX.",
-    "signal": {
-     "stars_total": 1577
-    },
-    "seen_by_model": false,
-    "selected": false
-   },
-   {
-    "id": "gh-1397939439",
-    "source": "GitHub",
-    "kind": "project",
-    "title": "Edwardxlai/easyread",
-    "url": "https://github.com/Edwardxlai/easyread",
-    "discussion_url": "",
-    "published": "2026-09-30T12:52:24Z",
-    "lang": "zh",
-    "excerpt": "把英文论文读成舒服的中文：本地 PDF 论文翻译、原文对照、边读边问 AI、文献管理。Read English papers in comfortable Chinese.",
-    "signal": {
-     "stars_total": 1035
-    },
-    "seen_by_model": true,
-    "selected": false
-   },
-   {
-    "id": "gh-1401123204",
-    "source": "GitHub",
-    "kind": "project",
-    "title": "Harvil1/codeAgent",
-    "url": "https://github.com/Harvil1/codeAgent",
-    "discussion_url": "",
-    "published": "2026-10-02T05:15:41Z",
-    "lang": "en",
-    "excerpt": "CodeAgent is an open-source coding agent that lives in your terminal. It understands your repository, plans multi-step changes, writes and edits files, runs commands and tests, and iterates until the task is done — all with a transparent, extensible tool loop.",
-    "signal": {
-     "stars_total": 1016
-    },
-    "seen_by_model": false,
-    "selected": false
-   },
-   {
-    "id": "gh-1413190537",
-    "source": "GitHub",
-    "kind": "project",
-    "title": "Ayzzz123/mcd-coupon-strategist",
-    "url": "https://github.com/Ayzzz123/mcd-coupon-strategist",
-    "discussion_url": "",
-    "published": "2026-10-10T12:59:19Z",
-    "lang": "zh",
-    "excerpt": "麦麦省钱助手 —— 基于麦当劳 MCP 的点餐成本优化 Skill。算出当前门店最省钱的点餐方案，并主动提示凑单陷阱。",
-    "signal": {
-     "stars_total": 988
-    },
-    "seen_by_model": true,
-    "selected": false
-   },
-   {
-    "id": "gh-1416766144",
-    "source": "GitHub",
-    "kind": "project",
-    "title": "outcrawlai/scout",
-    "url": "https://github.com/outcrawlai/scout",
-    "discussion_url": "",
-    "published": "2026-10-13T09:18:55Z",
-    "lang": "en",
-    "excerpt": "Scout: the open-source browser agent, by Outcrawl. Mirrored automatically from Outcrawl's own repository.",
-    "signal": {
-     "stars_total": 939
-    },
-    "seen_by_model": true,
-    "selected": false
-   },
-   {
-    "id": "gh-1409792187",
-    "source": "GitHub",
-    "kind": "project",
-    "title": "thesysdev/open-intelligent-ui",
-    "url": "https://github.com/thesysdev/open-intelligent-ui",
-    "discussion_url": "",
-    "published": "2026-10-08T05:37:45Z",
-    "lang": "en",
-    "excerpt": "An open-source take on ChatGPT's Intelligent UI: answers stream as interactive UI (maps, photos, charts, drawings and working tools). Built with OpenUI.",
-    "signal": {
-     "stars_total": 843
-    },
-    "seen_by_model": true,
-    "selected": false
-   },
    {
     "id": "hn-50233779",
     "source": "Hacker News",
@@ -5637,8 +5457,8 @@
     "lang": "en",
     "excerpt": "",
     "signal": {
-     "points": 571,
-     "comments": 245
+     "points": 582,
+     "comments": 246
     },
     "seen_by_model": true,
     "selected": false
@@ -5654,8 +5474,8 @@
     "lang": "en",
     "excerpt": "Why is this worth your time? Essentially, this solves two problems of AI-assisted programming: (a) the first problem is how to do  oversight  and  what  do oversight  of  and this is solved through the ORRCF (for  Options, Recommendation, Rationale, Confidence, Falsifier) question format (in which models are supposed to surface all their doubts with fully fleshed out recommendations, with falsifier, to be approved or overridden) (b) the second problem is how to scaffold sustainable AI-written code; the ADRs (Architectural Deliberation Records, after Nygard's decision records) written by the mo",
     "signal": {
-     "points": 46,
-     "comments": 28
+     "points": 51,
+     "comments": 30
     },
     "seen_by_model": true,
     "selected": true
@@ -5671,8 +5491,8 @@
     "lang": "en",
     "excerpt": "",
     "signal": {
-     "points": 331,
-     "comments": 324
+     "points": 344,
+     "comments": 333
     },
     "seen_by_model": true,
     "selected": false
@@ -5688,8 +5508,8 @@
     "lang": "en",
     "excerpt": "",
     "signal": {
-     "points": 56,
-     "comments": 23
+     "points": 57,
+     "comments": 25
     },
     "seen_by_model": true,
     "selected": false
@@ -5712,6 +5532,23 @@
     "selected": false
    },
    {
+    "id": "hn-50233347",
+    "source": "Hacker News",
+    "kind": "discussion",
+    "title": "A mathematician reads the AI future",
+    "url": "https://www.theatlantic.com/ideas/2026/10/ai-math-human-future/689133/",
+    "discussion_url": "https://news.ycombinator.com/item?id=50233347",
+    "published": "2026-10-25T16:31:21+00:00",
+    "lang": "en",
+    "excerpt": "",
+    "signal": {
+     "points": 63,
+     "comments": 87
+    },
+    "seen_by_model": true,
+    "selected": false
+   },
+   {
     "id": "hn-50239027",
     "source": "Hacker News",
     "kind": "discussion",
@@ -5723,24 +5560,7 @@
     "excerpt": "",
     "signal": {
      "points": 69,
-     "comments": 73
-    },
-    "seen_by_model": true,
-    "selected": false
-   },
-   {
-    "id": "hn-50233347",
-    "source": "Hacker News",
-    "kind": "discussion",
-    "title": "A mathematician reads the AI future",
-    "url": "https://www.theatlantic.com/ideas/2026/10/ai-math-human-future/689133/",
-    "discussion_url": "https://news.ycombinator.com/item?id=50233347",
-    "published": "2026-10-25T16:31:21+00:00",
-    "lang": "en",
-    "excerpt": "",
-    "signal": {
-     "points": 60,
-     "comments": 86
+     "comments": 75
     },
     "seen_by_model": true,
     "selected": false
@@ -5774,12 +5594,17 @@
     "excerpt": "",
     "signal": {
      "points": 356,
-     "comments": 134
+     "comments": 135
     },
     "seen_by_model": true,
     "selected": false
    }
   ],
-  "failed_sources": []
+  "failed_sources": [
+   {
+    "name": "GitHub",
+    "error": "HTTPError"
+   }
+  ]
  }
 }
