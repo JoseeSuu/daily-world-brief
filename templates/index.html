@@ -9,88 +9,132 @@
 <link rel="manifest" href="manifest.json">
 <link rel="icon" href="icon.svg" type="image/svg+xml">
 <link rel="alternate" type="application/rss+xml" title="Daily World Brief" href="feed.xml">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Newsreader:opsz,wght@6..72,500;6..72,600;6..72,700&display=swap">
 <style>
 :root{
-  --bg:#f6f7f9; --card:#ffffff; --text:#1a1d21; --muted:#6b7280;
-  --accent:#2563eb; --border:#e5e7eb; --chip:#eef2f7;
+  --bg:#f7f5ef; --card:#fffdf8; --text:#1c1b19; --muted:#6e6a62;
+  --accent:#234e85; --border:#dedad0; --chip:#ece8de; --rule:#1c1b19;
+  --news:#a5291f;
+  --serif:"Newsreader",Georgia,"Times New Roman","PingFang SC","Microsoft YaHei",serif;
   color-scheme: light dark;
 }
 @media (prefers-color-scheme: dark){
-  :root{ --bg:#0f1115; --card:#181b21; --text:#e7e9ec; --muted:#9aa1ab;
-         --accent:#7aa2ff; --border:#262b33; --chip:#222731; }
+  :root{ --bg:#121212; --card:#1a1a19; --text:#ebe8e1; --muted:#a19d94;
+         --accent:#93b4e6; --border:#2c2b28; --chip:#252421; --rule:#ebe8e1;
+         --news:#f08a7e; }
 }
 *{box-sizing:border-box; margin:0}
 body{background:var(--bg); color:var(--text);
   font:16px/1.55 system-ui,-apple-system,"Segoe UI",Roboto,"Noto Sans SC","PingFang SC","Microsoft YaHei",sans-serif;
   -webkit-font-smoothing:antialiased}
 header{position:sticky; top:0; z-index:10; background:var(--bg);
-  border-bottom:1px solid var(--border); padding:.6rem .9rem}
+  border-bottom:1px solid var(--border); padding:.5rem .9rem}
 .hrow{display:flex; align-items:center; justify-content:space-between; gap:.5rem;
-  max-width:760px; margin:0 auto}
-h1{font-size:1.05rem; letter-spacing:.02em; white-space:nowrap}
-h1 span{color:var(--accent)}
-.controls{display:flex; gap:.4rem; align-items:center; flex-wrap:wrap; justify-content:flex-end}
+  max-width:1040px; margin:0 auto}
+.brand{font-family:var(--serif); font-weight:700; font-size:1.05rem; color:var(--text);
+  text-decoration:none; white-space:nowrap}
+.controls{display:flex; gap:.35rem; align-items:center; flex-wrap:nowrap}
 select, .filt{background:var(--chip); color:var(--text); border:1px solid var(--border);
-  border-radius:.55rem; padding:.32rem .5rem; font-size:.85rem; cursor:pointer}
-.filt{min-width:2.4rem; opacity:.5}
-.filt.on{opacity:1; background:var(--accent); color:#fff; border-color:var(--accent)}
-main{max-width:760px; margin:0 auto; padding:0 .9rem 3rem}
+  border-radius:.5rem; padding:.28rem .45rem; font-size:.82rem; cursor:pointer}
+.filt{min-width:2.2rem; opacity:.5}
+.filt.on{opacity:1; background:var(--text); color:var(--bg); border-color:var(--text)}
+main{max-width:1040px; margin:0 auto; padding:0 .9rem 3rem}
+
+.masthead{text-align:center; padding:1.6rem 0 .2rem}
+.masthead h1{font-family:var(--serif); font-weight:700; letter-spacing:-.01em;
+  font-size:clamp(2.1rem, 7vw, 3.6rem); line-height:1.05}
+.dateline{display:flex; justify-content:space-between; gap:.5rem; flex-wrap:wrap;
+  margin-top:.8rem; padding:.35rem 0; border-top:3px double var(--rule);
+  border-bottom:1px solid var(--rule); font-size:.78rem; text-transform:uppercase;
+  letter-spacing:.08em; color:var(--muted)}
+.dateline b{color:var(--text); font-weight:600}
+
 .market{display:flex; gap:.6rem; overflow-x:auto; padding:.7rem 0 .2rem; font-size:.8rem;
   scrollbar-width:none}
+.market:empty{display:none}
 .market::-webkit-scrollbar{display:none}
-.mkt{background:var(--card); border:1px solid var(--border); border-radius:.6rem;
-  padding:.3rem .6rem; white-space:nowrap; color:var(--muted)}
+.mkt{border:1px solid var(--border); border-radius:.4rem; padding:.25rem .55rem;
+  white-space:nowrap; color:var(--muted)}
 .mkt b{color:var(--text); font-variant-numeric:tabular-nums}
-.section{margin-top:1.4rem}
-.section>h2{font-size:1.15rem; padding-bottom:.35rem; border-bottom:2px solid var(--accent)}
-.continent{margin-top:.9rem}
-.continent>h3{font-size:.8rem; text-transform:uppercase; letter-spacing:.12em;
-  color:var(--muted); margin-bottom:.5rem}
-.card{background:var(--card); border:1px solid var(--border); border-radius:.8rem;
-  padding:.8rem .9rem; margin-bottom:.6rem}
-.card h4{font-size:.98rem; line-height:1.4; margin-bottom:.3rem}
+
+.rule-title{font-family:var(--serif); font-size:1.45rem; font-weight:700;
+  padding:.45rem 0 .35rem; border-top:3px double var(--rule); border-bottom:1px solid var(--border)}
+.section{margin-top:2rem}
+.continent{margin-top:1rem}
+.continent>h3{font-size:.72rem; text-transform:uppercase; letter-spacing:.14em;
+  color:var(--muted); font-weight:700; margin-bottom:.1rem}
+
+.card{padding:.85rem 0; border-top:1px solid var(--border)}
+.continent>h3+.card{border-top:0}
+.card h4{font-family:var(--serif); font-weight:600; font-size:1.13rem; line-height:1.25;
+  margin-bottom:.35rem}
 .card h4 a{color:inherit; text-decoration:none}
-.card h4 a:hover{color:var(--accent)}
-.card p{font-size:.9rem; opacity:.92; margin-bottom:.45rem}
-.meta{font-size:.78rem; color:var(--muted); display:flex; flex-wrap:wrap; gap:.25rem .5rem;
+.card h4 a:hover{text-decoration:underline; text-decoration-thickness:1px; text-underline-offset:3px}
+.card p{font-size:.9rem; color:var(--text); opacity:.88; margin-bottom:.45rem}
+.kicker{display:block; font-size:.7rem; text-transform:uppercase; letter-spacing:.12em;
+  color:var(--muted); font-weight:700; margin-bottom:.3rem}
+.flag{color:var(--news)}
+.meta{font-size:.76rem; color:var(--muted); display:flex; flex-wrap:wrap; gap:.2rem .5rem;
   align-items:center}
 .meta a{color:var(--accent); text-decoration:none; font-weight:600}
 .meta a:hover{text-decoration:underline}
-.tag{background:var(--chip); border:1px solid var(--border); border-radius:.35rem;
-  padding:0 .3rem; font-size:.7rem; letter-spacing:.03em}
+.tag{border:1px solid var(--border); border-radius:.3rem; padding:0 .3rem;
+  font-size:.66rem; letter-spacing:.04em}
 .empty{color:var(--muted); font-size:.85rem; padding:.4rem 0}
-footer{max-width:760px; margin:2.2rem auto 0; padding:1rem .9rem 2rem; font-size:.78rem;
-  color:var(--muted); border-top:1px solid var(--border)}
-footer a{color:var(--accent)}
-.warn{margin-top:.3rem}
-.event-status{display:inline-block; margin-bottom:.4rem; color:var(--muted); font-size:.75rem}
-.change{border-left:2px solid var(--accent); padding-left:.5rem}
-.sources{margin-top:.55rem; font-size:.8rem}
+.change{border-left:2px solid var(--news); padding-left:.5rem}
+.sources{margin-top:.5rem; font-size:.8rem}
 .sources summary{cursor:pointer; color:var(--accent)}
 .sources ul{padding-left:1.1rem; margin-top:.4rem}
 .sources li{margin-bottom:.4rem}
 .sources a{color:var(--accent)}
-.card[id]{scroll-margin-top:6rem}
+.card[id]{scroll-margin-top:5rem}
+
+.lead{margin-top:.6rem}
+.lead .rule-title{border-top:0}
+.lead-grid{display:grid; gap:0 2rem; margin-top:.3rem}
+.lead .card{border-top:1px solid var(--border)}
+.lead-main{border-top:0 !important}
+.lead-main h4{font-size:clamp(1.55rem, 4.5vw, 2.25rem); line-height:1.12; font-weight:700}
+.lead-main p{font-size:1.02rem}
+.lead-side h4{font-size:1.25rem}
+
 .aihot{display:flex; align-items:center; justify-content:space-between; gap:.8rem;
-  margin-top:.9rem; padding:.75rem .95rem; border-radius:.8rem; text-decoration:none;
+  margin-top:1.6rem; padding:.75rem .95rem; border-radius:.6rem; text-decoration:none;
   color:var(--text); background:var(--card); border:1px solid var(--border);
-  border-left:4px solid var(--accent); transition:border-color .15s, transform .15s}
-.aihot:hover{border-color:var(--accent); transform:translateY(-1px)}
-.aihot b{display:block; font-size:.95rem}
+  transition:border-color .15s}
+.aihot:hover{border-color:var(--accent)}
+.aihot b{display:block; font-family:var(--serif); font-size:1.05rem}
 .aihot small{color:var(--muted); font-size:.8rem}
 .aihot-go{flex:none; display:grid; place-items:center; width:2rem; height:2rem;
-  border-radius:50%; background:var(--accent); color:#fff; font-weight:700}
-@media(min-width:640px){
-  .grid{display:grid; grid-template-columns:repeat(3,1fr); gap:.9rem}
-  .continent{margin-top:0}
-  .section .grid{margin-top:.9rem}
+  border-radius:50%; background:var(--text); color:var(--bg); font-weight:700}
+
+footer{max-width:1040px; margin:2.2rem auto 0; padding:1rem .9rem 2rem; font-size:.78rem;
+  color:var(--muted); border-top:3px double var(--rule)}
+footer a{color:var(--accent)}
+.warn{margin-top:.3rem}
+
+@media(min-width:720px){
+  .grid{display:grid; grid-template-columns:repeat(3,1fr); gap:0 1.6rem}
+  .grid .continent{margin-top:1rem}
+  .grid .continent + .continent{border-left:1px solid var(--border); padding-left:1.6rem;
+    margin-left:-.8rem}
+  .lead-grid{grid-template-columns:1.7fr 1fr}
+  .lead-main{grid-row:span 2; padding-right:2rem; border-right:1px solid var(--border)}
+  .lead-side:first-of-type{border-top:0}
+}
+@media(max-width:420px){
+  .brand{font-size:.95rem}
+  select,.filt{font-size:.78rem; padding:.25rem .35rem}
+  .filt{min-width:1.9rem}
 }
 </style>
 </head>
 <body>
 <header>
   <div class="hrow">
-    <h1>Daily <span>World</span> Brief</h1>
+    <a class="brand" href="./">Daily World Brief</a>
     <div class="controls">
       <select id="dateSel" aria-label="Fecha"></select>
       <button class="filt on" data-lang="es" title="Mostrar noticias en español">ES</button>
@@ -100,7 +144,12 @@ footer a{color:var(--accent)}
   </div>
 </header>
 <main>
+  <div class="masthead">
+    <h1>Daily World Brief</h1>
+    <div class="dateline"><b id="todayLine"></b><span>Economía · Política · Tecnología</span><span id="countLine"></span></div>
+  </div>
   <div class="market" id="market"></div>
+  <div id="lead"></div>
   <a class="aihot" href="https://aihot.news" target="_blank" rel="noopener">
     <span><b>Novedades de IA</b><small>Lo más destacado del día en AIHOT</small></span>
     <span class="aihot-go" aria-hidden="true">↗</span>
@@ -120,8 +169,9 @@ const SECTIONS = {
 };
 const CONTINENTS = { asia:"Asia", europa:"Europa", america:"América" };
 const LANG_TAG = { es:"ES", en:"EN", zh:"中文" };
-const STATUS = {new:"Nuevo en el brief", updated:"Con novedades", unchanged:"Sin cambios detectados",
-  unclear:"Cambio sin confirmar", uncompared:"Sin edición de ayer para comparar", unavailable:"Comparación no disponible"};
+// Solo se etiqueta lo que aporta: novedades sobre ayer y lo que sigue igual.
+const STATUS = {updated:'<span class="kicker flag">Con novedades</span>',
+  unchanged:'<span class="kicker">Sigue de ayer, sin cambios</span>'};
 
 let brief = JSON.parse(document.getElementById("brief-data").textContent);
 const dates = JSON.parse(document.getElementById("dates-data").textContent);
@@ -137,7 +187,56 @@ function fmtTime(iso){
 }
 function esc(s){ const d=document.createElement("span"); d.textContent=s||""; return d.innerHTML.replace(/"/g,"&quot;"); }
 
+// "Lo esencial": hasta 3 acontecimientos, primero los que cubren más medios y
+// los que traen novedades; a igualdad, los que el selector puso primero en su
+// celda. Como mucho uno por sección, para que el arranque sea variado.
+function pickLead(visible){
+  const pool = [];
+  for (const sec of Object.keys(SECTIONS)) for (const cont of Object.keys(CONTINENTS))
+    ((brief.cells && brief.cells[`${sec}|${cont}`]) || []).forEach((it, pos) => {
+      if (!visible(it) || it.status === "unchanged") return;
+      const score = ((it.sources || [it]).length - 1) * 3 + (it.status === "updated" ? 2 : 0) - pos;
+      pool.push({it, sec, cont, score});
+    });
+  pool.sort((a, b) => b.score - a.score);
+  const lead = [], used = new Set();
+  for (const p of pool){
+    if (used.has(p.sec)) continue;
+    lead.push(p); used.add(p.sec);
+    if (lead.length === 3) break;
+  }
+  return lead;
+}
+
+function card(it, extra = "", kicker = ""){
+  const sources = it.sources || [it];
+  const display = sources.find(s => active.has(s.lang || "en"));
+  const previous = it.previous_date && dates.includes(it.previous_date)
+    ? `?date=${encodeURIComponent(it.previous_date)}${it.previous_event_id ? "#event-" + encodeURIComponent(it.previous_event_id) : ""}` : "";
+  return `<article class="card ${extra}"${it.event_id ? ` id="event-${esc(it.event_id)}"` : ""}>
+    ${STATUS[it.status] || (kicker ? `<span class="kicker">${esc(kicker)}</span>` : "")}
+    <h4><a href="${esc(display.url)}" target="_blank" rel="noopener">${esc(display.title)}</a></h4>
+    ${display.summary ? `<p>${esc(display.summary)}</p>` : ""}
+    ${it.change_summary && active.has(it.lang) && it.change_summary !== display.title ? `<p class="change"><b>Qué cambió:</b> ${esc(it.change_summary)}</p>` : ""}
+    <div class="meta">
+      <span class="tag">${LANG_TAG[display.lang] || "EN"}</span>
+      <a href="${esc(display.url)}" target="_blank" rel="noopener">${esc(display.source)}</a>
+      <span>${fmtTime(display.published)}</span>
+      ${previous ? `<a href="${esc(previous)}">Ver ayer</a>` : ""}
+    </div>
+    ${sources.length > 1 ? `<details class="sources"><summary>${sources.length} medios · ver cobertura original</summary><ul>${sources.map(s =>
+      `<li><span class="tag">${LANG_TAG[s.lang] || "EN"}</span> <a href="${esc(s.url)}" target="_blank" rel="noopener">${esc(s.title)}</a> · ${esc(s.source)}</li>`).join("")}</ul></details>` : ""}
+  </article>`;
+}
+
+function fmtDay(d){
+  const s = new Date(d + "T12:00:00Z").toLocaleDateString("es",
+    {weekday:"long", day:"numeric", month:"long", year:"numeric", timeZone:"UTC"});
+  return s.charAt(0).toUpperCase() + s.slice(1);
+}
+
 function render(){
+  document.getElementById("todayLine").textContent = fmtDay(brief.date);
   document.querySelectorAll(".filt").forEach(b=>
     b.classList.toggle("on", active.has(b.dataset.lang)));
 
@@ -151,46 +250,37 @@ function render(){
     }
   }
 
+  const visible = it => (it.sources || [it]).some(s => active.has(s.lang || "en"));
+  const lead = pickLead(visible);
+  const leadIds = new Set(lead.map(l => l.it));
+  let shown = lead.length;
+
+  document.getElementById("lead").innerHTML = lead.length ? `<section class="lead">
+    <h2 class="rule-title">Lo esencial</h2><div class="lead-grid">${lead.map((l, i) =>
+      card(l.it, i ? "lead-side" : "lead-main", `${SECTIONS[l.sec]} · ${CONTINENTS[l.cont]}`)).join("")}</div></section>` : "";
+
   const root = document.getElementById("content");
   root.innerHTML = "";
-  let shown = 0;
   for (const sec of Object.keys(SECTIONS)){
-    let html = `<section class="section"><h2>${SECTIONS[sec]}</h2><div class="grid">`;
+    let html = `<section class="section"><h2 class="rule-title">${SECTIONS[sec]}</h2><div class="grid">`;
     for (const cont of Object.keys(CONTINENTS)){
       const all = (brief.cells && brief.cells[`${sec}|${cont}`]) || [];
-      const items = all.filter(it => (it.sources || [it]).some(s => active.has(s.lang || "en")));
+      const items = all.filter(it => visible(it) && !leadIds.has(it));
       shown += items.length;
       html += `<div class="continent"><h3>${CONTINENTS[cont]}</h3>`;
-      if (!items.length)
+      if (!items.length && !all.some(it => leadIds.has(it)))
         html += `<div class="empty">${all.length ? "Sin noticias en los idiomas elegidos."
                                                  : "Sin noticias destacadas hoy."}</div>`;
-      for (const it of items){
-        const sources = it.sources || [it];
-        const display = sources.find(s => active.has(s.lang || "en"));
-        const previous = it.previous_date && dates.includes(it.previous_date)
-          ? `?date=${encodeURIComponent(it.previous_date)}${it.previous_event_id ? "#event-" + encodeURIComponent(it.previous_event_id) : ""}` : "";
-        html += `<article class="card"${it.event_id ? ` id="event-${esc(it.event_id)}"` : ""}>
-          ${STATUS[it.status] ? `<span class="event-status">${STATUS[it.status]}</span>` : ""}
-          <h4><a href="${esc(display.url)}" target="_blank" rel="noopener">${esc(display.title)}</a></h4>
-          ${display.summary ? `<p>${esc(display.summary)}</p>` : ""}
-          ${it.change_summary && active.has(it.lang) ? `<p class="change"><b>Qué cambió:</b> ${esc(it.change_summary)}</p>` : ""}
-          <div class="meta">
-            <span class="tag">${LANG_TAG[display.lang] || "EN"}</span>
-            <a href="${esc(display.url)}" target="_blank" rel="noopener">${esc(display.source)}</a>
-            <span>${fmtTime(display.published)}</span>
-            ${previous ? `<a href="${esc(previous)}">Ver ayer</a>` : ""}
-          </div>
-          ${sources.length > 1 ? `<details class="sources"><summary>${sources.length} fuentes · ver cobertura original</summary><ul>${sources.map(s =>
-            `<li><span class="tag">${LANG_TAG[s.lang] || "EN"}</span> <a href="${esc(s.url)}" target="_blank" rel="noopener">${esc(s.title)}</a> · ${esc(s.source)}</li>`).join("")}</ul></details>` : ""}
-          </article>`;
-      }
+      for (const it of items) html += card(it);
       html += `</div>`;
     }
     root.innerHTML += html + "</div></section>";
   }
+  document.getElementById("countLine").textContent =
+    `${shown} ${brief.events?.mode === "full" ? "acontecimientos" : "noticias"}`;
 
   const f = document.getElementById("footer");
-  let foot = `${shown} ${brief.events?.mode === "full" ? "acontecimientos" : "noticias"} · Generado: ${fmtTime(brief.generated_at)} · `
+  let foot = `Generado: ${fmtTime(brief.generated_at)} · `
            + `<a href="feed.xml">Suscríbete por RSS</a>`;
   if (brief.events?.mode === "full")
     foot += `<div class="warn">${brief.events.articles} artículos seleccionados, agrupados por acontecimiento. Comparación basada en titulares y resúmenes${brief.events.compared_with ? " del " + esc(brief.events.compared_with) : " disponibles"}. Los hechos sin cambios detectados aparecen al final de cada bloque.</div>`;
