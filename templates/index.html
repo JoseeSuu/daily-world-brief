@@ -220,6 +220,14 @@ function pickLead(visible){
   return lead;
 }
 
+// «Qué cambió» copia un titular de hoy; si coincide con el de alguna fuente salvo
+// mayúsculas, comillas o puntuación, no aporta nada y no se muestra.
+const bare = t => (t || "").normalize("NFKC").toLowerCase().replace(/[^\p{L}\p{N}]+/gu, "");
+function newFact(it){
+  const fact = bare(it.change_summary);
+  return !!fact && !(it.sources || [it]).some(s => bare(s.title) === fact);
+}
+
 function card(it, extra = "", kicker = ""){
   const sources = it.sources || [it];
   const display = sources.find(s => active.has(s.lang || "en"));
@@ -229,7 +237,7 @@ function card(it, extra = "", kicker = ""){
     ${STATUS[it.status] || (kicker ? `<span class="kicker">${esc(kicker)}</span>` : "")}
     <h4><a href="${esc(display.url)}" target="_blank" rel="noopener">${esc(display.title)}</a></h4>
     ${display.summary ? `<p>${esc(display.summary)}</p>` : ""}
-    ${it.change_summary && active.has(it.lang) && it.change_summary !== display.title ? `<p class="change"><b>Qué cambió:</b> ${esc(it.change_summary)}</p>` : ""}
+    ${active.has(it.lang) && newFact(it) ? `<p class="change"><b>Qué cambió:</b> ${esc(it.change_summary)}</p>` : ""}
     <div class="meta">
       <span class="tag">${LANG_TAG[display.lang] || "EN"}</span>
       <a href="${esc(display.url)}" target="_blank" rel="noopener">${esc(display.source)}</a>
@@ -261,7 +269,7 @@ function analysisPrompt(it){
   let text = `${ANALYSIS_PROMPT}\n\nNoticia del ${fmtDay(brief.date).toLowerCase()}:\n`
     + `Titular: ${main.title}\nMedio: ${main.source}${main.published ? " (" + fmtTime(main.published) + ")" : ""}\n`
     + (main.summary ? `Resumen: ${main.summary}\n` : "")
-    + (it.change_summary && it.change_summary !== main.title ? `Novedad respecto a ayer: ${it.change_summary}\n` : "")
+    + (newFact(it) ? `Novedad respecto a ayer: ${it.change_summary}\n` : "")
     + `Enlace: ${main.url}\n`;
   const others = sources.filter(s => s !== main);
   if (others.length) text += `\nOtras fuentes:\n` + others.map(s => `- ${s.title} (${s.source}): ${s.url}`).join("\n") + "\n";
