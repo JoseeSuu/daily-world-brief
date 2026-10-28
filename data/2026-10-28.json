@@ -1,0 +1,920 @@
+{
+ "date": "2026-10-28",
+ "generated_at": "2026-10-28T11:32:43.289961+00:00",
+ "mode": "full",
+ "cost_usd": 0.0534,
+ "selection": {
+  "model": "claude-haiku-5-5",
+  "effort": "high",
+  "passes": 3,
+  "passes_ok": 3,
+  "cost_usd": 0.0213
+ },
+ "events": {
+  "mode": "full",
+  "compared_with": "2026-10-27",
+  "articles": 40,
+  "uncompared_articles": 0,
+  "events": 37,
+  "cost_usd": 0.0199
+ },
+ "market": null,
+ "failed_sources": [
+  "Reserva Federal (notas de prensa)"
+ ],
+ "cells": {
+  "economia|asia": [
+   {
+    "title": "Jio’s IPO Surge Ends Tata’s Reign as Most Valuable India Group",
+    "summary": "Jio Platforms' blockbuster IPO propelled Reliance Industries into India's most valuable group, ending Tata's 15-year reign.",
+    "lang": "en",
+    "source": "Bloomberg Markets",
+    "url": "https://www.bloomberg.com/news/articles/2026-10-28/jio-s-ipo-surge-ends-tata-s-reign-as-most-valuable-india-group",
+    "published": "2026-10-28T07:07:16+00:00",
+    "event_id": "26576aed764c",
+    "sources": [
+     {
+      "title": "Jio’s IPO Surge Ends Tata’s Reign as Most Valuable India Group",
+      "summary": "Jio Platforms' blockbuster IPO propelled Reliance Industries into India's most valuable group, ending Tata's 15-year reign.",
+      "lang": "en",
+      "source": "Bloomberg Markets",
+      "url": "https://www.bloomberg.com/news/articles/2026-10-28/jio-s-ipo-surge-ends-tata-s-reign-as-most-valuable-india-group",
+      "published": "2026-10-28T07:07:16+00:00"
+     },
+     {
+      "title": "Jio shares surge 21% in market debut after blockbuster India IPO",
+      "summary": "Jio shares surged 21% on market debut, becoming India's second-most valuable listed company.",
+      "lang": "en",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/10/27/jio-shares-surge-21-in-market-debut-after-blockbuster-india-ipo/",
+      "published": "2026-10-28T05:20:32+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "SK Hynix quarterly profit soars sevenfold to $63bn on strong memory demand",
+    "summary": "SK Hynix quarterly profit surged sevenfold to $63 billion driven by strong memory chip demand.",
+    "lang": "en",
+    "source": "Nikkei Asia",
+    "url": "https://asia.nikkei.com/business/tech/semiconductors/sk-hynix-quarterly-profit-soars-sevenfold-to-63bn-on-strong-memory-demand",
+    "published": null,
+    "event_id": "aa6d9d940519",
+    "sources": [
+     {
+      "title": "SK Hynix quarterly profit soars sevenfold to $63bn on strong memory demand",
+      "summary": "SK Hynix quarterly profit surged sevenfold to $63 billion driven by strong memory chip demand.",
+      "lang": "en",
+      "source": "Nikkei Asia",
+      "url": "https://asia.nikkei.com/business/tech/semiconductors/sk-hynix-quarterly-profit-soars-sevenfold-to-63bn-on-strong-memory-demand",
+      "published": null
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "Thailand Holds Key Rate, Lifts Growth Outlook on AI Exports",
+    "summary": "Thailand's central bank held its benchmark rate and raised growth forecasts as AI exports boost economic outlook.",
+    "lang": "en",
+    "source": "Bloomberg Economics",
+    "url": "https://www.bloomberg.com/news/articles/2026-10-28/thailand-holds-key-rate-as-high-energy-costs-weigh-on-economy",
+    "published": "2026-10-28T07:00:45+00:00",
+    "event_id": "7e9c3a61e329",
+    "sources": [
+     {
+      "title": "Thailand Holds Key Rate, Lifts Growth Outlook on AI Exports",
+      "summary": "Thailand's central bank held its benchmark rate and raised growth forecasts as AI exports boost economic outlook.",
+      "lang": "en",
+      "source": "Bloomberg Economics",
+      "url": "https://www.bloomberg.com/news/articles/2026-10-28/thailand-holds-key-rate-as-high-energy-costs-weigh-on-economy",
+      "published": "2026-10-28T07:00:45+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "'Triple selling' pressure mounts amid MSCI downgrade concerns",
+    "summary": "Market pressures intensify amid MSCI index downgrade concerns affecting investor sentiment.",
+    "lang": "en",
+    "source": "Nikkei Asia",
+    "url": "https://asia.nikkei.com/business/markets/triple-selling-pressure-mounts-amid-msci-downgrade-concerns",
+    "published": null,
+    "event_id": "611a3671f4c0",
+    "sources": [
+     {
+      "title": "'Triple selling' pressure mounts amid MSCI downgrade concerns",
+      "summary": "Market pressures intensify amid MSCI index downgrade concerns affecting investor sentiment.",
+      "lang": "en",
+      "source": "Nikkei Asia",
+      "url": "https://asia.nikkei.com/business/markets/triple-selling-pressure-mounts-amid-msci-downgrade-concerns",
+      "published": null
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   }
+  ],
+  "economia|europa": [
+   {
+    "title": "BoE to kick off short and precautionary tightening cycle in November",
+    "summary": "Bank of England plans to begin a short, precautionary tightening cycle in November.",
+    "lang": "en",
+    "source": "FT Global Economy",
+    "url": "https://www.ft.com/content/e464d3da-dad9-4fa3-b99f-1b89fdd1e2a4",
+    "published": "2026-10-28T05:30:03+00:00",
+    "event_id": "608a3aa61d81",
+    "sources": [
+     {
+      "title": "BoE to kick off short and precautionary tightening cycle in November",
+      "summary": "Bank of England plans to begin a short, precautionary tightening cycle in November.",
+      "lang": "en",
+      "source": "FT Global Economy",
+      "url": "https://www.ft.com/content/e464d3da-dad9-4fa3-b99f-1b89fdd1e2a4",
+      "published": "2026-10-28T05:30:03+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "Healey’s Budget to Buy Breathing Room for UK and Labour",
+    "summary": "Chancellor Healey's first budget aims to deliver breathing room for Britain as Labour seeks sustained momentum.",
+    "lang": "en",
+    "source": "Bloomberg Economics",
+    "url": "https://www.bloomberg.com/news/articles/2026-10-27/healey-to-unveil-budget-to-buy-breathing-room-for-uk-and-labour",
+    "published": "2026-10-27T22:30:00+00:00",
+    "event_id": "acb47cf9d4b3",
+    "sources": [
+     {
+      "title": "Healey’s Budget to Buy Breathing Room for UK and Labour",
+      "summary": "Chancellor Healey's first budget aims to deliver breathing room for Britain as Labour seeks sustained momentum.",
+      "lang": "en",
+      "source": "Bloomberg Economics",
+      "url": "https://www.bloomberg.com/news/articles/2026-10-27/healey-to-unveil-budget-to-buy-breathing-room-for-uk-and-labour",
+      "published": "2026-10-27T22:30:00+00:00"
+     },
+     {
+      "title": "Burnham’s government unveils its first UK budget: What to expect",
+      "summary": "UK Chancellor presents autumn budget addressing rising living costs and energy bills.",
+      "lang": "en",
+      "source": "Al Jazeera English",
+      "url": "https://www.aljazeera.com/news/2026/10/28/burnhams-government-unveils-its-first-uk-budget-what-to-expect?traffic_source=rss",
+      "published": "2026-10-28T10:42:52+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "Qué es el LZB, el sistema de seguridad que supuestamente ha fallado en el accidente de un AVE y un Iryo en Toledo",
+    "summary": "Un tren AVE colisionó con un Iryo en Toledo en grave accidente ferroviario. El sistema de seguridad LZB habría fallado en la línea andaluza de alta velocidad.",
+    "lang": "es",
+    "source": "Xataka",
+    "url": "https://www.xataka.com/movilidad/que-lzb-sistema-seguridad-que-supuestamente-ha-fallado-accidente-ave-iryo-toledo",
+    "published": "2026-10-28T10:53:00+00:00",
+    "event_id": "34c45fab9fdb",
+    "sources": [
+     {
+      "title": "Qué es el LZB, el sistema de seguridad que supuestamente ha fallado en el accidente de un AVE y un Iryo en Toledo",
+      "summary": "Un tren AVE colisionó con un Iryo en Toledo en grave accidente ferroviario. El sistema de seguridad LZB habría fallado en la línea andaluza de alta velocidad.",
+      "lang": "es",
+      "source": "Xataka",
+      "url": "https://www.xataka.com/movilidad/que-lzb-sistema-seguridad-que-supuestamente-ha-fallado-accidente-ave-iryo-toledo",
+      "published": "2026-10-28T10:53:00+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "EU loan to Airbus threatens trade truce with US, Trump trade official warns",
+    "summary": "European Investment Bank's historic Airbus loan threatens US-EU aircraft trade agreement, warns Trump official.",
+    "lang": "en",
+    "source": "FT Global Economy",
+    "url": "https://www.ft.com/content/f989f4aa-a986-4ced-ba51-fa85f396f06d?syn-25a6b1a6=1",
+    "published": "2026-10-27T12:04:01+00:00",
+    "event_id": "4bdc4b7c7fd6",
+    "sources": [
+     {
+      "title": "EU loan to Airbus threatens trade truce with US, Trump trade official warns",
+      "summary": "European Investment Bank's historic Airbus loan threatens US-EU aircraft trade agreement, warns Trump official.",
+      "lang": "en",
+      "source": "FT Global Economy",
+      "url": "https://www.ft.com/content/f989f4aa-a986-4ced-ba51-fa85f396f06d?syn-25a6b1a6=1",
+      "published": "2026-10-27T12:04:01+00:00"
+     }
+    ],
+    "status": "unchanged",
+    "change_summary": "",
+    "previous_date": "2026-10-27",
+    "previous_event_id": "4bdc4b7c7fd6"
+   }
+  ],
+  "tecnologia|europa": [
+   {
+    "title": "UK considers forcing data centres to invest locally to meet new AI ‘covenant’",
+    "summary": "UK government considers requiring data centre developers to invest locally under new AI covenant.",
+    "lang": "en",
+    "source": "FT Global Economy",
+    "url": "https://www.ft.com/content/336f8f7c-1a39-403d-8c68-dfca5ff1a2bb?syn-25a6b1a6=1",
+    "published": "2026-10-27T12:00:08+00:00",
+    "event_id": "f7f3a5271980",
+    "sources": [
+     {
+      "title": "UK considers forcing data centres to invest locally to meet new AI ‘covenant’",
+      "summary": "UK government considers requiring data centre developers to invest locally under new AI covenant.",
+      "lang": "en",
+      "source": "FT Global Economy",
+      "url": "https://www.ft.com/content/336f8f7c-1a39-403d-8c68-dfca5ff1a2bb?syn-25a6b1a6=1",
+      "published": "2026-10-27T12:00:08+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "Elon Musk says Ukraine’s military violated Starlink’s terms of service",
+    "summary": "Elon Musk claims Ukraine military violated Starlink terms of service before recent slowdown.",
+    "lang": "en",
+    "source": "The Verge",
+    "url": "https://www.theverge.com/science/1019879/elon-musk-starlink-ukraine-terms-of-service",
+    "published": "2026-10-27T19:24:06+00:00",
+    "event_id": "0838a8885736",
+    "sources": [
+     {
+      "title": "Elon Musk says Ukraine’s military violated Starlink’s terms of service",
+      "summary": "Elon Musk claims Ukraine military violated Starlink terms of service before recent slowdown.",
+      "lang": "en",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/science/1019879/elon-musk-starlink-ukraine-terms-of-service",
+      "published": "2026-10-27T19:24:06+00:00"
+     }
+    ],
+    "status": "unchanged",
+    "change_summary": "",
+    "previous_date": "2026-10-27",
+    "previous_event_id": "0838a8885736"
+   }
+  ],
+  "politica|europa": [
+   {
+    "title": "Washington discusses Russian deals for US oil majors in Ukraine peace talks",
+    "summary": "White House proposes renewed post-war business ties with Russia for US oil majors in Ukraine peace negotiations.",
+    "lang": "en",
+    "source": "Financial Times",
+    "url": "https://www.ft.com/content/d703aaae-f607-4b30-9830-ac2a25472d44?syn-25a6b1a6=1",
+    "published": "2026-10-27T19:06:02+00:00",
+    "event_id": "2a71e30cae17",
+    "sources": [
+     {
+      "title": "Washington discusses Russian deals for US oil majors in Ukraine peace talks",
+      "summary": "White House proposes renewed post-war business ties with Russia for US oil majors in Ukraine peace negotiations.",
+      "lang": "en",
+      "source": "Financial Times",
+      "url": "https://www.ft.com/content/d703aaae-f607-4b30-9830-ac2a25472d44?syn-25a6b1a6=1",
+      "published": "2026-10-27T19:06:02+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "Norway and Finland leaders hold rare call with Putin",
+    "summary": "Norway and Finland leaders hold rare call with Putin, emphasizing Ukraine conflict requires engagement.",
+    "lang": "en",
+    "source": "BBC World",
+    "url": "https://www.bbc.co.uk/news/articles/c6vgj813mlelo?at_medium=RSS&at_campaign=rss",
+    "published": "2026-10-27T18:28:23+00:00",
+    "event_id": "5da481dc97b7",
+    "sources": [
+     {
+      "title": "Norway and Finland leaders hold rare call with Putin",
+      "summary": "Norway and Finland leaders hold rare call with Putin, emphasizing Ukraine conflict requires engagement.",
+      "lang": "en",
+      "source": "BBC World",
+      "url": "https://www.bbc.co.uk/news/articles/c6vgj813mlelo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-27T18:28:23+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "Serbian police kill attacker outside Israeli embassy, as country raises terrorism threat level to 'red'",
+    "summary": "Serbian police killed attacker outside Israeli embassy as country raises terrorism threat to highest level.",
+    "lang": "en",
+    "source": "Le Monde International",
+    "url": "https://www.lemonde.fr/en/international/article/2026/10/28/serbian-police-kill-attacker-outside-israeli-embassy-as-country-raises-terrorism-threat-level-to-red_6765873_4.html",
+    "published": "2026-10-28T10:22:43+00:00",
+    "event_id": "ac5325f96119",
+    "sources": [
+     {
+      "title": "Serbian police kill attacker outside Israeli embassy, as country raises terrorism threat level to 'red'",
+      "summary": "Serbian police killed attacker outside Israeli embassy as country raises terrorism threat to highest level.",
+      "lang": "en",
+      "source": "Le Monde International",
+      "url": "https://www.lemonde.fr/en/international/article/2026/10/28/serbian-police-kill-attacker-outside-israeli-embassy-as-country-raises-terrorism-threat-level-to-red_6765873_4.html",
+      "published": "2026-10-28T10:22:43+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "Ceasefire extended across Ukraine's Kherson region, officials say",
+    "summary": "Ceasefire extended across Ukraine's Kherson region with no reported breaches by Russian or Ukrainian forces.",
+    "lang": "en",
+    "source": "BBC World",
+    "url": "https://www.bbc.co.uk/news/articles/c6lye1w9p2l8o?at_medium=RSS&at_campaign=rss",
+    "published": "2026-10-27T22:11:08+00:00",
+    "event_id": "56a7e27836c6",
+    "sources": [
+     {
+      "title": "Ceasefire extended across Ukraine's Kherson region, officials say",
+      "summary": "Ceasefire extended across Ukraine's Kherson region with no reported breaches by Russian or Ukrainian forces.",
+      "lang": "en",
+      "source": "BBC World",
+      "url": "https://www.bbc.co.uk/news/articles/c6lye1w9p2l8o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-27T22:11:08+00:00"
+     }
+    ],
+    "status": "updated",
+    "change_summary": "Ceasefire extended across Ukraine's Kherson region, officials say",
+    "previous_date": "2026-10-27",
+    "previous_event_id": "56a7e27836c6"
+   },
+   {
+    "title": "特朗普考虑解除对普京“小金库”的制裁",
+    "summary": "特朗普考虑解除对俄罗斯主权财富基金制裁，系美俄更广泛谈判的一部分。",
+    "lang": "zh",
+    "source": "纽约时报中文网",
+    "url": "https://cn.nytimes.com/usa/20261028/russia-fund-sanctions-trump/?utm_source=RSS",
+    "published": "2026-10-28T04:37:29+00:00",
+    "event_id": "a9d9a58d3423",
+    "sources": [
+     {
+      "title": "特朗普考虑解除对普京“小金库”的制裁",
+      "summary": "特朗普考虑解除对俄罗斯主权财富基金制裁，系美俄更广泛谈判的一部分。",
+      "lang": "zh",
+      "source": "纽约时报中文网",
+      "url": "https://cn.nytimes.com/usa/20261028/russia-fund-sanctions-trump/?utm_source=RSS",
+      "published": "2026-10-28T04:37:29+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "武契奇14年執政落幕，中塞「鐵桿友誼」何去何從？",
+    "summary": "塞尔维亚总统武契奇14年执政结束，中塞",
+    "lang": "zh",
+    "source": "BBC中文",
+    "url": "https://www.bbc.com/zhongwen/articles/cw62y7lkvyn0o/trad?at_medium=RSS&at_campaign=rss",
+    "published": "2026-10-27T08:05:52+00:00",
+    "event_id": "c4c48ac64982",
+    "sources": [
+     {
+      "title": "武契奇14年執政落幕，中塞「鐵桿友誼」何去何從？",
+      "summary": "塞尔维亚总统武契奇14年执政结束，中塞",
+      "lang": "zh",
+      "source": "BBC中文",
+      "url": "https://www.bbc.com/zhongwen/articles/cw62y7lkvyn0o/trad?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-27T08:05:52+00:00"
+     }
+    ],
+    "status": "unchanged",
+    "change_summary": "",
+    "previous_date": "2026-10-27",
+    "previous_event_id": "c4c48ac64982"
+   }
+  ],
+  "economia|america": [
+   {
+    "title": "Fed Watchers Prep for Next Step in the Kevin Warsh ‘Discovery Process’",
+    "summary": "Fed watchers assess Kevin Warsh's communication strategy through post-decision briefing signals.",
+    "lang": "en",
+    "source": "Bloomberg Economics",
+    "url": "https://www.bloomberg.com/news/newsletters/2026-10-28/fed-watchers-prep-for-next-step-in-the-kevin-warsh-discovery-process",
+    "published": "2026-10-28T11:02:37+00:00",
+    "event_id": "4249aa58376a",
+    "sources": [
+     {
+      "title": "Fed Watchers Prep for Next Step in the Kevin Warsh ‘Discovery Process’",
+      "summary": "Fed watchers assess Kevin Warsh's communication strategy through post-decision briefing signals.",
+      "lang": "en",
+      "source": "Bloomberg Economics",
+      "url": "https://www.bloomberg.com/news/newsletters/2026-10-28/fed-watchers-prep-for-next-step-in-the-kevin-warsh-discovery-process",
+      "published": "2026-10-28T11:02:37+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "GE Vernova Agrees to Pay $9 Billion to Acquire Trench Group",
+    "summary": "GE Vernova agreed to acquire Trench Group for $9 billion to expand high-voltage power grid equipment supply.",
+    "lang": "en",
+    "source": "Bloomberg Markets",
+    "url": "https://www.bloomberg.com/news/articles/2026-10-28/ge-vernova-agrees-to-pay-9-billion-to-acquire-trench-group",
+    "published": "2026-10-28T10:16:16+00:00",
+    "event_id": "0810e5949e1e",
+    "sources": [
+     {
+      "title": "GE Vernova Agrees to Pay $9 Billion to Acquire Trench Group",
+      "summary": "GE Vernova agreed to acquire Trench Group for $9 billion to expand high-voltage power grid equipment supply.",
+      "lang": "en",
+      "source": "Bloomberg Markets",
+      "url": "https://www.bloomberg.com/news/articles/2026-10-28/ge-vernova-agrees-to-pay-9-billion-to-acquire-trench-group",
+      "published": "2026-10-28T10:16:16+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "Wall Street’s AI Debt Machine Is Starting to Choke on Supply",
+    "summary": "Wall Street credit markets show early strain as data centre and AI chip financing demands surge.",
+    "lang": "en",
+    "source": "Bloomberg Markets",
+    "url": "https://www.bloomberg.com/news/articles/2026-10-28/wall-street-s-ai-debt-machine-is-starting-to-choke-on-supply",
+    "published": "2026-10-28T10:30:00+00:00",
+    "event_id": "ad50facc825e",
+    "sources": [
+     {
+      "title": "Wall Street’s AI Debt Machine Is Starting to Choke on Supply",
+      "summary": "Wall Street credit markets show early strain as data centre and AI chip financing demands surge.",
+      "lang": "en",
+      "source": "Bloomberg Markets",
+      "url": "https://www.bloomberg.com/news/articles/2026-10-28/wall-street-s-ai-debt-machine-is-starting-to-choke-on-supply",
+      "published": "2026-10-28T10:30:00+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "El mercado da una tregua a Lula mientras escruta los primeros pasos de su política fiscal",
+    "summary": "Los mercados ofrecen tregua a Lula mientras examina su política fiscal. Empresas del Ibex como Santander y Telefónica generan 50.000 millones de euros en Brasil.",
+    "lang": "es",
+    "source": "El País Economía",
+    "url": "https://elpais.com/economia/2026-10-28/el-mercado-da-una-tregua-a-lula-mientras-escruta-sus-primeros-pasos-de-su-politica-fiscal.html",
+    "published": "2026-10-28T04:30:01+00:00",
+    "event_id": "51bfe497d9fa",
+    "sources": [
+     {
+      "title": "El mercado da una tregua a Lula mientras escruta los primeros pasos de su política fiscal",
+      "summary": "Los mercados ofrecen tregua a Lula mientras examina su política fiscal. Empresas del Ibex como Santander y Telefónica generan 50.000 millones de euros en Brasil.",
+      "lang": "es",
+      "source": "El País Economía",
+      "url": "https://elpais.com/economia/2026-10-28/el-mercado-da-una-tregua-a-lula-mientras-escruta-sus-primeros-pasos-de-su-politica-fiscal.html",
+      "published": "2026-10-28T04:30:01+00:00"
+     }
+    ],
+    "status": "updated",
+    "change_summary": "El mercado da una tregua a Lula mientras escruta los primeros pasos de su política fiscal",
+    "previous_date": "2026-10-27",
+    "previous_event_id": "51bfe497d9fa"
+   },
+   {
+    "title": "Guidewire buys Hyperexponential for $1.7B in cash",
+    "summary": "Guidewire acquired Hyperexponential for $1.7 billion to integrate AI agents into underwriting and pricing.",
+    "lang": "en",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/10/27/guidewire-buys-hyperexponential-for-1-7b-in-cash/",
+    "published": "2026-10-27T22:26:03+00:00",
+    "event_id": "f76306e1fe03",
+    "sources": [
+     {
+      "title": "Guidewire buys Hyperexponential for $1.7B in cash",
+      "summary": "Guidewire acquired Hyperexponential for $1.7 billion to integrate AI agents into underwriting and pricing.",
+      "lang": "en",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/10/27/guidewire-buys-hyperexponential-for-1-7b-in-cash/",
+      "published": "2026-10-27T22:26:03+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "Meta’s $25 billion legal loss just put blood in the water",
+    "summary": "New Mexico judge ruling intensifies pressure on Meta after $17 billion summer settlement with US states.",
+    "lang": "en",
+    "source": "The Verge",
+    "url": "https://www.theverge.com/policy/1019604/new-mexico-meta-cambridge-analytica-kids-safety-settlement",
+    "published": "2026-10-27T16:44:40+00:00",
+    "event_id": "fe16a3aa9a31",
+    "sources": [
+     {
+      "title": "Meta’s $25 billion legal loss just put blood in the water",
+      "summary": "New Mexico judge ruling intensifies pressure on Meta after $17 billion summer settlement with US states.",
+      "lang": "en",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/policy/1019604/new-mexico-meta-cambridge-analytica-kids-safety-settlement",
+      "published": "2026-10-27T16:44:40+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   }
+  ],
+  "politica|asia": [
+   {
+    "title": "Israeli elections: Netanyahu and opposition both fall short of a majority",
+    "summary": "Israeli elections exit polls show Netanyahu and opposition blocs nearly deadlocked without parliamentary majority.",
+    "lang": "en",
+    "source": "Le Monde International",
+    "url": "https://www.lemonde.fr/en/international/video/2026/10/28/israeli-elections-netanyahu-and-opposition-both-fall-short-of-a-majority_6765872_4.html",
+    "published": "2026-10-28T10:22:03+00:00",
+    "event_id": "fbb023f822ad",
+    "sources": [
+     {
+      "title": "Israeli elections: Netanyahu and opposition both fall short of a majority",
+      "summary": "Israeli elections exit polls show Netanyahu and opposition blocs nearly deadlocked without parliamentary majority.",
+      "lang": "en",
+      "source": "Le Monde International",
+      "url": "https://www.lemonde.fr/en/international/video/2026/10/28/israeli-elections-netanyahu-and-opposition-both-fall-short-of-a-majority_6765872_4.html",
+      "published": "2026-10-28T10:22:03+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "China seeks India’s help in defusing border tensions",
+    "summary": "China seeks India's cooperation to maintain peace in disputed border areas after recent stand-offs.",
+    "lang": "en",
+    "source": "South China Morning Post (China)",
+    "url": "https://www.scmp.com/plus/news/china/diplomacy/article/3372433/china-seeks-indias-help-defusing-border-tensions",
+    "published": "2026-10-28T09:13:41+00:00",
+    "event_id": "49ae9e31f269",
+    "sources": [
+     {
+      "title": "China seeks India’s help in defusing border tensions",
+      "summary": "China seeks India's cooperation to maintain peace in disputed border areas after recent stand-offs.",
+      "lang": "en",
+      "source": "South China Morning Post (China)",
+      "url": "https://www.scmp.com/plus/news/china/diplomacy/article/3372433/china-seeks-indias-help-defusing-border-tensions",
+      "published": "2026-10-28T09:13:41+00:00"
+     }
+    ],
+    "status": "updated",
+    "change_summary": "China seeks India's help in defusing border tensions",
+    "previous_date": "2026-10-27",
+    "previous_event_id": "49ae9e31f269"
+   },
+   {
+    "title": "日美同意合作建立第一島鏈防衛體系，強化「拒止型防衛能力」",
+    "summary": "日美防長同意合作建立第一島鏈防衛體系，強化拒止型防衛能力以制衡中國。",
+    "lang": "zh",
+    "source": "科技新報 TechNews",
+    "url": "https://technews.tw/2026/10/28/japan-us-cooperate-first-island-chain-defense-system-strengthen-denial-defense-capabilities/",
+    "published": "2026-10-28T10:00:22+00:00",
+    "event_id": "1f3e429ce8a7",
+    "sources": [
+     {
+      "title": "日美同意合作建立第一島鏈防衛體系，強化「拒止型防衛能力」",
+      "summary": "日美防長同意合作建立第一島鏈防衛體系，強化拒止型防衛能力以制衡中國。",
+      "lang": "zh",
+      "source": "科技新報 TechNews",
+      "url": "https://technews.tw/2026/10/28/japan-us-cooperate-first-island-chain-defense-system-strengthen-denial-defense-capabilities/",
+      "published": "2026-10-28T10:00:22+00:00"
+     },
+     {
+      "title": "日本修訂安保三文件 擬將「拒止能力」列為防衛支柱",
+      "summary": "日本计划年内修订国家安全保障战略，将",
+      "lang": "zh",
+      "source": "中央社 CNA",
+      "url": "https://www.cna.com.tw/news/aopl/202610280208.aspx",
+      "published": "2026-10-28T08:28:27+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "朝韩边境线争端引发半岛新紧张局势",
+    "summary": "三名韩国士兵在朝韩边境踩雷受伤，两国指责对方越界，半岛紧张局势升级。",
+    "lang": "zh",
+    "source": "纽约时报中文网",
+    "url": "https://cn.nytimes.com/asia-pacific/20261028/korea-tensions-border-dmz-mdl/?utm_source=RSS",
+    "published": "2026-10-27T17:03:51+00:00",
+    "event_id": "74b41528b8fd",
+    "sources": [
+     {
+      "title": "朝韩边境线争端引发半岛新紧张局势",
+      "summary": "三名韩国士兵在朝韩边境踩雷受伤，两国指责对方越界，半岛紧张局势升级。",
+      "lang": "zh",
+      "source": "纽约时报中文网",
+      "url": "https://cn.nytimes.com/asia-pacific/20261028/korea-tensions-border-dmz-mdl/?utm_source=RSS",
+      "published": "2026-10-27T17:03:51+00:00"
+     }
+    ],
+    "status": "updated",
+    "change_summary": "朝韩边境线争端引发半岛新紧张局势",
+    "previous_date": "2026-10-27",
+    "previous_event_id": "74b41528b8fd"
+   },
+   {
+    "title": "Israeli forces continue West Bank raids as Hebron lockdown enters sixth day",
+    "summary": "Israeli forces continue West Bank raids as Hebron lockdown extends into sixth day amid UN concerns.",
+    "lang": "en",
+    "source": "Al Jazeera English",
+    "url": "https://www.aljazeera.com/news/2026/10/28/israeli-forces-continue-west-bank-raids-as-hebron-lockdown-enters-sixth-day?traffic_source=rss",
+    "published": "2026-10-28T10:41:07+00:00",
+    "event_id": "99b1b1765265",
+    "sources": [
+     {
+      "title": "Israeli forces continue West Bank raids as Hebron lockdown enters sixth day",
+      "summary": "Israeli forces continue West Bank raids as Hebron lockdown extends into sixth day amid UN concerns.",
+      "lang": "en",
+      "source": "Al Jazeera English",
+      "url": "https://www.aljazeera.com/news/2026/10/28/israeli-forces-continue-west-bank-raids-as-hebron-lockdown-enters-sixth-day?traffic_source=rss",
+      "published": "2026-10-28T10:41:07+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   }
+  ],
+  "politica|america": [
+   {
+    "title": "Flávio Bolsonaro flees Brazil after presidential election loss, reports say",
+    "summary": "Far-right senator Flávio Bolsonaro fled Brazil to Ecuador after election loss, Argentina confirms.",
+    "lang": "en",
+    "source": "The Guardian World",
+    "url": "https://www.theguardian.com/world/2026/oct/27/flavio-bolsonaro-brazil-argentina-fled",
+    "published": "2026-10-28T06:36:14+00:00",
+    "event_id": "d7a1fd79d5b5",
+    "sources": [
+     {
+      "title": "Flávio Bolsonaro flees Brazil after presidential election loss, reports say",
+      "summary": "Far-right senator Flávio Bolsonaro fled Brazil to Ecuador after election loss, Argentina confirms.",
+      "lang": "en",
+      "source": "The Guardian World",
+      "url": "https://www.theguardian.com/world/2026/oct/27/flavio-bolsonaro-brazil-argentina-fled",
+      "published": "2026-10-28T06:36:14+00:00"
+     }
+    ],
+    "status": "updated",
+    "change_summary": "Flávio Bolsonaro flees Brazil after presidential election loss, reports say",
+    "previous_date": "2026-10-27",
+    "previous_event_id": "d7a1fd79d5b5"
+   },
+   {
+    "title": "Trump shows off tanker with ‘1m barrels of oil’ and floats Venezuela as 51st state",
+    "summary": "Trump suggests Venezuela would become 51st state and hails post-Maduro oil deal as historic victory.",
+    "lang": "en",
+    "source": "The Guardian World",
+    "url": "https://www.theguardian.com/us-news/2026/oct/27/trump-oil-tanker-venezuela",
+    "published": "2026-10-27T23:07:06+00:00",
+    "event_id": "da9aa80012cd",
+    "sources": [
+     {
+      "title": "Trump shows off tanker with ‘1m barrels of oil’ and floats Venezuela as 51st state",
+      "summary": "Trump suggests Venezuela would become 51st state and hails post-Maduro oil deal as historic victory.",
+      "lang": "en",
+      "source": "The Guardian World",
+      "url": "https://www.theguardian.com/us-news/2026/oct/27/trump-oil-tanker-venezuela",
+      "published": "2026-10-27T23:07:06+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "US midterms: Six days left – who leads in the polls as Trump, Obama rally",
+    "summary": "Democrats lead national polls six days before US midterms as Trump and Obama campaign in key states.",
+    "lang": "en",
+    "source": "Al Jazeera English",
+    "url": "https://www.aljazeera.com/news/2026/10/28/us-midterms-six-days-left-who-leads-in-the-polls-as-trump-obama-rally?traffic_source=rss",
+    "published": "2026-10-28T10:31:37+00:00",
+    "event_id": "79d98cab0aac",
+    "sources": [
+     {
+      "title": "US midterms: Six days left – who leads in the polls as Trump, Obama rally",
+      "summary": "Democrats lead national polls six days before US midterms as Trump and Obama campaign in key states.",
+      "lang": "en",
+      "source": "Al Jazeera English",
+      "url": "https://www.aljazeera.com/news/2026/10/28/us-midterms-six-days-left-who-leads-in-the-polls-as-trump-obama-rally?traffic_source=rss",
+      "published": "2026-10-28T10:31:37+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   }
+  ],
+  "tecnologia|asia": [
+   {
+    "title": "北韓駭客鎖定216臺PHP主機掃描PHP2Shell漏洞，臺灣列入目標範圍",
+    "summary": "北韓駭客組織自十月二十一日起鎖定全球二百一十六臺存有PHP2Shell漏洞的主機進行掃描，臺灣列入目標。",
+    "lang": "zh",
+    "source": "iThome 台灣",
+    "url": "https://www.ithome.com.tw/news/180045",
+    "published": "2026-10-28T05:10:57+00:00",
+    "event_id": "f1ed12e19b6f",
+    "sources": [
+     {
+      "title": "北韓駭客鎖定216臺PHP主機掃描PHP2Shell漏洞，臺灣列入目標範圍",
+      "summary": "北韓駭客組織自十月二十一日起鎖定全球二百一十六臺存有PHP2Shell漏洞的主機進行掃描，臺灣列入目標。",
+      "lang": "zh",
+      "source": "iThome 台灣",
+      "url": "https://www.ithome.com.tw/news/180045",
+      "published": "2026-10-28T05:10:57+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "中選會候選人財產申報網站出包，背景查詢資料竟含1,573名候選人身分證字號，初判委外廠商疏失",
+    "summary": "中選會候選人財產申報網站出現資安漏洞，一千五百七十三名候選人身分證字號遭洩露，委外廠商疏失所致。",
+    "lang": "zh",
+    "source": "iThome 台灣",
+    "url": "https://www.ithome.com.tw/news/180037",
+    "published": "2026-10-28T06:10:08+00:00",
+    "event_id": "e9a31a71083a",
+    "sources": [
+     {
+      "title": "中選會候選人財產申報網站出包，背景查詢資料竟含1,573名候選人身分證字號，初判委外廠商疏失",
+      "summary": "中選會候選人財產申報網站出現資安漏洞，一千五百七十三名候選人身分證字號遭洩露，委外廠商疏失所致。",
+      "lang": "zh",
+      "source": "iThome 台灣",
+      "url": "https://www.ithome.com.tw/news/180037",
+      "published": "2026-10-28T06:10:08+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "China’s snooping around Pacific undersea cables raises risks for Big Tech",
+    "summary": "US-owned trans-Pacific undersea cables face growing sabotage risks from Chinese intelligence activities.",
+    "lang": "en",
+    "source": "Ars Technica",
+    "url": "https://arstechnica.com/gadgets/2026/10/google-and-meta-subsea-cables-among-most-at-risk-from-sabotage-in-pacific/",
+    "published": "2026-10-28T11:00:49+00:00",
+    "event_id": "a08575681f83",
+    "sources": [
+     {
+      "title": "China’s snooping around Pacific undersea cables raises risks for Big Tech",
+      "summary": "US-owned trans-Pacific undersea cables face growing sabotage risks from Chinese intelligence activities.",
+      "lang": "en",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/gadgets/2026/10/google-and-meta-subsea-cables-among-most-at-risk-from-sabotage-in-pacific/",
+      "published": "2026-10-28T11:00:49+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   }
+  ],
+  "tecnologia|america": [
+   {
+    "title": "Genie 4: A new generation of world simulation",
+    "summary": "DeepMind unveiled Genie 4, a new world model enabling unprecedented realism in real-time simulation.",
+    "lang": "en",
+    "source": "Google DeepMind Blog",
+    "url": "https://deepmind.google/blog/genie-4-a-new-generation-of-world-simulation/",
+    "published": "2026-10-27T16:01:38+00:00",
+    "event_id": "d17d13a0006a",
+    "sources": [
+     {
+      "title": "Genie 4: A new generation of world simulation",
+      "summary": "DeepMind unveiled Genie 4, a new world model enabling unprecedented realism in real-time simulation.",
+      "lang": "en",
+      "source": "Google DeepMind Blog",
+      "url": "https://deepmind.google/blog/genie-4-a-new-generation-of-world-simulation/",
+      "published": "2026-10-27T16:01:38+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "Anthropic IPO warns its AI could blackmail people, become sentient, end humanity",
+    "summary": "Anthropic IPO filing details seven potential AI risks including blackmail, sentience, and existential threats.",
+    "lang": "en",
+    "source": "Ars Technica",
+    "url": "https://arstechnica.com/ai/2026/10/anthropic-ipo-warns-its-ai-could-blackmail-people-become-sentient-end-humanity/",
+    "published": "2026-10-27T21:31:14+00:00",
+    "event_id": "78aca7aaafb2",
+    "sources": [
+     {
+      "title": "Anthropic IPO warns its AI could blackmail people, become sentient, end humanity",
+      "summary": "Anthropic IPO filing details seven potential AI risks including blackmail, sentience, and existential threats.",
+      "lang": "en",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/ai/2026/10/anthropic-ipo-warns-its-ai-could-blackmail-people-become-sentient-end-humanity/",
+      "published": "2026-10-27T21:31:14+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "Parents sue OpenAI, alleging GPT-4o coached their daughter off seizure medication",
+    "summary": "Family sues OpenAI claiming ChatGPT coached daughter to stop seizure medication before her death.",
+    "lang": "en",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/10/27/parents-sue-openai-alleging-gpt-4o-coached-their-daughter-off-seizure-medication/",
+    "published": "2026-10-27T23:34:27+00:00",
+    "event_id": "6210b5315dda",
+    "sources": [
+     {
+      "title": "Parents sue OpenAI, alleging GPT-4o coached their daughter off seizure medication",
+      "summary": "Family sues OpenAI claiming ChatGPT coached daughter to stop seizure medication before her death.",
+      "lang": "en",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/10/27/parents-sue-openai-alleging-gpt-4o-coached-their-daughter-off-seizure-medication/",
+      "published": "2026-10-27T23:34:27+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "Code-execution flaw in UEFI firmware affects most servers on planet Earth",
+    "summary": "Critical UEFI firmware flaw in EDK2 allows code execution on most servers during boot process.",
+    "lang": "en",
+    "source": "Ars Technica",
+    "url": "https://arstechnica.com/security/2026/10/code-execution-flaw-in-uefi-firmware-threatens-most-servers-on-planet-earth/",
+    "published": "2026-10-27T20:25:55+00:00",
+    "event_id": "71d9cb2bf3e5",
+    "sources": [
+     {
+      "title": "Code-execution flaw in UEFI firmware affects most servers on planet Earth",
+      "summary": "Critical UEFI firmware flaw in EDK2 allows code execution on most servers during boot process.",
+      "lang": "en",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/security/2026/10/code-execution-flaw-in-uefi-firmware-threatens-most-servers-on-planet-earth/",
+      "published": "2026-10-27T20:25:55+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   }
+  ]
+ }
+}
