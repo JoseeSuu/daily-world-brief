@@ -1,0 +1,809 @@
+{
+ "date": "2026-10-29",
+ "generated_at": "2026-10-29T11:42:18.263931+00:00",
+ "mode": "full",
+ "cost_usd": 0.0467,
+ "selection": {
+  "model": "claude-haiku-5-5",
+  "effort": "high",
+  "passes": 3,
+  "passes_ok": 3,
+  "cost_usd": 0.0199
+ },
+ "events": {
+  "mode": "full",
+  "compared_with": "2026-10-28",
+  "articles": 36,
+  "uncompared_articles": 0,
+  "events": 32,
+  "cost_usd": 0.016
+ },
+ "market": null,
+ "failed_sources": [],
+ "cells": {
+  "economia|asia": [
+   {
+    "title": "Toyota's six-month sales in China sink to nine-year low as market slumps",
+    "summary": "Toyota's six-month sales in China fell to a nine-year low amid the struggling Chinese vehicle market.",
+    "lang": "en",
+    "source": "Nikkei Asia",
+    "url": "https://asia.nikkei.com/business/automobiles/toyota-s-six-month-sales-in-china-sink-to-nine-year-low-as-market-slumps",
+    "published": null,
+    "event_id": "128ba7bdc563",
+    "sources": [
+     {
+      "title": "Toyota's six-month sales in China sink to nine-year low as market slumps",
+      "summary": "Toyota's six-month sales in China fell to a nine-year low amid the struggling Chinese vehicle market.",
+      "lang": "en",
+      "source": "Nikkei Asia",
+      "url": "https://asia.nikkei.com/business/automobiles/toyota-s-six-month-sales-in-china-sink-to-nine-year-low-as-market-slumps",
+      "published": null
+     },
+     {
+      "title": "BYD, Geely lean on global growth as China market enters 'harshest winter'",
+      "summary": "BYD and Geely are pursuing global expansion as China's automotive market experiences severe contraction and challenging conditions.",
+      "lang": "en",
+      "source": "Nikkei Asia",
+      "url": "https://asia.nikkei.com/business/automobiles/byd-geely-lean-on-global-growth-as-china-market-enters-harshest-winter",
+      "published": null
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "Japan's ANA Holdings to buy regional airlines to enhance domestic flights",
+    "summary": "Japan's ANA Holdings will acquire regional airlines to strengthen and expand its domestic flight network capacity.",
+    "lang": "en",
+    "source": "Nikkei Asia",
+    "url": "https://asia.nikkei.com/business/transportation/japan-s-ana-holdings-to-buy-regional-airlines-to-enhance-domestic-flights",
+    "published": null,
+    "event_id": "0404866dafe4",
+    "sources": [
+     {
+      "title": "Japan's ANA Holdings to buy regional airlines to enhance domestic flights",
+      "summary": "Japan's ANA Holdings will acquire regional airlines to strengthen and expand its domestic flight network capacity.",
+      "lang": "en",
+      "source": "Nikkei Asia",
+      "url": "https://asia.nikkei.com/business/transportation/japan-s-ana-holdings-to-buy-regional-airlines-to-enhance-domestic-flights",
+      "published": null
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   }
+  ],
+  "politica|asia": [
+   {
+    "title": "Hong Kong leader apologizes over deadly Tai Po blaze",
+    "summary": "Hong Kong leader John Lee apologized and his housing secretary resigned over the city's deadliest fire in decades that killed 168 people.",
+    "lang": "en",
+    "source": "Bloomberg Markets",
+    "url": "https://www.bloomberg.com/news/videos/2026-10-29/hong-kong-leader-apologizes-over-deadly-tai-po-blaze-video",
+    "published": "2026-10-29T11:14:32+00:00",
+    "event_id": "84a3d249077b",
+    "sources": [
+     {
+      "title": "Hong Kong leader apologizes over deadly Tai Po blaze",
+      "summary": "Hong Kong leader John Lee apologized and his housing secretary resigned over the city's deadliest fire in decades that killed 168 people.",
+      "lang": "en",
+      "source": "Bloomberg Markets",
+      "url": "https://www.bloomberg.com/news/videos/2026-10-29/hong-kong-leader-apologizes-over-deadly-tai-po-blaze-video",
+      "published": "2026-10-29T11:14:32+00:00"
+     },
+     {
+      "title": "香港宏福苑大火報告公開：特首率官員鞠躬道歉，房屋局長請辭",
+      "summary": "香港特首李家超就近一年前造成168人死亡的宏福苑大火道歉，房屋局長請辭。",
+      "lang": "zh",
+      "source": "BBC中文",
+      "url": "https://www.bbc.com/zhongwen/articles/c95ynv03lmk8o/trad?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-29T09:01:28+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "Netanyahu's bloc leading Israel election but short of majority, partial results show",
+    "summary": "With 93 percent of ballots counted, Netanyahu's Likud party and allies are projected to win 53 of 120 Knesset seats, falling short of majority.",
+    "lang": "en",
+    "source": "BBC World",
+    "url": "https://www.bbc.co.uk/news/articles/cmdx3knq1xexo?at_medium=RSS&at_campaign=rss",
+    "published": "2026-10-29T11:22:18+00:00",
+    "event_id": "fbb023f822ad",
+    "sources": [
+     {
+      "title": "Netanyahu's bloc leading Israel election but short of majority, partial results show",
+      "summary": "With 93 percent of ballots counted, Netanyahu's Likud party and allies are projected to win 53 of 120 Knesset seats, falling short of majority.",
+      "lang": "en",
+      "source": "BBC World",
+      "url": "https://www.bbc.co.uk/news/articles/cmdx3knq1xexo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-29T11:22:18+00:00"
+     }
+    ],
+    "status": "updated",
+    "change_summary": "Netanyahu's bloc leading Israel election but short of majority, partial results show",
+    "previous_date": "2026-10-28",
+    "previous_event_id": "fbb023f822ad"
+   },
+   {
+    "title": "China promotes General Zhang Shengmin, a key player in PLA anti-graft drive, to Politburo",
+    "summary": "China promoted General Zhang Shengmin to the Politburo; he led the military's recent anti-corruption campaign affecting top leadership.",
+    "lang": "en",
+    "source": "South China Morning Post (China)",
+    "url": "https://www.scmp.com/news/china/military/article/3372591/china-promotes-general-zhang-shengmin-politburo",
+    "published": "2026-10-29T09:48:24+00:00",
+    "event_id": "3b3832322228",
+    "sources": [
+     {
+      "title": "China promotes General Zhang Shengmin, a key player in PLA anti-graft drive, to Politburo",
+      "summary": "China promoted General Zhang Shengmin to the Politburo; he led the military's recent anti-corruption campaign affecting top leadership.",
+      "lang": "en",
+      "source": "South China Morning Post (China)",
+      "url": "https://www.scmp.com/news/china/military/article/3372591/china-promotes-general-zhang-shengmin-politburo",
+      "published": "2026-10-29T09:48:24+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "Japan and US strike deal on missile assembly as Tokyo expands long-range arsenal",
+    "summary": "Japan agreed with the US to build an assembly line for advanced American air-to-air missiles and explore missile testing with India and Australia.",
+    "lang": "en",
+    "source": "South China Morning Post (China)",
+    "url": "https://www.scmp.com/news/china/military/article/3372564/japan-and-us-strike-deal-missile-assembly-tokyo-expands-long-range-arsenal",
+    "published": "2026-10-29T07:53:28+00:00",
+    "event_id": "1f3e429ce8a7",
+    "sources": [
+     {
+      "title": "Japan and US strike deal on missile assembly as Tokyo expands long-range arsenal",
+      "summary": "Japan agreed with the US to build an assembly line for advanced American air-to-air missiles and explore missile testing with India and Australia.",
+      "lang": "en",
+      "source": "South China Morning Post (China)",
+      "url": "https://www.scmp.com/news/china/military/article/3372564/japan-and-us-strike-deal-missile-assembly-tokyo-expands-long-range-arsenal",
+      "published": "2026-10-29T07:53:28+00:00"
+     }
+    ],
+    "status": "updated",
+    "change_summary": "Japan and US strike deal on missile assembly as Tokyo expands long-range arsenal",
+    "previous_date": "2026-10-28",
+    "previous_event_id": "1f3e429ce8a7"
+   },
+   {
+    "title": "Ship reported on fire off Oman as Iran escalation fears mount",
+    "summary": "A ship caught fire in the Strait of Hormuz as military tensions escalate between Iran and the United States.",
+    "lang": "en",
+    "source": "Deutsche Welle World",
+    "url": "https://www.dw.com/en/ship-reported-on-fire-off-oman-as-iran-escalation-fears-mount/a-79792733?maca=en-rss-en-world-4025-rdf",
+    "published": "2026-10-29T10:04:00+00:00",
+    "event_id": "71fee8edd7df",
+    "sources": [
+     {
+      "title": "Ship reported on fire off Oman as Iran escalation fears mount",
+      "summary": "A ship caught fire in the Strait of Hormuz as military tensions escalate between Iran and the United States.",
+      "lang": "en",
+      "source": "Deutsche Welle World",
+      "url": "https://www.dw.com/en/ship-reported-on-fire-off-oman-as-iran-escalation-fears-mount/a-79792733?maca=en-rss-en-world-4025-rdf",
+      "published": "2026-10-29T10:04:00+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "Evacuation from Oleshky: How are preparations going?",
+    "summary": "A lawyer described evacuation preparations in Russian-occupied Oleshky following a temporary ceasefire brokered by Melania Trump.",
+    "lang": "en",
+    "source": "Deutsche Welle World",
+    "url": "https://www.dw.com/en/evacuation-from-oleshky-how-are-preparations-going/a-79790001?maca=en-rss-en-world-4025-rdf",
+    "published": "2026-10-28T17:04:00+00:00",
+    "event_id": "56a7e27836c6",
+    "sources": [
+     {
+      "title": "Evacuation from Oleshky: How are preparations going?",
+      "summary": "A lawyer described evacuation preparations in Russian-occupied Oleshky following a temporary ceasefire brokered by Melania Trump.",
+      "lang": "en",
+      "source": "Deutsche Welle World",
+      "url": "https://www.dw.com/en/evacuation-from-oleshky-how-are-preparations-going/a-79790001?maca=en-rss-en-world-4025-rdf",
+      "published": "2026-10-28T17:04:00+00:00"
+     }
+    ],
+    "status": "updated",
+    "change_summary": "Evacuation from Oleshky: How are preparations going?",
+    "previous_date": "2026-10-28",
+    "previous_event_id": "56a7e27836c6"
+   },
+   {
+    "title": "Elon Musk is a 'real genius', Putin says after satellite talks with SpaceX boss",
+    "summary": "Russian President Putin praised Elon Musk as a 'real genius' and said they maintain close contact regarding satellite operations.",
+    "lang": "en",
+    "source": "BBC World",
+    "url": "https://www.bbc.co.uk/news/articles/c63djl148n3eo?at_medium=RSS&at_campaign=rss",
+    "published": "2026-10-28T19:15:58+00:00",
+    "event_id": "b069f02850bf",
+    "sources": [
+     {
+      "title": "Elon Musk is a 'real genius', Putin says after satellite talks with SpaceX boss",
+      "summary": "Russian President Putin praised Elon Musk as a 'real genius' and said they maintain close contact regarding satellite operations.",
+      "lang": "en",
+      "source": "BBC World",
+      "url": "https://www.bbc.co.uk/news/articles/c63djl148n3eo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-28T19:15:58+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   }
+  ],
+  "politica|europa": [
+   {
+    "title": "ECB President Lagarde to step down on 7 February 2027",
+    "summary": "European Central Bank President Christine Lagarde will step down on February 7, 2027, before her term ends.",
+    "lang": "en",
+    "source": "BCE (notas de prensa)",
+    "url": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr261029~abbb6dc64b.en.html",
+    "published": "2026-10-29T10:00:00+00:00",
+    "event_id": "5e25e64b9fc7",
+    "sources": [
+     {
+      "title": "ECB President Lagarde to step down on 7 February 2027",
+      "summary": "European Central Bank President Christine Lagarde will step down on February 7, 2027, before her term ends.",
+      "lang": "en",
+      "source": "BCE (notas de prensa)",
+      "url": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr261029~abbb6dc64b.en.html",
+      "published": "2026-10-29T10:00:00+00:00"
+     },
+     {
+      "title": "European Central Bank (ECB) head Christine Lagarde to step down in February, before her term ends",
+      "summary": "ECB President Christine Lagarde is resigning nine months early, nine months before the end of her eight-year term.",
+      "lang": "en",
+      "source": "Deutsche Welle World",
+      "url": "https://www.dw.com/en/european-central-bank-ecb-head-christine-lagarde-to-step-down-in-february-before-her-term-ends/a-79794353?maca=en-rss-en-world-4025-rdf",
+      "published": "2026-10-29T10:33:00+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "Costa Says EU Will Start Search for New ECB President Today",
+    "summary": "The European Council will begin searching for a new ECB president successor to Christine Lagarde on Thursday.",
+    "lang": "en",
+    "source": "Bloomberg Economics",
+    "url": "https://www.bloomberg.com/news/articles/2026-10-29/costa-says-eu-will-start-search-for-new-ecb-president-today",
+    "published": "2026-10-29T10:10:12+00:00",
+    "event_id": "f644d5924e98",
+    "sources": [
+     {
+      "title": "Costa Says EU Will Start Search for New ECB President Today",
+      "summary": "The European Council will begin searching for a new ECB president successor to Christine Lagarde on Thursday.",
+      "lang": "en",
+      "source": "Bloomberg Economics",
+      "url": "https://www.bloomberg.com/news/articles/2026-10-29/costa-says-eu-will-start-search-for-new-ecb-president-today",
+      "published": "2026-10-29T10:10:12+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "Audio reveals exchanges between control centre and drivers before deadly Spain train crash",
+    "summary": "Control center recordings show one high-speed train received clearance to move despite another train ahead being stalled before the deadly Spain crash.",
+    "lang": "en",
+    "source": "BBC World",
+    "url": "https://www.bbc.co.uk/news/articles/cmqxnl312v34o?at_medium=RSS&at_campaign=rss",
+    "published": "2026-10-29T11:07:35+00:00",
+    "event_id": "34c45fab9fdb",
+    "sources": [
+     {
+      "title": "Audio reveals exchanges between control centre and drivers before deadly Spain train crash",
+      "summary": "Control center recordings show one high-speed train received clearance to move despite another train ahead being stalled before the deadly Spain crash.",
+      "lang": "en",
+      "source": "BBC World",
+      "url": "https://www.bbc.co.uk/news/articles/cmqxnl312v34o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-29T11:07:35+00:00"
+     }
+    ],
+    "status": "updated",
+    "change_summary": "Audio reveals exchanges between control centre and drivers before deadly Spain train crash",
+    "previous_date": "2026-10-28",
+    "previous_event_id": "34c45fab9fdb"
+   }
+  ],
+  "economia|europa": [
+   {
+    "title": "Europe Set to Release 42 Million Barrels of Oil, France Says",
+    "summary": "Europe will release 42 million barrels of oil reserves over three months to help ease global energy prices, France announced.",
+    "lang": "en",
+    "source": "Bloomberg Markets",
+    "url": "https://www.bloomberg.com/news/articles/2026-10-29/europe-set-to-release-42-million-barrels-of-oil-france-says",
+    "published": "2026-10-29T11:22:32+00:00",
+    "event_id": "5c7566297768",
+    "sources": [
+     {
+      "title": "Europe Set to Release 42 Million Barrels of Oil, France Says",
+      "summary": "Europe will release 42 million barrels of oil reserves over three months to help ease global energy prices, France announced.",
+      "lang": "en",
+      "source": "Bloomberg Markets",
+      "url": "https://www.bloomberg.com/news/articles/2026-10-29/europe-set-to-release-42-million-barrels-of-oil-france-says",
+      "published": "2026-10-29T11:22:32+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "UK Mortgage Approvals Hit 33-Month Low as Loan Costs Bite",
+    "summary": "UK mortgage approvals hit a 33-month low in September as elevated borrowing costs continue squeezing prospective homebuyers.",
+    "lang": "en",
+    "source": "Bloomberg Economics",
+    "url": "https://www.bloomberg.com/news/articles/2026-10-29/uk-mortgage-approvals-fall-more-than-forecast-as-loan-costs-bite",
+    "published": "2026-10-29T09:39:57+00:00",
+    "event_id": "73fbdc759381",
+    "sources": [
+     {
+      "title": "UK Mortgage Approvals Hit 33-Month Low as Loan Costs Bite",
+      "summary": "UK mortgage approvals hit a 33-month low in September as elevated borrowing costs continue squeezing prospective homebuyers.",
+      "lang": "en",
+      "source": "Bloomberg Economics",
+      "url": "https://www.bloomberg.com/news/articles/2026-10-29/uk-mortgage-approvals-fall-more-than-forecast-as-loan-costs-bite",
+      "published": "2026-10-29T09:39:57+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "Brussels wants industry to ditch Chinese suppliers. Businesses are pushing back",
+    "summary": "European businesses are resisting EU plans forcing them to diversify supply chains away from China amid de-risking measures.",
+    "lang": "en",
+    "source": "South China Morning Post (China)",
+    "url": "https://www.scmp.com/news/china/diplomacy/article/3372511/brussels-wants-industry-ditch-chinese-suppliers-businesses-are-pushing-back",
+    "published": "2026-10-29T04:00:05+00:00",
+    "event_id": "9acee79e5f5a",
+    "sources": [
+     {
+      "title": "Brussels wants industry to ditch Chinese suppliers. Businesses are pushing back",
+      "summary": "European businesses are resisting EU plans forcing them to diversify supply chains away from China amid de-risking measures.",
+      "lang": "en",
+      "source": "South China Morning Post (China)",
+      "url": "https://www.scmp.com/news/china/diplomacy/article/3372511/brussels-wants-industry-ditch-chinese-suppliers-businesses-are-pushing-back",
+      "published": "2026-10-29T04:00:05+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "Medio Ambiente autoriza a Amazon a gastar un 48 % más de agua en su centro de datos de El Burgo de Ebro (Zaragoza)",
+    "summary": "El Instituto Aragonés de Gestión Ambiental autorizó a Amazon Web Services aumentar un 48 % el uso de agua en su centro de datos de El Burgo de Ebro, Zaragoza.",
+    "lang": "es",
+    "source": "Xataka",
+    "url": "https://www.xataka.com/magnet/medio-ambiente-autoriza-a-amazon-a-gastar-48-agua-su-centro-datos-burgo-ebro-zaragoza",
+    "published": "2026-10-29T10:30:00+00:00",
+    "event_id": "74a3f482d0c3",
+    "sources": [
+     {
+      "title": "Medio Ambiente autoriza a Amazon a gastar un 48 % más de agua en su centro de datos de El Burgo de Ebro (Zaragoza)",
+      "summary": "El Instituto Aragonés de Gestión Ambiental autorizó a Amazon Web Services aumentar un 48 % el uso de agua en su centro de datos de El Burgo de Ebro, Zaragoza.",
+      "lang": "es",
+      "source": "Xataka",
+      "url": "https://www.xataka.com/magnet/medio-ambiente-autoriza-a-amazon-a-gastar-48-agua-su-centro-datos-burgo-ebro-zaragoza",
+      "published": "2026-10-29T10:30:00+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   }
+  ],
+  "economia|america": [
+   {
+    "title": "Federal Reserve issues FOMC statement",
+    "summary": "The Federal Reserve issued its Federal Open Market Committee statement on monetary policy.",
+    "lang": "en",
+    "source": "Reserva Federal (notas de prensa)",
+    "url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20261028a.htm",
+    "published": "2026-10-28T18:00:00+00:00",
+    "event_id": "847a7abc2726",
+    "sources": [
+     {
+      "title": "Federal Reserve issues FOMC statement",
+      "summary": "The Federal Reserve issued its Federal Open Market Committee statement on monetary policy.",
+      "lang": "en",
+      "source": "Reserva Federal (notas de prensa)",
+      "url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20261028a.htm",
+      "published": "2026-10-28T18:00:00+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   }
+  ],
+  "tecnologia|america": [
+   {
+    "title": "Google shares tumble 10% after $51bn AI outlay deepens cash burn",
+    "summary": "Google shares fell 10 percent after the company disclosed a $51 billion AI investment that has deepened cash burn and hurt traditional search performance.",
+    "lang": "en",
+    "source": "Financial Times",
+    "url": "https://www.ft.com/content/eb386156-5bf9-4edd-80f2-803fdee1e33d?syn-25a6b1a6=1",
+    "published": "2026-10-28T23:27:01+00:00",
+    "event_id": "395f948d9b06",
+    "sources": [
+     {
+      "title": "Google shares tumble 10% after $51bn AI outlay deepens cash burn",
+      "summary": "Google shares fell 10 percent after the company disclosed a $51 billion AI investment that has deepened cash burn and hurt traditional search performance.",
+      "lang": "en",
+      "source": "Financial Times",
+      "url": "https://www.ft.com/content/eb386156-5bf9-4edd-80f2-803fdee1e33d?syn-25a6b1a6=1",
+      "published": "2026-10-28T23:27:01+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "Details of thousands of US immigration agents leaked in major hack",
+    "summary": "A hacker leaked personal information of over 41,000 US Department of Homeland Security staff in a major breach.",
+    "lang": "en",
+    "source": "BBC World",
+    "url": "https://www.bbc.co.uk/news/articles/cq8jzkpjr28vo?at_medium=RSS&at_campaign=rss",
+    "published": "2026-10-29T01:30:43+00:00",
+    "event_id": "9a6e68d20a8e",
+    "sources": [
+     {
+      "title": "Details of thousands of US immigration agents leaked in major hack",
+      "summary": "A hacker leaked personal information of over 41,000 US Department of Homeland Security staff in a major breach.",
+      "lang": "en",
+      "source": "BBC World",
+      "url": "https://www.bbc.co.uk/news/articles/cq8jzkpjr28vo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-29T01:30:43+00:00"
+     },
+     {
+      "title": "A hacker stole more than 40,000 DHS employee records",
+      "summary": "A hacker stole personal records of over 40,000 DHS employees, exposing names, job titles, phone numbers, and email addresses.",
+      "lang": "en",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/tech/1021528/ice-cbp-data-leak",
+      "published": "2026-10-28T21:57:45+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "Gemini 4 Carbon: Our next frontier model",
+    "summary": "Google DeepMind introduced Gemini 4 Carbon as its next frontier artificial intelligence model.",
+    "lang": "en",
+    "source": "Google DeepMind Blog",
+    "url": "https://deepmind.google/blog/gemini-4-carbon-our-next-frontier-model/",
+    "published": "2026-10-28T17:00:58+00:00",
+    "event_id": "b0da25ea6c1a",
+    "sources": [
+     {
+      "title": "Gemini 4 Carbon: Our next frontier model",
+      "summary": "Google DeepMind introduced Gemini 4 Carbon as its next frontier artificial intelligence model.",
+      "lang": "en",
+      "source": "Google DeepMind Blog",
+      "url": "https://deepmind.google/blog/gemini-4-carbon-our-next-frontier-model/",
+      "published": "2026-10-28T17:00:58+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "As US ties fray, Europe plans first undersea cable link to Greenland",
+    "summary": "Europe is planning its first undersea cable to Greenland, bypassing the US to link Canada, Japan, and South Korea.",
+    "lang": "en",
+    "source": "Ars Technica",
+    "url": "https://arstechnica.com/gadgets/2026/10/as-us-ties-fray-europe-plans-first-undersea-cable-link-to-greenland/",
+    "published": "2026-10-28T22:35:50+00:00",
+    "event_id": "47ebb1c951d4",
+    "sources": [
+     {
+      "title": "As US ties fray, Europe plans first undersea cable link to Greenland",
+      "summary": "Europe is planning its first undersea cable to Greenland, bypassing the US to link Canada, Japan, and South Korea.",
+      "lang": "en",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/gadgets/2026/10/as-us-ties-fray-europe-plans-first-undersea-cable-link-to-greenland/",
+      "published": "2026-10-28T22:35:50+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "ULA's Vulcan rocket is set to return to flight on Friday the 13th",
+    "summary": "United Launch Alliance's Vulcan rocket is scheduled to return to flight on Friday the 13th with six solid rocket boosters.",
+    "lang": "en",
+    "source": "Ars Technica",
+    "url": "https://arstechnica.com/space/2026/10/ulas-vulcan-rocket-is-set-to-return-to-flight-on-friday-the-13th/",
+    "published": "2026-10-28T22:51:15+00:00",
+    "event_id": "f1032294b76f",
+    "sources": [
+     {
+      "title": "ULA's Vulcan rocket is set to return to flight on Friday the 13th",
+      "summary": "United Launch Alliance's Vulcan rocket is scheduled to return to flight on Friday the 13th with six solid rocket boosters.",
+      "lang": "en",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/space/2026/10/ulas-vulcan-rocket-is-set-to-return-to-flight-on-friday-the-13th/",
+      "published": "2026-10-28T22:51:15+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "Google expands AI Search ads globally as core ad growth slows",
+    "summary": "Google is expanding AI Search ads globally as core ad growth slows, Alphabet reported 25 percent revenue growth to $127.6 billion.",
+    "lang": "en",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/10/28/google-expands-ai-search-ads-globally-as-core-ad-growth-slows/",
+    "published": "2026-10-28T21:48:37+00:00",
+    "event_id": "f348c6db37d8",
+    "sources": [
+     {
+      "title": "Google expands AI Search ads globally as core ad growth slows",
+      "summary": "Google is expanding AI Search ads globally as core ad growth slows, Alphabet reported 25 percent revenue growth to $127.6 billion.",
+      "lang": "en",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/10/28/google-expands-ai-search-ads-globally-as-core-ad-growth-slows/",
+      "published": "2026-10-28T21:48:37+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "Microsoft just shared Azure’s actual revenue in dollars: $33.2 billion",
+    "summary": "Microsoft disclosed Azure's quarterly revenue at $33.2 billion for the first time, approaching its largest cloud competitor.",
+    "lang": "en",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/10/28/microsoft-just-shared-azures-actual-revenue-in-dollars-33-2-billion/",
+    "published": "2026-10-28T21:58:32+00:00",
+    "event_id": "b126d7721238",
+    "sources": [
+     {
+      "title": "Microsoft just shared Azure’s actual revenue in dollars: $33.2 billion",
+      "summary": "Microsoft disclosed Azure's quarterly revenue at $33.2 billion for the first time, approaching its largest cloud competitor.",
+      "lang": "en",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/10/28/microsoft-just-shared-azures-actual-revenue-in-dollars-33-2-billion/",
+      "published": "2026-10-28T21:58:32+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   }
+  ],
+  "politica|america": [
+   {
+    "title": "Flávio Bolsonaro denies fleeing Brazil after landing in Miami",
+    "summary": "Flávio Bolsonaro denied fleeing Brazil after landing in Miami, claiming to be a coup and persecution victim.",
+    "lang": "en",
+    "source": "BBC World",
+    "url": "https://www.bbc.co.uk/news/articles/c6kglwe4lxwzo?at_medium=RSS&at_campaign=rss",
+    "published": "2026-10-29T01:14:01+00:00",
+    "event_id": "d7a1fd79d5b5",
+    "sources": [
+     {
+      "title": "Flávio Bolsonaro denies fleeing Brazil after landing in Miami",
+      "summary": "Flávio Bolsonaro denied fleeing Brazil after landing in Miami, claiming to be a coup and persecution victim.",
+      "lang": "en",
+      "source": "BBC World",
+      "url": "https://www.bbc.co.uk/news/articles/c6kglwe4lxwzo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-29T01:14:01+00:00"
+     }
+    ],
+    "status": "updated",
+    "change_summary": "Flávio Bolsonaro denies fleeing Brazil after landing in Miami",
+    "previous_date": "2026-10-28",
+    "previous_event_id": "d7a1fd79d5b5"
+   },
+   {
+    "title": "El Salvador sends 2,000 troops to Haiti to rescue four missing soldiers",
+    "summary": "El Salvador deployed 2,000 troops to Haiti to rescue four military personnel missing after an ambush near Port-au-Prince.",
+    "lang": "en",
+    "source": "BBC World",
+    "url": "https://www.bbc.co.uk/news/articles/ck0e075n79j5o?at_medium=RSS&at_campaign=rss",
+    "published": "2026-10-29T06:24:56+00:00",
+    "event_id": "6f5b6aa91116",
+    "sources": [
+     {
+      "title": "El Salvador sends 2,000 troops to Haiti to rescue four missing soldiers",
+      "summary": "El Salvador deployed 2,000 troops to Haiti to rescue four military personnel missing after an ambush near Port-au-Prince.",
+      "lang": "en",
+      "source": "BBC World",
+      "url": "https://www.bbc.co.uk/news/articles/ck0e075n79j5o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-29T06:24:56+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "Trump demands Alaska candidates be removed over alleged ballot scheme",
+    "summary": "Trump demanded removal of Alaska candidates linked to a ballot scheme; a New York Times investigation connected Democratic operatives to a namesake candidate.",
+    "lang": "en",
+    "source": "Al Jazeera English",
+    "url": "https://www.aljazeera.com/news/2026/10/29/trump-demands-alaska-candidates-be-removed-over-alleged-ballot-scheme?traffic_source=rss",
+    "published": "2026-10-29T10:22:10+00:00",
+    "event_id": "f63e57297db1",
+    "sources": [
+     {
+      "title": "Trump demands Alaska candidates be removed over alleged ballot scheme",
+      "summary": "Trump demanded removal of Alaska candidates linked to a ballot scheme; a New York Times investigation connected Democratic operatives to a namesake candidate.",
+      "lang": "en",
+      "source": "Al Jazeera English",
+      "url": "https://www.aljazeera.com/news/2026/10/29/trump-demands-alaska-candidates-be-removed-over-alleged-ballot-scheme?traffic_source=rss",
+      "published": "2026-10-29T10:22:10+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "Carney to push for closer ties at Canada-EU summit in Montreal",
+    "summary": "Canada's finance minister Carney will push for closer economic and defence ties with the EU at a Montreal summit.",
+    "lang": "en",
+    "source": "BBC World",
+    "url": "https://www.bbc.co.uk/news/articles/cq8ezj7jylrzo?at_medium=RSS&at_campaign=rss",
+    "published": "2026-10-29T09:51:06+00:00",
+    "event_id": "eff192d75243",
+    "sources": [
+     {
+      "title": "Carney to push for closer ties at Canada-EU summit in Montreal",
+      "summary": "Canada's finance minister Carney will push for closer economic and defence ties with the EU at a Montreal summit.",
+      "lang": "en",
+      "source": "BBC World",
+      "url": "https://www.bbc.co.uk/news/articles/cq8ezj7jylrzo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-29T09:51:06+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "Trump admin sues Utah to save Kalshi from the state's total ban on gambling",
+    "summary": "The Trump administration sued Utah to prevent banning gambling on prediction markets through the platform Kalshi.",
+    "lang": "en",
+    "source": "Ars Technica",
+    "url": "https://arstechnica.com/tech-policy/2026/10/trump-admin-sues-utah-to-save-kalshi-from-the-states-total-ban-on-gambling/",
+    "published": "2026-10-28T19:30:33+00:00",
+    "event_id": "d175d4f66bfd",
+    "sources": [
+     {
+      "title": "Trump admin sues Utah to save Kalshi from the state's total ban on gambling",
+      "summary": "The Trump administration sued Utah to prevent banning gambling on prediction markets through the platform Kalshi.",
+      "lang": "en",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/tech-policy/2026/10/trump-admin-sues-utah-to-save-kalshi-from-the-states-total-ban-on-gambling/",
+      "published": "2026-10-28T19:30:33+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   }
+  ],
+  "tecnologia|asia": [
+   {
+    "title": "91APP 訂單資訊外洩！波及千家品牌、480 萬名消費者，承諾全面負責",
+    "summary": "上櫃公司91APP發生訂單資訊外洩事件，波及超過千家品牌和480萬名消費者。",
+    "lang": "zh",
+    "source": "科技新報 TechNews",
+    "url": "https://infosecu.technews.tw/2026/10/29/91app-security-incident-20261029/",
+    "published": "2026-10-29T10:34:46+00:00",
+    "event_id": "8a1be1516d4f",
+    "sources": [
+     {
+      "title": "91APP 訂單資訊外洩！波及千家品牌、480 萬名消費者，承諾全面負責",
+      "summary": "上櫃公司91APP發生訂單資訊外洩事件，波及超過千家品牌和480萬名消費者。",
+      "lang": "zh",
+      "source": "科技新報 TechNews",
+      "url": "https://infosecu.technews.tw/2026/10/29/91app-security-incident-20261029/",
+      "published": "2026-10-29T10:34:46+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "衛星武器搬上軌道，美軍：中國可能於 2020 年代末部署太空雷射系統",
+    "summary": "美國國防情報局警告中國可能在2020年代末部署太空高能雷射武器系統。",
+    "lang": "zh",
+    "source": "科技新報 TechNews",
+    "url": "https://technews.tw/2026/10/29/us-dia-said-china-could-deploy-laser-weapons-in-the-space-before-2030/",
+    "published": "2026-10-29T09:19:43+00:00",
+    "event_id": "ade36fe2239e",
+    "sources": [
+     {
+      "title": "衛星武器搬上軌道，美軍：中國可能於 2020 年代末部署太空雷射系統",
+      "summary": "美國國防情報局警告中國可能在2020年代末部署太空高能雷射武器系統。",
+      "lang": "zh",
+      "source": "科技新報 TechNews",
+      "url": "https://technews.tw/2026/10/29/us-dia-said-china-could-deploy-laser-weapons-in-the-space-before-2030/",
+      "published": "2026-10-29T09:19:43+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "【資安日報】10月29日，北韓駭客鎖定216臺PHP主機掃描PHP2Shell漏洞，臺灣列入目標範圍",
+    "summary": "北韓駭客掃描216臺PHP主機的PHP2Shell漏洞，臺灣被列入攻擊目標範圍。",
+    "lang": "zh",
+    "source": "iThome 台灣",
+    "url": "https://www.ithome.com.tw/news/180068",
+    "published": "2026-10-29T02:10:43+00:00",
+    "event_id": "f1ed12e19b6f",
+    "sources": [
+     {
+      "title": "【資安日報】10月29日，北韓駭客鎖定216臺PHP主機掃描PHP2Shell漏洞，臺灣列入目標範圍",
+      "summary": "北韓駭客掃描216臺PHP主機的PHP2Shell漏洞，臺灣被列入攻擊目標範圍。",
+      "lang": "zh",
+      "source": "iThome 台灣",
+      "url": "https://www.ithome.com.tw/news/180068",
+      "published": "2026-10-29T02:10:43+00:00"
+     }
+    ],
+    "status": "unchanged",
+    "change_summary": "",
+    "previous_date": "2026-10-28",
+    "previous_event_id": "f1ed12e19b6f"
+   }
+  ]
+ }
+}
