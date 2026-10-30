@@ -1,0 +1,824 @@
+{
+ "date": "2026-10-30",
+ "generated_at": "2026-10-30T11:33:35.004682+00:00",
+ "mode": "full",
+ "cost_usd": 0.0543,
+ "selection": {
+  "model": "claude-haiku-5-5",
+  "effort": "high",
+  "passes": 3,
+  "passes_ok": 3,
+  "cost_usd": 0.0204
+ },
+ "events": {
+  "mode": "full",
+  "compared_with": "2026-10-29",
+  "articles": 36,
+  "uncompared_articles": 0,
+  "events": 33,
+  "cost_usd": 0.0189
+ },
+ "market": null,
+ "failed_sources": [],
+ "cells": {
+  "economia|asia": [
+   {
+    "title": "Bank of Japan holds rates and guides to further tightening",
+    "summary": "",
+    "lang": "en",
+    "source": "FT Global Economy",
+    "url": "https://www.ft.com/content/0c1f7cbb-c893-4563-b3b4-f63df47ea5e5",
+    "published": "2026-10-30T08:34:32+00:00",
+    "event_id": "908a7f6cc08f",
+    "sources": [
+     {
+      "title": "Bank of Japan holds rates and guides to further tightening",
+      "summary": "",
+      "lang": "en",
+      "source": "FT Global Economy",
+      "url": "https://www.ft.com/content/0c1f7cbb-c893-4563-b3b4-f63df47ea5e5",
+      "published": "2026-10-30T08:34:32+00:00"
+     },
+     {
+      "title": "BOJ to accelerate ETF sales, more than doubling pace from January",
+      "summary": "",
+      "lang": "en",
+      "source": "Nikkei Asia",
+      "url": "https://asia.nikkei.com/economy/bank-of-japan/boj-to-accelerate-etf-sales-more-than-doubling-pace-from-january",
+      "published": null
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "China Lifts Secrecy on New Key Rate, Sets It Below Old Benchmark",
+    "summary": "",
+    "lang": "en",
+    "source": "Bloomberg Economics",
+    "url": "https://www.bloomberg.com/news/articles/2026-10-30/pboc-reveals-overnight-rate-at-1-25-before-policy-anchor-shift",
+    "published": "2026-10-30T09:16:00+00:00",
+    "event_id": "9b0a39112206",
+    "sources": [
+     {
+      "title": "China Lifts Secrecy on New Key Rate, Sets It Below Old Benchmark",
+      "summary": "",
+      "lang": "en",
+      "source": "Bloomberg Economics",
+      "url": "https://www.bloomberg.com/news/articles/2026-10-30/pboc-reveals-overnight-rate-at-1-25-before-policy-anchor-shift",
+      "published": "2026-10-30T09:16:00+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "UN retains Bangladesh and Nepal's least developed country status",
+    "summary": "",
+    "lang": "en",
+    "source": "Nikkei Asia",
+    "url": "https://asia.nikkei.com/economy/un-retains-bangladesh-and-nepal-s-least-developed-country-status",
+    "published": null,
+    "event_id": "d87276265247",
+    "sources": [
+     {
+      "title": "UN retains Bangladesh and Nepal's least developed country status",
+      "summary": "",
+      "lang": "en",
+      "source": "Nikkei Asia",
+      "url": "https://asia.nikkei.com/economy/un-retains-bangladesh-and-nepal-s-least-developed-country-status",
+      "published": null
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "台股跌1156點失守半年線 金管會：密切關注國際市場",
+    "summary": "台股今日下跌1156.5点，跌破半年线至45211.83点，跌幅超1600点。市场担忧人工智能投资变现能力，金管会表示密切关注国际市场动向。",
+    "lang": "zh",
+    "source": "經濟日報 台灣",
+    "url": "https://money.udn.com/money/story/5612/9847683",
+    "published": "2026-10-30T10:46:44+00:00",
+    "event_id": "00b54a4b864e",
+    "sources": [
+     {
+      "title": "台股跌1156點失守半年線 金管會：密切關注國際市場",
+      "summary": "台股今日下跌1156.5点，跌破半年线至45211.83点，跌幅超1600点。市场担忧人工智能投资变现能力，金管会表示密切关注国际市场动向。",
+      "lang": "zh",
+      "source": "經濟日報 台灣",
+      "url": "https://money.udn.com/money/story/5612/9847683",
+      "published": "2026-10-30T10:46:44+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   }
+  ],
+  "politica|europa": [
+   {
+    "title": "Residents leave devastated Russian-occupied Oleshky as evacuation corridor opens",
+    "summary": "",
+    "lang": "en",
+    "source": "BBC World",
+    "url": "https://www.bbc.co.uk/news/articles/c60me298k1yeo?at_medium=RSS&at_campaign=rss",
+    "published": "2026-10-30T11:17:32+00:00",
+    "event_id": "56a7e27836c6",
+    "sources": [
+     {
+      "title": "Residents leave devastated Russian-occupied Oleshky as evacuation corridor opens",
+      "summary": "",
+      "lang": "en",
+      "source": "BBC World",
+      "url": "https://www.bbc.co.uk/news/articles/c60me298k1yeo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-30T11:17:32+00:00"
+     }
+    ],
+    "status": "updated",
+    "change_summary": "Residents leave devastated Russian-occupied Oleshky as evacuation corridor opens",
+    "previous_date": "2026-10-29",
+    "previous_event_id": "56a7e27836c6"
+   },
+   {
+    "title": "Russia's last independent newspaper 'Novaya Gazeta' closes as press freedom faces its swan song",
+    "summary": "",
+    "lang": "en",
+    "source": "Le Monde International",
+    "url": "https://www.lemonde.fr/en/international/article/2026/10/30/russia-s-last-free-newspaper-novaya-gazeta-closes-as-press-freedom-faces-its-swan-song_6767422_4.html",
+    "published": "2026-10-30T10:25:16+00:00",
+    "event_id": "613ebe0ca568",
+    "sources": [
+     {
+      "title": "Russia's last independent newspaper 'Novaya Gazeta' closes as press freedom faces its swan song",
+      "summary": "",
+      "lang": "en",
+      "source": "Le Monde International",
+      "url": "https://www.lemonde.fr/en/international/article/2026/10/30/russia-s-last-free-newspaper-novaya-gazeta-closes-as-press-freedom-faces-its-swan-song_6767422_4.html",
+      "published": "2026-10-30T10:25:16+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "ECB President Lagarde to step down on 7 February 2027",
+    "summary": "",
+    "lang": "en",
+    "source": "BCE (notas de prensa)",
+    "url": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr261029~abbb6dc64b.en.html",
+    "published": "2026-10-29T10:00:00+00:00",
+    "event_id": "5e25e64b9fc7",
+    "sources": [
+     {
+      "title": "ECB President Lagarde to step down on 7 February 2027",
+      "summary": "",
+      "lang": "en",
+      "source": "BCE (notas de prensa)",
+      "url": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr261029~abbb6dc64b.en.html",
+      "published": "2026-10-29T10:00:00+00:00"
+     },
+     {
+      "title": "European Central Bank (ECB) head Christine Lagarde to step down in February, before her term ends",
+      "summary": "",
+      "lang": "en",
+      "source": "Deutsche Welle World",
+      "url": "https://www.dw.com/en/european-central-bank-ecb-head-christine-lagarde-to-step-down-in-february-before-her-term-ends/a-79794353?maca=en-rss-en-world-4025-rdf",
+      "published": "2026-10-29T10:33:00+00:00"
+     }
+    ],
+    "status": "unchanged",
+    "change_summary": "",
+    "previous_date": "2026-10-29",
+    "previous_event_id": "5e25e64b9fc7"
+   }
+  ],
+  "economia|europa": [
+   {
+    "title": "Euro-Zone Growth Beats Estimates Despite Slump in France",
+    "summary": "",
+    "lang": "en",
+    "source": "Bloomberg Economics",
+    "url": "https://www.bloomberg.com/news/articles/2026-10-30/french-economy-unexpectedly-shrinks-as-headwinds-gain-strength",
+    "published": "2026-10-30T06:30:00+00:00",
+    "event_id": "55d8ec8e0bb5",
+    "sources": [
+     {
+      "title": "Euro-Zone Growth Beats Estimates Despite Slump in France",
+      "summary": "",
+      "lang": "en",
+      "source": "Bloomberg Economics",
+      "url": "https://www.bloomberg.com/news/articles/2026-10-30/french-economy-unexpectedly-shrinks-as-headwinds-gain-strength",
+      "published": "2026-10-30T06:30:00+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "UK Yields Slide Most Since May as Cautious Budget Boosts Bonds",
+    "summary": "",
+    "lang": "en",
+    "source": "Bloomberg Markets",
+    "url": "https://www.bloomberg.com/news/articles/2026-10-30/uk-wins-back-bond-investors-with-dose-of-fiscal-restraint",
+    "published": "2026-10-30T08:48:08+00:00",
+    "event_id": "2d9a9feb978d",
+    "sources": [
+     {
+      "title": "UK Yields Slide Most Since May as Cautious Budget Boosts Bonds",
+      "summary": "",
+      "lang": "en",
+      "source": "Bloomberg Markets",
+      "url": "https://www.bloomberg.com/news/articles/2026-10-30/uk-wins-back-bond-investors-with-dose-of-fiscal-restraint",
+      "published": "2026-10-30T08:48:08+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "Monetary policy decisions",
+    "summary": "",
+    "lang": "en",
+    "source": "BCE (notas de prensa)",
+    "url": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.mp261029~9a493adf17.en.html",
+    "published": "2026-10-29T13:15:00+00:00",
+    "event_id": "8be498015a19",
+    "sources": [
+     {
+      "title": "Monetary policy decisions",
+      "summary": "",
+      "lang": "en",
+      "source": "BCE (notas de prensa)",
+      "url": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.mp261029~9a493adf17.en.html",
+      "published": "2026-10-29T13:15:00+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "ECB’s Panetta Says More Hikes May Be Needed to Tame Prices",
+    "summary": "",
+    "lang": "en",
+    "source": "Bloomberg Economics",
+    "url": "https://www.bloomberg.com/news/articles/2026-10-30/ecb-s-panetta-says-more-rate-hikes-may-be-needed-to-tame-prices",
+    "published": "2026-10-30T10:15:00+00:00",
+    "event_id": "dd863a7c6f9f",
+    "sources": [
+     {
+      "title": "ECB’s Panetta Says More Hikes May Be Needed to Tame Prices",
+      "summary": "",
+      "lang": "en",
+      "source": "Bloomberg Economics",
+      "url": "https://www.bloomberg.com/news/articles/2026-10-30/ecb-s-panetta-says-more-rate-hikes-may-be-needed-to-tame-prices",
+      "published": "2026-10-30T10:15:00+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "11 EU countries vow to release 42.6 million barrels of oil after G7 pledge",
+    "summary": "",
+    "lang": "en",
+    "source": "Le Monde International",
+    "url": "https://www.lemonde.fr/en/economy/article/2026/10/30/11-eu-countries-vow-to-release-42-6-million-barrels-of-oil-after-g7-pledge_6767127_19.html",
+    "published": "2026-10-30T03:50:22+00:00",
+    "event_id": "5c7566297768",
+    "sources": [
+     {
+      "title": "11 EU countries vow to release 42.6 million barrels of oil after G7 pledge",
+      "summary": "",
+      "lang": "en",
+      "source": "Le Monde International",
+      "url": "https://www.lemonde.fr/en/economy/article/2026/10/30/11-eu-countries-vow-to-release-42-6-million-barrels-of-oil-after-g7-pledge_6767127_19.html",
+      "published": "2026-10-30T03:50:22+00:00"
+     }
+    ],
+    "status": "updated",
+    "change_summary": "11 EU countries vow to release 42.6 million barrels of oil after G7 pledge",
+    "previous_date": "2026-10-29",
+    "previous_event_id": "5c7566297768"
+   }
+  ],
+  "economia|america": [
+   {
+    "title": "Federal Reserve Board announces approval of application by The Bank of Nova Scotia",
+    "summary": "",
+    "lang": "en",
+    "source": "Reserva Federal (notas de prensa)",
+    "url": "https://www.federalreserve.gov/newsevents/pressreleases/orders20261029a.htm",
+    "published": "2026-10-29T20:30:00+00:00",
+    "event_id": "d5f01f9dd738",
+    "sources": [
+     {
+      "title": "Federal Reserve Board announces approval of application by The Bank of Nova Scotia",
+      "summary": "",
+      "lang": "en",
+      "source": "Reserva Federal (notas de prensa)",
+      "url": "https://www.federalreserve.gov/newsevents/pressreleases/orders20261029a.htm",
+      "published": "2026-10-29T20:30:00+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "Amazon reported booming cloud revenue but otherwise missed expectations",
+    "summary": "",
+    "lang": "en",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/10/29/amazon-reported-booming-cloud-revenue-but-otherwise-missed-expectations/",
+    "published": "2026-10-29T21:20:47+00:00",
+    "event_id": "6ee6cb561b96",
+    "sources": [
+     {
+      "title": "Amazon reported booming cloud revenue but otherwise missed expectations",
+      "summary": "",
+      "lang": "en",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/10/29/amazon-reported-booming-cloud-revenue-but-otherwise-missed-expectations/",
+      "published": "2026-10-29T21:20:47+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   }
+  ],
+  "tecnologia|america": [
+   {
+    "title": "Big Tech sheds nearly $900bn in rout over soaring AI spending",
+    "summary": "",
+    "lang": "en",
+    "source": "Financial Times",
+    "url": "https://www.ft.com/content/c695558e-11e6-494c-aeee-0f9fb5c75afc?syn-25a6b1a6=1",
+    "published": "2026-10-30T10:00:02+00:00",
+    "event_id": "395f948d9b06",
+    "sources": [
+     {
+      "title": "Big Tech sheds nearly $900bn in rout over soaring AI spending",
+      "summary": "",
+      "lang": "en",
+      "source": "Financial Times",
+      "url": "https://www.ft.com/content/c695558e-11e6-494c-aeee-0f9fb5c75afc?syn-25a6b1a6=1",
+      "published": "2026-10-30T10:00:02+00:00"
+     }
+    ],
+    "status": "updated",
+    "change_summary": "Big Tech sheds nearly $900bn in rout over soaring AI spending",
+    "previous_date": "2026-10-29",
+    "previous_event_id": "395f948d9b06"
+   },
+   {
+    "title": "Pentagon IG refuses to investigate Starlink/Starshield slowdown in Ukraine",
+    "summary": "",
+    "lang": "en",
+    "source": "Ars Technica",
+    "url": "https://arstechnica.com/tech-policy/2026/10/pentagon-ig-refuses-to-investigate-starlink-starshield-slowdown-in-ukraine/",
+    "published": "2026-10-29T20:08:10+00:00",
+    "event_id": "69e91b7f989d",
+    "sources": [
+     {
+      "title": "Pentagon IG refuses to investigate Starlink/Starshield slowdown in Ukraine",
+      "summary": "",
+      "lang": "en",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/tech-policy/2026/10/pentagon-ig-refuses-to-investigate-starlink-starshield-slowdown-in-ukraine/",
+      "published": "2026-10-29T20:08:10+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   }
+  ],
+  "politica|america": [
+   {
+    "title": "Trump holds off overcapacity tariffs as US midterms near",
+    "summary": "",
+    "lang": "en",
+    "source": "Nikkei Asia",
+    "url": "https://asia.nikkei.com/politics/u.s.-midterm-elections/trump-holds-off-overcapacity-tariffs-as-us-midterms-near",
+    "published": null,
+    "event_id": "6bf9d1bfbec7",
+    "sources": [
+     {
+      "title": "Trump holds off overcapacity tariffs as US midterms near",
+      "summary": "",
+      "lang": "en",
+      "source": "Nikkei Asia",
+      "url": "https://asia.nikkei.com/politics/u.s.-midterm-elections/trump-holds-off-overcapacity-tariffs-as-us-midterms-near",
+      "published": null
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "El Gobierno de Trump intensifica sus investigaciones judiciales electorales a cuatro días de las ‘midterms’",
+    "summary": "Los fiscales federales estadounidenses emitieron citaciones a funcionarios electorales de Los Ángeles y personas vinculadas a una candidata republicana al Senado. La investigación ocurre días antes de las elecciones de mitad de mandato.",
+    "lang": "es",
+    "source": "El País Internacional",
+    "url": "https://elpais.com/us/2026-10-30/el-gobierno-de-trump-intensifica-sus-investigaciones-judiciales-electorales-a-cuatro-dias-de-las-midterms.html",
+    "published": "2026-10-30T09:30:00+00:00",
+    "event_id": "cc0bb84effc0",
+    "sources": [
+     {
+      "title": "El Gobierno de Trump intensifica sus investigaciones judiciales electorales a cuatro días de las ‘midterms’",
+      "summary": "Los fiscales federales estadounidenses emitieron citaciones a funcionarios electorales de Los Ángeles y personas vinculadas a una candidata republicana al Senado. La investigación ocurre días antes de las elecciones de mitad de mandato.",
+      "lang": "es",
+      "source": "El País Internacional",
+      "url": "https://elpais.com/us/2026-10-30/el-gobierno-de-trump-intensifica-sus-investigaciones-judiciales-electorales-a-cuatro-dias-de-las-midterms.html",
+      "published": "2026-10-30T09:30:00+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "On the US border in Texas, Trump deportation drive galvanises midterm vote",
+    "summary": "",
+    "lang": "en",
+    "source": "Al Jazeera English",
+    "url": "https://www.aljazeera.com/news/2026/10/30/on-the-us-border-in-texas-trump-deportation-drive-galvanises-midterm-vote?traffic_source=rss",
+    "published": "2026-10-30T10:22:54+00:00",
+    "event_id": "0f7d62145dac",
+    "sources": [
+     {
+      "title": "On the US border in Texas, Trump deportation drive galvanises midterm vote",
+      "summary": "",
+      "lang": "en",
+      "source": "Al Jazeera English",
+      "url": "https://www.aljazeera.com/news/2026/10/30/on-the-us-border-in-texas-trump-deportation-drive-galvanises-midterm-vote?traffic_source=rss",
+      "published": "2026-10-30T10:22:54+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "特朗普帮助博索纳罗逃离巴西前往美国",
+    "summary": "博索纳罗在特朗普帮助下逃离巴西前往美国，目前以临时身份留居佛罗里达。此举可能加剧美国与巴西的紧张关系。",
+    "lang": "zh",
+    "source": "纽约时报中文网",
+    "url": "https://cn.nytimes.com/world/20261030/flavio-bolsonaro-trump-brazil-us/?utm_source=RSS",
+    "published": "2026-10-30T02:21:20+00:00",
+    "event_id": "d7a1fd79d5b5",
+    "sources": [
+     {
+      "title": "特朗普帮助博索纳罗逃离巴西前往美国",
+      "summary": "博索纳罗在特朗普帮助下逃离巴西前往美国，目前以临时身份留居佛罗里达。此举可能加剧美国与巴西的紧张关系。",
+      "lang": "zh",
+      "source": "纽约时报中文网",
+      "url": "https://cn.nytimes.com/world/20261030/flavio-bolsonaro-trump-brazil-us/?utm_source=RSS",
+      "published": "2026-10-30T02:21:20+00:00"
+     }
+    ],
+    "status": "updated",
+    "change_summary": "特朗普帮助博索纳罗逃离巴西前往美国",
+    "previous_date": "2026-10-29",
+    "previous_event_id": "d7a1fd79d5b5"
+   },
+   {
+    "title": "Alaska's Senate race faces claims of spoiler candidate. And, Hegseth ousts Army general",
+    "summary": "",
+    "lang": "en",
+    "source": "NPR World",
+    "url": "https://www.npr.org/2026/10/30/g-s1-150889/up-first-newsletter-midterm-elections-iran-war-veteran-affairs-loans",
+    "published": "2026-10-30T11:20:26+00:00",
+    "event_id": "f63e57297db1",
+    "sources": [
+     {
+      "title": "Alaska's Senate race faces claims of spoiler candidate. And, Hegseth ousts Army general",
+      "summary": "",
+      "lang": "en",
+      "source": "NPR World",
+      "url": "https://www.npr.org/2026/10/30/g-s1-150889/up-first-newsletter-midterm-elections-iran-war-veteran-affairs-loans",
+      "published": "2026-10-30T11:20:26+00:00"
+     }
+    ],
+    "status": "updated",
+    "change_summary": "Alaska's Senate race faces claims of spoiler candidate. And, Hegseth ousts Army general",
+    "previous_date": "2026-10-29",
+    "previous_event_id": "f63e57297db1"
+   },
+   {
+    "title": "Trump declares robot imports a national security threat",
+    "summary": "",
+    "lang": "en",
+    "source": "Ars Technica",
+    "url": "https://arstechnica.com/gadgets/2026/10/trump-declares-robot-imports-a-national-security-threat/",
+    "published": "2026-10-29T19:07:53+00:00",
+    "event_id": "2eb0eeefec6e",
+    "sources": [
+     {
+      "title": "Trump declares robot imports a national security threat",
+      "summary": "",
+      "lang": "en",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/gadgets/2026/10/trump-declares-robot-imports-a-national-security-threat/",
+      "published": "2026-10-29T19:07:53+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "Kalshi and its co-founders face felony charges for violating Utah gambling laws",
+    "summary": "",
+    "lang": "en",
+    "source": "Ars Technica",
+    "url": "https://arstechnica.com/tech-policy/2026/10/trump-admin-sues-utah-to-save-kalshi-from-the-states-total-ban-on-gambling/",
+    "published": "2026-10-29T17:21:33+00:00",
+    "event_id": "d175d4f66bfd",
+    "sources": [
+     {
+      "title": "Kalshi and its co-founders face felony charges for violating Utah gambling laws",
+      "summary": "",
+      "lang": "en",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/tech-policy/2026/10/trump-admin-sues-utah-to-save-kalshi-from-the-states-total-ban-on-gambling/",
+      "published": "2026-10-29T17:21:33+00:00"
+     }
+    ],
+    "status": "updated",
+    "change_summary": "Kalshi and its co-founders face felony charges for violating Utah gambling laws",
+    "previous_date": "2026-10-29",
+    "previous_event_id": "d175d4f66bfd"
+   },
+   {
+    "title": "Trump ignored intel on China’s Nvidia spy to protect company’s stock, report says",
+    "summary": "",
+    "lang": "en",
+    "source": "Ars Technica",
+    "url": "https://arstechnica.com/tech-policy/2026/10/report-trump-did-nothing-with-intel-that-china-planted-spy-close-to-nvidia-ceo/",
+    "published": "2026-10-29T18:29:12+00:00",
+    "event_id": "6df4ac502224",
+    "sources": [
+     {
+      "title": "Trump ignored intel on China’s Nvidia spy to protect company’s stock, report says",
+      "summary": "",
+      "lang": "en",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/tech-policy/2026/10/report-trump-did-nothing-with-intel-that-china-planted-spy-close-to-nvidia-ceo/",
+      "published": "2026-10-29T18:29:12+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   }
+  ],
+  "politica|asia": [
+   {
+    "title": "Record number of purges as Xi emphasises 'party discipline' at China political gathering",
+    "summary": "",
+    "lang": "en",
+    "source": "BBC World",
+    "url": "https://www.bbc.co.uk/news/articles/cq5ynw94k7kzo?at_medium=RSS&at_campaign=rss",
+    "published": "2026-10-30T03:24:12+00:00",
+    "event_id": "3b3832322228",
+    "sources": [
+     {
+      "title": "Record number of purges as Xi emphasises 'party discipline' at China political gathering",
+      "summary": "",
+      "lang": "en",
+      "source": "BBC World",
+      "url": "https://www.bbc.co.uk/news/articles/cq5ynw94k7kzo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-30T03:24:12+00:00"
+     }
+    ],
+    "status": "updated",
+    "change_summary": "Record number of purges as Xi emphasises 'party discipline' at China political gathering",
+    "previous_date": "2026-10-29",
+    "previous_event_id": "3b3832322228"
+   },
+   {
+    "title": "US weighs new Iran strikes as Vance reaches out: Is war or a deal closer?",
+    "summary": "",
+    "lang": "en",
+    "source": "Al Jazeera English",
+    "url": "https://www.aljazeera.com/news/2026/10/30/us-weighs-new-iran-strikes-as-vance-reaches-out-is-war-or-a-deal-closer?traffic_source=rss",
+    "published": "2026-10-30T10:40:52+00:00",
+    "event_id": "55dacb3b4e3d",
+    "sources": [
+     {
+      "title": "US weighs new Iran strikes as Vance reaches out: Is war or a deal closer?",
+      "summary": "",
+      "lang": "en",
+      "source": "Al Jazeera English",
+      "url": "https://www.aljazeera.com/news/2026/10/30/us-weighs-new-iran-strikes-as-vance-reaches-out-is-war-or-a-deal-closer?traffic_source=rss",
+      "published": "2026-10-30T10:40:52+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "香港宏福苑大火報告公開：特首率官員鞠躬道歉，房屋局長請辭",
+    "summary": "香港宏福苑大火事故报告公开，特首李家超率官员鞠躬道歉。该火灾造成168人死亡，发生距今近一年。",
+    "lang": "zh",
+    "source": "BBC中文",
+    "url": "https://www.bbc.com/zhongwen/articles/c95ynv03lmk8o/trad?at_medium=RSS&at_campaign=rss",
+    "published": "2026-10-29T14:47:36+00:00",
+    "event_id": "84a3d249077b",
+    "sources": [
+     {
+      "title": "香港宏福苑大火報告公開：特首率官員鞠躬道歉，房屋局長請辭",
+      "summary": "香港宏福苑大火事故报告公开，特首李家超率官员鞠躬道歉。该火灾造成168人死亡，发生距今近一年。",
+      "lang": "zh",
+      "source": "BBC中文",
+      "url": "https://www.bbc.com/zhongwen/articles/c95ynv03lmk8o/trad?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-29T14:47:36+00:00"
+     }
+    ],
+    "status": "updated",
+    "change_summary": "香港宏福苑大火報告公開：特首率官員鞠躬道歉，房屋局長請辭",
+    "previous_date": "2026-10-29",
+    "previous_event_id": "84a3d249077b"
+   },
+   {
+    "title": "What options Netanyahu and Eisenkot have after Israel's deadlocked election",
+    "summary": "",
+    "lang": "en",
+    "source": "Channel NewsAsia",
+    "url": "https://www.channelnewsasia.com/world/what-options-netanyahu-and-eisenkot-have-after-israels-deadlocked-election-6506926",
+    "published": "2026-10-30T11:23:52+00:00",
+    "event_id": "fbb023f822ad",
+    "sources": [
+     {
+      "title": "What options Netanyahu and Eisenkot have after Israel's deadlocked election",
+      "summary": "",
+      "lang": "en",
+      "source": "Channel NewsAsia",
+      "url": "https://www.channelnewsasia.com/world/what-options-netanyahu-and-eisenkot-have-after-israels-deadlocked-election-6506926",
+      "published": "2026-10-30T11:23:52+00:00"
+     }
+    ],
+    "status": "unchanged",
+    "change_summary": "",
+    "previous_date": "2026-10-29",
+    "previous_event_id": "fbb023f822ad"
+   },
+   {
+    "title": "擴大飛彈產能，美日敲定在日本設立 AIM-120 組裝廠",
+    "summary": "美日同意在日本建立AIM-120先进中程空导弹组装厂以扩大产能。双方军工合作旨在应对乌克兰与中东战场的导弹消耗。",
+    "lang": "zh",
+    "source": "科技新報 TechNews",
+    "url": "https://technews.tw/2026/10/30/us-japan-agreed-on-assmebling-aim-120s-in-japan/",
+    "published": "2026-10-30T09:38:50+00:00",
+    "event_id": "1f3e429ce8a7",
+    "sources": [
+     {
+      "title": "擴大飛彈產能，美日敲定在日本設立 AIM-120 組裝廠",
+      "summary": "美日同意在日本建立AIM-120先进中程空导弹组装厂以扩大产能。双方军工合作旨在应对乌克兰与中东战场的导弹消耗。",
+      "lang": "zh",
+      "source": "科技新報 TechNews",
+      "url": "https://technews.tw/2026/10/30/us-japan-agreed-on-assmebling-aim-120s-in-japan/",
+      "published": "2026-10-30T09:38:50+00:00"
+     }
+    ],
+    "status": "unchanged",
+    "change_summary": "",
+    "previous_date": "2026-10-29",
+    "previous_event_id": "1f3e429ce8a7"
+   }
+  ],
+  "tecnologia|asia": [
+   {
+    "title": "幣安遭黑客攻擊：涉63億美元 或為史上最大規模 朝鮮黑客組織被指涉案",
+    "summary": "币安遭黑客攻击，损失约63亿美元，可能为史上最大规模。朝鲜黑客组织遭指与此次攻击有关。",
+    "lang": "zh",
+    "source": "BBC中文",
+    "url": "https://www.bbc.com/zhongwen/articles/cw0k023x733lo/trad?at_medium=RSS&at_campaign=rss",
+    "published": "2026-10-30T09:56:31+00:00",
+    "event_id": "311103c9ae6b",
+    "sources": [
+     {
+      "title": "幣安遭黑客攻擊：涉63億美元 或為史上最大規模 朝鮮黑客組織被指涉案",
+      "summary": "币安遭黑客攻击，损失约63亿美元，可能为史上最大规模。朝鲜黑客组织遭指与此次攻击有关。",
+      "lang": "zh",
+      "source": "BBC中文",
+      "url": "https://www.bbc.com/zhongwen/articles/cw0k023x733lo/trad?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-30T09:56:31+00:00"
+     },
+     {
+      "title": "Binance pauses withdrawals as hackers suspected of stealing billions in crypto",
+      "summary": "",
+      "lang": "en",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/10/29/binance-pauses-withdrawals-as-hackers-suspected-of-stealing-billions-in-crypto/",
+      "published": "2026-10-29T22:27:23+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "PHP2Shell與Linux核心漏洞被串連利用，中國駭客藉此取得25臺防火牆root權限",
+    "summary": "中国黑客利用PHP2Shell和Linux核心漏洞串联攻击，获得25台防火墙的root权限。攻击利用以色列资安公司发现的漏洞实施。",
+    "lang": "zh",
+    "source": "iThome 台灣",
+    "url": "https://www.ithome.com.tw/news/180111",
+    "published": "2026-10-30T04:10:36+00:00",
+    "event_id": "f1ed12e19b6f",
+    "sources": [
+     {
+      "title": "PHP2Shell與Linux核心漏洞被串連利用，中國駭客藉此取得25臺防火牆root權限",
+      "summary": "中国黑客利用PHP2Shell和Linux核心漏洞串联攻击，获得25台防火墙的root权限。攻击利用以色列资安公司发现的漏洞实施。",
+      "lang": "zh",
+      "source": "iThome 台灣",
+      "url": "https://www.ithome.com.tw/news/180111",
+      "published": "2026-10-30T04:10:36+00:00"
+     }
+    ],
+    "status": "updated",
+    "change_summary": "PHP2Shell與Linux核心漏洞被串連利用，中國駭客藉此取得25臺防火牆root權限",
+    "previous_date": "2026-10-29",
+    "previous_event_id": "f1ed12e19b6f"
+   },
+   {
+    "title": "全家行動購部分會員資料遭非法擷取，起因是委外廠商91APP資料庫遭自動化攻擊",
+    "summary": "全家便利商店行动购平台部分会员数据遭非法擷取，源于委外厂商91APP数据库遭自动化攻击。全家已启动个资事故通报处理流程。",
+    "lang": "zh",
+    "source": "iThome 台灣",
+    "url": "https://www.ithome.com.tw/news/180105",
+    "published": "2026-10-30T03:10:25+00:00",
+    "event_id": "8a1be1516d4f",
+    "sources": [
+     {
+      "title": "全家行動購部分會員資料遭非法擷取，起因是委外廠商91APP資料庫遭自動化攻擊",
+      "summary": "全家便利商店行动购平台部分会员数据遭非法擷取，源于委外厂商91APP数据库遭自动化攻击。全家已启动个资事故通报处理流程。",
+      "lang": "zh",
+      "source": "iThome 台灣",
+      "url": "https://www.ithome.com.tw/news/180105",
+      "published": "2026-10-30T03:10:25+00:00"
+     }
+    ],
+    "status": "updated",
+    "change_summary": "全家行動購部分會員資料遭非法擷取，起因是委外廠商91APP資料庫遭自動化攻擊",
+    "previous_date": "2026-10-29",
+    "previous_event_id": "8a1be1516d4f"
+   },
+   {
+    "title": "群暉NAS遭C3RB3R勒索軟體攻擊，原廠呼籲用戶盡速更新DSM系統",
+    "summary": "群晖NAS设备遭C3RB3R勒索软件攻击，攻击者利用2024年12月已修补漏洞。原厂呼吁用户尽速更新DSM系统。",
+    "lang": "zh",
+    "source": "iThome 台灣",
+    "url": "https://www.ithome.com.tw/news/180115",
+    "published": "2026-10-30T06:10:28+00:00",
+    "event_id": "796541ef7301",
+    "sources": [
+     {
+      "title": "群暉NAS遭C3RB3R勒索軟體攻擊，原廠呼籲用戶盡速更新DSM系統",
+      "summary": "群晖NAS设备遭C3RB3R勒索软件攻击，攻击者利用2024年12月已修补漏洞。原厂呼吁用户尽速更新DSM系统。",
+      "lang": "zh",
+      "source": "iThome 台灣",
+      "url": "https://www.ithome.com.tw/news/180115",
+      "published": "2026-10-30T06:10:28+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   }
+  ]
+ }
+}
