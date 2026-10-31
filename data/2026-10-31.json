@@ -1,0 +1,321 @@
+{
+ "date": "2026-10-31",
+ "generated_at": "2026-10-31T11:04:46.282380+00:00",
+ "mode": "full",
+ "cost_usd": 0.0478,
+ "selection": {
+  "model": "claude-haiku-5-5",
+  "effort": "high",
+  "passes": 3,
+  "passes_ok": 3,
+  "cost_usd": 0.0185
+ },
+ "events": {
+  "mode": "unavailable",
+  "compared_with": "2026-10-30",
+  "articles": 35,
+  "cost_usd": 0.0174
+ },
+ "market": null,
+ "failed_sources": [],
+ "cells": {
+  "economia|asia": [
+   {
+    "title": "Bank of Japan holds rates and guides to further tightening",
+    "summary": "Bank of Japan maintained rates while signaling future tightening as inflationary pressures finally gain traction in the Japanese economy.",
+    "lang": "en",
+    "source": "FT Global Economy",
+    "url": "https://www.ft.com/content/0c1f7cbb-c893-4563-b3b4-f63df47ea5e5",
+    "published": "2026-10-30T08:34:32+00:00"
+   },
+   {
+    "title": "China Lifts Secrecy on Key Rate, Sets It Below Old Benchmark",
+    "summary": "China's central bank disclosed its key policy rate at 1.25% using the overnight reverse repo rate, marking a shift below the previous seven-day benchmark.",
+    "lang": "en",
+    "source": "Bloomberg Economics",
+    "url": "https://www.bloomberg.com/news/articles/2026-10-30/pboc-reveals-overnight-rate-at-1-25-before-policy-anchor-shift",
+    "published": "2026-10-30T09:16:00+00:00"
+   },
+   {
+    "title": "China Factory Activity Eases Into Decline as Growth Wobbles",
+    "summary": "China's factory activity declined in October amid economic recovery challenges, raising concerns about achieving the annual growth target.",
+    "lang": "en",
+    "source": "Bloomberg Economics",
+    "url": "https://www.bloomberg.com/news/articles/2026-10-31/china-factory-activity-manufacturing-purchasing-managers-index-services",
+    "published": "2026-10-31T01:42:16+00:00"
+   },
+   {
+    "title": "HK’s Chan Says 2026 Growth May Be Strongest in Five Years: RTHK",
+    "summary": "Hong Kong's third-quarter economic growth remained robust, suggesting 2026 may deliver the strongest annual expansion in five years.",
+    "lang": "en",
+    "source": "Bloomberg Economics",
+    "url": "https://www.bloomberg.com/news/articles/2026-10-31/hk-s-chan-says-2026-growth-may-be-strongest-in-five-years-rthk",
+    "published": "2026-10-31T04:50:00+00:00"
+   },
+   {
+    "title": "Shipping Strikes In Hormuz Leave Both Sides With Economic Pain",
+    "summary": "Tehran's intermittent attacks on commercial vessels in the Hormuz Strait create mutual economic pain amid US threats of renewed retaliation.",
+    "lang": "en",
+    "source": "Bloomberg Economics",
+    "url": "https://www.bloomberg.com/news/articles/2026-10-31/shipping-strikes-in-hormuz-leave-both-sides-with-economic-pain",
+    "published": "2026-10-31T10:30:00+00:00"
+   }
+  ],
+  "economia|europa": [
+   {
+    "title": "French economy shrinks 0.1% in third quarter",
+    "summary": "France's economy contracted 0.1% in Q3, but Eurozone growth exceeded expectations at 0.4%, supported by stronger performances elsewhere.",
+    "lang": "en",
+    "source": "FT Global Economy",
+    "url": "https://www.ft.com/content/6f879bc5-be07-4a66-afea-bcbe73723a9f?syn-25a6b1a6=1",
+    "published": "2026-10-30T10:07:11+00:00"
+   },
+   {
+    "title": "Rating agency Fitch hits France with surprise outlook downgrade",
+    "summary": "Fitch unexpectedly downgraded France's outlook to negative hours after data revealed Q3 economic contraction in the Eurozone's second-largest economy.",
+    "lang": "en",
+    "source": "Financial Times",
+    "url": "https://www.ft.com/content/852b05a1-4090-4aee-afc6-4d4c353ef3cf?syn-25a6b1a6=1",
+    "published": "2026-10-31T09:36:34+00:00"
+   },
+   {
+    "title": "Better than expected Eurozone growth supports ECB’s tightening path",
+    "summary": "Eurozone Q3 growth outperformed forecasts, supporting ECB's tightening stance, though France's weaker performance tempered overall optimism.",
+    "lang": "en",
+    "source": "FT Global Economy",
+    "url": "https://www.ft.com/content/6dc54eed-2904-487d-8656-85ac25111933",
+    "published": "2026-10-30T11:07:07+00:00"
+   },
+   {
+    "title": "Bank of England May Raise High-Risk Mortgage Threshold, FT Says",
+    "summary": "Bank of England is considering relaxing restrictions on higher-risk mortgage loans to support the UK housing market, the Financial Times reported.",
+    "lang": "en",
+    "source": "Bloomberg Economics",
+    "url": "https://www.bloomberg.com/news/articles/2026-10-31/bank-of-england-may-raise-high-risk-mortgage-threshold-ft-says",
+    "published": "2026-10-31T09:21:38+00:00"
+   }
+  ],
+  "economia|america": [
+   {
+    "title": "OpenAI slashes funding target by $10bn as tech anxieties mount",
+    "summary": "OpenAI reduced its funding target from $30 billion to $20 billion at a $1.25 trillion valuation as tech market anxieties increase.",
+    "lang": "en",
+    "source": "Financial Times",
+    "url": "https://www.ft.com/content/7a3ad950-1b3b-4d9e-8c15-65a61ae6180f?syn-25a6b1a6=1",
+    "published": "2026-10-31T00:05:08+00:00"
+   },
+   {
+    "title": "Anthropic may not secure investment-grade rating after IPO, Blackstone says",
+    "summary": "Blackstone says Anthropic is likely to receive junk-rated status after its IPO, shifting from previous investment-grade expectations.",
+    "lang": "en",
+    "source": "Financial Times",
+    "url": "https://www.ft.com/content/59383c7f-8d82-493f-bf01-d2e862a1018f?syn-25a6b1a6=1",
+    "published": "2026-10-30T18:19:08+00:00"
+   },
+   {
+    "title": "US midterms loom over jittery investors",
+    "summary": "US midterm elections create investor caution as market jitters mount ahead of the political event.",
+    "lang": "en",
+    "source": "Financial Times",
+    "url": "https://www.ft.com/content/6c099dc6-1fb3-44fc-b011-70229e3755cb?syn-25a6b1a6=1",
+    "published": "2026-10-31T05:00:39+00:00"
+   },
+   {
+    "title": "$6.3bn in 30 minutes: how the world’s biggest heist unfolded",
+    "summary": "North Korean hackers stole $6.3 billion from Binance in 30 minutes, marking the largest cryptocurrency theft ever recorded.",
+    "lang": "en",
+    "source": "Financial Times",
+    "url": "https://www.ft.com/content/e84eceda-040b-4e5f-b906-09768085933a?syn-25a6b1a6=1",
+    "published": "2026-10-30T22:17:15+00:00"
+   }
+  ],
+  "politica|asia": [
+   {
+    "title": "China places former Sinopec and CNOOC boss Fu Chengyu, 75, under corruption probe",
+    "summary": "Fu Chengyu, 75-year-old former chairman of Sinopec and CNOOC, is under corruption investigation by China's top anti-corruption authorities.",
+    "lang": "en",
+    "source": "South China Morning Post (China)",
+    "url": "https://www.scmp.com/news/china/politics/article/3372837/china-places-former-sinopec-cnooc-boss-fu-chengyu-75-under-corruption-probe",
+    "published": "2026-10-31T10:48:29+00:00"
+   },
+   {
+    "title": "Beijing blasts US ban on device testing in China, warns of supply chain disruptions",
+    "summary": "China's Ministry of Commerce strongly opposed the US FCC's ban on device testing in China by 2028, warning of potential supply chain disruptions.",
+    "lang": "en",
+    "source": "South China Morning Post (China)",
+    "url": "https://www.scmp.com/news/china/diplomacy/article/3372816/beijing-blasts-us-ban-device-testing-china-warns-supply-chain-disruptions",
+    "published": "2026-10-31T06:01:12+00:00"
+   },
+   {
+    "title": "U.S., South Korea and Japan vow ‘complete’ denuclearization of North Korea",
+    "summary": "US, South Korea and Japan pledged complete denuclearization of North Korea as Pyongyang continues rejecting disarmament ahead of potential talks.",
+    "lang": "en",
+    "source": "Japan Times",
+    "url": "https://www.japantimes.co.jp/news/2026/10/31/asia-pacific/politics/north-korea-denuclearization-vow/",
+    "published": "2026-10-31T05:31:00+00:00"
+   },
+   {
+    "title": "Pakistan military 'cautiously optimistic' on Iran-US mediation",
+    "summary": "Pakistan's military mediation efforts in the Iran-US conflict show cautious optimism as the chief mediator visited Tehran twice this month with Saudi and Turkish officials.",
+    "lang": "en",
+    "source": "Channel NewsAsia",
+    "url": "https://www.channelnewsasia.com/asia/pakistan-military-cautiously-optimistic-iran-us-mediation-6509251",
+    "published": "2026-10-31T08:02:08+00:00"
+   }
+  ],
+  "politica|europa": [
+   {
+    "title": "US approves sale of 500 Patriot missiles to Ukraine",
+    "summary": "US approved sale of 500 Patriot missiles to Ukraine, the only effective weapon for intercepting Russia's ballistic missiles.",
+    "lang": "en",
+    "source": "BBC World",
+    "url": "https://www.bbc.co.uk/news/articles/c3vgxznlx7jzo?at_medium=RSS&at_campaign=rss",
+    "published": "2026-10-31T00:40:43+00:00"
+   },
+   {
+    "title": "Hundreds evacuated from Russian-occupied Oleshky during rare Ukraine ceasefire",
+    "summary": "Hundreds were evacuated from the front-line Russian-occupied town of Oleshky during a rare ceasefire, with others choosing to remain despite dangers.",
+    "lang": "en",
+    "source": "BBC World",
+    "url": "https://www.bbc.co.uk/news/articles/c60me298k1yeo?at_medium=RSS&at_campaign=rss",
+    "published": "2026-10-31T08:49:35+00:00"
+   },
+   {
+    "title": "Police deployed during stand-off over control of top Poland court",
+    "summary": "Polish police deployed during standoff over control of the supreme court after government suspended senior justices and initiated criminal charges.",
+    "lang": "en",
+    "source": "BBC World",
+    "url": "https://www.bbc.co.uk/news/articles/crz9824d5e88o?at_medium=RSS&at_campaign=rss",
+    "published": "2026-10-31T01:11:43+00:00"
+   },
+   {
+    "title": "欧盟对入境小包裹再加税 每年财政增收60亿欧元",
+    "summary": "欧盟11月1日将入境小包裹税从3欧元提高到5欧元，每年增加60亿欧元财政收入。SHEIN等中国电商正扩建本地仓储规避此税。",
+    "lang": "zh",
+    "source": "德國之聲中文",
+    "url": "https://www.dw.com/zh/欧盟对入境小包裹再加税-每年财政增收60亿欧元/a-79809890?maca=chi-rss-chi-all-1127-rdf",
+    "published": "2026-10-30T15:24:00+00:00"
+   },
+   {
+    "title": "Spain train disaster clouds Sánchez chances of re-election",
+    "summary": "Spain's train disaster compounds PM Sánchez's political difficulties weeks before a snap general election amid multiple crises.",
+    "lang": "en",
+    "source": "BBC World",
+    "url": "https://www.bbc.co.uk/news/articles/cmeweppr990qo?at_medium=RSS&at_campaign=rss",
+    "published": "2026-10-31T05:44:21+00:00"
+   }
+  ],
+  "politica|america": [
+   {
+    "title": "Canada and EU announce new alliance open to like-minded countries",
+    "summary": "Canada and EU launched the Alliance for the Future at a Montreal summit, open to like-minded countries facing global instability.",
+    "lang": "en",
+    "source": "The Guardian World",
+    "url": "https://www.theguardian.com/world/2026/oct/30/canada-european-union-alliance",
+    "published": "2026-10-30T19:42:15+00:00"
+   },
+   {
+    "title": "Flavio Bolsonaro says he left Brazil because he is the victim of 'persecution'",
+    "summary": "Flavio Bolsonaro claims he left Brazil due to persecution after losing Sunday's runoff election to Lula, departing secretly with his wife.",
+    "lang": "en",
+    "source": "Le Monde International",
+    "url": "https://www.lemonde.fr/en/international/article/2026/10/31/flavio-bolsonaro-says-he-left-brazil-because-he-is-the-victim-of-persecution_6767920_4.html",
+    "published": "2026-10-31T04:15:43+00:00"
+   },
+   {
+    "title": "G20 'family photo' cancelled after protests over presence of Russian minister",
+    "summary": "G20 family photo was cancelled after protests over Russian minister's presence; UK Foreign Secretary Miliband confronted Russia over Ukraine killings.",
+    "lang": "en",
+    "source": "BBC World",
+    "url": "https://www.bbc.co.uk/news/articles/cmd6dp2y576do?at_medium=RSS&at_campaign=rss",
+    "published": "2026-10-30T22:11:52+00:00"
+   },
+   {
+    "title": "Grynspan lidera de nuevo la votación en la ONU, pero el proceso sigue bloqueado por la falta de acuerdo de las potencias",
+    "summary": "Grynspan lidera nuevamente la votación en la ONU para secretario general, pero el proceso permanece bloqueado por desacuerdos entre potencias mundiales sobre candidatos.",
+    "lang": "es",
+    "source": "El País Internacional",
+    "url": "https://elpais.com/internacional/2026-10-30/grynspan-lidera-de-nuevo-la-votacion-en-la-onu-pero-el-proceso-sigue-bloqueado-por-la-falta-de-acuerdo-de-las-potencias.html",
+    "published": "2026-10-30T19:09:43+00:00"
+   }
+  ],
+  "tecnologia|asia": [
+   {
+    "title": "Apple Intelligence is finally coming to China with iOS 27.3",
+    "summary": "Apple announced Apple Intelligence will launch in China with iOS 27.3, marking the feature's arrival in the region.",
+    "lang": "en",
+    "source": "The Verge",
+    "url": "https://www.theverge.com/tech/1023974/apple-intelligence-china-ios-27-3",
+    "published": "2026-10-30T22:32:53+00:00"
+   },
+   {
+    "title": "日本航空第三方訂位系統遭入侵，約9.2萬名旅客資料受影響",
+    "summary": "日本航空和日本越洋航空第三方订位系统遭黑客入侵，约9.2万名旅客的预订代号、姓名及航班信息泄露，其中2000人的护照号码等个资也受影响。",
+    "lang": "zh",
+    "source": "iThome 台灣",
+    "url": "https://www.ithome.com.tw/news/180096",
+    "published": "2026-10-30T11:10:08+00:00"
+   },
+   {
+    "title": "日本樂天兩個旅遊網站遭駭外洩用戶個資354萬，臺灣網站不受影響",
+    "summary": "乐天集团两个旅游网站遭未授权访问，超过354万客户及旅游人员个资外泄，台湾网站未受波及。",
+    "lang": "zh",
+    "source": "iThome 台灣",
+    "url": "https://www.ithome.com.tw/news/180087",
+    "published": "2026-10-30T10:10:14+00:00"
+   },
+   {
+    "title": "鎖定 AI 伺服器 MLCC 需求！村田製作所未來五年擬砸 1 兆日圓擴產",
+    "summary": "村田製作所计划未来五年投入1兆日圆约63亿美元，扩大MLCC产能以满足AI服务器需求增长。",
+    "lang": "zh",
+    "source": "科技新報 TechNews",
+    "url": "https://technews.tw/2026/10/31/murata-invest-6-3bn-in-capacitor-production/",
+    "published": "2026-10-31T06:27:04+00:00"
+   }
+  ],
+  "tecnologia|europa": [
+   {
+    "title": "Google quería levantar un centro de datos en Finlandia. Empezó talando 330 hectáreas y acabó bajo investigación penal",
+    "summary": "Google enfrenta investigación penal en Finlandia tras talar 330 hectáreas para construir un centro de datos sin acuerdos previos con autoridades locales.",
+    "lang": "es",
+    "source": "Xataka",
+    "url": "https://www.xataka.com/empresas-y-economia/google-queria-levantar-centro-datos-finlandia-empezo-talando-330-hectareas-acabo-investigacion-penal",
+    "published": "2026-10-30T22:01:27+00:00"
+   }
+  ],
+  "tecnologia|america": [
+   {
+    "title": "Anthropic VS code extension on Cursor backdoored for nearly 12 hours",
+    "summary": "Anthropic's VS Code extension on Cursor was backdoored for nearly 12 hours; hackers' access method to the verified account remains unknown.",
+    "lang": "en",
+    "source": "Ars Technica",
+    "url": "https://arstechnica.com/security/2026/10/anthropic-vs-code-extension-on-cursor-backdoored-for-nearly-12-hours/",
+    "published": "2026-10-30T21:09:54+00:00"
+   },
+   {
+    "title": "Intel’s stock crashes, knocking $12B from government’s stake",
+    "summary": "Intel's stock crashed, reducing the US government's stake by $12 billion, hurt by PC sales decline as AI demand drives up component prices.",
+    "lang": "en",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/10/30/intels-stock-crashes-knocking-12b-from-governments-stake/",
+    "published": "2026-10-30T21:54:34+00:00"
+   },
+   {
+    "title": "DoorDash砸170億美元收購Instacart，整合餐飲與生鮮外送市場",
+    "summary": "美国DoorDash宣布以170亿美元收购Instacart，整合餐饮与生鲜配送业务，扩大零售配送市场影响力，交易可能面临反垄断审查。",
+    "lang": "zh",
+    "source": "iThome 台灣",
+    "url": "https://www.ithome.com.tw/news/180094",
+    "published": "2026-10-30T11:10:30+00:00"
+   },
+   {
+    "title": "Making it easier for websites to express AI training preferences",
+    "summary": "OpenAI will respect a shared robots.txt signal allowing website operators to communicate AI training preferences to participating content providers.",
+    "lang": "en",
+    "source": "OpenAI News",
+    "url": "https://openai.com/index/helping-websites-express-ai-training-preferences",
+    "published": "2026-10-30T09:30:00+00:00"
+   }
+  ]
+ }
+}
