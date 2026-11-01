@@ -1,0 +1,871 @@
+{
+ "date": "2026-11-01",
+ "generated_at": "2026-11-01T11:59:55.317292+00:00",
+ "mode": "full",
+ "cost_usd": 0.0533,
+ "selection": {
+  "model": "claude-haiku-5-5",
+  "effort": "high",
+  "passes": 3,
+  "passes_ok": 3,
+  "cost_usd": 0.0177
+ },
+ "events": {
+  "mode": "full",
+  "compared_with": "2026-10-31",
+  "articles": 36,
+  "uncompared_articles": 0,
+  "events": 36,
+  "cost_usd": 0.0244
+ },
+ "market": null,
+ "failed_sources": [],
+ "cells": {
+  "economia|europa": [
+   {
+    "title": "Claves de la nueva tasa de 2 euros a Shein, Temu y AliExpress: así funciona el recargo a las compras ‘online’ extracomunitarias",
+    "summary": "La Unión Europea introduce un recargo fijo de 2 euros por producto en compras de Shein, Temu y AliExpress para frenar artículos inseguros y financiar controles aduanales.",
+    "lang": "es",
+    "source": "El País Economía",
+    "url": "https://elpais.com/economia/2026-10-31/claves-de-la-nueva-tasa-de-2-euros-a-shein-temu-y-aliexpress-asi-funciona-el-recargo-a-las-compras-online-extracomunitarias.html",
+    "published": "2026-10-31T13:18:33+00:00",
+    "event_id": "3f4c38880d5b",
+    "sources": [
+     {
+      "title": "Claves de la nueva tasa de 2 euros a Shein, Temu y AliExpress: así funciona el recargo a las compras ‘online’ extracomunitarias",
+      "summary": "La Unión Europea introduce un recargo fijo de 2 euros por producto en compras de Shein, Temu y AliExpress para frenar artículos inseguros y financiar controles aduanales.",
+      "lang": "es",
+      "source": "El País Economía",
+      "url": "https://elpais.com/economia/2026-10-31/claves-de-la-nueva-tasa-de-2-euros-a-shein-temu-y-aliexpress-asi-funciona-el-recargo-a-las-compras-online-extracomunitarias.html",
+      "published": "2026-10-31T13:18:33+00:00"
+     }
+    ],
+    "status": "unclear",
+    "change_summary": "",
+    "previous_date": "2026-10-31",
+    "previous_event_id": ""
+   },
+   {
+    "title": "Russia forced to ship grain via Arctic as Black Sea battles rage",
+    "summary": "Russia is shipping grain through Arctic ports thousands of miles away due to Black Sea battles, increasing costs for foreign buyers.",
+    "lang": "en",
+    "source": "Financial Times",
+    "url": "https://www.ft.com/content/50aeab56-c5e3-44c5-9117-8fadc2f980fb?syn-25a6b1a6=1",
+    "published": "2026-11-01T05:00:09+00:00",
+    "event_id": "05814186c378",
+    "sources": [
+     {
+      "title": "Russia forced to ship grain via Arctic as Black Sea battles rage",
+      "summary": "Russia is shipping grain through Arctic ports thousands of miles away due to Black Sea battles, increasing costs for foreign buyers.",
+      "lang": "en",
+      "source": "Financial Times",
+      "url": "https://www.ft.com/content/50aeab56-c5e3-44c5-9117-8fadc2f980fb?syn-25a6b1a6=1",
+      "published": "2026-11-01T05:00:09+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "Germany Misses Gas Storage Target as Cold Snap Sets In",
+    "summary": "Germany is set to miss its natural gas storage target amid a cold snap, reducing its buffer against winter demand surges.",
+    "lang": "en",
+    "source": "Bloomberg Markets",
+    "url": "https://www.bloomberg.com/news/articles/2026-11-01/germany-misses-gas-storage-target-as-cold-snap-sets-in",
+    "published": "2026-11-01T09:29:41+00:00",
+    "event_id": "776f3a9132e5",
+    "sources": [
+     {
+      "title": "Germany Misses Gas Storage Target as Cold Snap Sets In",
+      "summary": "Germany is set to miss its natural gas storage target amid a cold snap, reducing its buffer against winter demand surges.",
+      "lang": "en",
+      "source": "Bloomberg Markets",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-01/germany-misses-gas-storage-target-as-cold-snap-sets-in",
+      "published": "2026-11-01T09:29:41+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "UK’s Healey Says Benefits Bill Will Fall, Doesn’t Give Timeline",
+    "summary": "UK Chancellor John Healey said the government would reduce welfare spending but declined to commit to a specific timetable for implementation.",
+    "lang": "en",
+    "source": "Bloomberg Economics",
+    "url": "https://www.bloomberg.com/news/articles/2026-10-31/uk-s-healey-hints-at-delay-in-equalizing-minimum-wage-for-youths",
+    "published": "2026-10-31T18:32:12+00:00",
+    "event_id": "8dc64d4f3331",
+    "sources": [
+     {
+      "title": "UK’s Healey Says Benefits Bill Will Fall, Doesn’t Give Timeline",
+      "summary": "UK Chancellor John Healey said the government would reduce welfare spending but declined to commit to a specific timetable for implementation.",
+      "lang": "en",
+      "source": "Bloomberg Economics",
+      "url": "https://www.bloomberg.com/news/articles/2026-10-31/uk-s-healey-hints-at-delay-in-equalizing-minimum-wage-for-youths",
+      "published": "2026-10-31T18:32:12+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   }
+  ],
+  "tecnologia|europa": [
+   {
+    "title": "La guerra de Ucrania acaba de dar un giro inquietante: los drones ya no necesitan ver a los soldados para encontrarlos",
+    "summary": "Rusos y ucranianos incorporan micrófonos en drones para detectar soldados sin necesidad de cámaras, transformando la guerra en Ucrania.",
+    "lang": "es",
+    "source": "Xataka",
+    "url": "https://www.xataka.com/magnet/guerra-ucrania-acaba-dar-giro-inquietante-drones-no-necesitan-ver-a-soldados-para-encontrarlos",
+    "published": "2026-11-01T06:01:26+00:00",
+    "event_id": "ee94464b8da2",
+    "sources": [
+     {
+      "title": "La guerra de Ucrania acaba de dar un giro inquietante: los drones ya no necesitan ver a los soldados para encontrarlos",
+      "summary": "Rusos y ucranianos incorporan micrófonos en drones para detectar soldados sin necesidad de cámaras, transformando la guerra en Ucrania.",
+      "lang": "es",
+      "source": "Xataka",
+      "url": "https://www.xataka.com/magnet/guerra-ucrania-acaba-dar-giro-inquietante-drones-no-necesitan-ver-a-soldados-para-encontrarlos",
+      "published": "2026-11-01T06:01:26+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   }
+  ],
+  "tecnologia|america": [
+   {
+    "title": "El meteórico ascenso de ChatGPT desde noviembre de 2022, en un gráfico: mil millones de usuarios y sorpasso a Tiktok",
+    "summary": "ChatGPT alcanzó mil millones de usuarios desde noviembre de 2022, superando a TikTok en crecimiento de usuarios.",
+    "lang": "es",
+    "source": "Xataka",
+    "url": "https://www.xataka.com/servicios/meteorico-ascenso-chatgpt-noviembre-2022-grafico-mil-millones-usuarios-sorpasso-a-tiktok",
+    "published": "2026-11-01T09:01:29+00:00",
+    "event_id": "383c210e7b53",
+    "sources": [
+     {
+      "title": "El meteórico ascenso de ChatGPT desde noviembre de 2022, en un gráfico: mil millones de usuarios y sorpasso a Tiktok",
+      "summary": "ChatGPT alcanzó mil millones de usuarios desde noviembre de 2022, superando a TikTok en crecimiento de usuarios.",
+      "lang": "es",
+      "source": "Xataka",
+      "url": "https://www.xataka.com/servicios/meteorico-ascenso-chatgpt-noviembre-2022-grafico-mil-millones-usuarios-sorpasso-a-tiktok",
+      "published": "2026-11-01T09:01:29+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "Judge allows NAACP lawsuit over xAI data center pollution to move forward",
+    "summary": "A judge allowed an NAACP lawsuit against SpaceX-owned AI company xAI to proceed, accusing it of violating the Clean Air Act over a data center.",
+    "lang": "en",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/10/31/judge-allows-naacp-lawsuit-over-xai-data-center-pollution-to-move-forward/",
+    "published": "2026-10-31T21:17:03+00:00",
+    "event_id": "bc398a80a0df",
+    "sources": [
+     {
+      "title": "Judge allows NAACP lawsuit over xAI data center pollution to move forward",
+      "summary": "A judge allowed an NAACP lawsuit against SpaceX-owned AI company xAI to proceed, accusing it of violating the Clean Air Act over a data center.",
+      "lang": "en",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/10/31/judge-allows-naacp-lawsuit-over-xai-data-center-pollution-to-move-forward/",
+      "published": "2026-10-31T21:17:03+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "Binance CEO says 90 percent of stolen assets have been ‘replenished’",
+    "summary": "Binance CEO announced that 90 percent of the $6.3 billion stolen by hackers in a record crypto heist have been replenished to customers.",
+    "lang": "en",
+    "source": "The Verge",
+    "url": "https://www.theverge.com/tech/1024091/binance-ceo-90-percent-stolen-crypto",
+    "published": "2026-10-31T18:40:32+00:00",
+    "event_id": "7d968577e0ca",
+    "sources": [
+     {
+      "title": "Binance CEO says 90 percent of stolen assets have been ‘replenished’",
+      "summary": "Binance CEO announced that 90 percent of the $6.3 billion stolen by hackers in a record crypto heist have been replenished to customers.",
+      "lang": "en",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/tech/1024091/binance-ceo-90-percent-stolen-crypto",
+      "published": "2026-10-31T18:40:32+00:00"
+     }
+    ],
+    "status": "updated",
+    "change_summary": "Binance CEO announced that 90 percent of the $6.3 billion stolen by hackers in a record crypto heist have been replenished to customers.",
+    "previous_date": "2026-10-31",
+    "previous_event_id": ""
+   },
+   {
+    "title": "Spooky New Infostealer Malware Uses AI to ‘Autodox’ Victims",
+    "summary": "Newly discovered malware called 'Volta-Autodoxer' uses artificial intelligence to collect victim data including login credentials and credit card numbers.",
+    "lang": "en",
+    "source": "Wired",
+    "url": "https://www.wired.com/story/kernel-panic-volta-autodoxer-ai-infostealer-malware/",
+    "published": "2026-10-31T12:00:00+00:00",
+    "event_id": "bc2326c848ae",
+    "sources": [
+     {
+      "title": "Spooky New Infostealer Malware Uses AI to ‘Autodox’ Victims",
+      "summary": "Newly discovered malware called 'Volta-Autodoxer' uses artificial intelligence to collect victim data including login credentials and credit card numbers.",
+      "lang": "en",
+      "source": "Wired",
+      "url": "https://www.wired.com/story/kernel-panic-volta-autodoxer-ai-infostealer-malware/",
+      "published": "2026-10-31T12:00:00+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "Google 太空資料中心首顆晶片啟動，Gemma 4 模型在軌運作還寫詩",
+    "summary": "谷歌成功启动实验卫星上的TPU芯片,让Gemma 4模型在轨道上运行并完成诗歌创作任务。",
+    "lang": "zh",
+    "source": "科技新報 TechNews",
+    "url": "https://technews.tw/2026/11/01/google-receives-first-response-from-its-project-suncatcher-prototype-satellite/",
+    "published": "2026-11-01T04:39:00+00:00",
+    "event_id": "3aa90f0cb575",
+    "sources": [
+     {
+      "title": "Google 太空資料中心首顆晶片啟動，Gemma 4 模型在軌運作還寫詩",
+      "summary": "谷歌成功启动实验卫星上的TPU芯片,让Gemma 4模型在轨道上运行并完成诗歌创作任务。",
+      "lang": "zh",
+      "source": "科技新報 TechNews",
+      "url": "https://technews.tw/2026/11/01/google-receives-first-response-from-its-project-suncatcher-prototype-satellite/",
+      "published": "2026-11-01T04:39:00+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   }
+  ],
+  "economia|asia": [
+   {
+    "title": "Pakistan LNG Cargo Attacked Near Hormuz Had Iranian Approval",
+    "summary": "Pakistan negotiated with Iran for safe passage of its LNG carrier Al Mayeda before the ship was attacked near the Strait of Hormuz on Friday.",
+    "lang": "en",
+    "source": "Bloomberg Markets",
+    "url": "https://www.bloomberg.com/news/articles/2026-11-01/pakistan-lng-cargo-attacked-near-hormuz-had-iranian-approval",
+    "published": "2026-11-01T09:23:14+00:00",
+    "event_id": "3731cb74ae4f",
+    "sources": [
+     {
+      "title": "Pakistan LNG Cargo Attacked Near Hormuz Had Iranian Approval",
+      "summary": "Pakistan negotiated with Iran for safe passage of its LNG carrier Al Mayeda before the ship was attacked near the Strait of Hormuz on Friday.",
+      "lang": "en",
+      "source": "Bloomberg Markets",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-01/pakistan-lng-cargo-attacked-near-hormuz-had-iranian-approval",
+      "published": "2026-11-01T09:23:14+00:00"
+     }
+    ],
+    "status": "updated",
+    "change_summary": "Pakistan negotiated with Iran for safe passage of its LNG carrier Al Mayeda before the ship was attacked near the Strait of Hormuz on Friday.",
+    "previous_date": "2026-10-31",
+    "previous_event_id": ""
+   },
+   {
+    "title": "Saudi Economy Shrank at Slower Pace Before Houthi War Escalation",
+    "summary": "Saudi Arabia's economy contracted at a slower pace, putting the kingdom on track for one of its worst economic performances in years amid recent escalation.",
+    "lang": "en",
+    "source": "Bloomberg Economics",
+    "url": "https://www.bloomberg.com/news/articles/2026-11-01/saudi-economy-shrank-at-slower-pace-before-houthi-war-escalation",
+    "published": "2026-11-01T07:44:48+00:00",
+    "event_id": "257393ed8225",
+    "sources": [
+     {
+      "title": "Saudi Economy Shrank at Slower Pace Before Houthi War Escalation",
+      "summary": "Saudi Arabia's economy contracted at a slower pace, putting the kingdom on track for one of its worst economic performances in years amid recent escalation.",
+      "lang": "en",
+      "source": "Bloomberg Economics",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-01/saudi-economy-shrank-at-slower-pace-before-houthi-war-escalation",
+      "published": "2026-11-01T07:44:48+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "China to Convene Meeting on Supporting Stock Market, Reports Say",
+    "summary": "China's central bank and securities regulator will meet Monday to discuss tools designed to support the country's capital market.",
+    "lang": "en",
+    "source": "Bloomberg Markets",
+    "url": "https://www.bloomberg.com/news/articles/2026-11-01/china-to-convene-meeting-on-supporting-stock-market-reports-say",
+    "published": "2026-11-01T10:08:49+00:00",
+    "event_id": "11254015cdd4",
+    "sources": [
+     {
+      "title": "China to Convene Meeting on Supporting Stock Market, Reports Say",
+      "summary": "China's central bank and securities regulator will meet Monday to discuss tools designed to support the country's capital market.",
+      "lang": "en",
+      "source": "Bloomberg Markets",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-01/china-to-convene-meeting-on-supporting-stock-market-reports-say",
+      "published": "2026-11-01T10:08:49+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "S. Korea Exports Extend Robust Growth as Chip Boom Continues",
+    "summary": "South Korea's exports maintained strong growth in October, driven by artificial intelligence-related chip demand and sector strength.",
+    "lang": "en",
+    "source": "Bloomberg Economics",
+    "url": "https://www.bloomberg.com/news/articles/2026-11-01/south-korea-exports-extend-robust-growth-as-chip-boom-continues",
+    "published": "2026-11-01T00:25:30+00:00",
+    "event_id": "6d2b68eddccf",
+    "sources": [
+     {
+      "title": "S. Korea Exports Extend Robust Growth as Chip Boom Continues",
+      "summary": "South Korea's exports maintained strong growth in October, driven by artificial intelligence-related chip demand and sector strength.",
+      "lang": "en",
+      "source": "Bloomberg Economics",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-01/south-korea-exports-extend-robust-growth-as-chip-boom-continues",
+      "published": "2026-11-01T00:25:30+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "Yen bond offerings hit record $16bn as AI funding race reaches Japan",
+    "summary": "Yen bond offerings reached a record $16 billion as Japan becomes part of the global artificial intelligence funding competition.",
+    "lang": "en",
+    "source": "Nikkei Asia",
+    "url": "https://asia.nikkei.com/business/markets/bonds/yen-bond-offerings-hit-record-16bn-as-ai-funding-race-reaches-japan",
+    "published": null,
+    "event_id": "253215077c08",
+    "sources": [
+     {
+      "title": "Yen bond offerings hit record $16bn as AI funding race reaches Japan",
+      "summary": "Yen bond offerings reached a record $16 billion as Japan becomes part of the global artificial intelligence funding competition.",
+      "lang": "en",
+      "source": "Nikkei Asia",
+      "url": "https://asia.nikkei.com/business/markets/bonds/yen-bond-offerings-hit-record-16bn-as-ai-funding-race-reaches-japan",
+      "published": null
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "Qatar LNG carrier struck by ‘unidentified objects’ in Gulf",
+    "summary": "A Qatar LNG carrier was struck by unidentified objects in the Gulf with no injuries or environmental damage reported by Qatar Gas Transport Company.",
+    "lang": "en",
+    "source": "Al Jazeera English",
+    "url": "https://www.aljazeera.com/news/2026/11/1/qatar-lng-carrier-struck-by-unidentified-objects-in-gulf?traffic_source=rss",
+    "published": "2026-11-01T10:21:48+00:00",
+    "event_id": "9947d9715741",
+    "sources": [
+     {
+      "title": "Qatar LNG carrier struck by ‘unidentified objects’ in Gulf",
+      "summary": "A Qatar LNG carrier was struck by unidentified objects in the Gulf with no injuries or environmental damage reported by Qatar Gas Transport Company.",
+      "lang": "en",
+      "source": "Al Jazeera English",
+      "url": "https://www.aljazeera.com/news/2026/11/1/qatar-lng-carrier-struck-by-unidentified-objects-in-gulf?traffic_source=rss",
+      "published": "2026-11-01T10:21:48+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   }
+  ],
+  "politica|asia": [
+   {
+    "title": "Turkey Picks Tax Chief to Lead Markets Board After Fund Rout",
+    "summary": "Turkish President Erdogan appointed Muhsin Atci, head of the tax inspection body, as chief of the Capital Markets Board following an investment fund rout.",
+    "lang": "en",
+    "source": "Bloomberg Markets",
+    "url": "https://www.bloomberg.com/news/articles/2026-10-31/turkey-appoints-new-top-market-regulator-in-fund-crisis-response",
+    "published": "2026-10-31T21:50:23+00:00",
+    "event_id": "c110f42c3774",
+    "sources": [
+     {
+      "title": "Turkey Picks Tax Chief to Lead Markets Board After Fund Rout",
+      "summary": "Turkish President Erdogan appointed Muhsin Atci, head of the tax inspection body, as chief of the Capital Markets Board following an investment fund rout.",
+      "lang": "en",
+      "source": "Bloomberg Markets",
+      "url": "https://www.bloomberg.com/news/articles/2026-10-31/turkey-appoints-new-top-market-regulator-in-fund-crisis-response",
+      "published": "2026-10-31T21:50:23+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "Mediators continue US-Iran negotiations amid war rhetoric: What we know",
+    "summary": "US-Iran negotiations continue with Trump saying talks are going well, while Iranian leaders express openness to diplomacy but readiness to respond to attacks.",
+    "lang": "en",
+    "source": "Al Jazeera English",
+    "url": "https://www.aljazeera.com/news/2026/11/1/mediators-continue-us-iran-negotiations-amid-war-rhetoric-what-we-know?traffic_source=rss",
+    "published": "2026-11-01T11:14:27+00:00",
+    "event_id": "555d19980e41",
+    "sources": [
+     {
+      "title": "Mediators continue US-Iran negotiations amid war rhetoric: What we know",
+      "summary": "US-Iran negotiations continue with Trump saying talks are going well, while Iranian leaders express openness to diplomacy but readiness to respond to attacks.",
+      "lang": "en",
+      "source": "Al Jazeera English",
+      "url": "https://www.aljazeera.com/news/2026/11/1/mediators-continue-us-iran-negotiations-amid-war-rhetoric-what-we-know?traffic_source=rss",
+      "published": "2026-11-01T11:14:27+00:00"
+     }
+    ],
+    "status": "updated",
+    "change_summary": "US-Iran negotiations continue with Trump saying talks are going well, while Iranian leaders express openness to diplomacy but readiness to respond to attacks.",
+    "previous_date": "2026-10-31",
+    "previous_event_id": ""
+   },
+   {
+    "title": "India's opposition holds mega rally seeking election chief's resignation",
+    "summary": "India's opposition held a mega rally demanding the election chief's resignation over a voter roll revision feared to exclude 130 million voters.",
+    "lang": "en",
+    "source": "BBC World",
+    "url": "https://www.bbc.co.uk/news/articles/c60qk92dvlwgo?at_medium=RSS&at_campaign=rss",
+    "published": "2026-11-01T07:00:55+00:00",
+    "event_id": "8fa2de342312",
+    "sources": [
+     {
+      "title": "India's opposition holds mega rally seeking election chief's resignation",
+      "summary": "India's opposition held a mega rally demanding the election chief's resignation over a voter roll revision feared to exclude 130 million voters.",
+      "lang": "en",
+      "source": "BBC World",
+      "url": "https://www.bbc.co.uk/news/articles/c60qk92dvlwgo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-01T07:00:55+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "Beijing ramps up maritime patrols around Taiwan, prompting Taipei to shadow ships",
+    "summary": "Beijing increased maritime patrols around Taiwan, deploying coastguard vessels from eastern approaches to waters near Quemoy and Dongsha Island.",
+    "lang": "en",
+    "source": "South China Morning Post (China)",
+    "url": "https://www.scmp.com/news/china/politics/article/3372875/beijing-ramps-maritime-patrols-around-taiwan-prompting-taipei-shadow-ships",
+    "published": "2026-11-01T07:32:10+00:00",
+    "event_id": "bec4d7f20bd2",
+    "sources": [
+     {
+      "title": "Beijing ramps up maritime patrols around Taiwan, prompting Taipei to shadow ships",
+      "summary": "Beijing increased maritime patrols around Taiwan, deploying coastguard vessels from eastern approaches to waters near Quemoy and Dongsha Island.",
+      "lang": "en",
+      "source": "South China Morning Post (China)",
+      "url": "https://www.scmp.com/news/china/politics/article/3372875/beijing-ramps-maritime-patrols-around-taiwan-prompting-taipei-shadow-ships",
+      "published": "2026-11-01T07:32:10+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "North Korea fires off cluster bomb warheads in latest ‘major’ weapons test",
+    "summary": "North Korea conducted a major cluster bomb warhead test, claiming the warhead can devastate an area of 12 to 13 hectares.",
+    "lang": "en",
+    "source": "Japan Times",
+    "url": "https://www.japantimes.co.jp/news/2026/11/01/asia-pacific/north-korea-cluster-bomb-warhead/",
+    "published": "2026-11-01T04:12:00+00:00",
+    "event_id": "01ecaeb2f9c0",
+    "sources": [
+     {
+      "title": "North Korea fires off cluster bomb warheads in latest ‘major’ weapons test",
+      "summary": "North Korea conducted a major cluster bomb warhead test, claiming the warhead can devastate an area of 12 to 13 hectares.",
+      "lang": "en",
+      "source": "Japan Times",
+      "url": "https://www.japantimes.co.jp/news/2026/11/01/asia-pacific/north-korea-cluster-bomb-warhead/",
+      "published": "2026-11-01T04:12:00+00:00"
+     }
+    ],
+    "status": "updated",
+    "change_summary": "North Korea conducted a major cluster bomb warhead test, claiming the warhead can devastate an area of 12 to 13 hectares.",
+    "previous_date": "2026-10-31",
+    "previous_event_id": ""
+   },
+   {
+    "title": "Turkey moves Kurdish militant leader as part of peace process",
+    "summary": "Turkey moved its Kurdish militant leader to a new island prison section as part of efforts to end decades-long conflict.",
+    "lang": "en",
+    "source": "South China Morning Post (Asia)",
+    "url": "https://www.scmp.com/news/world/europe/article/3372883/turkey-moves-kurdish-militant-leader-part-peace-process",
+    "published": "2026-11-01T09:45:06+00:00",
+    "event_id": "23d9a9b24bb9",
+    "sources": [
+     {
+      "title": "Turkey moves Kurdish militant leader as part of peace process",
+      "summary": "Turkey moved its Kurdish militant leader to a new island prison section as part of efforts to end decades-long conflict.",
+      "lang": "en",
+      "source": "South China Morning Post (Asia)",
+      "url": "https://www.scmp.com/news/world/europe/article/3372883/turkey-moves-kurdish-militant-leader-part-peace-process",
+      "published": "2026-11-01T09:45:06+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   }
+  ],
+  "economia|america": [
+   {
+    "title": "US Jobs Pickup May Keep Fed on Track to Hike Rates Again",
+    "summary": "US jobs data ahead, including the monthly employment report from the Bureau of Labor Statistics on Friday, may influence Federal Reserve rate decisions.",
+    "lang": "en",
+    "source": "Bloomberg Economics",
+    "url": "https://www.bloomberg.com/news/articles/2026-10-31/us-jobs-pickup-may-keep-fed-on-track-to-hike-rates-again",
+    "published": "2026-10-31T20:00:00+00:00",
+    "event_id": "bb2e88199bc3",
+    "sources": [
+     {
+      "title": "US Jobs Pickup May Keep Fed on Track to Hike Rates Again",
+      "summary": "US jobs data ahead, including the monthly employment report from the Bureau of Labor Statistics on Friday, may influence Federal Reserve rate decisions.",
+      "lang": "en",
+      "source": "Bloomberg Economics",
+      "url": "https://www.bloomberg.com/news/articles/2026-10-31/us-jobs-pickup-may-keep-fed-on-track-to-hike-rates-again",
+      "published": "2026-10-31T20:00:00+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "Investors trim growth bets over fears of US economy’s AI exposure",
+    "summary": "Investors are trimming growth bets and returning to bonds amid concerns about US economy's over-reliance on artificial intelligence and technology spending.",
+    "lang": "en",
+    "source": "FT Global Economy",
+    "url": "https://www.ft.com/content/56b0d5fa-829c-47b1-b07b-b4be18f60151?syn-25a6b1a6=1",
+    "published": "2026-10-31T14:00:02+00:00",
+    "event_id": "6fae7d7e43ba",
+    "sources": [
+     {
+      "title": "Investors trim growth bets over fears of US economy’s AI exposure",
+      "summary": "Investors are trimming growth bets and returning to bonds amid concerns about US economy's over-reliance on artificial intelligence and technology spending.",
+      "lang": "en",
+      "source": "FT Global Economy",
+      "url": "https://www.ft.com/content/56b0d5fa-829c-47b1-b07b-b4be18f60151?syn-25a6b1a6=1",
+      "published": "2026-10-31T14:00:02+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "China’s ‘Upgraded’ Peru Trade Deal Takes Effect, Widening Ties",
+    "summary": "China's upgraded free-trade agreement with Peru took effect Sunday, expanding coverage for e-commerce, supply chains, and competition policy.",
+    "lang": "en",
+    "source": "Bloomberg Economics",
+    "url": "https://www.bloomberg.com/news/articles/2026-11-01/china-s-upgraded-peru-trade-deal-takes-effect-widening-ties",
+    "published": "2026-11-01T03:33:35+00:00",
+    "event_id": "ce731280cca3",
+    "sources": [
+     {
+      "title": "China’s ‘Upgraded’ Peru Trade Deal Takes Effect, Widening Ties",
+      "summary": "China's upgraded free-trade agreement with Peru took effect Sunday, expanding coverage for e-commerce, supply chains, and competition policy.",
+      "lang": "en",
+      "source": "Bloomberg Economics",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-01/china-s-upgraded-peru-trade-deal-takes-effect-widening-ties",
+      "published": "2026-11-01T03:33:35+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "OpenAI reportedly lowers funding target for new round",
+    "summary": "OpenAI reportedly lowered its funding target for a new round, indicating the latest funding effort is underperforming expectations.",
+    "lang": "en",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/10/31/openai-reportedly-lowers-funding-target-for-new-round/",
+    "published": "2026-10-31T16:12:55+00:00",
+    "event_id": "344dcf79744a",
+    "sources": [
+     {
+      "title": "OpenAI reportedly lowers funding target for new round",
+      "summary": "OpenAI reportedly lowered its funding target for a new round, indicating the latest funding effort is underperforming expectations.",
+      "lang": "en",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/10/31/openai-reportedly-lowers-funding-target-for-new-round/",
+      "published": "2026-10-31T16:12:55+00:00"
+     }
+    ],
+    "status": "unchanged",
+    "change_summary": "",
+    "previous_date": "2026-10-31",
+    "previous_event_id": ""
+   }
+  ],
+  "politica|europa": [
+   {
+    "title": "Poland's president holds crisis talks without PM Tusk after dramatic showdown at constitutional court",
+    "summary": "Poland's president held crisis talks without PM Tusk after refusing to swear in new constitutional court judges nominated by parliament.",
+    "lang": "en",
+    "source": "Le Monde International",
+    "url": "https://www.lemonde.fr/en/international/article/2026/11/01/poland-s-president-holds-crisis-talks-after-a-dramatic-showdown-at-the-constitutional-court_6768412_4.html",
+    "published": "2026-10-31T23:41:52+00:00",
+    "event_id": "4d20ac6e77bb",
+    "sources": [
+     {
+      "title": "Poland's president holds crisis talks without PM Tusk after dramatic showdown at constitutional court",
+      "summary": "Poland's president held crisis talks without PM Tusk after refusing to swear in new constitutional court judges nominated by parliament.",
+      "lang": "en",
+      "source": "Le Monde International",
+      "url": "https://www.lemonde.fr/en/international/article/2026/11/01/poland-s-president-holds-crisis-talks-after-a-dramatic-showdown-at-the-constitutional-court_6768412_4.html",
+      "published": "2026-10-31T23:41:52+00:00"
+     }
+    ],
+    "status": "updated",
+    "change_summary": "Poland's president held crisis talks without PM Tusk after refusing to swear in new constitutional court judges nominated by parliament.",
+    "previous_date": "2026-10-31",
+    "previous_event_id": ""
+   },
+   {
+    "title": "Shops looted as German cost of living protests turn violent",
+    "summary": "Cost of living protests across Germany turned violent with looting in Berlin, Hamburg, and Frankfurt on the same day as protests in France.",
+    "lang": "en",
+    "source": "BBC World",
+    "url": "https://www.bbc.co.uk/news/articles/cqj34gnd3n30o?at_medium=RSS&at_campaign=rss",
+    "published": "2026-11-01T11:03:36+00:00",
+    "event_id": "de77300dcc63",
+    "sources": [
+     {
+      "title": "Shops looted as German cost of living protests turn violent",
+      "summary": "Cost of living protests across Germany turned violent with looting in Berlin, Hamburg, and Frankfurt on the same day as protests in France.",
+      "lang": "en",
+      "source": "BBC World",
+      "url": "https://www.bbc.co.uk/news/articles/cqj34gnd3n30o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-01T11:03:36+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "From railway tragedy to gov’t change: Serbia’s two-year fight for justice",
+    "summary": "Serbia's two-year struggle for justice following a deadly train station collapse in Novi Sad has resulted in a change of government.",
+    "lang": "en",
+    "source": "Al Jazeera English",
+    "url": "https://www.aljazeera.com/news/2026/11/1/from-railway-tragedy-to-govt-change-serbias-two-year-fight-for-justice?traffic_source=rss",
+    "published": "2026-11-01T10:04:22+00:00",
+    "event_id": "443a45dfcce9",
+    "sources": [
+     {
+      "title": "From railway tragedy to gov’t change: Serbia’s two-year fight for justice",
+      "summary": "Serbia's two-year struggle for justice following a deadly train station collapse in Novi Sad has resulted in a change of government.",
+      "lang": "en",
+      "source": "Al Jazeera English",
+      "url": "https://www.aljazeera.com/news/2026/11/1/from-railway-tragedy-to-govt-change-serbias-two-year-fight-for-justice?traffic_source=rss",
+      "published": "2026-11-01T10:04:22+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "Bulgarians vote in presidential run-off amid Black Sea tensions",
+    "summary": "Bulgarians voted in a presidential run-off amid economic challenges and Black Sea shipping attacks, with record low turnout.",
+    "lang": "en",
+    "source": "Al Jazeera English",
+    "url": "https://www.aljazeera.com/news/2026/11/1/bulgarians-vote-in-presidential-run-off-amid-black-sea-tensions?traffic_source=rss",
+    "published": "2026-11-01T10:57:45+00:00",
+    "event_id": "dfee2290dfe6",
+    "sources": [
+     {
+      "title": "Bulgarians vote in presidential run-off amid Black Sea tensions",
+      "summary": "Bulgarians voted in a presidential run-off amid economic challenges and Black Sea shipping attacks, with record low turnout.",
+      "lang": "en",
+      "source": "Al Jazeera English",
+      "url": "https://www.aljazeera.com/news/2026/11/1/bulgarians-vote-in-presidential-run-off-amid-black-sea-tensions?traffic_source=rss",
+      "published": "2026-11-01T10:57:45+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   }
+  ],
+  "politica|america": [
+   {
+    "title": "G20 foreign ministers end Atlanta meeting without consensus on key issues",
+    "summary": "G20 foreign ministers ended an Atlanta meeting without consensus on key issues as the US seeks to reduce China's dominance in critical minerals.",
+    "lang": "en",
+    "source": "South China Morning Post (China)",
+    "url": "https://www.scmp.com/news/china/diplomacy/article/3372855/g20-foreign-ministers-end-atlanta-meeting-without-consensus-key-issues",
+    "published": "2026-10-31T19:32:58+00:00",
+    "event_id": "4c2bd5d97e27",
+    "sources": [
+     {
+      "title": "G20 foreign ministers end Atlanta meeting without consensus on key issues",
+      "summary": "G20 foreign ministers ended an Atlanta meeting without consensus on key issues as the US seeks to reduce China's dominance in critical minerals.",
+      "lang": "en",
+      "source": "South China Morning Post (China)",
+      "url": "https://www.scmp.com/news/china/diplomacy/article/3372855/g20-foreign-ministers-end-atlanta-meeting-without-consensus-key-issues",
+      "published": "2026-10-31T19:32:58+00:00"
+     }
+    ],
+    "status": "updated",
+    "change_summary": "G20 foreign ministers ended an Atlanta meeting without consensus on key issues as the US seeks to reduce China's dominance in critical minerals.",
+    "previous_date": "2026-10-31",
+    "previous_event_id": ""
+   },
+   {
+    "title": "Judge orders Trump administration to stop threatening US election officials",
+    "summary": "A judge ordered the Trump administration to stop threatening US election officials who received letters demanding they set aside non-citizen voter ballots.",
+    "lang": "en",
+    "source": "BBC World",
+    "url": "https://www.bbc.co.uk/news/articles/c8qln1539y37o?at_medium=RSS&at_campaign=rss",
+    "published": "2026-11-01T00:27:33+00:00",
+    "event_id": "2ead0d65cc28",
+    "sources": [
+     {
+      "title": "Judge orders Trump administration to stop threatening US election officials",
+      "summary": "A judge ordered the Trump administration to stop threatening US election officials who received letters demanding they set aside non-citizen voter ballots.",
+      "lang": "en",
+      "source": "BBC World",
+      "url": "https://www.bbc.co.uk/news/articles/c8qln1539y37o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-01T00:27:33+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "Judge dismisses Trump's lawsuit against Wall Street Journal over Epstein birthday book",
+    "summary": "A judge dismissed Trump's lawsuit against the Wall Street Journal over a letter to Epstein purportedly written by the president in a birthday book.",
+    "lang": "en",
+    "source": "BBC World",
+    "url": "https://www.bbc.co.uk/news/articles/cwr5yj2lj9myo?at_medium=RSS&at_campaign=rss",
+    "published": "2026-11-01T00:41:24+00:00",
+    "event_id": "faf1874beb29",
+    "sources": [
+     {
+      "title": "Judge dismisses Trump's lawsuit against Wall Street Journal over Epstein birthday book",
+      "summary": "A judge dismissed Trump's lawsuit against the Wall Street Journal over a letter to Epstein purportedly written by the president in a birthday book.",
+      "lang": "en",
+      "source": "BBC World",
+      "url": "https://www.bbc.co.uk/news/articles/cwr5yj2lj9myo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-01T00:41:24+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "Alaska Senate candidate denies knowing about alleged plot to put two Dan Sullivans on ballot",
+    "summary": "Alaska Senate candidate denies knowledge of a plot to place two Dan Sullivans on the ballot to confuse voters in the Republican re-election race.",
+    "lang": "en",
+    "source": "BBC World",
+    "url": "https://www.bbc.co.uk/news/articles/cmwyq2gg1yzzo?at_medium=RSS&at_campaign=rss",
+    "published": "2026-11-01T00:46:12+00:00",
+    "event_id": "9513d1329393",
+    "sources": [
+     {
+      "title": "Alaska Senate candidate denies knowing about alleged plot to put two Dan Sullivans on ballot",
+      "summary": "Alaska Senate candidate denies knowledge of a plot to place two Dan Sullivans on the ballot to confuse voters in the Republican re-election race.",
+      "lang": "en",
+      "source": "BBC World",
+      "url": "https://www.bbc.co.uk/news/articles/cmwyq2gg1yzzo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-01T00:46:12+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   }
+  ],
+  "tecnologia|asia": [
+   {
+    "title": "全支付進駐 Samsung Wallet！業界首創深度整合手機智慧錢包",
+    "summary": "全支付成为业界首家与三星钱包(Samsung Wallet)深度整合的公司,推动移动支付市场重大突破。",
+    "lang": "zh",
+    "source": "科技新報 TechNews",
+    "url": "https://technews.tw/2026/11/01/pxpay-joins-samsung-wallet/",
+    "published": "2026-11-01T06:00:45+00:00",
+    "event_id": "152676ac7208",
+    "sources": [
+     {
+      "title": "全支付進駐 Samsung Wallet！業界首創深度整合手機智慧錢包",
+      "summary": "全支付成为业界首家与三星钱包(Samsung Wallet)深度整合的公司,推动移动支付市场重大突破。",
+      "lang": "zh",
+      "source": "科技新報 TechNews",
+      "url": "https://technews.tw/2026/11/01/pxpay-joins-samsung-wallet/",
+      "published": "2026-11-01T06:00:45+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "簡訊癱瘓手機通話，Android 驚現「死亡簡訊」漏洞",
+    "summary": "Android系统发现\"死亡简讯\"漏洞,可导致手机通话中断,影响紧急服务拨号功能。",
+    "lang": "zh",
+    "source": "科技新報 TechNews",
+    "url": "https://infosecu.technews.tw/2026/11/01/a-simple-text-message-could-render-your-phone-unusable/",
+    "published": "2026-11-01T08:09:38+00:00",
+    "event_id": "1abb2077393c",
+    "sources": [
+     {
+      "title": "簡訊癱瘓手機通話，Android 驚現「死亡簡訊」漏洞",
+      "summary": "Android系统发现\"死亡简讯\"漏洞,可导致手机通话中断,影响紧急服务拨号功能。",
+      "lang": "zh",
+      "source": "科技新報 TechNews",
+      "url": "https://infosecu.technews.tw/2026/11/01/a-simple-text-message-could-render-your-phone-unusable/",
+      "published": "2026-11-01T08:09:38+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   }
+  ]
+ }
+}
