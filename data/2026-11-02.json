@@ -1,0 +1,856 @@
+{
+ "date": "2026-11-02",
+ "generated_at": "2026-11-02T13:46:22.153420+00:00",
+ "mode": "full",
+ "cost_usd": 0.046,
+ "selection": {
+  "model": "claude-haiku-5-5",
+  "effort": "high",
+  "passes": 3,
+  "passes_ok": 3,
+  "cost_usd": 0.0171
+ },
+ "events": {
+  "mode": "full",
+  "compared_with": "2026-11-01",
+  "articles": 36,
+  "uncompared_articles": 0,
+  "events": 35,
+  "cost_usd": 0.018
+ },
+ "market": null,
+ "failed_sources": [],
+ "cells": {
+  "economia|asia": [
+   {
+    "title": "China to Expand Stock Support Tools to Stabilize Market",
+    "summary": "China will expand stock support tools and optimize their terms to bolster market stability amid economic pressures.",
+    "lang": "en",
+    "source": "Bloomberg Markets",
+    "url": "https://www.bloomberg.com/news/articles/2026-11-02/china-to-boost-use-of-stock-support-tools-to-stabilize-market",
+    "published": "2026-11-02T13:10:52+00:00",
+    "event_id": "11254015cdd4",
+    "sources": [
+     {
+      "title": "China to Expand Stock Support Tools to Stabilize Market",
+      "summary": "China will expand stock support tools and optimize their terms to bolster market stability amid economic pressures.",
+      "lang": "en",
+      "source": "Bloomberg Markets",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-02/china-to-boost-use-of-stock-support-tools-to-stabilize-market",
+      "published": "2026-11-02T13:10:52+00:00"
+     }
+    ],
+    "status": "updated",
+    "change_summary": "China to Expand Stock Support Tools to Stabilize Market",
+    "previous_date": "2026-11-01",
+    "previous_event_id": "11254015cdd4"
+   },
+   {
+    "title": "China’s soaring chemical exports threaten new trade war front",
+    "summary": "China's chemical exports have nearly doubled in five years, creating new trade friction with foreign competitors.",
+    "lang": "en",
+    "source": "FT Global Economy",
+    "url": "https://www.ft.com/content/2962ad57-cee1-4a63-82ba-17acfc09d812?syn-25a6b1a6=1",
+    "published": "2026-11-02T06:42:16+00:00",
+    "event_id": "b5a429b2724b",
+    "sources": [
+     {
+      "title": "China’s soaring chemical exports threaten new trade war front",
+      "summary": "China's chemical exports have nearly doubled in five years, creating new trade friction with foreign competitors.",
+      "lang": "en",
+      "source": "FT Global Economy",
+      "url": "https://www.ft.com/content/2962ad57-cee1-4a63-82ba-17acfc09d812?syn-25a6b1a6=1",
+      "published": "2026-11-02T06:42:16+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "Taiwan and Japan eye trade deal akin to Taipei-London pact, sources say",
+    "summary": "Taiwan and Japan are exploring a trade agreement similar to the Taipei-London pact to strengthen bilateral ties.",
+    "lang": "en",
+    "source": "Nikkei Asia",
+    "url": "https://asia.nikkei.com/economy/trade/taiwan-and-japan-eye-trade-deal-akin-to-taipei-london-pact-sources-say",
+    "published": null,
+    "event_id": "78c7a7258ea6",
+    "sources": [
+     {
+      "title": "Taiwan and Japan eye trade deal akin to Taipei-London pact, sources say",
+      "summary": "Taiwan and Japan are exploring a trade agreement similar to the Taipei-London pact to strengthen bilateral ties.",
+      "lang": "en",
+      "source": "Nikkei Asia",
+      "url": "https://asia.nikkei.com/economy/trade/taiwan-and-japan-eye-trade-deal-akin-to-taipei-london-pact-sources-say",
+      "published": null
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "Chinese steel industry losses snowball as demand falls and costs rise",
+    "summary": "Chinese steel industry losses are mounting as demand falls and production costs continue to rise.",
+    "lang": "en",
+    "source": "Nikkei Asia",
+    "url": "https://asia.nikkei.com/business/materials/chinese-steel-industry-losses-snowball-as-demand-falls-and-costs-rise",
+    "published": null,
+    "event_id": "408bdc961510",
+    "sources": [
+     {
+      "title": "Chinese steel industry losses snowball as demand falls and costs rise",
+      "summary": "Chinese steel industry losses are mounting as demand falls and production costs continue to rise.",
+      "lang": "en",
+      "source": "Nikkei Asia",
+      "url": "https://asia.nikkei.com/business/materials/chinese-steel-industry-losses-snowball-as-demand-falls-and-costs-rise",
+      "published": null
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "Pakistan Inflation Stays Elevated as Risks Cloud Outlook",
+    "summary": "Pakistan's inflation remained elevated in October despite central bank rate increases, signaling persistent price pressures.",
+    "lang": "en",
+    "source": "Bloomberg Economics",
+    "url": "https://www.bloomberg.com/news/articles/2026-11-02/pakistan-inflation-cools-as-energy-risks-cloud-outlook",
+    "published": "2026-11-02T10:20:58+00:00",
+    "event_id": "8a5cf12e86d8",
+    "sources": [
+     {
+      "title": "Pakistan Inflation Stays Elevated as Risks Cloud Outlook",
+      "summary": "Pakistan's inflation remained elevated in October despite central bank rate increases, signaling persistent price pressures.",
+      "lang": "en",
+      "source": "Bloomberg Economics",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-02/pakistan-inflation-cools-as-energy-risks-cloud-outlook",
+      "published": "2026-11-02T10:20:58+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   }
+  ],
+  "economia|europa": [
+   {
+    "title": "Intesa to Start €33 Billion Monte Paschi Bid Later This Month",
+    "summary": "Intesa Sanpaolo plans to launch its €33 billion takeover bid for Monte Paschi by month's end.",
+    "lang": "en",
+    "source": "Bloomberg Markets",
+    "url": "https://www.bloomberg.com/news/articles/2026-11-02/intesa-plans-to-start-monte-paschi-bid-in-last-week-of-november",
+    "published": "2026-11-02T13:08:59+00:00",
+    "event_id": "559981032f46",
+    "sources": [
+     {
+      "title": "Intesa to Start €33 Billion Monte Paschi Bid Later This Month",
+      "summary": "Intesa Sanpaolo plans to launch its €33 billion takeover bid for Monte Paschi by month's end.",
+      "lang": "en",
+      "source": "Bloomberg Markets",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-02/intesa-plans-to-start-monte-paschi-bid-in-last-week-of-november",
+      "published": "2026-11-02T13:08:59+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "BoE set to raise rates to 4% in fight against inflation",
+    "summary": "The Bank of England is set to raise rates to 4% as it battles persistent inflation pressures.",
+    "lang": "en",
+    "source": "FT Global Economy",
+    "url": "https://www.ft.com/content/30405694-3487-4c41-b720-613bde9d2de1?syn-25a6b1a6=1",
+    "published": "2026-11-02T05:00:17+00:00",
+    "event_id": "c76d67da6ef6",
+    "sources": [
+     {
+      "title": "BoE set to raise rates to 4% in fight against inflation",
+      "summary": "The Bank of England is set to raise rates to 4% as it battles persistent inflation pressures.",
+      "lang": "en",
+      "source": "FT Global Economy",
+      "url": "https://www.ft.com/content/30405694-3487-4c41-b720-613bde9d2de1?syn-25a6b1a6=1",
+      "published": "2026-11-02T05:00:17+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "ECB’s Makhlouf Says France Needs to Fix Public Finances",
+    "summary": "ECB Governor Makhlouf says France must address its economic problems without expecting immediate central bank intervention.",
+    "lang": "en",
+    "source": "Bloomberg Economics",
+    "url": "https://www.bloomberg.com/news/articles/2026-11-02/ecb-s-makhlouf-says-france-needs-to-fix-public-finances",
+    "published": "2026-11-02T12:19:55+00:00",
+    "event_id": "f0273bf516ad",
+    "sources": [
+     {
+      "title": "ECB’s Makhlouf Says France Needs to Fix Public Finances",
+      "summary": "ECB Governor Makhlouf says France must address its economic problems without expecting immediate central bank intervention.",
+      "lang": "en",
+      "source": "Bloomberg Economics",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-02/ecb-s-makhlouf-says-france-needs-to-fix-public-finances",
+      "published": "2026-11-02T12:19:55+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "La UE afronta una negociación de vértigo para cerrar el relevo de Lagarde y el nuevo presupuesto comunitario en diciembre",
+    "summary": "La UE negocia en diciembre el relevo de Lagarde y el presupuesto comunitario para fortalecer la unión ante el ciclo electoral de 2027.",
+    "lang": "es",
+    "source": "El País Economía",
+    "url": "https://elpais.com/economia/2026-11-02/la-ue-afronta-una-negociacion-de-vertigo-para-cerrar-el-relevo-de-lagarde-y-el-nuevo-presupuesto-comunitario-en-diciembre.html",
+    "published": "2026-11-02T04:30:01+00:00",
+    "event_id": "e69d4ad6c9c6",
+    "sources": [
+     {
+      "title": "La UE afronta una negociación de vértigo para cerrar el relevo de Lagarde y el nuevo presupuesto comunitario en diciembre",
+      "summary": "La UE negocia en diciembre el relevo de Lagarde y el presupuesto comunitario para fortalecer la unión ante el ciclo electoral de 2027.",
+      "lang": "es",
+      "source": "El País Economía",
+      "url": "https://elpais.com/economia/2026-11-02/la-ue-afronta-una-negociacion-de-vertigo-para-cerrar-el-relevo-de-lagarde-y-el-nuevo-presupuesto-comunitario-en-diciembre.html",
+      "published": "2026-11-02T04:30:01+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "中國輸歐盟油電車將受限，各車廠忙著找官方喬配額",
+    "summary": "欧盟与中国协议将中国输欧油电混合车数量削减超过一半，车厂正忙着协商配额。",
+    "lang": "zh",
+    "source": "科技新報 TechNews",
+    "url": "https://finance.technews.tw/2026/11/02/china-eu-hybrid-electric-vehicle-exports-restricted-carmakers-negotiate-quotas/",
+    "published": "2026-11-02T10:00:52+00:00",
+    "event_id": "09e454a75222",
+    "sources": [
+     {
+      "title": "中國輸歐盟油電車將受限，各車廠忙著找官方喬配額",
+      "summary": "欧盟与中国协议将中国输欧油电混合车数量削减超过一半，车厂正忙着协商配额。",
+      "lang": "zh",
+      "source": "科技新報 TechNews",
+      "url": "https://finance.technews.tw/2026/11/02/china-eu-hybrid-electric-vehicle-exports-restricted-carmakers-negotiate-quotas/",
+      "published": "2026-11-02T10:00:52+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "La Palma se ha despertado sin luz en toda la isla: un apagón total ha dejado a oscuras 50.500 suministros en plena tormenta",
+    "summary": "La Palma sufrió un apagón total que afectó a 50.500 suministros el lunes durante una tormenta.",
+    "lang": "es",
+    "source": "Xataka",
+    "url": "https://www.xataka.com/energia/palma-se-ha-despertado-luz-toda-isla-apagon-total-ha-dejado-a-oscuras-50-500-suministros-plena-tormenta",
+    "published": "2026-11-02T11:26:28+00:00",
+    "event_id": "7ebdcd3ecd68",
+    "sources": [
+     {
+      "title": "La Palma se ha despertado sin luz en toda la isla: un apagón total ha dejado a oscuras 50.500 suministros en plena tormenta",
+      "summary": "La Palma sufrió un apagón total que afectó a 50.500 suministros el lunes durante una tormenta.",
+      "lang": "es",
+      "source": "Xataka",
+      "url": "https://www.xataka.com/energia/palma-se-ha-despertado-luz-toda-isla-apagon-total-ha-dejado-a-oscuras-50-500-suministros-plena-tormenta",
+      "published": "2026-11-02T11:26:28+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   }
+  ],
+  "tecnologia|america": [
+   {
+    "title": "Marvell to buy data centre component maker Lumentum in $115bn AI bet",
+    "summary": "Marvell is acquiring Lumentum for $115 billion in an all-stock deal to strengthen AI connectivity capabilities.",
+    "lang": "en",
+    "source": "Financial Times",
+    "url": "https://www.ft.com/content/92322fad-f293-48b8-a14b-00506d78eb3b",
+    "published": "2026-11-02T12:38:56+00:00",
+    "event_id": "bb38cad554fc",
+    "sources": [
+     {
+      "title": "Marvell to buy data centre component maker Lumentum in $115bn AI bet",
+      "summary": "Marvell is acquiring Lumentum for $115 billion in an all-stock deal to strengthen AI connectivity capabilities.",
+      "lang": "en",
+      "source": "Financial Times",
+      "url": "https://www.ft.com/content/92322fad-f293-48b8-a14b-00506d78eb3b",
+      "published": "2026-11-02T12:38:56+00:00"
+     },
+     {
+      "title": "真的成了！Marvell 宣布以股票交易方式收購光通訊龍頭 Lumentum",
+      "summary": "Marvell宣布以全股票交易方式收购光通讯龙头Lumentum，双方已达成最终协议。",
+      "lang": "zh",
+      "source": "科技新報 TechNews",
+      "url": "https://technews.tw/2026/11/02/marvell-and-lumentum-to-combine-creating-a-category-leader-in-ai-connectivity/",
+      "published": "2026-11-02T12:33:16+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "駭客竄改第三方監控業者DNS紀錄，竊走Polymarket用戶270萬美元資產",
+    "summary": "Polymarket因第三方监控业者DNS遭篡改，用户270万美元资产被盗，平台将赔偿120万美元损失。",
+    "lang": "zh",
+    "source": "iThome 台灣",
+    "url": "https://www.ithome.com.tw/news/180139",
+    "published": "2026-11-02T04:11:27+00:00",
+    "event_id": "2f74e873a7dc",
+    "sources": [
+     {
+      "title": "駭客竄改第三方監控業者DNS紀錄，竊走Polymarket用戶270萬美元資產",
+      "summary": "Polymarket因第三方监控业者DNS遭篡改，用户270万美元资产被盗，平台将赔偿120万美元损失。",
+      "lang": "zh",
+      "source": "iThome 台灣",
+      "url": "https://www.ithome.com.tw/news/180139",
+      "published": "2026-11-02T04:11:27+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "NASA hopes the commercial space industry can help save Hubble",
+    "summary": "NASA hopes the commercial space industry can assist in preventing the Hubble Space Telescope from gradually falling toward Earth.",
+    "lang": "en",
+    "source": "The Verge",
+    "url": "https://www.theverge.com/science/1024239/nasa-commercial-space-save-hubble",
+    "published": "2026-11-01T21:09:21+00:00",
+    "event_id": "3604bfbf152b",
+    "sources": [
+     {
+      "title": "NASA hopes the commercial space industry can help save Hubble",
+      "summary": "NASA hopes the commercial space industry can assist in preventing the Hubble Space Telescope from gradually falling toward Earth.",
+      "lang": "en",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/science/1024239/nasa-commercial-space-save-hubble",
+      "published": "2026-11-01T21:09:21+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "Hundreds of Mundane AI Apps Are Hiding Sexually Abusive Deepfake Features",
+    "summary": "WIRED discovered approximately 400 apps and websites linked to Chinese developers containing hidden features enabling creation of abusive AI deepfakes.",
+    "lang": "en",
+    "source": "Wired",
+    "url": "https://www.wired.com/story/hundreds-of-mundane-ai-apps-are-hiding-abusive-deepfake-features/",
+    "published": "2026-11-02T10:00:00+00:00",
+    "event_id": "865143ca1ce8",
+    "sources": [
+     {
+      "title": "Hundreds of Mundane AI Apps Are Hiding Sexually Abusive Deepfake Features",
+      "summary": "WIRED discovered approximately 400 apps and websites linked to Chinese developers containing hidden features enabling creation of abusive AI deepfakes.",
+      "lang": "en",
+      "source": "Wired",
+      "url": "https://www.wired.com/story/hundreds-of-mundane-ai-apps-are-hiding-abusive-deepfake-features/",
+      "published": "2026-11-02T10:00:00+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "North Korea linked to massive Binance crypto heist",
+    "summary": "The FBI attributes a $6.3 billion Binance cryptocurrency heist in October to North Korean hackers labeled 'TraderTraitor'.",
+    "lang": "en",
+    "source": "The Verge",
+    "url": "https://www.theverge.com/tech/1024176/north-korea-binance-crypto-heist",
+    "published": "2026-11-01T14:33:11+00:00",
+    "event_id": "7d968577e0ca",
+    "sources": [
+     {
+      "title": "North Korea linked to massive Binance crypto heist",
+      "summary": "The FBI attributes a $6.3 billion Binance cryptocurrency heist in October to North Korean hackers labeled 'TraderTraitor'.",
+      "lang": "en",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/tech/1024176/north-korea-binance-crypto-heist",
+      "published": "2026-11-01T14:33:11+00:00"
+     }
+    ],
+    "status": "unchanged",
+    "change_summary": "",
+    "previous_date": "2026-11-01",
+    "previous_event_id": "7d968577e0ca"
+   }
+  ],
+  "economia|america": [
+   {
+    "title": "Oracle Seeks to Raise $10 Billion in Return to Bond Market",
+    "summary": "Oracle is seeking to raise $10 billion through a bond sale to fund artificial intelligence investments.",
+    "lang": "en",
+    "source": "Bloomberg Markets",
+    "url": "https://www.bloomberg.com/news/articles/2026-11-02/oracle-is-offering-10-billion-of-high-grade-dollar-bonds",
+    "published": "2026-11-02T12:45:05+00:00",
+    "event_id": "ef4b254a8592",
+    "sources": [
+     {
+      "title": "Oracle Seeks to Raise $10 Billion in Return to Bond Market",
+      "summary": "Oracle is seeking to raise $10 billion through a bond sale to fund artificial intelligence investments.",
+      "lang": "en",
+      "source": "Bloomberg Markets",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-02/oracle-is-offering-10-billion-of-high-grade-dollar-bonds",
+      "published": "2026-11-02T12:45:05+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "Global AI sell-off eases after Nasdaq’s worst month in over a year",
+    "summary": "Global AI sell-off eased as US tech stocks recovered, aided by declining oil prices.",
+    "lang": "en",
+    "source": "Financial Times",
+    "url": "https://www.ft.com/content/d7fe99f8-d292-4cb5-a8fd-45be0f8cc2b3?syn-25a6b1a6=1",
+    "published": "2026-11-02T12:17:58+00:00",
+    "event_id": "6fae7d7e43ba",
+    "sources": [
+     {
+      "title": "Global AI sell-off eases after Nasdaq’s worst month in over a year",
+      "summary": "Global AI sell-off eased as US tech stocks recovered, aided by declining oil prices.",
+      "lang": "en",
+      "source": "Financial Times",
+      "url": "https://www.ft.com/content/d7fe99f8-d292-4cb5-a8fd-45be0f8cc2b3?syn-25a6b1a6=1",
+      "published": "2026-11-02T12:17:58+00:00"
+     }
+    ],
+    "status": "updated",
+    "change_summary": "Global AI sell-off eases after Nasdaq's worst month in over a year",
+    "previous_date": "2026-11-01",
+    "previous_event_id": "6fae7d7e43ba"
+   },
+   {
+    "title": "Petrol prices set to hit record high under Trump on eve of US elections",
+    "summary": "Petrol prices are projected to reach record highs during Trump's second term, exceeding Biden-era levels.",
+    "lang": "en",
+    "source": "Financial Times",
+    "url": "https://www.ft.com/content/ee2748fb-9f85-4095-b599-526e5a4a6baa?syn-25a6b1a6=1",
+    "published": "2026-11-02T05:00:26+00:00",
+    "event_id": "c03009e342e8",
+    "sources": [
+     {
+      "title": "Petrol prices set to hit record high under Trump on eve of US elections",
+      "summary": "Petrol prices are projected to reach record highs during Trump's second term, exceeding Biden-era levels.",
+      "lang": "en",
+      "source": "Financial Times",
+      "url": "https://www.ft.com/content/ee2748fb-9f85-4095-b599-526e5a4a6baa?syn-25a6b1a6=1",
+      "published": "2026-11-02T05:00:26+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "Food, Housing Share of Americans’ Expenses Rise to 15-Year High",
+    "summary": "American families' spending on food and housing reached a 15-year high, rising $1,988 more than 2024.",
+    "lang": "en",
+    "source": "Bloomberg Economics",
+    "url": "https://www.bloomberg.com/news/newsletters/2026-11-02/food-housing-share-of-americans-expenses-rise-to-15-year-high",
+    "published": "2026-11-02T12:00:01+00:00",
+    "event_id": "5258225d3d6f",
+    "sources": [
+     {
+      "title": "Food, Housing Share of Americans’ Expenses Rise to 15-Year High",
+      "summary": "American families' spending on food and housing reached a 15-year high, rising $1,988 more than 2024.",
+      "lang": "en",
+      "source": "Bloomberg Economics",
+      "url": "https://www.bloomberg.com/news/newsletters/2026-11-02/food-housing-share-of-americans-expenses-rise-to-15-year-high",
+      "published": "2026-11-02T12:00:01+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   }
+  ],
+  "politica|asia": [
+   {
+    "title": "Iran says US talks could resume ‘within a short period’ if demands are met",
+    "summary": "Iran says talks with the US could resume soon if its seven-step peace plan demands are met, with Qatar facilitating negotiations.",
+    "lang": "en",
+    "source": "Al Jazeera English",
+    "url": "https://www.aljazeera.com/video/newsfeed/2026/11/2/iran-says-us-talks-could-resume-within-a-short-period-if-demands-are-met?traffic_source=rss",
+    "published": "2026-11-02T13:04:42+00:00",
+    "event_id": "555d19980e41",
+    "sources": [
+     {
+      "title": "Iran says US talks could resume ‘within a short period’ if demands are met",
+      "summary": "Iran says talks with the US could resume soon if its seven-step peace plan demands are met, with Qatar facilitating negotiations.",
+      "lang": "en",
+      "source": "Al Jazeera English",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/2/iran-says-us-talks-could-resume-within-a-short-period-if-demands-are-met?traffic_source=rss",
+      "published": "2026-11-02T13:04:42+00:00"
+     }
+    ],
+    "status": "updated",
+    "change_summary": "Iran says US talks could resume 'within a short period' if demands are met",
+    "previous_date": "2026-11-01",
+    "previous_event_id": "555d19980e41"
+   },
+   {
+    "title": "Jordan’s King Abdullah promises to confront ‘terrorists’ after Karak attack",
+    "summary": "Jordan's King Abdullah vowed to confront terrorists after the Karak attack and identified Israeli expansionism as the region's greatest threat.",
+    "lang": "en",
+    "source": "Al Jazeera English",
+    "url": "https://www.aljazeera.com/news/2026/11/2/jordans-king-abdullah-promises-to-confront-terrorists-after-karak-attack?traffic_source=rss",
+    "published": "2026-11-02T12:36:23+00:00",
+    "event_id": "21702d134676",
+    "sources": [
+     {
+      "title": "Jordan’s King Abdullah promises to confront ‘terrorists’ after Karak attack",
+      "summary": "Jordan's King Abdullah vowed to confront terrorists after the Karak attack and identified Israeli expansionism as the region's greatest threat.",
+      "lang": "en",
+      "source": "Al Jazeera English",
+      "url": "https://www.aljazeera.com/news/2026/11/2/jordans-king-abdullah-promises-to-confront-terrorists-after-karak-attack?traffic_source=rss",
+      "published": "2026-11-02T12:36:23+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "China’s fifth plenum: cadre promotion rules overhauled, focusing on problem-solving",
+    "summary": "China's Communist Party overhauled personnel promotion rules to identify cleaner, battle-tested cadres ahead of major leadership changes next year.",
+    "lang": "en",
+    "source": "South China Morning Post (China)",
+    "url": "https://www.scmp.com/news/china/politics/article/3373013/chinas-fifth-plenum-cadre-promotion-rules-overhauled-focusing-problem-solving",
+    "published": "2026-11-02T13:00:08+00:00",
+    "event_id": "d2466a1301ec",
+    "sources": [
+     {
+      "title": "China’s fifth plenum: cadre promotion rules overhauled, focusing on problem-solving",
+      "summary": "China's Communist Party overhauled personnel promotion rules to identify cleaner, battle-tested cadres ahead of major leadership changes next year.",
+      "lang": "en",
+      "source": "South China Morning Post (China)",
+      "url": "https://www.scmp.com/news/china/politics/article/3373013/chinas-fifth-plenum-cadre-promotion-rules-overhauled-focusing-problem-solving",
+      "published": "2026-11-02T13:00:08+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "Tens of thousands protest in India's capital against voter roll revision",
+    "summary": "Tens of thousands protested in New Delhi against voter roll revisions, with opposition leaders claiming 133 million names were purged.",
+    "lang": "en",
+    "source": "Le Monde International",
+    "url": "https://www.lemonde.fr/en/international/article/2026/11/01/tens-of-thousands-protest-in-india-s-capital-against-voter-roll-revision_6769171_4.html",
+    "published": "2026-11-01T22:33:14+00:00",
+    "event_id": "8fa2de342312",
+    "sources": [
+     {
+      "title": "Tens of thousands protest in India's capital against voter roll revision",
+      "summary": "Tens of thousands protested in New Delhi against voter roll revisions, with opposition leaders claiming 133 million names were purged.",
+      "lang": "en",
+      "source": "Le Monde International",
+      "url": "https://www.lemonde.fr/en/international/article/2026/11/01/tens-of-thousands-protest-in-india-s-capital-against-voter-roll-revision_6769171_4.html",
+      "published": "2026-11-01T22:33:14+00:00"
+     }
+    ],
+    "status": "unchanged",
+    "change_summary": "",
+    "previous_date": "2026-11-01",
+    "previous_event_id": "8fa2de342312"
+   }
+  ],
+  "politica|europa": [
+   {
+    "title": "Belgian PM offers to quit over budget impasse, king defers decision",
+    "summary": "Belgian PM Bart De Wever offered to resign over budget impasse; King Philippe deferred his decision pending further coalition talks.",
+    "lang": "en",
+    "source": "Le Monde International",
+    "url": "https://www.lemonde.fr/en/international/article/2026/11/02/belgian-pm-offers-to-quit-over-budget-impasse-but-king-defers-decision_6769440_4.html",
+    "published": "2026-11-02T11:54:04+00:00",
+    "event_id": "3860f93aacea",
+    "sources": [
+     {
+      "title": "Belgian PM offers to quit over budget impasse, king defers decision",
+      "summary": "Belgian PM Bart De Wever offered to resign over budget impasse; King Philippe deferred his decision pending further coalition talks.",
+      "lang": "en",
+      "source": "Le Monde International",
+      "url": "https://www.lemonde.fr/en/international/article/2026/11/02/belgian-pm-offers-to-quit-over-budget-impasse-but-king-defers-decision_6769440_4.html",
+      "published": "2026-11-02T11:54:04+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "Bulgarian president wins runoff vote as Black Sea attacks raise stakes",
+    "summary": "Bulgarian President Iliana Yotova won a runoff election favoring dialogue with Moscow amid rising Black Sea tensions.",
+    "lang": "en",
+    "source": "Le Monde International",
+    "url": "https://www.lemonde.fr/en/international/article/2026/11/02/bulgarian-president-wins-runoff-vote-as-black-sea-attacks-raise-stakes_6769369_4.html",
+    "published": "2026-11-02T08:13:07+00:00",
+    "event_id": "dfee2290dfe6",
+    "sources": [
+     {
+      "title": "Bulgarian president wins runoff vote as Black Sea attacks raise stakes",
+      "summary": "Bulgarian President Iliana Yotova won a runoff election favoring dialogue with Moscow amid rising Black Sea tensions.",
+      "lang": "en",
+      "source": "Le Monde International",
+      "url": "https://www.lemonde.fr/en/international/article/2026/11/02/bulgarian-president-wins-runoff-vote-as-black-sea-attacks-raise-stakes_6769369_4.html",
+      "published": "2026-11-02T08:13:07+00:00"
+     }
+    ],
+    "status": "updated",
+    "change_summary": "Bulgarian president wins runoff vote as Black Sea attacks raise stakes",
+    "previous_date": "2026-11-01",
+    "previous_event_id": "dfee2290dfe6"
+   },
+   {
+    "title": "Russia's giant new radar in Kaliningrad raises alarm in NATO",
+    "summary": "Russia is completing a giant radar complex in Kaliningrad capable of monitoring much of Europe, raising NATO alarm.",
+    "lang": "en",
+    "source": "Deutsche Welle World",
+    "url": "https://www.dw.com/en/russia-s-giant-new-radar-in-kaliningrad-raises-alarm-in-nato/a-79797815?maca=en-rss-en-world-4025-rdf",
+    "published": "2026-11-01T20:34:00+00:00",
+    "event_id": "4fdc7fe2cd88",
+    "sources": [
+     {
+      "title": "Russia's giant new radar in Kaliningrad raises alarm in NATO",
+      "summary": "Russia is completing a giant radar complex in Kaliningrad capable of monitoring much of Europe, raising NATO alarm.",
+      "lang": "en",
+      "source": "Deutsche Welle World",
+      "url": "https://www.dw.com/en/russia-s-giant-new-radar-in-kaliningrad-raises-alarm-in-nato/a-79797815?maca=en-rss-en-world-4025-rdf",
+      "published": "2026-11-01T20:34:00+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   }
+  ],
+  "tecnologia|europa": [
+   {
+    "title": "Fake nuclear warnings issued after Ukrainian and Russian air alert apps hacked",
+    "summary": "Fake nuclear warnings were issued after Ukrainian and Russian air alert apps were hacked on Sunday evening.",
+    "lang": "en",
+    "source": "BBC World",
+    "url": "https://www.bbc.co.uk/news/articles/c51kdy1ew7zvo?at_medium=RSS&at_campaign=rss",
+    "published": "2026-11-02T12:44:48+00:00",
+    "event_id": "5916ec6e788c",
+    "sources": [
+     {
+      "title": "Fake nuclear warnings issued after Ukrainian and Russian air alert apps hacked",
+      "summary": "Fake nuclear warnings were issued after Ukrainian and Russian air alert apps were hacked on Sunday evening.",
+      "lang": "en",
+      "source": "BBC World",
+      "url": "https://www.bbc.co.uk/news/articles/c51kdy1ew7zvo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-02T12:44:48+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "More European supermarkets are getting their freezers hacked",
+    "summary": "European supermarkets experienced cyberattacks causing unauthorized temperature changes in refrigeration systems.",
+    "lang": "en",
+    "source": "The Verge",
+    "url": "https://www.theverge.com/tech/1024300/europe-freezer-fridge-hack-cyberattack",
+    "published": "2026-11-02T13:00:35+00:00",
+    "event_id": "0243151cee9e",
+    "sources": [
+     {
+      "title": "More European supermarkets are getting their freezers hacked",
+      "summary": "European supermarkets experienced cyberattacks causing unauthorized temperature changes in refrigeration systems.",
+      "lang": "en",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/tech/1024300/europe-freezer-fridge-hack-cyberattack",
+      "published": "2026-11-02T13:00:35+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "Un robot de reparto provoca un accidente con nueve heridos en Tallin y sigue su camino: técnicamente, es un conductor a la fuga",
+    "summary": "Un robot de reparto causó un accidente con nueve heridos en Tallin y continuó su marcha, constituyendo técnicamente un conductor a la fuga.",
+    "lang": "es",
+    "source": "Xataka",
+    "url": "https://www.xataka.com/movilidad/robot-reparto-provoca-accidente-nueve-heridos-tallin-sigue-su-camino-tecnicamente-conductor-a-fuga",
+    "published": "2026-11-02T13:31:28+00:00",
+    "event_id": "bf4b01f9f52d",
+    "sources": [
+     {
+      "title": "Un robot de reparto provoca un accidente con nueve heridos en Tallin y sigue su camino: técnicamente, es un conductor a la fuga",
+      "summary": "Un robot de reparto causó un accidente con nueve heridos en Tallin y continuó su marcha, constituyendo técnicamente un conductor a la fuga.",
+      "lang": "es",
+      "source": "Xataka",
+      "url": "https://www.xataka.com/movilidad/robot-reparto-provoca-accidente-nueve-heridos-tallin-sigue-su-camino-tecnicamente-conductor-a-fuga",
+      "published": "2026-11-02T13:31:28+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   }
+  ],
+  "politica|america": [
+   {
+    "title": "US midterms: In Michigan, Abdul El-Sayed's Democratic rival backs Republican Senate candidate in stunning move",
+    "summary": "Michigan Democratic candidate Haley Stevens endorsed Republican Mike Rogers in a stunning break from her party's Senate candidate.",
+    "lang": "en",
+    "source": "Le Monde International",
+    "url": "https://www.lemonde.fr/en/international/article/2026/11/02/us-midterms-in-michigan-abdul-el-sayed-s-democratic-opponent-backs-republican-senate-candidate-in-stunning-move_6769336_4.html",
+    "published": "2026-11-02T07:55:27+00:00",
+    "event_id": "c76bc0874f46",
+    "sources": [
+     {
+      "title": "US midterms: In Michigan, Abdul El-Sayed's Democratic rival backs Republican Senate candidate in stunning move",
+      "summary": "Michigan Democratic candidate Haley Stevens endorsed Republican Mike Rogers in a stunning break from her party's Senate candidate.",
+      "lang": "en",
+      "source": "Le Monde International",
+      "url": "https://www.lemonde.fr/en/international/article/2026/11/02/us-midterms-in-michigan-abdul-el-sayed-s-democratic-opponent-backs-republican-senate-candidate-in-stunning-move_6769336_4.html",
+      "published": "2026-11-02T07:55:27+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "委內瑞拉疑不再坐視哥倫比亞游擊隊活動 傳出手打擊釀19死",
+    "summary": "委内瑞拉军方据传在美国情报支援下打击哥伦比亚游击队营地，造成至少19人死亡，可能代表政策转向。",
+    "lang": "zh",
+    "source": "中央社 CNA",
+    "url": "https://www.cna.com.tw/news/aopl/202611020250.aspx",
+    "published": "2026-11-02T11:05:55+00:00",
+    "event_id": "db0b62e445cd",
+    "sources": [
+     {
+      "title": "委內瑞拉疑不再坐視哥倫比亞游擊隊活動 傳出手打擊釀19死",
+      "summary": "委内瑞拉军方据传在美国情报支援下打击哥伦比亚游击队营地，造成至少19人死亡，可能代表政策转向。",
+      "lang": "zh",
+      "source": "中央社 CNA",
+      "url": "https://www.cna.com.tw/news/aopl/202611020250.aspx",
+      "published": "2026-11-02T11:05:55+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "美國期中選戰最後衝刺 川普與民主黨分別造勢催票",
+    "summary": "美国期中选举前夜，民主党举行最后造势，川普也将发表选前最后演说，外界预期民主党至少控制国会一院。",
+    "lang": "zh",
+    "source": "中央社 CNA",
+    "url": "https://www.cna.com.tw/news/aopl/202611020255.aspx",
+    "published": "2026-11-02T11:12:06+00:00",
+    "event_id": "e93c1d5cb5c8",
+    "sources": [
+     {
+      "title": "美國期中選戰最後衝刺 川普與民主黨分別造勢催票",
+      "summary": "美国期中选举前夜，民主党举行最后造势，川普也将发表选前最后演说，外界预期民主党至少控制国会一院。",
+      "lang": "zh",
+      "source": "中央社 CNA",
+      "url": "https://www.cna.com.tw/news/aopl/202611020255.aspx",
+      "published": "2026-11-02T11:12:06+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   }
+  ],
+  "tecnologia|asia": [
+   {
+    "title": "全球仍有逾萬臺GitLab執行個體暴露於兩個滿分漏洞威脅，臺灣也有46臺",
+    "summary": "全球仍有逾万台GitLab执行个体暴露于两个满分漏洞威胁，台湾也有46台受影响。",
+    "lang": "zh",
+    "source": "iThome 台灣",
+    "url": "https://www.ithome.com.tw/news/180145",
+    "published": "2026-11-02T06:11:59+00:00",
+    "event_id": "3309da34425f",
+    "sources": [
+     {
+      "title": "全球仍有逾萬臺GitLab執行個體暴露於兩個滿分漏洞威脅，臺灣也有46臺",
+      "summary": "全球仍有逾万台GitLab执行个体暴露于两个满分漏洞威胁，台湾也有46台受影响。",
+      "lang": "zh",
+      "source": "iThome 台灣",
+      "url": "https://www.ithome.com.tw/news/180145",
+      "published": "2026-11-02T06:11:59+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "韓國第六代國家超級電腦「漢江」啟用，但預算因 GPU 漲價追加約五成",
+    "summary": "韩国第六代国家超级电脑",
+    "lang": "zh",
+    "source": "科技新報 TechNews",
+    "url": "https://technews.tw/2026/11/02/korea-unveils-276-mil-hangang-supercomputer/",
+    "published": "2026-11-02T10:10:14+00:00",
+    "event_id": "ba1abb8bebe8",
+    "sources": [
+     {
+      "title": "韓國第六代國家超級電腦「漢江」啟用，但預算因 GPU 漲價追加約五成",
+      "summary": "韩国第六代国家超级电脑",
+      "lang": "zh",
+      "source": "科技新報 TechNews",
+      "url": "https://technews.tw/2026/11/02/korea-unveils-276-mil-hangang-supercomputer/",
+      "published": "2026-11-02T10:10:14+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   }
+  ]
+ }
+}
