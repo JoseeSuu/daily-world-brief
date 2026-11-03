@@ -1,0 +1,841 @@
+{
+ "date": "2026-11-03",
+ "generated_at": "2026-11-03T12:58:28.381876+00:00",
+ "mode": "full",
+ "cost_usd": 0.0499,
+ "selection": {
+  "model": "claude-haiku-5-5",
+  "effort": "high",
+  "passes": 3,
+  "passes_ok": 3,
+  "cost_usd": 0.0196
+ },
+ "events": {
+  "mode": "full",
+  "compared_with": "2026-11-02",
+  "articles": 36,
+  "uncompared_articles": 0,
+  "events": 34,
+  "cost_usd": 0.0177
+ },
+ "market": null,
+ "failed_sources": [],
+ "cells": {
+  "politica|europa": [
+   {
+    "title": "Rusia deja a 180.000 personas sin luz en un nuevo ataque contra la infraestructura energética de Ucrania",
+    "summary": "Rusia lanzó casi 300 drones y 59 misiles contra infraestructura energética ucraniana, dejando 180.000 personas sin luz e impactando cuatro centrales eléctricas. El bombardeo causó 29 muertos.",
+    "lang": "es",
+    "source": "El País Internacional",
+    "url": "https://elpais.com/internacional/2026-11-03/rusia-deja-a-180000-personas-sin-luz-en-un-nuevo-ataque-contra-la-infraestructura-energetica-de-ucrania.html",
+    "published": "2026-11-03T09:50:57+00:00",
+    "event_id": "f1d8d63b1f01",
+    "sources": [
+     {
+      "title": "Rusia deja a 180.000 personas sin luz en un nuevo ataque contra la infraestructura energética de Ucrania",
+      "summary": "Rusia lanzó casi 300 drones y 59 misiles contra infraestructura energética ucraniana, dejando 180.000 personas sin luz e impactando cuatro centrales eléctricas. El bombardeo causó 29 muertos.",
+      "lang": "es",
+      "source": "El País Internacional",
+      "url": "https://elpais.com/internacional/2026-11-03/rusia-deja-a-180000-personas-sin-luz-en-un-nuevo-ataque-contra-la-infraestructura-energetica-de-ucrania.html",
+      "published": "2026-11-03T09:50:57+00:00"
+     },
+     {
+      "title": "Russian bombing kills 29 people at Ukraine aid centre, Kyiv says",
+      "summary": "Russian bombing killed 29 people at a Ukrainian aid centre in a southern village. At least nine 3,000kg aerial bombs struck the location.",
+      "lang": "en",
+      "source": "BBC World",
+      "url": "https://www.bbc.co.uk/news/articles/cjy56dndlyz0o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-03T07:24:12+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "Rusia anuncia que negociará con Ucrania, bajo mediación de Estados Unidos, la próxima semana en Abu Dabi",
+    "summary": "Rusia anunció negociaciones con Ucrania bajo mediación estadounidense previstas para el 10 y 11 de noviembre en Abu Dabi. Las conversaciones aún no han sido confirmadas por Kiev.",
+    "lang": "es",
+    "source": "El País Internacional",
+    "url": "https://elpais.com/internacional/2026-11-03/rusia-anuncia-que-negociara-con-ucrania-bajo-mediacion-de-estados-unidos-la-proxima-semana-en-abu-dabi.html",
+    "published": "2026-11-03T12:08:04+00:00",
+    "event_id": "e623860dcf2c",
+    "sources": [
+     {
+      "title": "Rusia anuncia que negociará con Ucrania, bajo mediación de Estados Unidos, la próxima semana en Abu Dabi",
+      "summary": "Rusia anunció negociaciones con Ucrania bajo mediación estadounidense previstas para el 10 y 11 de noviembre en Abu Dabi. Las conversaciones aún no han sido confirmadas por Kiev.",
+      "lang": "es",
+      "source": "El País Internacional",
+      "url": "https://elpais.com/internacional/2026-11-03/rusia-anuncia-que-negociara-con-ucrania-bajo-mediacion-de-estados-unidos-la-proxima-semana-en-abu-dabi.html",
+      "published": "2026-11-03T12:08:04+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "Thousands of European troops to rehearse Ukraine deployment in event of peace",
+    "summary": "Thousands of European troops will rehearse Ukraine deployment in peace scenarios. Western officials confirm forces would not participate in offensive operations.",
+    "lang": "en",
+    "source": "BBC World",
+    "url": "https://www.bbc.co.uk/news/articles/cm3wv085ne6po?at_medium=RSS&at_campaign=rss",
+    "published": "2026-11-03T00:07:05+00:00",
+    "event_id": "9d0eb81c9039",
+    "sources": [
+     {
+      "title": "Thousands of European troops to rehearse Ukraine deployment in event of peace",
+      "summary": "Thousands of European troops will rehearse Ukraine deployment in peace scenarios. Western officials confirm forces would not participate in offensive operations.",
+      "lang": "en",
+      "source": "BBC World",
+      "url": "https://www.bbc.co.uk/news/articles/cm3wv085ne6po?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-03T00:07:05+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "Poland’s Tusk Ends Central Bank Standoff Over Board Nominees",
+    "summary": "Poland's Prime Minister Tusk resolved a central bank standoff by approving management board nominees. The agreement ends months of institutional uncertainty.",
+    "lang": "en",
+    "source": "Bloomberg Economics",
+    "url": "https://www.bloomberg.com/news/articles/2026-11-03/tusk-lifts-block-on-polish-central-bank-board-nominees",
+    "published": "2026-11-03T11:38:53+00:00",
+    "event_id": "3b55d2c43928",
+    "sources": [
+     {
+      "title": "Poland’s Tusk Ends Central Bank Standoff Over Board Nominees",
+      "summary": "Poland's Prime Minister Tusk resolved a central bank standoff by approving management board nominees. The agreement ends months of institutional uncertainty.",
+      "lang": "en",
+      "source": "Bloomberg Economics",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-03/tusk-lifts-block-on-polish-central-bank-board-nominees",
+      "published": "2026-11-03T11:38:53+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "Eurogroup Calls for ECB Presidency Nominations by Nov. 6",
+    "summary": "Euro-area governments must submit nominations for ECB President by November 6. The Eurogroup is selecting successors to Christine Lagarde.",
+    "lang": "en",
+    "source": "Bloomberg Economics",
+    "url": "https://www.bloomberg.com/news/articles/2026-11-03/eurogroup-calls-for-ecb-presidency-nominations-by-nov-6",
+    "published": "2026-11-03T08:10:25+00:00",
+    "event_id": "e69d4ad6c9c6",
+    "sources": [
+     {
+      "title": "Eurogroup Calls for ECB Presidency Nominations by Nov. 6",
+      "summary": "Euro-area governments must submit nominations for ECB President by November 6. The Eurogroup is selecting successors to Christine Lagarde.",
+      "lang": "en",
+      "source": "Bloomberg Economics",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-03/eurogroup-calls-for-ecb-presidency-nominations-by-nov-6",
+      "published": "2026-11-03T08:10:25+00:00"
+     }
+    ],
+    "status": "updated",
+    "change_summary": "Eurogroup Calls for ECB Presidency Nominations by Nov. 6",
+    "previous_date": "2026-11-02",
+    "previous_event_id": "e69d4ad6c9c6"
+   },
+   {
+    "title": "How Iliana Yotova won the presidential election in Bulgaria",
+    "summary": "Iliana Yotova won Bulgaria's presidential election, promising to be a 'president of peace.' The campaign revealed deep divisions over Ukraine war policy.",
+    "lang": "en",
+    "source": "Deutsche Welle World",
+    "url": "https://www.dw.com/en/how-iliana-yotova-won-the-presidential-election-in-bulgaria/a-79829019?maca=en-rss-en-world-4025-rdf",
+    "published": "2026-11-02T12:15:00+00:00",
+    "event_id": "dfee2290dfe6",
+    "sources": [
+     {
+      "title": "How Iliana Yotova won the presidential election in Bulgaria",
+      "summary": "Iliana Yotova won Bulgaria's presidential election, promising to be a 'president of peace.' The campaign revealed deep divisions over Ukraine war policy.",
+      "lang": "en",
+      "source": "Deutsche Welle World",
+      "url": "https://www.dw.com/en/how-iliana-yotova-won-the-presidential-election-in-bulgaria/a-79829019?maca=en-rss-en-world-4025-rdf",
+      "published": "2026-11-02T12:15:00+00:00"
+     }
+    ],
+    "status": "unchanged",
+    "change_summary": "",
+    "previous_date": "2026-11-02",
+    "previous_event_id": "dfee2290dfe6"
+   }
+  ],
+  "economia|asia": [
+   {
+    "title": "Thailand to raise tax on imported EVs to 35% as Chinese brands gain ground",
+    "summary": "Thailand will raise import tax on electric vehicles to 35% as Chinese EV brands gain market share. The measure aims to protect domestic automotive competitiveness.",
+    "lang": "en",
+    "source": "Nikkei Asia",
+    "url": "https://asia.nikkei.com/business/automobiles/electric-vehicles/thailand-to-raise-tax-on-imported-evs-to-35-as-chinese-brands-gain-ground",
+    "published": null,
+    "event_id": "9ff4efd46478",
+    "sources": [
+     {
+      "title": "Thailand to raise tax on imported EVs to 35% as Chinese brands gain ground",
+      "summary": "Thailand will raise import tax on electric vehicles to 35% as Chinese EV brands gain market share. The measure aims to protect domestic automotive competitiveness.",
+      "lang": "en",
+      "source": "Nikkei Asia",
+      "url": "https://asia.nikkei.com/business/automobiles/electric-vehicles/thailand-to-raise-tax-on-imported-evs-to-35-as-chinese-brands-gain-ground",
+      "published": null
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "Emaar Said to Study Buyout of $15 Billion Construction Arm",
+    "summary": "Dubai's Emaar Properties is considering acquiring its listed construction subsidiary in a potential multibillion-dollar deal. The move would consolidate the developer's operations.",
+    "lang": "en",
+    "source": "Bloomberg Markets",
+    "url": "https://www.bloomberg.com/news/articles/2026-11-03/emaar-is-said-to-study-buyout-of-14-billion-construction-arm",
+    "published": "2026-11-03T10:39:51+00:00",
+    "event_id": "d53ec6c05b3c",
+    "sources": [
+     {
+      "title": "Emaar Said to Study Buyout of $15 Billion Construction Arm",
+      "summary": "Dubai's Emaar Properties is considering acquiring its listed construction subsidiary in a potential multibillion-dollar deal. The move would consolidate the developer's operations.",
+      "lang": "en",
+      "source": "Bloomberg Markets",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-03/emaar-is-said-to-study-buyout-of-14-billion-construction-arm",
+      "published": "2026-11-03T10:39:51+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "NSE Profit Rises in First Earnings Since September Listing",
+    "summary": "India's National Stock Exchange reported 23% profit growth in fiscal Q2 following September listing. Higher market volatility and robust trading volumes drove increased activity.",
+    "lang": "en",
+    "source": "Bloomberg Markets",
+    "url": "https://www.bloomberg.com/news/articles/2026-11-03/nse-profit-rises-in-first-earnings-since-september-listing",
+    "published": "2026-11-03T12:25:23+00:00",
+    "event_id": "2852dcd2e381",
+    "sources": [
+     {
+      "title": "NSE Profit Rises in First Earnings Since September Listing",
+      "summary": "India's National Stock Exchange reported 23% profit growth in fiscal Q2 following September listing. Higher market volatility and robust trading volumes drove increased activity.",
+      "lang": "en",
+      "source": "Bloomberg Markets",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-03/nse-profit-rises-in-first-earnings-since-september-listing",
+      "published": "2026-11-03T12:25:23+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   }
+  ],
+  "tecnologia|america": [
+   {
+    "title": "Nvidia orders data centre clients to reduce China exposure",
+    "summary": "Nvidia instructed data centre clients to reduce China exposure, requiring a majority of customers be non-Chinese. The directive reflects geopolitical tensions.",
+    "lang": "en",
+    "source": "FT Global Economy",
+    "url": "https://www.ft.com/content/1902df70-1380-4588-bad5-171352b575f2?syn-25a6b1a6=1",
+    "published": "2026-11-03T05:00:13+00:00",
+    "event_id": "14d1f8edc344",
+    "sources": [
+     {
+      "title": "Nvidia orders data centre clients to reduce China exposure",
+      "summary": "Nvidia instructed data centre clients to reduce China exposure, requiring a majority of customers be non-Chinese. The directive reflects geopolitical tensions.",
+      "lang": "en",
+      "source": "FT Global Economy",
+      "url": "https://www.ft.com/content/1902df70-1380-4588-bad5-171352b575f2?syn-25a6b1a6=1",
+      "published": "2026-11-03T05:00:13+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "AI應用開發平臺Langflow修補2項重大漏洞，攻擊者可繞過身分驗證或遠端執行程式碼",
+    "summary": "IBM披露开源AI平台Langflow存在两项CVSS评分9.8分的重大漏洞，攻击者可绕过身份验证执行任意代码。官方已发布1.13.0版本补丁。",
+    "lang": "zh",
+    "source": "iThome 台灣",
+    "url": "https://www.ithome.com.tw/news/180183",
+    "published": "2026-11-03T05:11:00+00:00",
+    "event_id": "b4860537c65e",
+    "sources": [
+     {
+      "title": "AI應用開發平臺Langflow修補2項重大漏洞，攻擊者可繞過身分驗證或遠端執行程式碼",
+      "summary": "IBM披露开源AI平台Langflow存在两项CVSS评分9.8分的重大漏洞，攻击者可绕过身份验证执行任意代码。官方已发布1.13.0版本补丁。",
+      "lang": "zh",
+      "source": "iThome 台灣",
+      "url": "https://www.ithome.com.tw/news/180183",
+      "published": "2026-11-03T05:11:00+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "NASA’s Swift Observatory Is Falling to Earth. Here’s What to Know About the Impending Impact",
+    "summary": "NASA's Swift Observatory satellite is falling to Earth this week with reentry zones across Africa, Australia, Southeast Asia, and South America. The 3,200-pound spacecraft poses minimal risk.",
+    "lang": "en",
+    "source": "Wired",
+    "url": "https://www.wired.com/story/nasas-swift-observatory-is-falling-to-earth-heres-what-to-know-about-the-impending-impact/",
+    "published": "2026-11-03T10:45:00+00:00",
+    "event_id": "3604bfbf152b",
+    "sources": [
+     {
+      "title": "NASA’s Swift Observatory Is Falling to Earth. Here’s What to Know About the Impending Impact",
+      "summary": "NASA's Swift Observatory satellite is falling to Earth this week with reentry zones across Africa, Australia, Southeast Asia, and South America. The 3,200-pound spacecraft poses minimal risk.",
+      "lang": "en",
+      "source": "Wired",
+      "url": "https://www.wired.com/story/nasas-swift-observatory-is-falling-to-earth-heres-what-to-know-about-the-impending-impact/",
+      "published": "2026-11-03T10:45:00+00:00"
+     }
+    ],
+    "status": "updated",
+    "change_summary": "NASA's Swift Observatory Is Falling to Earth. Here's What to Know About the Impending Impact",
+    "previous_date": "2026-11-02",
+    "previous_event_id": "3604bfbf152b"
+   },
+   {
+    "title": "One of Google’s Android partners turned 1.3 million set-top boxes into a botnet",
+    "summary": "Google says an Android manufacturing partner secretly built a backdoor in 1.3 million set-top boxes and created a botnet. The company has dismantled the network.",
+    "lang": "en",
+    "source": "The Verge",
+    "url": "https://www.theverge.com/1024807/google-botnet-android-tv-shut-down",
+    "published": "2026-11-02T20:37:49+00:00",
+    "event_id": "6e1e33600ad3",
+    "sources": [
+     {
+      "title": "One of Google’s Android partners turned 1.3 million set-top boxes into a botnet",
+      "summary": "Google says an Android manufacturing partner secretly built a backdoor in 1.3 million set-top boxes and created a botnet. The company has dismantled the network.",
+      "lang": "en",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/1024807/google-botnet-android-tv-shut-down",
+      "published": "2026-11-02T20:37:49+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   }
+  ],
+  "economia|america": [
+   {
+    "title": "Foodtastic Offers $720 Million for Canada’s MTY Food",
+    "summary": "Restaurant operator Foodtastic offered C$1 billion to acquire Canadian franchisor MTY Food Group. The acquisition would expand Foodtastic's restaurant portfolio.",
+    "lang": "en",
+    "source": "Bloomberg Markets",
+    "url": "https://www.bloomberg.com/news/articles/2026-11-03/foodtastic-offers-750-million-for-restaurant-franchisor-mty",
+    "published": "2026-11-03T12:31:35+00:00",
+    "event_id": "30a7eb2b4371",
+    "sources": [
+     {
+      "title": "Foodtastic Offers $720 Million for Canada’s MTY Food",
+      "summary": "Restaurant operator Foodtastic offered C$1 billion to acquire Canadian franchisor MTY Food Group. The acquisition would expand Foodtastic's restaurant portfolio.",
+      "lang": "en",
+      "source": "Bloomberg Markets",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-03/foodtastic-offers-750-million-for-restaurant-franchisor-mty",
+      "published": "2026-11-03T12:31:35+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "NextEra Agrees to More Safeguards for $67 Billion Dominion Deal",
+    "summary": "NextEra Energy offered additional customer and financial protections to Virginia for its $67 billion Dominion Energy acquisition. The utility seeks state approval.",
+    "lang": "en",
+    "source": "Bloomberg Markets",
+    "url": "https://www.bloomberg.com/news/articles/2026-11-03/nextera-agrees-to-more-safeguards-for-67-billion-dominion-deal",
+    "published": "2026-11-03T12:24:22+00:00",
+    "event_id": "f84f99daac41",
+    "sources": [
+     {
+      "title": "NextEra Agrees to More Safeguards for $67 Billion Dominion Deal",
+      "summary": "NextEra Energy offered additional customer and financial protections to Virginia for its $67 billion Dominion Energy acquisition. The utility seeks state approval.",
+      "lang": "en",
+      "source": "Bloomberg Markets",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-03/nextera-agrees-to-more-safeguards-for-67-billion-dominion-deal",
+      "published": "2026-11-03T12:24:22+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "US to drop South Africa, Rwanda from duty-free trade initiative",
+    "summary": "The Trump administration removed South Africa and Rwanda from the AGOA duty-free trade initiative. Both nations allegedly violated program rules.",
+    "lang": "en",
+    "source": "Deutsche Welle World",
+    "url": "https://www.dw.com/en/us-to-drop-south-africa-rwanda-from-duty-free-trade-initiative/a-79834508?maca=en-rss-en-world-4025-rdf",
+    "published": "2026-11-02T21:40:00+00:00",
+    "event_id": "c359980aaa88",
+    "sources": [
+     {
+      "title": "US to drop South Africa, Rwanda from duty-free trade initiative",
+      "summary": "The Trump administration removed South Africa and Rwanda from the AGOA duty-free trade initiative. Both nations allegedly violated program rules.",
+      "lang": "en",
+      "source": "Deutsche Welle World",
+      "url": "https://www.dw.com/en/us-to-drop-south-africa-rwanda-from-duty-free-trade-initiative/a-79834508?maca=en-rss-en-world-4025-rdf",
+      "published": "2026-11-02T21:40:00+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "美國中期選舉：競選開支120億美元打破紀錄，馬斯克已花5億",
+    "summary": "美国中期选举竞选开支达120亿美元创纪录，马斯克投入5亿美元。加密货币公司通过超级政治行动委员会捐资6300万美元。",
+    "lang": "zh",
+    "source": "BBC中文",
+    "url": "https://www.bbc.com/zhongwen/articles/cw99z83yxg4jo/trad?at_medium=RSS&at_campaign=rss",
+    "published": "2026-11-03T04:59:47+00:00",
+    "event_id": "3aedc0a58aac",
+    "sources": [
+     {
+      "title": "美國中期選舉：競選開支120億美元打破紀錄，馬斯克已花5億",
+      "summary": "美国中期选举竞选开支达120亿美元创纪录，马斯克投入5亿美元。加密货币公司通过超级政治行动委员会捐资6300万美元。",
+      "lang": "zh",
+      "source": "BBC中文",
+      "url": "https://www.bbc.com/zhongwen/articles/cw99z83yxg4jo/trad?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-03T04:59:47+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   }
+  ],
+  "politica|america": [
+   {
+    "title": "Americans begin voting in elections to decide control of Congress",
+    "summary": "Americans are voting in midterm elections determining control of Congress. The elections will shape the nation's political direction.",
+    "lang": "en",
+    "source": "Financial Times",
+    "url": "https://www.ft.com/content/77c2eaca-4fe1-4c69-b3bd-c517b045ff37?syn-25a6b1a6=1",
+    "published": "2026-11-03T10:52:57+00:00",
+    "event_id": "e93c1d5cb5c8",
+    "sources": [
+     {
+      "title": "Americans begin voting in elections to decide control of Congress",
+      "summary": "Americans are voting in midterm elections determining control of Congress. The elections will shape the nation's political direction.",
+      "lang": "en",
+      "source": "Financial Times",
+      "url": "https://www.ft.com/content/77c2eaca-4fe1-4c69-b3bd-c517b045ff37?syn-25a6b1a6=1",
+      "published": "2026-11-03T10:52:57+00:00"
+     },
+     {
+      "title": "Polls open in closely contested US midterm elections 2026",
+      "summary": "US midterm election polls are open in a closely contested race. Democrats seek historic congressional gains.",
+      "lang": "en",
+      "source": "Al Jazeera English",
+      "url": "https://www.aljazeera.com/news/2026/11/3/polls-open-in-closely-contested-us-midterm-elections-2026?traffic_source=rss",
+      "published": "2026-11-03T11:27:14+00:00"
+     }
+    ],
+    "status": "updated",
+    "change_summary": "Americans begin voting in elections to decide control of Congress",
+    "previous_date": "2026-11-02",
+    "previous_event_id": "e93c1d5cb5c8"
+   },
+   {
+    "title": "Supreme Court rejects Trump bid to block 20,000 California ballots",
+    "summary": "The Supreme Court rejected Trump's bid to block 20,000 California ballots allegedly containing non-US citizens. The administration had appealed the decision.",
+    "lang": "en",
+    "source": "Deutsche Welle World",
+    "url": "https://www.dw.com/en/supreme-court-rejects-trump-bid-to-block-20-000-california-ballots/a-79833739?maca=en-rss-en-world-4025-rdf",
+    "published": "2026-11-02T23:18:00+00:00",
+    "event_id": "5ee4f7aa0545",
+    "sources": [
+     {
+      "title": "Supreme Court rejects Trump bid to block 20,000 California ballots",
+      "summary": "The Supreme Court rejected Trump's bid to block 20,000 California ballots allegedly containing non-US citizens. The administration had appealed the decision.",
+      "lang": "en",
+      "source": "Deutsche Welle World",
+      "url": "https://www.dw.com/en/supreme-court-rejects-trump-bid-to-block-20-000-california-ballots/a-79833739?maca=en-rss-en-world-4025-rdf",
+      "published": "2026-11-02T23:18:00+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "US urges Venezuela to release remaining political prisoners",
+    "summary": "The US urged Venezuela to release remaining political prisoners and work toward free elections. Diplomatic pressure continues on the Maduro government.",
+    "lang": "en",
+    "source": "BBC World",
+    "url": "https://www.bbc.co.uk/news/articles/cxg5jln586pno?at_medium=RSS&at_campaign=rss",
+    "published": "2026-11-03T12:09:20+00:00",
+    "event_id": "2f73c07c3713",
+    "sources": [
+     {
+      "title": "US urges Venezuela to release remaining political prisoners",
+      "summary": "The US urged Venezuela to release remaining political prisoners and work toward free elections. Diplomatic pressure continues on the Maduro government.",
+      "lang": "en",
+      "source": "BBC World",
+      "url": "https://www.bbc.co.uk/news/articles/cxg5jln586pno?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-03T12:09:20+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "Here’s who is falling in line for Trump’s “Super Intelligence” loyalty test",
+    "summary": "Figures are joining Trump's 'Super Intelligence' loyalty test for AI positions. The initiative shapes administration AI policy direction.",
+    "lang": "en",
+    "source": "MIT Technology Review",
+    "url": "https://www.technologyreview.com/2026/11/02/1147932/heres-who-is-falling-in-line-for-trumps-super-intelligence-loyalty-test/",
+    "published": "2026-11-03T04:18:47+00:00",
+    "event_id": "bdefad5dcd98",
+    "sources": [
+     {
+      "title": "Here’s who is falling in line for Trump’s “Super Intelligence” loyalty test",
+      "summary": "Figures are joining Trump's 'Super Intelligence' loyalty test for AI positions. The initiative shapes administration AI policy direction.",
+      "lang": "en",
+      "source": "MIT Technology Review",
+      "url": "https://www.technologyreview.com/2026/11/02/1147932/heres-who-is-falling-in-line-for-trumps-super-intelligence-loyalty-test/",
+      "published": "2026-11-03T04:18:47+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   }
+  ],
+  "economia|europa": [
+   {
+    "title": "German car parts giant Schaeffler axes 3,500 jobs",
+    "summary": "German automotive supplier Schaeffler will cut 3,500 jobs and close four domestic sites. The layoffs reflect deepening crisis in Germany's automotive sector.",
+    "lang": "en",
+    "source": "FT Global Economy",
+    "url": "https://www.ft.com/content/25ce0d50-e7b6-4b14-93bb-ee5da6f747c0?syn-25a6b1a6=1",
+    "published": "2026-11-03T09:37:42+00:00",
+    "event_id": "2a9226f834ff",
+    "sources": [
+     {
+      "title": "German car parts giant Schaeffler axes 3,500 jobs",
+      "summary": "German automotive supplier Schaeffler will cut 3,500 jobs and close four domestic sites. The layoffs reflect deepening crisis in Germany's automotive sector.",
+      "lang": "en",
+      "source": "FT Global Economy",
+      "url": "https://www.ft.com/content/25ce0d50-e7b6-4b14-93bb-ee5da6f747c0?syn-25a6b1a6=1",
+      "published": "2026-11-03T09:37:42+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "Sweden Is Set for First Rate Increase Since 2023: Decision Guide",
+    "summary": "Sweden's Riksbank is set to raise interest rates this week, joining global tightening efforts. The increase aims to combat inflation.",
+    "lang": "en",
+    "source": "Bloomberg Economics",
+    "url": "https://www.bloomberg.com/news/articles/2026-11-03/sweden-is-set-for-first-rate-increase-since-2023-decision-guide",
+    "published": "2026-11-03T11:00:00+00:00",
+    "event_id": "37f5f4f0473d",
+    "sources": [
+     {
+      "title": "Sweden Is Set for First Rate Increase Since 2023: Decision Guide",
+      "summary": "Sweden's Riksbank is set to raise interest rates this week, joining global tightening efforts. The increase aims to combat inflation.",
+      "lang": "en",
+      "source": "Bloomberg Economics",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-03/sweden-is-set-for-first-rate-increase-since-2023-decision-guide",
+      "published": "2026-11-03T11:00:00+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "Italy’s ‘exit tax’ plan spooks rich expats",
+    "summary": "Italy's government proposed an 'exit tax' on high-net-worth individuals leaving the country. The levy is part of the 2027 budget plan.",
+    "lang": "en",
+    "source": "Financial Times",
+    "url": "https://www.ft.com/content/394938d3-f635-4af7-89f2-8a3c28ecf4ae?syn-25a6b1a6=1",
+    "published": "2026-11-03T05:00:13+00:00",
+    "event_id": "91ae51137323",
+    "sources": [
+     {
+      "title": "Italy’s ‘exit tax’ plan spooks rich expats",
+      "summary": "Italy's government proposed an 'exit tax' on high-net-worth individuals leaving the country. The levy is part of the 2027 budget plan.",
+      "lang": "en",
+      "source": "Financial Times",
+      "url": "https://www.ft.com/content/394938d3-f635-4af7-89f2-8a3c28ecf4ae?syn-25a6b1a6=1",
+      "published": "2026-11-03T05:00:13+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   }
+  ],
+  "politica|asia": [
+   {
+    "title": "US strikes Iranian island ahead of midterm elections",
+    "summary": "The US conducted limited defensive strikes on Iran's Qeshm Island. The attacks occurred before midterm elections.",
+    "lang": "en",
+    "source": "BBC World",
+    "url": "https://www.bbc.co.uk/news/articles/cx240mrm3g8vo?at_medium=RSS&at_campaign=rss",
+    "published": "2026-11-03T11:33:33+00:00",
+    "event_id": "7062a3beba16",
+    "sources": [
+     {
+      "title": "US strikes Iranian island ahead of midterm elections",
+      "summary": "The US conducted limited defensive strikes on Iran's Qeshm Island. The attacks occurred before midterm elections.",
+      "lang": "en",
+      "source": "BBC World",
+      "url": "https://www.bbc.co.uk/news/articles/cx240mrm3g8vo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-03T11:33:33+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "建交后阿曼苏丹首次访华 习近平：中东不应成为大国博弈角斗场",
+    "summary": "阿曼苏丹对华进行建交以来首次访问，习近平强调中东不应成为大国博弈场所。两国发表深化战略伙伴关系联合声明。",
+    "lang": "zh",
+    "source": "德國之聲中文",
+    "url": "https://www.dw.com/zh/建交后阿曼苏丹首次访华-习近平：中东不应成为大国博弈角斗场/a-79828975?maca=chi-rss-chi-all-1127-rdf",
+    "published": "2026-11-02T11:17:00+00:00",
+    "event_id": "7250817b2516",
+    "sources": [
+     {
+      "title": "建交后阿曼苏丹首次访华 习近平：中东不应成为大国博弈角斗场",
+      "summary": "阿曼苏丹对华进行建交以来首次访问，习近平强调中东不应成为大国博弈场所。两国发表深化战略伙伴关系联合声明。",
+      "lang": "zh",
+      "source": "德國之聲中文",
+      "url": "https://www.dw.com/zh/建交后阿曼苏丹首次访华-习近平：中东不应成为大国博弈角斗场/a-79828975?maca=chi-rss-chi-all-1127-rdf",
+      "published": "2026-11-02T11:17:00+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "Israeli opposition bloc gathers to see how to oust Netanyahu",
+    "summary": "Israeli opposition party leaders gathered in Herzliya to discuss ousting Netanyahu. The meeting followed an inconclusive election result.",
+    "lang": "en",
+    "source": "Channel NewsAsia",
+    "url": "https://www.channelnewsasia.com/world/israel-opposition-bloc-gather-oust-netanyahu-6516731",
+    "published": "2026-11-03T11:56:02+00:00",
+    "event_id": "8a05ade21cb2",
+    "sources": [
+     {
+      "title": "Israeli opposition bloc gathers to see how to oust Netanyahu",
+      "summary": "Israeli opposition party leaders gathered in Herzliya to discuss ousting Netanyahu. The meeting followed an inconclusive election result.",
+      "lang": "en",
+      "source": "Channel NewsAsia",
+      "url": "https://www.channelnewsasia.com/world/israel-opposition-bloc-gather-oust-netanyahu-6516731",
+      "published": "2026-11-03T11:56:02+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "South Korea revokes Unification Church leader’s bail after secret visits exposed",
+    "summary": "A South Korean court revoked Unification Church leader's bail after secret headquarters visits were exposed. The case involves bribery allegations.",
+    "lang": "en",
+    "source": "South China Morning Post (Asia)",
+    "url": "https://www.scmp.com/news/asia/east-asia/article/3373163/south-korea-revokes-unification-church-leaders-bail-after-secret-visits-exposed",
+    "published": "2026-11-03T12:24:44+00:00",
+    "event_id": "ebdd9e53510b",
+    "sources": [
+     {
+      "title": "South Korea revokes Unification Church leader’s bail after secret visits exposed",
+      "summary": "A South Korean court revoked Unification Church leader's bail after secret headquarters visits were exposed. The case involves bribery allegations.",
+      "lang": "en",
+      "source": "South China Morning Post (Asia)",
+      "url": "https://www.scmp.com/news/asia/east-asia/article/3373163/south-korea-revokes-unification-church-leaders-bail-after-secret-visits-exposed",
+      "published": "2026-11-03T12:24:44+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "Two police officers protecting polio workers in Pakistan shot dead",
+    "summary": "Two police officers protecting polio workers in Pakistan were shot dead by motorcycle-riding attackers in Khyber Pakhtunkhwa province. The attack undermines vaccination efforts.",
+    "lang": "en",
+    "source": "Al Jazeera English",
+    "url": "https://www.aljazeera.com/news/2026/11/3/two-police-officers-protecting-polio-workers-in-pakistan-shot-dead?traffic_source=rss",
+    "published": "2026-11-03T12:33:03+00:00",
+    "event_id": "0e05a4cd03db",
+    "sources": [
+     {
+      "title": "Two police officers protecting polio workers in Pakistan shot dead",
+      "summary": "Two police officers protecting polio workers in Pakistan were shot dead by motorcycle-riding attackers in Khyber Pakhtunkhwa province. The attack undermines vaccination efforts.",
+      "lang": "en",
+      "source": "Al Jazeera English",
+      "url": "https://www.aljazeera.com/news/2026/11/3/two-police-officers-protecting-polio-workers-in-pakistan-shot-dead?traffic_source=rss",
+      "published": "2026-11-03T12:33:03+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   }
+  ],
+  "tecnologia|asia": [
+   {
+    "title": "China publicly discloses plan for a lunar landing within three years",
+    "summary": "China publicly announced plans for a lunar landing within three years. The mission does not include crewed operations like Apollo or Artemis.",
+    "lang": "en",
+    "source": "Ars Technica",
+    "url": "https://arstechnica.com/space/2026/11/china-releases-timeline-for-lunar-landing-on-the-moon-targeting-before-2030/",
+    "published": "2026-11-02T17:09:13+00:00",
+    "event_id": "ed27b2587dba",
+    "sources": [
+     {
+      "title": "China publicly discloses plan for a lunar landing within three years",
+      "summary": "China publicly announced plans for a lunar landing within three years. The mission does not include crewed operations like Apollo or Artemis.",
+      "lang": "en",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/space/2026/11/china-releases-timeline-for-lunar-landing-on-the-moon-targeting-before-2030/",
+      "published": "2026-11-02T17:09:13+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "APT駭客利用惡意軟體框架NetamLoader攻擊亞洲政府機關",
+    "summary": "APT黑客利用NetamLoader恶意软件框架攻击亚洲政府机关，专门针对定制Windows 10系统。这类有针对性的政府网络间谍活动较为罕见。",
+    "lang": "zh",
+    "source": "iThome 台灣",
+    "url": "https://www.ithome.com.tw/news/180179",
+    "published": "2026-11-03T03:11:17+00:00",
+    "event_id": "7911582d279c",
+    "sources": [
+     {
+      "title": "APT駭客利用惡意軟體框架NetamLoader攻擊亞洲政府機關",
+      "summary": "APT黑客利用NetamLoader恶意软件框架攻击亚洲政府机关，专门针对定制Windows 10系统。这类有针对性的政府网络间谍活动较为罕见。",
+      "lang": "zh",
+      "source": "iThome 台灣",
+      "url": "https://www.ithome.com.tw/news/180179",
+      "published": "2026-11-03T03:11:17+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   }
+  ],
+  "tecnologia|europa": [
+   {
+    "title": "Ukraine’s new pocket-sized gadget turns Russian drones’ cameras against them",
+    "summary": "A Kyiv startup created a pocket-sized receiver that intercepts video feeds from Russian drones. Ukrainian troops use the 10-ounce device to surveil enemy operations.",
+    "lang": "en",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/11/02/ukraines-new-pocket-sized-gadget-turns-russian-drones-cameras-against-them/",
+    "published": "2026-11-03T01:12:55+00:00",
+    "event_id": "501c5301a568",
+    "sources": [
+     {
+      "title": "Ukraine’s new pocket-sized gadget turns Russian drones’ cameras against them",
+      "summary": "A Kyiv startup created a pocket-sized receiver that intercepts video feeds from Russian drones. Ukrainian troops use the 10-ounce device to surveil enemy operations.",
+      "lang": "en",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/11/02/ukraines-new-pocket-sized-gadget-turns-russian-drones-cameras-against-them/",
+      "published": "2026-11-03T01:12:55+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "俄軍改裝隱蔽干擾器，試圖封鎖 Starlink 衛星通訊範圍",
+    "summary": "俄军部署改装隐蔽干扰器对抗Starlink卫星通讯，乌克兰无人机专家称俄罗斯在扩大电子战系统部署范围。",
+    "lang": "zh",
+    "source": "科技新報 TechNews",
+    "url": "https://technews.tw/2026/11/03/%ef%b8%8fukrainian-defense-adviser-russia-is-shrinking-and-spreading-out-its-starlink-jammer/",
+    "published": "2026-11-03T09:30:10+00:00",
+    "event_id": "db375a46921a",
+    "sources": [
+     {
+      "title": "俄軍改裝隱蔽干擾器，試圖封鎖 Starlink 衛星通訊範圍",
+      "summary": "俄军部署改装隐蔽干扰器对抗Starlink卫星通讯，乌克兰无人机专家称俄罗斯在扩大电子战系统部署范围。",
+      "lang": "zh",
+      "source": "科技新報 TechNews",
+      "url": "https://technews.tw/2026/11/03/%ef%b8%8fukrainian-defense-adviser-russia-is-shrinking-and-spreading-out-its-starlink-jammer/",
+      "published": "2026-11-03T09:30:10+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "BMW is taking on Tesla’s FSD with urban driver assist starting in 2027",
+    "summary": "BMW will launch urban driver assistance capabilities starting 2027, initially in Germany. The system expands navigation-guided partial automation to city environments.",
+    "lang": "en",
+    "source": "The Verge",
+    "url": "https://www.theverge.com/transportation/1024616/bmw-level-2-city-driver-assist-2027",
+    "published": "2026-11-02T20:03:52+00:00",
+    "event_id": "3d15f21ee05a",
+    "sources": [
+     {
+      "title": "BMW is taking on Tesla’s FSD with urban driver assist starting in 2027",
+      "summary": "BMW will launch urban driver assistance capabilities starting 2027, initially in Germany. The system expands navigation-guided partial automation to city environments.",
+      "lang": "en",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/transportation/1024616/bmw-level-2-city-driver-assist-2027",
+      "published": "2026-11-02T20:03:52+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   }
+  ]
+ }
+}
