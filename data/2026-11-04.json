@@ -1,0 +1,833 @@
+{
+ "date": "2026-11-04",
+ "generated_at": "2026-11-04T13:13:09.892603+00:00",
+ "mode": "full",
+ "cost_usd": 0.049,
+ "selection": {
+  "model": "claude-haiku-5-5",
+  "effort": "high",
+  "passes": 3,
+  "passes_ok": 3,
+  "cost_usd": 0.0187
+ },
+ "events": {
+  "mode": "full",
+  "compared_with": "2026-11-03",
+  "articles": 35,
+  "uncompared_articles": 0,
+  "events": 34,
+  "cost_usd": 0.0184
+ },
+ "market": null,
+ "failed_sources": [],
+ "cells": {
+  "economia|asia": [
+   {
+    "title": "Qatar set to become world’s biggest buyer of US LNG",
+    "summary": "Qatar will become the world's largest buyer of US liquefied natural gas by 2033, controlling the biggest share of US output as demand shifts from production to consumption.",
+    "lang": "en",
+    "source": "FT Global Economy",
+    "url": "https://www.ft.com/content/88e46724-0bd4-451a-b02b-f5709c9771b7?syn-25a6b1a6=1",
+    "published": "2026-11-04T05:00:09+00:00",
+    "event_id": "51e40997ccd0",
+    "sources": [
+     {
+      "title": "Qatar set to become world’s biggest buyer of US LNG",
+      "summary": "Qatar will become the world's largest buyer of US liquefied natural gas by 2033, controlling the biggest share of US output as demand shifts from production to consumption.",
+      "lang": "en",
+      "source": "FT Global Economy",
+      "url": "https://www.ft.com/content/88e46724-0bd4-451a-b02b-f5709c9771b7?syn-25a6b1a6=1",
+      "published": "2026-11-04T05:00:09+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "ASEAN auto sales rose 13% in Q3 on EV and hybrid demand in key markets",
+    "summary": "ASEAN automotive sales increased 13% in Q3, driven by growing demand for electric vehicles and hybrids across key regional markets.",
+    "lang": "en",
+    "source": "Nikkei Asia",
+    "url": "https://asia.nikkei.com/business/automobiles/asean-auto-sales-rose-13-in-q3-on-ev-and-hybrid-demand-in-key-markets",
+    "published": null,
+    "event_id": "9629feff4d51",
+    "sources": [
+     {
+      "title": "ASEAN auto sales rose 13% in Q3 on EV and hybrid demand in key markets",
+      "summary": "ASEAN automotive sales increased 13% in Q3, driven by growing demand for electric vehicles and hybrids across key regional markets.",
+      "lang": "en",
+      "source": "Nikkei Asia",
+      "url": "https://asia.nikkei.com/business/automobiles/asean-auto-sales-rose-13-in-q3-on-ev-and-hybrid-demand-in-key-markets",
+      "published": null
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "油价周二延续跌势",
+    "summary": "布伦特原油周二继续下跌1.8%至102.84美元，延续周一近8%的跌幅，原因是美伊外交努力取得进展。",
+    "lang": "zh",
+    "source": "FT中文网",
+    "url": "https://www.ftchinese.com/story/001111278",
+    "published": "2026-11-03T16:00:00+00:00",
+    "event_id": "2f4efee56942",
+    "sources": [
+     {
+      "title": "油价周二延续跌势",
+      "summary": "布伦特原油周二继续下跌1.8%至102.84美元，延续周一近8%的跌幅，原因是美伊外交努力取得进展。",
+      "lang": "zh",
+      "source": "FT中文网",
+      "url": "https://www.ftchinese.com/story/001111278",
+      "published": "2026-11-03T16:00:00+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   }
+  ],
+  "economia|europa": [
+   {
+    "title": "京东22亿欧元收购德国Ceconomy交易获批",
+    "summary": "欧盟批准京东以22亿欧元收购德国Ceconomy的交易。这是首笔受欧盟《外国补贴条例》评估的中资收购欧洲公司交易。",
+    "lang": "zh",
+    "source": "FT中文网",
+    "url": "https://www.ftchinese.com/story/001111277",
+    "published": "2026-11-03T16:00:00+00:00",
+    "event_id": "9ccecd0a7670",
+    "sources": [
+     {
+      "title": "京东22亿欧元收购德国Ceconomy交易获批",
+      "summary": "欧盟批准京东以22亿欧元收购德国Ceconomy的交易。这是首笔受欧盟《外国补贴条例》评估的中资收购欧洲公司交易。",
+      "lang": "zh",
+      "source": "FT中文网",
+      "url": "https://www.ftchinese.com/story/001111277",
+      "published": "2026-11-03T16:00:00+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "Eurozone inflation rises to 4% in October",
+    "summary": "Eurozone inflation accelerated to 4% in October, marking the fastest pace in three years amid rising consumer prices.",
+    "lang": "en",
+    "source": "FT Global Economy",
+    "url": "https://www.ft.com/content/23cedd6f-e550-4869-aee1-e0ec10ae7e51?syn-25a6b1a6=1",
+    "published": "2026-11-04T10:25:26+00:00",
+    "event_id": "f5aabe0b1ead",
+    "sources": [
+     {
+      "title": "Eurozone inflation rises to 4% in October",
+      "summary": "Eurozone inflation accelerated to 4% in October, marking the fastest pace in three years amid rising consumer prices.",
+      "lang": "en",
+      "source": "FT Global Economy",
+      "url": "https://www.ft.com/content/23cedd6f-e550-4869-aee1-e0ec10ae7e51?syn-25a6b1a6=1",
+      "published": "2026-11-04T10:25:26+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "Riksbank Hikes for First Time Since 2023 to Parry Price Risk",
+    "summary": "Sweden's central bank raised interest rates for the first time since 2023 to combat inflation driven by energy costs and economic strength.",
+    "lang": "en",
+    "source": "Bloomberg Economics",
+    "url": "https://www.bloomberg.com/news/articles/2026-11-04/riksbank-hikes-for-first-time-since-2023-to-counter-price-risks",
+    "published": "2026-11-04T08:37:32+00:00",
+    "event_id": "37f5f4f0473d",
+    "sources": [
+     {
+      "title": "Riksbank Hikes for First Time Since 2023 to Parry Price Risk",
+      "summary": "Sweden's central bank raised interest rates for the first time since 2023 to combat inflation driven by energy costs and economic strength.",
+      "lang": "en",
+      "source": "Bloomberg Economics",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-04/riksbank-hikes-for-first-time-since-2023-to-counter-price-risks",
+      "published": "2026-11-04T08:37:32+00:00"
+     }
+    ],
+    "status": "updated",
+    "change_summary": "Riksbank Hikes for First Time Since 2023 to Parry Price Risk",
+    "previous_date": "2026-11-03",
+    "previous_event_id": "37f5f4f0473d"
+   },
+   {
+    "title": "Lagarde’s Early Exit Tests ECB’s Eight-Year Terms",
+    "summary": "Nearly one-third of ECB Executive Board members have departed before completing their eight-year mandates, including potential early exit by President Lagarde.",
+    "lang": "en",
+    "source": "Bloomberg Economics",
+    "url": "https://www.bloomberg.com/news/newsletters/2026-11-04/lagarde-s-early-exit-tests-ecb-s-eight-year-terms",
+    "published": "2026-11-04T12:00:01+00:00",
+    "event_id": "e69d4ad6c9c6",
+    "sources": [
+     {
+      "title": "Lagarde’s Early Exit Tests ECB’s Eight-Year Terms",
+      "summary": "Nearly one-third of ECB Executive Board members have departed before completing their eight-year mandates, including potential early exit by President Lagarde.",
+      "lang": "en",
+      "source": "Bloomberg Economics",
+      "url": "https://www.bloomberg.com/news/newsletters/2026-11-04/lagarde-s-early-exit-tests-ecb-s-eight-year-terms",
+      "published": "2026-11-04T12:00:01+00:00"
+     }
+    ],
+    "status": "updated",
+    "change_summary": "Lagarde's Early Exit Tests ECB's Eight-Year Terms",
+    "previous_date": "2026-11-03",
+    "previous_event_id": "e69d4ad6c9c6"
+   },
+   {
+    "title": "ECB wage tracker suggests slightly higher wage growth in first three quarters of 2027 compared with the full year of 2026",
+    "summary": "ECB wage tracker data indicates slightly elevated wage growth expected in the first three quarters of 2027 compared with full-year 2026.",
+    "lang": "en",
+    "source": "BCE (notas de prensa)",
+    "url": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr261104~caf181d7ac.en.html",
+    "published": "2026-11-04T00:00:00+00:00",
+    "event_id": "c244f5f62d65",
+    "sources": [
+     {
+      "title": "ECB wage tracker suggests slightly higher wage growth in first three quarters of 2027 compared with the full year of 2026",
+      "summary": "ECB wage tracker data indicates slightly elevated wage growth expected in the first three quarters of 2027 compared with full-year 2026.",
+      "lang": "en",
+      "source": "BCE (notas de prensa)",
+      "url": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr261104~caf181d7ac.en.html",
+      "published": "2026-11-04T00:00:00+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   }
+  ],
+  "politica|asia": [
+   {
+    "title": "Japan's trading house chiefs warn of uncertainty after US midterms",
+    "summary": "Japan's trading house executives expressed uncertainty about business prospects following the US midterm elections and potential policy shifts.",
+    "lang": "en",
+    "source": "Nikkei Asia",
+    "url": "https://asia.nikkei.com/business/companies/japan-s-trading-house-chiefs-warn-of-uncertainty-after-us-midterms",
+    "published": null,
+    "event_id": "fde270881a0d",
+    "sources": [
+     {
+      "title": "Japan's trading house chiefs warn of uncertainty after US midterms",
+      "summary": "Japan's trading house executives expressed uncertainty about business prospects following the US midterm elections and potential policy shifts.",
+      "lang": "en",
+      "source": "Nikkei Asia",
+      "url": "https://asia.nikkei.com/business/companies/japan-s-trading-house-chiefs-warn-of-uncertainty-after-us-midterms",
+      "published": null
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "Indonesia deploys troops to Jakarta after wiretapping allegations",
+    "summary": "Indonesian troops were deployed to Jakarta amid wiretapping allegations implicating the president's chief of staff in illegal surveillance activities.",
+    "lang": "en",
+    "source": "Deutsche Welle World",
+    "url": "https://www.dw.com/en/indonesia-deploys-troops-to-jakarta-after-wiretapping-allegations/a-79853779?maca=en-rss-en-world-4025-rdf",
+    "published": "2026-11-04T12:52:00+00:00",
+    "event_id": "1b94071d550c",
+    "sources": [
+     {
+      "title": "Indonesia deploys troops to Jakarta after wiretapping allegations",
+      "summary": "Indonesian troops were deployed to Jakarta amid wiretapping allegations implicating the president's chief of staff in illegal surveillance activities.",
+      "lang": "en",
+      "source": "Deutsche Welle World",
+      "url": "https://www.dw.com/en/indonesia-deploys-troops-to-jakarta-after-wiretapping-allegations/a-79853779?maca=en-rss-en-world-4025-rdf",
+      "published": "2026-11-04T12:52:00+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "Taiwan flags massive PLA naval mobilisation, spike in air sorties",
+    "summary": "Taiwan expressed concern over more than 100 People's Liberation Army naval vessels and coastguard ships mobilising across the western Pacific.",
+    "lang": "en",
+    "source": "South China Morning Post (China)",
+    "url": "https://www.scmp.com/news/china/military/article/3373249/taiwan-flags-massive-pla-naval-mobilisation-spike-air-sorties",
+    "published": "2026-11-04T08:26:37+00:00",
+    "event_id": "d5e9655a7bae",
+    "sources": [
+     {
+      "title": "Taiwan flags massive PLA naval mobilisation, spike in air sorties",
+      "summary": "Taiwan expressed concern over more than 100 People's Liberation Army naval vessels and coastguard ships mobilising across the western Pacific.",
+      "lang": "en",
+      "source": "South China Morning Post (China)",
+      "url": "https://www.scmp.com/news/china/military/article/3373249/taiwan-flags-massive-pla-naval-mobilisation-spike-air-sorties",
+      "published": "2026-11-04T08:26:37+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "Iran's chief negotiator says Americans voted 'no to war'",
+    "summary": "Iran's chief negotiator stated that Americans voted against war, endorsing the message as Trump acknowledged the conflict's role in Republican defeats.",
+    "lang": "en",
+    "source": "BBC World",
+    "url": "https://www.bbc.co.uk/news/articles/c6d934npl9y8o?at_medium=RSS&at_campaign=rss",
+    "published": "2026-11-04T12:21:21+00:00",
+    "event_id": "cf064f177920",
+    "sources": [
+     {
+      "title": "Iran's chief negotiator says Americans voted 'no to war'",
+      "summary": "Iran's chief negotiator stated that Americans voted against war, endorsing the message as Trump acknowledged the conflict's role in Republican defeats.",
+      "lang": "en",
+      "source": "BBC World",
+      "url": "https://www.bbc.co.uk/news/articles/c6d934npl9y8o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-04T12:21:21+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "Israel's president urges compromise after divisive election",
+    "summary": "Israel's president urged party leaders to pursue compromise and avoid new elections, initiating consultations to form a government within 28 days.",
+    "lang": "en",
+    "source": "Le Monde International",
+    "url": "https://www.lemonde.fr/en/international/article/2026/11/04/israeli-president-herzog-urges-compromise-after-divisive-election_6771519_4.html",
+    "published": "2026-11-04T11:49:42+00:00",
+    "event_id": "8a05ade21cb2",
+    "sources": [
+     {
+      "title": "Israel's president urges compromise after divisive election",
+      "summary": "Israel's president urged party leaders to pursue compromise and avoid new elections, initiating consultations to form a government within 28 days.",
+      "lang": "en",
+      "source": "Le Monde International",
+      "url": "https://www.lemonde.fr/en/international/article/2026/11/04/israeli-president-herzog-urges-compromise-after-divisive-election_6771519_4.html",
+      "published": "2026-11-04T11:49:42+00:00"
+     }
+    ],
+    "status": "updated",
+    "change_summary": "Israel's president urges compromise after divisive election",
+    "previous_date": "2026-11-03",
+    "previous_event_id": "8a05ade21cb2"
+   },
+   {
+    "title": "金与正出面否认朝鲜窃取币安加密资产",
+    "summary": "朝鲜领导人胞妹金与正否认朝鲜窃取币安加密资产，称美国指控为严重政治挑衅和荒谬言论。",
+    "lang": "zh",
+    "source": "德國之聲中文",
+    "url": "https://www.dw.com/zh/金与正出面否认朝鲜窃取币安加密资产/a-79840935?maca=chi-rss-chi-all-1127-rdf",
+    "published": "2026-11-03T12:57:00+00:00",
+    "event_id": "5f41e8596795",
+    "sources": [
+     {
+      "title": "金与正出面否认朝鲜窃取币安加密资产",
+      "summary": "朝鲜领导人胞妹金与正否认朝鲜窃取币安加密资产，称美国指控为严重政治挑衅和荒谬言论。",
+      "lang": "zh",
+      "source": "德國之聲中文",
+      "url": "https://www.dw.com/zh/金与正出面否认朝鲜窃取币安加密资产/a-79840935?maca=chi-rss-chi-all-1127-rdf",
+      "published": "2026-11-03T12:57:00+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   }
+  ],
+  "economia|america": [
+   {
+    "title": "Heat returns to US labour market in latest official turnover figures",
+    "summary": "US job openings and quit rates both rose in September, reinforcing the Federal Reserve's view that the labour market remains resilient and robust.",
+    "lang": "en",
+    "source": "FT Global Economy",
+    "url": "https://www.ft.com/content/44e578ac-e2e5-43b4-946d-06ebb82d27e6",
+    "published": "2026-11-03T16:40:12+00:00",
+    "event_id": "ab910ad5e9b2",
+    "sources": [
+     {
+      "title": "Heat returns to US labour market in latest official turnover figures",
+      "summary": "US job openings and quit rates both rose in September, reinforcing the Federal Reserve's view that the labour market remains resilient and robust.",
+      "lang": "en",
+      "source": "FT Global Economy",
+      "url": "https://www.ft.com/content/44e578ac-e2e5-43b4-946d-06ebb82d27e6",
+      "published": "2026-11-03T16:40:12+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "Chile Central Bank Mulled a Key Rate Hike at Its Last Decision",
+    "summary": "Chile's central bank considered raising its key interest rate by 0.25% at its October meeting to address rising cost pressures.",
+    "lang": "en",
+    "source": "Bloomberg Economics",
+    "url": "https://www.bloomberg.com/news/articles/2026-11-04/chile-central-bank-mulled-a-key-rate-hike-at-its-last-decision",
+    "published": "2026-11-04T12:09:57+00:00",
+    "event_id": "c5e5af8a11da",
+    "sources": [
+     {
+      "title": "Chile Central Bank Mulled a Key Rate Hike at Its Last Decision",
+      "summary": "Chile's central bank considered raising its key interest rate by 0.25% at its October meeting to address rising cost pressures.",
+      "lang": "en",
+      "source": "Bloomberg Economics",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-04/chile-central-bank-mulled-a-key-rate-hike-at-its-last-decision",
+      "published": "2026-11-04T12:09:57+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "Stocks and Bonds Rise, Dollar Slides After US Vote: Markets Wrap",
+    "summary": "Following the US election results, global stock markets rallied while bond yields and the dollar declined as Democratic congressional control emerged.",
+    "lang": "en",
+    "source": "Bloomberg Markets",
+    "url": "https://www.bloomberg.com/news/articles/2026-11-03/stock-market-today-dow-s-p-live-updates",
+    "published": "2026-11-03T22:20:22+00:00",
+    "event_id": "8191aaa37d2f",
+    "sources": [
+     {
+      "title": "Stocks and Bonds Rise, Dollar Slides After US Vote: Markets Wrap",
+      "summary": "Following the US election results, global stock markets rallied while bond yields and the dollar declined as Democratic congressional control emerged.",
+      "lang": "en",
+      "source": "Bloomberg Markets",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-03/stock-market-today-dow-s-p-live-updates",
+      "published": "2026-11-03T22:20:22+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "AMD rides data center riches to ‘largest and most profitable’ quarter in history",
+    "summary": "AMD reported record Q3 2026 earnings of $13.4 billion, marking the company's largest and most profitable quarter in its history.",
+    "lang": "en",
+    "source": "The Verge",
+    "url": "https://www.theverge.com/tech/1026148/amd-earnings-q3-2026-data-center-pc",
+    "published": "2026-11-04T01:15:34+00:00",
+    "event_id": "1965c7f85c2d",
+    "sources": [
+     {
+      "title": "AMD rides data center riches to ‘largest and most profitable’ quarter in history",
+      "summary": "AMD reported record Q3 2026 earnings of $13.4 billion, marking the company's largest and most profitable quarter in its history.",
+      "lang": "en",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/tech/1026148/amd-earnings-q3-2026-data-center-pc",
+      "published": "2026-11-04T01:15:34+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   }
+  ],
+  "politica|america": [
+   {
+    "title": "Democrats seize full control of Congress. And, which candidates made history last night",
+    "summary": "Democrats secured full control of Congress by winning the House and Senate, with historic victories achieved in several states during the elections.",
+    "lang": "en",
+    "source": "NPR World",
+    "url": "https://www.npr.org/2026/11/04/g-s1-151745/up-first-newsletter-midterms-democrats-congress-control",
+    "published": "2026-11-04T12:18:39+00:00",
+    "event_id": "e93c1d5cb5c8",
+    "sources": [
+     {
+      "title": "Democrats seize full control of Congress. And, which candidates made history last night",
+      "summary": "Democrats secured full control of Congress by winning the House and Senate, with historic victories achieved in several states during the elections.",
+      "lang": "en",
+      "source": "NPR World",
+      "url": "https://www.npr.org/2026/11/04/g-s1-151745/up-first-newsletter-midterms-democrats-congress-control",
+      "published": "2026-11-04T12:18:39+00:00"
+     },
+     {
+      "title": "Democrats win control of Congress in sharp rebuke to Trump",
+      "summary": "Democrats won control of Congress in a decisive rebuke to Trump, gaining both the House and Senate for the first time since 2023.",
+      "lang": "en",
+      "source": "Nikkei Asia",
+      "url": "https://asia.nikkei.com/politics/u.s.-midterm-elections/democrats-win-control-of-congress-in-sharp-rebuke-to-trump",
+      "published": null
+     }
+    ],
+    "status": "updated",
+    "change_summary": "Democrats seize full control of Congress. And, which candidates made history last night",
+    "previous_date": "2026-11-03",
+    "previous_event_id": "e93c1d5cb5c8"
+   },
+   {
+    "title": "James Talarico becomes first Democrat to win Texas Senate seat since 1988",
+    "summary": "James Talarico became the first Democrat to win a Texas Senate seat since 1988, marking a historic democratic victory in the state.",
+    "lang": "en",
+    "source": "BBC World",
+    "url": "https://www.bbc.co.uk/news/articles/c6n8dnn09jg7o?at_medium=RSS&at_campaign=rss",
+    "published": "2026-11-04T05:39:36+00:00",
+    "event_id": "74dab33a4157",
+    "sources": [
+     {
+      "title": "James Talarico becomes first Democrat to win Texas Senate seat since 1988",
+      "summary": "James Talarico became the first Democrat to win a Texas Senate seat since 1988, marking a historic democratic victory in the state.",
+      "lang": "en",
+      "source": "BBC World",
+      "url": "https://www.bbc.co.uk/news/articles/c6n8dnn09jg7o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-04T05:39:36+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "Left-wing Democrat Abdul El-Sayed wins in Michigan to become first Muslim senator",
+    "summary": "Abdul El-Sayed, a left-wing Democrat, won Michigan's Senate race to become the first Muslim senator in US history.",
+    "lang": "en",
+    "source": "BBC World",
+    "url": "https://www.bbc.co.uk/news/articles/c893z55pxrewo?at_medium=RSS&at_campaign=rss",
+    "published": "2026-11-04T10:03:19+00:00",
+    "event_id": "9b8c734ec6dd",
+    "sources": [
+     {
+      "title": "Left-wing Democrat Abdul El-Sayed wins in Michigan to become first Muslim senator",
+      "summary": "Abdul El-Sayed, a left-wing Democrat, won Michigan's Senate race to become the first Muslim senator in US history.",
+      "lang": "en",
+      "source": "BBC World",
+      "url": "https://www.bbc.co.uk/news/articles/c893z55pxrewo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-04T10:03:19+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "Josh Turek flips Republican-held Iowa Senate seat in key Democratic win",
+    "summary": "Josh Turek flipped an Iowa Senate seat from Republican to Democratic control, becoming the first Democrat to win a statewide federal race there since Barack Obama.",
+    "lang": "en",
+    "source": "Le Monde International",
+    "url": "https://www.lemonde.fr/en/international/article/2026/11/04/josh-turek-flips-republican-held-iowa-senate-seat-in-key-democratic-win_6771382_4.html",
+    "published": "2026-11-04T07:40:06+00:00",
+    "event_id": "0af244dece5f",
+    "sources": [
+     {
+      "title": "Josh Turek flips Republican-held Iowa Senate seat in key Democratic win",
+      "summary": "Josh Turek flipped an Iowa Senate seat from Republican to Democratic control, becoming the first Democrat to win a statewide federal race there since Barack Obama.",
+      "lang": "en",
+      "source": "Le Monde International",
+      "url": "https://www.lemonde.fr/en/international/article/2026/11/04/josh-turek-flips-republican-held-iowa-senate-seat-in-key-democratic-win_6771382_4.html",
+      "published": "2026-11-04T07:40:06+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   }
+  ],
+  "politica|europa": [
+   {
+    "title": "Death toll hits 29 after Russian strike on Ukrainian aid site, with 48 still missing",
+    "summary": "A Russian strike on a Ukrainian aid site killed 29 people with 48 still missing; Russia launched 289 drones and 76 missiles across nine regions.",
+    "lang": "en",
+    "source": "NPR World",
+    "url": "https://www.npr.org/2026/11/03/g-s1-151439/russia-ukraine-war",
+    "published": "2026-11-03T11:01:14+00:00",
+    "event_id": "f1d8d63b1f01",
+    "sources": [
+     {
+      "title": "Death toll hits 29 after Russian strike on Ukrainian aid site, with 48 still missing",
+      "summary": "A Russian strike on a Ukrainian aid site killed 29 people with 48 still missing; Russia launched 289 drones and 76 missiles across nine regions.",
+      "lang": "en",
+      "source": "NPR World",
+      "url": "https://www.npr.org/2026/11/03/g-s1-151439/russia-ukraine-war",
+      "published": "2026-11-03T11:01:14+00:00"
+     }
+    ],
+    "status": "updated",
+    "change_summary": "Death toll hits 29 after Russian strike on Ukrainian aid site, with 48 still missing",
+    "previous_date": "2026-11-03",
+    "previous_event_id": "f1d8d63b1f01"
+   },
+   {
+    "title": "英王演說稱奴隸貿易是英國歷史「可恥的一章」",
+    "summary": "英国国王查尔斯三世在英联邦政府首脑会议上称奴隶贸易是英国历史上的可耻一章，外界曾呼吁英国就其在奴隶贸易中的历史角色正式道歉。",
+    "lang": "zh",
+    "source": "BBC中文",
+    "url": "https://www.bbc.com/zhongwen/articles/cqn734rxeye6o/trad?at_medium=RSS&at_campaign=rss",
+    "published": "2026-11-04T07:06:49+00:00",
+    "event_id": "fdfea664a286",
+    "sources": [
+     {
+      "title": "英王演說稱奴隸貿易是英國歷史「可恥的一章」",
+      "summary": "英国国王查尔斯三世在英联邦政府首脑会议上称奴隶贸易是英国历史上的可耻一章，外界曾呼吁英国就其在奴隶贸易中的历史角色正式道歉。",
+      "lang": "zh",
+      "source": "BBC中文",
+      "url": "https://www.bbc.com/zhongwen/articles/cqn734rxeye6o/trad?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-04T07:06:49+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "UK Supreme Court hears appeal against Palestine Action’s proscription",
+    "summary": "UK Supreme Court heard an appeal challenging the proscription of Palestine Action, with activists arguing it represents misuse of terrorism powers.",
+    "lang": "en",
+    "source": "Al Jazeera English",
+    "url": "https://www.aljazeera.com/news/2026/11/4/uk-supreme-court-hears-appeal-against-palestine-actions-proscription?traffic_source=rss",
+    "published": "2026-11-04T12:43:47+00:00",
+    "event_id": "26f882133684",
+    "sources": [
+     {
+      "title": "UK Supreme Court hears appeal against Palestine Action’s proscription",
+      "summary": "UK Supreme Court heard an appeal challenging the proscription of Palestine Action, with activists arguing it represents misuse of terrorism powers.",
+      "lang": "en",
+      "source": "Al Jazeera English",
+      "url": "https://www.aljazeera.com/news/2026/11/4/uk-supreme-court-hears-appeal-against-palestine-actions-proscription?traffic_source=rss",
+      "published": "2026-11-04T12:43:47+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "乌美俄三方会谈在即 泽连斯基赴柏林与默茨会晤",
+    "summary": "泽连斯基访问柏林与德国总理默茨会晤，讨论乌美俄三方会谈准备工作。会谈定于11月10日至11日在阿联酋首都阿布扎比举行。",
+    "lang": "zh",
+    "source": "德國之聲中文",
+    "url": "https://www.dw.com/zh/乌美俄三方会谈在即-泽连斯基赴柏林与默茨会晤/a-79844649?maca=chi-rss-chi-all-1127-rdf",
+    "published": "2026-11-03T15:40:00+00:00",
+    "event_id": "e623860dcf2c",
+    "sources": [
+     {
+      "title": "乌美俄三方会谈在即 泽连斯基赴柏林与默茨会晤",
+      "summary": "泽连斯基访问柏林与德国总理默茨会晤，讨论乌美俄三方会谈准备工作。会谈定于11月10日至11日在阿联酋首都阿布扎比举行。",
+      "lang": "zh",
+      "source": "德國之聲中文",
+      "url": "https://www.dw.com/zh/乌美俄三方会谈在即-泽连斯基赴柏林与默茨会晤/a-79844649?maca=chi-rss-chi-all-1127-rdf",
+      "published": "2026-11-03T15:40:00+00:00"
+     }
+    ],
+    "status": "unchanged",
+    "change_summary": "",
+    "previous_date": "2026-11-03",
+    "previous_event_id": "e623860dcf2c"
+   }
+  ],
+  "tecnologia|asia": [
+   {
+    "title": "cPGuard更新通道遭到入侵，近3千臺伺服器被植入惡意程式",
+    "summary": "伺服器安全软体cPGuard的更新通道遭入侵，约2950台伺服器被植入恶意程式。软体开发商OpsShield确认駭客竄改更新内容。",
+    "lang": "zh",
+    "source": "iThome 台灣",
+    "url": "https://www.ithome.com.tw/news/180217",
+    "published": "2026-11-04T04:11:02+00:00",
+    "event_id": "b62b29cd3c5a",
+    "sources": [
+     {
+      "title": "cPGuard更新通道遭到入侵，近3千臺伺服器被植入惡意程式",
+      "summary": "伺服器安全软体cPGuard的更新通道遭入侵，约2950台伺服器被植入恶意程式。软体开发商OpsShield确认駭客竄改更新内容。",
+      "lang": "zh",
+      "source": "iThome 台灣",
+      "url": "https://www.ithome.com.tw/news/180217",
+      "published": "2026-11-04T04:11:02+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "永豐銀證實遭外部駭客盜轉！董總鞠躬致歉「墊付 4,176 萬全額退款」",
+    "summary": "永豐銀行証實遭外部駭客盜轉資金，董事長與總經理道歉並墊付4176萬全額退款予受害客戶。",
+    "lang": "zh",
+    "source": "科技新報 TechNews",
+    "url": "https://finance.technews.tw/2026/11/04/unauthorized-account-transfer/",
+    "published": "2026-11-04T10:32:47+00:00",
+    "event_id": "e184c89b9202",
+    "sources": [
+     {
+      "title": "永豐銀證實遭外部駭客盜轉！董總鞠躬致歉「墊付 4,176 萬全額退款」",
+      "summary": "永豐銀行証實遭外部駭客盜轉資金，董事長與總經理道歉並墊付4176萬全額退款予受害客戶。",
+      "lang": "zh",
+      "source": "科技新報 TechNews",
+      "url": "https://finance.technews.tw/2026/11/04/unauthorized-account-transfer/",
+      "published": "2026-11-04T10:32:47+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "幣安遭北韓駭客竊走 63 億美元後，趙長鵬警告銀行處境更危險",
+    "summary": "幣安遭北韓駭客竊走63億美元，創加密貨幣史上最大竊案。幣安執行長趙長鵬警告傳統銀行所面臨的風險更大。",
+    "lang": "zh",
+    "source": "科技新報 TechNews",
+    "url": "https://infosecu.technews.tw/2026/11/04/binance-sbi-cyberattacks-highlight-financial-sector-vulnerabilities/",
+    "published": "2026-11-04T10:00:11+00:00",
+    "event_id": "fd7502dd2559",
+    "sources": [
+     {
+      "title": "幣安遭北韓駭客竊走 63 億美元後，趙長鵬警告銀行處境更危險",
+      "summary": "幣安遭北韓駭客竊走63億美元，創加密貨幣史上最大竊案。幣安執行長趙長鵬警告傳統銀行所面臨的風險更大。",
+      "lang": "zh",
+      "source": "科技新報 TechNews",
+      "url": "https://infosecu.technews.tw/2026/11/04/binance-sbi-cyberattacks-highlight-financial-sector-vulnerabilities/",
+      "published": "2026-11-04T10:00:11+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   }
+  ],
+  "tecnologia|europa": [
+   {
+    "title": "Ukraine’s drone strikes spur hasty Russian plans for underground data centers",
+    "summary": "Russian data centre damage from Ukrainian drone strikes has prompted hasty plans for underground infrastructure to protect digital assets.",
+    "lang": "en",
+    "source": "Ars Technica",
+    "url": "https://arstechnica.com/ai/2026/11/russia-looks-to-hide-data-centers-underground-as-ukrainian-drones-strike-back/",
+    "published": "2026-11-03T20:39:55+00:00",
+    "event_id": "2f70d6c369eb",
+    "sources": [
+     {
+      "title": "Ukraine’s drone strikes spur hasty Russian plans for underground data centers",
+      "summary": "Russian data centre damage from Ukrainian drone strikes has prompted hasty plans for underground infrastructure to protect digital assets.",
+      "lang": "en",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/ai/2026/11/russia-looks-to-hide-data-centers-underground-as-ukrainian-drones-strike-back/",
+      "published": "2026-11-03T20:39:55+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   }
+  ],
+  "tecnologia|america": [
+   {
+    "title": "Agentic cheminformatics with Google Antigravity",
+    "summary": "Google Antigravity accelerates drug discovery workflows through agentic cheminformatics, enabling compound searches and novel macrocycle proposals.",
+    "lang": "en",
+    "source": "Google DeepMind Blog",
+    "url": "https://deepmind.google/blog/agentic-cheminformatics-with-google-antigravity/",
+    "published": "2026-11-03T17:01:49+00:00",
+    "event_id": "7b04a568c5ad",
+    "sources": [
+     {
+      "title": "Agentic cheminformatics with Google Antigravity",
+      "summary": "Google Antigravity accelerates drug discovery workflows through agentic cheminformatics, enabling compound searches and novel macrocycle proposals.",
+      "lang": "en",
+      "source": "Google DeepMind Blog",
+      "url": "https://deepmind.google/blog/agentic-cheminformatics-with-google-antigravity/",
+      "published": "2026-11-03T17:01:49+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "California fights \"preposterous\" Trump admin demand to scrap state broadband laws",
+    "summary": "California is challenging a Trump administration condition requiring states to scrap broadband laws in order to receive federal broadband funding.",
+    "lang": "en",
+    "source": "Ars Technica",
+    "url": "https://arstechnica.com/tech-policy/2026/11/california-fights-preposterous-trump-admin-demand-to-scrap-state-broadband-laws/",
+    "published": "2026-11-03T22:39:37+00:00",
+    "event_id": "5f58c4321f5d",
+    "sources": [
+     {
+      "title": "California fights \"preposterous\" Trump admin demand to scrap state broadband laws",
+      "summary": "California is challenging a Trump administration condition requiring states to scrap broadband laws in order to receive federal broadband funding.",
+      "lang": "en",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/tech-policy/2026/11/california-fights-preposterous-trump-admin-demand-to-scrap-state-broadband-laws/",
+      "published": "2026-11-03T22:39:37+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "NYT demands Brave shut down its paywall blocker and end deals with AI firms",
+    "summary": "The New York Times sued Brave, calling it a supplier of stolen news content for operating a paywall blocker and making AI content deals.",
+    "lang": "en",
+    "source": "Ars Technica",
+    "url": "https://arstechnica.com/tech-policy/2026/11/nyt-demands-brave-shut-down-its-paywall-blocker-and-end-deals-with-ai-firms/",
+    "published": "2026-11-03T18:30:27+00:00",
+    "event_id": "e9e1cc36cc97",
+    "sources": [
+     {
+      "title": "NYT demands Brave shut down its paywall blocker and end deals with AI firms",
+      "summary": "The New York Times sued Brave, calling it a supplier of stolen news content for operating a paywall blocker and making AI content deals.",
+      "lang": "en",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/tech-policy/2026/11/nyt-demands-brave-shut-down-its-paywall-blocker-and-end-deals-with-ai-firms/",
+      "published": "2026-11-03T18:30:27+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "Google dismantles botnet secretly running on 1.3 million Android TV boxes",
+    "summary": "Google dismantled a botnet campaign that secretly operated on 1.3 million Android TV boxes and severed ties with the responsible company.",
+    "lang": "en",
+    "source": "Ars Technica",
+    "url": "https://arstechnica.com/google/2026/11/google-dismantles-botnet-secretly-running-on-1-3-million-android-tv-boxes/",
+    "published": "2026-11-03T17:08:21+00:00",
+    "event_id": "6e1e33600ad3",
+    "sources": [
+     {
+      "title": "Google dismantles botnet secretly running on 1.3 million Android TV boxes",
+      "summary": "Google dismantled a botnet campaign that secretly operated on 1.3 million Android TV boxes and severed ties with the responsible company.",
+      "lang": "en",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/google/2026/11/google-dismantles-botnet-secretly-running-on-1-3-million-android-tv-boxes/",
+      "published": "2026-11-03T17:08:21+00:00"
+     }
+    ],
+    "status": "unchanged",
+    "change_summary": "",
+    "previous_date": "2026-11-03",
+    "previous_event_id": "6e1e33600ad3"
+   }
+  ]
+ }
+}
