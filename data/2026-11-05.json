@@ -1,0 +1,894 @@
+{
+ "date": "2026-11-05",
+ "generated_at": "2026-11-05T13:26:53.096083+00:00",
+ "mode": "full",
+ "cost_usd": 0.0497,
+ "selection": {
+  "model": "claude-haiku-5-5",
+  "effort": "high",
+  "passes": 3,
+  "passes_ok": 3,
+  "cost_usd": 0.0187
+ },
+ "events": {
+  "mode": "full",
+  "compared_with": "2026-11-04",
+  "articles": 37,
+  "uncompared_articles": 0,
+  "events": 37,
+  "cost_usd": 0.0187
+ },
+ "market": null,
+ "failed_sources": [],
+ "cells": {
+  "economia|asia": [
+   {
+    "title": "China blocks SoftBank's $5.4bn deal for ABB robotics division",
+    "summary": "",
+    "lang": "en",
+    "source": "Nikkei Asia",
+    "url": "https://asia.nikkei.com/business/business-deals/china-blocks-softbank-s-5.4bn-deal-for-abb-robotics-division",
+    "published": null,
+    "event_id": "fa063244676a",
+    "sources": [
+     {
+      "title": "China blocks SoftBank's $5.4bn deal for ABB robotics division",
+      "summary": "",
+      "lang": "en",
+      "source": "Nikkei Asia",
+      "url": "https://asia.nikkei.com/business/business-deals/china-blocks-softbank-s-5.4bn-deal-for-abb-robotics-division",
+      "published": null
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "Indonesia's GDP grows 5.5% in Q3, helped by government spending",
+    "summary": "",
+    "lang": "en",
+    "source": "Nikkei Asia",
+    "url": "https://asia.nikkei.com/economy/indonesia-s-gdp-grows-5.5-in-q3-helped-by-government-spending",
+    "published": null,
+    "event_id": "89f437cf878d",
+    "sources": [
+     {
+      "title": "Indonesia's GDP grows 5.5% in Q3, helped by government spending",
+      "summary": "",
+      "lang": "en",
+      "source": "Nikkei Asia",
+      "url": "https://asia.nikkei.com/economy/indonesia-s-gdp-grows-5.5-in-q3-helped-by-government-spending",
+      "published": null
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "Sony raises annual profit forecast on Spider-Man hit, gaming gains",
+    "summary": "",
+    "lang": "en",
+    "source": "Nikkei Asia",
+    "url": "https://asia.nikkei.com/business/companies/sony-raises-annual-profit-forecast-on-spider-man-hit-gaming-gains",
+    "published": null,
+    "event_id": "1965c7f85c2d",
+    "sources": [
+     {
+      "title": "Sony raises annual profit forecast on Spider-Man hit, gaming gains",
+      "summary": "",
+      "lang": "en",
+      "source": "Nikkei Asia",
+      "url": "https://asia.nikkei.com/business/companies/sony-raises-annual-profit-forecast-on-spider-man-hit-gaming-gains",
+      "published": null
+     }
+    ],
+    "status": "unclear",
+    "change_summary": "",
+    "previous_date": "2026-11-04",
+    "previous_event_id": "1965c7f85c2d"
+   },
+   {
+    "title": "中国加大股市救市力度",
+    "summary": "中国加大股市救市力度，国家队在最新买入行动中大幅投资追踪科创50和创业板指数的ETF。",
+    "lang": "zh",
+    "source": "FT中文网",
+    "url": "https://www.ftchinese.com/story/001111281",
+    "published": "2026-11-04T16:00:00+00:00",
+    "event_id": "d710a9b8a74c",
+    "sources": [
+     {
+      "title": "中国加大股市救市力度",
+      "summary": "中国加大股市救市力度，国家队在最新买入行动中大幅投资追踪科创50和创业板指数的ETF。",
+      "lang": "zh",
+      "source": "FT中文网",
+      "url": "https://www.ftchinese.com/story/001111281",
+      "published": "2026-11-04T16:00:00+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "Asian stock markets drop as Democratic win stokes fears over AI scrutiny",
+    "summary": "",
+    "lang": "en",
+    "source": "Nikkei Asia",
+    "url": "https://asia.nikkei.com/business/markets/asian-stock-markets-drop-as-democratic-win-stokes-fears-over-ai-scrutiny",
+    "published": null,
+    "event_id": "30e74e72352e",
+    "sources": [
+     {
+      "title": "Asian stock markets drop as Democratic win stokes fears over AI scrutiny",
+      "summary": "",
+      "lang": "en",
+      "source": "Nikkei Asia",
+      "url": "https://asia.nikkei.com/business/markets/asian-stock-markets-drop-as-democratic-win-stokes-fears-over-ai-scrutiny",
+      "published": null
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   }
+  ],
+  "economia|europa": [
+   {
+    "title": "Bank of England raises rates to 4 per cent alongside hawkish inflation forecasts",
+    "summary": "",
+    "lang": "en",
+    "source": "FT Global Economy",
+    "url": "https://www.ft.com/content/47a5b871-8b0b-4b89-9d17-5b9735b0dbe1",
+    "published": "2026-11-05T12:44:44+00:00",
+    "event_id": "83bd50446642",
+    "sources": [
+     {
+      "title": "Bank of England raises rates to 4 per cent alongside hawkish inflation forecasts",
+      "summary": "",
+      "lang": "en",
+      "source": "FT Global Economy",
+      "url": "https://www.ft.com/content/47a5b871-8b0b-4b89-9d17-5b9735b0dbe1",
+      "published": "2026-11-05T12:44:44+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "BVK Pension Fund Raided Over US Business, Munich Prosecutors Say",
+    "summary": "",
+    "lang": "en",
+    "source": "Bloomberg Markets",
+    "url": "https://www.bloomberg.com/news/articles/2026-11-05/bvk-pension-fund-raided-over-us-business-munich-prosecutors-say",
+    "published": "2026-11-05T13:13:24+00:00",
+    "event_id": "66663c0114da",
+    "sources": [
+     {
+      "title": "BVK Pension Fund Raided Over US Business, Munich Prosecutors Say",
+      "summary": "",
+      "lang": "en",
+      "source": "Bloomberg Markets",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-05/bvk-pension-fund-raided-over-us-business-munich-prosecutors-say",
+      "published": "2026-11-05T13:13:24+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "Solvay strikes rare earths deal that will reduce global dependence on China",
+    "summary": "",
+    "lang": "en",
+    "source": "FT Global Economy",
+    "url": "https://www.ft.com/content/7479802b-7071-4ab7-a7a0-bbebc20010e3?syn-25a6b1a6=1",
+    "published": "2026-11-04T13:05:30+00:00",
+    "event_id": "849f416626ee",
+    "sources": [
+     {
+      "title": "Solvay strikes rare earths deal that will reduce global dependence on China",
+      "summary": "",
+      "lang": "en",
+      "source": "FT Global Economy",
+      "url": "https://www.ft.com/content/7479802b-7071-4ab7-a7a0-bbebc20010e3?syn-25a6b1a6=1",
+      "published": "2026-11-04T13:05:30+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "El salario mínimo subirá un 5,3% en 2027, hasta 1.286 euros al mes",
+    "summary": "El salario mínimo español subirá un 5,3% en 2027, alcanzando 1.286 euros mensuales. El Consejo de Ministros aprobará esta cifra que supera la propuesta inicial de los expertos.",
+    "lang": "es",
+    "source": "El País Economía",
+    "url": "https://elpais.com/economia/2026-11-05/el-salario-minimo-subira-un-53-en-2027-hasta-1286-euros-al-mes.html",
+    "published": "2026-11-05T06:49:00+00:00",
+    "event_id": "16dd6fa42f76",
+    "sources": [
+     {
+      "title": "El salario mínimo subirá un 5,3% en 2027, hasta 1.286 euros al mes",
+      "summary": "El salario mínimo español subirá un 5,3% en 2027, alcanzando 1.286 euros mensuales. El Consejo de Ministros aprobará esta cifra que supera la propuesta inicial de los expertos.",
+      "lang": "es",
+      "source": "El País Economía",
+      "url": "https://elpais.com/economia/2026-11-05/el-salario-minimo-subira-un-53-en-2027-hasta-1286-euros-al-mes.html",
+      "published": "2026-11-05T06:49:00+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "France urges EU to adopt higher fast fashion levy",
+    "summary": "",
+    "lang": "en",
+    "source": "FT Global Economy",
+    "url": "https://www.ft.com/content/13776a58-b640-4771-8256-03003498c96b?syn-25a6b1a6=1",
+    "published": "2026-11-05T06:00:06+00:00",
+    "event_id": "fa21d2ef0533",
+    "sources": [
+     {
+      "title": "France urges EU to adopt higher fast fashion levy",
+      "summary": "",
+      "lang": "en",
+      "source": "FT Global Economy",
+      "url": "https://www.ft.com/content/13776a58-b640-4771-8256-03003498c96b?syn-25a6b1a6=1",
+      "published": "2026-11-05T06:00:06+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   }
+  ],
+  "economia|america": [
+   {
+    "title": "Milei Retreats On Bank Account Freezes That Crushed Businesses",
+    "summary": "President Milei is retreating from aggressive tax collection tactics in Argentina after small business concerns ahead of next year's elections.",
+    "lang": "en",
+    "source": "Bloomberg Economics",
+    "url": "https://www.bloomberg.com/news/features/2026-11-05/milei-retreats-on-bank-account-freezes-that-crushed-businesses",
+    "published": "2026-11-05T12:15:24+00:00",
+    "event_id": "5944c8a29886",
+    "sources": [
+     {
+      "title": "Milei Retreats On Bank Account Freezes That Crushed Businesses",
+      "summary": "President Milei is retreating from aggressive tax collection tactics in Argentina after small business concerns ahead of next year's elections.",
+      "lang": "en",
+      "source": "Bloomberg Economics",
+      "url": "https://www.bloomberg.com/news/features/2026-11-05/milei-retreats-on-bank-account-freezes-that-crushed-businesses",
+      "published": "2026-11-05T12:15:24+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "Trump’s Trouncing Gives Warsh More Room for Maneuver on Rates",
+    "summary": "Trump's election loss may give Federal Reserve Chair Kevin Warsh more political room to maneuver on interest rate decisions.",
+    "lang": "en",
+    "source": "Bloomberg Economics",
+    "url": "https://www.bloomberg.com/news/articles/2026-11-05/trump-s-trouncing-gives-warsh-more-room-for-maneuver-on-rates",
+    "published": "2026-11-05T11:00:00+00:00",
+    "event_id": "c130e1e64ab8",
+    "sources": [
+     {
+      "title": "Trump’s Trouncing Gives Warsh More Room for Maneuver on Rates",
+      "summary": "Trump's election loss may give Federal Reserve Chair Kevin Warsh more political room to maneuver on interest rate decisions.",
+      "lang": "en",
+      "source": "Bloomberg Economics",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-05/trump-s-trouncing-gives-warsh-more-room-for-maneuver-on-rates",
+      "published": "2026-11-05T11:00:00+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "Chile Rate-Hike Bets Build After Hawkish Central Bank Minutes",
+    "summary": "Chilean investors are betting on the country's first interest rate hike since 2022 after the central bank flagged inflation pressures.",
+    "lang": "en",
+    "source": "Bloomberg Economics",
+    "url": "https://www.bloomberg.com/news/articles/2026-11-05/chile-rate-hike-bets-build-after-hawkish-central-bank-minutes",
+    "published": "2026-11-05T11:00:00+00:00",
+    "event_id": "c5e5af8a11da",
+    "sources": [
+     {
+      "title": "Chile Rate-Hike Bets Build After Hawkish Central Bank Minutes",
+      "summary": "Chilean investors are betting on the country's first interest rate hike since 2022 after the central bank flagged inflation pressures.",
+      "lang": "en",
+      "source": "Bloomberg Economics",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-05/chile-rate-hike-bets-build-after-hawkish-central-bank-minutes",
+      "published": "2026-11-05T11:00:00+00:00"
+     }
+    ],
+    "status": "updated",
+    "change_summary": "Chile Rate-Hike Bets Build After Hawkish Central Bank Minutes",
+    "previous_date": "2026-11-04",
+    "previous_event_id": "c5e5af8a11da"
+   },
+   {
+    "title": "Democratic wave keeps US wealth taxes alive despite California loss",
+    "summary": "Democrat-controlled Congress keeps U.S. wealth taxes viable despite California's Proposition 40 billionaire tax defeat in midterms.",
+    "lang": "en",
+    "source": "Financial Times",
+    "url": "https://www.ft.com/content/c701ac0d-0ef4-426f-a629-e38ed29d5260?syn-25a6b1a6=1",
+    "published": "2026-11-05T00:52:16+00:00",
+    "event_id": "6115dbfe2fe2",
+    "sources": [
+     {
+      "title": "Democratic wave keeps US wealth taxes alive despite California loss",
+      "summary": "Democrat-controlled Congress keeps U.S. wealth taxes viable despite California's Proposition 40 billionaire tax defeat in midterms.",
+      "lang": "en",
+      "source": "Financial Times",
+      "url": "https://www.ft.com/content/c701ac0d-0ef4-426f-a629-e38ed29d5260?syn-25a6b1a6=1",
+      "published": "2026-11-05T00:52:16+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "US Stock Futures Diverge as Chip Selloff Extends Into Second Day",
+    "summary": "U.S. stock futures diverged as semiconductor sector selloff continued into a second day amid broader market rotation.",
+    "lang": "en",
+    "source": "Bloomberg Markets",
+    "url": "https://www.bloomberg.com/news/articles/2026-11-05/us-stock-futures-diverge-as-chip-selloff-extends-into-second-day",
+    "published": "2026-11-05T12:54:02+00:00",
+    "event_id": "98f6b7302dda",
+    "sources": [
+     {
+      "title": "US Stock Futures Diverge as Chip Selloff Extends Into Second Day",
+      "summary": "U.S. stock futures diverged as semiconductor sector selloff continued into a second day amid broader market rotation.",
+      "lang": "en",
+      "source": "Bloomberg Markets",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-05/us-stock-futures-diverge-as-chip-selloff-extends-into-second-day",
+      "published": "2026-11-05T12:54:02+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "AMD's record quarter: Data center business doubles, while gaming craters",
+    "summary": "AMD reported record quarterly revenue of $13.4 billion with data center business doubling, but gaming revenue fell 40 percent.",
+    "lang": "en",
+    "source": "Ars Technica",
+    "url": "https://arstechnica.com/gadgets/2026/11/amds-record-quarter-data-center-business-doubles-while-gaming-craters/",
+    "published": "2026-11-04T21:29:46+00:00",
+    "event_id": "b58632e425d5",
+    "sources": [
+     {
+      "title": "AMD's record quarter: Data center business doubles, while gaming craters",
+      "summary": "AMD reported record quarterly revenue of $13.4 billion with data center business doubling, but gaming revenue fell 40 percent.",
+      "lang": "en",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/gadgets/2026/11/amds-record-quarter-data-center-business-doubles-while-gaming-craters/",
+      "published": "2026-11-04T21:29:46+00:00"
+     }
+    ],
+    "status": "unchanged",
+    "change_summary": "",
+    "previous_date": "2026-11-04",
+    "previous_event_id": "1965c7f85c2d"
+   }
+  ],
+  "politica|asia": [
+   {
+    "title": "Joshua Wong, face of Hong Kong's pro-democracy protests, jailed for 10 years",
+    "summary": "Joshua Wong, 30, a prominent face of Hong Kong's pro-democracy movement, was jailed for 10 years under the national security law.",
+    "lang": "en",
+    "source": "BBC World",
+    "url": "https://www.bbc.co.uk/news/articles/cwp9g3rlp8jlo?at_medium=RSS&at_campaign=rss",
+    "published": "2026-11-05T08:07:22+00:00",
+    "event_id": "79e2afd27123",
+    "sources": [
+     {
+      "title": "Joshua Wong, face of Hong Kong's pro-democracy protests, jailed for 10 years",
+      "summary": "Joshua Wong, 30, a prominent face of Hong Kong's pro-democracy movement, was jailed for 10 years under the national security law.",
+      "lang": "en",
+      "source": "BBC World",
+      "url": "https://www.bbc.co.uk/news/articles/cwp9g3rlp8jlo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-05T08:07:22+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "Chinese and North Korean officials step up diplomatic drive in wake of Kim Jong-un visit",
+    "summary": "Chinese and North Korean officials met Thursday to deepen ties following Kim Jong-un's recent cross-border visit.",
+    "lang": "en",
+    "source": "South China Morning Post (China)",
+    "url": "https://www.scmp.com/news/china/diplomacy/article/3373385/chinese-and-north-korean-officials-step-diplomatic-drive-wake-kim-jong-un-visit",
+    "published": "2026-11-05T09:01:01+00:00",
+    "event_id": "1b22f1ac3b6d",
+    "sources": [
+     {
+      "title": "Chinese and North Korean officials step up diplomatic drive in wake of Kim Jong-un visit",
+      "summary": "Chinese and North Korean officials met Thursday to deepen ties following Kim Jong-un's recent cross-border visit.",
+      "lang": "en",
+      "source": "South China Morning Post (China)",
+      "url": "https://www.scmp.com/news/china/diplomacy/article/3373385/chinese-and-north-korean-officials-step-diplomatic-drive-wake-kim-jong-un-visit",
+      "published": "2026-11-05T09:01:01+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "越南國家主席11年來首訪日本 深化雙邊關係",
+    "summary": "越南国家主席苏林将于8日至11日访日，为11年来越南最高领导人首次访日，深化双边关系。",
+    "lang": "zh",
+    "source": "中央社 CNA",
+    "url": "https://www.cna.com.tw/news/aopl/202611050304.aspx",
+    "published": "2026-11-05T11:27:08+00:00",
+    "event_id": "b18876fdc15c",
+    "sources": [
+     {
+      "title": "越南國家主席11年來首訪日本 深化雙邊關係",
+      "summary": "越南国家主席苏林将于8日至11日访日，为11年来越南最高领导人首次访日，深化双边关系。",
+      "lang": "zh",
+      "source": "中央社 CNA",
+      "url": "https://www.cna.com.tw/news/aopl/202611050304.aspx",
+      "published": "2026-11-05T11:27:08+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "South Korea says it will expand naval operations closer to strait of Hormuz",
+    "summary": "South Korea will seek parliamentary approval to expand its naval anti-piracy unit operations closer to the Strait of Hormuz.",
+    "lang": "en",
+    "source": "The Guardian World",
+    "url": "https://www.theguardian.com/world/2026/nov/05/south-korea-to-expand-anti-piracy-unit-strait-of-hormuz",
+    "published": "2026-11-05T04:22:49+00:00",
+    "event_id": "444853f1d6b1",
+    "sources": [
+     {
+      "title": "South Korea says it will expand naval operations closer to strait of Hormuz",
+      "summary": "South Korea will seek parliamentary approval to expand its naval anti-piracy unit operations closer to the Strait of Hormuz.",
+      "lang": "en",
+      "source": "The Guardian World",
+      "url": "https://www.theguardian.com/world/2026/nov/05/south-korea-to-expand-anti-piracy-unit-strait-of-hormuz",
+      "published": "2026-11-05T04:22:49+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "Ex-Politburo member Ma Xingrui’s corruption charges extend to end of last century",
+    "summary": "Former Politburo member Ma Xingrui faces indictment on bribery charges dating back to the late 1990s as Xinjiang Communist Party chief.",
+    "lang": "en",
+    "source": "South China Morning Post (China)",
+    "url": "https://www.scmp.com/news/china/politics/article/3373345/ex-politburo-member-ma-xingruis-corruption-charges-extend-end-last-century",
+    "published": "2026-11-05T06:50:02+00:00",
+    "event_id": "69b5ccffc550",
+    "sources": [
+     {
+      "title": "Ex-Politburo member Ma Xingrui’s corruption charges extend to end of last century",
+      "summary": "Former Politburo member Ma Xingrui faces indictment on bribery charges dating back to the late 1990s as Xinjiang Communist Party chief.",
+      "lang": "en",
+      "source": "South China Morning Post (China)",
+      "url": "https://www.scmp.com/news/china/politics/article/3373345/ex-politburo-member-ma-xingruis-corruption-charges-extend-end-last-century",
+      "published": "2026-11-05T06:50:02+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   }
+  ],
+  "politica|europa": [
+   {
+    "title": "France holds new strikes and protests as unions demand immediate answers",
+    "summary": "Five French unions led a national day of strikes and protests demanding immediate answers from the government.",
+    "lang": "en",
+    "source": "BBC World",
+    "url": "https://www.bbc.co.uk/news/articles/ckx2qzv835pgo?at_medium=RSS&at_campaign=rss",
+    "published": "2026-11-05T13:04:04+00:00",
+    "event_id": "ba26403f95e1",
+    "sources": [
+     {
+      "title": "France holds new strikes and protests as unions demand immediate answers",
+      "summary": "Five French unions led a national day of strikes and protests demanding immediate answers from the government.",
+      "lang": "en",
+      "source": "BBC World",
+      "url": "https://www.bbc.co.uk/news/articles/ckx2qzv835pgo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-05T13:04:04+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "What we know about bomb threats hitting European flights for third day",
+    "summary": "European flights were diverted or made emergency landings Thursday due to bomb threats for a third consecutive day; inspections found nothing.",
+    "lang": "en",
+    "source": "Le Monde International",
+    "url": "https://www.lemonde.fr/en/international/article/2026/11/05/what-we-know-about-bomb-threats-hitting-european-flights-for-third-day_6772571_5.html",
+    "published": "2026-11-05T12:04:39+00:00",
+    "event_id": "1b0b89d49e5f",
+    "sources": [
+     {
+      "title": "What we know about bomb threats hitting European flights for third day",
+      "summary": "European flights were diverted or made emergency landings Thursday due to bomb threats for a third consecutive day; inspections found nothing.",
+      "lang": "en",
+      "source": "Le Monde International",
+      "url": "https://www.lemonde.fr/en/international/article/2026/11/05/what-we-know-about-bomb-threats-hitting-european-flights-for-third-day_6772571_5.html",
+      "published": "2026-11-05T12:04:39+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "Finland jails Russian cargo ship captain over Baltic Sea cable sabotage",
+    "summary": "A Finnish court jailed the Russian captain and Azerbaijani crew member of cargo ship Fitburg for sabotaging Baltic Sea subsea cables.",
+    "lang": "en",
+    "source": "South China Morning Post (Asia)",
+    "url": "https://www.scmp.com/news/world/europe/article/3373432/finland-jails-russian-cargo-ship-captain-over-baltic-sea-cable-sabotage",
+    "published": "2026-11-05T12:30:38+00:00",
+    "event_id": "cad91b7d01b2",
+    "sources": [
+     {
+      "title": "Finland jails Russian cargo ship captain over Baltic Sea cable sabotage",
+      "summary": "A Finnish court jailed the Russian captain and Azerbaijani crew member of cargo ship Fitburg for sabotaging Baltic Sea subsea cables.",
+      "lang": "en",
+      "source": "South China Morning Post (Asia)",
+      "url": "https://www.scmp.com/news/world/europe/article/3373432/finland-jails-russian-cargo-ship-captain-over-baltic-sea-cable-sabotage",
+      "published": "2026-11-05T12:30:38+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "Putin places Japan Tobacco's Russian assets under temporary administration",
+    "summary": "Putin placed Japan Tobacco's Russian assets under temporary state administration.",
+    "lang": "en",
+    "source": "Channel NewsAsia",
+    "url": "https://www.channelnewsasia.com/business/putin-places-japan-tobaccos-russian-assets-under-temporary-administration-6527636",
+    "published": "2026-11-05T12:37:58+00:00",
+    "event_id": "0ff04fe39c31",
+    "sources": [
+     {
+      "title": "Putin places Japan Tobacco's Russian assets under temporary administration",
+      "summary": "Putin placed Japan Tobacco's Russian assets under temporary state administration.",
+      "lang": "en",
+      "source": "Channel NewsAsia",
+      "url": "https://www.channelnewsasia.com/business/putin-places-japan-tobaccos-russian-assets-under-temporary-administration-6527636",
+      "published": "2026-11-05T12:37:58+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "UK found to be ‘dangerously’ reliant on China for critical minerals needed for defence and AI",
+    "summary": "UK MPs warn the country is dangerously dependent on China for critical minerals needed for defense, AI, and achieving net zero targets.",
+    "lang": "en",
+    "source": "The Guardian World",
+    "url": "https://www.theguardian.com/world/2026/nov/05/uk-dangerously-reliant-on-china-critical-minerals-military-ai-renewable-energy",
+    "published": "2026-11-05T05:00:55+00:00",
+    "event_id": "9e0176657cd2",
+    "sources": [
+     {
+      "title": "UK found to be ‘dangerously’ reliant on China for critical minerals needed for defence and AI",
+      "summary": "UK MPs warn the country is dangerously dependent on China for critical minerals needed for defense, AI, and achieving net zero targets.",
+      "lang": "en",
+      "source": "The Guardian World",
+      "url": "https://www.theguardian.com/world/2026/nov/05/uk-dangerously-reliant-on-china-critical-minerals-military-ai-renewable-energy",
+      "published": "2026-11-05T05:00:55+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   }
+  ],
+  "politica|america": [
+   {
+    "title": "Vance walks Trump tightrope with scathing election critique blaming Iran war",
+    "summary": "Vice President Vance issued a scathing critique of Republican election defeat, marking an unusually sharp break with the sitting president.",
+    "lang": "en",
+    "source": "BBC World",
+    "url": "https://www.bbc.co.uk/news/articles/crz98zqkz7z0o?at_medium=RSS&at_campaign=rss",
+    "published": "2026-11-05T03:47:56+00:00",
+    "event_id": "e8db9958c58d",
+    "sources": [
+     {
+      "title": "Vance walks Trump tightrope with scathing election critique blaming Iran war",
+      "summary": "Vice President Vance issued a scathing critique of Republican election defeat, marking an unusually sharp break with the sitting president.",
+      "lang": "en",
+      "source": "BBC World",
+      "url": "https://www.bbc.co.uk/news/articles/crz98zqkz7z0o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-05T03:47:56+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "Abdul El-Sayed welcomes Trump's plan to cut Israel aid, calls for end to arms sales",
+    "summary": "Michigan's first Muslim senator-elect Abdul El-Sayed welcomed Trump's plan to cut Israel aid and called for halting arms sales.",
+    "lang": "en",
+    "source": "NPR World",
+    "url": "https://www.npr.org/2026/11/04/nx-s1-6028702/abdul-el-sayed-michigan-senate-israel-aid",
+    "published": "2026-11-04T13:38:09+00:00",
+    "event_id": "9b8c734ec6dd",
+    "sources": [
+     {
+      "title": "Abdul El-Sayed welcomes Trump's plan to cut Israel aid, calls for end to arms sales",
+      "summary": "Michigan's first Muslim senator-elect Abdul El-Sayed welcomed Trump's plan to cut Israel aid and called for halting arms sales.",
+      "lang": "en",
+      "source": "NPR World",
+      "url": "https://www.npr.org/2026/11/04/nx-s1-6028702/abdul-el-sayed-michigan-senate-israel-aid",
+      "published": "2026-11-04T13:38:09+00:00"
+     }
+    ],
+    "status": "updated",
+    "change_summary": "Abdul El-Sayed welcomes Trump's plan to cut Israel aid, calls for end to arms sales",
+    "previous_date": "2026-11-04",
+    "previous_event_id": "9b8c734ec6dd"
+   },
+   {
+    "title": "德州翻藍：民主黨時隔38年首奪聯邦參議員席次",
+    "summary": "民主党时隔38年首次赢得德州联邦参议员席次，改写该州数十年政治版图并巩固民主党对国会控制。",
+    "lang": "zh",
+    "source": "BBC中文",
+    "url": "https://www.bbc.com/zhongwen/articles/cwzrdzl8v6jjo/trad?at_medium=RSS&at_campaign=rss",
+    "published": "2026-11-04T10:11:20+00:00",
+    "event_id": "74dab33a4157",
+    "sources": [
+     {
+      "title": "德州翻藍：民主黨時隔38年首奪聯邦參議員席次",
+      "summary": "民主党时隔38年首次赢得德州联邦参议员席次，改写该州数十年政治版图并巩固民主党对国会控制。",
+      "lang": "zh",
+      "source": "BBC中文",
+      "url": "https://www.bbc.com/zhongwen/articles/cwzrdzl8v6jjo/trad?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-04T10:11:20+00:00"
+     }
+    ],
+    "status": "unchanged",
+    "change_summary": "",
+    "previous_date": "2026-11-04",
+    "previous_event_id": "74dab33a4157"
+   },
+   {
+    "title": "Democrats seize full control of Congress. And, which candidates made history last night",
+    "summary": "Democrats won full control of Congress for the first time since 2023, and historic victories were achieved in several states.",
+    "lang": "en",
+    "source": "NPR World",
+    "url": "https://www.npr.org/2026/11/04/g-s1-151745/up-first-newsletter-midterms-democrats-congress-control",
+    "published": "2026-11-04T12:18:39+00:00",
+    "event_id": "e93c1d5cb5c8",
+    "sources": [
+     {
+      "title": "Democrats seize full control of Congress. And, which candidates made history last night",
+      "summary": "Democrats won full control of Congress for the first time since 2023, and historic victories were achieved in several states.",
+      "lang": "en",
+      "source": "NPR World",
+      "url": "https://www.npr.org/2026/11/04/g-s1-151745/up-first-newsletter-midterms-democrats-congress-control",
+      "published": "2026-11-04T12:18:39+00:00"
+     }
+    ],
+    "status": "unchanged",
+    "change_summary": "",
+    "previous_date": "2026-11-04",
+    "previous_event_id": "e93c1d5cb5c8"
+   }
+  ],
+  "tecnologia|asia": [
+   {
+    "title": "8 吋晶圓掀漲價潮！TrendForce：明年全球晶圓代工產值有望再衝三成",
+    "summary": "8英寸晶圆掀起涨价潮，集邦科技预测2027年全球晶圆代工产值有望增长三成。",
+    "lang": "zh",
+    "source": "科技新報 TechNews",
+    "url": "https://technews.tw/2026/11/05/trendforce-2027-annual-forecast-foundry-and-price/",
+    "published": "2026-11-05T11:58:40+00:00",
+    "event_id": "b062123543f4",
+    "sources": [
+     {
+      "title": "8 吋晶圓掀漲價潮！TrendForce：明年全球晶圓代工產值有望再衝三成",
+      "summary": "8英寸晶圆掀起涨价潮，集邦科技预测2027年全球晶圆代工产值有望增长三成。",
+      "lang": "zh",
+      "source": "科技新報 TechNews",
+      "url": "https://technews.tw/2026/11/05/trendforce-2027-annual-forecast-foundry-and-price/",
+      "published": "2026-11-05T11:58:40+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "Debian、Ubuntu修補高風險APT套件漏洞，中間人可替換套件取得root權限",
+    "summary": "Debian与Ubuntu修补APT套件管理工具高风险漏洞，攻击者可通过控制HTTP传输替换套件并获取root权限。",
+    "lang": "zh",
+    "source": "iThome 台灣",
+    "url": "https://www.ithome.com.tw/news/180262",
+    "published": "2026-11-05T05:11:32+00:00",
+    "event_id": "e46fd02e2527",
+    "sources": [
+     {
+      "title": "Debian、Ubuntu修補高風險APT套件漏洞，中間人可替換套件取得root權限",
+      "summary": "Debian与Ubuntu修补APT套件管理工具高风险漏洞，攻击者可通过控制HTTP传输替换套件并获取root权限。",
+      "lang": "zh",
+      "source": "iThome 台灣",
+      "url": "https://www.ithome.com.tw/news/180262",
+      "published": "2026-11-05T05:11:32+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "熱門遊戲《勝利女神：妮姬》遭遇供應鏈攻擊，玩家電腦恐被植入竊資軟體",
+    "summary": "韩国游戏《勝利女神：妮姬》遭供应链攻击，駭客竄改啟動器散布具备远程控制和数据窃取能力的恶意程式。",
+    "lang": "zh",
+    "source": "iThome 台灣",
+    "url": "https://www.ithome.com.tw/news/180259",
+    "published": "2026-11-05T02:11:56+00:00",
+    "event_id": "6bd8bf5f1464",
+    "sources": [
+     {
+      "title": "熱門遊戲《勝利女神：妮姬》遭遇供應鏈攻擊，玩家電腦恐被植入竊資軟體",
+      "summary": "韩国游戏《勝利女神：妮姬》遭供应链攻击，駭客竄改啟動器散布具备远程控制和数据窃取能力的恶意程式。",
+      "lang": "zh",
+      "source": "iThome 台灣",
+      "url": "https://www.ithome.com.tw/news/180259",
+      "published": "2026-11-05T02:11:56+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   }
+  ],
+  "tecnologia|europa": [
+   {
+    "title": "【資安日報】11月5日，法國國家血液機構冷藏設備遭網路攻擊，3處設施溫度控制遭竄改",
+    "summary": "法国国家血液机构冷藏设备遭网络攻击，3处设施温度控制被篡改；俄罗斯APT29大规模攻击iOS和Android设备。",
+    "lang": "zh",
+    "source": "iThome 台灣",
+    "url": "https://www.ithome.com.tw/news/180260",
+    "published": "2026-11-05T02:11:26+00:00",
+    "event_id": "e7a3972566ce",
+    "sources": [
+     {
+      "title": "【資安日報】11月5日，法國國家血液機構冷藏設備遭網路攻擊，3處設施溫度控制遭竄改",
+      "summary": "法国国家血液机构冷藏设备遭网络攻击，3处设施温度控制被篡改；俄罗斯APT29大规模攻击iOS和Android设备。",
+      "lang": "zh",
+      "source": "iThome 台灣",
+      "url": "https://www.ithome.com.tw/news/180260",
+      "published": "2026-11-05T02:11:26+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   }
+  ],
+  "tecnologia|america": [
+   {
+    "title": "OpenAI to acquire Pierre Computer Company, Inc.",
+    "summary": "OpenAI announced it will acquire Pierre Computer Company to expand Codex tools for building and reviewing code.",
+    "lang": "en",
+    "source": "OpenAI News",
+    "url": "https://openai.com/index/openai-to-acquire-pierre",
+    "published": "2026-11-04T14:30:00+00:00",
+    "event_id": "3a06f84c0f51",
+    "sources": [
+     {
+      "title": "OpenAI to acquire Pierre Computer Company, Inc.",
+      "summary": "OpenAI announced it will acquire Pierre Computer Company to expand Codex tools for building and reviewing code.",
+      "lang": "en",
+      "source": "OpenAI News",
+      "url": "https://openai.com/index/openai-to-acquire-pierre",
+      "published": "2026-11-04T14:30:00+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "Apple is reportedly cutting budgets for its internal AI usage",
+    "summary": "Apple is reportedly cutting budgets for internal AI usage across its engineering teams.",
+    "lang": "en",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/11/04/apple-is-reportedly-cutting-budgets-for-its-internal-ai-usage/",
+    "published": "2026-11-05T01:26:22+00:00",
+    "event_id": "1c7da4acfcdd",
+    "sources": [
+     {
+      "title": "Apple is reportedly cutting budgets for its internal AI usage",
+      "summary": "Apple is reportedly cutting budgets for internal AI usage across its engineering teams.",
+      "lang": "en",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/11/04/apple-is-reportedly-cutting-budgets-for-its-internal-ai-usage/",
+      "published": "2026-11-05T01:26:22+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "Hackers exploited iOS and Android flaws to infect phones",
+    "summary": "Hackers exploited iOS and Android flaws to infect phones; researchers suggest the group may be Kremlin-sponsored targeting diplomats.",
+    "lang": "en",
+    "source": "Ars Technica",
+    "url": "https://arstechnica.com/security/2026/11/hackers-exploited-ios-and-android-flaws-to-infect-phones/",
+    "published": "2026-11-04T22:26:49+00:00",
+    "event_id": "bc594cd9fbf9",
+    "sources": [
+     {
+      "title": "Hackers exploited iOS and Android flaws to infect phones",
+      "summary": "Hackers exploited iOS and Android flaws to infect phones; researchers suggest the group may be Kremlin-sponsored targeting diplomats.",
+      "lang": "en",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/security/2026/11/hackers-exploited-ios-and-android-flaws-to-infect-phones/",
+      "published": "2026-11-04T22:26:49+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   }
+  ]
+ }
+}
