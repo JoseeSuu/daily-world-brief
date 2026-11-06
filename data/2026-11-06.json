@@ -1,0 +1,787 @@
+{
+ "date": "2026-11-06",
+ "generated_at": "2026-11-06T13:10:18.834577+00:00",
+ "mode": "full",
+ "cost_usd": 0.0478,
+ "selection": {
+  "model": "claude-haiku-5-5",
+  "effort": "high",
+  "passes": 3,
+  "passes_ok": 3,
+  "cost_usd": 0.0203
+ },
+ "events": {
+  "mode": "full",
+  "compared_with": "2026-11-05",
+  "articles": 33,
+  "uncompared_articles": 0,
+  "events": 32,
+  "cost_usd": 0.0166
+ },
+ "market": null,
+ "failed_sources": [],
+ "cells": {
+  "economia|europa": [
+   {
+    "title": "Agricultura activa por primera vez la retirada del 12% de la producción de aceite para evitar el desplome de los precios",
+    "summary": "El ministerio de Agricultura activa por primera vez la retirada del 12% de la producción de aceite para evitar el desplome de precios, usando el mecanismo previsto para campañas excedentarias.",
+    "lang": "es",
+    "source": "El País Economía",
+    "url": "https://elpais.com/economia/2026-11-05/agricultura-activa-por-primera-vez-la-retirada-del-12-de-la-produccion-de-aceite-para-evitar-el-desplome-de-los-precios.html",
+    "published": "2026-11-05T21:01:00+00:00",
+    "event_id": "b8a9bdf2d805",
+    "sources": [
+     {
+      "title": "Agricultura activa por primera vez la retirada del 12% de la producción de aceite para evitar el desplome de los precios",
+      "summary": "El ministerio de Agricultura activa por primera vez la retirada del 12% de la producción de aceite para evitar el desplome de precios, usando el mecanismo previsto para campañas excedentarias.",
+      "lang": "es",
+      "source": "El País Economía",
+      "url": "https://elpais.com/economia/2026-11-05/agricultura-activa-por-primera-vez-la-retirada-del-12-de-la-produccion-de-aceite-para-evitar-el-desplome-de-los-precios.html",
+      "published": "2026-11-05T21:01:00+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "ECB Is Gathering Data for Rate Decision in December, Lane Says",
+    "summary": "The European Central Bank is reviewing all incoming data before its December interest-rate decision, with markets anticipating a potential rate move.",
+    "lang": "en",
+    "source": "Bloomberg Economics",
+    "url": "https://www.bloomberg.com/news/articles/2026-11-06/ecb-is-gathering-data-for-rate-decision-in-december-lane-says",
+    "published": "2026-11-06T10:03:43+00:00",
+    "event_id": "d902576be3ad",
+    "sources": [
+     {
+      "title": "ECB Is Gathering Data for Rate Decision in December, Lane Says",
+      "summary": "The European Central Bank is reviewing all incoming data before its December interest-rate decision, with markets anticipating a potential rate move.",
+      "lang": "en",
+      "source": "Bloomberg Economics",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-06/ecb-is-gathering-data-for-rate-decision-in-december-lane-says",
+      "published": "2026-11-06T10:03:43+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "French Salary Squeeze Intensifies Ahead of Minimum Wage Talks",
+    "summary": "French workers face intensifying salary pressures from rising inflation ahead of upcoming minimum wage negotiations.",
+    "lang": "en",
+    "source": "Bloomberg Economics",
+    "url": "https://www.bloomberg.com/news/articles/2026-11-06/french-salary-squeeze-intensifies-ahead-of-minimum-wage-talks",
+    "published": "2026-11-06T10:13:22+00:00",
+    "event_id": "97c02ad5ef1a",
+    "sources": [
+     {
+      "title": "French Salary Squeeze Intensifies Ahead of Minimum Wage Talks",
+      "summary": "French workers face intensifying salary pressures from rising inflation ahead of upcoming minimum wage negotiations.",
+      "lang": "en",
+      "source": "Bloomberg Economics",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-06/french-salary-squeeze-intensifies-ahead-of-minimum-wage-talks",
+      "published": "2026-11-06T10:13:22+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "Two Polish Policymakers Say December Rate Rise Is an Option",
+    "summary": "Two Polish policymakers signal that an interest-rate increase is possible within months, potentially in December, marking Poland's first hike since 2022.",
+    "lang": "en",
+    "source": "Bloomberg Economics",
+    "url": "https://www.bloomberg.com/news/articles/2026-11-06/two-polish-policymakers-say-december-rate-rise-is-an-option",
+    "published": "2026-11-06T11:33:42+00:00",
+    "event_id": "7798961ff4f2",
+    "sources": [
+     {
+      "title": "Two Polish Policymakers Say December Rate Rise Is an Option",
+      "summary": "Two Polish policymakers signal that an interest-rate increase is possible within months, potentially in December, marking Poland's first hike since 2022.",
+      "lang": "en",
+      "source": "Bloomberg Economics",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-06/two-polish-policymakers-say-december-rate-rise-is-an-option",
+      "published": "2026-11-06T11:33:42+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   }
+  ],
+  "politica|europa": [
+   {
+    "title": "El rey de Bélgica rechaza la dimisión del primer ministro e insta a los partidos a seguir negociando",
+    "summary": "El rey de Bélgica rechaza la dimisión del primer ministro Bart De Wever e insta a los partidos a continuar negociando la coalición de gobierno tras el fracaso presupuestario.",
+    "lang": "es",
+    "source": "El País Internacional",
+    "url": "https://elpais.com/internacional/2026-11-06/el-rey-de-belgica-rechaza-la-dimision-del-primer-ministro-e-insta-a-los-partidos-a-seguir-negociando.html",
+    "published": "2026-11-06T12:19:12+00:00",
+    "event_id": "6b467eaa9768",
+    "sources": [
+     {
+      "title": "El rey de Bélgica rechaza la dimisión del primer ministro e insta a los partidos a seguir negociando",
+      "summary": "El rey de Bélgica rechaza la dimisión del primer ministro Bart De Wever e insta a los partidos a continuar negociando la coalición de gobierno tras el fracaso presupuestario.",
+      "lang": "es",
+      "source": "El País Internacional",
+      "url": "https://elpais.com/internacional/2026-11-06/el-rey-de-belgica-rechaza-la-dimision-del-primer-ministro-e-insta-a-los-partidos-a-seguir-negociando.html",
+      "published": "2026-11-06T12:19:12+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "Arrests and investigations as Serbia begins post-election clean-up",
+    "summary": "Serbia's post-election clean-up includes arrests and investigations as the Students' List's landslide victory appears to unblock long-stalled justice system cases.",
+    "lang": "en",
+    "source": "Deutsche Welle World",
+    "url": "https://www.dw.com/en/arrests-and-investigations-as-serbia-begins-post-election-clean-up/a-79868652?maca=en-rss-en-world-4025-rdf",
+    "published": "2026-11-05T17:00:00+00:00",
+    "event_id": "1412e3104bc3",
+    "sources": [
+     {
+      "title": "Arrests and investigations as Serbia begins post-election clean-up",
+      "summary": "Serbia's post-election clean-up includes arrests and investigations as the Students' List's landslide victory appears to unblock long-stalled justice system cases.",
+      "lang": "en",
+      "source": "Deutsche Welle World",
+      "url": "https://www.dw.com/en/arrests-and-investigations-as-serbia-begins-post-election-clean-up/a-79868652?maca=en-rss-en-world-4025-rdf",
+      "published": "2026-11-05T17:00:00+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "Russian extremist group denies sending hoax bomb threats",
+    "summary": "A Russian extremist group denies responsibility for hoax bomb threats sent to European flights this week, with no explosives discovered.",
+    "lang": "en",
+    "source": "BBC World",
+    "url": "https://www.bbc.co.uk/news/articles/cm2d66n0lx1yo?at_medium=RSS&at_campaign=rss",
+    "published": "2026-11-06T12:51:38+00:00",
+    "event_id": "1b0b89d49e5f",
+    "sources": [
+     {
+      "title": "Russian extremist group denies sending hoax bomb threats",
+      "summary": "A Russian extremist group denies responsibility for hoax bomb threats sent to European flights this week, with no explosives discovered.",
+      "lang": "en",
+      "source": "BBC World",
+      "url": "https://www.bbc.co.uk/news/articles/cm2d66n0lx1yo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-06T12:51:38+00:00"
+     }
+    ],
+    "status": "updated",
+    "change_summary": "Russian extremist group denies sending hoax bomb threats",
+    "previous_date": "2026-11-05",
+    "previous_event_id": "1b0b89d49e5f"
+   },
+   {
+    "title": "Spain train crash: EU investigating fraud in renovation of rail line",
+    "summary": "The European Public Prosecutor's Office investigates potential EU fraud in the renovation of the Spanish rail line involved in a deadly train crash.",
+    "lang": "en",
+    "source": "Le Monde International",
+    "url": "https://www.lemonde.fr/en/international/article/2026/11/06/spanish-train-crash-eu-investigating-fraud-in-renovation-of-rail-line_6773428_4.html",
+    "published": "2026-11-06T11:06:36+00:00",
+    "event_id": "82bb749da139",
+    "sources": [
+     {
+      "title": "Spain train crash: EU investigating fraud in renovation of rail line",
+      "summary": "The European Public Prosecutor's Office investigates potential EU fraud in the renovation of the Spanish rail line involved in a deadly train crash.",
+      "lang": "en",
+      "source": "Le Monde International",
+      "url": "https://www.lemonde.fr/en/international/article/2026/11/06/spanish-train-crash-eu-investigating-fraud-in-renovation-of-rail-line_6773428_4.html",
+      "published": "2026-11-06T11:06:36+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   }
+  ],
+  "economia|asia": [
+   {
+    "title": "Grab to cut maximum take on Vietnam rides to 32% from 40%",
+    "summary": "Grab reduces its maximum commission on Vietnam rides from 40% to 32%, lowering costs for passengers on the ride-hailing platform.",
+    "lang": "en",
+    "source": "Nikkei Asia",
+    "url": "https://asia.nikkei.com/business/startups/grab-to-cut-maximum-take-on-vietnam-rides-to-32-from-40",
+    "published": null,
+    "event_id": "75948e3a4f48",
+    "sources": [
+     {
+      "title": "Grab to cut maximum take on Vietnam rides to 32% from 40%",
+      "summary": "Grab reduces its maximum commission on Vietnam rides from 40% to 32%, lowering costs for passengers on the ride-hailing platform.",
+      "lang": "en",
+      "source": "Nikkei Asia",
+      "url": "https://asia.nikkei.com/business/startups/grab-to-cut-maximum-take-on-vietnam-rides-to-32-from-40",
+      "published": null
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "Singapore banks struggle with bond yield and interest rate tensions",
+    "summary": "Singapore banks face challenges managing bond yields and interest rate tensions, impacting their financial operations and profitability.",
+    "lang": "en",
+    "source": "Nikkei Asia",
+    "url": "https://asia.nikkei.com/business/finance/singapore-banks-struggle-with-bond-yield-and-interest-rate-tensions",
+    "published": null,
+    "event_id": "d3f09ff60acc",
+    "sources": [
+     {
+      "title": "Singapore banks struggle with bond yield and interest rate tensions",
+      "summary": "Singapore banks face challenges managing bond yields and interest rate tensions, impacting their financial operations and profitability.",
+      "lang": "en",
+      "source": "Nikkei Asia",
+      "url": "https://asia.nikkei.com/business/finance/singapore-banks-struggle-with-bond-yield-and-interest-rate-tensions",
+      "published": null
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "中国阻止软银以54亿美元收购ABB机器人业务",
+    "summary": "中国监管机构否决软银以54亿美元收购ABB机器人业务的交易，反映中国对外资收购关键技术企业的审查趋严。",
+    "lang": "zh",
+    "source": "纽约时报中文网",
+    "url": "https://cn.nytimes.com/business/20261106/softbank-robotics-china-block/?utm_source=RSS",
+    "published": "2026-11-06T00:26:43+00:00",
+    "event_id": "fa063244676a",
+    "sources": [
+     {
+      "title": "中国阻止软银以54亿美元收购ABB机器人业务",
+      "summary": "中国监管机构否决软银以54亿美元收购ABB机器人业务的交易，反映中国对外资收购关键技术企业的审查趋严。",
+      "lang": "zh",
+      "source": "纽约时报中文网",
+      "url": "https://cn.nytimes.com/business/20261106/softbank-robotics-china-block/?utm_source=RSS",
+      "published": "2026-11-06T00:26:43+00:00"
+     }
+    ],
+    "status": "unchanged",
+    "change_summary": "",
+    "previous_date": "2026-11-05",
+    "previous_event_id": "fa063244676a"
+   }
+  ],
+  "economia|america": [
+   {
+    "title": "Wall Street sheds $3.2tn as tech-heavy Nasdaq plunges",
+    "summary": "Wall Street loses $3.2 trillion as the Nasdaq 100 plunges 6.4% during a day of chaotic trading driven by tech-sector losses.",
+    "lang": "en",
+    "source": "Financial Times",
+    "url": "https://www.ft.com/content/3d079b3d-580d-400b-bf9c-56af6a08f60f?syn-25a6b1a6=1",
+    "published": "2026-11-05T22:41:52+00:00",
+    "event_id": "d347663d90ca",
+    "sources": [
+     {
+      "title": "Wall Street sheds $3.2tn as tech-heavy Nasdaq plunges",
+      "summary": "Wall Street loses $3.2 trillion as the Nasdaq 100 plunges 6.4% during a day of chaotic trading driven by tech-sector losses.",
+      "lang": "en",
+      "source": "Financial Times",
+      "url": "https://www.ft.com/content/3d079b3d-580d-400b-bf9c-56af6a08f60f?syn-25a6b1a6=1",
+      "published": "2026-11-05T22:41:52+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "Chile’s Annual Inflation Hits Highest Level in Over a Year",
+    "summary": "Chile's annual inflation accelerates further above target, hitting its highest level in over a year, days after central bankers considered raising rates.",
+    "lang": "en",
+    "source": "Bloomberg Economics",
+    "url": "https://www.bloomberg.com/news/articles/2026-11-06/chile-annual-inflation-speeds-up-to-highest-level-in-over-a-year",
+    "published": "2026-11-06T11:27:02+00:00",
+    "event_id": "c5e5af8a11da",
+    "sources": [
+     {
+      "title": "Chile’s Annual Inflation Hits Highest Level in Over a Year",
+      "summary": "Chile's annual inflation accelerates further above target, hitting its highest level in over a year, days after central bankers considered raising rates.",
+      "lang": "en",
+      "source": "Bloomberg Economics",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-06/chile-annual-inflation-speeds-up-to-highest-level-in-over-a-year",
+      "published": "2026-11-06T11:27:02+00:00"
+     }
+    ],
+    "status": "updated",
+    "change_summary": "Chile's Annual Inflation Hits Highest Level in Over a Year",
+    "previous_date": "2026-11-05",
+    "previous_event_id": "c5e5af8a11da"
+   },
+   {
+    "title": "US Jobs Report October 2026: Live News on Employment, Payrolls",
+    "summary": "Live updates on the October 2026 US employment report covering jobs data, payrolls, and labor market conditions.",
+    "lang": "en",
+    "source": "Bloomberg Economics",
+    "url": "https://www.bloomberg.com/news/live-blog/2026-11-06/us-employment-report-for-october-live-updates",
+    "published": "2026-11-06T12:31:12+00:00",
+    "event_id": "1893060b9ce2",
+    "sources": [
+     {
+      "title": "US Jobs Report October 2026: Live News on Employment, Payrolls",
+      "summary": "Live updates on the October 2026 US employment report covering jobs data, payrolls, and labor market conditions.",
+      "lang": "en",
+      "source": "Bloomberg Economics",
+      "url": "https://www.bloomberg.com/news/live-blog/2026-11-06/us-employment-report-for-october-live-updates",
+      "published": "2026-11-06T12:31:12+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   }
+  ],
+  "politica|america": [
+   {
+    "title": "Paraguay’s president quits after millions of people’s savings frozen in bank crisis",
+    "summary": "Paraguay's rightwing President Santiago Peña resigns after his administration's authorization of Ueno Bank's expansion preceded a crisis freezing millions of citizens' savings.",
+    "lang": "en",
+    "source": "The Guardian World",
+    "url": "https://www.theguardian.com/world/2026/nov/05/paraguay-president-santiago-pena-resigns",
+    "published": "2026-11-06T06:16:22+00:00",
+    "event_id": "5944c8a29886",
+    "sources": [
+     {
+      "title": "Paraguay’s president quits after millions of people’s savings frozen in bank crisis",
+      "summary": "Paraguay's rightwing President Santiago Peña resigns after his administration's authorization of Ueno Bank's expansion preceded a crisis freezing millions of citizens' savings.",
+      "lang": "en",
+      "source": "The Guardian World",
+      "url": "https://www.theguardian.com/world/2026/nov/05/paraguay-president-santiago-pena-resigns",
+      "published": "2026-11-06T06:16:22+00:00"
+     },
+     {
+      "title": "How a Bank Scandal Is Taking Down Trump’s Ally in Paraguay",
+      "summary": "A bank scandal involving Paraguay's Ueno Bank is damaging Trump's ally, with Inter-American Development Bank officials discovering irregularities in the institution.",
+      "lang": "en",
+      "source": "Bloomberg Markets",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-06/how-a-banking-scandal-is-taking-down-trump-s-ally-in-paraguay",
+      "published": "2026-11-06T00:24:58+00:00"
+     }
+    ],
+    "status": "unclear",
+    "change_summary": "",
+    "previous_date": "2026-11-05",
+    "previous_event_id": "5944c8a29886"
+   },
+   {
+    "title": "Melania hosts Russia and Ukraine at the White House as Trump touts 'big agreement'",
+    "summary": "Melania hosts an unprecedented meeting between Russian and Ukrainian officials at the White House, building on a six-day truce; Ukrainian President Zelensky awarded her recognition.",
+    "lang": "en",
+    "source": "Le Monde International",
+    "url": "https://www.lemonde.fr/en/international/article/2026/11/06/melania-hosts-russia-and-ukraine-as-trump-touts-big-agreement_6773131_4.html",
+    "published": "2026-11-06T00:11:26+00:00",
+    "event_id": "505a58465287",
+    "sources": [
+     {
+      "title": "Melania hosts Russia and Ukraine at the White House as Trump touts 'big agreement'",
+      "summary": "Melania hosts an unprecedented meeting between Russian and Ukrainian officials at the White House, building on a six-day truce; Ukrainian President Zelensky awarded her recognition.",
+      "lang": "en",
+      "source": "Le Monde International",
+      "url": "https://www.lemonde.fr/en/international/article/2026/11/06/melania-hosts-russia-and-ukraine-as-trump-touts-big-agreement_6773131_4.html",
+      "published": "2026-11-06T00:11:26+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "White House denies Hegseth and Rubio to leave jobs after Republican election losses",
+    "summary": "The White House denies reports of Pete Hegseth and Marco Rubio leaving their positions following Republican election losses and speculation about Rubio's presidential ambitions.",
+    "lang": "en",
+    "source": "BBC World",
+    "url": "https://www.bbc.co.uk/news/articles/cqg7xxg4jdv5o?at_medium=RSS&at_campaign=rss",
+    "published": "2026-11-06T02:08:57+00:00",
+    "event_id": "70c2d1cce37e",
+    "sources": [
+     {
+      "title": "White House denies Hegseth and Rubio to leave jobs after Republican election losses",
+      "summary": "The White House denies reports of Pete Hegseth and Marco Rubio leaving their positions following Republican election losses and speculation about Rubio's presidential ambitions.",
+      "lang": "en",
+      "source": "BBC World",
+      "url": "https://www.bbc.co.uk/news/articles/cqg7xxg4jdv5o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-06T02:08:57+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "Pope begins lengthy trip to Latin America weeks after lung cancer surgery",
+    "summary": "Pope Leo begins a lengthy Latin American trip to Uruguay, Argentina, and Peru weeks after undergoing lung cancer surgery requiring partial lung removal.",
+    "lang": "en",
+    "source": "BBC World",
+    "url": "https://www.bbc.co.uk/news/articles/cqn06j0y61k6o?at_medium=RSS&at_campaign=rss",
+    "published": "2026-11-06T00:02:57+00:00",
+    "event_id": "d81699aabec8",
+    "sources": [
+     {
+      "title": "Pope begins lengthy trip to Latin America weeks after lung cancer surgery",
+      "summary": "Pope Leo begins a lengthy Latin American trip to Uruguay, Argentina, and Peru weeks after undergoing lung cancer surgery requiring partial lung removal.",
+      "lang": "en",
+      "source": "BBC World",
+      "url": "https://www.bbc.co.uk/news/articles/cqn06j0y61k6o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-06T00:02:57+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "Trump's triumphal arch blocked by federal judge",
+    "summary": "A federal judge blocks Trump's triumphal arch construction for two weeks while the court considers the case, preventing immediate project commencement.",
+    "lang": "en",
+    "source": "Le Monde International",
+    "url": "https://www.lemonde.fr/en/international/article/2026/11/06/trump-s-triumphal-arch-blocked-by-federal-judge_6773230_4.html",
+    "published": "2026-11-06T06:28:12+00:00",
+    "event_id": "d47eeefa0089",
+    "sources": [
+     {
+      "title": "Trump's triumphal arch blocked by federal judge",
+      "summary": "A federal judge blocks Trump's triumphal arch construction for two weeks while the court considers the case, preventing immediate project commencement.",
+      "lang": "en",
+      "source": "Le Monde International",
+      "url": "https://www.lemonde.fr/en/international/article/2026/11/06/trump-s-triumphal-arch-blocked-by-federal-judge_6773230_4.html",
+      "published": "2026-11-06T06:28:12+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   }
+  ],
+  "politica|asia": [
+   {
+    "title": "Jailed Malaysian ex-PM Najib pays fine, meeting condition for house arrest",
+    "summary": "Jailed Malaysian ex-Prime Minister Najib pays a fine to meet conditions for house arrest following a conditional pardon granted by Malaysian King Sultan Ibrahim.",
+    "lang": "en",
+    "source": "Japan Times",
+    "url": "https://www.japantimes.co.jp/news/2026/11/06/asia-pacific/crime-legal/najib-pays-house-arrest-fine/",
+    "published": "2026-11-06T08:49:00+00:00",
+    "event_id": "e5350e945941",
+    "sources": [
+     {
+      "title": "Jailed Malaysian ex-PM Najib pays fine, meeting condition for house arrest",
+      "summary": "Jailed Malaysian ex-Prime Minister Najib pays a fine to meet conditions for house arrest following a conditional pardon granted by Malaysian King Sultan Ibrahim.",
+      "lang": "en",
+      "source": "Japan Times",
+      "url": "https://www.japantimes.co.jp/news/2026/11/06/asia-pacific/crime-legal/najib-pays-house-arrest-fine/",
+      "published": "2026-11-06T08:49:00+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "川普致電卡達元首 討論美伊戰爭外交斡旋",
+    "summary": "美国总统川普致电卡达元首讨论结束美伊战争的外交斡旋行动。",
+    "lang": "zh",
+    "source": "中央社 CNA",
+    "url": "https://www.cna.com.tw/news/aopl/202611060292.aspx",
+    "published": "2026-11-06T10:47:49+00:00",
+    "event_id": "0a6dd5217423",
+    "sources": [
+     {
+      "title": "川普致電卡達元首 討論美伊戰爭外交斡旋",
+      "summary": "美国总统川普致电卡达元首讨论结束美伊战争的外交斡旋行动。",
+      "lang": "zh",
+      "source": "中央社 CNA",
+      "url": "https://www.cna.com.tw/news/aopl/202611060292.aspx",
+      "published": "2026-11-06T10:47:49+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "澳門國安首案宣判：區錦新囚12年半，妻子斥「莫須有迫害」",
+    "summary": "澳门首宗国安案宣判，区锦新被判监12年半，其妻子指控系莫须有迫害。案件未公开审理，律师身份不明。",
+    "lang": "zh",
+    "source": "BBC中文",
+    "url": "https://www.bbc.com/zhongwen/articles/cw62yyejjrlro/trad?at_medium=RSS&at_campaign=rss",
+    "published": "2026-11-06T13:03:16+00:00",
+    "event_id": "865f38d048ec",
+    "sources": [
+     {
+      "title": "澳門國安首案宣判：區錦新囚12年半，妻子斥「莫須有迫害」",
+      "summary": "澳门首宗国安案宣判，区锦新被判监12年半，其妻子指控系莫须有迫害。案件未公开审理，律师身份不明。",
+      "lang": "zh",
+      "source": "BBC中文",
+      "url": "https://www.bbc.com/zhongwen/articles/cw62yyejjrlro/trad?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-06T13:03:16+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   }
+  ],
+  "tecnologia|asia": [
+   {
+    "title": "Takaichi administration announces emergency cyberdefense package",
+    "summary": "Japan's Takaichi administration announces an emergency cyberdefense package focusing on strengthening private-public cooperation and building expert teams.",
+    "lang": "en",
+    "source": "Japan Times",
+    "url": "https://www.japantimes.co.jp/news/2026/11/06/japan/takaichi-cybersecurity-package/",
+    "published": "2026-11-06T09:20:00+00:00",
+    "event_id": "d1cac0051d01",
+    "sources": [
+     {
+      "title": "Takaichi administration announces emergency cyberdefense package",
+      "summary": "Japan's Takaichi administration announces an emergency cyberdefense package focusing on strengthening private-public cooperation and building expert teams.",
+      "lang": "en",
+      "source": "Japan Times",
+      "url": "https://www.japantimes.co.jp/news/2026/11/06/japan/takaichi-cybersecurity-package/",
+      "published": "2026-11-06T09:20:00+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "長江存儲第四晶圓廠本土設備力拼占比逾七成，進一步降低美國箝制",
+    "summary": "中国芯片制造商长江存储计划第四座武汉晶圆厂本土设备采购比例超七成，以降低美国制裁风险。",
+    "lang": "zh",
+    "source": "科技新報 TechNews",
+    "url": "https://finance.technews.tw/2026/11/06/yangtze-memory-technologies-fourth-wafer-fab-strives-to-achieve-a-domestic-equipment-ratio-of-over-70/",
+    "published": "2026-11-06T12:20:38+00:00",
+    "event_id": "f535e56c645f",
+    "sources": [
+     {
+      "title": "長江存儲第四晶圓廠本土設備力拼占比逾七成，進一步降低美國箝制",
+      "summary": "中国芯片制造商长江存储计划第四座武汉晶圆厂本土设备采购比例超七成，以降低美国制裁风险。",
+      "lang": "zh",
+      "source": "科技新報 TechNews",
+      "url": "https://finance.technews.tw/2026/11/06/yangtze-memory-technologies-fourth-wafer-fab-strives-to-achieve-a-domestic-equipment-ratio-of-over-70/",
+      "published": "2026-11-06T12:20:38+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "SonicWall GMS爆出免登入檔案讀取漏洞，產品退役無修補可用",
+    "summary": "防火墙厂商SonicWall发现已终止支援的集中管理平台GMS存在免登入档案读取漏洞，无修补可用。",
+    "lang": "zh",
+    "source": "iThome 台灣",
+    "url": "https://www.ithome.com.tw/news/180287",
+    "published": "2026-11-06T02:11:13+00:00",
+    "event_id": "8dee7c0dca3f",
+    "sources": [
+     {
+      "title": "SonicWall GMS爆出免登入檔案讀取漏洞，產品退役無修補可用",
+      "summary": "防火墙厂商SonicWall发现已终止支援的集中管理平台GMS存在免登入档案读取漏洞，无修补可用。",
+      "lang": "zh",
+      "source": "iThome 台灣",
+      "url": "https://www.ithome.com.tw/news/180287",
+      "published": "2026-11-06T02:11:13+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "【資安日報】11月6日，OpenSSH修補長密碼身分驗證繞過漏洞",
+    "summary": "OpenSSH修补长密码身分验证绕过漏洞，Node-RED重大漏洞被用于尝试部署后门程式。",
+    "lang": "zh",
+    "source": "iThome 台灣",
+    "url": "https://www.ithome.com.tw/news/180289",
+    "published": "2026-11-06T03:11:37+00:00",
+    "event_id": "1e09dc1b9c1b",
+    "sources": [
+     {
+      "title": "【資安日報】11月6日，OpenSSH修補長密碼身分驗證繞過漏洞",
+      "summary": "OpenSSH修补长密码身分验证绕过漏洞，Node-RED重大漏洞被用于尝试部署后门程式。",
+      "lang": "zh",
+      "source": "iThome 台灣",
+      "url": "https://www.ithome.com.tw/news/180289",
+      "published": "2026-11-06T03:11:37+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   }
+  ],
+  "tecnologia|america": [
+   {
+    "title": "Gemini Omni 1.2 Flash: Fast and cost-effective with longer clips",
+    "summary": "Google DeepMind releases Gemini Omni 1.2 Flash, a fast and cost-effective model that supports longer video clips for improved performance.",
+    "lang": "en",
+    "source": "Google DeepMind Blog",
+    "url": "https://deepmind.google/blog/gemini-omni-12-flash-fast-and-cost-effective-with-longer-clips/",
+    "published": "2026-11-05T17:05:16+00:00",
+    "event_id": "825a50d1c0ad",
+    "sources": [
+     {
+      "title": "Gemini Omni 1.2 Flash: Fast and cost-effective with longer clips",
+      "summary": "Google DeepMind releases Gemini Omni 1.2 Flash, a fast and cost-effective model that supports longer video clips for improved performance.",
+      "lang": "en",
+      "source": "Google DeepMind Blog",
+      "url": "https://deepmind.google/blog/gemini-omni-12-flash-fast-and-cost-effective-with-longer-clips/",
+      "published": "2026-11-05T17:05:16+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "Tesla will stop making the Cybertruck in 2027",
+    "summary": "Tesla will stop producing the Cybertruck in 2027, with Elon Musk stating the factory space will be reallocated to manufacture Cybercabs.",
+    "lang": "en",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/11/06/tesla-will-stop-making-the-cybertruck-in-2027/",
+    "published": "2026-11-06T11:50:10+00:00",
+    "event_id": "8a4d90c4aa8b",
+    "sources": [
+     {
+      "title": "Tesla will stop making the Cybertruck in 2027",
+      "summary": "Tesla will stop producing the Cybertruck in 2027, with Elon Musk stating the factory space will be reallocated to manufacture Cybercabs.",
+      "lang": "en",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/11/06/tesla-will-stop-making-the-cybertruck-in-2027/",
+      "published": "2026-11-06T11:50:10+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "Lawsuit: Man introduced his wife to ChatGPT. She used it to plan his murder.",
+    "summary": "A lawsuit alleges a man introduced his wife to ChatGPT, which she used to plan his murder by poisoning with bitter energy drinks.",
+    "lang": "en",
+    "source": "Ars Technica",
+    "url": "https://arstechnica.com/tech-policy/2026/11/lawsuit-man-introduced-his-wife-to-chatgpt-she-used-it-to-plan-his-murder/",
+    "published": "2026-11-05T21:39:40+00:00",
+    "event_id": "d7bd7c1e685c",
+    "sources": [
+     {
+      "title": "Lawsuit: Man introduced his wife to ChatGPT. She used it to plan his murder.",
+      "summary": "A lawsuit alleges a man introduced his wife to ChatGPT, which she used to plan his murder by poisoning with bitter energy drinks.",
+      "lang": "en",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/tech-policy/2026/11/lawsuit-man-introduced-his-wife-to-chatgpt-she-used-it-to-plan-his-murder/",
+      "published": "2026-11-05T21:39:40+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "Meta, Google, and TikTok sue California AG over teen social media law",
+    "summary": "Meta, Google, and TikTok sue California's attorney general over a teen social media law that would restrict access for children under 16.",
+    "lang": "en",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/11/05/meta-google-and-tiktok-sue-california-ag-over-teen-social-media-law/",
+    "published": "2026-11-06T00:01:38+00:00",
+    "event_id": "fb3e595a55eb",
+    "sources": [
+     {
+      "title": "Meta, Google, and TikTok sue California AG over teen social media law",
+      "summary": "Meta, Google, and TikTok sue California's attorney general over a teen social media law that would restrict access for children under 16.",
+      "lang": "en",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/11/05/meta-google-and-tiktok-sue-california-ag-over-teen-social-media-law/",
+      "published": "2026-11-06T00:01:38+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "At least 10 local governments have moved to drop Flock’s surveillance cameras since summer",
+    "summary": "At least ten local governments have dropped Flock's surveillance cameras since summer, citing privacy concerns and questions about data sharing practices.",
+    "lang": "en",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/11/05/at-least-10-local-governments-have-moved-to-drop-flocks-surveillance-cameras-since-summer/",
+    "published": "2026-11-06T07:18:44+00:00",
+    "event_id": "d0ed5775bc4f",
+    "sources": [
+     {
+      "title": "At least 10 local governments have moved to drop Flock’s surveillance cameras since summer",
+      "summary": "At least ten local governments have dropped Flock's surveillance cameras since summer, citing privacy concerns and questions about data sharing practices.",
+      "lang": "en",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/11/05/at-least-10-local-governments-have-moved-to-drop-flocks-surveillance-cameras-since-summer/",
+      "published": "2026-11-06T07:18:44+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   }
+  ],
+  "tecnologia|europa": [
+   {
+    "title": "Protesters break into Microsoft data center site in Amsterdam",
+    "summary": "Protesters break into a Microsoft data center construction site in Amsterdam, with the Geef Tegengas group organizing opposition to the facility.",
+    "lang": "en",
+    "source": "The Verge",
+    "url": "https://www.theverge.com/news/1028549/protesters-microsoft-data-center-site-amsterdam",
+    "published": "2026-11-06T11:55:19+00:00",
+    "event_id": "44766e97c429",
+    "sources": [
+     {
+      "title": "Protesters break into Microsoft data center site in Amsterdam",
+      "summary": "Protesters break into a Microsoft data center construction site in Amsterdam, with the Geef Tegengas group organizing opposition to the facility.",
+      "lang": "en",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/news/1028549/protesters-microsoft-data-center-site-amsterdam",
+      "published": "2026-11-06T11:55:19+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   }
+  ]
+ }
+}
