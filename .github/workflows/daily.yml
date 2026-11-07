@@ -64,3 +64,16 @@ jobs:
     steps:
       - id: deployment
         uses: actions/deploy-pages@v4
+
+      - name: Notify Grok Bot
+        env:
+          WEBHOOK_URL: ${{ secrets.GROK_WEBHOOK_URL }}
+          WEBHOOK_KEY: ${{ secrets.GROK_WEBHOOK_KEY }}
+          PAGE_URL: ${{ steps.deployment.outputs.page_url }}
+        run: |
+          # Skip quietly until the webhook secrets are configured.
+          [ -z "$WEBHOOK_URL" ] && exit 0
+          curl -fsS -X POST "$WEBHOOK_URL" \
+            -H "Authorization: Bearer $WEBHOOK_KEY" \
+            -H "Content-Type: application/json" \
+            -d "{\"date\": \"$(date -u +%F)\", \"url\": \"$PAGE_URL\"}"
