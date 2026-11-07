@@ -1,0 +1,833 @@
+{
+ "date": "2026-11-07",
+ "generated_at": "2026-11-07T11:54:23.612241+00:00",
+ "mode": "full",
+ "cost_usd": 0.0491,
+ "selection": {
+  "model": "claude-haiku-5-5",
+  "effort": "high",
+  "passes": 3,
+  "passes_ok": 3,
+  "cost_usd": 0.0205
+ },
+ "events": {
+  "mode": "full",
+  "compared_with": "2026-11-06",
+  "articles": 35,
+  "uncompared_articles": 0,
+  "events": 34,
+  "cost_usd": 0.0185
+ },
+ "market": null,
+ "failed_sources": [
+  "纽约时报中文网"
+ ],
+ "cells": {
+  "economia|asia": [
+   {
+    "title": "Strong wage growth supports Bank of Japan’s December move higher",
+    "summary": "Japan's nominal wage growth hit a three-decade high in September, supporting the Bank of Japan's December interest rate increase decision.",
+    "lang": "en",
+    "source": "FT Global Economy",
+    "url": "https://www.ft.com/content/fdfbe384-62c8-43b6-b3c6-4785fab99de7",
+    "published": "2026-11-06T11:51:17+00:00",
+    "event_id": "b73768660c06",
+    "sources": [
+     {
+      "title": "Strong wage growth supports Bank of Japan’s December move higher",
+      "summary": "Japan's nominal wage growth hit a three-decade high in September, supporting the Bank of Japan's December interest rate increase decision.",
+      "lang": "en",
+      "source": "FT Global Economy",
+      "url": "https://www.ft.com/content/fdfbe384-62c8-43b6-b3c6-4785fab99de7",
+      "published": "2026-11-06T11:51:17+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "China’s NDRC Flags Weak Demand as Challenge for Nation’s Economy",
+    "summary": "China's economic planning agency flagged weak domestic demand as a key challenge for the nation's economy in 2025.",
+    "lang": "en",
+    "source": "Bloomberg Economics",
+    "url": "https://www.bloomberg.com/news/articles/2026-11-07/china-s-ndrc-flags-weak-demand-as-challenge-for-nation-s-economy",
+    "published": "2026-11-07T08:45:02+00:00",
+    "event_id": "67a8649be7e0",
+    "sources": [
+     {
+      "title": "China’s NDRC Flags Weak Demand as Challenge for Nation’s Economy",
+      "summary": "China's economic planning agency flagged weak domestic demand as a key challenge for the nation's economy in 2025.",
+      "lang": "en",
+      "source": "Bloomberg Economics",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-07/china-s-ndrc-flags-weak-demand-as-challenge-for-nation-s-economy",
+      "published": "2026-11-07T08:45:02+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   }
+  ],
+  "politica|asia": [
+   {
+    "title": "Beijing Vows to Hit Back Against US Sanctions on China Companies",
+    "summary": "China strongly opposes US sanctions on two Chinese companies and reserves the right to take retaliatory measures to protect its interests.",
+    "lang": "en",
+    "source": "Bloomberg Markets",
+    "url": "https://www.bloomberg.com/news/articles/2026-11-07/beijing-vows-to-hit-back-against-us-sanctions-on-china-companies",
+    "published": "2026-11-07T01:54:36+00:00",
+    "event_id": "3517dd7eda57",
+    "sources": [
+     {
+      "title": "Beijing Vows to Hit Back Against US Sanctions on China Companies",
+      "summary": "China strongly opposes US sanctions on two Chinese companies and reserves the right to take retaliatory measures to protect its interests.",
+      "lang": "en",
+      "source": "Bloomberg Markets",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-07/beijing-vows-to-hit-back-against-us-sanctions-on-china-companies",
+      "published": "2026-11-07T01:54:36+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "US warns China it must ‘immediately’ meet terms of Busan trade deal",
+    "summary": "Washington warns Beijing must immediately fulfill Busan trade deal commitments to increase rare earths and critical product supplies.",
+    "lang": "en",
+    "source": "Financial Times",
+    "url": "https://www.ft.com/content/391bb785-0247-4c39-b53b-35007187d603?syn-25a6b1a6=1",
+    "published": "2026-11-06T22:53:51+00:00",
+    "event_id": "217ffdb69963",
+    "sources": [
+     {
+      "title": "US warns China it must ‘immediately’ meet terms of Busan trade deal",
+      "summary": "Washington warns Beijing must immediately fulfill Busan trade deal commitments to increase rare earths and critical product supplies.",
+      "lang": "en",
+      "source": "Financial Times",
+      "url": "https://www.ft.com/content/391bb785-0247-4c39-b53b-35007187d603?syn-25a6b1a6=1",
+      "published": "2026-11-06T22:53:51+00:00"
+     },
+     {
+      "title": "U.S. urges China to meet rare earths and agriculture commitments ahead of Trump-Xi meetings",
+      "summary": "US urges China to honor rare earths and agriculture commitments ahead of expected Trump-Xi meetings at two separate summits.",
+      "lang": "en",
+      "source": "Japan Times",
+      "url": "https://www.japantimes.co.jp/business/2026/11/07/economy/us-china-rare-earths-agriculture/",
+      "published": "2026-11-07T02:16:00+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "US slaps sanctions on Cambodia's Prince Group over online scams",
+    "summary": "The US imposed sanctions on Cambodia's Prince Group for involvement in online scams affecting American citizens and interests.",
+    "lang": "en",
+    "source": "Nikkei Asia",
+    "url": "https://asia.nikkei.com/spotlight/society/crime/us-slaps-sanctions-on-cambodia-s-prince-group-over-online-scams",
+    "published": null,
+    "event_id": "4716c2a73cb8",
+    "sources": [
+     {
+      "title": "US slaps sanctions on Cambodia's Prince Group over online scams",
+      "summary": "The US imposed sanctions on Cambodia's Prince Group for involvement in online scams affecting American citizens and interests.",
+      "lang": "en",
+      "source": "Nikkei Asia",
+      "url": "https://asia.nikkei.com/spotlight/society/crime/us-slaps-sanctions-on-cambodia-s-prince-group-over-online-scams",
+      "published": null
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "Israel's Arab-led parties in spotlight after inconclusive election",
+    "summary": "Israel's Arab-led parties gain prominence after inconclusive elections, potentially influencing efforts to unseat Prime Minister Netanyahu.",
+    "lang": "en",
+    "source": "NPR World",
+    "url": "https://www.npr.org/2026/11/06/g-s1-152138/israel-election-palestinian-arab-parties",
+    "published": "2026-11-06T20:42:51+00:00",
+    "event_id": "389b46270e37",
+    "sources": [
+     {
+      "title": "Israel's Arab-led parties in spotlight after inconclusive election",
+      "summary": "Israel's Arab-led parties gain prominence after inconclusive elections, potentially influencing efforts to unseat Prime Minister Netanyahu.",
+      "lang": "en",
+      "source": "NPR World",
+      "url": "https://www.npr.org/2026/11/06/g-s1-152138/israel-election-palestinian-arab-parties",
+      "published": "2026-11-06T20:42:51+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "US offers $20 million reward for info on 'Iran's nuclear program'",
+    "summary": "The US State Department offers $20 million reward for information on Iran's nuclear program through its Rewards for Justice initiative.",
+    "lang": "en",
+    "source": "Le Monde International",
+    "url": "https://www.lemonde.fr/en/international/article/2026/11/07/us-offers-20-million-reward-for-info-on-iran-s-nuclear-program_6774089_4.html",
+    "published": "2026-11-07T04:42:12+00:00",
+    "event_id": "e9ad419e2a11",
+    "sources": [
+     {
+      "title": "US offers $20 million reward for info on 'Iran's nuclear program'",
+      "summary": "The US State Department offers $20 million reward for information on Iran's nuclear program through its Rewards for Justice initiative.",
+      "lang": "en",
+      "source": "Le Monde International",
+      "url": "https://www.lemonde.fr/en/international/article/2026/11/07/us-offers-20-million-reward-for-info-on-iran-s-nuclear-program_6774089_4.html",
+      "published": "2026-11-07T04:42:12+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "Malaysia's king says Najib's conditional pardon is unambiguous, warns against disputing it",
+    "summary": "Malaysia's king affirms that Najib Razak's conditional pardon is unambiguous, warning against legal challenges to its implementation.",
+    "lang": "en",
+    "source": "Channel NewsAsia",
+    "url": "https://www.channelnewsasia.com/asia/najib-razak-pardon-house-arrest-king-warning-6532831",
+    "published": "2026-11-07T06:03:00+00:00",
+    "event_id": "e5350e945941",
+    "sources": [
+     {
+      "title": "Malaysia's king says Najib's conditional pardon is unambiguous, warns against disputing it",
+      "summary": "Malaysia's king affirms that Najib Razak's conditional pardon is unambiguous, warning against legal challenges to its implementation.",
+      "lang": "en",
+      "source": "Channel NewsAsia",
+      "url": "https://www.channelnewsasia.com/asia/najib-razak-pardon-house-arrest-king-warning-6532831",
+      "published": "2026-11-07T06:03:00+00:00"
+     }
+    ],
+    "status": "updated",
+    "change_summary": "Malaysia's king says Najib's conditional pardon is unambiguous, warns against disputing it",
+    "previous_date": "2026-11-06",
+    "previous_event_id": "e5350e945941"
+   },
+   {
+    "title": "Ships loiter near subsea cables amid Iran's warnings to Trump",
+    "summary": "Ships linger near subsea cables following Iran's threats to attack cable infrastructure if the US escalates military strikes.",
+    "lang": "en",
+    "source": "Ars Technica",
+    "url": "https://arstechnica.com/gadgets/2026/11/ships-loiter-near-subsea-cables-amid-irans-warnings-to-trump/",
+    "published": "2026-11-06T22:41:37+00:00",
+    "event_id": "5e8dffb0e5fd",
+    "sources": [
+     {
+      "title": "Ships loiter near subsea cables amid Iran's warnings to Trump",
+      "summary": "Ships linger near subsea cables following Iran's threats to attack cable infrastructure if the US escalates military strikes.",
+      "lang": "en",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/gadgets/2026/11/ships-loiter-near-subsea-cables-amid-irans-warnings-to-trump/",
+      "published": "2026-11-06T22:41:37+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "澳門國安首案宣判：區錦新囚12年半，妻子斥「莫須有迫害」",
+    "summary": "澳门首宗国安案宣判，区锦新被囚禁12年半，其妻子指控审判程序不透明且存在冤狱。",
+    "lang": "zh",
+    "source": "BBC中文",
+    "url": "https://www.bbc.com/zhongwen/articles/cw62yyejjrlro/trad?at_medium=RSS&at_campaign=rss",
+    "published": "2026-11-06T13:11:42+00:00",
+    "event_id": "865f38d048ec",
+    "sources": [
+     {
+      "title": "澳門國安首案宣判：區錦新囚12年半，妻子斥「莫須有迫害」",
+      "summary": "澳门首宗国安案宣判，区锦新被囚禁12年半，其妻子指控审判程序不透明且存在冤狱。",
+      "lang": "zh",
+      "source": "BBC中文",
+      "url": "https://www.bbc.com/zhongwen/articles/cw62yyejjrlro/trad?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-06T13:11:42+00:00"
+     }
+    ],
+    "status": "unchanged",
+    "change_summary": "",
+    "previous_date": "2026-11-06",
+    "previous_event_id": "865f38d048ec"
+   }
+  ],
+  "politica|europa": [
+   {
+    "title": "Dutchman and Spaniard in Two-Horse Race for ECB Presidency",
+    "summary": "The race for European Central Bank president likely comes down to Dutchman Klaas Knot and Spaniard Pablo Hernandez de Cos.",
+    "lang": "en",
+    "source": "Bloomberg Economics",
+    "url": "https://www.bloomberg.com/news/articles/2026-11-06/knot-and-de-cos-are-the-only-two-candidates-for-ecb-president",
+    "published": "2026-11-06T16:17:47+00:00",
+    "event_id": "e0dfea1615e1",
+    "sources": [
+     {
+      "title": "Dutchman and Spaniard in Two-Horse Race for ECB Presidency",
+      "summary": "The race for European Central Bank president likely comes down to Dutchman Klaas Knot and Spaniard Pablo Hernandez de Cos.",
+      "lang": "en",
+      "source": "Bloomberg Economics",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-06/knot-and-de-cos-are-the-only-two-candidates-for-ecb-president",
+      "published": "2026-11-06T16:17:47+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "Ukraine: Russia hits Kyiv with airstrikes ahead of trilateral talks",
+    "summary": "Russia strikes Kyiv with airstrikes hitting a major bridge and energy facilities ahead of trilateral peace talks with Ukraine.",
+    "lang": "en",
+    "source": "Deutsche Welle World",
+    "url": "https://www.dw.com/en/ukraine-russia-hits-kyiv-with-airstrikes-ahead-of-trilateral-talks/a-79883851?maca=en-rss-en-world-4025-rdf",
+    "published": "2026-11-07T09:21:00+00:00",
+    "event_id": "5093aacf1f39",
+    "sources": [
+     {
+      "title": "Ukraine: Russia hits Kyiv with airstrikes ahead of trilateral talks",
+      "summary": "Russia strikes Kyiv with airstrikes hitting a major bridge and energy facilities ahead of trilateral peace talks with Ukraine.",
+      "lang": "en",
+      "source": "Deutsche Welle World",
+      "url": "https://www.dw.com/en/ukraine-russia-hits-kyiv-with-airstrikes-ahead-of-trilateral-talks/a-79883851?maca=en-rss-en-world-4025-rdf",
+      "published": "2026-11-07T09:21:00+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "New wave of bomb threats hit European airlines",
+    "summary": "European airlines face a new wave of bomb threats, with no established link to simultaneous threats against media outlets.",
+    "lang": "en",
+    "source": "BBC World",
+    "url": "https://www.bbc.co.uk/news/articles/cq62yy064vjpo?at_medium=RSS&at_campaign=rss",
+    "published": "2026-11-06T15:25:35+00:00",
+    "event_id": "1b0b89d49e5f",
+    "sources": [
+     {
+      "title": "New wave of bomb threats hit European airlines",
+      "summary": "European airlines face a new wave of bomb threats, with no established link to simultaneous threats against media outlets.",
+      "lang": "en",
+      "source": "BBC World",
+      "url": "https://www.bbc.co.uk/news/articles/cq62yy064vjpo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-06T15:25:35+00:00"
+     }
+    ],
+    "status": "updated",
+    "change_summary": "New wave of bomb threats hit European airlines",
+    "previous_date": "2026-11-06",
+    "previous_event_id": "1b0b89d49e5f"
+   },
+   {
+    "title": "El rey de Bélgica rechaza la dimisión del primer ministro e insta a los partidos a seguir negociando",
+    "summary": "El rey de Bélgica rechaza la dimisión del primer ministro Bart De Wever e insta a los partidos a continuar negociando para formar gobierno.",
+    "lang": "es",
+    "source": "El País Internacional",
+    "url": "https://elpais.com/internacional/2026-11-06/el-rey-de-belgica-rechaza-la-dimision-del-primer-ministro-e-insta-a-los-partidos-a-seguir-negociando.html",
+    "published": "2026-11-06T12:19:12+00:00",
+    "event_id": "6b467eaa9768",
+    "sources": [
+     {
+      "title": "El rey de Bélgica rechaza la dimisión del primer ministro e insta a los partidos a seguir negociando",
+      "summary": "El rey de Bélgica rechaza la dimisión del primer ministro Bart De Wever e insta a los partidos a continuar negociando para formar gobierno.",
+      "lang": "es",
+      "source": "El País Internacional",
+      "url": "https://elpais.com/internacional/2026-11-06/el-rey-de-belgica-rechaza-la-dimision-del-primer-ministro-e-insta-a-los-partidos-a-seguir-negociando.html",
+      "published": "2026-11-06T12:19:12+00:00"
+     }
+    ],
+    "status": "unchanged",
+    "change_summary": "",
+    "previous_date": "2026-11-06",
+    "previous_event_id": "6b467eaa9768"
+   }
+  ],
+  "economia|europa": [
+   {
+    "title": "Seres, Li Auto join Chinese EVs' charge into Europe",
+    "summary": "Chinese EV makers Seres and Li Auto are expanding their presence in the European market amid global competition.",
+    "lang": "en",
+    "source": "Nikkei Asia",
+    "url": "https://asia.nikkei.com/business/automobiles/electric-vehicles/seres-li-auto-join-chinese-evs-charge-into-europe",
+    "published": null,
+    "event_id": "62b57cf01f1e",
+    "sources": [
+     {
+      "title": "Seres, Li Auto join Chinese EVs' charge into Europe",
+      "summary": "Chinese EV makers Seres and Li Auto are expanding their presence in the European market amid global competition.",
+      "lang": "en",
+      "source": "Nikkei Asia",
+      "url": "https://asia.nikkei.com/business/automobiles/electric-vehicles/seres-li-auto-join-chinese-evs-charge-into-europe",
+      "published": null
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "Las comunidades autónomas proyectan rebajas fiscales por 2.300 millones hasta 2031",
+    "summary": "Las comunidades autónomas proyectan rebajas fiscales por 2.300 millones hasta 2031, con mayor impacto en IRPF, tributación inmobiliaria y sucesiones.",
+    "lang": "es",
+    "source": "El País Economía",
+    "url": "https://elpais.com/economia/2026-11-07/las-comunidades-autonomas-proyectan-rebajas-fiscales-por-2300-millones-hasta-2031.html",
+    "published": "2026-11-07T04:45:01+00:00",
+    "event_id": "48b99662a853",
+    "sources": [
+     {
+      "title": "Las comunidades autónomas proyectan rebajas fiscales por 2.300 millones hasta 2031",
+      "summary": "Las comunidades autónomas proyectan rebajas fiscales por 2.300 millones hasta 2031, con mayor impacto en IRPF, tributación inmobiliaria y sucesiones.",
+      "lang": "es",
+      "source": "El País Economía",
+      "url": "https://elpais.com/economia/2026-11-07/las-comunidades-autonomas-proyectan-rebajas-fiscales-por-2300-millones-hasta-2031.html",
+      "published": "2026-11-07T04:45:01+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "Amid protests, France's rising debt costs threaten stability",
+    "summary": "France plans €4 billion extra education spending amid nationwide protests, but rising debt and interest costs limit fiscal flexibility.",
+    "lang": "en",
+    "source": "Deutsche Welle World",
+    "url": "https://www.dw.com/en/amid-protests-france-s-rising-debt-costs-threaten-stability/a-79865654?maca=en-rss-en-world-4025-rdf",
+    "published": "2026-11-07T08:16:00+00:00",
+    "event_id": "97c02ad5ef1a",
+    "sources": [
+     {
+      "title": "Amid protests, France's rising debt costs threaten stability",
+      "summary": "France plans €4 billion extra education spending amid nationwide protests, but rising debt and interest costs limit fiscal flexibility.",
+      "lang": "en",
+      "source": "Deutsche Welle World",
+      "url": "https://www.dw.com/en/amid-protests-france-s-rising-debt-costs-threaten-stability/a-79865654?maca=en-rss-en-world-4025-rdf",
+      "published": "2026-11-07T08:16:00+00:00"
+     }
+    ],
+    "status": "updated",
+    "change_summary": "Amid protests, France's rising debt costs threaten stability",
+    "previous_date": "2026-11-06",
+    "previous_event_id": "97c02ad5ef1a"
+   }
+  ],
+  "economia|america": [
+   {
+    "title": "US economy outstrips forecasts to add 165,000 jobs in October",
+    "summary": "US economy added 165,000 jobs in October, exceeding forecasts and reinforcing expectations for Federal Reserve rate increases.",
+    "lang": "en",
+    "source": "FT Global Economy",
+    "url": "https://www.ft.com/content/f84c722c-99a9-4628-84dc-c42a192cb35c?syn-25a6b1a6=1",
+    "published": "2026-11-06T22:16:13+00:00",
+    "event_id": "1893060b9ce2",
+    "sources": [
+     {
+      "title": "US economy outstrips forecasts to add 165,000 jobs in October",
+      "summary": "US economy added 165,000 jobs in October, exceeding forecasts and reinforcing expectations for Federal Reserve rate increases.",
+      "lang": "en",
+      "source": "FT Global Economy",
+      "url": "https://www.ft.com/content/f84c722c-99a9-4628-84dc-c42a192cb35c?syn-25a6b1a6=1",
+      "published": "2026-11-06T22:16:13+00:00"
+     }
+    ],
+    "status": "updated",
+    "change_summary": "US economy outstrips forecasts to add 165,000 jobs in October",
+    "previous_date": "2026-11-06",
+    "previous_event_id": "1893060b9ce2"
+   },
+   {
+    "title": "US Consumer Credit Surges by Most in Nearly Four Years",
+    "summary": "US consumer credit surged in September by the most in nearly four years, driven by increased credit card and non-revolving borrowing.",
+    "lang": "en",
+    "source": "Bloomberg Economics",
+    "url": "https://www.bloomberg.com/news/articles/2026-11-06/us-consumer-credit-surges-by-most-in-nearly-four-years",
+    "published": "2026-11-06T20:06:48+00:00",
+    "event_id": "ee4a8dcc456a",
+    "sources": [
+     {
+      "title": "US Consumer Credit Surges by Most in Nearly Four Years",
+      "summary": "US consumer credit surged in September by the most in nearly four years, driven by increased credit card and non-revolving borrowing.",
+      "lang": "en",
+      "source": "Bloomberg Economics",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-06/us-consumer-credit-surges-by-most-in-nearly-four-years",
+      "published": "2026-11-06T20:06:48+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "Fed’s Daly Says More Rate Hikes Likely Needed to Tame Prices",
+    "summary": "Federal Reserve's Mary Daly says more interest rate hikes are likely needed to control inflation, though timing remains uncertain.",
+    "lang": "en",
+    "source": "Bloomberg Economics",
+    "url": "https://www.bloomberg.com/news/articles/2026-11-06/fed-s-daly-says-more-rate-increases-likely-needed-to-tame-prices",
+    "published": "2026-11-06T18:24:52+00:00",
+    "event_id": "3a1c2519ac58",
+    "sources": [
+     {
+      "title": "Fed’s Daly Says More Rate Hikes Likely Needed to Tame Prices",
+      "summary": "Federal Reserve's Mary Daly says more interest rate hikes are likely needed to control inflation, though timing remains uncertain.",
+      "lang": "en",
+      "source": "Bloomberg Economics",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-06/fed-s-daly-says-more-rate-increases-likely-needed-to-tame-prices",
+      "published": "2026-11-06T18:24:52+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "FirstFT: Global stocks tumble as Democratic sweep sparks AI rout",
+    "summary": "Global stocks tumbled as a Democratic sweep sparked a tech sector rout affecting major US companies and market indices.",
+    "lang": "en",
+    "source": "FT Global Economy",
+    "url": "https://www.ft.com/content/7d123a1c-d627-44c4-adf5-48b75d3313b0?syn-25a6b1a6=1",
+    "published": "2026-11-06T11:05:13+00:00",
+    "event_id": "d347663d90ca",
+    "sources": [
+     {
+      "title": "FirstFT: Global stocks tumble as Democratic sweep sparks AI rout",
+      "summary": "Global stocks tumbled as a Democratic sweep sparked a tech sector rout affecting major US companies and market indices.",
+      "lang": "en",
+      "source": "FT Global Economy",
+      "url": "https://www.ft.com/content/7d123a1c-d627-44c4-adf5-48b75d3313b0?syn-25a6b1a6=1",
+      "published": "2026-11-06T11:05:13+00:00"
+     }
+    ],
+    "status": "updated",
+    "change_summary": "FirstFT: Global stocks tumble as Democratic sweep sparks AI rout",
+    "previous_date": "2026-11-06",
+    "previous_event_id": "d347663d90ca"
+   }
+  ],
+  "tecnologia|america": [
+   {
+    "title": "Anthropic to press ahead with IPO targeting $1.5tn valuation",
+    "summary": "AI company Anthropic plans to proceed with IPO targeting $1.5 trillion valuation before Thanksgiving despite tech sector downturn.",
+    "lang": "en",
+    "source": "Financial Times",
+    "url": "https://www.ft.com/content/314e17df-e7af-4814-b208-70a0557cb452?syn-25a6b1a6=1",
+    "published": "2026-11-06T21:00:09+00:00",
+    "event_id": "6800a6c7d09f",
+    "sources": [
+     {
+      "title": "Anthropic to press ahead with IPO targeting $1.5tn valuation",
+      "summary": "AI company Anthropic plans to proceed with IPO targeting $1.5 trillion valuation before Thanksgiving despite tech sector downturn.",
+      "lang": "en",
+      "source": "Financial Times",
+      "url": "https://www.ft.com/content/314e17df-e7af-4814-b208-70a0557cb452?syn-25a6b1a6=1",
+      "published": "2026-11-06T21:00:09+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "Chainalysis says hackers stole credentials and tokens for all of its customers",
+    "summary": "Chainalysis reported that hackers stole customer credentials and tokens in a multifront cyberattack involving AI agents and data interception.",
+    "lang": "en",
+    "source": "Ars Technica",
+    "url": "https://arstechnica.com/security/2026/11/chainalysis-says-hackers-stole-credentials-and-tokens-for-all-of-its-customers/",
+    "published": "2026-11-06T20:56:41+00:00",
+    "event_id": "a5eef3cf57a4",
+    "sources": [
+     {
+      "title": "Chainalysis says hackers stole credentials and tokens for all of its customers",
+      "summary": "Chainalysis reported that hackers stole customer credentials and tokens in a multifront cyberattack involving AI agents and data interception.",
+      "lang": "en",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/security/2026/11/chainalysis-says-hackers-stole-credentials-and-tokens-for-all-of-its-customers/",
+      "published": "2026-11-06T20:56:41+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "Pentagon offers battery startup 6K $250M loan to build US factory",
+    "summary": "The Pentagon conditionally approved a $250 million loan to battery startup 6K to expand microwave-plasma battery manufacturing in the US.",
+    "lang": "en",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/11/06/pentagon-offers-battery-startup-6k-250m-loan-to-build-u-s-factory/",
+    "published": "2026-11-06T16:50:01+00:00",
+    "event_id": "5dc6241c302e",
+    "sources": [
+     {
+      "title": "Pentagon offers battery startup 6K $250M loan to build US factory",
+      "summary": "The Pentagon conditionally approved a $250 million loan to battery startup 6K to expand microwave-plasma battery manufacturing in the US.",
+      "lang": "en",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/11/06/pentagon-offers-battery-startup-6k-250m-loan-to-build-u-s-factory/",
+      "published": "2026-11-06T16:50:01+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "OpenAI valued at $1.25 trillion, as rival Anthropic nears its IPO",
+    "summary": "OpenAI was valued at $1.25 trillion in new funding raising $11 billion, making it one of the world's most valuable companies.",
+    "lang": "en",
+    "source": "The Verge",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/1029380/openai-1-25-trillion-investment-valuation",
+    "published": "2026-11-06T23:46:18+00:00",
+    "event_id": "6813d62fd925",
+    "sources": [
+     {
+      "title": "OpenAI valued at $1.25 trillion, as rival Anthropic nears its IPO",
+      "summary": "OpenAI was valued at $1.25 trillion in new funding raising $11 billion, making it one of the world's most valuable companies.",
+      "lang": "en",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1029380/openai-1-25-trillion-investment-valuation",
+      "published": "2026-11-06T23:46:18+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "Crusoe sells troubled Wyoming data center project to Google",
+    "summary": "Crusoe sold its troubled Wyoming data center project to Google, highlighting challenges in developing massive AI data center infrastructure.",
+    "lang": "en",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/11/06/crusoe-sells-troubled-wyoming-data-center-project-to-google/",
+    "published": "2026-11-07T01:40:28+00:00",
+    "event_id": "36231604b288",
+    "sources": [
+     {
+      "title": "Crusoe sells troubled Wyoming data center project to Google",
+      "summary": "Crusoe sold its troubled Wyoming data center project to Google, highlighting challenges in developing massive AI data center infrastructure.",
+      "lang": "en",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/11/06/crusoe-sells-troubled-wyoming-data-center-project-to-google/",
+      "published": "2026-11-07T01:40:28+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "OpenAI發表GPT-6 Cyber，找出Firefox 81個未知高風險漏洞",
+    "summary": "OpenAI发布GPT-6 Cyber安全AI模型，在Firefox浏览器中发现81个未知高风险漏洞。",
+    "lang": "zh",
+    "source": "iThome 台灣",
+    "url": "https://www.ithome.com.tw/news/180285",
+    "published": "2026-11-06T12:11:11+00:00",
+    "event_id": "103e8a1a5565",
+    "sources": [
+     {
+      "title": "OpenAI發表GPT-6 Cyber，找出Firefox 81個未知高風險漏洞",
+      "summary": "OpenAI发布GPT-6 Cyber安全AI模型，在Firefox浏览器中发现81个未知高风险漏洞。",
+      "lang": "zh",
+      "source": "iThome 台灣",
+      "url": "https://www.ithome.com.tw/news/180285",
+      "published": "2026-11-06T12:11:11+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   }
+  ],
+  "politica|america": [
+   {
+    "title": "Paraguay's president impeached and under house arrest after bank collapse",
+    "summary": "Paraguay's president Santiago Peña was impeached and placed under house arrest following a banking crisis affecting millions of citizens.",
+    "lang": "en",
+    "source": "BBC World",
+    "url": "https://www.bbc.co.uk/news/articles/c68jzzvjgdy9o?at_medium=RSS&at_campaign=rss",
+    "published": "2026-11-07T07:20:00+00:00",
+    "event_id": "5944c8a29886",
+    "sources": [
+     {
+      "title": "Paraguay's president impeached and under house arrest after bank collapse",
+      "summary": "Paraguay's president Santiago Peña was impeached and placed under house arrest following a banking crisis affecting millions of citizens.",
+      "lang": "en",
+      "source": "BBC World",
+      "url": "https://www.bbc.co.uk/news/articles/c68jzzvjgdy9o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-07T07:20:00+00:00"
+     }
+    ],
+    "status": "updated",
+    "change_summary": "Paraguay's president impeached and under house arrest after bank collapse",
+    "previous_date": "2026-11-06",
+    "previous_event_id": "5944c8a29886"
+   },
+   {
+    "title": "With Stephen Miller pick, Trump readies for a battle",
+    "summary": "Trump promotes Stephen Miller, a partisan firebrand, to chief of staff, setting up likely confrontations with Congress over policy.",
+    "lang": "en",
+    "source": "BBC World",
+    "url": "https://www.bbc.co.uk/news/articles/crp3gg2z171go?at_medium=RSS&at_campaign=rss",
+    "published": "2026-11-06T23:24:15+00:00",
+    "event_id": "1129afa74846",
+    "sources": [
+     {
+      "title": "With Stephen Miller pick, Trump readies for a battle",
+      "summary": "Trump promotes Stephen Miller, a partisan firebrand, to chief of staff, setting up likely confrontations with Congress over policy.",
+      "lang": "en",
+      "source": "BBC World",
+      "url": "https://www.bbc.co.uk/news/articles/crp3gg2z171go?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-06T23:24:15+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "Judge blocks construction of Trump's massive arch after federal agency approval",
+    "summary": "A federal judge blocked construction of Trump's 250-foot arch despite the Trump administration's approval and planned imminent start.",
+    "lang": "en",
+    "source": "BBC World",
+    "url": "https://www.bbc.co.uk/news/articles/cq99zd93ryvko?at_medium=RSS&at_campaign=rss",
+    "published": "2026-11-06T15:30:42+00:00",
+    "event_id": "d47eeefa0089",
+    "sources": [
+     {
+      "title": "Judge blocks construction of Trump's massive arch after federal agency approval",
+      "summary": "A federal judge blocked construction of Trump's 250-foot arch despite the Trump administration's approval and planned imminent start.",
+      "lang": "en",
+      "source": "BBC World",
+      "url": "https://www.bbc.co.uk/news/articles/cq99zd93ryvko?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-06T15:30:42+00:00"
+     }
+    ],
+    "status": "unchanged",
+    "change_summary": "",
+    "previous_date": "2026-11-06",
+    "previous_event_id": "d47eeefa0089"
+   },
+   {
+    "title": "Pope in 'pretty good health' as he starts Latin America tour",
+    "summary": "Pope Francis is in good health as he begins a Latin America tour just three weeks after undergoing lung cancer surgery.",
+    "lang": "en",
+    "source": "BBC World",
+    "url": "https://www.bbc.co.uk/news/articles/c60e0001ve9wo?at_medium=RSS&at_campaign=rss",
+    "published": "2026-11-07T06:59:48+00:00",
+    "event_id": "d81699aabec8",
+    "sources": [
+     {
+      "title": "Pope in 'pretty good health' as he starts Latin America tour",
+      "summary": "Pope Francis is in good health as he begins a Latin America tour just three weeks after undergoing lung cancer surgery.",
+      "lang": "en",
+      "source": "BBC World",
+      "url": "https://www.bbc.co.uk/news/articles/c60e0001ve9wo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-07T06:59:48+00:00"
+     }
+    ],
+    "status": "unchanged",
+    "change_summary": "",
+    "previous_date": "2026-11-06",
+    "previous_event_id": "d81699aabec8"
+   }
+  ],
+  "tecnologia|asia": [
+   {
+    "title": "China reportedly recruited AI exec to spy on Jensen Huang",
+    "summary": "China's intelligence agency recruited an AI executive to spy on Nvidia CEO Jensen Huang, according to The New York Times.",
+    "lang": "en",
+    "source": "The Verge",
+    "url": "https://www.theverge.com/tech/1029338/nvidia-ceo-jensen-huang-china-spy",
+    "published": "2026-11-06T23:00:44+00:00",
+    "event_id": "1bc7ba2a28c4",
+    "sources": [
+     {
+      "title": "China reportedly recruited AI exec to spy on Jensen Huang",
+      "summary": "China's intelligence agency recruited an AI executive to spy on Nvidia CEO Jensen Huang, according to The New York Times.",
+      "lang": "en",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/tech/1029338/nvidia-ceo-jensen-huang-china-spy",
+      "published": "2026-11-06T23:00:44+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "NTT Docomo線上服務遭駭，可能洩露30萬筆用戶個資",
+    "summary": "日本NTT Docomo公司网站遭黑客攻击，可能泄露30万用户个人信息，包括电话号码等数据。",
+    "lang": "zh",
+    "source": "iThome 台灣",
+    "url": "https://www.ithome.com.tw/news/180283",
+    "published": "2026-11-06T12:11:35+00:00",
+    "event_id": "0fd06bcfff65",
+    "sources": [
+     {
+      "title": "NTT Docomo線上服務遭駭，可能洩露30萬筆用戶個資",
+      "summary": "日本NTT Docomo公司网站遭黑客攻击，可能泄露30万用户个人信息，包括电话号码等数据。",
+      "lang": "zh",
+      "source": "iThome 台灣",
+      "url": "https://www.ithome.com.tw/news/180283",
+      "published": "2026-11-06T12:11:35+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "China acaba de conseguir algo extraordinario en su estación espacial: ha enfriado átomos hasta un récord histórico",
+    "summary": "China logró enfriar átomos en su estación espacial hasta un récord histórico, acercándose al cero absoluto en un avance extraordinario.",
+    "lang": "es",
+    "source": "Xataka",
+    "url": "https://www.xataka.com/espacio/china-acaba-conseguir-algo-extraordinario-su-estacion-espacial-ha-enfriado-atomos-record-historico",
+    "published": "2026-11-07T08:01:06+00:00",
+    "event_id": "030c971823db",
+    "sources": [
+     {
+      "title": "China acaba de conseguir algo extraordinario en su estación espacial: ha enfriado átomos hasta un récord histórico",
+      "summary": "China logró enfriar átomos en su estación espacial hasta un récord histórico, acercándose al cero absoluto en un avance extraordinario.",
+      "lang": "es",
+      "source": "Xataka",
+      "url": "https://www.xataka.com/espacio/china-acaba-conseguir-algo-extraordinario-su-estacion-espacial-ha-enfriado-atomos-record-historico",
+      "published": "2026-11-07T08:01:06+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   }
+  ]
+ }
+}
