@@ -1,0 +1,879 @@
+{
+ "date": "2026-11-08",
+ "generated_at": "2026-11-08T12:06:32.960395+00:00",
+ "mode": "full",
+ "cost_usd": 0.0505,
+ "selection": {
+  "model": "claude-haiku-5-5",
+  "effort": "high",
+  "passes": 3,
+  "passes_ok": 3,
+  "cost_usd": 0.0188
+ },
+ "events": {
+  "mode": "full",
+  "compared_with": "2026-11-07",
+  "articles": 37,
+  "uncompared_articles": 0,
+  "events": 36,
+  "cost_usd": 0.0204
+ },
+ "market": null,
+ "failed_sources": [],
+ "cells": {
+  "politica|europa": [
+   {
+    "title": "‘Nóvaya Gazeta’, símbolo del gran periodismo ruso, cierra por el acoso del Kremlin: “Poca gente sabe qué está pasando en Rusia”",
+    "summary": "Nóvaya Gazeta, diario ruso que denunció crímenes de guerra y corrupción durante tres décadas, publica su último número este lunes tras acoso del Kremlin.",
+    "lang": "es",
+    "source": "El País Internacional",
+    "url": "https://elpais.com/internacional/2026-11-08/novaya-gazeta-simbolo-del-gran-periodismo-ruso-cierra-por-el-acoso-del-kremlin-poca-gente-sabe-que-esta-pasando-en-rusia.html",
+    "published": "2026-11-08T04:30:01+00:00",
+    "event_id": "c0a1ec056584",
+    "sources": [
+     {
+      "title": "‘Nóvaya Gazeta’, símbolo del gran periodismo ruso, cierra por el acoso del Kremlin: “Poca gente sabe qué está pasando en Rusia”",
+      "summary": "Nóvaya Gazeta, diario ruso que denunció crímenes de guerra y corrupción durante tres décadas, publica su último número este lunes tras acoso del Kremlin.",
+      "lang": "es",
+      "source": "El País Internacional",
+      "url": "https://elpais.com/internacional/2026-11-08/novaya-gazeta-simbolo-del-gran-periodismo-ruso-cierra-por-el-acoso-del-kremlin-poca-gente-sabe-que-esta-pasando-en-rusia.html",
+      "published": "2026-11-08T04:30:01+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "Ukraine's Zaporizhzhia nuclear plant loses external power",
+    "summary": "Ukraine's Zaporizhzhia nuclear plant lost external power, raising concerns about reactor safety during ongoing conflict.",
+    "lang": "en",
+    "source": "Nikkei Asia",
+    "url": "https://asia.nikkei.com/politics/ukraine-war/ukraine-s-zaporizhzhia-nuclear-plant-loses-external-power",
+    "published": null,
+    "event_id": "ff06ba100224",
+    "sources": [
+     {
+      "title": "Ukraine's Zaporizhzhia nuclear plant loses external power",
+      "summary": "Ukraine's Zaporizhzhia nuclear plant lost external power, raising concerns about reactor safety during ongoing conflict.",
+      "lang": "en",
+      "source": "Nikkei Asia",
+      "url": "https://asia.nikkei.com/politics/ukraine-war/ukraine-s-zaporizhzhia-nuclear-plant-loses-external-power",
+      "published": null
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "What we know so far after Krakow gun attack",
+    "summary": "Six people were killed in a random shooting in Krakow's main square; three additional bodies found at attacker's home.",
+    "lang": "en",
+    "source": "BBC World",
+    "url": "https://www.bbc.co.uk/news/articles/cmd7q15drwgeo?at_medium=RSS&at_campaign=rss",
+    "published": "2026-11-08T11:22:17+00:00",
+    "event_id": "10a11a207755",
+    "sources": [
+     {
+      "title": "What we know so far after Krakow gun attack",
+      "summary": "Six people were killed in a random shooting in Krakow's main square; three additional bodies found at attacker's home.",
+      "lang": "en",
+      "source": "BBC World",
+      "url": "https://www.bbc.co.uk/news/articles/cmd7q15drwgeo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-08T11:22:17+00:00"
+     }
+    ],
+    "status": "updated",
+    "change_summary": "What we know so far after Krakow gun attack",
+    "previous_date": "2026-11-07",
+    "previous_event_id": "10a11a207755"
+   },
+   {
+    "title": "法國反政府示威進入第4週 巴黎爆發警民衝突",
+    "summary": "法国连续第四周末爆发反政府示威，数万民众抗议生活成本上涨，巴黎警民冲突升级。",
+    "lang": "zh",
+    "source": "中央社 CNA",
+    "url": "https://www.cna.com.tw/news/aopl/202611080114.aspx",
+    "published": "2026-11-08T08:03:06+00:00",
+    "event_id": "97c02ad5ef1a",
+    "sources": [
+     {
+      "title": "法國反政府示威進入第4週 巴黎爆發警民衝突",
+      "summary": "法国连续第四周末爆发反政府示威，数万民众抗议生活成本上涨，巴黎警民冲突升级。",
+      "lang": "zh",
+      "source": "中央社 CNA",
+      "url": "https://www.cna.com.tw/news/aopl/202611080114.aspx",
+      "published": "2026-11-08T08:03:06+00:00"
+     }
+    ],
+    "status": "updated",
+    "change_summary": "法國反政府示威進入第4週 巴黎爆發警民衝突",
+    "previous_date": "2026-11-07",
+    "previous_event_id": "97c02ad5ef1a"
+   },
+   {
+    "title": "UK cannot 'cherry pick' EU single market deal, Barnier tells BBC",
+    "summary": "Former Brexit negotiator Barnier told BBC that EU countries would reject British attempts to selectively follow single market rules.",
+    "lang": "en",
+    "source": "BBC World",
+    "url": "https://www.bbc.co.uk/news/articles/c9kgjj206nzpo?at_medium=RSS&at_campaign=rss",
+    "published": "2026-11-07T15:19:35+00:00",
+    "event_id": "154908852b78",
+    "sources": [
+     {
+      "title": "UK cannot 'cherry pick' EU single market deal, Barnier tells BBC",
+      "summary": "Former Brexit negotiator Barnier told BBC that EU countries would reject British attempts to selectively follow single market rules.",
+      "lang": "en",
+      "source": "BBC World",
+      "url": "https://www.bbc.co.uk/news/articles/c9kgjj206nzpo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-07T15:19:35+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "羅浮宮劫案掀骨牌效應，歐洲 14 家博物館連環淪陷，退役神偷嗆「我還是進得去」",
+    "summary": "羅浮宫劫案引发连锁效应，欧洲14家博物馆遭窃，退役神偷声称仍可进入这些安保设施。",
+    "lang": "zh",
+    "source": "科技新報 TechNews",
+    "url": "https://ccc.technews.tw/2026/11/08/louvre-heist-copycat-effect-european-museums-thefts-retired-thief-returns-claims-still-get-in/",
+    "published": "2026-11-08T08:30:55+00:00",
+    "event_id": "1c54dc4705cb",
+    "sources": [
+     {
+      "title": "羅浮宮劫案掀骨牌效應，歐洲 14 家博物館連環淪陷，退役神偷嗆「我還是進得去」",
+      "summary": "羅浮宫劫案引发连锁效应，欧洲14家博物馆遭窃，退役神偷声称仍可进入这些安保设施。",
+      "lang": "zh",
+      "source": "科技新報 TechNews",
+      "url": "https://ccc.technews.tw/2026/11/08/louvre-heist-copycat-effect-european-museums-thefts-retired-thief-returns-claims-still-get-in/",
+      "published": "2026-11-08T08:30:55+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "Top Turkish Regulators Taken Into Custody in Fund Probe",
+    "summary": "Turkish authorities detained top regulators on Saturday as part of an expanding investigation into a widening fund scandal.",
+    "lang": "en",
+    "source": "Bloomberg Markets",
+    "url": "https://www.bloomberg.com/news/articles/2026-11-07/turkey-arrests-former-regulatory-executive-in-growing-fund-probe",
+    "published": "2026-11-07T13:56:55+00:00",
+    "event_id": "8db4e0c6639f",
+    "sources": [
+     {
+      "title": "Top Turkish Regulators Taken Into Custody in Fund Probe",
+      "summary": "Turkish authorities detained top regulators on Saturday as part of an expanding investigation into a widening fund scandal.",
+      "lang": "en",
+      "source": "Bloomberg Markets",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-07/turkey-arrests-former-regulatory-executive-in-growing-fund-probe",
+      "published": "2026-11-07T13:56:55+00:00"
+     }
+    ],
+    "status": "unchanged",
+    "change_summary": "",
+    "previous_date": "2026-11-07",
+    "previous_event_id": "8db4e0c6639f"
+   },
+   {
+    "title": "Russian strikes wound nine and damage Ukraine's power network ahead of talks",
+    "summary": "Russian strikes wounded nine and damaged Ukraine's power network ahead of scheduled trilateral talks in Abu Dhabi next week.",
+    "lang": "en",
+    "source": "BBC World",
+    "url": "https://www.bbc.co.uk/news/articles/cm4g1nq8158po?at_medium=RSS&at_campaign=rss",
+    "published": "2026-11-07T12:49:36+00:00",
+    "event_id": "e6afdaa46c60",
+    "sources": [
+     {
+      "title": "Russian strikes wound nine and damage Ukraine's power network ahead of talks",
+      "summary": "Russian strikes wounded nine and damaged Ukraine's power network ahead of scheduled trilateral talks in Abu Dhabi next week.",
+      "lang": "en",
+      "source": "BBC World",
+      "url": "https://www.bbc.co.uk/news/articles/cm4g1nq8158po?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-07T12:49:36+00:00"
+     }
+    ],
+    "status": "unchanged",
+    "change_summary": "",
+    "previous_date": "2026-11-07",
+    "previous_event_id": "e6afdaa46c60"
+   },
+   {
+    "title": "British soldier ignored order to pull his SIM card, then got blackmailed",
+    "summary": "British soldier ignored orders to secure devices before deployment and subsequently fell victim to sextortion and court-martial.",
+    "lang": "en",
+    "source": "Ars Technica",
+    "url": "https://arstechnica.com/security/2026/11/british-soldier-ignored-order-to-pull-his-sim-card-then-got-blackmailed/",
+    "published": "2026-11-07T11:00:34+00:00",
+    "event_id": "130145bcfb89",
+    "sources": [
+     {
+      "title": "British soldier ignored order to pull his SIM card, then got blackmailed",
+      "summary": "British soldier ignored orders to secure devices before deployment and subsequently fell victim to sextortion and court-martial.",
+      "lang": "en",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/security/2026/11/british-soldier-ignored-order-to-pull-his-sim-card-then-got-blackmailed/",
+      "published": "2026-11-07T11:00:34+00:00"
+     }
+    ],
+    "status": "unchanged",
+    "change_summary": "",
+    "previous_date": "2026-11-07",
+    "previous_event_id": "130145bcfb89"
+   }
+  ],
+  "economia|asia": [
+   {
+    "title": "En su empeño por ser una potencia del petróleo, China perforó el segundo pozo más profundo del mundo",
+    "summary": "China perforó el segundo pozo petrolífero más profundo del mundo como parte de su estrategia para consolidarse como potencia energética global.",
+    "lang": "es",
+    "source": "Xataka",
+    "url": "https://www.xataka.com/ingenieria-y-megaconstrucciones/su-empeno-ser-potencia-petroleo-china-perforo-segundo-pozo-profundo-mundo",
+    "published": "2026-11-08T11:01:12+00:00",
+    "event_id": "d3c3f8addd38",
+    "sources": [
+     {
+      "title": "En su empeño por ser una potencia del petróleo, China perforó el segundo pozo más profundo del mundo",
+      "summary": "China perforó el segundo pozo petrolífero más profundo del mundo como parte de su estrategia para consolidarse como potencia energética global.",
+      "lang": "es",
+      "source": "Xataka",
+      "url": "https://www.xataka.com/ingenieria-y-megaconstrucciones/su-empeno-ser-potencia-petroleo-china-perforo-segundo-pozo-profundo-mundo",
+      "published": "2026-11-08T11:01:12+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "China Set to Lead World in Energy Investment in 2026, CCTV Says",
+    "summary": "China is projected to invest $940 billion in energy in 2026, more than any other country, according to the Global Energy Transition Report.",
+    "lang": "en",
+    "source": "Bloomberg Markets",
+    "url": "https://www.bloomberg.com/news/articles/2026-11-08/china-set-to-lead-world-in-energy-investment-in-2026-cctv-says",
+    "published": "2026-11-08T04:02:33+00:00",
+    "event_id": "ad25358cfef5",
+    "sources": [
+     {
+      "title": "China Set to Lead World in Energy Investment in 2026, CCTV Says",
+      "summary": "China is projected to invest $940 billion in energy in 2026, more than any other country, according to the Global Energy Transition Report.",
+      "lang": "en",
+      "source": "Bloomberg Markets",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-08/china-set-to-lead-world-in-energy-investment-in-2026-cctv-says",
+      "published": "2026-11-08T04:02:33+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "Japan manufacturers lift profit outlooks on price hikes, weak yen",
+    "summary": "Japanese manufacturers raised profit forecasts due to price increases and benefits from a weaker yen currency improving export competitiveness.",
+    "lang": "en",
+    "source": "Nikkei Asia",
+    "url": "https://asia.nikkei.com/business/business-trends/japan-manufacturers-lift-profit-outlooks-on-price-hikes-weak-yen",
+    "published": null,
+    "event_id": "5c0d425a1913",
+    "sources": [
+     {
+      "title": "Japan manufacturers lift profit outlooks on price hikes, weak yen",
+      "summary": "Japanese manufacturers raised profit forecasts due to price increases and benefits from a weaker yen currency improving export competitiveness.",
+      "lang": "en",
+      "source": "Nikkei Asia",
+      "url": "https://asia.nikkei.com/business/business-trends/japan-manufacturers-lift-profit-outlooks-on-price-hikes-weak-yen",
+      "published": null
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "AI Slump Revives Asia’s Forgotten Trades From China to India",
+    "summary": "The AI sector's decline after US midterm elections is reviving investor interest in previously underperforming Chinese and Indian stocks.",
+    "lang": "en",
+    "source": "Bloomberg Markets",
+    "url": "https://www.bloomberg.com/news/articles/2026-11-08/ai-slump-revives-asia-s-forgotten-trades-from-china-to-india",
+    "published": "2026-11-08T00:00:00+00:00",
+    "event_id": "78173ad27f43",
+    "sources": [
+     {
+      "title": "AI Slump Revives Asia’s Forgotten Trades From China to India",
+      "summary": "The AI sector's decline after US midterm elections is reviving investor interest in previously underperforming Chinese and Indian stocks.",
+      "lang": "en",
+      "source": "Bloomberg Markets",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-08/ai-slump-revives-asia-s-forgotten-trades-from-china-to-india",
+      "published": "2026-11-08T00:00:00+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   }
+  ],
+  "tecnologia|europa": [
+   {
+    "title": "Zaragoza sale a la calle contra los centros de datos: \"No generan empleo, no pagan impuestos y se quedan con todos los recursos\"",
+    "summary": "Zaragoza protestó contra centros de datos, alegando que no generan empleo local ni pagan impuestos mientras consumen recursos regionales.",
+    "lang": "es",
+    "source": "Xataka",
+    "url": "https://www.xataka.com/robotica-e-ia/zaragoza-sale-a-calle-centros-datos-no-generan-empleo-no-pagan-impuestos-se-quedan-todos-recursos",
+    "published": "2026-11-08T08:31:08+00:00",
+    "event_id": "be59c3fa682e",
+    "sources": [
+     {
+      "title": "Zaragoza sale a la calle contra los centros de datos: \"No generan empleo, no pagan impuestos y se quedan con todos los recursos\"",
+      "summary": "Zaragoza protestó contra centros de datos, alegando que no generan empleo local ni pagan impuestos mientras consumen recursos regionales.",
+      "lang": "es",
+      "source": "Xataka",
+      "url": "https://www.xataka.com/robotica-e-ia/zaragoza-sale-a-calle-centros-datos-no-generan-empleo-no-pagan-impuestos-se-quedan-todos-recursos",
+      "published": "2026-11-08T08:31:08+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "Russia races to build rival to Elon Musk’s Starlink",
+    "summary": "Russia is developing a Starlink rival space project to enable more effective drone strikes deeper inside Ukrainian territory.",
+    "lang": "en",
+    "source": "Financial Times",
+    "url": "https://www.ft.com/content/423ca208-8e22-4fb3-a76d-b9c722fd8cc0?syn-25a6b1a6=1",
+    "published": "2026-11-08T05:00:11+00:00",
+    "event_id": "4e46d898577e",
+    "sources": [
+     {
+      "title": "Russia races to build rival to Elon Musk’s Starlink",
+      "summary": "Russia is developing a Starlink rival space project to enable more effective drone strikes deeper inside Ukrainian territory.",
+      "lang": "en",
+      "source": "Financial Times",
+      "url": "https://www.ft.com/content/423ca208-8e22-4fb3-a76d-b9c722fd8cc0?syn-25a6b1a6=1",
+      "published": "2026-11-08T05:00:11+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   }
+  ],
+  "politica|asia": [
+   {
+    "title": "Pakistan's Hormuz agreement with Iran faces test after LNG tanker attack",
+    "summary": "Pakistan's Hormuz agreement with Iran faces challenges after a LNG tanker attack, threatening regional security cooperation.",
+    "lang": "en",
+    "source": "Nikkei Asia",
+    "url": "https://asia.nikkei.com/spotlight/iran-tensions/iran-war/pakistan-s-hormuz-agreement-with-iran-faces-test-after-lng-tanker-attack",
+    "published": null,
+    "event_id": "f9e7e0af7b66",
+    "sources": [
+     {
+      "title": "Pakistan's Hormuz agreement with Iran faces test after LNG tanker attack",
+      "summary": "Pakistan's Hormuz agreement with Iran faces challenges after a LNG tanker attack, threatening regional security cooperation.",
+      "lang": "en",
+      "source": "Nikkei Asia",
+      "url": "https://asia.nikkei.com/spotlight/iran-tensions/iran-war/pakistan-s-hormuz-agreement-with-iran-faces-test-after-lng-tanker-attack",
+      "published": null
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "Israel's president tasks opposition leader Eisenkot with forming government",
+    "summary": "Israel's president tasked opposition leader Eisenkot with forming government after neither Netanyahu's nor rival blocs secured election majority.",
+    "lang": "en",
+    "source": "BBC World",
+    "url": "https://www.bbc.co.uk/news/articles/cmy8367lj5xlo?at_medium=RSS&at_campaign=rss",
+    "published": "2026-11-07T22:19:59+00:00",
+    "event_id": "389b46270e37",
+    "sources": [
+     {
+      "title": "Israel's president tasks opposition leader Eisenkot with forming government",
+      "summary": "Israel's president tasked opposition leader Eisenkot with forming government after neither Netanyahu's nor rival blocs secured election majority.",
+      "lang": "en",
+      "source": "BBC World",
+      "url": "https://www.bbc.co.uk/news/articles/cmy8367lj5xlo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-07T22:19:59+00:00"
+     }
+    ],
+    "status": "updated",
+    "change_summary": "Israel's president tasks opposition leader Eisenkot with forming government",
+    "previous_date": "2026-11-07",
+    "previous_event_id": "389b46270e37"
+   },
+   {
+    "title": "Riyadh financial district targeted, Aramco skyscraper damaged",
+    "summary": "Houthis targeted Riyadh's King Abdullah Financial District, damaging an Aramco skyscraper in a major escalation against Saudi Arabia.",
+    "lang": "en",
+    "source": "Channel NewsAsia",
+    "url": "https://www.channelnewsasia.com/world/saudi-arabia-houthis-riyadh-financial-district-aramco-tower-6534071",
+    "published": "2026-11-08T09:14:00+00:00",
+    "event_id": "b3534df0c874",
+    "sources": [
+     {
+      "title": "Riyadh financial district targeted, Aramco skyscraper damaged",
+      "summary": "Houthis targeted Riyadh's King Abdullah Financial District, damaging an Aramco skyscraper in a major escalation against Saudi Arabia.",
+      "lang": "en",
+      "source": "Channel NewsAsia",
+      "url": "https://www.channelnewsasia.com/world/saudi-arabia-houthis-riyadh-financial-district-aramco-tower-6534071",
+      "published": "2026-11-08T09:14:00+00:00"
+     },
+     {
+      "title": "Houthis say at least 33 killed in Saudi air strike",
+      "summary": "Houthis reported at least 33 killed in a Saudi air strike; Saudi-led coalition has not yet commented on the attack.",
+      "lang": "en",
+      "source": "BBC World",
+      "url": "https://www.bbc.co.uk/news/articles/c65yn1v99ypmo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-08T04:03:12+00:00"
+     }
+    ],
+    "status": "updated",
+    "change_summary": "Riyadh financial district targeted, Aramco skyscraper damaged",
+    "previous_date": "2026-11-07",
+    "previous_event_id": "b3534df0c874"
+   },
+   {
+    "title": "貨船企圖突破封鎖駛離伊朗 遭美國軍機開火癱瘓",
+    "summary": "美军军机向企图突破阿曼湾封鎖线驶离伊朗的商船开火，致其失去航行能力。",
+    "lang": "zh",
+    "source": "中央社 CNA",
+    "url": "https://www.cna.com.tw/news/aopl/202611080144.aspx",
+    "published": "2026-11-08T09:49:13+00:00",
+    "event_id": "2817d2f42345",
+    "sources": [
+     {
+      "title": "貨船企圖突破封鎖駛離伊朗 遭美國軍機開火癱瘓",
+      "summary": "美军军机向企图突破阿曼湾封鎖线驶离伊朗的商船开火，致其失去航行能力。",
+      "lang": "zh",
+      "source": "中央社 CNA",
+      "url": "https://www.cna.com.tw/news/aopl/202611080144.aspx",
+      "published": "2026-11-08T09:49:13+00:00"
+     }
+    ],
+    "status": "updated",
+    "change_summary": "貨船企圖突破封鎖駛離伊朗 遭美國軍機開火癱瘓",
+    "previous_date": "2026-11-07",
+    "previous_event_id": "2817d2f42345"
+   },
+   {
+    "title": "US offers $20m reward for information about Iran's nuclear programme",
+    "summary": "US offered $20 million reward for information on Iran's nuclear program as Trump considers renewed strikes on facilities.",
+    "lang": "en",
+    "source": "BBC World",
+    "url": "https://www.bbc.co.uk/news/articles/c6d091ev3p0jo?at_medium=RSS&at_campaign=rss",
+    "published": "2026-11-07T18:14:38+00:00",
+    "event_id": "a190c1df0327",
+    "sources": [
+     {
+      "title": "US offers $20m reward for information about Iran's nuclear programme",
+      "summary": "US offered $20 million reward for information on Iran's nuclear program as Trump considers renewed strikes on facilities.",
+      "lang": "en",
+      "source": "BBC World",
+      "url": "https://www.bbc.co.uk/news/articles/c6d091ev3p0jo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-07T18:14:38+00:00"
+     }
+    ],
+    "status": "unchanged",
+    "change_summary": "",
+    "previous_date": "2026-11-07",
+    "previous_event_id": "a190c1df0327"
+   }
+  ],
+  "economia|europa": [
+   {
+    "title": "ECB’s Lagarde Says Inflation Likely to Stay High in Near Future",
+    "summary": "ECB President Christine Lagarde warned inflation will likely remain elevated in the near term, signaling continued monetary policy challenges.",
+    "lang": "en",
+    "source": "Bloomberg Economics",
+    "url": "https://www.bloomberg.com/news/articles/2026-11-07/ecb-s-lagarde-says-inflation-likely-to-stay-high-in-near-future",
+    "published": "2026-11-07T14:52:20+00:00",
+    "event_id": "d902576be3ad",
+    "sources": [
+     {
+      "title": "ECB’s Lagarde Says Inflation Likely to Stay High in Near Future",
+      "summary": "ECB President Christine Lagarde warned inflation will likely remain elevated in the near term, signaling continued monetary policy challenges.",
+      "lang": "en",
+      "source": "Bloomberg Economics",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-07/ecb-s-lagarde-says-inflation-likely-to-stay-high-in-near-future",
+      "published": "2026-11-07T14:52:20+00:00"
+     }
+    ],
+    "status": "unchanged",
+    "change_summary": "",
+    "previous_date": "2026-11-07",
+    "previous_event_id": "d902576be3ad"
+   }
+  ],
+  "economia|america": [
+   {
+    "title": "US Inflation Set to Simmer Down Some After Recent Pickup",
+    "summary": "US inflation likely slowed in October after two months of elevated price growth for goods and services.",
+    "lang": "en",
+    "source": "Bloomberg Economics",
+    "url": "https://www.bloomberg.com/news/articles/2026-11-07/us-inflation-set-to-simmer-down-some-after-recent-pickup",
+    "published": "2026-11-07T21:00:00+00:00",
+    "event_id": "cab6f6cfd9d2",
+    "sources": [
+     {
+      "title": "US Inflation Set to Simmer Down Some After Recent Pickup",
+      "summary": "US inflation likely slowed in October after two months of elevated price growth for goods and services.",
+      "lang": "en",
+      "source": "Bloomberg Economics",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-07/us-inflation-set-to-simmer-down-some-after-recent-pickup",
+      "published": "2026-11-07T21:00:00+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "Meta’s $25 Billion Bond Sale Highlights Shifting Landscape for Tech Debt",
+    "summary": "Meta's $25 billion bond sale on Election Day reflects shifting dynamics in technology sector debt markets and investor sentiment.",
+    "lang": "en",
+    "source": "Bloomberg Markets",
+    "url": "https://www.bloomberg.com/news/articles/2026-11-07/meta-s-bond-sale-shows-new-reality-for-tech-debt-credit-weekly",
+    "published": "2026-11-07T20:00:00+00:00",
+    "event_id": "d45cefdc2d61",
+    "sources": [
+     {
+      "title": "Meta’s $25 Billion Bond Sale Highlights Shifting Landscape for Tech Debt",
+      "summary": "Meta's $25 billion bond sale on Election Day reflects shifting dynamics in technology sector debt markets and investor sentiment.",
+      "lang": "en",
+      "source": "Bloomberg Markets",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-07/meta-s-bond-sale-shows-new-reality-for-tech-debt-credit-weekly",
+      "published": "2026-11-07T20:00:00+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "Berkshire Hathaway Boosts Buybacks as Operating Income Slips",
+    "summary": "Berkshire Hathaway spent $9.6 billion on share buybacks in Q3 as operating income declined, signaling management's confidence in stock value.",
+    "lang": "en",
+    "source": "Bloomberg Markets",
+    "url": "https://www.bloomberg.com/news/articles/2026-11-07/berkshire-hathaway-s-operating-earnings-fall-buybacks-rise",
+    "published": "2026-11-07T13:01:21+00:00",
+    "event_id": "63307c236c9d",
+    "sources": [
+     {
+      "title": "Berkshire Hathaway Boosts Buybacks as Operating Income Slips",
+      "summary": "Berkshire Hathaway spent $9.6 billion on share buybacks in Q3 as operating income declined, signaling management's confidence in stock value.",
+      "lang": "en",
+      "source": "Bloomberg Markets",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-07/berkshire-hathaway-s-operating-earnings-fall-buybacks-rise",
+      "published": "2026-11-07T13:01:21+00:00"
+     }
+    ],
+    "status": "unchanged",
+    "change_summary": "",
+    "previous_date": "2026-11-07",
+    "previous_event_id": "63307c236c9d"
+   }
+  ],
+  "tecnologia|america": [
+   {
+    "title": "Anthropic strikes $3.4bn deal to generate gas-fired power for data centres",
+    "summary": "Anthropic secured $3.4 billion in gas-fired power capacity for its data centers, bypassing traditional suppliers amid surging energy demand.",
+    "lang": "en",
+    "source": "Financial Times",
+    "url": "https://www.ft.com/content/41bf5c6a-9735-4f1a-a8e3-2bcccad58ba0?syn-25a6b1a6=1",
+    "published": "2026-11-08T11:00:09+00:00",
+    "event_id": "a55c9fb77d66",
+    "sources": [
+     {
+      "title": "Anthropic strikes $3.4bn deal to generate gas-fired power for data centres",
+      "summary": "Anthropic secured $3.4 billion in gas-fired power capacity for its data centers, bypassing traditional suppliers amid surging energy demand.",
+      "lang": "en",
+      "source": "Financial Times",
+      "url": "https://www.ft.com/content/41bf5c6a-9735-4f1a-a8e3-2bcccad58ba0?syn-25a6b1a6=1",
+      "published": "2026-11-08T11:00:09+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "Why a new report on Anthropic automating AI development is alarming researchers",
+    "summary": "Anthropic uses AI to develop more powerful AI models, with improvements occurring roughly twice as fast as a year ago, alarming researchers.",
+    "lang": "en",
+    "source": "The Verge",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/1029126/anthropic-metr-report-accelerating-ai-development",
+    "published": "2026-11-07T12:30:00+00:00",
+    "event_id": "8879475e62b3",
+    "sources": [
+     {
+      "title": "Why a new report on Anthropic automating AI development is alarming researchers",
+      "summary": "Anthropic uses AI to develop more powerful AI models, with improvements occurring roughly twice as fast as a year ago, alarming researchers.",
+      "lang": "en",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1029126/anthropic-metr-report-accelerating-ai-development",
+      "published": "2026-11-07T12:30:00+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "Binance CFO is leaving to ‘pursue a new venture’ after $6.3 billion hack",
+    "summary": "Binance CFO announced departure to pursue new venture just over a week after $6.3 billion cryptocurrency hack from user accounts.",
+    "lang": "en",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/11/07/binance-cfo-is-leaving-to-pursue-a-new-venture-after-6-3-billion-hack/",
+    "published": "2026-11-07T17:24:07+00:00",
+    "event_id": "805dafe9e984",
+    "sources": [
+     {
+      "title": "Binance CFO is leaving to ‘pursue a new venture’ after $6.3 billion hack",
+      "summary": "Binance CFO announced departure to pursue new venture just over a week after $6.3 billion cryptocurrency hack from user accounts.",
+      "lang": "en",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/11/07/binance-cfo-is-leaving-to-pursue-a-new-venture-after-6-3-billion-hack/",
+      "published": "2026-11-07T17:24:07+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "Megaspeed exec was recruited to spy on Nvidia CEO, according to US intelligence memo",
+    "summary": "US intelligence memo claims China's Ministry of State Security recruited female technology executive to spy on Nvidia CEO.",
+    "lang": "en",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/11/07/chinese-exec-was-recruited-to-spy-on-nvidia-ceo-according-to-us-intelligence-memo/",
+    "published": "2026-11-07T21:17:08+00:00",
+    "event_id": "69c75581d56f",
+    "sources": [
+     {
+      "title": "Megaspeed exec was recruited to spy on Nvidia CEO, according to US intelligence memo",
+      "summary": "US intelligence memo claims China's Ministry of State Security recruited female technology executive to spy on Nvidia CEO.",
+      "lang": "en",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/11/07/chinese-exec-was-recruited-to-spy-on-nvidia-ceo-according-to-us-intelligence-memo/",
+      "published": "2026-11-07T21:17:08+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "The US let Nvidia sell chips to an empty office in China",
+    "summary": "US Commerce Department allowed Nvidia to sell chips to an empty office in China, raising concerns about inadequate vetting procedures.",
+    "lang": "en",
+    "source": "The Verge",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/1029483/nvidia-ai-chips-china-blacklist-government",
+    "published": "2026-11-07T15:43:45+00:00",
+    "event_id": "73be1ddc7ff2",
+    "sources": [
+     {
+      "title": "The US let Nvidia sell chips to an empty office in China",
+      "summary": "US Commerce Department allowed Nvidia to sell chips to an empty office in China, raising concerns about inadequate vetting procedures.",
+      "lang": "en",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1029483/nvidia-ai-chips-china-blacklist-government",
+      "published": "2026-11-07T15:43:45+00:00"
+     }
+    ],
+    "status": "unchanged",
+    "change_summary": "",
+    "previous_date": "2026-11-07",
+    "previous_event_id": "73be1ddc7ff2"
+   }
+  ],
+  "politica|america": [
+   {
+    "title": "Crypto industry braces for reckoning over Trump ties",
+    "summary": "Democrats plan investigations into crypto industry ties to Trump's family following their midterm election victory.",
+    "lang": "en",
+    "source": "Financial Times",
+    "url": "https://www.ft.com/content/f1b98a61-4103-447c-bb9a-3dccc0819f61?syn-25a6b1a6=1",
+    "published": "2026-11-08T05:00:19+00:00",
+    "event_id": "9c1a60497a9f",
+    "sources": [
+     {
+      "title": "Crypto industry braces for reckoning over Trump ties",
+      "summary": "Democrats plan investigations into crypto industry ties to Trump's family following their midterm election victory.",
+      "lang": "en",
+      "source": "Financial Times",
+      "url": "https://www.ft.com/content/f1b98a61-4103-447c-bb9a-3dccc0819f61?syn-25a6b1a6=1",
+      "published": "2026-11-08T05:00:19+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "Texas mayor instructs police to limit co-operation with ICE",
+    "summary": "Houston's mayor instructed police to limit cooperation with ICE after months of public outcry over a fatal shooting by an ICE officer.",
+    "lang": "en",
+    "source": "BBC World",
+    "url": "https://www.bbc.co.uk/news/articles/c8dx33d22zkro?at_medium=RSS&at_campaign=rss",
+    "published": "2026-11-07T08:15:55+00:00",
+    "event_id": "4caa2a4546b6",
+    "sources": [
+     {
+      "title": "Texas mayor instructs police to limit co-operation with ICE",
+      "summary": "Houston's mayor instructed police to limit cooperation with ICE after months of public outcry over a fatal shooting by an ICE officer.",
+      "lang": "en",
+      "source": "BBC World",
+      "url": "https://www.bbc.co.uk/news/articles/c8dx33d22zkro?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-07T08:15:55+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "Pope’s visit to Argentina sets up showdown with ‘hyper-capitalist’ Milei",
+    "summary": "Pope's visit to Argentina creates diplomatic tension with President Milei, who has opposed views on numerous issues and previously criticized his predecessor.",
+    "lang": "en",
+    "source": "The Guardian World",
+    "url": "https://www.theguardian.com/world/2026/nov/08/popes-visit-to-argentina-sets-up-showdown-with-hyper-capitalist-milei",
+    "published": "2026-11-08T09:00:35+00:00",
+    "event_id": "86bf698b14c4",
+    "sources": [
+     {
+      "title": "Pope’s visit to Argentina sets up showdown with ‘hyper-capitalist’ Milei",
+      "summary": "Pope's visit to Argentina creates diplomatic tension with President Milei, who has opposed views on numerous issues and previously criticized his predecessor.",
+      "lang": "en",
+      "source": "The Guardian World",
+      "url": "https://www.theguardian.com/world/2026/nov/08/popes-visit-to-argentina-sets-up-showdown-with-hyper-capitalist-milei",
+      "published": "2026-11-08T09:00:35+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "Paraguay's former president charged after bank collapse",
+    "summary": "Paraguay's former president Santiago Peña was charged following a banking crisis that left millions unable to access their money.",
+    "lang": "en",
+    "source": "BBC World",
+    "url": "https://www.bbc.co.uk/news/articles/c68jzzvjgdy9o?at_medium=RSS&at_campaign=rss",
+    "published": "2026-11-07T19:17:22+00:00",
+    "event_id": "5944c8a29886",
+    "sources": [
+     {
+      "title": "Paraguay's former president charged after bank collapse",
+      "summary": "Paraguay's former president Santiago Peña was charged following a banking crisis that left millions unable to access their money.",
+      "lang": "en",
+      "source": "BBC World",
+      "url": "https://www.bbc.co.uk/news/articles/c68jzzvjgdy9o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-07T19:17:22+00:00"
+     }
+    ],
+    "status": "unchanged",
+    "change_summary": "",
+    "previous_date": "2026-11-07",
+    "previous_event_id": "5944c8a29886"
+   },
+   {
+    "title": "中期选举惨败后首次人事调整：特朗普换掉白宫幕僚长",
+    "summary": "特朗普在中期选举惨败后撤换白宫幕僚长，由强硬移民政策推手米勒接任，表明MAGA阵营继续主导。",
+    "lang": "zh",
+    "source": "德國之聲中文",
+    "url": "https://www.dw.com/zh/中期选举惨败后首次人事调整：特朗普换掉白宫幕僚长/a-79884880?maca=chi-rss-chi-all-1127-rdf",
+    "published": "2026-11-07T12:37:00+00:00",
+    "event_id": "1129afa74846",
+    "sources": [
+     {
+      "title": "中期选举惨败后首次人事调整：特朗普换掉白宫幕僚长",
+      "summary": "特朗普在中期选举惨败后撤换白宫幕僚长，由强硬移民政策推手米勒接任，表明MAGA阵营继续主导。",
+      "lang": "zh",
+      "source": "德國之聲中文",
+      "url": "https://www.dw.com/zh/中期选举惨败后首次人事调整：特朗普换掉白宫幕僚长/a-79884880?maca=chi-rss-chi-all-1127-rdf",
+      "published": "2026-11-07T12:37:00+00:00"
+     }
+    ],
+    "status": "unchanged",
+    "change_summary": "",
+    "previous_date": "2026-11-07",
+    "previous_event_id": "1129afa74846"
+   }
+  ],
+  "tecnologia|asia": [
+   {
+    "title": "AI 演算法解碼兩萬基因發現天然胜肽 BRP，進食量降 50% 且純減脂不甩肌",
+    "summary": "斯坦福研究团队利用AI从生物分子中筛选出天然胜肽BRP，可降低进食量50%且纯减脂不流失肌肉。",
+    "lang": "zh",
+    "source": "科技新報 TechNews",
+    "url": "https://technews.tw/2026/11/08/stanford-ai-discovers-natural-weight-loss-peptide/",
+    "published": "2026-11-08T08:00:12+00:00",
+    "event_id": "8eaef798b42e",
+    "sources": [
+     {
+      "title": "AI 演算法解碼兩萬基因發現天然胜肽 BRP，進食量降 50% 且純減脂不甩肌",
+      "summary": "斯坦福研究团队利用AI从生物分子中筛选出天然胜肽BRP，可降低进食量50%且纯减脂不流失肌肉。",
+      "lang": "zh",
+      "source": "科技新報 TechNews",
+      "url": "https://technews.tw/2026/11/08/stanford-ai-discovers-natural-weight-loss-peptide/",
+      "published": "2026-11-08T08:00:12+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "Linux核心IPv4 TCP連線漏洞影響廣泛，多家廠商陸續推出修補",
+    "summary": "Linux核心重大漏洞CVE-2026-98432影响IPv4 TCP连接，可导致远程代码执行，多家厂商陆续推出修补。",
+    "lang": "zh",
+    "source": "iThome 台灣",
+    "url": "https://www.ithome.com.tw/news/180298",
+    "published": "2026-11-07T10:11:00+00:00",
+    "event_id": "97c6495faeb2",
+    "sources": [
+     {
+      "title": "Linux核心IPv4 TCP連線漏洞影響廣泛，多家廠商陸續推出修補",
+      "summary": "Linux核心重大漏洞CVE-2026-98432影响IPv4 TCP连接，可导致远程代码执行，多家厂商陆续推出修补。",
+      "lang": "zh",
+      "source": "iThome 台灣",
+      "url": "https://www.ithome.com.tw/news/180298",
+      "published": "2026-11-07T10:11:00+00:00"
+     }
+    ],
+    "status": "unchanged",
+    "change_summary": "",
+    "previous_date": "2026-11-07",
+    "previous_event_id": "97c6495faeb2"
+   }
+  ]
+ }
+}
