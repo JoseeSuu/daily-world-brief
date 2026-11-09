@@ -1,0 +1,727 @@
+{
+ "date": "2026-11-09",
+ "generated_at": "2026-11-09T14:13:06.970486+00:00",
+ "mode": "full",
+ "cost_usd": 0.0452,
+ "selection": {
+  "model": "claude-haiku-5-5",
+  "effort": "high",
+  "passes": 3,
+  "passes_ok": 3,
+  "cost_usd": 0.0185
+ },
+ "events": {
+  "mode": "full",
+  "compared_with": "2026-11-08",
+  "articles": 33,
+  "uncompared_articles": 0,
+  "events": 28,
+  "cost_usd": 0.0167
+ },
+ "market": null,
+ "failed_sources": [],
+ "cells": {
+  "economia|asia": [
+   {
+    "title": "China Extends Pause on US Tariffs and Trade Curbs for Two Months",
+    "summary": "China extends retaliatory trade pause with US for two more months, suspending additional tariffs and trade restrictions agreed by both countries' leaders.",
+    "lang": "en",
+    "source": "Bloomberg Economics",
+    "url": "https://www.bloomberg.com/news/articles/2026-11-09/china-extends-pause-on-24-us-tariffs-to-january-keeps-10-rate",
+    "published": "2026-11-09T04:36:35+00:00",
+    "event_id": "a2a6e3c8f9fe",
+    "sources": [
+     {
+      "title": "China Extends Pause on US Tariffs and Trade Curbs for Two Months",
+      "summary": "China extends retaliatory trade pause with US for two more months, suspending additional tariffs and trade restrictions agreed by both countries' leaders.",
+      "lang": "en",
+      "source": "Bloomberg Economics",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-09/china-extends-pause-on-24-us-tariffs-to-january-keeps-10-rate",
+      "published": "2026-11-09T04:36:35+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "Philippine GDP growth further slows to 2.1% in Q3, dragged by inflation",
+    "summary": "Philippine GDP growth slowed to 2.1% in Q3, dragged down by persistent inflationary pressures affecting economic expansion.",
+    "lang": "en",
+    "source": "Nikkei Asia",
+    "url": "https://asia.nikkei.com/economy/philippine-gdp-growth-further-slows-to-2.1-in-q3-dragged-by-inflation",
+    "published": null,
+    "event_id": "1f480fb6ef89",
+    "sources": [
+     {
+      "title": "Philippine GDP growth further slows to 2.1% in Q3, dragged by inflation",
+      "summary": "Philippine GDP growth slowed to 2.1% in Q3, dragged down by persistent inflationary pressures affecting economic expansion.",
+      "lang": "en",
+      "source": "Nikkei Asia",
+      "url": "https://asia.nikkei.com/economy/philippine-gdp-growth-further-slows-to-2.1-in-q3-dragged-by-inflation",
+      "published": null
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "Oil Extends Drop as Hopes Grow of Diplomatic Progress to End War",
+    "summary": "Oil prices extended declines as diplomatic optimism grows regarding Middle East conflict resolution, despite ongoing regional attacks.",
+    "lang": "en",
+    "source": "Bloomberg Markets",
+    "url": "https://www.bloomberg.com/news/articles/2026-11-09/oil-falls-on-unconfirmed-report-that-iran-eased-hormuz-demands",
+    "published": "2026-11-09T11:34:07+00:00",
+    "event_id": "94a8207a192b",
+    "sources": [
+     {
+      "title": "Oil Extends Drop as Hopes Grow of Diplomatic Progress to End War",
+      "summary": "Oil prices extended declines as diplomatic optimism grows regarding Middle East conflict resolution, despite ongoing regional attacks.",
+      "lang": "en",
+      "source": "Bloomberg Markets",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-09/oil-falls-on-unconfirmed-report-that-iran-eased-hormuz-demands",
+      "published": "2026-11-09T11:34:07+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "Malaysia-Taiwan fraying ties threaten future chip investments",
+    "summary": "Malaysia-Taiwan deteriorating relations threaten future semiconductor investments between the two economies.",
+    "lang": "en",
+    "source": "Nikkei Asia",
+    "url": "https://asia.nikkei.com/politics/international-relations/malaysia-taiwan-fraying-ties-threaten-future-chip-investments",
+    "published": null,
+    "event_id": "9ab29307953c",
+    "sources": [
+     {
+      "title": "Malaysia-Taiwan fraying ties threaten future chip investments",
+      "summary": "Malaysia-Taiwan deteriorating relations threaten future semiconductor investments between the two economies.",
+      "lang": "en",
+      "source": "Nikkei Asia",
+      "url": "https://asia.nikkei.com/politics/international-relations/malaysia-taiwan-fraying-ties-threaten-future-chip-investments",
+      "published": null
+     },
+     {
+      "title": "日經：安華爭議發言後台灣取消與大馬貿易會談 恐傷半導體投資",
+      "summary": "台湾在马来西亚总理安华有关言论后取消双边贸易会谈，引发业界对半导体投资前景的担忧。",
+      "lang": "zh",
+      "source": "中央社 CNA",
+      "url": "https://www.cna.com.tw/news/aopl/202611090250.aspx",
+      "published": "2026-11-09T11:31:35+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "Japan and Vietnam agree to boost economic security and energy ties",
+    "summary": "Japan and Vietnam agree to strengthen economic and strategic ties amid rising regional geopolitical and trade tensions.",
+    "lang": "en",
+    "source": "Japan Times",
+    "url": "https://www.japantimes.co.jp/news/2026/11/09/japan/japan-vietnam-economic-security/",
+    "published": "2026-11-09T11:15:00+00:00",
+    "event_id": "06ba720e4939",
+    "sources": [
+     {
+      "title": "Japan and Vietnam agree to boost economic security and energy ties",
+      "summary": "Japan and Vietnam agree to strengthen economic and strategic ties amid rising regional geopolitical and trade tensions.",
+      "lang": "en",
+      "source": "Japan Times",
+      "url": "https://www.japantimes.co.jp/news/2026/11/09/japan/japan-vietnam-economic-security/",
+      "published": "2026-11-09T11:15:00+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "中国10月CPI小幅降低",
+    "summary": "中国10月CPI小幅下降，内需疲弱对消费者物价造成压力，尽管能源价格上升推高了生产者成本。",
+    "lang": "zh",
+    "source": "FT中文网",
+    "url": "https://www.ftchinese.com/story/001111313",
+    "published": "2026-11-08T16:00:00+00:00",
+    "event_id": "f75bf220e139",
+    "sources": [
+     {
+      "title": "中国10月CPI小幅降低",
+      "summary": "中国10月CPI小幅下降，内需疲弱对消费者物价造成压力，尽管能源价格上升推高了生产者成本。",
+      "lang": "zh",
+      "source": "FT中文网",
+      "url": "https://www.ftchinese.com/story/001111313",
+      "published": "2026-11-08T16:00:00+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "酷澎涉濫用餐飲外送市場主導地位，遭韓重罰 2.2 億美元",
+    "summary": "韩国公平交易委员会以酷澎濫用外送市场主导地位为由，对其处以2.2亿美元罚款。",
+    "lang": "zh",
+    "source": "科技新報 TechNews",
+    "url": "https://technews.tw/2026/11/09/coupang-fined-220-million-south-korea-alleged-abuse-dominant-food-delivery-market-position/",
+    "published": "2026-11-09T10:20:37+00:00",
+    "event_id": "e86f0c2306a0",
+    "sources": [
+     {
+      "title": "酷澎涉濫用餐飲外送市場主導地位，遭韓重罰 2.2 億美元",
+      "summary": "韩国公平交易委员会以酷澎濫用外送市场主导地位为由，对其处以2.2亿美元罚款。",
+      "lang": "zh",
+      "source": "科技新報 TechNews",
+      "url": "https://technews.tw/2026/11/09/coupang-fined-220-million-south-korea-alleged-abuse-dominant-food-delivery-market-position/",
+      "published": "2026-11-09T10:20:37+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   }
+  ],
+  "economia|europa": [
+   {
+    "title": "French Government Boosts Minimum Wage in Response to Protests",
+    "summary": "French government raises minimum wage to address cost-of-living protests without further straining public finances.",
+    "lang": "en",
+    "source": "Bloomberg Economics",
+    "url": "https://www.bloomberg.com/news/articles/2026-11-09/french-government-boosts-minimum-wage-in-response-to-protests",
+    "published": "2026-11-09T13:19:30+00:00",
+    "event_id": "97c02ad5ef1a",
+    "sources": [
+     {
+      "title": "French Government Boosts Minimum Wage in Response to Protests",
+      "summary": "French government raises minimum wage to address cost-of-living protests without further straining public finances.",
+      "lang": "en",
+      "source": "Bloomberg Economics",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-09/french-government-boosts-minimum-wage-in-response-to-protests",
+      "published": "2026-11-09T13:19:30+00:00"
+     }
+    ],
+    "status": "updated",
+    "change_summary": "French Government Boosts Minimum Wage in Response to Protests",
+    "previous_date": "2026-11-08",
+    "previous_event_id": "97c02ad5ef1a"
+   },
+   {
+    "title": "Nordea Fine for Flawed Laundering Controls Dodges Worst Case",
+    "summary": "Nordea Bank received significantly lower fine than worst-case scenario in Denmark's first money-laundering controls failure trial.",
+    "lang": "en",
+    "source": "Bloomberg Markets",
+    "url": "https://www.bloomberg.com/news/articles/2026-11-09/nordea-gets-23-million-fine-in-danish-money-laundering-case",
+    "published": "2026-11-09T12:45:20+00:00",
+    "event_id": "2971c3dee48e",
+    "sources": [
+     {
+      "title": "Nordea Fine for Flawed Laundering Controls Dodges Worst Case",
+      "summary": "Nordea Bank received significantly lower fine than worst-case scenario in Denmark's first money-laundering controls failure trial.",
+      "lang": "en",
+      "source": "Bloomberg Markets",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-09/nordea-gets-23-million-fine-in-danish-money-laundering-case",
+      "published": "2026-11-09T12:45:20+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "Los sindicatos se preparan para un seguimiento “desigual” de la huelga por territorios, sectores y edades",
+    "summary": "Los sindicatos se preparan para una huelga con apoyo desigual según territorios y sectores, anticipando manifestaciones masivas para frenar la actividad económica.",
+    "lang": "es",
+    "source": "El País Economía",
+    "url": "https://elpais.com/economia/2026-11-09/los-sindicatos-preven-un-seguimiento-desigual-por-territorios-sectores-y-edades-en-la-huelga-general.html",
+    "published": "2026-11-09T04:45:01+00:00",
+    "event_id": "aa671198be1e",
+    "sources": [
+     {
+      "title": "Los sindicatos se preparan para un seguimiento “desigual” de la huelga por territorios, sectores y edades",
+      "summary": "Los sindicatos se preparan para una huelga con apoyo desigual según territorios y sectores, anticipando manifestaciones masivas para frenar la actividad económica.",
+      "lang": "es",
+      "source": "El País Economía",
+      "url": "https://elpais.com/economia/2026-11-09/los-sindicatos-preven-un-seguimiento-desigual-por-territorios-sectores-y-edades-en-la-huelga-general.html",
+      "published": "2026-11-09T04:45:01+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   }
+  ],
+  "politica|europa": [
+   {
+    "title": "EU aims to pick new ECB chief by year-end",
+    "summary": "EU aims to select new ECB chief by year-end following Christine Lagarde's early departure announcement.",
+    "lang": "en",
+    "source": "Deutsche Welle World",
+    "url": "https://www.dw.com/en/eu-aims-to-pick-new-ecb-chief-by-year-end/a-79898169?maca=en-rss-en-world-4025-rdf",
+    "published": "2026-11-09T11:55:00+00:00",
+    "event_id": "0363b4979a46",
+    "sources": [
+     {
+      "title": "EU aims to pick new ECB chief by year-end",
+      "summary": "EU aims to select new ECB chief by year-end following Christine Lagarde's early departure announcement.",
+      "lang": "en",
+      "source": "Deutsche Welle World",
+      "url": "https://www.dw.com/en/eu-aims-to-pick-new-ecb-chief-by-year-end/a-79898169?maca=en-rss-en-world-4025-rdf",
+      "published": "2026-11-09T11:55:00+00:00"
+     },
+     {
+      "title": "ECB Succession Advances as Ministers Look at Trio of Jobs",
+      "summary": "Euro-zone governments pursue agreement on European Central Bank presidency alongside two other senior positions following candidate review.",
+      "lang": "en",
+      "source": "Bloomberg Markets",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-09/ecb-succession-advances-as-ministers-look-to-pick-trio-of-jobs",
+      "published": "2026-11-09T13:07:51+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "Police detain brother of Hungary’s ex-PM Orban",
+    "summary": "Hungarian police detained Viktor Orban's brother as PM Peter Magyar continues pro-EU conservative governance shift.",
+    "lang": "en",
+    "source": "South China Morning Post (Asia)",
+    "url": "https://www.scmp.com/news/world/europe/article/3373823/police-detain-brother-hungarys-ex-pm-orban",
+    "published": "2026-11-09T12:00:33+00:00",
+    "event_id": "727b6d02b986",
+    "sources": [
+     {
+      "title": "Police detain brother of Hungary’s ex-PM Orban",
+      "summary": "Hungarian police detained Viktor Orban's brother as PM Peter Magyar continues pro-EU conservative governance shift.",
+      "lang": "en",
+      "source": "South China Morning Post (Asia)",
+      "url": "https://www.scmp.com/news/world/europe/article/3373823/police-detain-brother-hungarys-ex-pm-orban",
+      "published": "2026-11-09T12:00:33+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "Europe to join U.S.-brokered Ukraine talks in Abu Dhabi, defying Kremlin objections",
+    "summary": "France announces European officials will attend US-mediated Russia-Ukraine talks in Abu Dhabi this week, defying Kremlin objections.",
+    "lang": "en",
+    "source": "NPR World",
+    "url": "https://www.npr.org/2026/11/08/nx-s1-6034014/europe-join-us-brokered-ukraine-talks-abu-dhabi-russia",
+    "published": "2026-11-08T19:25:30+00:00",
+    "event_id": "e6afdaa46c60",
+    "sources": [
+     {
+      "title": "Europe to join U.S.-brokered Ukraine talks in Abu Dhabi, defying Kremlin objections",
+      "summary": "France announces European officials will attend US-mediated Russia-Ukraine talks in Abu Dhabi this week, defying Kremlin objections.",
+      "lang": "en",
+      "source": "NPR World",
+      "url": "https://www.npr.org/2026/11/08/nx-s1-6034014/europe-join-us-brokered-ukraine-talks-abu-dhabi-russia",
+      "published": "2026-11-08T19:25:30+00:00"
+     }
+    ],
+    "status": "updated",
+    "change_summary": "Europe to join U.S.-brokered Ukraine talks in Abu Dhabi, defying Kremlin objections",
+    "previous_date": "2026-11-08",
+    "previous_event_id": "e6afdaa46c60"
+   },
+   {
+    "title": "The closure of 'Novaya Gazeta,' the end of a beacon for the 'other Russia'",
+    "summary": "Nobel laureate Dmitry Muratov's independent newspaper Novaya Gazeta closes November 9 after sustained Kremlin pressure on its journalists.",
+    "lang": "en",
+    "source": "Le Monde International",
+    "url": "https://www.lemonde.fr/en/opinion/article/2026/11/09/the-closure-of-novaya-gazeta-the-end-of-a-beacon-for-the-other-russia_6775903_23.html",
+    "published": "2026-11-09T14:00:13+00:00",
+    "event_id": "c0a1ec056584",
+    "sources": [
+     {
+      "title": "The closure of 'Novaya Gazeta,' the end of a beacon for the 'other Russia'",
+      "summary": "Nobel laureate Dmitry Muratov's independent newspaper Novaya Gazeta closes November 9 after sustained Kremlin pressure on its journalists.",
+      "lang": "en",
+      "source": "Le Monde International",
+      "url": "https://www.lemonde.fr/en/opinion/article/2026/11/09/the-closure-of-novaya-gazeta-the-end-of-a-beacon-for-the-other-russia_6775903_23.html",
+      "published": "2026-11-09T14:00:13+00:00"
+     }
+    ],
+    "status": "unchanged",
+    "change_summary": "",
+    "previous_date": "2026-11-08",
+    "previous_event_id": "c0a1ec056584"
+   }
+  ],
+  "tecnologia|europa": [
+   {
+    "title": "EU sues IBM and partners over troubled border system",
+    "summary": "EU sues IBM and partners over Estonia's troubled Entry/Exit System border project facing repeated development delays.",
+    "lang": "en",
+    "source": "Financial Times",
+    "url": "https://www.ft.com/content/eacea609-d571-4725-b795-a1afd5c3c301?syn-25a6b1a6=1",
+    "published": "2026-11-09T05:00:16+00:00",
+    "event_id": "7aaceb5d0430",
+    "sources": [
+     {
+      "title": "EU sues IBM and partners over troubled border system",
+      "summary": "EU sues IBM and partners over Estonia's troubled Entry/Exit System border project facing repeated development delays.",
+      "lang": "en",
+      "source": "Financial Times",
+      "url": "https://www.ft.com/content/eacea609-d571-4725-b795-a1afd5c3c301?syn-25a6b1a6=1",
+      "published": "2026-11-09T05:00:16+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   }
+  ],
+  "tecnologia|america": [
+   {
+    "title": "Musk says Tesla will refund some Cybertruck deposits, defends decision to end production",
+    "summary": "Elon Musk defended Tesla's decision to cease Cybertruck production in approximately eight months, offering deposit refunds.",
+    "lang": "en",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/11/09/musk-says-tesla-will-refund-some-cybertruck-deposits-defends-decision-to-end-production/",
+    "published": "2026-11-09T13:43:28+00:00",
+    "event_id": "7862033c12c5",
+    "sources": [
+     {
+      "title": "Musk says Tesla will refund some Cybertruck deposits, defends decision to end production",
+      "summary": "Elon Musk defended Tesla's decision to cease Cybertruck production in approximately eight months, offering deposit refunds.",
+      "lang": "en",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/11/09/musk-says-tesla-will-refund-some-cybertruck-deposits-defends-decision-to-end-production/",
+      "published": "2026-11-09T13:43:28+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "Instagram’s AI age detection is expanding globally",
+    "summary": "Meta expands AI age detection technology globally on Instagram to identify teenagers who misreported their age.",
+    "lang": "en",
+    "source": "The Verge",
+    "url": "https://www.theverge.com/tech/1029627/meta-instagram-ai-age-assurance-global-expansion",
+    "published": "2026-11-09T12:00:00+00:00",
+    "event_id": "b984208759f6",
+    "sources": [
+     {
+      "title": "Instagram’s AI age detection is expanding globally",
+      "summary": "Meta expands AI age detection technology globally on Instagram to identify teenagers who misreported their age.",
+      "lang": "en",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/tech/1029627/meta-instagram-ai-age-assurance-global-expansion",
+      "published": "2026-11-09T12:00:00+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "Tesla expands robotaxi service to San Antonio",
+    "summary": "Tesla launches robotaxi service in San Antonio, expanding to fourth Texas city for autonomous vehicle operations.",
+    "lang": "en",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/11/09/tesla-expands-robotaxi-service-to-san-antonio/",
+    "published": "2026-11-09T11:30:24+00:00",
+    "event_id": "5fb3e99b5539",
+    "sources": [
+     {
+      "title": "Tesla expands robotaxi service to San Antonio",
+      "summary": "Tesla launches robotaxi service in San Antonio, expanding to fourth Texas city for autonomous vehicle operations.",
+      "lang": "en",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/11/09/tesla-expands-robotaxi-service-to-san-antonio/",
+      "published": "2026-11-09T11:30:24+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "Nvidia opens investigation after report CEO Jensen Huang was target of foreign intelligence",
+    "summary": "Nvidia launched independent investigation after CEO Jensen Huang was reportedly targeted by foreign intelligence through a Chinese businesswoman.",
+    "lang": "en",
+    "source": "The Guardian World",
+    "url": "https://www.theguardian.com/us-news/2026/nov/08/nvidia-jensen-huang-investigation",
+    "published": "2026-11-09T00:25:28+00:00",
+    "event_id": "69c75581d56f",
+    "sources": [
+     {
+      "title": "Nvidia opens investigation after report CEO Jensen Huang was target of foreign intelligence",
+      "summary": "Nvidia launched independent investigation after CEO Jensen Huang was reportedly targeted by foreign intelligence through a Chinese businesswoman.",
+      "lang": "en",
+      "source": "The Guardian World",
+      "url": "https://www.theguardian.com/us-news/2026/nov/08/nvidia-jensen-huang-investigation",
+      "published": "2026-11-09T00:25:28+00:00"
+     },
+     {
+      "title": "Alleged Chinese spy linked to Nvidia chief pitched AI chips deals to investors",
+      "summary": "Alleged Chinese spy Alice Huang pitched AI chip deals to investors, claiming access to Nvidia GPUs and Alibaba connections.",
+      "lang": "en",
+      "source": "Financial Times",
+      "url": "https://www.ft.com/content/5d8c1e1d-6ce0-4eb4-9f5c-722fa5c4841d?syn-25a6b1a6=1",
+      "published": "2026-11-09T13:50:36+00:00"
+     },
+     {
+      "title": "Nvidia is investigating Jensen Huang’s relationship with an alleged Chinese spy",
+      "summary": "Nvidia launched investigation into CEO Jensen Huang's relationship with alleged Chinese spy Alice Huang from Megaspeed.",
+      "lang": "en",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1029562/nvidia-investigating-jensen-huang-relationship-chinese-spy",
+      "published": "2026-11-08T20:22:39+00:00"
+     }
+    ],
+    "status": "unchanged",
+    "change_summary": "",
+    "previous_date": "2026-11-08",
+    "previous_event_id": "69c75581d56f"
+   }
+  ],
+  "economia|america": [
+   {
+    "title": "Brazil Economists Lift Key Rate Forecasts Again After Lula’s Win",
+    "summary": "Brazil economists raised 2026 interest rate forecasts again following Lula's reelection, anticipating higher public spending bets.",
+    "lang": "en",
+    "source": "Bloomberg Economics",
+    "url": "https://www.bloomberg.com/news/articles/2026-11-09/brazil-economists-lift-key-rate-forecasts-again-after-lula-s-win",
+    "published": "2026-11-09T12:24:25+00:00",
+    "event_id": "bfcd1cd8360c",
+    "sources": [
+     {
+      "title": "Brazil Economists Lift Key Rate Forecasts Again After Lula’s Win",
+      "summary": "Brazil economists raised 2026 interest rate forecasts again following Lula's reelection, anticipating higher public spending bets.",
+      "lang": "en",
+      "source": "Bloomberg Economics",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-09/brazil-economists-lift-key-rate-forecasts-again-after-lula-s-win",
+      "published": "2026-11-09T12:24:25+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "Mexico Inflation Jumps to Put Banxico Rate Policy in Focus",
+    "summary": "Mexico's inflation exceeded expectations in October, raising scrutiny of central bank's recent rate cut decision.",
+    "lang": "en",
+    "source": "Bloomberg Markets",
+    "url": "https://www.bloomberg.com/news/articles/2026-11-09/mexico-s-inflation-accelerates-with-banxico-rate-policy-in-focus",
+    "published": "2026-11-09T12:28:15+00:00",
+    "event_id": "55e6b2893a01",
+    "sources": [
+     {
+      "title": "Mexico Inflation Jumps to Put Banxico Rate Policy in Focus",
+      "summary": "Mexico's inflation exceeded expectations in October, raising scrutiny of central bank's recent rate cut decision.",
+      "lang": "en",
+      "source": "Bloomberg Markets",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-09/mexico-s-inflation-accelerates-with-banxico-rate-policy-in-focus",
+      "published": "2026-11-09T12:28:15+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   }
+  ],
+  "politica|asia": [
+   {
+    "title": "Syria confirms sending troops to Saudi Arabia amid battle against Houthis",
+    "summary": "Syria confirms military integration with Saudi Arabia amid battle against Houthis, while denying troop deployment to Yemen.",
+    "lang": "en",
+    "source": "Al Jazeera English",
+    "url": "https://www.aljazeera.com/features/2026/11/9/syria-confirms-sending-troops-to-saudi-arabia-amid-battle-against-houthis?traffic_source=rss",
+    "published": "2026-11-09T13:15:27+00:00",
+    "event_id": "73acf381ec21",
+    "sources": [
+     {
+      "title": "Syria confirms sending troops to Saudi Arabia amid battle against Houthis",
+      "summary": "Syria confirms military integration with Saudi Arabia amid battle against Houthis, while denying troop deployment to Yemen.",
+      "lang": "en",
+      "source": "Al Jazeera English",
+      "url": "https://www.aljazeera.com/features/2026/11/9/syria-confirms-sending-troops-to-saudi-arabia-amid-battle-against-houthis?traffic_source=rss",
+      "published": "2026-11-09T13:15:27+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   }
+  ],
+  "politica|america": [
+   {
+    "title": "Trump reconoce que su política de deportaciones fue “demasiado dura”",
+    "summary": "Trump reconoce que su política de deportaciones fue demasiado dura en una entrevista televisiva, poco antes de nombrar al artífice de estas medidas como jefe de gabinete.",
+    "lang": "es",
+    "source": "El País Internacional",
+    "url": "https://elpais.com/internacional/2026-11-09/trump-reconoce-que-su-politica-de-deportaciones-fue-demasiado-dura.html",
+    "published": "2026-11-09T14:01:54+00:00",
+    "event_id": "36744ffd777b",
+    "sources": [
+     {
+      "title": "Trump reconoce que su política de deportaciones fue “demasiado dura”",
+      "summary": "Trump reconoce que su política de deportaciones fue demasiado dura en una entrevista televisiva, poco antes de nombrar al artífice de estas medidas como jefe de gabinete.",
+      "lang": "es",
+      "source": "El País Internacional",
+      "url": "https://elpais.com/internacional/2026-11-09/trump-reconoce-que-su-politica-de-deportaciones-fue-demasiado-dura.html",
+      "published": "2026-11-09T14:01:54+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "Pope delivers veiled rebuke of Milei's austerity measures",
+    "summary": "Pope Francis delivered veiled criticism of Argentina's President Milei's austerity measures during his Latin America tour.",
+    "lang": "en",
+    "source": "BBC World",
+    "url": "https://www.bbc.co.uk/news/articles/ckj0l082jqzvo?at_medium=RSS&at_campaign=rss",
+    "published": "2026-11-09T05:30:37+00:00",
+    "event_id": "86bf698b14c4",
+    "sources": [
+     {
+      "title": "Pope delivers veiled rebuke of Milei's austerity measures",
+      "summary": "Pope Francis delivered veiled criticism of Argentina's President Milei's austerity measures during his Latin America tour.",
+      "lang": "en",
+      "source": "BBC World",
+      "url": "https://www.bbc.co.uk/news/articles/ckj0l082jqzvo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-09T05:30:37+00:00"
+     }
+    ],
+    "status": "updated",
+    "change_summary": "Pope delivers veiled rebuke of Milei's austerity measures",
+    "previous_date": "2026-11-08",
+    "previous_event_id": "86bf698b14c4"
+   },
+   {
+    "title": "Congress is back after GOP's midterm defeat. And, Trump appoints new chief of staff",
+    "summary": "Republicans control Congress for remaining weeks following GOP midterm defeat. Trump appoints Stephen Miller as chief of staff.",
+    "lang": "en",
+    "source": "NPR World",
+    "url": "https://www.npr.org/2026/11/09/g-s1-152627/up-first-newsletter-stephen-miller-trump-congress-nvidia-cop31",
+    "published": "2026-11-09T12:45:14+00:00",
+    "event_id": "1129afa74846",
+    "sources": [
+     {
+      "title": "Congress is back after GOP's midterm defeat. And, Trump appoints new chief of staff",
+      "summary": "Republicans control Congress for remaining weeks following GOP midterm defeat. Trump appoints Stephen Miller as chief of staff.",
+      "lang": "en",
+      "source": "NPR World",
+      "url": "https://www.npr.org/2026/11/09/g-s1-152627/up-first-newsletter-stephen-miller-trump-congress-nvidia-cop31",
+      "published": "2026-11-09T12:45:14+00:00"
+     }
+    ],
+    "status": "unchanged",
+    "change_summary": "",
+    "previous_date": "2026-11-08",
+    "previous_event_id": "1129afa74846"
+   },
+   {
+    "title": "How a bank collapse left millions in limbo and toppled Paraguay's president",
+    "summary": "Paraguay's president was toppled after a bank collapse left millions unable to access savings, exposing political-financial corruption networks.",
+    "lang": "en",
+    "source": "NPR World",
+    "url": "https://www.npr.org/2026/11/09/nx-s1-6034066/paraguay-president-pena-ueno",
+    "published": "2026-11-09T06:20:44+00:00",
+    "event_id": "5944c8a29886",
+    "sources": [
+     {
+      "title": "How a bank collapse left millions in limbo and toppled Paraguay's president",
+      "summary": "Paraguay's president was toppled after a bank collapse left millions unable to access savings, exposing political-financial corruption networks.",
+      "lang": "en",
+      "source": "NPR World",
+      "url": "https://www.npr.org/2026/11/09/nx-s1-6034066/paraguay-president-pena-ueno",
+      "published": "2026-11-09T06:20:44+00:00"
+     }
+    ],
+    "status": "unchanged",
+    "change_summary": "",
+    "previous_date": "2026-11-08",
+    "previous_event_id": "5944c8a29886"
+   }
+  ],
+  "tecnologia|asia": [
+   {
+    "title": "En un puerto de Hong Kong esperan 600.000 chips avanzados de Nvidia tras el portazo chino a las exportaciones de EEUU",
+    "summary": "Hong Kong retiene 600.000 chips avanzados de Nvidia tras las restricciones chinas a exportaciones estadounidenses, afectando a la compañía líder en IA.",
+    "lang": "es",
+    "source": "Xataka",
+    "url": "https://www.xataka.com/robotica-e-ia/puerto-hong-kong-esperan-600-000-chips-avanzados-nvidia-portazo-chino-a-exportaciones-eeuu",
+    "published": "2026-11-09T14:01:08+00:00",
+    "event_id": "73be1ddc7ff2",
+    "sources": [
+     {
+      "title": "En un puerto de Hong Kong esperan 600.000 chips avanzados de Nvidia tras el portazo chino a las exportaciones de EEUU",
+      "summary": "Hong Kong retiene 600.000 chips avanzados de Nvidia tras las restricciones chinas a exportaciones estadounidenses, afectando a la compañía líder en IA.",
+      "lang": "es",
+      "source": "Xataka",
+      "url": "https://www.xataka.com/robotica-e-ia/puerto-hong-kong-esperan-600-000-chips-avanzados-nvidia-portazo-chino-a-exportaciones-eeuu",
+      "published": "2026-11-09T14:01:08+00:00"
+     },
+     {
+      "title": "英伟达先进芯片流向中国“空壳”公司",
+      "summary": "美国商务部批准数十家中国公司购买英伟达芯片，但调查发现两家企业登记办公室空置且与黑名单公司有关联。",
+      "lang": "zh",
+      "source": "纽约时报中文网",
+      "url": "https://cn.nytimes.com/business/20261109/nvidia-chips-chinese-firms/?utm_source=RSS",
+      "published": "2026-11-08T17:43:30+00:00"
+     }
+    ],
+    "status": "updated",
+    "change_summary": "En un puerto de Hong Kong esperan 600.000 chips avanzados de Nvidia tras el portazo chino a las exportaciones de EEUU",
+    "previous_date": "2026-11-08",
+    "previous_event_id": "73be1ddc7ff2"
+   },
+   {
+    "title": "搶攻企業AI規模化的需求，Google新推兩款TPU新系統，TPU首度支援機密運算",
+    "summary": "谷歌推出两款第八代TPU新系统应对企业AI规模化需求，其中TPU 8tx首度支持机密运算功能。",
+    "lang": "zh",
+    "source": "iThome 台灣",
+    "url": "https://www.ithome.com.tw/news/180336",
+    "published": "2026-11-09T09:11:21+00:00",
+    "event_id": "838b44b9dc6b",
+    "sources": [
+     {
+      "title": "搶攻企業AI規模化的需求，Google新推兩款TPU新系統，TPU首度支援機密運算",
+      "summary": "谷歌推出两款第八代TPU新系统应对企业AI规模化需求，其中TPU 8tx首度支持机密运算功能。",
+      "lang": "zh",
+      "source": "iThome 台灣",
+      "url": "https://www.ithome.com.tw/news/180336",
+      "published": "2026-11-09T09:11:21+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   }
+  ]
+ }
+}
