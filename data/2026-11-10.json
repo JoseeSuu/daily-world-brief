@@ -1,0 +1,782 @@
+{
+ "date": "2026-11-10",
+ "generated_at": "2026-11-10T13:43:39.757809+00:00",
+ "mode": "full",
+ "cost_usd": 0.0483,
+ "selection": {
+  "model": "claude-haiku-5-5",
+  "effort": "high",
+  "passes": 3,
+  "passes_ok": 3,
+  "cost_usd": 0.0192
+ },
+ "events": {
+  "mode": "full",
+  "compared_with": "2026-11-09",
+  "articles": 34,
+  "uncompared_articles": 0,
+  "events": 31,
+  "cost_usd": 0.0163
+ },
+ "market": null,
+ "failed_sources": [
+  "FT中文网"
+ ],
+ "cells": {
+  "economia|asia": [
+   {
+    "title": "China’s trade surplus exceeds $1tn for first 10 months of year",
+    "summary": "China's trade surplus exceeds $1 trillion in the first ten months of 2024, on course for an annual record. The surplus is likely to intensify tensions with major trade partners.",
+    "lang": "en",
+    "source": "FT Global Economy",
+    "url": "https://www.ft.com/content/a267d321-a489-4426-940e-1e4be712dc09?syn-25a6b1a6=1",
+    "published": "2026-11-10T05:03:06+00:00",
+    "event_id": "2fa8d4e5d54a",
+    "sources": [
+     {
+      "title": "China’s trade surplus exceeds $1tn for first 10 months of year",
+      "summary": "China's trade surplus exceeds $1 trillion in the first ten months of 2024, on course for an annual record. The surplus is likely to intensify tensions with major trade partners.",
+      "lang": "en",
+      "source": "FT Global Economy",
+      "url": "https://www.ft.com/content/a267d321-a489-4426-940e-1e4be712dc09?syn-25a6b1a6=1",
+      "published": "2026-11-10T05:03:06+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "Bank of Japan rate debate switches to pace and timing of future hikes",
+    "summary": "Bank of Japan's October meeting shows greater caution on future rate hikes than its decision to hold rates suggests. The central bank debates the pace and timing of further monetary tightening.",
+    "lang": "en",
+    "source": "FT Global Economy",
+    "url": "https://www.ft.com/content/b98d07ff-5d89-4782-84c0-6e1e3cb56806",
+    "published": "2026-11-10T10:13:22+00:00",
+    "event_id": "ada3c98a6e19",
+    "sources": [
+     {
+      "title": "Bank of Japan rate debate switches to pace and timing of future hikes",
+      "summary": "Bank of Japan's October meeting shows greater caution on future rate hikes than its decision to hold rates suggests. The central bank debates the pace and timing of further monetary tightening.",
+      "lang": "en",
+      "source": "FT Global Economy",
+      "url": "https://www.ft.com/content/b98d07ff-5d89-4782-84c0-6e1e3cb56806",
+      "published": "2026-11-10T10:13:22+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "SoftBank slumps to $7bn loss on US data centre writedown",
+    "summary": "SoftBank reported a $7 billion loss in its latest quarter, primarily due to writedowns on US data centre investments. The AI-focused Japanese group blamed evolving requirements in US projects for the first quarterly loss in nearly two years.",
+    "lang": "en",
+    "source": "Financial Times",
+    "url": "https://www.ft.com/content/5ceed157-0016-4822-a272-8b607911da5e?syn-25a6b1a6=1",
+    "published": "2026-11-10T10:55:57+00:00",
+    "event_id": "3ede24c1c663",
+    "sources": [
+     {
+      "title": "SoftBank slumps to $7bn loss on US data centre writedown",
+      "summary": "SoftBank reported a $7 billion loss in its latest quarter, primarily due to writedowns on US data centre investments. The AI-focused Japanese group blamed evolving requirements in US projects for the first quarterly loss in nearly two years.",
+      "lang": "en",
+      "source": "Financial Times",
+      "url": "https://www.ft.com/content/5ceed157-0016-4822-a272-8b607911da5e?syn-25a6b1a6=1",
+      "published": "2026-11-10T10:55:57+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "Saudi Liquidity Squeeze Adds to Economic Stress for Crown Prince",
+    "summary": "Saudi Arabia faces renewed liquidity pressure as the Iran war prompts a pullback in deposits from UAE-based government and bank entities. The squeeze adds to economic stress for the Crown Prince's economic agenda.",
+    "lang": "en",
+    "source": "Bloomberg Markets",
+    "url": "https://www.bloomberg.com/news/articles/2026-11-10/saudi-liquidity-squeeze-adds-to-economic-stress-for-crown-prince",
+    "published": "2026-11-10T13:00:04+00:00",
+    "event_id": "469f7374a6f7",
+    "sources": [
+     {
+      "title": "Saudi Liquidity Squeeze Adds to Economic Stress for Crown Prince",
+      "summary": "Saudi Arabia faces renewed liquidity pressure as the Iran war prompts a pullback in deposits from UAE-based government and bank entities. The squeeze adds to economic stress for the Crown Prince's economic agenda.",
+      "lang": "en",
+      "source": "Bloomberg Markets",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-10/saudi-liquidity-squeeze-adds-to-economic-stress-for-crown-prince",
+      "published": "2026-11-10T13:00:04+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "VW pivots again as ‘In China, For China’ runs out of road",
+    "summary": "Volkswagen is pivoting its strategy in China's car market as the German automaker struggles with sharp downturn. The company shifts away from its 'In China, For China' approach.",
+    "lang": "en",
+    "source": "Financial Times",
+    "url": "https://www.ft.com/content/1186c272-afc7-4561-9bf8-aa3bc0464a91?syn-25a6b1a6=1",
+    "published": "2026-11-10T05:00:21+00:00",
+    "event_id": "756ea184bb4a",
+    "sources": [
+     {
+      "title": "VW pivots again as ‘In China, For China’ runs out of road",
+      "summary": "Volkswagen is pivoting its strategy in China's car market as the German automaker struggles with sharp downturn. The company shifts away from its 'In China, For China' approach.",
+      "lang": "en",
+      "source": "Financial Times",
+      "url": "https://www.ft.com/content/1186c272-afc7-4561-9bf8-aa3bc0464a91?syn-25a6b1a6=1",
+      "published": "2026-11-10T05:00:21+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "“贸易休战”延长 中国继续暂停对美部分贸易措施两个月",
+    "summary": "中国宣布继续暂停实施部分贸易措施，延长与美国的",
+    "lang": "zh",
+    "source": "德國之聲中文",
+    "url": "https://www.dw.com/zh/贸易休战-延长-中国继续暂停对美部分贸易措施两个月/a-79902237?maca=chi-rss-chi-all-1127-rdf",
+    "published": "2026-11-09T15:13:00+00:00",
+    "event_id": "a2a6e3c8f9fe",
+    "sources": [
+     {
+      "title": "“贸易休战”延长 中国继续暂停对美部分贸易措施两个月",
+      "summary": "中国宣布继续暂停实施部分贸易措施，延长与美国的",
+      "lang": "zh",
+      "source": "德國之聲中文",
+      "url": "https://www.dw.com/zh/贸易休战-延长-中国继续暂停对美部分贸易措施两个月/a-79902237?maca=chi-rss-chi-all-1127-rdf",
+      "published": "2026-11-09T15:13:00+00:00"
+     }
+    ],
+    "status": "unclear",
+    "change_summary": "",
+    "previous_date": "2026-11-09",
+    "previous_event_id": "a2a6e3c8f9fe"
+   }
+  ],
+  "tecnologia|asia": [
+   {
+    "title": "Thailand tightens environmental rules for large data centers",
+    "summary": "Thailand has tightened environmental regulations for large data centres. The new rules reflect efforts to manage the sector's environmental impact.",
+    "lang": "en",
+    "source": "Nikkei Asia",
+    "url": "https://asia.nikkei.com/business/technology/thailand-tightens-environmental-rules-for-large-data-centers",
+    "published": null,
+    "event_id": "63dcebde8b9c",
+    "sources": [
+     {
+      "title": "Thailand tightens environmental rules for large data centers",
+      "summary": "Thailand has tightened environmental regulations for large data centres. The new rules reflect efforts to manage the sector's environmental impact.",
+      "lang": "en",
+      "source": "Nikkei Asia",
+      "url": "https://asia.nikkei.com/business/technology/thailand-tightens-environmental-rules-for-large-data-centers",
+      "published": null
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "China ha inventado un Frankenstein para sus cementerios de palas eólicas: una descarga de medio segundo para resucitarlas como grafeno",
+    "summary": "China convierte turbinas eólicas descartadas en grafeno mediante descargas de medio segundo. El reciclaje aborda el problema de las grandes estructuras al fin de su vida útil.",
+    "lang": "es",
+    "source": "Xataka",
+    "url": "https://www.xataka.com/energia/china-ha-inventado-frankenstein-para-sus-cementerios-palas-eolicas-descarga-medio-segundo-para-resucitarlas-como-grafeno",
+    "published": "2026-11-10T13:31:51+00:00",
+    "event_id": "1c447be4e145",
+    "sources": [
+     {
+      "title": "China ha inventado un Frankenstein para sus cementerios de palas eólicas: una descarga de medio segundo para resucitarlas como grafeno",
+      "summary": "China convierte turbinas eólicas descartadas en grafeno mediante descargas de medio segundo. El reciclaje aborda el problema de las grandes estructuras al fin de su vida útil.",
+      "lang": "es",
+      "source": "Xataka",
+      "url": "https://www.xataka.com/energia/china-ha-inventado-frankenstein-para-sus-cementerios-palas-eolicas-descarga-medio-segundo-para-resucitarlas-como-grafeno",
+      "published": "2026-11-10T13:31:51+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   }
+  ],
+  "economia|europa": [
+   {
+    "title": "Poland’s Maslowska Sees Growing Case for January Rate Hike",
+    "summary": "Polish central bank monetary policy council member Gabriela Maslowska says inflation forecasts support an interest rate increase in January. The decision aims to address rising price pressures.",
+    "lang": "en",
+    "source": "Bloomberg Economics",
+    "url": "https://www.bloomberg.com/news/articles/2026-11-10/poland-s-maslowska-sees-growing-case-for-rate-hike-in-january",
+    "published": "2026-11-10T12:46:22+00:00",
+    "event_id": "8a79622fd1bf",
+    "sources": [
+     {
+      "title": "Poland’s Maslowska Sees Growing Case for January Rate Hike",
+      "summary": "Polish central bank monetary policy council member Gabriela Maslowska says inflation forecasts support an interest rate increase in January. The decision aims to address rising price pressures.",
+      "lang": "en",
+      "source": "Bloomberg Economics",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-10/poland-s-maslowska-sees-growing-case-for-rate-hike-in-january",
+      "published": "2026-11-10T12:46:22+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "Czech Central Bank Keeps Cautious Policy Stance on Price Outlook",
+    "summary": "The Czech central bank maintained a cautious monetary policy stance due to higher inflation outlook. Officials warn that careful approach is warranted given price pressures.",
+    "lang": "en",
+    "source": "Bloomberg Economics",
+    "url": "https://www.bloomberg.com/news/articles/2026-11-10/czech-central-bank-keeps-cautious-policy-stance-on-price-outlook",
+    "published": "2026-11-10T12:47:27+00:00",
+    "event_id": "c6a021a6e536",
+    "sources": [
+     {
+      "title": "Czech Central Bank Keeps Cautious Policy Stance on Price Outlook",
+      "summary": "The Czech central bank maintained a cautious monetary policy stance due to higher inflation outlook. Officials warn that careful approach is warranted given price pressures.",
+      "lang": "en",
+      "source": "Bloomberg Economics",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-10/czech-central-bank-keeps-cautious-policy-stance-on-price-outlook",
+      "published": "2026-11-10T12:47:27+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "Los salarios de convenio crecen un 3,1%, casi dos puntos menos que la inflación",
+    "summary": "Los salarios de convenio crecen un 3,1%, casi dos puntos menos que la inflación. La pérdida de poder de compra en lo que va de año supera toda la recuperación entre 2023 y 2025.",
+    "lang": "es",
+    "source": "El País Economía",
+    "url": "https://elpais.com/economia/2026-11-10/los-salarios-de-convenio-crecen-un-31-casi-dos-puntos-menos-que-la-inflacion.html",
+    "published": "2026-11-10T13:04:30+00:00",
+    "event_id": "ce3c38218e3a",
+    "sources": [
+     {
+      "title": "Los salarios de convenio crecen un 3,1%, casi dos puntos menos que la inflación",
+      "summary": "Los salarios de convenio crecen un 3,1%, casi dos puntos menos que la inflación. La pérdida de poder de compra en lo que va de año supera toda la recuperación entre 2023 y 2025.",
+      "lang": "es",
+      "source": "El País Economía",
+      "url": "https://elpais.com/economia/2026-11-10/los-salarios-de-convenio-crecen-un-31-casi-dos-puntos-menos-que-la-inflacion.html",
+      "published": "2026-11-10T13:04:30+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "Vodafone eleva previsiones pese a registrar pérdidas de 3.597 millones por ajustes contables",
+    "summary": "Vodafone incrementa un 11,4% sus ingresos en el primer semestre fiscal pese a registrar pérdidas de 3.597 millones por ajustes contables. El crecimiento operativo y consolidación de activos impulsan las previsiones al alza.",
+    "lang": "es",
+    "source": "El País Economía",
+    "url": "https://cincodias.elpais.com/companias/2026-11-10/vodafone-eleva-previsiones-pese-a-registrar-perdidas-de-3597-millones-por-ajustes-contables.html",
+    "published": "2026-11-10T08:38:27+00:00",
+    "event_id": "21f940654fc0",
+    "sources": [
+     {
+      "title": "Vodafone eleva previsiones pese a registrar pérdidas de 3.597 millones por ajustes contables",
+      "summary": "Vodafone incrementa un 11,4% sus ingresos en el primer semestre fiscal pese a registrar pérdidas de 3.597 millones por ajustes contables. El crecimiento operativo y consolidación de activos impulsan las previsiones al alza.",
+      "lang": "es",
+      "source": "El País Economía",
+      "url": "https://cincodias.elpais.com/companias/2026-11-10/vodafone-eleva-previsiones-pese-a-registrar-perdidas-de-3597-millones-por-ajustes-contables.html",
+      "published": "2026-11-10T08:38:27+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   }
+  ],
+  "economia|america": [
+   {
+    "title": "Fed’s Waller Backs December Rate Hike, Open to Larger Move",
+    "summary": "Federal Reserve Governor Christopher Waller supports a December rate hike and would back a larger increase if inflation accelerates further. The comments signal potential continued tightening.",
+    "lang": "en",
+    "source": "Bloomberg Economics",
+    "url": "https://www.bloomberg.com/news/articles/2026-11-10/fed-s-waller-backs-december-rate-hike-says-open-to-larger-move",
+    "published": "2026-11-10T09:00:00+00:00",
+    "event_id": "9e74e9c1e14a",
+    "sources": [
+     {
+      "title": "Fed’s Waller Backs December Rate Hike, Open to Larger Move",
+      "summary": "Federal Reserve Governor Christopher Waller supports a December rate hike and would back a larger increase if inflation accelerates further. The comments signal potential continued tightening.",
+      "lang": "en",
+      "source": "Bloomberg Economics",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-10/fed-s-waller-backs-december-rate-hike-says-open-to-larger-move",
+      "published": "2026-11-10T09:00:00+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "Brazil Central Bank Sees Economy Slowing as Inflation Rises",
+    "summary": "Brazil's central bank reports evidence that high interest rates are slowing economic activity, but accelerating inflation and deteriorating expectations require continued caution. The central bank faces conflicting policy signals.",
+    "lang": "en",
+    "source": "Bloomberg Economics",
+    "url": "https://www.bloomberg.com/news/articles/2026-11-10/brazil-central-bank-sees-economy-slowing-as-inflation-rises",
+    "published": "2026-11-10T12:30:35+00:00",
+    "event_id": "7521a0b9056a",
+    "sources": [
+     {
+      "title": "Brazil Central Bank Sees Economy Slowing as Inflation Rises",
+      "summary": "Brazil's central bank reports evidence that high interest rates are slowing economic activity, but accelerating inflation and deteriorating expectations require continued caution. The central bank faces conflicting policy signals.",
+      "lang": "en",
+      "source": "Bloomberg Economics",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-10/brazil-central-bank-sees-economy-slowing-as-inflation-rises",
+      "published": "2026-11-10T12:30:35+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "US Core CPI Rises by More Than Forecast, Supporting Fed Hike",
+    "summary": "US core CPI rose more than forecast in October, keeping the Federal Reserve on track to raise interest rates next month. The inflation gauge posts another firm advance.",
+    "lang": "en",
+    "source": "Bloomberg Economics",
+    "url": "https://www.bloomberg.com/news/articles/2026-11-10/us-core-cpi-rises-more-than-forecast-0-3-supporting-rate-hike",
+    "published": "2026-11-10T13:31:04+00:00",
+    "event_id": "d454c1c63102",
+    "sources": [
+     {
+      "title": "US Core CPI Rises by More Than Forecast, Supporting Fed Hike",
+      "summary": "US core CPI rose more than forecast in October, keeping the Federal Reserve on track to raise interest rates next month. The inflation gauge posts another firm advance.",
+      "lang": "en",
+      "source": "Bloomberg Economics",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-10/us-core-cpi-rises-more-than-forecast-0-3-supporting-rate-hike",
+      "published": "2026-11-10T13:31:04+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   }
+  ],
+  "tecnologia|america": [
+   {
+    "title": "Anthropic targets valuation of up to $1.4tn in IPO",
+    "summary": "Anthropic targets a valuation of up to $1.4 trillion in its planned IPO, with share prices potentially reaching $78. The Claude maker and some investors plan to sell shares.",
+    "lang": "en",
+    "source": "Financial Times",
+    "url": "https://www.ft.com/content/5654e210-4be3-4550-b975-129c9a2e7fe5?syn-25a6b1a6=1",
+    "published": "2026-11-10T13:07:48+00:00",
+    "event_id": "dbacfd04b532",
+    "sources": [
+     {
+      "title": "Anthropic targets valuation of up to $1.4tn in IPO",
+      "summary": "Anthropic targets a valuation of up to $1.4 trillion in its planned IPO, with share prices potentially reaching $78. The Claude maker and some investors plan to sell shares.",
+      "lang": "en",
+      "source": "Financial Times",
+      "url": "https://www.ft.com/content/5654e210-4be3-4550-b975-129c9a2e7fe5?syn-25a6b1a6=1",
+      "published": "2026-11-10T13:07:48+00:00"
+     },
+     {
+      "title": "Anthropic reportedly plans to move forward with IPO plans",
+      "summary": "Anthropic is expected to set its IPO valuation range this week as the AI company plans to move forward with a public offering. The Wall Street Journal reported the development.",
+      "lang": "en",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/11/09/anthropic-reportedly-plans-to-move-forward-with-ipo-plans/",
+      "published": "2026-11-10T01:27:12+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "Trump says FBI investigating Nvidia boss's affair with alleged Chinese spy",
+    "summary": "President Trump said the FBI is investigating Nvidia CEO Jensen Huang over an alleged affair with a Chinese spy. Trump said he spoke with Huang on Monday about the matter.",
+    "lang": "en",
+    "source": "BBC World",
+    "url": "https://www.bbc.co.uk/news/articles/cqg7x7dpvym8o?at_medium=RSS&at_campaign=rss",
+    "published": "2026-11-10T08:23:21+00:00",
+    "event_id": "69c75581d56f",
+    "sources": [
+     {
+      "title": "Trump says FBI investigating Nvidia boss's affair with alleged Chinese spy",
+      "summary": "President Trump said the FBI is investigating Nvidia CEO Jensen Huang over an alleged affair with a Chinese spy. Trump said he spoke with Huang on Monday about the matter.",
+      "lang": "en",
+      "source": "BBC World",
+      "url": "https://www.bbc.co.uk/news/articles/cqg7x7dpvym8o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-10T08:23:21+00:00"
+     },
+     {
+      "title": "FirstFT: Nvidia shares fall as it probes alleged Chinese spy scandal",
+      "summary": "Nvidia shares fell as the company investigates alleged Chinese spy scandal involving its CEO. Trump also conceded he was 'too tough' on immigration policy.",
+      "lang": "en",
+      "source": "FT Global Economy",
+      "url": "https://www.ft.com/content/494e9731-d195-40e0-9ad4-cf7811037c05?syn-25a6b1a6=1",
+      "published": "2026-11-09T10:51:20+00:00"
+     },
+     {
+      "title": "Everything we know so far about the Nvidia spy scandal targeting CEO Jensen Huang",
+      "summary": "Nvidia CEO Jensen Huang acknowledged an affair with Megaspeed executive Alice Huang, sparking company investigation and intense discussions. The scandal has drawn significant media and regulatory attention.",
+      "lang": "en",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1030422/nvidia-jensen-huang-ai-china-alice-huang",
+      "published": "2026-11-09T23:07:59+00:00"
+     }
+    ],
+    "status": "updated",
+    "change_summary": "Trump says FBI investigating Nvidia boss's affair with alleged Chinese spy",
+    "previous_date": "2026-11-09",
+    "previous_event_id": "69c75581d56f"
+   },
+   {
+    "title": "Introducing AlphaProof Code: a breakthrough in verifying complex software at depth",
+    "summary": "Google DeepMind's AlphaProof Code agents wrote three million lines of proofs in Lean to verify Signal's core encryption. The breakthrough advances the verification of complex software systems.",
+    "lang": "en",
+    "source": "Google DeepMind Blog",
+    "url": "https://deepmind.google/blog/introducing-alphaproof-code/",
+    "published": "2026-11-10T12:02:28+00:00",
+    "event_id": "428ac4b42c0b",
+    "sources": [
+     {
+      "title": "Introducing AlphaProof Code: a breakthrough in verifying complex software at depth",
+      "summary": "Google DeepMind's AlphaProof Code agents wrote three million lines of proofs in Lean to verify Signal's core encryption. The breakthrough advances the verification of complex software systems.",
+      "lang": "en",
+      "source": "Google DeepMind Blog",
+      "url": "https://deepmind.google/blog/introducing-alphaproof-code/",
+      "published": "2026-11-10T12:02:28+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "Claude Code is accidentally exposing secrets all over GitHub",
+    "summary": "Claude Code is accidentally exposing secrets including passwords and API keys on GitHub due to a 'do not ask again' prompt. The flaw poses a security risk to developers.",
+    "lang": "en",
+    "source": "Ars Technica",
+    "url": "https://arstechnica.com/ai/2026/11/claude-code-settings-files-expose-thousands-of-secrets-on-github/",
+    "published": "2026-11-09T17:24:26+00:00",
+    "event_id": "4065836ff3f5",
+    "sources": [
+     {
+      "title": "Claude Code is accidentally exposing secrets all over GitHub",
+      "summary": "Claude Code is accidentally exposing secrets including passwords and API keys on GitHub due to a 'do not ask again' prompt. The flaw poses a security risk to developers.",
+      "lang": "en",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/ai/2026/11/claude-code-settings-files-expose-thousands-of-secrets-on-github/",
+      "published": "2026-11-09T17:24:26+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "Vulnerability that lets hackers SSH into Linux devices is under active exploitation",
+    "summary": "A Linux SSH vulnerability known as 'sshole' is under active exploitation by hackers. The security flaw poses a serious threat to Internet-connected devices.",
+    "lang": "en",
+    "source": "Ars Technica",
+    "url": "https://arstechnica.com/security/2026/11/vulnerability-that-lets-hackers-ssh-into-linux-devices-is-under-active-exploitation/",
+    "published": "2026-11-09T19:41:34+00:00",
+    "event_id": "8abde1ce00be",
+    "sources": [
+     {
+      "title": "Vulnerability that lets hackers SSH into Linux devices is under active exploitation",
+      "summary": "A Linux SSH vulnerability known as 'sshole' is under active exploitation by hackers. The security flaw poses a serious threat to Internet-connected devices.",
+      "lang": "en",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/security/2026/11/vulnerability-that-lets-hackers-ssh-into-linux-devices-is-under-active-exploitation/",
+      "published": "2026-11-09T19:41:34+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   }
+  ],
+  "politica|asia": [
+   {
+    "title": "台湾国防部称中国进行“区域拒止”演习",
+    "summary": "台湾防长顾立雄表示，中国在西太平洋进行",
+    "lang": "zh",
+    "source": "德國之聲中文",
+    "url": "https://www.dw.com/zh/台湾国防部称中国进行-区域拒止-演习/a-79907965?maca=chi-rss-chi-all-1127-rdf",
+    "published": "2026-11-10T11:27:00+00:00",
+    "event_id": "82ca3334c335",
+    "sources": [
+     {
+      "title": "台湾国防部称中国进行“区域拒止”演习",
+      "summary": "台湾防长顾立雄表示，中国在西太平洋进行",
+      "lang": "zh",
+      "source": "德國之聲中文",
+      "url": "https://www.dw.com/zh/台湾国防部称中国进行-区域拒止-演习/a-79907965?maca=chi-rss-chi-all-1127-rdf",
+      "published": "2026-11-10T11:27:00+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "Trump says Israel, Gulf allies must repay Iran war cost: What does it mean?",
+    "summary": "Trump says Israel and Gulf allies must repay the cost of the Iran war, though analysts view the comments as political posturing rather than serious policy. The statements raise questions about US commitment to regional allies.",
+    "lang": "en",
+    "source": "Al Jazeera English",
+    "url": "https://www.aljazeera.com/news/2026/11/10/trump-says-israel-gulf-allies-must-repay-iran-war-cost-what-does-it-mean?traffic_source=rss",
+    "published": "2026-11-10T11:52:34+00:00",
+    "event_id": "401b87e56588",
+    "sources": [
+     {
+      "title": "Trump says Israel, Gulf allies must repay Iran war cost: What does it mean?",
+      "summary": "Trump says Israel and Gulf allies must repay the cost of the Iran war, though analysts view the comments as political posturing rather than serious policy. The statements raise questions about US commitment to regional allies.",
+      "lang": "en",
+      "source": "Al Jazeera English",
+      "url": "https://www.aljazeera.com/news/2026/11/10/trump-says-israel-gulf-allies-must-repay-iran-war-cost-what-does-it-mean?traffic_source=rss",
+      "published": "2026-11-10T11:52:34+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "Israel's new parliament to be sworn in as leaders compete to form government",
+    "summary": "Benjamin Netanyahu's political rival Gadi Eisenkot has the first opportunity to form a new government and oust the prime minister. Israel's parliament is being sworn in amid coalition negotiations.",
+    "lang": "en",
+    "source": "BBC World",
+    "url": "https://www.bbc.co.uk/news/articles/crd939lpzjp9o?at_medium=RSS&at_campaign=rss",
+    "published": "2026-11-10T12:25:48+00:00",
+    "event_id": "71ab83aa7760",
+    "sources": [
+     {
+      "title": "Israel's new parliament to be sworn in as leaders compete to form government",
+      "summary": "Benjamin Netanyahu's political rival Gadi Eisenkot has the first opportunity to form a new government and oust the prime minister. Israel's parliament is being sworn in amid coalition negotiations.",
+      "lang": "en",
+      "source": "BBC World",
+      "url": "https://www.bbc.co.uk/news/articles/crd939lpzjp9o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-10T12:25:48+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "Bangladesh prosecutor warns Hasina faces execution if she returns",
+    "summary": "Bangladesh's International Crimes Tribunal warned that ousted PM Sheikh Hasina faces execution if she returns home. The prosecutor issued the warning as judicial proceedings continue.",
+    "lang": "en",
+    "source": "Al Jazeera English",
+    "url": "https://www.aljazeera.com/video/newsfeed/2026/11/10/bangladesh-prosecutor-warns-hasina-faces-execution-if-she-returns?traffic_source=rss",
+    "published": "2026-11-10T13:10:41+00:00",
+    "event_id": "877e460c394a",
+    "sources": [
+     {
+      "title": "Bangladesh prosecutor warns Hasina faces execution if she returns",
+      "summary": "Bangladesh's International Crimes Tribunal warned that ousted PM Sheikh Hasina faces execution if she returns home. The prosecutor issued the warning as judicial proceedings continue.",
+      "lang": "en",
+      "source": "Al Jazeera English",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/10/bangladesh-prosecutor-warns-hasina-faces-execution-if-she-returns?traffic_source=rss",
+      "published": "2026-11-10T13:10:41+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "Ukraine peace talks resume with 'some flexibility' by warring sides, US officials say",
+    "summary": "Kyiv, Washington, and Moscow have sent delegations to the United Arab Emirates for the first trilateral peace talks since February. US officials report 'some flexibility' from the warring sides.",
+    "lang": "en",
+    "source": "BBC World",
+    "url": "https://www.bbc.co.uk/news/articles/cqpvgvrpjvv8o?at_medium=RSS&at_campaign=rss",
+    "published": "2026-11-10T09:07:00+00:00",
+    "event_id": "e6afdaa46c60",
+    "sources": [
+     {
+      "title": "Ukraine peace talks resume with 'some flexibility' by warring sides, US officials say",
+      "summary": "Kyiv, Washington, and Moscow have sent delegations to the United Arab Emirates for the first trilateral peace talks since February. US officials report 'some flexibility' from the warring sides.",
+      "lang": "en",
+      "source": "BBC World",
+      "url": "https://www.bbc.co.uk/news/articles/cqpvgvrpjvv8o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-10T09:07:00+00:00"
+     }
+    ],
+    "status": "updated",
+    "change_summary": "Ukraine peace talks resume with 'some flexibility' by warring sides, US officials say",
+    "previous_date": "2026-11-09",
+    "previous_event_id": "e6afdaa46c60"
+   }
+  ],
+  "politica|europa": [
+   {
+    "title": "Ritz among Paris landmarks searched in Al-Fayed trafficking probe say prosecutors",
+    "summary": "French police have searched Paris landmarks including the Ritz hotel and Villa Windsor linked to Mohamed Al-Fayed as part of a trafficking investigation. Prosecutors say the searches target a suspected international network.",
+    "lang": "en",
+    "source": "Le Monde International",
+    "url": "https://www.lemonde.fr/en/international/article/2026/11/10/ritz-among-paris-landmarks-searched-in-al-fayed-trafficking-probe-say-prosecutors_6776837_4.html",
+    "published": "2026-11-10T12:22:43+00:00",
+    "event_id": "5d86684c5506",
+    "sources": [
+     {
+      "title": "Ritz among Paris landmarks searched in Al-Fayed trafficking probe say prosecutors",
+      "summary": "French police have searched Paris landmarks including the Ritz hotel and Villa Windsor linked to Mohamed Al-Fayed as part of a trafficking investigation. Prosecutors say the searches target a suspected international network.",
+      "lang": "en",
+      "source": "Le Monde International",
+      "url": "https://www.lemonde.fr/en/international/article/2026/11/10/ritz-among-paris-landmarks-searched-in-al-fayed-trafficking-probe-say-prosecutors_6776837_4.html",
+      "published": "2026-11-10T12:22:43+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "Estados Unidos retira sus aviones de otra base del Reino Unido por presuntas amenazas de Irán",
+    "summary": "Estados Unidos retira aviones de una base del Reino Unido por presuntas amenazas de Irán. Varias aeronaves cisterna han sido desplazadas a Alemania y otras localizaciones.",
+    "lang": "es",
+    "source": "El País Internacional",
+    "url": "https://elpais.com/internacional/2026-11-10/estados-unidos-retira-sus-aviones-de-otra-base-del-reino-unido-por-presuntas-amenazas-de-iran.html",
+    "published": "2026-11-10T11:33:48+00:00",
+    "event_id": "c53c00144f71",
+    "sources": [
+     {
+      "title": "Estados Unidos retira sus aviones de otra base del Reino Unido por presuntas amenazas de Irán",
+      "summary": "Estados Unidos retira aviones de una base del Reino Unido por presuntas amenazas de Irán. Varias aeronaves cisterna han sido desplazadas a Alemania y otras localizaciones.",
+      "lang": "es",
+      "source": "El País Internacional",
+      "url": "https://elpais.com/internacional/2026-11-10/estados-unidos-retira-sus-aviones-de-otra-base-del-reino-unido-por-presuntas-amenazas-de-iran.html",
+      "published": "2026-11-10T11:33:48+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "Russia: Independent Novaya Gazeta shuts its Moscow newsroom",
+    "summary": "Independent Russian newspaper Novaya Gazeta has shut its Moscow newsroom after authorities labeled it a 'foreign agent' and ordered it to vacate premises. The investigative outlet faces continued pressure.",
+    "lang": "en",
+    "source": "Deutsche Welle World",
+    "url": "https://www.dw.com/en/russia-independent-novaya-gazeta-shuts-its-moscow-newsroom/a-79899827?maca=en-rss-en-world-4025-rdf",
+    "published": "2026-11-09T16:22:00+00:00",
+    "event_id": "c0a1ec056584",
+    "sources": [
+     {
+      "title": "Russia: Independent Novaya Gazeta shuts its Moscow newsroom",
+      "summary": "Independent Russian newspaper Novaya Gazeta has shut its Moscow newsroom after authorities labeled it a 'foreign agent' and ordered it to vacate premises. The investigative outlet faces continued pressure.",
+      "lang": "en",
+      "source": "Deutsche Welle World",
+      "url": "https://www.dw.com/en/russia-independent-novaya-gazeta-shuts-its-moscow-newsroom/a-79899827?maca=en-rss-en-world-4025-rdf",
+      "published": "2026-11-09T16:22:00+00:00"
+     }
+    ],
+    "status": "unchanged",
+    "change_summary": "",
+    "previous_date": "2026-11-09",
+    "previous_event_id": "c0a1ec056584"
+   }
+  ],
+  "politica|america": [
+   {
+    "title": "Pentagon Chief Hegseth calls US House impeachment effort a ‘farce’",
+    "summary": "Pentagon Chief Hegseth condemned the House impeachment effort against him as a 'farce' and 'sabotage'. He defended his actions and policy decisions against the resolution.",
+    "lang": "en",
+    "source": "Al Jazeera English",
+    "url": "https://www.aljazeera.com/news/2026/11/10/pentagon-chief-hegseth-calls-us-house-impeachment-effort-a-farce?traffic_source=rss",
+    "published": "2026-11-10T13:23:41+00:00",
+    "event_id": "c6071aca3cb7",
+    "sources": [
+     {
+      "title": "Pentagon Chief Hegseth calls US House impeachment effort a ‘farce’",
+      "summary": "Pentagon Chief Hegseth condemned the House impeachment effort against him as a 'farce' and 'sabotage'. He defended his actions and policy decisions against the resolution.",
+      "lang": "en",
+      "source": "Al Jazeera English",
+      "url": "https://www.aljazeera.com/news/2026/11/10/pentagon-chief-hegseth-calls-us-house-impeachment-effort-a-farce?traffic_source=rss",
+      "published": "2026-11-10T13:23:41+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "Congress is back after GOP's midterm defeat. And, Trump appoints new chief of staff",
+    "summary": "Republicans have weeks left controlling Congress after their midterm defeat, with Democrats preparing to take over. Trump appointed Stephen Miller as new chief of staff, signaling readiness for policy implementation.",
+    "lang": "en",
+    "source": "NPR World",
+    "url": "https://www.npr.org/2026/11/09/g-s1-152627/up-first-newsletter-stephen-miller-trump-congress-nvidia-cop31",
+    "published": "2026-11-09T12:45:14+00:00",
+    "event_id": "1129afa74846",
+    "sources": [
+     {
+      "title": "Congress is back after GOP's midterm defeat. And, Trump appoints new chief of staff",
+      "summary": "Republicans have weeks left controlling Congress after their midterm defeat, with Democrats preparing to take over. Trump appointed Stephen Miller as new chief of staff, signaling readiness for policy implementation.",
+      "lang": "en",
+      "source": "NPR World",
+      "url": "https://www.npr.org/2026/11/09/g-s1-152627/up-first-newsletter-stephen-miller-trump-congress-nvidia-cop31",
+      "published": "2026-11-09T12:45:14+00:00"
+     }
+    ],
+    "status": "unchanged",
+    "change_summary": "",
+    "previous_date": "2026-11-09",
+    "previous_event_id": "1129afa74846"
+   }
+  ],
+  "tecnologia|europa": [
+   {
+    "title": "Ukraine’s fiber-optic drones get squeezed by AI data center demand",
+    "summary": "Ukraine's fiber-optic drone production competes with Russian military and data centres for China's optical fibre supply. The shortage constrains Ukraine's military capabilities.",
+    "lang": "en",
+    "source": "Ars Technica",
+    "url": "https://arstechnica.com/gadgets/2026/11/ukraines-fiber-optic-drones-get-squeezed-by-ai-data-center-demand/",
+    "published": "2026-11-10T12:15:32+00:00",
+    "event_id": "ffd1be60b8ac",
+    "sources": [
+     {
+      "title": "Ukraine’s fiber-optic drones get squeezed by AI data center demand",
+      "summary": "Ukraine's fiber-optic drone production competes with Russian military and data centres for China's optical fibre supply. The shortage constrains Ukraine's military capabilities.",
+      "lang": "en",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/gadgets/2026/11/ukraines-fiber-optic-drones-get-squeezed-by-ai-data-center-demand/",
+      "published": "2026-11-10T12:15:32+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   }
+  ]
+ }
+}
