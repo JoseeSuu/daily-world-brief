@@ -1,0 +1,887 @@
+{
+ "date": "2026-11-11",
+ "generated_at": "2026-11-11T12:55:08.792759+00:00",
+ "mode": "full",
+ "cost_usd": 0.0505,
+ "selection": {
+  "model": "claude-haiku-5-5",
+  "effort": "high",
+  "passes": 3,
+  "passes_ok": 3,
+  "cost_usd": 0.0185
+ },
+ "events": {
+  "mode": "full",
+  "compared_with": "2026-11-10",
+  "articles": 38,
+  "uncompared_articles": 0,
+  "events": 36,
+  "cost_usd": 0.0177
+ },
+ "market": null,
+ "failed_sources": [],
+ "cells": {
+  "economia|america": [
+   {
+    "title": "Oil falls below $90 as Trump pulls back from threat to strike Iran",
+    "summary": "",
+    "lang": "en",
+    "source": "FT Global Economy",
+    "url": "https://www.ft.com/content/07bdb58c-4557-4def-b8cb-db9be304fd72?syn-25a6b1a6=1",
+    "published": "2026-11-10T20:19:24+00:00",
+    "event_id": "5c5253320723",
+    "sources": [
+     {
+      "title": "Oil falls below $90 as Trump pulls back from threat to strike Iran",
+      "summary": "",
+      "lang": "en",
+      "source": "FT Global Economy",
+      "url": "https://www.ft.com/content/07bdb58c-4557-4def-b8cb-db9be304fd72?syn-25a6b1a6=1",
+      "published": "2026-11-10T20:19:24+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "CoreWeave Quiets Doubts, US CPI Fuels Fed-Hike Bets",
+    "summary": "",
+    "lang": "en",
+    "source": "Bloomberg Markets",
+    "url": "https://www.bloomberg.com/news/videos/2026-11-11/the-opening-trade-11-11-2026-video",
+    "published": "2026-11-11T11:45:20+00:00",
+    "event_id": "bc299c10240b",
+    "sources": [
+     {
+      "title": "CoreWeave Quiets Doubts, US CPI Fuels Fed-Hike Bets",
+      "summary": "",
+      "lang": "en",
+      "source": "Bloomberg Markets",
+      "url": "https://www.bloomberg.com/news/videos/2026-11-11/the-opening-trade-11-11-2026-video",
+      "published": "2026-11-11T11:45:20+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "Chile Finance Minister Jorge Quiroz Says Recession Is Short-Term Blip",
+    "summary": "",
+    "lang": "en",
+    "source": "Bloomberg Economics",
+    "url": "https://www.bloomberg.com/news/articles/2026-11-11/chile-finance-minister-jorge-quiroz-says-recession-is-short-term-blip",
+    "published": "2026-11-11T11:00:10+00:00",
+    "event_id": "92283b907950",
+    "sources": [
+     {
+      "title": "Chile Finance Minister Jorge Quiroz Says Recession Is Short-Term Blip",
+      "summary": "",
+      "lang": "en",
+      "source": "Bloomberg Economics",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-11/chile-finance-minister-jorge-quiroz-says-recession-is-short-term-blip",
+      "published": "2026-11-11T11:00:10+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "US Mortgage Rates Fall for Fourth Week, Lifting Home Purchases",
+    "summary": "",
+    "lang": "en",
+    "source": "Bloomberg Markets",
+    "url": "https://www.bloomberg.com/news/articles/2026-11-11/us-mortgage-rates-fall-for-fourth-week-lifting-home-purchases",
+    "published": "2026-11-11T12:00:00+00:00",
+    "event_id": "27c40f73e300",
+    "sources": [
+     {
+      "title": "US Mortgage Rates Fall for Fourth Week, Lifting Home Purchases",
+      "summary": "",
+      "lang": "en",
+      "source": "Bloomberg Markets",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-11/us-mortgage-rates-fall-for-fourth-week-lifting-home-purchases",
+      "published": "2026-11-11T12:00:00+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   }
+  ],
+  "economia|asia": [
+   {
+    "title": "China Gauges Bond Interest Tax, With Yields Near Record Low",
+    "summary": "",
+    "lang": "en",
+    "source": "Bloomberg Economics",
+    "url": "https://www.bloomberg.com/news/articles/2026-11-11/china-gauges-tax-on-bond-interest-with-yields-near-record-low",
+    "published": "2026-11-11T04:45:10+00:00",
+    "event_id": "1587ddce1c7c",
+    "sources": [
+     {
+      "title": "China Gauges Bond Interest Tax, With Yields Near Record Low",
+      "summary": "",
+      "lang": "en",
+      "source": "Bloomberg Economics",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-11/china-gauges-tax-on-bond-interest-with-yields-near-record-low",
+      "published": "2026-11-11T04:45:10+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "Nissan says China sales slump 'intensified' through October",
+    "summary": "",
+    "lang": "en",
+    "source": "Nikkei Asia",
+    "url": "https://asia.nikkei.com/business/automobiles/nissan-says-china-sales-slump-intensified-through-october",
+    "published": null,
+    "event_id": "34a2fbbd6bda",
+    "sources": [
+     {
+      "title": "Nissan says China sales slump 'intensified' through October",
+      "summary": "",
+      "lang": "en",
+      "source": "Nikkei Asia",
+      "url": "https://asia.nikkei.com/business/automobiles/nissan-says-china-sales-slump-intensified-through-october",
+      "published": null
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "Qatar’s Loss of Polish LNG Deal Is a Serious Blow to Expansion Plans",
+    "summary": "",
+    "lang": "en",
+    "source": "Bloomberg Markets",
+    "url": "https://www.bloomberg.com/news/newsletters/2026-11-11/qatar-s-loss-of-polish-lng-deal-is-a-serious-blow-to-expansion-plans",
+    "published": "2026-11-11T12:46:40+00:00",
+    "event_id": "90b90fdcdff1",
+    "sources": [
+     {
+      "title": "Qatar’s Loss of Polish LNG Deal Is a Serious Blow to Expansion Plans",
+      "summary": "",
+      "lang": "en",
+      "source": "Bloomberg Markets",
+      "url": "https://www.bloomberg.com/news/newsletters/2026-11-11/qatar-s-loss-of-polish-lng-deal-is-a-serious-blow-to-expansion-plans",
+      "published": "2026-11-11T12:46:40+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "China offers to buy more Papua New Guinea gas after Taiwan cuts purchases",
+    "summary": "",
+    "lang": "en",
+    "source": "Nikkei Asia",
+    "url": "https://asia.nikkei.com/politics/international-relations/china-offers-to-buy-more-papua-new-guinea-gas-after-taiwan-cuts-purchases",
+    "published": null,
+    "event_id": "7cd617906505",
+    "sources": [
+     {
+      "title": "China offers to buy more Papua New Guinea gas after Taiwan cuts purchases",
+      "summary": "",
+      "lang": "en",
+      "source": "Nikkei Asia",
+      "url": "https://asia.nikkei.com/politics/international-relations/china-offers-to-buy-more-papua-new-guinea-gas-after-taiwan-cuts-purchases",
+      "published": null
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "熙特爾前三季營收年增 681%，加速拓展 AI 能源與海外市場",
+    "summary": "熙特爾新能源前三季營收年增681%，調整經營團隊加速拓展AI能源和海外市場業務。",
+    "lang": "zh",
+    "source": "科技新報 TechNews",
+    "url": "https://technews.tw/2026/11/11/xitel-revenue-681-percent-growth-q1-q3-ai-energy-overseas-expansion/",
+    "published": "2026-11-11T09:38:37+00:00",
+    "event_id": "f50a129d22f1",
+    "sources": [
+     {
+      "title": "熙特爾前三季營收年增 681%，加速拓展 AI 能源與海外市場",
+      "summary": "熙特爾新能源前三季營收年增681%，調整經營團隊加速拓展AI能源和海外市場業務。",
+      "lang": "zh",
+      "source": "科技新報 TechNews",
+      "url": "https://technews.tw/2026/11/11/xitel-revenue-681-percent-growth-q1-q3-ai-energy-overseas-expansion/",
+      "published": "2026-11-11T09:38:37+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   }
+  ],
+  "economia|europa": [
+   {
+    "title": "Spain protests over housing crisis, in first general strike in 14 years",
+    "summary": "",
+    "lang": "en",
+    "source": "Le Monde International",
+    "url": "https://www.lemonde.fr/en/international/article/2026/11/11/spain-protests-over-housing-crisis-in-first-general-strike-in-14-years_6777652_4.html",
+    "published": "2026-11-11T11:48:54+00:00",
+    "event_id": "f9188ec9d2f5",
+    "sources": [
+     {
+      "title": "Spain protests over housing crisis, in first general strike in 14 years",
+      "summary": "",
+      "lang": "en",
+      "source": "Le Monde International",
+      "url": "https://www.lemonde.fr/en/international/article/2026/11/11/spain-protests-over-housing-crisis-in-first-general-strike-in-14-years_6777652_4.html",
+      "published": "2026-11-11T11:48:54+00:00"
+     },
+     {
+      "title": "Los sindicatos llaman a España a una huelga general por primera vez en 14 años",
+      "summary": "Los sindicatos CC OO y UGT convocan la primera huelga general en España en 14 años para protestar por la crisis de la vivienda, esperando una participación masiva aunque desigual según territorios.",
+      "lang": "es",
+      "source": "El País Economía",
+      "url": "https://elpais.com/economia/2026-11-10/los-sindicatos-llaman-a-espana-a-una-huelga-general-por-primera-vez-en-14-anos.html",
+      "published": "2026-11-10T22:29:36+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "VW Scraps Advanced Factory Plan in Blow to Made in Germany",
+    "summary": "",
+    "lang": "en",
+    "source": "Bloomberg Markets",
+    "url": "https://www.bloomberg.com/news/articles/2026-11-11/vw-scraps-advanced-factory-plan-in-blow-to-made-in-germany",
+    "published": "2026-11-11T12:22:44+00:00",
+    "event_id": "756ea184bb4a",
+    "sources": [
+     {
+      "title": "VW Scraps Advanced Factory Plan in Blow to Made in Germany",
+      "summary": "",
+      "lang": "en",
+      "source": "Bloomberg Markets",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-11/vw-scraps-advanced-factory-plan-in-blow-to-made-in-germany",
+      "published": "2026-11-11T12:22:44+00:00"
+     }
+    ],
+    "status": "updated",
+    "change_summary": "VW Scraps Advanced Factory Plan in Blow to Made in Germany",
+    "previous_date": "2026-11-10",
+    "previous_event_id": "756ea184bb4a"
+   },
+   {
+    "title": "German Economy on the Mend Though Reforms Needed, Nagel Says",
+    "summary": "",
+    "lang": "en",
+    "source": "Bloomberg Economics",
+    "url": "https://www.bloomberg.com/news/articles/2026-11-11/german-economy-on-the-mend-though-reforms-needed-nagel-says",
+    "published": "2026-11-11T08:20:00+00:00",
+    "event_id": "e66752836f1f",
+    "sources": [
+     {
+      "title": "German Economy on the Mend Though Reforms Needed, Nagel Says",
+      "summary": "",
+      "lang": "en",
+      "source": "Bloomberg Economics",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-11/german-economy-on-the-mend-though-reforms-needed-nagel-says",
+      "published": "2026-11-11T08:20:00+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   }
+  ],
+  "tecnologia|america": [
+   {
+    "title": "FirstFT: Anthropic bankers prepare to increase IPO valuation to $1.5tn",
+    "summary": "",
+    "lang": "en",
+    "source": "FT Global Economy",
+    "url": "https://www.ft.com/content/cb451a27-481d-4106-b40f-4a83e3e361fd?syn-25a6b1a6=1",
+    "published": "2026-11-11T11:08:38+00:00",
+    "event_id": "dbacfd04b532",
+    "sources": [
+     {
+      "title": "FirstFT: Anthropic bankers prepare to increase IPO valuation to $1.5tn",
+      "summary": "",
+      "lang": "en",
+      "source": "FT Global Economy",
+      "url": "https://www.ft.com/content/cb451a27-481d-4106-b40f-4a83e3e361fd?syn-25a6b1a6=1",
+      "published": "2026-11-11T11:08:38+00:00"
+     },
+     {
+      "title": "All 7 Anthropic founders will each cash out about $250M in IPO",
+      "summary": "",
+      "lang": "en",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/11/10/all-7-anthropic-founders-will-each-cash-out-about-250m-in-ipo/",
+      "published": "2026-11-10T19:57:52+00:00"
+     }
+    ],
+    "status": "updated",
+    "change_summary": "Anthropic bankers prepare to increase IPO valuation to $1.5tn",
+    "previous_date": "2026-11-10",
+    "previous_event_id": "dbacfd04b532"
+   },
+   {
+    "title": "Gemini 4 Carbon is now available",
+    "summary": "",
+    "lang": "en",
+    "source": "Google DeepMind Blog",
+    "url": "https://deepmind.google/blog/gemini-4-carbon-is-now-available/",
+    "published": "2026-11-10T16:03:47+00:00",
+    "event_id": "0b2e1c02de47",
+    "sources": [
+     {
+      "title": "Gemini 4 Carbon is now available",
+      "summary": "",
+      "lang": "en",
+      "source": "Google DeepMind Blog",
+      "url": "https://deepmind.google/blog/gemini-4-carbon-is-now-available/",
+      "published": "2026-11-10T16:03:47+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "OpenAI, Anthropic face new oversight as New York’s AI safety law takes effect",
+    "summary": "",
+    "lang": "en",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/11/10/openai-anthropic-face-new-oversight-as-new-yorks-ai-safety-law-takes-effect/",
+    "published": "2026-11-10T20:52:13+00:00",
+    "event_id": "91faed0650f0",
+    "sources": [
+     {
+      "title": "OpenAI, Anthropic face new oversight as New York’s AI safety law takes effect",
+      "summary": "",
+      "lang": "en",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/11/10/openai-anthropic-face-new-oversight-as-new-yorks-ai-safety-law-takes-effect/",
+      "published": "2026-11-10T20:52:13+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "X-energy gets green light to build its first small modular nuclear reactors",
+    "summary": "",
+    "lang": "en",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/11/10/x-energy-gets-green-light-to-build-its-first-small-modular-nuclear-reactors/",
+    "published": "2026-11-10T20:43:55+00:00",
+    "event_id": "455384a3a496",
+    "sources": [
+     {
+      "title": "X-energy gets green light to build its first small modular nuclear reactors",
+      "summary": "",
+      "lang": "en",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/11/10/x-energy-gets-green-light-to-build-its-first-small-modular-nuclear-reactors/",
+      "published": "2026-11-10T20:43:55+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "Grok Build coding agent leaks oodles of confidential info, some belonging to SpaceXSI",
+    "summary": "",
+    "lang": "en",
+    "source": "Ars Technica",
+    "url": "https://arstechnica.com/security/2026/11/grok-build-coding-agent-leaks-oodles-of-confidential-info-some-belonging-to-spacexsi/",
+    "published": "2026-11-10T21:12:59+00:00",
+    "event_id": "b686da68349e",
+    "sources": [
+     {
+      "title": "Grok Build coding agent leaks oodles of confidential info, some belonging to SpaceXSI",
+      "summary": "",
+      "lang": "en",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/security/2026/11/grok-build-coding-agent-leaks-oodles-of-confidential-info-some-belonging-to-spacexsi/",
+      "published": "2026-11-10T21:12:59+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "Introducing AlphaProof Code: a breakthrough in verifying complex software at depth",
+    "summary": "",
+    "lang": "en",
+    "source": "Google DeepMind Blog",
+    "url": "https://deepmind.google/blog/introducing-alphaproof-code/",
+    "published": "2026-11-10T12:02:28+00:00",
+    "event_id": "428ac4b42c0b",
+    "sources": [
+     {
+      "title": "Introducing AlphaProof Code: a breakthrough in verifying complex software at depth",
+      "summary": "",
+      "lang": "en",
+      "source": "Google DeepMind Blog",
+      "url": "https://deepmind.google/blog/introducing-alphaproof-code/",
+      "published": "2026-11-10T12:02:28+00:00"
+     }
+    ],
+    "status": "unchanged",
+    "change_summary": "",
+    "previous_date": "2026-11-10",
+    "previous_event_id": "428ac4b42c0b"
+   }
+  ],
+  "politica|europa": [
+   {
+    "title": "Three Iran-backed suspects plotted attacks including RAF Fairford incident, US says",
+    "summary": "",
+    "lang": "en",
+    "source": "BBC World",
+    "url": "https://www.bbc.co.uk/news/articles/c3rryrryk59zo?at_medium=RSS&at_campaign=rss",
+    "published": "2026-11-11T01:01:20+00:00",
+    "event_id": "45d5c49f84da",
+    "sources": [
+     {
+      "title": "Three Iran-backed suspects plotted attacks including RAF Fairford incident, US says",
+      "summary": "",
+      "lang": "en",
+      "source": "BBC World",
+      "url": "https://www.bbc.co.uk/news/articles/c3rryrryk59zo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-11T01:01:20+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "Russia-Ukraine agree 'biggest' prisoner release after talks, says Kushner",
+    "summary": "",
+    "lang": "en",
+    "source": "Le Monde International",
+    "url": "https://www.lemonde.fr/en/international/article/2026/11/11/russia-ukraine-agree-biggest-prisoner-release-after-talks-says-kushner_6777685_4.html",
+    "published": "2026-11-11T11:58:26+00:00",
+    "event_id": "77673aee285c",
+    "sources": [
+     {
+      "title": "Russia-Ukraine agree 'biggest' prisoner release after talks, says Kushner",
+      "summary": "",
+      "lang": "en",
+      "source": "Le Monde International",
+      "url": "https://www.lemonde.fr/en/international/article/2026/11/11/russia-ukraine-agree-biggest-prisoner-release-after-talks-says-kushner_6777685_4.html",
+      "published": "2026-11-11T11:58:26+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "British counterterrorism police arrest US soldier accused of spying on behalf of Russia",
+    "summary": "",
+    "lang": "en",
+    "source": "Deutsche Welle World",
+    "url": "https://www.dw.com/en/british-counterterrorism-police-arrest-us-soldier-accused-of-spying-on-behalf-of-russia/a-79913240?maca=en-rss-en-world-4025-rdf",
+    "published": "2026-11-10T19:35:00+00:00",
+    "event_id": "6d24ef62352b",
+    "sources": [
+     {
+      "title": "British counterterrorism police arrest US soldier accused of spying on behalf of Russia",
+      "summary": "",
+      "lang": "en",
+      "source": "Deutsche Welle World",
+      "url": "https://www.dw.com/en/british-counterterrorism-police-arrest-us-soldier-accused-of-spying-on-behalf-of-russia/a-79913240?maca=en-rss-en-world-4025-rdf",
+      "published": "2026-11-10T19:35:00+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "德軍考量國安將停用中國製無人機 改採本土或歐洲產品",
+    "summary": "德国国防部证实将停用中国制造无人机，改用德国或欧洲产品，理由是西方军界担忧这些无人机可能威胁安全并向北京传输敏感信息。",
+    "lang": "zh",
+    "source": "中央社 CNA",
+    "url": "https://www.cna.com.tw/news/aopl/202611110293.aspx",
+    "published": "2026-11-11T10:47:04+00:00",
+    "event_id": "62fe32262f52",
+    "sources": [
+     {
+      "title": "德軍考量國安將停用中國製無人機 改採本土或歐洲產品",
+      "summary": "德国国防部证实将停用中国制造无人机，改用德国或欧洲产品，理由是西方军界担忧这些无人机可能威胁安全并向北京传输敏感信息。",
+      "lang": "zh",
+      "source": "中央社 CNA",
+      "url": "https://www.cna.com.tw/news/aopl/202611110293.aspx",
+      "published": "2026-11-11T10:47:04+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "Rusia tenía un campo vacío junto a Ucrania. Seis semanas después, los satélites han revelado una fábrica de pesadillas letales",
+    "summary": "Satélites comerciales revelaron la construcción de una nueva fábrica en Rusia cerca de Ucrania en seis semanas, mostrando cómo los conflictos modernos se documentan mediante imágenes espaciales.",
+    "lang": "es",
+    "source": "Xataka",
+    "url": "https://www.xataka.com/magnet/rusia-tenia-campo-vacio-a-ucrania-seis-semanas-despues-satelites-han-revelado-fabrica-pesadillas-letales",
+    "published": "2026-11-11T12:01:49+00:00",
+    "event_id": "9152256bed47",
+    "sources": [
+     {
+      "title": "Rusia tenía un campo vacío junto a Ucrania. Seis semanas después, los satélites han revelado una fábrica de pesadillas letales",
+      "summary": "Satélites comerciales revelaron la construcción de una nueva fábrica en Rusia cerca de Ucrania en seis semanas, mostrando cómo los conflictos modernos se documentan mediante imágenes espaciales.",
+      "lang": "es",
+      "source": "Xataka",
+      "url": "https://www.xataka.com/magnet/rusia-tenia-campo-vacio-a-ucrania-seis-semanas-despues-satelites-han-revelado-fabrica-pesadillas-letales",
+      "published": "2026-11-11T12:01:49+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   }
+  ],
+  "politica|asia": [
+   {
+    "title": "Japan top court rules 2025 election in unconstitutional state",
+    "summary": "",
+    "lang": "en",
+    "source": "Japan Times",
+    "url": "https://www.japantimes.co.jp/news/2026/11/11/japan/politics/upper-house-election-unconstitutional-state/",
+    "published": "2026-11-11T09:02:00+00:00",
+    "event_id": "c38789230805",
+    "sources": [
+     {
+      "title": "Japan top court rules 2025 election in unconstitutional state",
+      "summary": "",
+      "lang": "en",
+      "source": "Japan Times",
+      "url": "https://www.japantimes.co.jp/news/2026/11/11/japan/politics/upper-house-election-unconstitutional-state/",
+      "published": "2026-11-11T09:02:00+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "Indonesia's VP offers resignation as questions mount over his eligibility",
+    "summary": "",
+    "lang": "en",
+    "source": "NPR World",
+    "url": "https://www.npr.org/2026/11/10/g-s1-152788/indonesias-vp-offers-resignation-as-questions-mount-over-his-eligibility",
+    "published": "2026-11-10T14:01:14+00:00",
+    "event_id": "f5c2b76eb6e0",
+    "sources": [
+     {
+      "title": "Indonesia's VP offers resignation as questions mount over his eligibility",
+      "summary": "",
+      "lang": "en",
+      "source": "NPR World",
+      "url": "https://www.npr.org/2026/11/10/g-s1-152788/indonesias-vp-offers-resignation-as-questions-mount-over-his-eligibility",
+      "published": "2026-11-10T14:01:14+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "Sheikh Hasina’s plan for return to Bangladesh fuels fears of renewed unrest",
+    "summary": "",
+    "lang": "en",
+    "source": "South China Morning Post (Asia)",
+    "url": "https://www.scmp.com/week-asia/politics/article/3374108/sheikh-hasinas-plan-return-bangladesh-fuels-fears-renewed-unrest",
+    "published": "2026-11-11T12:39:44+00:00",
+    "event_id": "877e460c394a",
+    "sources": [
+     {
+      "title": "Sheikh Hasina’s plan for return to Bangladesh fuels fears of renewed unrest",
+      "summary": "",
+      "lang": "en",
+      "source": "South China Morning Post (Asia)",
+      "url": "https://www.scmp.com/week-asia/politics/article/3374108/sheikh-hasinas-plan-return-bangladesh-fuels-fears-renewed-unrest",
+      "published": "2026-11-11T12:39:44+00:00"
+     }
+    ],
+    "status": "updated",
+    "change_summary": "Sheikh Hasina's plan for return to Bangladesh fuels fears of renewed unrest",
+    "previous_date": "2026-11-10",
+    "previous_event_id": "877e460c394a"
+   },
+   {
+    "title": "東協峰會15日馬尼拉登場 川普將出席特別峰會",
+    "summary": "第49届东盟峰会将于15至17日在菲律宾马尼拉举行，美国总统特朗普将出席东盟与美国的特别峰会。",
+    "lang": "zh",
+    "source": "中央社 CNA",
+    "url": "https://www.cna.com.tw/news/aopl/202611110275.aspx",
+    "published": "2026-11-11T09:52:25+00:00",
+    "event_id": "b7c2f4317e74",
+    "sources": [
+     {
+      "title": "東協峰會15日馬尼拉登場 川普將出席特別峰會",
+      "summary": "第49届东盟峰会将于15至17日在菲律宾马尼拉举行，美国总统特朗普将出席东盟与美国的特别峰会。",
+      "lang": "zh",
+      "source": "中央社 CNA",
+      "url": "https://www.cna.com.tw/news/aopl/202611110275.aspx",
+      "published": "2026-11-11T09:52:25+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   }
+  ],
+  "politica|america": [
+   {
+    "title": "US House blocks bid to impeach Defence Secretary Pete Hegseth, for now",
+    "summary": "",
+    "lang": "en",
+    "source": "BBC World",
+    "url": "https://www.bbc.co.uk/news/articles/cxly4y5jzl0qo?at_medium=RSS&at_campaign=rss",
+    "published": "2026-11-11T11:47:22+00:00",
+    "event_id": "c6071aca3cb7",
+    "sources": [
+     {
+      "title": "US House blocks bid to impeach Defence Secretary Pete Hegseth, for now",
+      "summary": "",
+      "lang": "en",
+      "source": "BBC World",
+      "url": "https://www.bbc.co.uk/news/articles/cxly4y5jzl0qo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-11T11:47:22+00:00"
+     }
+    ],
+    "status": "updated",
+    "change_summary": "US House blocks bid to impeach Defence Secretary Pete Hegseth, for now",
+    "previous_date": "2026-11-10",
+    "previous_event_id": "c6071aca3cb7"
+   },
+   {
+    "title": "Judge allows Trump's $10bn defamation case against BBC to proceed",
+    "summary": "",
+    "lang": "en",
+    "source": "BBC World",
+    "url": "https://www.bbc.co.uk/news/articles/cm93rpy6lx0do?at_medium=RSS&at_campaign=rss",
+    "published": "2026-11-11T01:18:09+00:00",
+    "event_id": "99997e4777cd",
+    "sources": [
+     {
+      "title": "Judge allows Trump's $10bn defamation case against BBC to proceed",
+      "summary": "",
+      "lang": "en",
+      "source": "BBC World",
+      "url": "https://www.bbc.co.uk/news/articles/cm93rpy6lx0do?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-11T01:18:09+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "Trinidad and Tobago's highest court strikes down colonial-era ban on gay sex",
+    "summary": "",
+    "lang": "en",
+    "source": "Le Monde International",
+    "url": "https://www.lemonde.fr/en/international/article/2026/11/11/trinidad-and-tobago-s-highest-court-strikes-down-colonial-era-ban-on-gay-sex_6777456_4.html",
+    "published": "2026-11-11T04:24:02+00:00",
+    "event_id": "fb40ea0734aa",
+    "sources": [
+     {
+      "title": "Trinidad and Tobago's highest court strikes down colonial-era ban on gay sex",
+      "summary": "",
+      "lang": "en",
+      "source": "Le Monde International",
+      "url": "https://www.lemonde.fr/en/international/article/2026/11/11/trinidad-and-tobago-s-highest-court-strikes-down-colonial-era-ban-on-gay-sex_6777456_4.html",
+      "published": "2026-11-11T04:24:02+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "U.S. boycotts U.N. human rights review for second year running",
+    "summary": "",
+    "lang": "en",
+    "source": "NPR World",
+    "url": "https://www.npr.org/2026/11/10/nx-s1-6034998/un-human-rights-us-geneva",
+    "published": "2026-11-10T18:53:34+00:00",
+    "event_id": "de9f765bb3ae",
+    "sources": [
+     {
+      "title": "U.S. boycotts U.N. human rights review for second year running",
+      "summary": "",
+      "lang": "en",
+      "source": "NPR World",
+      "url": "https://www.npr.org/2026/11/10/nx-s1-6034998/un-human-rights-us-geneva",
+      "published": "2026-11-10T18:53:34+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "Brazil fines Meta $1.3 million for failing to comply with judicial orders",
+    "summary": "",
+    "lang": "en",
+    "source": "Le Monde International",
+    "url": "https://www.lemonde.fr/en/international/article/2026/11/11/brazil-fines-meta-1-3-million-over-election-controversy_6777388_4.html",
+    "published": "2026-11-11T03:20:18+00:00",
+    "event_id": "beed178a9628",
+    "sources": [
+     {
+      "title": "Brazil fines Meta $1.3 million for failing to comply with judicial orders",
+      "summary": "",
+      "lang": "en",
+      "source": "Le Monde International",
+      "url": "https://www.lemonde.fr/en/international/article/2026/11/11/brazil-fines-meta-1-3-million-over-election-controversy_6777388_4.html",
+      "published": "2026-11-11T03:20:18+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "Democrats oppose plan to stack FCC with Republicans, plan probes of Chairman Carr",
+    "summary": "",
+    "lang": "en",
+    "source": "Ars Technica",
+    "url": "https://arstechnica.com/tech-policy/2026/11/democrats-oppose-plan-to-stack-fcc-with-republicans-plan-probes-of-chairman-carr/",
+    "published": "2026-11-10T21:55:26+00:00",
+    "event_id": "61142563917e",
+    "sources": [
+     {
+      "title": "Democrats oppose plan to stack FCC with Republicans, plan probes of Chairman Carr",
+      "summary": "",
+      "lang": "en",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/tech-policy/2026/11/democrats-oppose-plan-to-stack-fcc-with-republicans-plan-probes-of-chairman-carr/",
+      "published": "2026-11-10T21:55:26+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   }
+  ],
+  "tecnologia|asia": [
+   {
+    "title": "國網中心布局主權AI，TAIWAN AI RAP擴充模型微調能力，加速AI應用落地",
+    "summary": "台湾国网中心推动主权AI战略，通过扩充TAIWAN AI RAP模型微调能力，整合算力、数据和本土语料训练，加速AI应用落地。",
+    "lang": "zh",
+    "source": "iThome 台灣",
+    "url": "https://www.ithome.com.tw/news/180427",
+    "published": "2026-11-11T04:11:44+00:00",
+    "event_id": "393730cdfa76",
+    "sources": [
+     {
+      "title": "國網中心布局主權AI，TAIWAN AI RAP擴充模型微調能力，加速AI應用落地",
+      "summary": "台湾国网中心推动主权AI战略，通过扩充TAIWAN AI RAP模型微调能力，整合算力、数据和本土语料训练，加速AI应用落地。",
+      "lang": "zh",
+      "source": "iThome 台灣",
+      "url": "https://www.ithome.com.tw/news/180427",
+      "published": "2026-11-11T04:11:44+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "漢來美食委外購物商城發生資安事件，部分消費者訂單資料遭異常存取",
+    "summary": "餐饮公司漢來美食的委外購物商城發生資安事件，部分消費者訂單資料遭未經授權異常存取。",
+    "lang": "zh",
+    "source": "iThome 台灣",
+    "url": "https://www.ithome.com.tw/news/180424",
+    "published": "2026-11-11T03:11:35+00:00",
+    "event_id": "03b4fe33d46b",
+    "sources": [
+     {
+      "title": "漢來美食委外購物商城發生資安事件，部分消費者訂單資料遭異常存取",
+      "summary": "餐饮公司漢來美食的委外購物商城發生資安事件，部分消費者訂單資料遭未經授權異常存取。",
+      "lang": "zh",
+      "source": "iThome 台灣",
+      "url": "https://www.ithome.com.tw/news/180424",
+      "published": "2026-11-11T03:11:35+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   }
+  ],
+  "tecnologia|europa": [
+   {
+    "title": "法國投資 15 億歐元升級太空之眼，IRIS 偵察衛星預計 2033 年服役",
+    "summary": "法國投資15億歐元升級IRIS軍用地球觀測衛星項目，由空中巴士國防航太與合作廠商承包，預計2033年服役。",
+    "lang": "zh",
+    "source": "科技新報 TechNews",
+    "url": "https://technews.tw/2026/11/11/franch-dga-awarded-1-5-billion-euro-contract-for-new-iris-to-airbus-and-thales/",
+    "published": "2026-11-11T09:21:42+00:00",
+    "event_id": "6624cafcaa91",
+    "sources": [
+     {
+      "title": "法國投資 15 億歐元升級太空之眼，IRIS 偵察衛星預計 2033 年服役",
+      "summary": "法國投資15億歐元升級IRIS軍用地球觀測衛星項目，由空中巴士國防航太與合作廠商承包，預計2033年服役。",
+      "lang": "zh",
+      "source": "科技新報 TechNews",
+      "url": "https://technews.tw/2026/11/11/franch-dga-awarded-1-5-billion-euro-contract-for-new-iris-to-airbus-and-thales/",
+      "published": "2026-11-11T09:21:42+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   }
+  ]
+ }
+}
