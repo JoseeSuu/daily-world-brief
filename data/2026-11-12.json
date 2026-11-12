@@ -1,0 +1,987 @@
+{
+ "date": "2026-11-12",
+ "generated_at": "2026-11-12T13:57:45.214869+00:00",
+ "mode": "full",
+ "cost_usd": 0.0552,
+ "selection": {
+  "model": "claude-haiku-5-5",
+  "effort": "high",
+  "passes": 3,
+  "passes_ok": 3,
+  "cost_usd": 0.0185
+ },
+ "events": {
+  "mode": "full",
+  "compared_with": "2026-11-11",
+  "articles": 43,
+  "uncompared_articles": 0,
+  "events": 40,
+  "cost_usd": 0.0206
+ },
+ "market": null,
+ "failed_sources": [],
+ "cells": {
+  "economia|asia": [
+   {
+    "title": "Oil Jumps After Trump Says US Doesn’t Need Deal With Iran",
+    "summary": "Oil prices rose after Trump stated the US does not need an Iran deal, as Middle East supply tensions persist. The statement reversed earlier market losses.",
+    "lang": "en",
+    "source": "Bloomberg Markets",
+    "url": "https://www.bloomberg.com/news/articles/2026-11-12/oil-jumps-after-trump-says-us-doesn-t-need-deal-with-iran",
+    "published": "2026-11-12T13:14:35+00:00",
+    "event_id": "5c5253320723",
+    "sources": [
+     {
+      "title": "Oil Jumps After Trump Says US Doesn’t Need Deal With Iran",
+      "summary": "Oil prices rose after Trump stated the US does not need an Iran deal, as Middle East supply tensions persist. The statement reversed earlier market losses.",
+      "lang": "en",
+      "source": "Bloomberg Markets",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-12/oil-jumps-after-trump-says-us-doesn-t-need-deal-with-iran",
+      "published": "2026-11-12T13:14:35+00:00"
+     }
+    ],
+    "status": "updated",
+    "change_summary": "Oil Jumps After Trump Says US Doesn't Need Deal With Iran",
+    "previous_date": "2026-11-11",
+    "previous_event_id": "5c5253320723"
+   },
+   {
+    "title": "India’s Inflation Rises, Keeping Rate-Hike Pressure on RBI",
+    "summary": "India's October inflation reached a two-year high, exceeding the RBI's 6% upper tolerance limit. This increases pressure on policymakers to raise interest rates.",
+    "lang": "en",
+    "source": "Bloomberg Economics",
+    "url": "https://www.bloomberg.com/news/articles/2026-11-12/india-s-inflation-accelerates-keeping-rate-hike-pressure-on-rbi",
+    "published": "2026-11-12T10:33:00+00:00",
+    "event_id": "e6fb1a7774a8",
+    "sources": [
+     {
+      "title": "India’s Inflation Rises, Keeping Rate-Hike Pressure on RBI",
+      "summary": "India's October inflation reached a two-year high, exceeding the RBI's 6% upper tolerance limit. This increases pressure on policymakers to raise interest rates.",
+      "lang": "en",
+      "source": "Bloomberg Economics",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-12/india-s-inflation-accelerates-keeping-rate-hike-pressure-on-rbi",
+      "published": "2026-11-12T10:33:00+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "沙特石油产量回升至接近战前水平",
+    "summary": "沙特10月日均原油产量升至1060万桶，接近战前水平。欧佩克最大产油国似乎已找到维持石油工业运转的方式。",
+    "lang": "zh",
+    "source": "FT中文网",
+    "url": "https://www.ftchinese.com/story/001111346",
+    "published": "2026-11-11T16:00:00+00:00",
+    "event_id": "965dff0d8814",
+    "sources": [
+     {
+      "title": "沙特石油产量回升至接近战前水平",
+      "summary": "沙特10月日均原油产量升至1060万桶，接近战前水平。欧佩克最大产油国似乎已找到维持石油工业运转的方式。",
+      "lang": "zh",
+      "source": "FT中文网",
+      "url": "https://www.ftchinese.com/story/001111346",
+      "published": "2026-11-11T16:00:00+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "Fed hike 'certainty' pushes Asian currencies lower with yen down near 160",
+    "summary": "Uncertainty over a potential Federal Reserve rate hike pushed Asian currencies lower, with the yen declining toward the 160 level against the dollar.",
+    "lang": "en",
+    "source": "Nikkei Asia",
+    "url": "https://asia.nikkei.com/business/markets/currencies/fed-hike-certainty-pushes-asian-currencies-lower-with-yen-down-near-160",
+    "published": null,
+    "event_id": "39393c81578a",
+    "sources": [
+     {
+      "title": "Fed hike 'certainty' pushes Asian currencies lower with yen down near 160",
+      "summary": "Uncertainty over a potential Federal Reserve rate hike pushed Asian currencies lower, with the yen declining toward the 160 level against the dollar.",
+      "lang": "en",
+      "source": "Nikkei Asia",
+      "url": "https://asia.nikkei.com/business/markets/currencies/fed-hike-certainty-pushes-asian-currencies-lower-with-yen-down-near-160",
+      "published": null
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "Turkey Raises Inflation Forecasts on War, Fund-Rout Effects",
+    "summary": "Turkey's central bank raised inflation forecasts through next year, citing pressures from Iran war tensions and market volatility. Economic outlook worsens amid regional conflict.",
+    "lang": "en",
+    "source": "Bloomberg Economics",
+    "url": "https://www.bloomberg.com/news/articles/2026-11-12/turkey-central-bank-raises-end-2027-inflation-forecast-to-21",
+    "published": "2026-11-12T08:01:33+00:00",
+    "event_id": "35a8e2cada29",
+    "sources": [
+     {
+      "title": "Turkey Raises Inflation Forecasts on War, Fund-Rout Effects",
+      "summary": "Turkey's central bank raised inflation forecasts through next year, citing pressures from Iran war tensions and market volatility. Economic outlook worsens amid regional conflict.",
+      "lang": "en",
+      "source": "Bloomberg Economics",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-12/turkey-central-bank-raises-end-2027-inflation-forecast-to-21",
+      "published": "2026-11-12T08:01:33+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "Russian diesel exports double after Trump lifts sanctions, but US gets none",
+    "summary": "Russian diesel exports doubled after Trump lifted sanctions, though shipments bypass the US entirely. The surge faces uncertainty as Ukraine resumes refinery attacks.",
+    "lang": "en",
+    "source": "Financial Times",
+    "url": "https://www.ft.com/content/525b53ee-4817-4eb6-8292-b6ee0ac45b47?syn-25a6b1a6=1",
+    "published": "2026-11-12T05:00:21+00:00",
+    "event_id": "fdb74aa83501",
+    "sources": [
+     {
+      "title": "Russian diesel exports double after Trump lifts sanctions, but US gets none",
+      "summary": "Russian diesel exports doubled after Trump lifted sanctions, though shipments bypass the US entirely. The surge faces uncertainty as Ukraine resumes refinery attacks.",
+      "lang": "en",
+      "source": "Financial Times",
+      "url": "https://www.ft.com/content/525b53ee-4817-4eb6-8292-b6ee0ac45b47?syn-25a6b1a6=1",
+      "published": "2026-11-12T05:00:21+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "Why China Is Eyeing a Curious Tax on Its Government Bond Market",
+    "summary": "China is considering a tax on government bond interest payments to help raise yields from record lows. The measure targets China's struggling bond market.",
+    "lang": "en",
+    "source": "Bloomberg Economics",
+    "url": "https://www.bloomberg.com/news/newsletters/2026-11-12/why-china-is-eyeing-a-curious-tax-on-its-government-bond-market",
+    "published": "2026-11-12T12:00:01+00:00",
+    "event_id": "1587ddce1c7c",
+    "sources": [
+     {
+      "title": "Why China Is Eyeing a Curious Tax on Its Government Bond Market",
+      "summary": "China is considering a tax on government bond interest payments to help raise yields from record lows. The measure targets China's struggling bond market.",
+      "lang": "en",
+      "source": "Bloomberg Economics",
+      "url": "https://www.bloomberg.com/news/newsletters/2026-11-12/why-china-is-eyeing-a-curious-tax-on-its-government-bond-market",
+      "published": "2026-11-12T12:00:01+00:00"
+     }
+    ],
+    "status": "unchanged",
+    "change_summary": "",
+    "previous_date": "2026-11-11",
+    "previous_event_id": "1587ddce1c7c"
+   }
+  ],
+  "tecnologia|america": [
+   {
+    "title": "Nvidia board to decide Jensen Huang’s fate",
+    "summary": "Nvidia's board is deciding Jensen Huang's fate after revelations of a second alleged extramarital affair emerged. The CEO admitted to a prior relationship with subordinate days earlier.",
+    "lang": "en",
+    "source": "Financial Times",
+    "url": "https://www.ft.com/content/d3838274-a055-4d5d-a1ff-48f2979a08f0?syn-25a6b1a6=1",
+    "published": "2026-11-12T11:08:31+00:00",
+    "event_id": "ead8afff0c24",
+    "sources": [
+     {
+      "title": "Nvidia board to decide Jensen Huang’s fate",
+      "summary": "Nvidia's board is deciding Jensen Huang's fate after revelations of a second alleged extramarital affair emerged. The CEO admitted to a prior relationship with subordinate days earlier.",
+      "lang": "en",
+      "source": "Financial Times",
+      "url": "https://www.ft.com/content/d3838274-a055-4d5d-a1ff-48f2979a08f0?syn-25a6b1a6=1",
+      "published": "2026-11-12T11:08:31+00:00"
+     },
+     {
+      "title": "China warns US not to use Nvidia scandal as pretext for tech curbs",
+      "summary": "Beijing accused the US of fabricating espionage narratives regarding Nvidia as the chip company's board reviews CEO Jensen Huang's future. Tensions escalate over tech competition.",
+      "lang": "en",
+      "source": "Financial Times",
+      "url": "https://www.ft.com/content/66e7337e-3696-4259-84f4-57533bc185bd?syn-25a6b1a6=1",
+      "published": "2026-11-12T10:55:31+00:00"
+     },
+     {
+      "title": "黃仁勳疑涉第二宗婚外情，Nvidia董事會傳擬撤換執行長",
+      "summary": "Nvidia董事会因黄仁勳涉嫌第二宗婚外情传言拟撤换其职位。公司市值自上周五已蒸发超5000亿美元。",
+      "lang": "zh",
+      "source": "BBC中文",
+      "url": "https://www.bbc.com/zhongwen/articles/c63egjy85wq8o/trad?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-12T10:30:41+00:00"
+     },
+     {
+      "title": "Nvidia is reportedly preparing to fire Jensen Huang",
+      "summary": "Nvidia's board is reportedly preparing to fire CEO Jensen Huang following revelations of a second alleged extramarital affair. The dismissal follows his admission of a prior relationship days earlier.",
+      "lang": "en",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/tech/1031652/jensen-huang-rumor",
+      "published": "2026-11-11T22:44:36+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "韋伯望遠鏡在「飛龍」星系捕捉 104 顆放大恆星，刷新單一星系紀錄",
+    "summary": "詹姆斯·韦伯太空望远镜在飞龙星系成功辨识出104颗放大恒星。天文学家创造了单一星系的新纪录。",
+    "lang": "zh",
+    "source": "科技新報 TechNews",
+    "url": "https://technews.tw/2026/11/12/jwst-tracks-more-than-100-magnified-stellar-events-in-the-dragon-galaxy/",
+    "published": "2026-11-12T13:35:42+00:00",
+    "event_id": "ad6900dd6961",
+    "sources": [
+     {
+      "title": "韋伯望遠鏡在「飛龍」星系捕捉 104 顆放大恆星，刷新單一星系紀錄",
+      "summary": "詹姆斯·韦伯太空望远镜在飞龙星系成功辨识出104颗放大恒星。天文学家创造了单一星系的新纪录。",
+      "lang": "zh",
+      "source": "科技新報 TechNews",
+      "url": "https://technews.tw/2026/11/12/jwst-tracks-more-than-100-magnified-stellar-events-in-the-dragon-galaxy/",
+      "published": "2026-11-12T13:35:42+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "AlphaGenome 2: Deciphering how cells read DNA to better understand disease",
+    "summary": "",
+    "lang": "en",
+    "source": "Google DeepMind Blog",
+    "url": "https://deepmind.google/blog/alphagenome-2-deciphering-how-cells-read-dna-to-better-understand-disease/",
+    "published": "2026-11-11T15:00:15+00:00",
+    "event_id": "428ac4b42c0b",
+    "sources": [
+     {
+      "title": "AlphaGenome 2: Deciphering how cells read DNA to better understand disease",
+      "summary": "",
+      "lang": "en",
+      "source": "Google DeepMind Blog",
+      "url": "https://deepmind.google/blog/alphagenome-2-deciphering-how-cells-read-dna-to-better-understand-disease/",
+      "published": "2026-11-11T15:00:15+00:00"
+     }
+    ],
+    "status": "unclear",
+    "change_summary": "",
+    "previous_date": "2026-11-11",
+    "previous_event_id": "428ac4b42c0b"
+   },
+   {
+    "title": "T-Mobile illegally imposed 50GB cap on low-income home Internet plan, NY says",
+    "summary": "New York says T-Mobile illegally capped its low-income home internet at 50GB, reducing speeds to 600Kbps. The plan violated requirements for 25Mbps service.",
+    "lang": "en",
+    "source": "Ars Technica",
+    "url": "https://arstechnica.com/tech-policy/2026/11/t-mobile-illegally-imposed-50-gb-cap-on-low-income-home-internet-plan-ny-says/",
+    "published": "2026-11-11T20:32:21+00:00",
+    "event_id": "d5b3e3dc3333",
+    "sources": [
+     {
+      "title": "T-Mobile illegally imposed 50GB cap on low-income home Internet plan, NY says",
+      "summary": "New York says T-Mobile illegally capped its low-income home internet at 50GB, reducing speeds to 600Kbps. The plan violated requirements for 25Mbps service.",
+      "lang": "en",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/tech-policy/2026/11/t-mobile-illegally-imposed-50-gb-cap-on-low-income-home-internet-plan-ny-says/",
+      "published": "2026-11-11T20:32:21+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "Anduril says its first satellite can see adversaries maneuver in orbital night",
+    "summary": "Anduril's satellite can detect adversaries maneuvering in orbital darkness using exceptional dynamic range technology. The capability provides significant surveillance advantages.",
+    "lang": "en",
+    "source": "Ars Technica",
+    "url": "https://arstechnica.com/space/2026/11/anduril-demos-night-vision-sensor-for-tracking-satellites-in-darkness/",
+    "published": "2026-11-11T20:22:03+00:00",
+    "event_id": "d49b4066d81b",
+    "sources": [
+     {
+      "title": "Anduril says its first satellite can see adversaries maneuver in orbital night",
+      "summary": "Anduril's satellite can detect adversaries maneuvering in orbital darkness using exceptional dynamic range technology. The capability provides significant surveillance advantages.",
+      "lang": "en",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/space/2026/11/anduril-demos-night-vision-sensor-for-tracking-satellites-in-darkness/",
+      "published": "2026-11-11T20:22:03+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "Ring confirms its camera drone won’t have manual controls after crashing on CBS News",
+    "summary": "Ring's security camera drone will launch in January without manual controls, relying entirely on AI automation. Users cannot pilot the device themselves.",
+    "lang": "en",
+    "source": "The Verge",
+    "url": "https://www.theverge.com/tech/1031817/ring-drone-cam-manual-flight-controls",
+    "published": "2026-11-12T11:12:32+00:00",
+    "event_id": "1ae6be660537",
+    "sources": [
+     {
+      "title": "Ring confirms its camera drone won’t have manual controls after crashing on CBS News",
+      "summary": "Ring's security camera drone will launch in January without manual controls, relying entirely on AI automation. Users cannot pilot the device themselves.",
+      "lang": "en",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/tech/1031817/ring-drone-cam-manual-flight-controls",
+      "published": "2026-11-12T11:12:32+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   }
+  ],
+  "economia|america": [
+   {
+    "title": "Brazil’s Inflation Ticks Up After Lula’s Win Rattles Markets",
+    "summary": "Brazil's annual inflation rose further above target last month, though less than forecast, amid concerns over the government's economic strategy. Budget pressures persist after Lula's victory.",
+    "lang": "en",
+    "source": "Bloomberg Economics",
+    "url": "https://www.bloomberg.com/news/articles/2026-11-12/brazilian-inflation-ticks-up-after-lula-s-win-rattles-markets",
+    "published": "2026-11-12T12:23:20+00:00",
+    "event_id": "9931ee2155b5",
+    "sources": [
+     {
+      "title": "Brazil’s Inflation Ticks Up After Lula’s Win Rattles Markets",
+      "summary": "Brazil's annual inflation rose further above target last month, though less than forecast, amid concerns over the government's economic strategy. Budget pressures persist after Lula's victory.",
+      "lang": "en",
+      "source": "Bloomberg Economics",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-12/brazilian-inflation-ticks-up-after-lula-s-win-rattles-markets",
+      "published": "2026-11-12T12:23:20+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "Money pours into US manufacturing from overseas companies",
+    "summary": "Overseas companies are increasing investments in US manufacturing due to inflation, skills shortages, and unpredictable tariff policies. Surging demand in some sectors offsets business difficulties.",
+    "lang": "en",
+    "source": "FT Global Economy",
+    "url": "https://www.ft.com/content/0b32f2c4-3e47-46ec-90ee-94194d2c3e3f?syn-25a6b1a6=1",
+    "published": "2026-11-12T01:00:02+00:00",
+    "event_id": "900caeee5847",
+    "sources": [
+     {
+      "title": "Money pours into US manufacturing from overseas companies",
+      "summary": "Overseas companies are increasing investments in US manufacturing due to inflation, skills shortages, and unpredictable tariff policies. Surging demand in some sectors offsets business difficulties.",
+      "lang": "en",
+      "source": "FT Global Economy",
+      "url": "https://www.ft.com/content/0b32f2c4-3e47-46ec-90ee-94194d2c3e3f?syn-25a6b1a6=1",
+      "published": "2026-11-12T01:00:02+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "Kast Lacks Fiscal Ambition as Chile Debt Rises, Economists Say",
+    "summary": "Chile's market-friendly government lacks sufficient fiscal ambition to control debt that has doubled over the past decade, economists say. Spending-cut rhetoric contrasts with limited action.",
+    "lang": "en",
+    "source": "Bloomberg Economics",
+    "url": "https://www.bloomberg.com/news/articles/2026-11-12/chile-s-kast-vaunts-thrift-but-lacks-ambition-economists-say",
+    "published": "2026-11-12T11:00:00+00:00",
+    "event_id": "92283b907950",
+    "sources": [
+     {
+      "title": "Kast Lacks Fiscal Ambition as Chile Debt Rises, Economists Say",
+      "summary": "Chile's market-friendly government lacks sufficient fiscal ambition to control debt that has doubled over the past decade, economists say. Spending-cut rhetoric contrasts with limited action.",
+      "lang": "en",
+      "source": "Bloomberg Economics",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-12/chile-s-kast-vaunts-thrift-but-lacks-ambition-economists-say",
+      "published": "2026-11-12T11:00:00+00:00"
+     }
+    ],
+    "status": "updated",
+    "change_summary": "Kast Lacks Fiscal Ambition as Chile Debt Rises, Economists Say",
+    "previous_date": "2026-11-11",
+    "previous_event_id": "92283b907950"
+   }
+  ],
+  "economia|europa": [
+   {
+    "title": "UK economy expanded by 0.7% in third quarter",
+    "summary": "The UK economy expanded 0.7% in the third quarter, demonstrating resilience despite rising energy prices and borrowing costs. Growth persists amid economic headwinds.",
+    "lang": "en",
+    "source": "FT Global Economy",
+    "url": "https://www.ft.com/content/94f3ad1c-a186-4893-ae97-5f129690d121?syn-25a6b1a6=1",
+    "published": "2026-11-12T08:23:17+00:00",
+    "event_id": "be515bd60647",
+    "sources": [
+     {
+      "title": "UK economy expanded by 0.7% in third quarter",
+      "summary": "The UK economy expanded 0.7% in the third quarter, demonstrating resilience despite rising energy prices and borrowing costs. Growth persists amid economic headwinds.",
+      "lang": "en",
+      "source": "FT Global Economy",
+      "url": "https://www.ft.com/content/94f3ad1c-a186-4893-ae97-5f129690d121?syn-25a6b1a6=1",
+      "published": "2026-11-12T08:23:17+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "Serbia Surprises With Rate Hike as Political Shift Weighs on Dinar",
+    "summary": "Serbia unexpectedly raised interest rates for the first time in three years, responding to global inflation and dinar depreciation pressures. Political changes influence monetary policy.",
+    "lang": "en",
+    "source": "Bloomberg Economics",
+    "url": "https://www.bloomberg.com/news/articles/2026-11-12/serbia-surprises-with-rate-hike-as-political-shift-weighs-on-dinar",
+    "published": "2026-11-12T11:18:12+00:00",
+    "event_id": "70df4076ff16",
+    "sources": [
+     {
+      "title": "Serbia Surprises With Rate Hike as Political Shift Weighs on Dinar",
+      "summary": "Serbia unexpectedly raised interest rates for the first time in three years, responding to global inflation and dinar depreciation pressures. Political changes influence monetary policy.",
+      "lang": "en",
+      "source": "Bloomberg Economics",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-12/serbia-surprises-with-rate-hike-as-political-shift-weighs-on-dinar",
+      "published": "2026-11-12T11:18:12+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "BYD sitúa a España entre los países preseleccionados para su segunda fábrica en Europa",
+    "summary": "BYD ha preseleccionado a España para construir su segunda fábrica europea. El fabricante chino continúa evaluando opciones en el proceso de selección.",
+    "lang": "es",
+    "source": "Xataka",
+    "url": "https://www.xataka.com/movilidad/byd-situa-a-espana-paises-preseleccionados-para-su-segunda-fabrica-europa",
+    "published": "2026-11-12T12:40:14+00:00",
+    "event_id": "e525767afe9e",
+    "sources": [
+     {
+      "title": "BYD sitúa a España entre los países preseleccionados para su segunda fábrica en Europa",
+      "summary": "BYD ha preseleccionado a España para construir su segunda fábrica europea. El fabricante chino continúa evaluando opciones en el proceso de selección.",
+      "lang": "es",
+      "source": "Xataka",
+      "url": "https://www.xataka.com/movilidad/byd-situa-a-espana-paises-preseleccionados-para-su-segunda-fabrica-europa",
+      "published": "2026-11-12T12:40:14+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   }
+  ],
+  "politica|europa": [
+   {
+    "title": "Ukraine Says It Hit Russia’s Biggest Oil Refinery in Siberia",
+    "summary": "Ukraine attacked Russia's largest oil refinery in western Siberia for a third time, intensifying its campaign against crude-processing infrastructure. The assault targets Russian energy production.",
+    "lang": "en",
+    "source": "Bloomberg Markets",
+    "url": "https://www.bloomberg.com/news/articles/2026-11-12/ukraine-says-it-hit-russia-s-biggest-oil-refinery-in-siberia",
+    "published": "2026-11-12T12:27:07+00:00",
+    "event_id": "305e10e4d770",
+    "sources": [
+     {
+      "title": "Ukraine Says It Hit Russia’s Biggest Oil Refinery in Siberia",
+      "summary": "Ukraine attacked Russia's largest oil refinery in western Siberia for a third time, intensifying its campaign against crude-processing infrastructure. The assault targets Russian energy production.",
+      "lang": "en",
+      "source": "Bloomberg Markets",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-12/ukraine-says-it-hit-russia-s-biggest-oil-refinery-in-siberia",
+      "published": "2026-11-12T12:27:07+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "'No light, no water, no heat': Ukrainians struggle with blackouts as Russia hits power grid",
+    "summary": "Ukrainians endure severe blackouts from Russian attacks on power infrastructure, with limited electricity for hours daily. Families struggle to maintain normal life amid energy shortages.",
+    "lang": "en",
+    "source": "BBC World",
+    "url": "https://www.bbc.co.uk/news/articles/cr1ewpd95d21o?at_medium=RSS&at_campaign=rss",
+    "published": "2026-11-12T07:59:33+00:00",
+    "event_id": "6a0680b3fc1b",
+    "sources": [
+     {
+      "title": "'No light, no water, no heat': Ukrainians struggle with blackouts as Russia hits power grid",
+      "summary": "Ukrainians endure severe blackouts from Russian attacks on power infrastructure, with limited electricity for hours daily. Families struggle to maintain normal life amid energy shortages.",
+      "lang": "en",
+      "source": "BBC World",
+      "url": "https://www.bbc.co.uk/news/articles/cr1ewpd95d21o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-12T07:59:33+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "Ukraine says military Starlink disrupted again as US envoys meet Putin in Moscow",
+    "summary": "Ukraine reported military Starlink service disrupted again as US envoys meet Putin in Moscow. Kushner and Witkoff will later meet Zelensky in Dublin.",
+    "lang": "en",
+    "source": "BBC World",
+    "url": "https://www.bbc.co.uk/news/articles/cwrkgmymk55zo?at_medium=RSS&at_campaign=rss",
+    "published": "2026-11-12T12:14:51+00:00",
+    "event_id": "77673aee285c",
+    "sources": [
+     {
+      "title": "Ukraine says military Starlink disrupted again as US envoys meet Putin in Moscow",
+      "summary": "Ukraine reported military Starlink service disrupted again as US envoys meet Putin in Moscow. Kushner and Witkoff will later meet Zelensky in Dublin.",
+      "lang": "en",
+      "source": "BBC World",
+      "url": "https://www.bbc.co.uk/news/articles/cwrkgmymk55zo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-12T12:14:51+00:00"
+     }
+    ],
+    "status": "updated",
+    "change_summary": "Ukraine says military Starlink disrupted again as US envoys meet Putin in Moscow",
+    "previous_date": "2026-11-11",
+    "previous_event_id": "77673aee285c"
+   },
+   {
+    "title": "德国联邦国防军因间谍风险禁用中国无人机和汽车",
+    "summary": "德国联邦国防军因安全顾虑禁用中国无人机和汽车。国防部证实了这一针对军营和训练场的禁令。",
+    "lang": "zh",
+    "source": "德國之聲中文",
+    "url": "https://www.dw.com/zh/德国联邦国防军因间谍风险禁用中国无人机和汽车/a-79919532?maca=chi-rss-chi-all-1127-rdf",
+    "published": "2026-11-11T14:14:00+00:00",
+    "event_id": "62fe32262f52",
+    "sources": [
+     {
+      "title": "德国联邦国防军因间谍风险禁用中国无人机和汽车",
+      "summary": "德国联邦国防军因安全顾虑禁用中国无人机和汽车。国防部证实了这一针对军营和训练场的禁令。",
+      "lang": "zh",
+      "source": "德國之聲中文",
+      "url": "https://www.dw.com/zh/德国联邦国防军因间谍风险禁用中国无人机和汽车/a-79919532?maca=chi-rss-chi-all-1127-rdf",
+      "published": "2026-11-11T14:14:00+00:00"
+     }
+    ],
+    "status": "updated",
+    "change_summary": "德国联邦国防军因间谍风险禁用中国无人机和汽车",
+    "previous_date": "2026-11-11",
+    "previous_event_id": "62fe32262f52"
+   },
+   {
+    "title": "Spanish parliament passes housing measures after general strike",
+    "summary": "Spain's parliament passed housing measures following a general strike sparked by the death of an evicted 87-year-old pensioner. The case ignited national outrage over housing conditions.",
+    "lang": "en",
+    "source": "Le Monde International",
+    "url": "https://www.lemonde.fr/en/international/article/2026/11/12/spanish-parliament-passes-housing-measures-after-general-strike_6778807_4.html",
+    "published": "2026-11-12T12:50:49+00:00",
+    "event_id": "f9188ec9d2f5",
+    "sources": [
+     {
+      "title": "Spanish parliament passes housing measures after general strike",
+      "summary": "Spain's parliament passed housing measures following a general strike sparked by the death of an evicted 87-year-old pensioner. The case ignited national outrage over housing conditions.",
+      "lang": "en",
+      "source": "Le Monde International",
+      "url": "https://www.lemonde.fr/en/international/article/2026/11/12/spanish-parliament-passes-housing-measures-after-general-strike_6778807_4.html",
+      "published": "2026-11-12T12:50:49+00:00"
+     }
+    ],
+    "status": "updated",
+    "change_summary": "Spanish parliament passes housing measures after general strike",
+    "previous_date": "2026-11-11",
+    "previous_event_id": "f9188ec9d2f5"
+   },
+   {
+    "title": "Las pulseras antimaltrato ya tenían un problema técnico. Ahora la Fiscalía Europea investiga si también hay uno de dinero",
+    "summary": "La Fiscalía Europea investiga posibles problemas técnicos y de gestión de fondos en las pulseras antimaltrato gestionadas por el Ministerio de Igualdad español.",
+    "lang": "es",
+    "source": "Xataka",
+    "url": "https://www.xataka.com/legislacion-y-derechos/pulseras-antimaltrato-tenian-problema-tecnico-ahora-fiscalia-europea-investiga-tambien-hay-uno-dinero",
+    "published": "2026-11-12T12:11:00+00:00",
+    "event_id": "580fd8d3ecec",
+    "sources": [
+     {
+      "title": "Las pulseras antimaltrato ya tenían un problema técnico. Ahora la Fiscalía Europea investiga si también hay uno de dinero",
+      "summary": "La Fiscalía Europea investiga posibles problemas técnicos y de gestión de fondos en las pulseras antimaltrato gestionadas por el Ministerio de Igualdad español.",
+      "lang": "es",
+      "source": "Xataka",
+      "url": "https://www.xataka.com/legislacion-y-derechos/pulseras-antimaltrato-tenian-problema-tecnico-ahora-fiscalia-europea-investiga-tambien-hay-uno-dinero",
+      "published": "2026-11-12T12:11:00+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   }
+  ],
+  "politica|asia": [
+   {
+    "title": "Israeli strike on Gaza hospital kills six Palestinians, health ministry says",
+    "summary": "An Israeli strike hit Nasser hospital in Gaza, killing six Palestinians according to the health ministry. The missile damaged surgical wards and intensive care units.",
+    "lang": "en",
+    "source": "BBC World",
+    "url": "https://www.bbc.co.uk/news/articles/ckzd9p7e4eqeo?at_medium=RSS&at_campaign=rss",
+    "published": "2026-11-12T12:26:01+00:00",
+    "event_id": "b8bb9c4cdad0",
+    "sources": [
+     {
+      "title": "Israeli strike on Gaza hospital kills six Palestinians, health ministry says",
+      "summary": "An Israeli strike hit Nasser hospital in Gaza, killing six Palestinians according to the health ministry. The missile damaged surgical wards and intensive care units.",
+      "lang": "en",
+      "source": "BBC World",
+      "url": "https://www.bbc.co.uk/news/articles/ckzd9p7e4eqeo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-12T12:26:01+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "Indonesian vice president, son of former leader, steps down over diploma scandal",
+    "summary": "Indonesia's vice president, son of former President Joko Widodo, resigned over a diploma scandal. He falsely claimed foreign education was equivalent to vocational high school.",
+    "lang": "en",
+    "source": "Japan Times",
+    "url": "https://www.japantimes.co.jp/news/2026/11/12/asia-pacific/politics/gibran-indonesia-diploma-scandal/",
+    "published": "2026-11-12T07:20:00+00:00",
+    "event_id": "f5c2b76eb6e0",
+    "sources": [
+     {
+      "title": "Indonesian vice president, son of former leader, steps down over diploma scandal",
+      "summary": "Indonesia's vice president, son of former President Joko Widodo, resigned over a diploma scandal. He falsely claimed foreign education was equivalent to vocational high school.",
+      "lang": "en",
+      "source": "Japan Times",
+      "url": "https://www.japantimes.co.jp/news/2026/11/12/asia-pacific/politics/gibran-indonesia-diploma-scandal/",
+      "published": "2026-11-12T07:20:00+00:00"
+     }
+    ],
+    "status": "updated",
+    "change_summary": "Indonesian vice president, son of former leader, steps down over diploma scandal",
+    "previous_date": "2026-11-11",
+    "previous_event_id": "f5c2b76eb6e0"
+   },
+   {
+    "title": "Indonesia police say enough evidence for treason charges in wiretap scandal",
+    "summary": "Indonesian police said they have sufficient evidence to pursue treason charges against four suspects in a wiretapping case. The scandal involves alleged surveillance of President Prabowo.",
+    "lang": "en",
+    "source": "South China Morning Post (Asia)",
+    "url": "https://www.scmp.com/news/asia/southeast-asia/article/3374237/indonesia-police-say-enough-evidence-treason-charges-wiretap-scandal",
+    "published": "2026-11-12T11:46:17+00:00",
+    "event_id": "f80ade7c4cec",
+    "sources": [
+     {
+      "title": "Indonesia police say enough evidence for treason charges in wiretap scandal",
+      "summary": "Indonesian police said they have sufficient evidence to pursue treason charges against four suspects in a wiretapping case. The scandal involves alleged surveillance of President Prabowo.",
+      "lang": "en",
+      "source": "South China Morning Post (Asia)",
+      "url": "https://www.scmp.com/news/asia/southeast-asia/article/3374237/indonesia-police-say-enough-evidence-treason-charges-wiretap-scandal",
+      "published": "2026-11-12T11:46:17+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "China's Xi Jinping renews calls for 'reunification' with Taiwan",
+    "summary": "Xi Jinping renewed calls for Taiwan's reunification, calling it inevitable, but avoided mentioning military force. Taiwan swiftly rejected Beijing's demands as tensions continue.",
+    "lang": "en",
+    "source": "Deutsche Welle World",
+    "url": "https://www.dw.com/en/china-s-xi-jinping-renews-calls-for-reunification-with-taiwan/a-79929738?maca=en-rss-en-world-4025-rdf",
+    "published": "2026-11-12T13:26:00+00:00",
+    "event_id": "2ad045b59c9a",
+    "sources": [
+     {
+      "title": "China's Xi Jinping renews calls for 'reunification' with Taiwan",
+      "summary": "Xi Jinping renewed calls for Taiwan's reunification, calling it inevitable, but avoided mentioning military force. Taiwan swiftly rejected Beijing's demands as tensions continue.",
+      "lang": "en",
+      "source": "Deutsche Welle World",
+      "url": "https://www.dw.com/en/china-s-xi-jinping-renews-calls-for-reunification-with-taiwan/a-79929738?maca=en-rss-en-world-4025-rdf",
+      "published": "2026-11-12T13:26:00+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "英內政大臣：港人參與民主抗議遭定罪 不妨礙符合資格者申請簽證",
+    "summary": "英国内政大臣表示香港人因参与民主抗议遭定罪不妨碍申请英国签证。符合资格者仍可申请赴英工作和生活。",
+    "lang": "zh",
+    "source": "中央社 CNA",
+    "url": "https://www.cna.com.tw/news/aopl/202611120352.aspx",
+    "published": "2026-11-12T12:45:13+00:00",
+    "event_id": "8be4c1f61052",
+    "sources": [
+     {
+      "title": "英內政大臣：港人參與民主抗議遭定罪 不妨礙符合資格者申請簽證",
+      "summary": "英国内政大臣表示香港人因参与民主抗议遭定罪不妨碍申请英国签证。符合资格者仍可申请赴英工作和生活。",
+      "lang": "zh",
+      "source": "中央社 CNA",
+      "url": "https://www.cna.com.tw/news/aopl/202611120352.aspx",
+      "published": "2026-11-12T12:45:13+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   }
+  ],
+  "politica|america": [
+   {
+    "title": "Democrat Scott Colom makes history as Mississippi's first black senator since 19th Century",
+    "summary": "Democrat Scott Colom won Mississippi's Senate seat, becoming the first Black senator since the 19th century. His victory extends Democratic Senate gains in a Trump-leaning state.",
+    "lang": "en",
+    "source": "BBC World",
+    "url": "https://www.bbc.co.uk/news/articles/cw7vppyr80eeo?at_medium=RSS&at_campaign=rss",
+    "published": "2026-11-12T12:56:55+00:00",
+    "event_id": "e4a5945bc19c",
+    "sources": [
+     {
+      "title": "Democrat Scott Colom makes history as Mississippi's first black senator since 19th Century",
+      "summary": "Democrat Scott Colom won Mississippi's Senate seat, becoming the first Black senator since the 19th century. His victory extends Democratic Senate gains in a Trump-leaning state.",
+      "lang": "en",
+      "source": "BBC World",
+      "url": "https://www.bbc.co.uk/news/articles/cw7vppyr80eeo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-12T12:56:55+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "Trump threatens to double tariffs on Mexico if it does not halt migrants",
+    "summary": "Trump threatened to double tariffs on Mexico if it fails to stop over a thousand migrants heading to the US. The threat targets border crossing pressures.",
+    "lang": "en",
+    "source": "South China Morning Post (Asia)",
+    "url": "https://www.scmp.com/news/world/united-states-canada/article/3374243/trump-threatens-double-tariffs-mexico-if-it-does-not-halt-migrants",
+    "published": "2026-11-12T12:45:51+00:00",
+    "event_id": "b3a3d64c1d68",
+    "sources": [
+     {
+      "title": "Trump threatens to double tariffs on Mexico if it does not halt migrants",
+      "summary": "Trump threatened to double tariffs on Mexico if it fails to stop over a thousand migrants heading to the US. The threat targets border crossing pressures.",
+      "lang": "en",
+      "source": "South China Morning Post (Asia)",
+      "url": "https://www.scmp.com/news/world/united-states-canada/article/3374243/trump-threatens-double-tariffs-mexico-if-it-does-not-halt-migrants",
+      "published": "2026-11-12T12:45:51+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "Brazil electoral court fines Meta, sees no deliberate election bias",
+    "summary": "Brazil's electoral court fined Meta over election complaints but found no deliberate bias. The court dismissed concerns about Meta's election interference following Lula's coalition complaint.",
+    "lang": "en",
+    "source": "Deutsche Welle World",
+    "url": "https://www.dw.com/en/brazil-electoral-court-fines-meta-sees-no-deliberate-election-bias/a-79920780?maca=en-rss-en-world-4025-rdf",
+    "published": "2026-11-11T15:17:00+00:00",
+    "event_id": "beed178a9628",
+    "sources": [
+     {
+      "title": "Brazil electoral court fines Meta, sees no deliberate election bias",
+      "summary": "Brazil's electoral court fined Meta over election complaints but found no deliberate bias. The court dismissed concerns about Meta's election interference following Lula's coalition complaint.",
+      "lang": "en",
+      "source": "Deutsche Welle World",
+      "url": "https://www.dw.com/en/brazil-electoral-court-fines-meta-sees-no-deliberate-election-bias/a-79920780?maca=en-rss-en-world-4025-rdf",
+      "published": "2026-11-11T15:17:00+00:00"
+     }
+    ],
+    "status": "unclear",
+    "change_summary": "",
+    "previous_date": "2026-11-11",
+    "previous_event_id": "beed178a9628"
+   },
+   {
+    "title": "Killing of journalist underscores deteriorating conditions in Ecuador",
+    "summary": "A journalist was killed in Ecuador amid escalating gang violence, highlighting the country's worsening security crisis. The murder underscores Latin America's violence epidemic.",
+    "lang": "en",
+    "source": "The Guardian World",
+    "url": "https://www.theguardian.com/world/2026/nov/11/ecuador-journalist-killing",
+    "published": "2026-11-11T14:00:52+00:00",
+    "event_id": "ef9e27d31c2b",
+    "sources": [
+     {
+      "title": "Killing of journalist underscores deteriorating conditions in Ecuador",
+      "summary": "A journalist was killed in Ecuador amid escalating gang violence, highlighting the country's worsening security crisis. The murder underscores Latin America's violence epidemic.",
+      "lang": "en",
+      "source": "The Guardian World",
+      "url": "https://www.theguardian.com/world/2026/nov/11/ecuador-journalist-killing",
+      "published": "2026-11-11T14:00:52+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "Trump admin loses fight to spy on random journalists’ LinkedIn DMs",
+    "summary": "A court ruled the Trump administration cannot spy on journalists' LinkedIn direct messages without legal process. The decision protects confidential sources essential to press freedom.",
+    "lang": "en",
+    "source": "Ars Technica",
+    "url": "https://arstechnica.com/tech-policy/2026/11/trump-admin-loses-fight-to-spy-on-random-journalists-linkedin-dms/",
+    "published": "2026-11-11T18:05:26+00:00",
+    "event_id": "b6506d640532",
+    "sources": [
+     {
+      "title": "Trump admin loses fight to spy on random journalists’ LinkedIn DMs",
+      "summary": "A court ruled the Trump administration cannot spy on journalists' LinkedIn direct messages without legal process. The decision protects confidential sources essential to press freedom.",
+      "lang": "en",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/tech-policy/2026/11/trump-admin-loses-fight-to-spy-on-random-journalists-linkedin-dms/",
+      "published": "2026-11-11T18:05:26+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   }
+  ],
+  "tecnologia|asia": [
+   {
+    "title": "日本無印良品 109 萬筆信用卡資料恐外洩，16 位卡號全都露",
+    "summary": "日本无印良品遭黑客入侵，约109万筆会员信用卡资料恐外泄。部分卡号信息完全曝露。",
+    "lang": "zh",
+    "source": "科技新報 TechNews",
+    "url": "https://finance.technews.tw/2026/11/12/muji-japan-1-09-million-credit-card-data-leak-16-digit-card-numbers-exposed/",
+    "published": "2026-11-12T10:00:26+00:00",
+    "event_id": "4191656d7d83",
+    "sources": [
+     {
+      "title": "日本無印良品 109 萬筆信用卡資料恐外洩，16 位卡號全都露",
+      "summary": "日本无印良品遭黑客入侵，约109万筆会员信用卡资料恐外泄。部分卡号信息完全曝露。",
+      "lang": "zh",
+      "source": "科技新報 TechNews",
+      "url": "https://finance.technews.tw/2026/11/12/muji-japan-1-09-million-credit-card-data-leak-16-digit-card-numbers-exposed/",
+      "published": "2026-11-12T10:00:26+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "駭客濫用AI代理滲透測試平臺AntiFox，發動AWS雲端憑證竊取攻擊",
+    "summary": "黑客滥用开源AI代理渗透测试平台AntiFox对AWS云环境发动攻击。基础设施托管于阿里云涉多起恶意入侵活动。",
+    "lang": "zh",
+    "source": "iThome 台灣",
+    "url": "https://www.ithome.com.tw/news/180465",
+    "published": "2026-11-12T06:11:39+00:00",
+    "event_id": "e547abdd5049",
+    "sources": [
+     {
+      "title": "駭客濫用AI代理滲透測試平臺AntiFox，發動AWS雲端憑證竊取攻擊",
+      "summary": "黑客滥用开源AI代理渗透测试平台AntiFox对AWS云环境发动攻击。基础设施托管于阿里云涉多起恶意入侵活动。",
+      "lang": "zh",
+      "source": "iThome 台灣",
+      "url": "https://www.ithome.com.tw/news/180465",
+      "published": "2026-11-12T06:11:39+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "Taiwan’s chipmaking giant TSMC to invest $1B in Anthropic, OpenAI",
+    "summary": "",
+    "lang": "en",
+    "source": "Ars Technica",
+    "url": "https://arstechnica.com/ai/2026/11/taiwans-chipmaking-giant-tsmc-to-invest-1b-in-anthropic-openai/",
+    "published": "2026-11-11T18:16:40+00:00",
+    "event_id": "d48e4f7a3199",
+    "sources": [
+     {
+      "title": "Taiwan’s chipmaking giant TSMC to invest $1B in Anthropic, OpenAI",
+      "summary": "",
+      "lang": "en",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/ai/2026/11/taiwans-chipmaking-giant-tsmc-to-invest-1b-in-anthropic-openai/",
+      "published": "2026-11-11T18:16:40+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "研究人員透露FortiClient重大漏洞Fortinet2Shell細節",
+    "summary": "研究人员披露FortiClient存在重大漏洞Fortinet2Shell细节。Fortinet已于11月10日修补包括该漏洞在内的100个安全问题。",
+    "lang": "zh",
+    "source": "iThome 台灣",
+    "url": "https://www.ithome.com.tw/news/180464",
+    "published": "2026-11-12T06:11:27+00:00",
+    "event_id": "ba26eb53b3f0",
+    "sources": [
+     {
+      "title": "研究人員透露FortiClient重大漏洞Fortinet2Shell細節",
+      "summary": "研究人员披露FortiClient存在重大漏洞Fortinet2Shell细节。Fortinet已于11月10日修补包括该漏洞在内的100个安全问题。",
+      "lang": "zh",
+      "source": "iThome 台灣",
+      "url": "https://www.ithome.com.tw/news/180464",
+      "published": "2026-11-12T06:11:27+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   }
+  ],
+  "tecnologia|europa": [
+   {
+    "title": "Loot boxes, influencers, and addictive features face an EU crackdown",
+    "summary": "The EU is imposing sweeping rules targeting loot boxes, influencers, and addictive features in gaming and social media. Regulations aim to make online experiences fairer for users.",
+    "lang": "en",
+    "source": "The Verge",
+    "url": "https://www.theverge.com/policy/1031575/digital-fairness-act-eu-dfa-consumer-protection",
+    "published": "2026-11-11T18:13:52+00:00",
+    "event_id": "e85f211719d4",
+    "sources": [
+     {
+      "title": "Loot boxes, influencers, and addictive features face an EU crackdown",
+      "summary": "The EU is imposing sweeping rules targeting loot boxes, influencers, and addictive features in gaming and social media. Regulations aim to make online experiences fairer for users.",
+      "lang": "en",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/policy/1031575/digital-fairness-act-eu-dfa-consumer-protection",
+      "published": "2026-11-11T18:13:52+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   }
+  ]
+ }
+}
