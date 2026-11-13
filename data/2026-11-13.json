@@ -1,0 +1,397 @@
+{
+ "date": "2026-11-13",
+ "generated_at": "2026-11-13T13:20:57.080111+00:00",
+ "mode": "headlines-only",
+ "cost_usd": 0.0,
+ "selection": {
+  "model": null,
+  "passes_ok": 0,
+  "cost_usd": 0.0
+ },
+ "events": {
+  "mode": "unavailable",
+  "cost_usd": 0.0
+ },
+ "market": null,
+ "failed_sources": [],
+ "cells": {
+  "economia|asia": [
+   {
+    "title": "Quad leaders eye Manila meeting on economic, strategic security",
+    "summary": "",
+    "lang": "en",
+    "source": "Nikkei Asia",
+    "url": "https://asia.nikkei.com/politics/international-relations/indo-pacific/quad-leaders-eye-manila-meeting-on-economic-strategic-security",
+    "published": null
+   },
+   {
+    "title": "ASEAN, Quad leaders meet at Manila summits: 5 things to watch",
+    "summary": "",
+    "lang": "en",
+    "source": "Nikkei Asia",
+    "url": "https://asia.nikkei.com/politics/international-relations/asean-quad-leaders-meet-at-manila-summits-5-things-to-watch",
+    "published": null
+   },
+   {
+    "title": "MSCI downgrade threat exposes Indonesia's patronage problem",
+    "summary": "",
+    "lang": "en",
+    "source": "Nikkei Asia",
+    "url": "https://asia.nikkei.com/opinion/msci-downgrade-threat-exposes-indonesia-s-patronage-problem",
+    "published": null
+   },
+   {
+    "title": "Pakistan to link Reko Diq mine to Karachi port by rail 'in 3 years'",
+    "summary": "",
+    "lang": "en",
+    "source": "Nikkei Asia",
+    "url": "https://asia.nikkei.com/editor-s-picks/interview/pakistan-to-link-reko-diq-mine-to-karachi-port-by-rail-in-3-years",
+    "published": null
+   },
+   {
+    "title": "El Nino, biofuel regulations squeeze Indonesian palm oil producers",
+    "summary": "",
+    "lang": "en",
+    "source": "Nikkei Asia",
+    "url": "https://asia.nikkei.com/business/markets/commodities/el-nino-biofuel-regulations-squeeze-indonesian-palm-oil-producers",
+    "published": null
+   }
+  ],
+  "economia|europa": [
+   {
+    "title": "Los que no hicieron huelga el 11-N pero llenaron las calles: “No podía perder un día de sueldo”",
+    "summary": "",
+    "lang": "es",
+    "source": "El País Economía",
+    "url": "https://elpais.com/economia/2026-11-13/los-que-no-hicieron-huelga-el-11-n-pero-llenaron-las-calles-no-podia-perder-un-dia-de-sueldo.html",
+    "published": "2026-11-13T04:45:01+00:00"
+   },
+   {
+    "title": "Aznar percibe una retribución récord del grupo de medios de Murdoch y supera ya los cinco millones de dólares",
+    "summary": "",
+    "lang": "es",
+    "source": "El País Economía",
+    "url": "https://elpais.com/economia/2026-11-13/aznar-percibe-una-retribucion-record-del-grupo-de-medios-de-murdoch-y-supera-ya-los-cinco-millones-de-dolares.html",
+    "published": "2026-11-13T04:45:00+00:00"
+   },
+   {
+    "title": "El Tribunal Supremo de Rumanía absuelve definitivamente a Digi y a sus directivos por corrupción",
+    "summary": "",
+    "lang": "es",
+    "source": "El País Economía",
+    "url": "https://cincodias.elpais.com/companias/2026-11-13/el-tribunal-supremo-de-rumania-absuelve-definitivamente-a-digi-y-a-sus-directivos-por-corrupcion.html",
+    "published": "2026-11-13T10:07:32+00:00"
+   },
+   {
+    "title": "Los salarios de la banca multiplican hasta por cuatro los del sector servicios, la hostelería y el comercio",
+    "summary": "",
+    "lang": "es",
+    "source": "El País Economía",
+    "url": "https://elpais.com/economia/2026-11-13/los-salarios-de-la-banca-multiplican-hasta-por-cuatro-los-del-sector-servicios-la-hosteleria-y-el-comercio.html",
+    "published": "2026-11-13T04:45:01+00:00"
+   },
+   {
+    "title": "El giro del ‘shock’ energético ante las elecciones norteamericanas",
+    "summary": "",
+    "lang": "es",
+    "source": "El País Economía",
+    "url": "https://cincodias.elpais.com/opinion/2026-11-13/el-giro-del-shock-energetico-ante-las-elecciones-norteamericanas.html",
+    "published": "2026-11-13T04:45:01+00:00"
+   }
+  ],
+  "economia|america": [
+   {
+    "title": "Federal Reserve Board announces pricing, effective January 1, 2027, for payment services the Federal Reserve Banks provide to banks and credit unions, and changes to streamline and adjust their check",
+    "summary": "",
+    "lang": "en",
+    "source": "Reserva Federal (notas de prensa)",
+    "url": "https://www.federalreserve.gov/newsevents/pressreleases/other20261112a.htm",
+    "published": "2026-11-12T18:30:00+00:00"
+   },
+   {
+    "title": "Federal Reserve announces revised tentative schedule of Federal Open Market Committee meetings in 2027",
+    "summary": "",
+    "lang": "en",
+    "source": "Reserva Federal (notas de prensa)",
+    "url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20261112a.htm",
+    "published": "2026-11-12T17:45:00+00:00"
+   },
+   {
+    "title": "Federal Reserve Board issues enforcement action with former employee of United Community Bank",
+    "summary": "",
+    "lang": "en",
+    "source": "Reserva Federal (notas de prensa)",
+    "url": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20261112a.htm",
+    "published": "2026-11-12T16:00:00+00:00"
+   },
+   {
+    "title": "US lawmakers pile pressure on Lutnick as Nvidia scandal widens",
+    "summary": "",
+    "lang": "en",
+    "source": "Financial Times",
+    "url": "https://www.ft.com/content/190e5eea-7461-4b26-8b69-17a3288e31d4?syn-25a6b1a6=1",
+    "published": "2026-11-12T23:35:11+00:00"
+   },
+   {
+    "title": "OK who just made $200mn shorting Nvidia ahead of Jensxit?",
+    "summary": "",
+    "lang": "en",
+    "source": "Financial Times",
+    "url": "https://www.ft.com/content/13c485dc-2d51-4920-bd1f-13a11c79d96c",
+    "published": "2026-11-13T11:29:14+00:00"
+   }
+  ],
+  "politica|asia": [
+   {
+    "title": "黄仁勋因何跌落神坛？傲慢与自负",
+    "summary": "",
+    "lang": "zh",
+    "source": "纽约时报中文网",
+    "url": "https://cn.nytimes.com/opinion/20261113/jensen-huang-nvidia/?utm_source=RSS",
+    "published": "2026-11-12T18:05:53+00:00"
+   },
+   {
+    "title": "黄仁勋丑闻引发人工智能“玩梗”热潮",
+    "summary": "",
+    "lang": "zh",
+    "source": "纽约时报中文网",
+    "url": "https://cn.nytimes.com/usa/20261113/nvidia-ceo-huang-ai-memes/?utm_source=RSS",
+    "published": "2026-11-12T17:13:46+00:00"
+   },
+   {
+    "title": "特朗普曾敦促黄仁勋为保住英伟达CEO职位而战",
+    "summary": "",
+    "lang": "zh",
+    "source": "纽约时报中文网",
+    "url": "https://cn.nytimes.com/usa/20261113/trump-jensen-huang-nvidia/?utm_source=RSS",
+    "published": "2026-11-13T03:24:19+00:00"
+   },
+   {
+    "title": "谁能接替黄仁勋？英伟达可以考虑这些人",
+    "summary": "",
+    "lang": "zh",
+    "source": "纽约时报中文网",
+    "url": "https://cn.nytimes.com/business/20261113/jensen-huang-nvidia-successor/?utm_source=RSS",
+    "published": "2026-11-13T02:41:22+00:00"
+   },
+   {
+    "title": "关于英伟达临时CEO克雷斯，我们知道些什么",
+    "summary": "",
+    "lang": "zh",
+    "source": "纽约时报中文网",
+    "url": "https://cn.nytimes.com/technology/20261113/nvidia-colette-kress-jensen-huang/?utm_source=RSS",
+    "published": "2026-11-13T02:04:12+00:00"
+   }
+  ],
+  "politica|europa": [
+   {
+    "title": "Scott Colom, the Black Democrat who claimed a stunning Senate win in Mississippi",
+    "summary": "",
+    "lang": "en",
+    "source": "Le Monde International",
+    "url": "https://www.lemonde.fr/en/international/article/2026/11/13/scott-colom-the-black-democrat-who-claimed-a-stunning-senate-win-in-mississippi_6779797_4.html",
+    "published": "2026-11-13T11:39:51+00:00"
+   },
+   {
+    "title": "Norway's top court rules oil licenses invalid in landmark ruling",
+    "summary": "",
+    "lang": "en",
+    "source": "Le Monde International",
+    "url": "https://www.lemonde.fr/en/international/article/2026/11/13/norway-s-top-court-rules-oil-licences-invalid-in-landmark-ruling_6779764_4.html",
+    "published": "2026-11-13T11:36:32+00:00"
+   },
+   {
+    "title": "US lawmakers summon Nvidia ex-CEO after affair with suspected spy",
+    "summary": "",
+    "lang": "en",
+    "source": "Le Monde International",
+    "url": "https://www.lemonde.fr/en/international/article/2026/11/13/us-lawmakers-summon-nvidia-ex-ceo-after-affair-with-suspected-spy_6779566_4.html",
+    "published": "2026-11-13T07:37:12+00:00"
+   },
+   {
+    "title": "Two sexual violence cases reignite questions about 'culture of silence' in UK's media and culture sectors",
+    "summary": "",
+    "lang": "en",
+    "source": "Le Monde International",
+    "url": "https://www.lemonde.fr/en/international/article/2026/11/13/two-sexual-assault-cases-reignite-questions-about-culture-of-silence-in-uk-s-media-and-culture-sectors_6779533_4.html",
+    "published": "2026-11-13T04:46:17+00:00"
+   },
+   {
+    "title": "US envoys say Europeans will be included in upcoming Ukraine peace talks",
+    "summary": "",
+    "lang": "en",
+    "source": "Le Monde International",
+    "url": "https://www.lemonde.fr/en/international/article/2026/11/13/us-envoys-say-europeans-will-be-included-in-upcoming-ukraine-peace-talks_6779500_4.html",
+    "published": "2026-11-13T04:28:40+00:00"
+   }
+  ],
+  "politica|america": [
+   {
+    "title": "Nvidia CEO steps down. And, Sen. Chris Van Hollen to run for majority leader",
+    "summary": "",
+    "lang": "en",
+    "source": "NPR World",
+    "url": "https://www.npr.org/2026/11/13/g-s1-153532/up-first-newsletter-nvidia-jensen-huang-colette-kress-ukraine-russia-chris-van-hollen",
+    "published": "2026-11-13T12:07:12+00:00"
+   },
+   {
+    "title": "U.S. envoys meet with Putin in the Kremlin after Ukraine talks in Abu Dhabi",
+    "summary": "",
+    "lang": "en",
+    "source": "NPR World",
+    "url": "https://www.npr.org/2026/11/12/nx-s1-6038809/us-envoys-meet-putin-russia-ukraine-war-talks",
+    "published": "2026-11-12T15:26:34+00:00"
+   },
+   {
+    "title": "Indonesia's VP resigns as his eligibility and academic credentials are questioned",
+    "summary": "",
+    "lang": "en",
+    "source": "NPR World",
+    "url": "https://www.npr.org/2026/11/12/g-s1-153190/indonesias-vp-resigns-as-his-eligibility-and-academic-credentials-are-questioned",
+    "published": "2026-11-12T14:22:50+00:00"
+   },
+   {
+    "title": "Colom wins Mississippi Senate race. And, White House warns Dems over future probes",
+    "summary": "",
+    "lang": "en",
+    "source": "NPR World",
+    "url": "https://www.npr.org/2026/11/12/g-s1-153171/up-first-newsletter-scott-colom-trump-democrats-ukraine-russia",
+    "published": "2026-11-12T12:15:48+00:00"
+   },
+   {
+    "title": "Former Ukrainian foreign minister discusses how to bridge gaps between Ukraine, Russia",
+    "summary": "",
+    "lang": "en",
+    "source": "NPR World",
+    "url": "https://www.npr.org/2026/11/12/nx-s1-6037759/ukraine-ex-foreign-minister",
+    "published": "2026-11-12T09:40:31+00:00"
+   }
+  ],
+  "tecnologia|asia": [
+   {
+    "title": "跑起來，別用走的！皮衣黃仁勳再也不上台演講的 AI 時代就這樣跑步來臨",
+    "summary": "",
+    "lang": "zh",
+    "source": "科技新報 TechNews",
+    "url": "https://finance.technews.tw/2026/11/13/the-ai-%e2%80%8b%e2%80%8bera-is-rapidly-approaching-with-jensen-huang-no-longer-giving-speeches-on-stage/",
+    "published": "2026-11-13T12:45:40+00:00"
+   },
+   {
+    "title": "聯手 Palantir 與台灣廠商，L3Harris 展示聯合全領域作戰網路",
+    "summary": "",
+    "lang": "zh",
+    "source": "科技新報 TechNews",
+    "url": "https://technews.tw/2026/11/13/l3harris-published-its-jado-tech-in-taiwan-for-the-first-time/",
+    "published": "2026-11-13T12:40:41+00:00"
+   },
+   {
+    "title": "黃仁勳傳奇造就身價 8 億研發人才，財務長臨危接棒留才成關鍵課題",
+    "summary": "",
+    "lang": "zh",
+    "source": "科技新報 TechNews",
+    "url": "https://finance.technews.tw/2026/11/13/jensen-huangs-legendary-success-has-created-a-net-worth-of-800-million-for-nvidias-rd-talent/",
+    "published": "2026-11-13T12:00:08+00:00"
+   },
+   {
+    "title": "BBC：美國會議員要求黃仁勳 12/3 赴參議院作證",
+    "summary": "",
+    "lang": "zh",
+    "source": "科技新報 TechNews",
+    "url": "https://finance.technews.tw/2026/11/13/bbc-us-lawmakers-request-jensen-huang-testify-senate-december-3rd/",
+    "published": "2026-11-13T10:30:47+00:00"
+   },
+   {
+    "title": "酷澎火箭跨境擴增藍牙商品，電子簽章大幅簡化申報流程",
+    "summary": "",
+    "lang": "zh",
+    "source": "科技新報 TechNews",
+    "url": "https://ccc.technews.tw/2026/11/13/coupang-rocket-overseas-expands-its-selection-by-more-than-200-bluetooth-items/",
+    "published": "2026-11-13T09:59:09+00:00"
+   }
+  ],
+  "tecnologia|europa": [
+   {
+    "title": "Introducing Gemini 4 Hydrogen",
+    "summary": "",
+    "lang": "en",
+    "source": "Google DeepMind Blog",
+    "url": "https://deepmind.google/blog/introducing-gemini-4-hydrogen/",
+    "published": "2026-11-12T18:00:50+00:00"
+   },
+   {
+    "title": "El PP está intentando generar su propio “perrosanxe” convirtiendo a Feijóo en Anuel con Anotop At",
+    "summary": "",
+    "lang": "es",
+    "source": "Xataka",
+    "url": "https://www.xataka.com/magnet/pp-esta-intentando-generar-su-propio-perrosanxe-convirtiendo-a-feijoo-anuel-anotop-at",
+    "published": "2026-11-13T13:01:26+00:00"
+   },
+   {
+    "title": "\"Solo hay dos maneras de vivir la vida...\": una de las frases más bonitas de Einstein tiene un problema gordo, pero a la gente parece darle igual",
+    "summary": "",
+    "lang": "es",
+    "source": "Xataka",
+    "url": "https://www.xataka.com/magnet/solo-hay-dos-maneras-vivir-vida-frases-bonitas-einstein-tiene-problema-gordo-a-gente-parece-darle-igual",
+    "published": "2026-11-13T12:50:49+00:00"
+   },
+   {
+    "title": "El ciclo de día y noche de 'GTA 6' durará el triple que en 'GTA 5'",
+    "summary": "",
+    "lang": "es",
+    "source": "Xataka",
+    "url": "https://www.xataka.com/videojuegos/ciclo-dia-noche-gta-6-durara-triple-que-gta-5",
+    "published": "2026-11-13T12:31:22+00:00"
+   },
+   {
+    "title": "SpaceX va a intentar atrapar con unos brazos gigantes las dos partes de Starship. Nadie ha hecho algo así jamás",
+    "summary": "",
+    "lang": "es",
+    "source": "Xataka",
+    "url": "https://www.xataka.com/espacio/spacex-va-a-intentar-atrapar-unos-brazos-gigantes-dos-partes-starship-nadie-ha-hecho-algo-asi-jamas",
+    "published": "2026-11-13T12:15:24+00:00"
+   }
+  ],
+  "tecnologia|america": [
+   {
+    "title": "More autonomy, fewer NDAs: Volunteers have new requests for brain implant trials",
+    "summary": "",
+    "lang": "en",
+    "source": "MIT Technology Review",
+    "url": "https://www.technologyreview.com/2026/11/13/1148474/more-autonomy-fewer-ndas-volunteers-have-new-requests-for-brain-implant-trials/",
+    "published": "2026-11-13T10:00:00+00:00"
+   },
+   {
+    "title": "Silicon Valley claims to know the future. So why did it get the midterms so wrong?",
+    "summary": "",
+    "lang": "en",
+    "source": "MIT Technology Review",
+    "url": "https://www.technologyreview.com/2026/11/13/1148498/silicon-valley-claims-to-know-the-future-so-why-did-it-get-the-midterms-so-wrong/",
+    "published": "2026-11-13T10:00:00+00:00"
+   },
+   {
+    "title": "Nvidia privately confirmed it could track chips to fight smuggling, even as industry publicly questioned feasibility",
+    "summary": "",
+    "lang": "en",
+    "source": "MIT Technology Review",
+    "url": "https://www.technologyreview.com/2026/11/12/1148483/nvidia-chip-tracking/",
+    "published": "2026-11-12T20:16:24+00:00"
+   },
+   {
+    "title": "The Download: COP31’s climate challenge and the quest for immortality",
+    "summary": "",
+    "lang": "en",
+    "source": "MIT Technology Review",
+    "url": "https://www.technologyreview.com/2026/11/12/1148444/the-download-cop31-climate-talks-cognitive-immortality/",
+    "published": "2026-11-12T13:10:00+00:00"
+   },
+   {
+    "title": "Rocket Report: Starship set for historic test flight; a century of Electron",
+    "summary": "",
+    "lang": "en",
+    "source": "Ars Technica",
+    "url": "https://arstechnica.com/space/2026/11/rocket-report-starship-set-for-historic-test-flight-a-century-of-electron/",
+    "published": "2026-11-13T12:00:40+00:00"
+   }
+  ]
+ }
+}
