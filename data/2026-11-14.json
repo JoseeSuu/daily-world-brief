@@ -1,0 +1,763 @@
+{
+ "date": "2026-11-14",
+ "generated_at": "2026-11-14T12:26:06.127702+00:00",
+ "mode": "full",
+ "cost_usd": 0.0444,
+ "selection": {
+  "model": "claude-haiku-5-5",
+  "effort": "high",
+  "passes": 3,
+  "passes_ok": 3,
+  "cost_usd": 0.0195
+ },
+ "events": {
+  "mode": "full",
+  "compared_with": "2026-11-13",
+  "articles": 34,
+  "uncompared_articles": 0,
+  "events": 30,
+  "cost_usd": 0.0152
+ },
+ "market": null,
+ "failed_sources": [],
+ "cells": {
+  "economia|asia": [
+   {
+    "title": "US Treasury bought nearly $500mn in yen during joint July forex intervention",
+    "summary": "The US Treasury purchased nearly $500 million in yen during a joint forex intervention in July to stabilize currency markets.",
+    "lang": "en",
+    "source": "Nikkei Asia",
+    "url": "https://asia.nikkei.com/business/markets/currencies/us-treasury-bought-nearly-500mn-in-yen-during-joint-july-forex-intervention",
+    "published": null,
+    "event_id": "d75674f37e60",
+    "sources": [
+     {
+      "title": "US Treasury bought nearly $500mn in yen during joint July forex intervention",
+      "summary": "The US Treasury purchased nearly $500 million in yen during a joint forex intervention in July to stabilize currency markets.",
+      "lang": "en",
+      "source": "Nikkei Asia",
+      "url": "https://asia.nikkei.com/business/markets/currencies/us-treasury-bought-nearly-500mn-in-yen-during-joint-july-forex-intervention",
+      "published": null
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "China, US Discuss Tariffs in First Meeting of Trade Council",
+    "summary": "China and the US held their first video meeting under a new trade council to discuss tariffs and economic policy coordination.",
+    "lang": "en",
+    "source": "Bloomberg Economics",
+    "url": "https://www.bloomberg.com/news/articles/2026-11-14/china-the-us-discuss-tariffs-in-first-meeting-of-trade-council",
+    "published": "2026-11-14T07:46:24+00:00",
+    "event_id": "712dfc40b27d",
+    "sources": [
+     {
+      "title": "China, US Discuss Tariffs in First Meeting of Trade Council",
+      "summary": "China and the US held their first video meeting under a new trade council to discuss tariffs and economic policy coordination.",
+      "lang": "en",
+      "source": "Bloomberg Economics",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-14/china-the-us-discuss-tariffs-in-first-meeting-of-trade-council",
+      "published": "2026-11-14T07:46:24+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "China to Meet All New Power Demand With Clean Energy, CCTV Says",
+    "summary": "China is expected to meet all future power demand growth with clean energy generation by 2030, according to state media.",
+    "lang": "en",
+    "source": "Bloomberg Markets",
+    "url": "https://www.bloomberg.com/news/articles/2026-11-14/china-to-meet-all-new-power-demand-with-clean-energy-cctv-says",
+    "published": "2026-11-14T04:05:34+00:00",
+    "event_id": "8dffdb46ca14",
+    "sources": [
+     {
+      "title": "China to Meet All New Power Demand With Clean Energy, CCTV Says",
+      "summary": "China is expected to meet all future power demand growth with clean energy generation by 2030, according to state media.",
+      "lang": "en",
+      "source": "Bloomberg Markets",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-14/china-to-meet-all-new-power-demand-with-clean-energy-cctv-says",
+      "published": "2026-11-14T04:05:34+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "China’s Market Regulator Warns of Global Asset Repricing Risks",
+    "summary": "China's market regulator warned that global capital markets face asset repricing risks amid geopolitical tensions and policy uncertainty.",
+    "lang": "en",
+    "source": "Bloomberg Markets",
+    "url": "https://www.bloomberg.com/news/articles/2026-11-14/china-s-market-regulator-warns-of-global-asset-repricing-risks",
+    "published": "2026-11-14T05:20:13+00:00",
+    "event_id": "5593047e6769",
+    "sources": [
+     {
+      "title": "China’s Market Regulator Warns of Global Asset Repricing Risks",
+      "summary": "China's market regulator warned that global capital markets face asset repricing risks amid geopolitical tensions and policy uncertainty.",
+      "lang": "en",
+      "source": "Bloomberg Markets",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-14/china-s-market-regulator-warns-of-global-asset-repricing-risks",
+      "published": "2026-11-14T05:20:13+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "Blackstone’s AirTrunk Advances $11 Billion India Data Center Bet",
+    "summary": "Blackstone's AirTrunk filed plans for two hyperscale data center campuses in southern India worth approximately $11 billion.",
+    "lang": "en",
+    "source": "Bloomberg Economics",
+    "url": "https://www.bloomberg.com/news/articles/2026-11-14/blackstone-s-airtrunk-advances-11-billion-india-data-center-bet",
+    "published": "2026-11-14T06:08:44+00:00",
+    "event_id": "d6d7f4c154f2",
+    "sources": [
+     {
+      "title": "Blackstone’s AirTrunk Advances $11 Billion India Data Center Bet",
+      "summary": "Blackstone's AirTrunk filed plans for two hyperscale data center campuses in southern India worth approximately $11 billion.",
+      "lang": "en",
+      "source": "Bloomberg Economics",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-14/blackstone-s-airtrunk-advances-11-billion-india-data-center-bet",
+      "published": "2026-11-14T06:08:44+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "Japan considers setting five-year defense spending plan at ¥60 trillion",
+    "summary": "Japan's Defense Ministry proposes a five-year defense spending plan of ¥60 trillion, though estimates suggest ¥70-80 trillion may be necessary.",
+    "lang": "en",
+    "source": "Japan Times",
+    "url": "https://www.japantimes.co.jp/news/2026/11/14/japan/politics/defense-spending-defense-ministry-finance-ministry/",
+    "published": "2026-11-14T02:21:00+00:00",
+    "event_id": "16adaf8afb2a",
+    "sources": [
+     {
+      "title": "Japan considers setting five-year defense spending plan at ¥60 trillion",
+      "summary": "Japan's Defense Ministry proposes a five-year defense spending plan of ¥60 trillion, though estimates suggest ¥70-80 trillion may be necessary.",
+      "lang": "en",
+      "source": "Japan Times",
+      "url": "https://www.japantimes.co.jp/news/2026/11/14/japan/politics/defense-spending-defense-ministry-finance-ministry/",
+      "published": "2026-11-14T02:21:00+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   }
+  ],
+  "economia|europa": [
+   {
+    "title": "Russian Economy Slows as Ukrainian Strikes Weigh on Output",
+    "summary": "Russia's economy slowed in the third quarter due to Ukrainian strikes on industrial facilities and disrupted logistics networks.",
+    "lang": "en",
+    "source": "Bloomberg Economics",
+    "url": "https://www.bloomberg.com/news/articles/2026-11-13/russian-economy-slows-as-ukrainian-strikes-weigh-on-output",
+    "published": "2026-11-13T16:11:40+00:00",
+    "event_id": "72a81eda889a",
+    "sources": [
+     {
+      "title": "Russian Economy Slows as Ukrainian Strikes Weigh on Output",
+      "summary": "Russia's economy slowed in the third quarter due to Ukrainian strikes on industrial facilities and disrupted logistics networks.",
+      "lang": "en",
+      "source": "Bloomberg Economics",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-13/russian-economy-slows-as-ukrainian-strikes-weigh-on-output",
+      "published": "2026-11-13T16:11:40+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "BoE chief economist says further rate rises needed to combat inflation",
+    "summary": "Bank of England chief economist Huw Pill said further interest rate increases are needed to combat inflation beyond the recent quarter-point rise.",
+    "lang": "en",
+    "source": "FT Global Economy",
+    "url": "https://www.ft.com/content/806b0158-41c5-4db2-ac33-93621f72297b?syn-25a6b1a6=1",
+    "published": "2026-11-14T05:00:46+00:00",
+    "event_id": "68dd58d39b6e",
+    "sources": [
+     {
+      "title": "BoE chief economist says further rate rises needed to combat inflation",
+      "summary": "Bank of England chief economist Huw Pill said further interest rate increases are needed to combat inflation beyond the recent quarter-point rise.",
+      "lang": "en",
+      "source": "FT Global Economy",
+      "url": "https://www.ft.com/content/806b0158-41c5-4db2-ac33-93621f72297b?syn-25a6b1a6=1",
+      "published": "2026-11-14T05:00:46+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "Nagel Says ‘Highly Probable’ That ECB Will Have to Act Again",
+    "summary": "European Central Bank Governing Council member Joachim Nagel stated rate increases are highly probable due to upward pressure on consumer prices.",
+    "lang": "en",
+    "source": "Bloomberg Economics",
+    "url": "https://www.bloomberg.com/news/articles/2026-11-13/nagel-says-highly-probable-that-ecb-will-have-to-act-again",
+    "published": "2026-11-13T16:32:05+00:00",
+    "event_id": "f92152ec5a5d",
+    "sources": [
+     {
+      "title": "Nagel Says ‘Highly Probable’ That ECB Will Have to Act Again",
+      "summary": "European Central Bank Governing Council member Joachim Nagel stated rate increases are highly probable due to upward pressure on consumer prices.",
+      "lang": "en",
+      "source": "Bloomberg Economics",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-13/nagel-says-highly-probable-that-ecb-will-have-to-act-again",
+      "published": "2026-11-13T16:32:05+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   }
+  ],
+  "politica|europa": [
+   {
+    "title": "German coalition disagreements hold up ECB jobs deal",
+    "summary": "German Chancellor and Finance Minister disagree on a candidate for an ECB executive board vacancy, delaying the central bank appointment.",
+    "lang": "en",
+    "source": "FT Global Economy",
+    "url": "https://www.ft.com/content/bcfa33cc-535a-4692-ae5f-39e144b78799?syn-25a6b1a6=1",
+    "published": "2026-11-13T16:15:25+00:00",
+    "event_id": "598ea984151f",
+    "sources": [
+     {
+      "title": "German coalition disagreements hold up ECB jobs deal",
+      "summary": "German Chancellor and Finance Minister disagree on a candidate for an ECB executive board vacancy, delaying the central bank appointment.",
+      "lang": "en",
+      "source": "FT Global Economy",
+      "url": "https://www.ft.com/content/bcfa33cc-535a-4692-ae5f-39e144b78799?syn-25a6b1a6=1",
+      "published": "2026-11-13T16:15:25+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "US has floated Ukraine ceding Donbas for Nato membership, Zelensky says",
+    "summary": "Ukrainian President Zelensky stated US envoys proposed Ukraine cede Donbas region in exchange for NATO membership to end the war.",
+    "lang": "en",
+    "source": "BBC World",
+    "url": "https://www.bbc.co.uk/news/articles/cwvg2l312ylqo?at_medium=RSS&at_campaign=rss",
+    "published": "2026-11-14T11:41:20+00:00",
+    "event_id": "1476d670af2a",
+    "sources": [
+     {
+      "title": "US has floated Ukraine ceding Donbas for Nato membership, Zelensky says",
+      "summary": "Ukrainian President Zelensky stated US envoys proposed Ukraine cede Donbas region in exchange for NATO membership to end the war.",
+      "lang": "en",
+      "source": "BBC World",
+      "url": "https://www.bbc.co.uk/news/articles/cwvg2l312ylqo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-14T11:41:20+00:00"
+     },
+     {
+      "title": "Ukraine: Zelenskyy says security deal could go to referendum",
+      "summary": "Ukrainian President Zelenskyy said a US security deal proposal could potentially be put to a referendum.",
+      "lang": "en",
+      "source": "Deutsche Welle World",
+      "url": "https://www.dw.com/en/ukraine-zelenskyy-says-security-deal-could-go-to-referendum/a-79947535?maca=en-rss-en-world-4025-rdf",
+      "published": "2026-11-14T11:40:00+00:00"
+     }
+    ],
+    "status": "updated",
+    "change_summary": "US has floated Ukraine ceding Donbas for Nato membership, Zelensky says",
+    "previous_date": "2026-11-13",
+    "previous_event_id": ""
+   },
+   {
+    "title": "Europa descarta nombrar un solo representante y designa un grupo negociador para las conversaciones de paz sobre Ucrania",
+    "summary": "Europa designa un grupo negociador en lugar de un único representante para las conversaciones de paz sobre Ucrania, mientras Washington presiona para aumentar la participación europea y Moscú mantiene su resistencia.",
+    "lang": "es",
+    "source": "El País Internacional",
+    "url": "https://elpais.com/internacional/2026-11-13/el-enviado-de-trump-asegura-que-putin-acepta-que-europa-se-sume-a-las-negociaciones-de-paz-sobre-ucrania.html",
+    "published": "2026-11-13T20:18:52+00:00",
+    "event_id": "d52f14372225",
+    "sources": [
+     {
+      "title": "Europa descarta nombrar un solo representante y designa un grupo negociador para las conversaciones de paz sobre Ucrania",
+      "summary": "Europa designa un grupo negociador en lugar de un único representante para las conversaciones de paz sobre Ucrania, mientras Washington presiona para aumentar la participación europea y Moscú mantiene su resistencia.",
+      "lang": "es",
+      "source": "El País Internacional",
+      "url": "https://elpais.com/internacional/2026-11-13/el-enviado-de-trump-asegura-que-putin-acepta-que-europa-se-sume-a-las-negociaciones-de-paz-sobre-ucrania.html",
+      "published": "2026-11-13T20:18:52+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "UK-EU breakthrough will allow airport-style checks at Eurotunnel to avoid border ‘chaos’",
+    "summary": "UK and EU reached agreement allowing airport-style passport and fingerprinting checks at Eurotunnel without requiring passengers to exit vehicles.",
+    "lang": "en",
+    "source": "The Guardian World",
+    "url": "https://www.theguardian.com/travel/2026/nov/14/eurotunnel-drive-in-fingerprint-trial-folkestone-calais-border",
+    "published": "2026-11-14T07:00:38+00:00",
+    "event_id": "1ee028689038",
+    "sources": [
+     {
+      "title": "UK-EU breakthrough will allow airport-style checks at Eurotunnel to avoid border ‘chaos’",
+      "summary": "UK and EU reached agreement allowing airport-style passport and fingerprinting checks at Eurotunnel without requiring passengers to exit vehicles.",
+      "lang": "en",
+      "source": "The Guardian World",
+      "url": "https://www.theguardian.com/travel/2026/nov/14/eurotunnel-drive-in-fingerprint-trial-folkestone-calais-border",
+      "published": "2026-11-14T07:00:38+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "Hungarian authorities uncover $20m during probe of Orbán-era minister",
+    "summary": "Hungarian authorities discovered $20 million during an investigation of an Orbán-era minister as part of Prime Minister Magyar's anti-corruption campaign.",
+    "lang": "en",
+    "source": "BBC World",
+    "url": "https://www.bbc.co.uk/news/articles/ckjwj03w4w0qo?at_medium=RSS&at_campaign=rss",
+    "published": "2026-11-14T10:42:20+00:00",
+    "event_id": "f8a8437145fb",
+    "sources": [
+     {
+      "title": "Hungarian authorities uncover $20m during probe of Orbán-era minister",
+      "summary": "Hungarian authorities discovered $20 million during an investigation of an Orbán-era minister as part of Prime Minister Magyar's anti-corruption campaign.",
+      "lang": "en",
+      "source": "BBC World",
+      "url": "https://www.bbc.co.uk/news/articles/ckjwj03w4w0qo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-14T10:42:20+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   }
+  ],
+  "economia|america": [
+   {
+    "title": "US Treasuries record worst week since Trump’s ‘liberation day’",
+    "summary": "US Treasuries recorded their worst week since Trump's election after higher-than-expected inflation data and hawkish Federal Reserve comments.",
+    "lang": "en",
+    "source": "FT Global Economy",
+    "url": "https://www.ft.com/content/7bebace2-dc87-410a-ae29-ffd9f3176def?syn-25a6b1a6=1",
+    "published": "2026-11-13T22:12:03+00:00",
+    "event_id": "12e7efc71fc9",
+    "sources": [
+     {
+      "title": "US Treasuries record worst week since Trump’s ‘liberation day’",
+      "summary": "US Treasuries recorded their worst week since Trump's election after higher-than-expected inflation data and hawkish Federal Reserve comments.",
+      "lang": "en",
+      "source": "FT Global Economy",
+      "url": "https://www.ft.com/content/7bebace2-dc87-410a-ae29-ffd9f3176def?syn-25a6b1a6=1",
+      "published": "2026-11-13T22:12:03+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "Fed Set to Raise Interest Rates Next Month as Debate Moves to January",
+    "summary": "The Federal Reserve is set to raise interest rates next month while debate has already shifted to potential January policy decisions.",
+    "lang": "en",
+    "source": "Bloomberg Economics",
+    "url": "https://www.bloomberg.com/news/articles/2026-11-13/fed-set-to-raise-interest-rates-next-month-as-debate-moves-to-january",
+    "published": "2026-11-13T19:55:01+00:00",
+    "event_id": "742e32c8731b",
+    "sources": [
+     {
+      "title": "Fed Set to Raise Interest Rates Next Month as Debate Moves to January",
+      "summary": "The Federal Reserve is set to raise interest rates next month while debate has already shifted to potential January policy decisions.",
+      "lang": "en",
+      "source": "Bloomberg Economics",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-13/fed-set-to-raise-interest-rates-next-month-as-debate-moves-to-january",
+      "published": "2026-11-13T19:55:01+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "Venezuela Vows to Complete Colombia Pipeline Repairs by March",
+    "summary": "Venezuela committed to completing repairs on its key joint pipeline with Colombia by March to help the neighbor restore energy reserves.",
+    "lang": "en",
+    "source": "Bloomberg Markets",
+    "url": "https://www.bloomberg.com/news/articles/2026-11-14/venezuela-vows-to-complete-colombia-pipeline-repairs-by-march",
+    "published": "2026-11-14T03:44:05+00:00",
+    "event_id": "4aba2b47c64d",
+    "sources": [
+     {
+      "title": "Venezuela Vows to Complete Colombia Pipeline Repairs by March",
+      "summary": "Venezuela committed to completing repairs on its key joint pipeline with Colombia by March to help the neighbor restore energy reserves.",
+      "lang": "en",
+      "source": "Bloomberg Markets",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-14/venezuela-vows-to-complete-colombia-pipeline-repairs-by-march",
+      "published": "2026-11-14T03:44:05+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "Jensen Huang’s departure blasts big hole in AI startup funding, VCs and founders say",
+    "summary": "Nvidia's major investment in AI startups may decline following Jensen Huang's departure, concerns founders and venture capitalists.",
+    "lang": "en",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/11/13/jensen-huangs-departure-blasts-big-hole-in-ai-startup-funding-vcs-and-founders-say/",
+    "published": "2026-11-13T22:43:00+00:00",
+    "event_id": "ec577d4c46a6",
+    "sources": [
+     {
+      "title": "Jensen Huang’s departure blasts big hole in AI startup funding, VCs and founders say",
+      "summary": "Nvidia's major investment in AI startups may decline following Jensen Huang's departure, concerns founders and venture capitalists.",
+      "lang": "en",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/11/13/jensen-huangs-departure-blasts-big-hole-in-ai-startup-funding-vcs-and-founders-say/",
+      "published": "2026-11-13T22:43:00+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   }
+  ],
+  "tecnologia|america": [
+   {
+    "title": "Nvidia scandal fallout widens as Trump's treasury secretary blames cabinet colleague",
+    "summary": "US Treasury Secretary Bessent blamed the Commerce Department for failing to ban Nvidia chip exports to a firm with alleged China connections.",
+    "lang": "en",
+    "source": "BBC World",
+    "url": "https://www.bbc.co.uk/news/articles/cqvg2d1eg7zro?at_medium=RSS&at_campaign=rss",
+    "published": "2026-11-13T19:53:57+00:00",
+    "event_id": "dabb9c42293e",
+    "sources": [
+     {
+      "title": "Nvidia scandal fallout widens as Trump's treasury secretary blames cabinet colleague",
+      "summary": "US Treasury Secretary Bessent blamed the Commerce Department for failing to ban Nvidia chip exports to a firm with alleged China connections.",
+      "lang": "en",
+      "source": "BBC World",
+      "url": "https://www.bbc.co.uk/news/articles/cqvg2d1eg7zro?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-13T19:53:57+00:00"
+     },
+     {
+      "title": "Nvidia exposed to possible lawsuits after Jensen Huang’s downfall",
+      "summary": "Nvidia lacks full insurance coverage for potential lawsuits related to executive conduct following Jensen Huang's downfall.",
+      "lang": "en",
+      "source": "Financial Times",
+      "url": "https://www.ft.com/content/4aba8386-35cc-463b-a79c-a0c85c362c89?syn-25a6b1a6=1",
+      "published": "2026-11-14T11:00:09+00:00"
+     },
+     {
+      "title": "Bessent blames Lutnick’s commerce department for failure to blacklist Megaspeed",
+      "summary": "US Treasury Secretary Bessent blamed Commerce Department leadership under Lutnick for failing to blacklist Nvidia chip exports to a suspect firm.",
+      "lang": "en",
+      "source": "FT Global Economy",
+      "url": "https://www.ft.com/content/ce6d292e-eaaa-4c23-b909-34276e1a1e8d?syn-25a6b1a6=1",
+      "published": "2026-11-13T17:06:01+00:00"
+     },
+     {
+      "title": "Export-banned Nvidia chips are behind China’s most powerful AI models — uh-oh, Jensen!",
+      "summary": "Research reveals China's most advanced AI models were trained using banned Nvidia chips despite US export restrictions.",
+      "lang": "en",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/11/13/export-banned-nvidia-chips-are-behind-chinas-most-powerful-ai-models-uh-oh-jensen/",
+      "published": "2026-11-13T18:40:30+00:00"
+     }
+    ],
+    "status": "updated",
+    "change_summary": "Nvidia scandal fallout widens as Trump's treasury secretary blames cabinet colleague",
+    "previous_date": "2026-11-13",
+    "previous_event_id": ""
+   },
+   {
+    "title": "韋伯望遠鏡發現 130 億年前原始星系，含氧量僅太陽 1/240",
+    "summary": "国际研究团队利用韦伯太空望远镜发现130亿年前的原始星系，其含氧量仅为太阳的1/240。",
+    "lang": "zh",
+    "source": "科技新報 TechNews",
+    "url": "https://technews.tw/2026/11/14/james-webb-discovers-a-nearly-pristine-galaxy-from-the-dawn-of-the-universe/",
+    "published": "2026-11-14T08:00:17+00:00",
+    "event_id": "3ec10339ffe9",
+    "sources": [
+     {
+      "title": "韋伯望遠鏡發現 130 億年前原始星系，含氧量僅太陽 1/240",
+      "summary": "国际研究团队利用韦伯太空望远镜发现130亿年前的原始星系，其含氧量仅为太阳的1/240。",
+      "lang": "zh",
+      "source": "科技新報 TechNews",
+      "url": "https://technews.tw/2026/11/14/james-webb-discovers-a-nearly-pristine-galaxy-from-the-dawn-of-the-universe/",
+      "published": "2026-11-14T08:00:17+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "FAA lifts nationwide ground stop that blocked takeoffs for hours",
+    "summary": "The FAA lifted a nationwide ground stop that halted takeoffs across US airports for several hours on Friday.",
+    "lang": "en",
+    "source": "The Verge",
+    "url": "https://www.theverge.com/news/1033489/faa-ground-stop",
+    "published": "2026-11-14T01:53:04+00:00",
+    "event_id": "1ff2d9e323bc",
+    "sources": [
+     {
+      "title": "FAA lifts nationwide ground stop that blocked takeoffs for hours",
+      "summary": "The FAA lifted a nationwide ground stop that halted takeoffs across US airports for several hours on Friday.",
+      "lang": "en",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/news/1033489/faa-ground-stop",
+      "published": "2026-11-14T01:53:04+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "Uber confirms hackers stole thousands of drivers’ license information in data breach",
+    "summary": "Uber confirmed hackers stole thousands of drivers' license information stored by AI cloud company Fireworks AI during a security breach.",
+    "lang": "en",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/11/13/uber-confirms-hackers-stole-thousands-of-drivers-license-information-in-data-breach/",
+    "published": "2026-11-13T14:57:55+00:00",
+    "event_id": "a351355edf69",
+    "sources": [
+     {
+      "title": "Uber confirms hackers stole thousands of drivers’ license information in data breach",
+      "summary": "Uber confirmed hackers stole thousands of drivers' license information stored by AI cloud company Fireworks AI during a security breach.",
+      "lang": "en",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/11/13/uber-confirms-hackers-stole-thousands-of-drivers-license-information-in-data-breach/",
+      "published": "2026-11-13T14:57:55+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "Introducing ChatGPT Wallet",
+    "summary": "OpenAI introduced ChatGPT Wallet, enabling AI agents to securely complete purchases with user approval and existing card protections.",
+    "lang": "en",
+    "source": "OpenAI News",
+    "url": "https://openai.com/index/introducing-chatgpt-wallet",
+    "published": "2026-11-13T15:00:00+00:00",
+    "event_id": "5bf4951adbe9",
+    "sources": [
+     {
+      "title": "Introducing ChatGPT Wallet",
+      "summary": "OpenAI introduced ChatGPT Wallet, enabling AI agents to securely complete purchases with user approval and existing card protections.",
+      "lang": "en",
+      "source": "OpenAI News",
+      "url": "https://openai.com/index/introducing-chatgpt-wallet",
+      "published": "2026-11-13T15:00:00+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "憂AI助長網攻及生物武器風險，美國非營利組織控告OpenAI等5家業者",
+    "summary": "美国4家非营利组织起诉OpenAI等5家公司，指控其AI系统可能导致网络攻击和生物武器扩散风险。",
+    "lang": "zh",
+    "source": "iThome 台灣",
+    "url": "https://www.ithome.com.tw/news/180485",
+    "published": "2026-11-13T10:11:16+00:00",
+    "event_id": "37022872b113",
+    "sources": [
+     {
+      "title": "憂AI助長網攻及生物武器風險，美國非營利組織控告OpenAI等5家業者",
+      "summary": "美国4家非营利组织起诉OpenAI等5家公司，指控其AI系统可能导致网络攻击和生物武器扩散风险。",
+      "lang": "zh",
+      "source": "iThome 台灣",
+      "url": "https://www.ithome.com.tw/news/180485",
+      "published": "2026-11-13T10:11:16+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   }
+  ],
+  "politica|asia": [
+   {
+    "title": "Trump, Putin and Xi plan historic joint meeting in China next week, White House says",
+    "summary": "Trump, Putin and Xi plan a historic joint meeting in China next week where nuclear weapons reduction will be discussed, the White House announced.",
+    "lang": "en",
+    "source": "BBC World",
+    "url": "https://www.bbc.co.uk/news/articles/ckz74jzpy18do?at_medium=RSS&at_campaign=rss",
+    "published": "2026-11-14T05:52:31+00:00",
+    "event_id": "92720765a427",
+    "sources": [
+     {
+      "title": "Trump, Putin and Xi plan historic joint meeting in China next week, White House says",
+      "summary": "Trump, Putin and Xi plan a historic joint meeting in China next week where nuclear weapons reduction will be discussed, the White House announced.",
+      "lang": "en",
+      "source": "BBC World",
+      "url": "https://www.bbc.co.uk/news/articles/ckz74jzpy18do?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-14T05:52:31+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "Qatar and Turkiye sign a mutual defence pact: What do we know?",
+    "summary": "Qatar and Turkey signed a mutual defence pact amid regional tensions, aimed at deterring attacks rather than offensive military action.",
+    "lang": "en",
+    "source": "Al Jazeera English",
+    "url": "https://www.aljazeera.com/news/2026/11/14/qatar-and-turkiye-sign-a-mutual-defence-pact-what-do-we-know?traffic_source=rss",
+    "published": "2026-11-14T09:19:43+00:00",
+    "event_id": "77bc0d5b3703",
+    "sources": [
+     {
+      "title": "Qatar and Turkiye sign a mutual defence pact: What do we know?",
+      "summary": "Qatar and Turkey signed a mutual defence pact amid regional tensions, aimed at deterring attacks rather than offensive military action.",
+      "lang": "en",
+      "source": "Al Jazeera English",
+      "url": "https://www.aljazeera.com/news/2026/11/14/qatar-and-turkiye-sign-a-mutual-defence-pact-what-do-we-know?traffic_source=rss",
+      "published": "2026-11-14T09:19:43+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "Myanmar airstrike on displaced persons camp kills 12",
+    "summary": "A Myanmar airstrike on a displaced persons camp killed 12 people during ongoing conflict.",
+    "lang": "en",
+    "source": "Channel NewsAsia",
+    "url": "https://www.channelnewsasia.com/asia/myanmar-airstrike-displaced-persons-camp-6551681",
+    "published": "2026-11-14T11:49:32+00:00",
+    "event_id": "c02373d52845",
+    "sources": [
+     {
+      "title": "Myanmar airstrike on displaced persons camp kills 12",
+      "summary": "A Myanmar airstrike on a displaced persons camp killed 12 people during ongoing conflict.",
+      "lang": "en",
+      "source": "Channel NewsAsia",
+      "url": "https://www.channelnewsasia.com/asia/myanmar-airstrike-displaced-persons-camp-6551681",
+      "published": "2026-11-14T11:49:32+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "China, South Korea vow to deepen ties at Apec summit as Seoul pushes North Korea talks",
+    "summary": "China and South Korea agreed at an APEC summit meeting to deepen bilateral ties while Seoul pushes for North Korea dialogue.",
+    "lang": "en",
+    "source": "South China Morning Post (China)",
+    "url": "https://www.scmp.com/news/china/diplomacy/article/3374442/china-south-korea-vow-deepen-ties-apec-summit-seoul-pushes-north-korea-talks",
+    "published": "2026-11-14T11:45:11+00:00",
+    "event_id": "e9309b268efc",
+    "sources": [
+     {
+      "title": "China, South Korea vow to deepen ties at Apec summit as Seoul pushes North Korea talks",
+      "summary": "China and South Korea agreed at an APEC summit meeting to deepen bilateral ties while Seoul pushes for North Korea dialogue.",
+      "lang": "en",
+      "source": "South China Morning Post (China)",
+      "url": "https://www.scmp.com/news/china/diplomacy/article/3374442/china-south-korea-vow-deepen-ties-apec-summit-seoul-pushes-north-korea-talks",
+      "published": "2026-11-14T11:45:11+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   }
+  ],
+  "politica|america": [
+   {
+    "title": "Migrant caravan heads to US from Mexico after Democrats’ midterm win",
+    "summary": "A migrant caravan of over 1,000 people is heading toward the US border from southern Mexico following Democrats' midterm election victory.",
+    "lang": "en",
+    "source": "Al Jazeera English",
+    "url": "https://www.aljazeera.com/video/newsfeed/2026/11/14/migrant-caravan-heads-to-us-from-mexico-after-democrats-midterm-win?traffic_source=rss",
+    "published": "2026-11-14T09:43:54+00:00",
+    "event_id": "91e96731aad8",
+    "sources": [
+     {
+      "title": "Migrant caravan heads to US from Mexico after Democrats’ midterm win",
+      "summary": "A migrant caravan of over 1,000 people is heading toward the US border from southern Mexico following Democrats' midterm election victory.",
+      "lang": "en",
+      "source": "Al Jazeera English",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/14/migrant-caravan-heads-to-us-from-mexico-after-democrats-midterm-win?traffic_source=rss",
+      "published": "2026-11-14T09:43:54+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   }
+  ],
+  "tecnologia|asia": [
+   {
+    "title": "Apache修補網頁伺服器HTTP/2模組的重大漏洞，64%雲端環境恐曝險",
+    "summary": "Apache软件基金会发布HTTP Server 2.4.71版本修补HTTP/2模块重大漏洞，64%云端环境面临风险。",
+    "lang": "zh",
+    "source": "iThome 台灣",
+    "url": "https://www.ithome.com.tw/news/180490",
+    "published": "2026-11-13T12:11:45+00:00",
+    "event_id": "50ed3560962f",
+    "sources": [
+     {
+      "title": "Apache修補網頁伺服器HTTP/2模組的重大漏洞，64%雲端環境恐曝險",
+      "summary": "Apache软件基金会发布HTTP Server 2.4.71版本修补HTTP/2模块重大漏洞，64%云端环境面临风险。",
+      "lang": "zh",
+      "source": "iThome 台灣",
+      "url": "https://www.ithome.com.tw/news/180490",
+      "published": "2026-11-13T12:11:45+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   }
+  ]
+ }
+}
