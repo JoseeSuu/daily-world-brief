@@ -1,0 +1,864 @@
+{
+ "date": "2026-11-15",
+ "generated_at": "2026-11-15T12:56:19.747368+00:00",
+ "mode": "full",
+ "cost_usd": 0.05,
+ "selection": {
+  "model": "claude-haiku-5-5",
+  "effort": "high",
+  "passes": 3,
+  "passes_ok": 3,
+  "cost_usd": 0.0188
+ },
+ "events": {
+  "mode": "full",
+  "compared_with": "2026-11-14",
+  "articles": 37,
+  "uncompared_articles": 0,
+  "events": 35,
+  "cost_usd": 0.0192
+ },
+ "market": null,
+ "failed_sources": [],
+ "cells": {
+  "economia|europa": [
+   {
+    "title": "Política y finanzas juegan a favor de Hernández de Cos para la presidencia del BCE",
+    "summary": "Hernández de Cos gana apoyo para la presidencia del BCE gracias a la inestabilidad financiera y equilibrios políticos entre capitales europeas.",
+    "lang": "es",
+    "source": "El País Economía",
+    "url": "https://elpais.com/economia/2026-11-15/politica-y-finanzas-juegan-a-favor-de-hernandez-de-cos-para-la-presidencia-del-bce.html",
+    "published": "2026-11-15T04:45:01+00:00",
+    "event_id": "598ea984151f",
+    "sources": [
+     {
+      "title": "Política y finanzas juegan a favor de Hernández de Cos para la presidencia del BCE",
+      "summary": "Hernández de Cos gana apoyo para la presidencia del BCE gracias a la inestabilidad financiera y equilibrios políticos entre capitales europeas.",
+      "lang": "es",
+      "source": "El País Economía",
+      "url": "https://elpais.com/economia/2026-11-15/politica-y-finanzas-juegan-a-favor-de-hernandez-de-cos-para-la-presidencia-del-bce.html",
+      "published": "2026-11-15T04:45:01+00:00"
+     }
+    ],
+    "status": "updated",
+    "change_summary": "Política y finanzas juegan a favor de Hernández de Cos para la presidencia del BCE",
+    "previous_date": "2026-11-14",
+    "previous_event_id": "598ea984151f"
+   },
+   {
+    "title": "Firms Drive UK Growth Spurt With Little Help From Government",
+    "summary": "The UK private sector is driving economic growth despite energy shocks and over £80 billion in tax rises since Labour took power in 2024.",
+    "lang": "en",
+    "source": "Bloomberg Economics",
+    "url": "https://www.bloomberg.com/news/articles/2026-11-15/firms-drive-uk-growth-spurt-with-little-help-from-government",
+    "published": "2026-11-15T06:00:00+00:00",
+    "event_id": "e948c736935f",
+    "sources": [
+     {
+      "title": "Firms Drive UK Growth Spurt With Little Help From Government",
+      "summary": "The UK private sector is driving economic growth despite energy shocks and over £80 billion in tax rises since Labour took power in 2024.",
+      "lang": "en",
+      "source": "Bloomberg Economics",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-15/firms-drive-uk-growth-spurt-with-little-help-from-government",
+      "published": "2026-11-15T06:00:00+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "ECB Can’t Substitute Sound Fiscal Policy, Knot Tells Corriere",
+    "summary": "ECB policymaker Klaas Knot argues that central bank tools cannot replace sound fiscal policy management for stabilizing sovereign debt markets.",
+    "lang": "en",
+    "source": "Bloomberg Economics",
+    "url": "https://www.bloomberg.com/news/articles/2026-11-15/ecb-can-t-substitute-sound-fiscal-policy-knot-tells-corriere",
+    "published": "2026-11-15T07:58:02+00:00",
+    "event_id": "f92152ec5a5d",
+    "sources": [
+     {
+      "title": "ECB Can’t Substitute Sound Fiscal Policy, Knot Tells Corriere",
+      "summary": "ECB policymaker Klaas Knot argues that central bank tools cannot replace sound fiscal policy management for stabilizing sovereign debt markets.",
+      "lang": "en",
+      "source": "Bloomberg Economics",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-15/ecb-can-t-substitute-sound-fiscal-policy-knot-tells-corriere",
+      "published": "2026-11-15T07:58:02+00:00"
+     }
+    ],
+    "status": "updated",
+    "change_summary": "ECB Can't Substitute Sound Fiscal Policy, Knot Tells Corriere",
+    "previous_date": "2026-11-14",
+    "previous_event_id": "f92152ec5a5d"
+   },
+   {
+    "title": "BOE’s Case to Raise Rates Again May Strengthen on UK Price Data",
+    "summary": "Upcoming UK price data may show a stabilizing jobs market and inflation at one-year highs, pressuring the Bank of England to consider additional rate increases.",
+    "lang": "en",
+    "source": "Bloomberg Economics",
+    "url": "https://www.bloomberg.com/news/articles/2026-11-14/boe-s-case-to-raise-rates-again-may-strengthen-on-uk-price-data",
+    "published": "2026-11-14T21:00:00+00:00",
+    "event_id": "68dd58d39b6e",
+    "sources": [
+     {
+      "title": "BOE’s Case to Raise Rates Again May Strengthen on UK Price Data",
+      "summary": "Upcoming UK price data may show a stabilizing jobs market and inflation at one-year highs, pressuring the Bank of England to consider additional rate increases.",
+      "lang": "en",
+      "source": "Bloomberg Economics",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-14/boe-s-case-to-raise-rates-again-may-strengthen-on-uk-price-data",
+      "published": "2026-11-14T21:00:00+00:00"
+     }
+    ],
+    "status": "unchanged",
+    "change_summary": "",
+    "previous_date": "2026-11-14",
+    "previous_event_id": "68dd58d39b6e"
+   }
+  ],
+  "politica|europa": [
+   {
+    "title": "La guerra en Ucrania salpica al este de Polonia con el eco de explosiones, alarmas antiaéreas y evacuaciones",
+    "summary": "Poblaciones del este de Polonia conviven con alertas por ataques rusos, explosiones y presencia de aviones de combate debido a la guerra en Ucrania.",
+    "lang": "es",
+    "source": "El País Internacional",
+    "url": "https://elpais.com/internacional/2026-11-15/la-guerra-en-ucrania-salpica-al-este-de-polonia-con-el-eco-de-explosiones-alarmas-antiaereas-y-evacuaciones.html",
+    "published": "2026-11-15T04:40:00+00:00",
+    "event_id": "c726ced43dff",
+    "sources": [
+     {
+      "title": "La guerra en Ucrania salpica al este de Polonia con el eco de explosiones, alarmas antiaéreas y evacuaciones",
+      "summary": "Poblaciones del este de Polonia conviven con alertas por ataques rusos, explosiones y presencia de aviones de combate debido a la guerra en Ucrania.",
+      "lang": "es",
+      "source": "El País Internacional",
+      "url": "https://elpais.com/internacional/2026-11-15/la-guerra-en-ucrania-salpica-al-este-de-polonia-con-el-eco-de-explosiones-alarmas-antiaereas-y-evacuaciones.html",
+      "published": "2026-11-15T04:40:00+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "Hungría halla más de 17 millones de euros supuestamente escondidos por un exministro de Víktor Orbán",
+    "summary": "Hungría descubre más de 17 millones de euros supuestamente ocultados por el exministro Miklos Sesztak, quien está en prisión acusado de sobornos.",
+    "lang": "es",
+    "source": "El País Internacional",
+    "url": "https://elpais.com/internacional/2026-11-14/hungria-halla-mas-de-17-millones-de-euros-supuestamente-escondidos-por-un-exministro-de-viktor-orban.html",
+    "published": "2026-11-14T21:23:44+00:00",
+    "event_id": "f8a8437145fb",
+    "sources": [
+     {
+      "title": "Hungría halla más de 17 millones de euros supuestamente escondidos por un exministro de Víktor Orbán",
+      "summary": "Hungría descubre más de 17 millones de euros supuestamente ocultados por el exministro Miklos Sesztak, quien está en prisión acusado de sobornos.",
+      "lang": "es",
+      "source": "El País Internacional",
+      "url": "https://elpais.com/internacional/2026-11-14/hungria-halla-mas-de-17-millones-de-euros-supuestamente-escondidos-por-un-exministro-de-viktor-orban.html",
+      "published": "2026-11-14T21:23:44+00:00"
+     }
+    ],
+    "status": "unchanged",
+    "change_summary": "",
+    "previous_date": "2026-11-14",
+    "previous_event_id": "f8a8437145fb"
+   },
+   {
+    "title": "US has floated Ukraine ceding Donbas for Nato membership, Zelensky says",
+    "summary": "Ukrainian President Zelensky claims the US has proposed ceding Donbas to Russia in exchange for NATO membership; the US has not confirmed these comments.",
+    "lang": "en",
+    "source": "BBC World",
+    "url": "https://www.bbc.co.uk/news/articles/cwvg2l312ylqo?at_medium=RSS&at_campaign=rss",
+    "published": "2026-11-14T22:37:25+00:00",
+    "event_id": "1476d670af2a",
+    "sources": [
+     {
+      "title": "US has floated Ukraine ceding Donbas for Nato membership, Zelensky says",
+      "summary": "Ukrainian President Zelensky claims the US has proposed ceding Donbas to Russia in exchange for NATO membership; the US has not confirmed these comments.",
+      "lang": "en",
+      "source": "BBC World",
+      "url": "https://www.bbc.co.uk/news/articles/cwvg2l312ylqo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-14T22:37:25+00:00"
+     }
+    ],
+    "status": "unchanged",
+    "change_summary": "",
+    "previous_date": "2026-11-14",
+    "previous_event_id": "1476d670af2a"
+   }
+  ],
+  "tecnologia|asia": [
+   {
+    "title": "China estrena su avión eléctrico por fin con gente a bordo, pero no revela lo más importante: la batería",
+    "summary": "China realiza el primer vuelo con tripulación de su avión eléctrico comercial COMAC, aunque no revela detalles sobre la batería utilizada.",
+    "lang": "es",
+    "source": "Xataka",
+    "url": "https://www.xataka.com/movilidad/china-estrena-su-avion-electrico-pilotos-a-bordo-no-revela-importante-bateria",
+    "published": "2026-11-15T10:30:00+00:00",
+    "event_id": "75df8549d417",
+    "sources": [
+     {
+      "title": "China estrena su avión eléctrico por fin con gente a bordo, pero no revela lo más importante: la batería",
+      "summary": "China realiza el primer vuelo con tripulación de su avión eléctrico comercial COMAC, aunque no revela detalles sobre la batería utilizada.",
+      "lang": "es",
+      "source": "Xataka",
+      "url": "https://www.xataka.com/movilidad/china-estrena-su-avion-electrico-pilotos-a-bordo-no-revela-importante-bateria",
+      "published": "2026-11-15T10:30:00+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "Nvidia se está planteando una decisión radical para dejar de depender de Samsung en la producción de memoria",
+    "summary": "Nvidia considera reducir dependencia de Samsung en producción de memoria ante escasez causada por auge de inteligencia artificial y disparo de precios.",
+    "lang": "es",
+    "source": "Xataka",
+    "url": "https://www.xataka.com/componentes/produccion-memoria-siendo-drama-nvidia-planea-dar-salto-para-no-depender-samsung-se-habria-pedido-a-tsmc",
+    "published": "2026-11-15T11:01:22+00:00",
+    "event_id": "df8b7e0c8c8e",
+    "sources": [
+     {
+      "title": "Nvidia se está planteando una decisión radical para dejar de depender de Samsung en la producción de memoria",
+      "summary": "Nvidia considera reducir dependencia de Samsung en producción de memoria ante escasez causada por auge de inteligencia artificial y disparo de precios.",
+      "lang": "es",
+      "source": "Xataka",
+      "url": "https://www.xataka.com/componentes/produccion-memoria-siendo-drama-nvidia-planea-dar-salto-para-no-depender-samsung-se-habria-pedido-a-tsmc",
+      "published": "2026-11-15T11:01:22+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "黃仁勳被召出席參議院聽證 商務部長盧特尼克受波及同須作證",
+    "summary": "黄仁勋因婚外情曝光后周四辞去全球最有价值公司之一的总裁职务，随后被召出席参议院听证。",
+    "lang": "zh",
+    "source": "BBC中文",
+    "url": "https://www.bbc.com/zhongwen/articles/c9j3km83x5z2o/trad?at_medium=RSS&at_campaign=rss",
+    "published": "2026-11-15T10:32:00+00:00",
+    "event_id": "ec577d4c46a6",
+    "sources": [
+     {
+      "title": "黃仁勳被召出席參議院聽證 商務部長盧特尼克受波及同須作證",
+      "summary": "黄仁勋因婚外情曝光后周四辞去全球最有价值公司之一的总裁职务，随后被召出席参议院听证。",
+      "lang": "zh",
+      "source": "BBC中文",
+      "url": "https://www.bbc.com/zhongwen/articles/c9j3km83x5z2o/trad?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-15T10:32:00+00:00"
+     },
+     {
+      "title": "Asian governments react to Nvidia CEO Jensen Huang’s exit",
+      "summary": "Asian governments respond to Nvidia CEO Jensen Huang's exit by confirming chip supply commitments and monitoring impacts on local tech projects.",
+      "lang": "en",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/11/14/asian-governments-react-to-nvidia-ceo-jensen-huangs-exit/",
+      "published": "2026-11-14T16:34:15+00:00"
+     }
+    ],
+    "status": "updated",
+    "change_summary": "黃仁勳被召出席參議院聽證 商務部長盧特尼克受波及同須作證",
+    "previous_date": "2026-11-14",
+    "previous_event_id": "ec577d4c46a6"
+   }
+  ],
+  "tecnologia|europa": [
+   {
+    "title": "Italy fines Meta €805m over accessing users' photos",
+    "summary": "Italy fines Meta €805 million for accessing photos of 20 million users without informing them of the company's access to their photo galleries.",
+    "lang": "en",
+    "source": "BBC World",
+    "url": "https://www.bbc.co.uk/news/articles/cwn83gxemk35o?at_medium=RSS&at_campaign=rss",
+    "published": "2026-11-14T18:28:06+00:00",
+    "event_id": "359fb450257d",
+    "sources": [
+     {
+      "title": "Italy fines Meta €805m over accessing users' photos",
+      "summary": "Italy fines Meta €805 million for accessing photos of 20 million users without informing them of the company's access to their photo galleries.",
+      "lang": "en",
+      "source": "BBC World",
+      "url": "https://www.bbc.co.uk/news/articles/cwn83gxemk35o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-14T18:28:06+00:00"
+     },
+     {
+      "title": "Italia pone un multazo a Meta de 805 millones por acceder sin permiso a la galería de 20 millones de móviles",
+      "summary": "Italia multa a Meta con 805 millones de euros por acceder sin autorización a la galería de 20 millones de teléfonos móviles.",
+      "lang": "es",
+      "source": "Xataka",
+      "url": "https://www.xataka.com/privacidad/italia-multa-a-meta-805-millones-euros-mirar-galeria-20-millones-moviles",
+      "published": "2026-11-15T07:42:00+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   }
+  ],
+  "economia|asia": [
+   {
+    "title": "Hong Kong's New World proposes $3.2bn rights issue for capital 'reset'",
+    "summary": "Hong Kong's New World Development proposes a $3.2 billion rights issue to reset its capital structure and strengthen its financial position.",
+    "lang": "en",
+    "source": "Nikkei Asia",
+    "url": "https://asia.nikkei.com/business/markets/property/hong-kong-s-new-world-proposes-3.2bn-rights-issue-for-capital-reset",
+    "published": null,
+    "event_id": "e0de3e361445",
+    "sources": [
+     {
+      "title": "Hong Kong's New World proposes $3.2bn rights issue for capital 'reset'",
+      "summary": "Hong Kong's New World Development proposes a $3.2 billion rights issue to reset its capital structure and strengthen its financial position.",
+      "lang": "en",
+      "source": "Nikkei Asia",
+      "url": "https://asia.nikkei.com/business/markets/property/hong-kong-s-new-world-proposes-3.2bn-rights-issue-for-capital-reset",
+      "published": null
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "Thai Central Bank Chairman Rebukes Slow Reform, SME Credit Slump",
+    "summary": "Bank of Thailand Chairman criticizes the central bank's slow regulatory reform progress and calls for reversing the prolonged contraction in lending to small enterprises.",
+    "lang": "en",
+    "source": "Bloomberg Economics",
+    "url": "https://www.bloomberg.com/news/articles/2026-11-15/thai-central-bank-chairman-rebukes-slow-reform-sme-credit-slump",
+    "published": "2026-11-15T02:22:27+00:00",
+    "event_id": "7a644f822dd3",
+    "sources": [
+     {
+      "title": "Thai Central Bank Chairman Rebukes Slow Reform, SME Credit Slump",
+      "summary": "Bank of Thailand Chairman criticizes the central bank's slow regulatory reform progress and calls for reversing the prolonged contraction in lending to small enterprises.",
+      "lang": "en",
+      "source": "Bloomberg Economics",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-15/thai-central-bank-chairman-rebukes-slow-reform-sme-credit-slump",
+      "published": "2026-11-15T02:22:27+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "Digital Realty Trust to spend $10bn more on Japan data centers: CEO",
+    "summary": "Digital Realty Trust will invest an additional $10 billion in Japan data centers, as announced by its chief executive officer.",
+    "lang": "en",
+    "source": "Nikkei Asia",
+    "url": "https://asia.nikkei.com/business/technology/artificial-intelligence/digital-realty-trust-to-spend-10bn-more-on-japan-data-centers-ceo",
+    "published": null,
+    "event_id": "00af6c53bcab",
+    "sources": [
+     {
+      "title": "Digital Realty Trust to spend $10bn more on Japan data centers: CEO",
+      "summary": "Digital Realty Trust will invest an additional $10 billion in Japan data centers, as announced by its chief executive officer.",
+      "lang": "en",
+      "source": "Nikkei Asia",
+      "url": "https://asia.nikkei.com/business/technology/artificial-intelligence/digital-realty-trust-to-spend-10bn-more-on-japan-data-centers-ceo",
+      "published": null
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "Sri Lanka reality contrasts with new World Bank upper-middle-income status",
+    "summary": "Sri Lanka's new World Bank upper-middle-income status contrasts sharply with the country's actual economic reality and ongoing financial challenges.",
+    "lang": "en",
+    "source": "Nikkei Asia",
+    "url": "https://asia.nikkei.com/economy/sri-lanka-reality-contrasts-with-new-world-bank-upper-middle-income-status",
+    "published": null,
+    "event_id": "8c3a2b6150fa",
+    "sources": [
+     {
+      "title": "Sri Lanka reality contrasts with new World Bank upper-middle-income status",
+      "summary": "Sri Lanka's new World Bank upper-middle-income status contrasts sharply with the country's actual economic reality and ongoing financial challenges.",
+      "lang": "en",
+      "source": "Nikkei Asia",
+      "url": "https://asia.nikkei.com/economy/sri-lanka-reality-contrasts-with-new-world-bank-upper-middle-income-status",
+      "published": null
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "中国光伏行业裁员潮的背后",
+    "summary": "中国光伏企业加快整合并推进生产自动化，将员工从生产一线转向销售和高端产品业务，这是行业裁员潮的主要背景。",
+    "lang": "zh",
+    "source": "FT中文网",
+    "url": "https://www.ftchinese.com/story/001111359",
+    "published": "2026-11-14T16:00:00+00:00",
+    "event_id": "47df90b49d49",
+    "sources": [
+     {
+      "title": "中国光伏行业裁员潮的背后",
+      "summary": "中国光伏企业加快整合并推进生产自动化，将员工从生产一线转向销售和高端产品业务，这是行业裁员潮的主要背景。",
+      "lang": "zh",
+      "source": "FT中文网",
+      "url": "https://www.ftchinese.com/story/001111359",
+      "published": "2026-11-14T16:00:00+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   }
+  ],
+  "tecnologia|america": [
+   {
+    "title": "Congress moves to pass tighter AI chip export rules following Nvidia scandal",
+    "summary": "Congress moves to tighten AI chip export rules following an alleged affair involving Nvidia CEO Jensen Huang and a Chinese intelligence operative.",
+    "lang": "en",
+    "source": "Financial Times",
+    "url": "https://www.ft.com/content/3062790a-553d-41b8-9c7d-bae17b9d2e29?syn-25a6b1a6=1",
+    "published": "2026-11-15T11:00:04+00:00",
+    "event_id": "dabb9c42293e",
+    "sources": [
+     {
+      "title": "Congress moves to pass tighter AI chip export rules following Nvidia scandal",
+      "summary": "Congress moves to tighten AI chip export rules following an alleged affair involving Nvidia CEO Jensen Huang and a Chinese intelligence operative.",
+      "lang": "en",
+      "source": "Financial Times",
+      "url": "https://www.ft.com/content/3062790a-553d-41b8-9c7d-bae17b9d2e29?syn-25a6b1a6=1",
+      "published": "2026-11-15T11:00:04+00:00"
+     }
+    ],
+    "status": "updated",
+    "change_summary": "Congress moves to pass tighter AI chip export rules following Nvidia scandal",
+    "previous_date": "2026-11-14",
+    "previous_event_id": "dabb9c42293e"
+   },
+   {
+    "title": "Data centre construction stocks lose $4.2tn as boom in AI trade unravels",
+    "summary": "Data centre construction stocks lose $4.2 trillion in value as the boom in AI-related technology trading unravels in the broader market downturn.",
+    "lang": "en",
+    "source": "Financial Times",
+    "url": "https://www.ft.com/content/d5adde7e-68cc-455b-ba78-b39cc3676b7a?syn-25a6b1a6=1",
+    "published": "2026-11-15T05:00:04+00:00",
+    "event_id": "e82cc9c0a41a",
+    "sources": [
+     {
+      "title": "Data centre construction stocks lose $4.2tn as boom in AI trade unravels",
+      "summary": "Data centre construction stocks lose $4.2 trillion in value as the boom in AI-related technology trading unravels in the broader market downturn.",
+      "lang": "en",
+      "source": "Financial Times",
+      "url": "https://www.ft.com/content/d5adde7e-68cc-455b-ba78-b39cc3676b7a?syn-25a6b1a6=1",
+      "published": "2026-11-15T05:00:04+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "Watch SpaceX successfully execute the first ‘chopstick’ catch of Starship",
+    "summary": "SpaceX successfully executes its first 'Mechazilla' catch of Starship booster after aborting a planned attempt during Flight 15.",
+    "lang": "en",
+    "source": "The Verge",
+    "url": "https://www.theverge.com/science/1033930/spacex-chopstick-starship-catch",
+    "published": "2026-11-14T21:44:44+00:00",
+    "event_id": "7e59a67d8036",
+    "sources": [
+     {
+      "title": "Watch SpaceX successfully execute the first ‘chopstick’ catch of Starship",
+      "summary": "SpaceX successfully executes its first 'Mechazilla' catch of Starship booster after aborting a planned attempt during Flight 15.",
+      "lang": "en",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/science/1033930/spacex-chopstick-starship-catch",
+      "published": "2026-11-14T21:44:44+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "Tesla opens Cybercab pre-orders ‘for personal use,’ with geo restrictions and a $299 monthly fee",
+    "summary": "Tesla opens Cybercab pre-orders for personal use with geo restrictions and a $299 monthly fee, which even Elon Musk acknowledged as too high.",
+    "lang": "en",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/11/14/tesla-opens-cybercab-pre-orders-for-personal-use-with-geo-restrictions-and-a-299-monthly-fee/",
+    "published": "2026-11-14T20:04:44+00:00",
+    "event_id": "0f3c66386c82",
+    "sources": [
+     {
+      "title": "Tesla opens Cybercab pre-orders ‘for personal use,’ with geo restrictions and a $299 monthly fee",
+      "summary": "Tesla opens Cybercab pre-orders for personal use with geo restrictions and a $299 monthly fee, which even Elon Musk acknowledged as too high.",
+      "lang": "en",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/11/14/tesla-opens-cybercab-pre-orders-for-personal-use-with-geo-restrictions-and-a-299-monthly-fee/",
+      "published": "2026-11-14T20:04:44+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "James Webb telescope finds ice older than the star it orbits",
+    "summary": "James Webb telescope discovers ice older than the host star, revealing how radiation and collisions reshape planetary building materials.",
+    "lang": "en",
+    "source": "Ars Technica",
+    "url": "https://arstechnica.com/science/2026/11/james-webb-telescope-finds-ice-older-than-the-star-it-orbits/",
+    "published": "2026-11-14T12:15:48+00:00",
+    "event_id": "3ec10339ffe9",
+    "sources": [
+     {
+      "title": "James Webb telescope finds ice older than the star it orbits",
+      "summary": "James Webb telescope discovers ice older than the host star, revealing how radiation and collisions reshape planetary building materials.",
+      "lang": "en",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/science/2026/11/james-webb-telescope-finds-ice-older-than-the-star-it-orbits/",
+      "published": "2026-11-14T12:15:48+00:00"
+     }
+    ],
+    "status": "updated",
+    "change_summary": "James Webb telescope finds ice older than the star it orbits",
+    "previous_date": "2026-11-14",
+    "previous_event_id": "3ec10339ffe9"
+   },
+   {
+    "title": "26年纪录终结！美国失去“消除麻疹”地位",
+    "summary": "美国失去26年的麻疹消除认证，目前正经历30多年来最严重的麻疹疫情，今年累计逾5000例，疫苗接种率下降引发关注。",
+    "lang": "zh",
+    "source": "德國之聲中文",
+    "url": "https://www.dw.com/zh/26年纪录终结！美国失去-消除麻疹-地位/a-79948420?maca=chi-rss-chi-all-1127-rdf",
+    "published": "2026-11-14T15:08:00+00:00",
+    "event_id": "8492a4defc43",
+    "sources": [
+     {
+      "title": "26年纪录终结！美国失去“消除麻疹”地位",
+      "summary": "美国失去26年的麻疹消除认证，目前正经历30多年来最严重的麻疹疫情，今年累计逾5000例，疫苗接种率下降引发关注。",
+      "lang": "zh",
+      "source": "德國之聲中文",
+      "url": "https://www.dw.com/zh/26年纪录终结！美国失去-消除麻疹-地位/a-79948420?maca=chi-rss-chi-all-1127-rdf",
+      "published": "2026-11-14T15:08:00+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "從方芳到黃樂，FBI 揭密中國間諜案：日常私交如何淪為情報破口",
+    "summary": "FBI揭露中国间谍案详情，指出黄仁勳与中国情报人员的日常私交如何成为情报泄露的破口。",
+    "lang": "zh",
+    "source": "科技新報 TechNews",
+    "url": "https://infosecu.technews.tw/2026/11/15/fbi-reveals-how-personal-relationships-become-espionage-risks/",
+    "published": "2026-11-15T08:30:27+00:00",
+    "event_id": "79a8215b90c9",
+    "sources": [
+     {
+      "title": "從方芳到黃樂，FBI 揭密中國間諜案：日常私交如何淪為情報破口",
+      "summary": "FBI揭露中国间谍案详情，指出黄仁勳与中国情报人员的日常私交如何成为情报泄露的破口。",
+      "lang": "zh",
+      "source": "科技新報 TechNews",
+      "url": "https://infosecu.technews.tw/2026/11/15/fbi-reveals-how-personal-relationships-become-espionage-risks/",
+      "published": "2026-11-15T08:30:27+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "科學家捕捉到早期 Ia 型超新星，助解開白矮星引爆機制之謎",
+    "summary": "科学家首次捕捉到早期Ia型超新星SN 2026ahvu的热核爆发过程，为解开白矮星引爆机制之谜提供重要数据。",
+    "lang": "zh",
+    "source": "科技新報 TechNews",
+    "url": "https://technews.tw/2026/11/15/type-ia-supernova-ngc-1433-galaxy-sn-2026ahvu/",
+    "published": "2026-11-15T08:16:14+00:00",
+    "event_id": "4e7589551b9b",
+    "sources": [
+     {
+      "title": "科學家捕捉到早期 Ia 型超新星，助解開白矮星引爆機制之謎",
+      "summary": "科学家首次捕捉到早期Ia型超新星SN 2026ahvu的热核爆发过程，为解开白矮星引爆机制之谜提供重要数据。",
+      "lang": "zh",
+      "source": "科技新報 TechNews",
+      "url": "https://technews.tw/2026/11/15/type-ia-supernova-ngc-1433-galaxy-sn-2026ahvu/",
+      "published": "2026-11-15T08:16:14+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   }
+  ],
+  "economia|america": [
+   {
+    "title": "Fed’s Collins Says ‘Steady, Gradual’ Rate Hikes Appropriate",
+    "summary": "Federal Reserve Bank of Boston President Susan Collins advocates for a gradual interest-rate increase path as the labor market strengthens and inflation moderates.",
+    "lang": "en",
+    "source": "Bloomberg Economics",
+    "url": "https://www.bloomberg.com/news/articles/2026-11-14/fed-s-collins-says-steady-gradual-rate-hikes-appropriate",
+    "published": "2026-11-14T15:08:45+00:00",
+    "event_id": "239ac5d5c3cf",
+    "sources": [
+     {
+      "title": "Fed’s Collins Says ‘Steady, Gradual’ Rate Hikes Appropriate",
+      "summary": "Federal Reserve Bank of Boston President Susan Collins advocates for a gradual interest-rate increase path as the labor market strengthens and inflation moderates.",
+      "lang": "en",
+      "source": "Bloomberg Economics",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-14/fed-s-collins-says-steady-gradual-rate-hikes-appropriate",
+      "published": "2026-11-14T15:08:45+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "Copper wire upgrade behind US flight suspension, transport secretary says",
+    "summary": "US Transportation Secretary attributes nationwide flight suspension to a copper wire equipment upgrade; the government investigates whether incompetence or faulty equipment caused the chaos.",
+    "lang": "en",
+    "source": "BBC World",
+    "url": "https://www.bbc.co.uk/news/articles/c6wy9lynq4qno?at_medium=RSS&at_campaign=rss",
+    "published": "2026-11-15T07:10:31+00:00",
+    "event_id": "1ff2d9e323bc",
+    "sources": [
+     {
+      "title": "Copper wire upgrade behind US flight suspension, transport secretary says",
+      "summary": "US Transportation Secretary attributes nationwide flight suspension to a copper wire equipment upgrade; the government investigates whether incompetence or faulty equipment caused the chaos.",
+      "lang": "en",
+      "source": "BBC World",
+      "url": "https://www.bbc.co.uk/news/articles/c6wy9lynq4qno?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-15T07:10:31+00:00"
+     }
+    ],
+    "status": "updated",
+    "change_summary": "Copper wire upgrade behind US flight suspension, transport secretary says",
+    "previous_date": "2026-11-14",
+    "previous_event_id": "1ff2d9e323bc"
+   },
+   {
+    "title": "Transportation secretary blames ‘routine’ equipment upgrade for grounding flights nationwide",
+    "summary": "Transportation Secretary attributes nationwide flight suspension to routine equipment upgrades; FAA administrator confirms zero evidence of AI-related causes.",
+    "lang": "en",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/11/14/transportation-secretary-blames-routine-equipment-upgrade-for-grounding-flights-nationwide/",
+    "published": "2026-11-14T17:45:04+00:00",
+    "event_id": "2aae0ad36a1c",
+    "sources": [
+     {
+      "title": "Transportation secretary blames ‘routine’ equipment upgrade for grounding flights nationwide",
+      "summary": "Transportation Secretary attributes nationwide flight suspension to routine equipment upgrades; FAA administrator confirms zero evidence of AI-related causes.",
+      "lang": "en",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/11/14/transportation-secretary-blames-routine-equipment-upgrade-for-grounding-flights-nationwide/",
+      "published": "2026-11-14T17:45:04+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   }
+  ],
+  "politica|america": [
+   {
+    "title": "Paraguay Bank Scandal, Corruption Charges Shakes Safe Haven Status",
+    "summary": "Paraguay's reputation as a safe investment haven faces pressure from presidential downfall, central bank scandal, and corruption charges undermining investor confidence.",
+    "lang": "en",
+    "source": "Bloomberg Economics",
+    "url": "https://www.bloomberg.com/news/articles/2026-11-14/paraguay-bank-scandal-corruption-charges-shakes-safe-haven-status",
+    "published": "2026-11-14T14:30:00+00:00",
+    "event_id": "ac4fe793067e",
+    "sources": [
+     {
+      "title": "Paraguay Bank Scandal, Corruption Charges Shakes Safe Haven Status",
+      "summary": "Paraguay's reputation as a safe investment haven faces pressure from presidential downfall, central bank scandal, and corruption charges undermining investor confidence.",
+      "lang": "en",
+      "source": "Bloomberg Economics",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-14/paraguay-bank-scandal-corruption-charges-shakes-safe-haven-status",
+      "published": "2026-11-14T14:30:00+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "Fuel crisis and protests pressure Chile's far-right president",
+    "summary": "Chile's far-right President José Antonio Kast faces mounting public anger as rising fuel prices trigger transport strikes and nationwide protests.",
+    "lang": "en",
+    "source": "NPR World",
+    "url": "https://www.npr.org/2026/11/14/nx-s1-6040144/chile-protests-fuel-kast-students",
+    "published": "2026-11-14T16:05:12+00:00",
+    "event_id": "86cee693d648",
+    "sources": [
+     {
+      "title": "Fuel crisis and protests pressure Chile's far-right president",
+      "summary": "Chile's far-right President José Antonio Kast faces mounting public anger as rising fuel prices trigger transport strikes and nationwide protests.",
+      "lang": "en",
+      "source": "NPR World",
+      "url": "https://www.npr.org/2026/11/14/nx-s1-6040144/chile-protests-fuel-kast-students",
+      "published": "2026-11-14T16:05:12+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "Fifth Canadian soldier dies from injuries caused by large fire at military base",
+    "summary": "A fifth Canadian soldier dies from injuries sustained in a massive fire at CFB Wainwright military base over a month earlier.",
+    "lang": "en",
+    "source": "BBC World",
+    "url": "https://www.bbc.co.uk/news/articles/cmrlgn4x2xw8o?at_medium=RSS&at_campaign=rss",
+    "published": "2026-11-15T09:26:37+00:00",
+    "event_id": "840edfb81102",
+    "sources": [
+     {
+      "title": "Fifth Canadian soldier dies from injuries caused by large fire at military base",
+      "summary": "A fifth Canadian soldier dies from injuries sustained in a massive fire at CFB Wainwright military base over a month earlier.",
+      "lang": "en",
+      "source": "BBC World",
+      "url": "https://www.bbc.co.uk/news/articles/cmrlgn4x2xw8o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-15T09:26:37+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   }
+  ],
+  "politica|asia": [
+   {
+    "title": "Bahrain accuses Iran of attacking its territory to ‘settle’ score with US",
+    "summary": "Bahrain accuses Iran of attacking its territory to settle scores with the US, while Tehran defends its strikes against US-cooperating nations as internationally justified.",
+    "lang": "en",
+    "source": "Al Jazeera English",
+    "url": "https://www.aljazeera.com/news/2026/11/15/bahrain-accuses-iran-of-attacking-its-territory-to-settle-score-with-us?traffic_source=rss",
+    "published": "2026-11-15T12:36:19+00:00",
+    "event_id": "ed001dc0012e",
+    "sources": [
+     {
+      "title": "Bahrain accuses Iran of attacking its territory to ‘settle’ score with US",
+      "summary": "Bahrain accuses Iran of attacking its territory to settle scores with the US, while Tehran defends its strikes against US-cooperating nations as internationally justified.",
+      "lang": "en",
+      "source": "Al Jazeera English",
+      "url": "https://www.aljazeera.com/news/2026/11/15/bahrain-accuses-iran-of-attacking-its-territory-to-settle-score-with-us?traffic_source=rss",
+      "published": "2026-11-15T12:36:19+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "Israel kills Hamas commander in strike on Gaza camp, officials say",
+    "summary": "Israeli forces kill Hamas Rafah Brigade commander Samir Abu Younis in a strike on a Gaza camp, confirmed by both Hamas and IDF officials.",
+    "lang": "en",
+    "source": "BBC World",
+    "url": "https://www.bbc.co.uk/news/articles/cqrkg4r6mg7xo?at_medium=RSS&at_campaign=rss",
+    "published": "2026-11-15T08:17:41+00:00",
+    "event_id": "96e3b3873fda",
+    "sources": [
+     {
+      "title": "Israel kills Hamas commander in strike on Gaza camp, officials say",
+      "summary": "Israeli forces kill Hamas Rafah Brigade commander Samir Abu Younis in a strike on a Gaza camp, confirmed by both Hamas and IDF officials.",
+      "lang": "en",
+      "source": "BBC World",
+      "url": "https://www.bbc.co.uk/news/articles/cqrkg4r6mg7xo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-15T08:17:41+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "Three men sentenced to death in Jordan over fatal church mass shooting",
+    "summary": "Three men receive death sentences in Jordan for a fatal church shooting that killed nine and injured 34 at a Greek Orthodox funeral service last month.",
+    "lang": "en",
+    "source": "BBC World",
+    "url": "https://www.bbc.co.uk/news/articles/c3rrg9xgqlwpo?at_medium=RSS&at_campaign=rss",
+    "published": "2026-11-15T11:06:32+00:00",
+    "event_id": "cedd4c64ea04",
+    "sources": [
+     {
+      "title": "Three men sentenced to death in Jordan over fatal church mass shooting",
+      "summary": "Three men receive death sentences in Jordan for a fatal church shooting that killed nine and injured 34 at a Greek Orthodox funeral service last month.",
+      "lang": "en",
+      "source": "BBC World",
+      "url": "https://www.bbc.co.uk/news/articles/c3rrg9xgqlwpo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-15T11:06:32+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "菲律賓未能完成南海準則談判 交棒新加坡續推進",
+    "summary": "菲律宾作为轮值主席国无法在任内完成南海行为准则谈判，但促成各方就约八成内容达成共识，接下来由新加坡继续推进。",
+    "lang": "zh",
+    "source": "中央社 CNA",
+    "url": "https://www.cna.com.tw/news/aopl/202611150182.aspx",
+    "published": "2026-11-15T12:05:46+00:00",
+    "event_id": "b8c2823b25ca",
+    "sources": [
+     {
+      "title": "菲律賓未能完成南海準則談判 交棒新加坡續推進",
+      "summary": "菲律宾作为轮值主席国无法在任内完成南海行为准则谈判，但促成各方就约八成内容达成共识，接下来由新加坡继续推进。",
+      "lang": "zh",
+      "source": "中央社 CNA",
+      "url": "https://www.cna.com.tw/news/aopl/202611150182.aspx",
+      "published": "2026-11-15T12:05:46+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "白宮確認特朗普、習近平和普京將在深圳APEC期間舉行歷史性三方會晤",
+    "summary": "白宫确认特朗普、习近平和普京将在深圳APEC期间举行历史性三方会晤，重点讨论削减核武问题。",
+    "lang": "zh",
+    "source": "BBC中文",
+    "url": "https://www.bbc.com/zhongwen/articles/c6lym29v7nr0o/trad?at_medium=RSS&at_campaign=rss",
+    "published": "2026-11-15T06:04:05+00:00",
+    "event_id": "92720765a427",
+    "sources": [
+     {
+      "title": "白宮確認特朗普、習近平和普京將在深圳APEC期間舉行歷史性三方會晤",
+      "summary": "白宫确认特朗普、习近平和普京将在深圳APEC期间举行历史性三方会晤，重点讨论削减核武问题。",
+      "lang": "zh",
+      "source": "BBC中文",
+      "url": "https://www.bbc.com/zhongwen/articles/c6lym29v7nr0o/trad?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-15T06:04:05+00:00"
+     }
+    ],
+    "status": "unchanged",
+    "change_summary": "",
+    "previous_date": "2026-11-14",
+    "previous_event_id": "92720765a427"
+   }
+  ]
+ }
+}
