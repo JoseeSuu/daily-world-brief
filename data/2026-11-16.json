@@ -1,0 +1,940 @@
+{
+ "date": "2026-11-16",
+ "generated_at": "2026-11-16T13:56:12.743188+00:00",
+ "mode": "full",
+ "cost_usd": 0.0522,
+ "selection": {
+  "model": "claude-haiku-5-5",
+  "effort": "high",
+  "passes": 3,
+  "passes_ok": 3,
+  "cost_usd": 0.0191
+ },
+ "events": {
+  "mode": "full",
+  "compared_with": "2026-11-15",
+  "articles": 39,
+  "uncompared_articles": 0,
+  "events": 39,
+  "cost_usd": 0.0192
+ },
+ "market": null,
+ "failed_sources": [],
+ "cells": {
+  "economia|asia": [
+   {
+    "title": "Japan’s economy contracts for the first time in a year",
+    "summary": "Japan's economy contracted for the first time in a year due to weak consumer spending and record-breaking rains. The contraction complicates the central bank's interest rate plans.",
+    "lang": "en",
+    "source": "FT Global Economy",
+    "url": "https://www.ft.com/content/4eb7ff18-1ba3-4944-ad48-bdc9e5ddc84e?syn-25a6b1a6=1",
+    "published": "2026-11-16T04:59:28+00:00",
+    "event_id": "a623f5871763",
+    "sources": [
+     {
+      "title": "Japan’s economy contracts for the first time in a year",
+      "summary": "Japan's economy contracted for the first time in a year due to weak consumer spending and record-breaking rains. The contraction complicates the central bank's interest rate plans.",
+      "lang": "en",
+      "source": "FT Global Economy",
+      "url": "https://www.ft.com/content/4eb7ff18-1ba3-4944-ad48-bdc9e5ddc84e?syn-25a6b1a6=1",
+      "published": "2026-11-16T04:59:28+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "China’s economic activity slows more than expected in October",
+    "summary": "China's economic activity slowed more than expected in October, prompting Beijing to accelerate budget spending to overcome weaker growth.",
+    "lang": "en",
+    "source": "FT Global Economy",
+    "url": "https://www.ft.com/content/7a6f84cf-ebea-4225-a31a-571fb877286a?syn-25a6b1a6=1",
+    "published": "2026-11-16T04:38:02+00:00",
+    "event_id": "1b559288bc22",
+    "sources": [
+     {
+      "title": "China’s economic activity slows more than expected in October",
+      "summary": "China's economic activity slowed more than expected in October, prompting Beijing to accelerate budget spending to overcome weaker growth.",
+      "lang": "en",
+      "source": "FT Global Economy",
+      "url": "https://www.ft.com/content/7a6f84cf-ebea-4225-a31a-571fb877286a?syn-25a6b1a6=1",
+      "published": "2026-11-16T04:38:02+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "Thailand's GDP growth picks up to 2.9% in Q3 on strong exports",
+    "summary": "Thailand's GDP growth accelerated to 2.9% in the third quarter, driven by strong export performance.",
+    "lang": "en",
+    "source": "Nikkei Asia",
+    "url": "https://asia.nikkei.com/economy/thailand-s-gdp-growth-picks-up-to-2.9-in-q3-on-strong-exports",
+    "published": null,
+    "event_id": "115cd7cd141c",
+    "sources": [
+     {
+      "title": "Thailand's GDP growth picks up to 2.9% in Q3 on strong exports",
+      "summary": "Thailand's GDP growth accelerated to 2.9% in the third quarter, driven by strong export performance.",
+      "lang": "en",
+      "source": "Nikkei Asia",
+      "url": "https://asia.nikkei.com/economy/thailand-s-gdp-growth-picks-up-to-2.9-in-q3-on-strong-exports",
+      "published": null
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "India Weighs Capital Gains, Transaction Tax Change, Mint Reports",
+    "summary": "India is reviewing taxes on capital gains and stock transactions to attract more global investors to its local market.",
+    "lang": "en",
+    "source": "Bloomberg Markets",
+    "url": "https://www.bloomberg.com/news/articles/2026-11-16/india-weighs-capital-gains-transaction-tax-change-mint-reports",
+    "published": "2026-11-16T13:11:37+00:00",
+    "event_id": "531994635730",
+    "sources": [
+     {
+      "title": "India Weighs Capital Gains, Transaction Tax Change, Mint Reports",
+      "summary": "India is reviewing taxes on capital gains and stock transactions to attract more global investors to its local market.",
+      "lang": "en",
+      "source": "Bloomberg Markets",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-16/india-weighs-capital-gains-transaction-tax-change-mint-reports",
+      "published": "2026-11-16T13:11:37+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   }
+  ],
+  "economia|europa": [
+   {
+    "title": "Brussels to propose €45bn Ukraine loan borrowed against EU budget",
+    "summary": "Brussels plans to propose a €45 billion loan for Ukraine, borrowed against the EU budget, to help close Kyiv's funding gap next year.",
+    "lang": "en",
+    "source": "Financial Times",
+    "url": "https://www.ft.com/content/2c9de06b-aa86-4275-b9f3-1276f8c20994?syn-25a6b1a6=1",
+    "published": "2026-11-16T05:00:22+00:00",
+    "event_id": "0e618c87dc46",
+    "sources": [
+     {
+      "title": "Brussels to propose €45bn Ukraine loan borrowed against EU budget",
+      "summary": "Brussels plans to propose a €45 billion loan for Ukraine, borrowed against the EU budget, to help close Kyiv's funding gap next year.",
+      "lang": "en",
+      "source": "Financial Times",
+      "url": "https://www.ft.com/content/2c9de06b-aa86-4275-b9f3-1276f8c20994?syn-25a6b1a6=1",
+      "published": "2026-11-16T05:00:22+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "‘White elephant’ Brexit border checkpoints face demolition as UK-EU reset looms",
+    "summary": "Brexit border checkpoints face demolition as operators worry about costly inspection facilities if the UK-EU deal reduces food and agricultural checks.",
+    "lang": "en",
+    "source": "FT Global Economy",
+    "url": "https://www.ft.com/content/5a606609-fcf0-419b-9d67-5c31320632fc?syn-25a6b1a6=1",
+    "published": "2026-11-16T05:00:11+00:00",
+    "event_id": "fb2e0a2c4c21",
+    "sources": [
+     {
+      "title": "‘White elephant’ Brexit border checkpoints face demolition as UK-EU reset looms",
+      "summary": "Brexit border checkpoints face demolition as operators worry about costly inspection facilities if the UK-EU deal reduces food and agricultural checks.",
+      "lang": "en",
+      "source": "FT Global Economy",
+      "url": "https://www.ft.com/content/5a606609-fcf0-419b-9d67-5c31320632fc?syn-25a6b1a6=1",
+      "published": "2026-11-16T05:00:11+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "La justicia italiana interviene el banco digital Revolut por sospechas de blanqueo y de operaciones de clanes mafiosos",
+    "summary": "La justicia italiana interviene el banco digital Revolut por sospechas de blanqueo de dinero y operaciones mafiosas. Estará bajo administración judicial un año por control insuficiente de operaciones.",
+    "lang": "es",
+    "source": "El País Economía",
+    "url": "https://elpais.com/economia/2026-11-16/la-justicia-italiana-interviene-el-banco-digital-revolut-por-sospechas-de-blanqueo-y-de-operaciones-de-clanes-mafiosos.html",
+    "published": "2026-11-16T12:51:01+00:00",
+    "event_id": "9c506a40f256",
+    "sources": [
+     {
+      "title": "La justicia italiana interviene el banco digital Revolut por sospechas de blanqueo y de operaciones de clanes mafiosos",
+      "summary": "La justicia italiana interviene el banco digital Revolut por sospechas de blanqueo de dinero y operaciones mafiosas. Estará bajo administración judicial un año por control insuficiente de operaciones.",
+      "lang": "es",
+      "source": "El País Economía",
+      "url": "https://elpais.com/economia/2026-11-16/la-justicia-italiana-interviene-el-banco-digital-revolut-por-sospechas-de-blanqueo-y-de-operaciones-de-clanes-mafiosos.html",
+      "published": "2026-11-16T12:51:01+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "Hungary tightens oversight of Chinese, South Korean battery plants",
+    "summary": "Hungary is tightening oversight of battery manufacturing plants operated by Chinese and South Korean companies.",
+    "lang": "en",
+    "source": "Nikkei Asia",
+    "url": "https://asia.nikkei.com/business/automobiles/electric-vehicles/hungary-tightens-oversight-of-chinese-south-korean-battery-plants",
+    "published": null,
+    "event_id": "e5f29b983235",
+    "sources": [
+     {
+      "title": "Hungary tightens oversight of Chinese, South Korean battery plants",
+      "summary": "Hungary is tightening oversight of battery manufacturing plants operated by Chinese and South Korean companies.",
+      "lang": "en",
+      "source": "Nikkei Asia",
+      "url": "https://asia.nikkei.com/business/automobiles/electric-vehicles/hungary-tightens-oversight-of-chinese-south-korean-battery-plants",
+      "published": null
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "Vujcic Says Bets on ECB Hike in 2027 Don’t Seem Unreasonable",
+    "summary": "ECB Vice President Boris Vujcic said market bets on the European Central Bank tightening monetary policy in 2027 may prove reasonable.",
+    "lang": "en",
+    "source": "Bloomberg Economics",
+    "url": "https://www.bloomberg.com/news/articles/2026-11-16/vujcic-says-bets-on-ecb-hike-next-year-don-t-seem-unreasonable",
+    "published": "2026-11-16T09:38:05+00:00",
+    "event_id": "23c62137f772",
+    "sources": [
+     {
+      "title": "Vujcic Says Bets on ECB Hike in 2027 Don’t Seem Unreasonable",
+      "summary": "ECB Vice President Boris Vujcic said market bets on the European Central Bank tightening monetary policy in 2027 may prove reasonable.",
+      "lang": "en",
+      "source": "Bloomberg Economics",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-16/vujcic-says-bets-on-ecb-hike-next-year-don-t-seem-unreasonable",
+      "published": "2026-11-16T09:38:05+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   }
+  ],
+  "economia|america": [
+   {
+    "title": "Canadian Dollar Hits Lowest Since 2025 on 3.1% Inflation Print",
+    "summary": "Canada's inflation held at 3.1% in October as higher energy prices offset declines in cell phone plans and rent growth, pushing the Canadian dollar to its lowest level since 2025.",
+    "lang": "en",
+    "source": "Bloomberg Markets",
+    "url": "https://www.bloomberg.com/news/articles/2026-11-16/canada-inflation-holds-steady-at-3-1-in-october",
+    "published": "2026-11-16T13:30:01+00:00",
+    "event_id": "8908f147eca0",
+    "sources": [
+     {
+      "title": "Canadian Dollar Hits Lowest Since 2025 on 3.1% Inflation Print",
+      "summary": "Canada's inflation held at 3.1% in October as higher energy prices offset declines in cell phone plans and rent growth, pushing the Canadian dollar to its lowest level since 2025.",
+      "lang": "en",
+      "source": "Bloomberg Markets",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-16/canada-inflation-holds-steady-at-3-1-in-october",
+      "published": "2026-11-16T13:30:01+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "Diamondback Agrees to Buy Double Eagle Assets for $5 Billion",
+    "summary": "Diamondback Energy agreed to acquire assets in the Permian Basin from Double Eagle for approximately $5 billion in cash and stock, strengthening its market position.",
+    "lang": "en",
+    "source": "Bloomberg Markets",
+    "url": "https://www.bloomberg.com/news/articles/2026-11-16/diamondback-agrees-to-buy-parts-of-shale-producer-double-eagle",
+    "published": "2026-11-16T11:57:49+00:00",
+    "event_id": "8f70388f2dbb",
+    "sources": [
+     {
+      "title": "Diamondback Agrees to Buy Double Eagle Assets for $5 Billion",
+      "summary": "Diamondback Energy agreed to acquire assets in the Permian Basin from Double Eagle for approximately $5 billion in cash and stock, strengthening its market position.",
+      "lang": "en",
+      "source": "Bloomberg Markets",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-16/diamondback-agrees-to-buy-parts-of-shale-producer-double-eagle",
+      "published": "2026-11-16T11:57:49+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "Brazil Analysts Lift Key Rate and Inflation Forecasts",
+    "summary": "Brazil's analysts raised forecasts for the benchmark interest rate and inflation by year-end amid concerns over the government's economic strategy.",
+    "lang": "en",
+    "source": "Bloomberg Economics",
+    "url": "https://www.bloomberg.com/news/articles/2026-11-16/brazil-analysts-lift-2027-forecasts-for-key-rate-and-inflation",
+    "published": "2026-11-16T12:00:44+00:00",
+    "event_id": "376fdde9f85e",
+    "sources": [
+     {
+      "title": "Brazil Analysts Lift Key Rate and Inflation Forecasts",
+      "summary": "Brazil's analysts raised forecasts for the benchmark interest rate and inflation by year-end amid concerns over the government's economic strategy.",
+      "lang": "en",
+      "source": "Bloomberg Economics",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-16/brazil-analysts-lift-2027-forecasts-for-key-rate-and-inflation",
+      "published": "2026-11-16T12:00:44+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "US Futures Drop as Market Looks to Nvidia Results, Anthropic IPO",
+    "summary": "US equity futures traded lower as technology stocks declined further, with investors awaiting Nvidia earnings results and an Anthropic IPO.",
+    "lang": "en",
+    "source": "Bloomberg Markets",
+    "url": "https://www.bloomberg.com/news/articles/2026-11-16/us-futures-drop-as-market-looks-to-nvidia-results-anthropic-ipo",
+    "published": "2026-11-16T13:17:25+00:00",
+    "event_id": "3e5905b3cec3",
+    "sources": [
+     {
+      "title": "US Futures Drop as Market Looks to Nvidia Results, Anthropic IPO",
+      "summary": "US equity futures traded lower as technology stocks declined further, with investors awaiting Nvidia earnings results and an Anthropic IPO.",
+      "lang": "en",
+      "source": "Bloomberg Markets",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-16/us-futures-drop-as-market-looks-to-nvidia-results-anthropic-ipo",
+      "published": "2026-11-16T13:17:25+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   }
+  ],
+  "tecnologia|asia": [
+   {
+    "title": "US and allies sign accord to protect AI supply chains from China",
+    "summary": "The US and allies signed an accord to protect AI supply chains from China, ahead of Trump's meeting with Xi Jinping at the APEC forum.",
+    "lang": "en",
+    "source": "FT Global Economy",
+    "url": "https://www.ft.com/content/3c2197fc-9618-4838-91e6-522ce1a96a22?syn-25a6b1a6=1",
+    "published": "2026-11-15T17:47:43+00:00",
+    "event_id": "dabb9c42293e",
+    "sources": [
+     {
+      "title": "US and allies sign accord to protect AI supply chains from China",
+      "summary": "The US and allies signed an accord to protect AI supply chains from China, ahead of Trump's meeting with Xi Jinping at the APEC forum.",
+      "lang": "en",
+      "source": "FT Global Economy",
+      "url": "https://www.ft.com/content/3c2197fc-9618-4838-91e6-522ce1a96a22?syn-25a6b1a6=1",
+      "published": "2026-11-15T17:47:43+00:00"
+     }
+    ],
+    "status": "updated",
+    "change_summary": "US and allies sign accord to protect AI supply chains from China",
+    "previous_date": "2026-11-15",
+    "previous_event_id": "dabb9c42293e"
+   },
+   {
+    "title": "韓國客服委外業者MetaM遭駭，加密貨幣交易所Coinone受波及",
+    "summary": "韩国外包客服商MetaM遭黑客入侵，导致加密货币交易所Coinone等多家企业客户个人信息泄露，包括电话号码和客服记录。",
+    "lang": "zh",
+    "source": "iThome 台灣",
+    "url": "https://www.ithome.com.tw/news/180545",
+    "published": "2026-11-16T06:11:06+00:00",
+    "event_id": "0997facc1aee",
+    "sources": [
+     {
+      "title": "韓國客服委外業者MetaM遭駭，加密貨幣交易所Coinone受波及",
+      "summary": "韩国外包客服商MetaM遭黑客入侵，导致加密货币交易所Coinone等多家企业客户个人信息泄露，包括电话号码和客服记录。",
+      "lang": "zh",
+      "source": "iThome 台灣",
+      "url": "https://www.ithome.com.tw/news/180545",
+      "published": "2026-11-16T06:11:06+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "AI代理網攻波及臺灣十餘家企業，逾百萬份個資受影響",
+    "summary": "AI自动化网络攻击自今年7月起波及台湾十多家企业，超过百万份个人资料受影响。",
+    "lang": "zh",
+    "source": "iThome 台灣",
+    "url": "https://www.ithome.com.tw/news/180535",
+    "published": "2026-11-16T02:11:19+00:00",
+    "event_id": "a494a6eec184",
+    "sources": [
+     {
+      "title": "AI代理網攻波及臺灣十餘家企業，逾百萬份個資受影響",
+      "summary": "AI自动化网络攻击自今年7月起波及台湾十多家企业，超过百万份个人资料受影响。",
+      "lang": "zh",
+      "source": "iThome 台灣",
+      "url": "https://www.ithome.com.tw/news/180535",
+      "published": "2026-11-16T02:11:19+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "AI資料中心用電與環境衝擊成COP31焦點，環境部：目前依法無須環評，但應建立低碳AI治理模式",
+    "summary": "AI数据中心的能源消耗和环保影响成为联合国COP31气候变化会议的焦点，环境部表示目前依法无需环评但应建立低碳AI治理模式。",
+    "lang": "zh",
+    "source": "iThome 台灣",
+    "url": "https://www.ithome.com.tw/news/180546",
+    "published": "2026-11-16T06:11:17+00:00",
+    "event_id": "b773442fb78f",
+    "sources": [
+     {
+      "title": "AI資料中心用電與環境衝擊成COP31焦點，環境部：目前依法無須環評，但應建立低碳AI治理模式",
+      "summary": "AI数据中心的能源消耗和环保影响成为联合国COP31气候变化会议的焦点，环境部表示目前依法无需环评但应建立低碳AI治理模式。",
+      "lang": "zh",
+      "source": "iThome 台灣",
+      "url": "https://www.ithome.com.tw/news/180546",
+      "published": "2026-11-16T06:11:17+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "蠕蟲SCKit利用ScreenConnect第三方延伸套件漏洞散布，近500臺主機被感染",
+    "summary": "蠕虫SCKit利用ScreenConnect第三方插件漏洞传播，已感染近500台主机，ConnectWise已禁用受影响的五个第三方插件。",
+    "lang": "zh",
+    "source": "iThome 台灣",
+    "url": "https://www.ithome.com.tw/news/180544",
+    "published": "2026-11-16T05:11:13+00:00",
+    "event_id": "3b3d90d2ac14",
+    "sources": [
+     {
+      "title": "蠕蟲SCKit利用ScreenConnect第三方延伸套件漏洞散布，近500臺主機被感染",
+      "summary": "蠕虫SCKit利用ScreenConnect第三方插件漏洞传播，已感染近500台主机，ConnectWise已禁用受影响的五个第三方插件。",
+      "lang": "zh",
+      "source": "iThome 台灣",
+      "url": "https://www.ithome.com.tw/news/180544",
+      "published": "2026-11-16T05:11:13+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "國科會揭科技施政布局、明年預計新增1萬顆GPU算力",
+    "summary": "国科会揭露科技施政布局，明年预计新增1万颗GPU算力，涵盖AI软件生态系建立和AI灾害管理应用进展。",
+    "lang": "zh",
+    "source": "iThome 台灣",
+    "url": "https://www.ithome.com.tw/news/180547",
+    "published": "2026-11-16T08:11:54+00:00",
+    "event_id": "d1a6eaebdf7a",
+    "sources": [
+     {
+      "title": "國科會揭科技施政布局、明年預計新增1萬顆GPU算力",
+      "summary": "国科会揭露科技施政布局，明年预计新增1万颗GPU算力，涵盖AI软件生态系建立和AI灾害管理应用进展。",
+      "lang": "zh",
+      "source": "iThome 台灣",
+      "url": "https://www.ithome.com.tw/news/180547",
+      "published": "2026-11-16T08:11:54+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "Google DeepMind 推 AlphaGenome 2 模型，捕捉疾病基因變異根源",
+    "summary": "谷歌DeepMind发布AlphaGenome 2模型，可预测DNA序列变异并捕捉疾病基因变异根源。",
+    "lang": "zh",
+    "source": "科技新報 TechNews",
+    "url": "https://technews.tw/2026/11/16/google-deepmind-announces-alphagenome-2/",
+    "published": "2026-11-16T09:14:40+00:00",
+    "event_id": "4abc0e0d77a3",
+    "sources": [
+     {
+      "title": "Google DeepMind 推 AlphaGenome 2 模型，捕捉疾病基因變異根源",
+      "summary": "谷歌DeepMind发布AlphaGenome 2模型，可预测DNA序列变异并捕捉疾病基因变异根源。",
+      "lang": "zh",
+      "source": "科技新報 TechNews",
+      "url": "https://technews.tw/2026/11/16/google-deepmind-announces-alphagenome-2/",
+      "published": "2026-11-16T09:14:40+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   }
+  ],
+  "politica|asia": [
+   {
+    "title": "Iraq orders army to enter stronghold of Iran-backed group",
+    "summary": "Iraq's Prime Minister Ali al-Zaidi ordered the armed forces to enter Jurf al-Sakher, a stronghold of the Iran-backed Kataeb Hezbollah group, following accusations of oil theft.",
+    "lang": "en",
+    "source": "Channel NewsAsia",
+    "url": "https://www.channelnewsasia.com/world/iraq-orders-army-enter-stronghold-iran-backed-group-6555841",
+    "published": "2026-11-16T13:44:00+00:00",
+    "event_id": "552b1ae08bf8",
+    "sources": [
+     {
+      "title": "Iraq orders army to enter stronghold of Iran-backed group",
+      "summary": "Iraq's Prime Minister Ali al-Zaidi ordered the armed forces to enter Jurf al-Sakher, a stronghold of the Iran-backed Kataeb Hezbollah group, following accusations of oil theft.",
+      "lang": "en",
+      "source": "Channel NewsAsia",
+      "url": "https://www.channelnewsasia.com/world/iraq-orders-army-enter-stronghold-iran-backed-group-6555841",
+      "published": "2026-11-16T13:44:00+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "Yemeni forces retreat to defend port city from Houthis",
+    "summary": "Saudi-backed forces are retreating from the Bab al-Mandab Strait to defend the port city of Aden against Houthi advances.",
+    "lang": "en",
+    "source": "BBC World",
+    "url": "https://www.bbc.co.uk/news/articles/cqvg2xgyvnjpo?at_medium=RSS&at_campaign=rss",
+    "published": "2026-11-16T11:09:38+00:00",
+    "event_id": "7162fe110878",
+    "sources": [
+     {
+      "title": "Yemeni forces retreat to defend port city from Houthis",
+      "summary": "Saudi-backed forces are retreating from the Bab al-Mandab Strait to defend the port city of Aden against Houthi advances.",
+      "lang": "en",
+      "source": "BBC World",
+      "url": "https://www.bbc.co.uk/news/articles/cqvg2xgyvnjpo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-16T11:09:38+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "UK and allies call on Israel to allow rapid humanitarian access to Gaza",
+    "summary": "The UK, Australia, Canada, and Italy called on Israel to allow rapid humanitarian access to Gaza, citing withheld supplies including 150,000 tents at borders.",
+    "lang": "en",
+    "source": "BBC World",
+    "url": "https://www.bbc.co.uk/news/articles/cwm2mllj1pp8o?at_medium=RSS&at_campaign=rss",
+    "published": "2026-11-16T08:56:04+00:00",
+    "event_id": "a50a2c56e09e",
+    "sources": [
+     {
+      "title": "UK and allies call on Israel to allow rapid humanitarian access to Gaza",
+      "summary": "The UK, Australia, Canada, and Italy called on Israel to allow rapid humanitarian access to Gaza, citing withheld supplies including 150,000 tents at borders.",
+      "lang": "en",
+      "source": "BBC World",
+      "url": "https://www.bbc.co.uk/news/articles/cwm2mllj1pp8o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-16T08:56:04+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   }
+  ],
+  "politica|europa": [
+   {
+    "title": "Russia downs hundreds of drones targeting Moscow",
+    "summary": "Russia's air defenses intercepted approximately 600 drones targeting Moscow in one of Ukraine's largest attacks of the nearly five-year war.",
+    "lang": "en",
+    "source": "Le Monde International",
+    "url": "https://www.lemonde.fr/en/international/article/2026/11/16/russia-downs-hundreds-of-drones-targeting-moscow_6782011_4.html",
+    "published": "2026-11-16T09:10:32+00:00",
+    "event_id": "1afd9a438ede",
+    "sources": [
+     {
+      "title": "Russia downs hundreds of drones targeting Moscow",
+      "summary": "Russia's air defenses intercepted approximately 600 drones targeting Moscow in one of Ukraine's largest attacks of the nearly five-year war.",
+      "lang": "en",
+      "source": "Le Monde International",
+      "url": "https://www.lemonde.fr/en/international/article/2026/11/16/russia-downs-hundreds-of-drones-targeting-moscow_6782011_4.html",
+      "published": "2026-11-16T09:10:32+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "Ukraine hits key Crimea bridge in 1,300-drone barrage",
+    "summary": "Ukraine struck a bridge linking annexed Crimea to Russia with a 1,300-drone barrage, disrupting traffic on the key passageway.",
+    "lang": "en",
+    "source": "Le Monde International",
+    "url": "https://www.lemonde.fr/en/international/article/2026/11/16/ukraine-hits-key-crimea-bridge-in-1-300-drone-barrage_6782010_4.html",
+    "published": "2026-11-16T09:10:05+00:00",
+    "event_id": "6cba76ad8793",
+    "sources": [
+     {
+      "title": "Ukraine hits key Crimea bridge in 1,300-drone barrage",
+      "summary": "Ukraine struck a bridge linking annexed Crimea to Russia with a 1,300-drone barrage, disrupting traffic on the key passageway.",
+      "lang": "en",
+      "source": "Le Monde International",
+      "url": "https://www.lemonde.fr/en/international/article/2026/11/16/ukraine-hits-key-crimea-bridge-in-1-300-drone-barrage_6782010_4.html",
+      "published": "2026-11-16T09:10:05+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "Russian attacks kill three in Ukraine, EU accuses Moscow of prolonging war",
+    "summary": "Russian attacks killed three in Ukraine as EU foreign policy chief Kaja Kallas accused President Putin of making maximalist demands to prolong the war.",
+    "lang": "en",
+    "source": "Al Jazeera English",
+    "url": "https://www.aljazeera.com/news/2026/11/16/russian-attacks-kill-three-in-ukraine-eu-accuses-moscow-of-prolonging-war?traffic_source=rss",
+    "published": "2026-11-16T13:28:23+00:00",
+    "event_id": "495610e1e9d7",
+    "sources": [
+     {
+      "title": "Russian attacks kill three in Ukraine, EU accuses Moscow of prolonging war",
+      "summary": "Russian attacks killed three in Ukraine as EU foreign policy chief Kaja Kallas accused President Putin of making maximalist demands to prolong the war.",
+      "lang": "en",
+      "source": "Al Jazeera English",
+      "url": "https://www.aljazeera.com/news/2026/11/16/russian-attacks-kill-three-in-ukraine-eu-accuses-moscow-of-prolonging-war?traffic_source=rss",
+      "published": "2026-11-16T13:28:23+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "Estonia cerrará en diciembre su frontera con Rusia tras acusar al Kremlin de un intento de sabotaje",
+    "summary": "Estonia cerrará su frontera con Rusia en diciembre tras acusaciones de sabotaje del Kremlin. La Fiscalía anuncia detenciones de ocho personas relacionadas con acciones contra una fábrica militar.",
+    "lang": "es",
+    "source": "El País Internacional",
+    "url": "https://elpais.com/internacional/2026-11-15/estonia-se-prepara-para-cerrar-en-diciembre-su-frontera-con-rusia-tras-un-presunto-intento-de-sabotaje.html",
+    "published": "2026-11-15T20:33:37+00:00",
+    "event_id": "32ea085da917",
+    "sources": [
+     {
+      "title": "Estonia cerrará en diciembre su frontera con Rusia tras acusar al Kremlin de un intento de sabotaje",
+      "summary": "Estonia cerrará su frontera con Rusia en diciembre tras acusaciones de sabotaje del Kremlin. La Fiscalía anuncia detenciones de ocho personas relacionadas con acciones contra una fábrica militar.",
+      "lang": "es",
+      "source": "El País Internacional",
+      "url": "https://elpais.com/internacional/2026-11-15/estonia-se-prepara-para-cerrar-en-diciembre-su-frontera-con-rusia-tras-un-presunto-intento-de-sabotaje.html",
+      "published": "2026-11-15T20:33:37+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "Five EU countries expected to announce migrant deportation centre in Rwanda",
+    "summary": "Five EU countries—Germany, Denmark, Austria, Greece, and the Netherlands—are expected to announce a \"return hub\" in Rwanda for failed asylum seekers.",
+    "lang": "en",
+    "source": "BBC World",
+    "url": "https://www.bbc.co.uk/news/articles/cw987343352go?at_medium=RSS&at_campaign=rss",
+    "published": "2026-11-16T12:54:44+00:00",
+    "event_id": "8d5a143784b6",
+    "sources": [
+     {
+      "title": "Five EU countries expected to announce migrant deportation centre in Rwanda",
+      "summary": "Five EU countries—Germany, Denmark, Austria, Greece, and the Netherlands—are expected to announce a \"return hub\" in Rwanda for failed asylum seekers.",
+      "lang": "en",
+      "source": "BBC World",
+      "url": "https://www.bbc.co.uk/news/articles/cw987343352go?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-16T12:54:44+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   }
+  ],
+  "politica|america": [
+   {
+    "title": "Canada could work with Chinese automakers if US trade talks fail, says Carney",
+    "summary": "Canada's Prime Minister Mark Carney said Canada could work with Chinese automakers if US trade talks fail, ahead of the APEC summit.",
+    "lang": "en",
+    "source": "The Guardian World",
+    "url": "https://www.theguardian.com/world/2026/nov/16/canada-carney-cars-evs-tariffs-xi-jinping-china-trump-trade-talks",
+    "published": "2026-11-16T04:39:20+00:00",
+    "event_id": "26ba3dc0cd28",
+    "sources": [
+     {
+      "title": "Canada could work with Chinese automakers if US trade talks fail, says Carney",
+      "summary": "Canada's Prime Minister Mark Carney said Canada could work with Chinese automakers if US trade talks fail, ahead of the APEC summit.",
+      "lang": "en",
+      "source": "The Guardian World",
+      "url": "https://www.theguardian.com/world/2026/nov/16/canada-carney-cars-evs-tariffs-xi-jinping-china-trump-trade-talks",
+      "published": "2026-11-16T04:39:20+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "Mexican drug lord Miguel Ángel Félix Gallardo dies age 80",
+    "summary": "Miguel Ángel Félix Gallardo, the \"Boss of Bosses\" and former head of the Guadalajara Cartel, died at age 80. His 1989 arrest dismantled the powerful drug organization.",
+    "lang": "en",
+    "source": "BBC World",
+    "url": "https://www.bbc.co.uk/news/articles/c51k9nkwrndxo?at_medium=RSS&at_campaign=rss",
+    "published": "2026-11-16T03:21:56+00:00",
+    "event_id": "111652aa24a0",
+    "sources": [
+     {
+      "title": "Mexican drug lord Miguel Ángel Félix Gallardo dies age 80",
+      "summary": "Miguel Ángel Félix Gallardo, the \"Boss of Bosses\" and former head of the Guadalajara Cartel, died at age 80. His 1989 arrest dismantled the powerful drug organization.",
+      "lang": "en",
+      "source": "BBC World",
+      "url": "https://www.bbc.co.uk/news/articles/c51k9nkwrndxo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-16T03:21:56+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "Guatemala decreta el estado de sitio en el feudo de los grupos narco señalados como terroristas por Estados Unidos",
+    "summary": "Guatemala decreta estado de sitio en Zacapa e Izabal, territorios controlados por grupos narco designados terroristas por Estados Unidos. La medida del presidente Arévalo durará un mes en zonas clave del tráfico de droga.",
+    "lang": "es",
+    "source": "El País Internacional",
+    "url": "https://elpais.com/america/2026-11-15/guatemala-decreta-el-estado-de-sitio-en-el-feudo-de-los-grupos-narco-senalados-como-terroristas-por-estados-unidos.html",
+    "published": "2026-11-15T17:21:16+00:00",
+    "event_id": "70cdcddf98fb",
+    "sources": [
+     {
+      "title": "Guatemala decreta el estado de sitio en el feudo de los grupos narco señalados como terroristas por Estados Unidos",
+      "summary": "Guatemala decreta estado de sitio en Zacapa e Izabal, territorios controlados por grupos narco designados terroristas por Estados Unidos. La medida del presidente Arévalo durará un mes en zonas clave del tráfico de droga.",
+      "lang": "es",
+      "source": "El País Internacional",
+      "url": "https://elpais.com/america/2026-11-15/guatemala-decreta-el-estado-de-sitio-en-el-feudo-de-los-grupos-narco-senalados-como-terroristas-por-estados-unidos.html",
+      "published": "2026-11-15T17:21:16+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "‘The blood of these brothers cries out’: Pope Leo demands justice for people killed protecting the Amazon",
+    "summary": "Pope Francis demanded justice for environmental defenders killed protecting the Amazon during his visit to Peru.",
+    "lang": "en",
+    "source": "The Guardian World",
+    "url": "https://www.theguardian.com/world/2026/nov/16/pope-leo-speech-peru-justice-for-amazon-activists-environment",
+    "published": "2026-11-16T01:13:44+00:00",
+    "event_id": "81e7758ea71c",
+    "sources": [
+     {
+      "title": "‘The blood of these brothers cries out’: Pope Leo demands justice for people killed protecting the Amazon",
+      "summary": "Pope Francis demanded justice for environmental defenders killed protecting the Amazon during his visit to Peru.",
+      "lang": "en",
+      "source": "The Guardian World",
+      "url": "https://www.theguardian.com/world/2026/nov/16/pope-leo-speech-peru-justice-for-amazon-activists-environment",
+      "published": "2026-11-16T01:13:44+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   }
+  ],
+  "tecnologia|europa": [
+   {
+    "title": "英國將向挪威採購三艘獵雷母艦，聯手打造無人反水雷戰力",
+    "summary": "英国皇家海军确认加入挪威P1118标准化舰艇计划，采购三艘可部署无人反水雷战力的猎雷母舰。",
+    "lang": "zh",
+    "source": "科技新報 TechNews",
+    "url": "https://technews.tw/2026/11/16/royal-navy-is-going-to-buy-norwegian-p118-mine-hunting-ships/",
+    "published": "2026-11-16T09:42:54+00:00",
+    "event_id": "b8fe0355111f",
+    "sources": [
+     {
+      "title": "英國將向挪威採購三艘獵雷母艦，聯手打造無人反水雷戰力",
+      "summary": "英国皇家海军确认加入挪威P1118标准化舰艇计划，采购三艘可部署无人反水雷战力的猎雷母舰。",
+      "lang": "zh",
+      "source": "科技新報 TechNews",
+      "url": "https://technews.tw/2026/11/16/royal-navy-is-going-to-buy-norwegian-p118-mine-hunting-ships/",
+      "published": "2026-11-16T09:42:54+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "Helsing backer Plural raises $1.1B to fund Europe’s next moonshots",
+    "summary": "Plural, an operator-led VC firm, raised €1 billion ($1.1 billion) in new capital to fund European startups and technologies.",
+    "lang": "en",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/11/15/helsing-backer-plural-raises-1-1b-to-fund-europes-next-moonshots/",
+    "published": "2026-11-16T07:00:00+00:00",
+    "event_id": "a005607dd1fc",
+    "sources": [
+     {
+      "title": "Helsing backer Plural raises $1.1B to fund Europe’s next moonshots",
+      "summary": "Plural, an operator-led VC firm, raised €1 billion ($1.1 billion) in new capital to fund European startups and technologies.",
+      "lang": "en",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/11/15/helsing-backer-plural-raises-1-1b-to-fund-europes-next-moonshots/",
+      "published": "2026-11-16T07:00:00+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "LVMH’s Media Division announces strategic partnership with OpenAI",
+    "summary": "LVMH's Media Division partnered with OpenAI to support journalism through AI and enhance publication accessibility via ChatGPT.",
+    "lang": "en",
+    "source": "OpenAI News",
+    "url": "https://openai.com/index/lvmh-media-division-partnership",
+    "published": "2026-11-16T09:00:00+00:00",
+    "event_id": "91e58e2ea930",
+    "sources": [
+     {
+      "title": "LVMH’s Media Division announces strategic partnership with OpenAI",
+      "summary": "LVMH's Media Division partnered with OpenAI to support journalism through AI and enhance publication accessibility via ChatGPT.",
+      "lang": "en",
+      "source": "OpenAI News",
+      "url": "https://openai.com/index/lvmh-media-division-partnership",
+      "published": "2026-11-16T09:00:00+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "Un día sin Outlook y un fallo en cadena que tumbó a Microsoft. Ya se sabe por qué: un bug que llevaba dormido desde julio",
+    "summary": "Un fallo en Outlook causó caída de servicios de Microsoft, afectando también conectores de empresas como Anthropic. El bug dormía desde julio en los sistemas de la compañía.",
+    "lang": "es",
+    "source": "Xataka",
+    "url": "https://www.xataka.com/aplicaciones/dia-outlook-fallo-cadena-que-tumbo-a-microsoft-se-sabe-que-bug-que-llevaba-dormido-julio",
+    "published": "2026-11-16T13:23:15+00:00",
+    "event_id": "f1e584bf6570",
+    "sources": [
+     {
+      "title": "Un día sin Outlook y un fallo en cadena que tumbó a Microsoft. Ya se sabe por qué: un bug que llevaba dormido desde julio",
+      "summary": "Un fallo en Outlook causó caída de servicios de Microsoft, afectando también conectores de empresas como Anthropic. El bug dormía desde julio en los sistemas de la compañía.",
+      "lang": "es",
+      "source": "Xataka",
+      "url": "https://www.xataka.com/aplicaciones/dia-outlook-fallo-cadena-que-tumbo-a-microsoft-se-sabe-que-bug-que-llevaba-dormido-julio",
+      "published": "2026-11-16T13:23:15+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   }
+  ],
+  "tecnologia|america": [
+   {
+    "title": "Vulcan rocket fails, destroying 40 Amazon Leo satellites",
+    "summary": "United Launch Alliance suffered its first mission failure in 20 years, failing to deliver 40 Amazon Leo satellites to orbit.",
+    "lang": "en",
+    "source": "The Verge",
+    "url": "https://www.theverge.com/science/1034006/vulcan-rocket-fails-destroying-40-amazon-leo-satellites",
+    "published": "2026-11-15T21:05:02+00:00",
+    "event_id": "c8f9f37dbdfe",
+    "sources": [
+     {
+      "title": "Vulcan rocket fails, destroying 40 Amazon Leo satellites",
+      "summary": "United Launch Alliance suffered its first mission failure in 20 years, failing to deliver 40 Amazon Leo satellites to orbit.",
+      "lang": "en",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/science/1034006/vulcan-rocket-fails-destroying-40-amazon-leo-satellites",
+      "published": "2026-11-15T21:05:02+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "Amazon’s Zoox robotaxis are now available via Uber",
+    "summary": "Amazon's Zoox robotaxis are now available through Uber in Las Vegas, as Uber shifts its robotaxi partnerships.",
+    "lang": "en",
+    "source": "The Verge",
+    "url": "https://www.theverge.com/transportation/1032984/uber-zoox-robotaxi-las-vegas-launch-mgm-resorts-los-angeles",
+    "published": "2026-11-16T12:00:00+00:00",
+    "event_id": "537013a04ac2",
+    "sources": [
+     {
+      "title": "Amazon’s Zoox robotaxis are now available via Uber",
+      "summary": "Amazon's Zoox robotaxis are now available through Uber in Las Vegas, as Uber shifts its robotaxi partnerships.",
+      "lang": "en",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/transportation/1032984/uber-zoox-robotaxi-las-vegas-launch-mgm-resorts-los-angeles",
+      "published": "2026-11-16T12:00:00+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "Congress wants to tighten export rules on AI chips after Nvidia spy scandal",
+    "summary": "Congress is seeking to tighten export rules on AI chips following a scandal involving a suspected Chinese spy and former Nvidia CEO Jensen Huang.",
+    "lang": "en",
+    "source": "The Verge",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/1033984/congress-export-rules-ai-chips-china",
+    "published": "2026-11-15T19:15:43+00:00",
+    "event_id": "1207b5c1c70b",
+    "sources": [
+     {
+      "title": "Congress wants to tighten export rules on AI chips after Nvidia spy scandal",
+      "summary": "Congress is seeking to tighten export rules on AI chips following a scandal involving a suspected Chinese spy and former Nvidia CEO Jensen Huang.",
+      "lang": "en",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1033984/congress-export-rules-ai-chips-china",
+      "published": "2026-11-15T19:15:43+00:00"
+     }
+    ],
+    "status": "unchanged",
+    "change_summary": "",
+    "previous_date": "2026-11-15",
+    "previous_event_id": "dabb9c42293e"
+   }
+  ]
+ }
+}
