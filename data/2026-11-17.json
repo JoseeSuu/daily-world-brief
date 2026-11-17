@@ -1,0 +1,828 @@
+{
+ "date": "2026-11-17",
+ "generated_at": "2026-11-17T14:48:26.937235+00:00",
+ "mode": "full",
+ "cost_usd": 0.0491,
+ "selection": {
+  "model": "claude-haiku-5-5",
+  "effort": "high",
+  "passes": 3,
+  "passes_ok": 3,
+  "cost_usd": 0.0193
+ },
+ "events": {
+  "mode": "full",
+  "compared_with": "2026-11-16",
+  "articles": 36,
+  "uncompared_articles": 0,
+  "events": 33,
+  "cost_usd": 0.0184
+ },
+ "market": null,
+ "failed_sources": [
+  "FT中文网"
+ ],
+ "cells": {
+  "tecnologia|asia": [
+   {
+    "title": "US moves to curb China's remote access to AI chips after Nvidia scandal",
+    "summary": "The US implemented new regulations to prevent Chinese companies from remotely accessing advanced AI chips through overseas data centers, closing previous export loopholes.",
+    "lang": "en",
+    "source": "Nikkei Asia",
+    "url": "https://asia.nikkei.com/business/technology/artificial-intelligence/us-moves-to-curb-china-s-remote-access-to-ai-chips-after-nvidia-scandal",
+    "published": null,
+    "event_id": "dabb9c42293e",
+    "sources": [
+     {
+      "title": "US moves to curb China's remote access to AI chips after Nvidia scandal",
+      "summary": "The US implemented new regulations to prevent Chinese companies from remotely accessing advanced AI chips through overseas data centers, closing previous export loopholes.",
+      "lang": "en",
+      "source": "Nikkei Asia",
+      "url": "https://asia.nikkei.com/business/technology/artificial-intelligence/us-moves-to-curb-china-s-remote-access-to-ai-chips-after-nvidia-scandal",
+      "published": null
+     },
+     {
+      "title": "特朗普访华前，美国推进新规封堵芯片出口漏洞",
+      "summary": "美国推出新规限制芯片出口至海外数据中心，防止中国企业通过东南亚租用英伟达等公司的先进芯片。",
+      "lang": "zh",
+      "source": "纽约时报中文网",
+      "url": "https://cn.nytimes.com/usa/20261117/trump-china-ai-chip-loophole/?utm_source=RSS",
+      "published": "2026-11-17T02:24:52+00:00"
+     },
+     {
+      "title": "美祭 AI 晶片出口新規防轉運，廣達、緯創評估不受影響",
+      "summary": "美国公布新规限制芯片出口海外数据中心以防转运，台湾广达、緯創评估不受影响。",
+      "lang": "zh",
+      "source": "科技新報 TechNews",
+      "url": "https://finance.technews.tw/2026/11/17/us-ai-chip-export-rules-prevent-transshipment-quanta-wistron-no-impact/",
+      "published": "2026-11-17T09:50:48+00:00"
+     }
+    ],
+    "status": "updated",
+    "change_summary": "US moves to curb China's remote access to AI chips after Nvidia scandal",
+    "previous_date": "2026-11-16",
+    "previous_event_id": "dabb9c42293e"
+   },
+   {
+    "title": "Tor匿名網路遭DDoS攻擊，官方緊急更新IPv6防禦機制",
+    "summary": "Tor Project发布安全更新修补IPv6漏洞，网络遭持续DDoS攻击导致中继节点负载过重。",
+    "lang": "zh",
+    "source": "iThome 台灣",
+    "url": "https://www.ithome.com.tw/news/180572",
+    "published": "2026-11-17T06:11:04+00:00",
+    "event_id": "880b7eae7d5a",
+    "sources": [
+     {
+      "title": "Tor匿名網路遭DDoS攻擊，官方緊急更新IPv6防禦機制",
+      "summary": "Tor Project发布安全更新修补IPv6漏洞，网络遭持续DDoS攻击导致中继节点负载过重。",
+      "lang": "zh",
+      "source": "iThome 台灣",
+      "url": "https://www.ithome.com.tw/news/180572",
+      "published": "2026-11-17T06:11:04+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "500大超級電腦排名前十名不變，新系統數量創新低，並呈現AI工廠正在改寫GPU算力流向的趨勢",
+    "summary": "全球500大超级电脑排名前十名保持稳定，新系统数量创新低，AI工厂正改写GPU算力流向。",
+    "lang": "zh",
+    "source": "iThome 台灣",
+    "url": "https://www.ithome.com.tw/news/180575",
+    "published": "2026-11-17T06:11:37+00:00",
+    "event_id": "f2ef8d1d9b00",
+    "sources": [
+     {
+      "title": "500大超級電腦排名前十名不變，新系統數量創新低，並呈現AI工廠正在改寫GPU算力流向的趨勢",
+      "summary": "全球500大超级电脑排名前十名保持稳定，新系统数量创新低，AI工厂正改写GPU算力流向。",
+      "lang": "zh",
+      "source": "iThome 台灣",
+      "url": "https://www.ithome.com.tw/news/180575",
+      "published": "2026-11-17T06:11:37+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   }
+  ],
+  "politica|asia": [
+   {
+    "title": "Trump joins ‘Quad’ summit for first leaders’ meeting in two years",
+    "summary": "Trump attended the first Quad leaders' meeting in two years, where the group expressed grave concerns about economic coercion and export restrictions.",
+    "lang": "en",
+    "source": "Japan Times",
+    "url": "https://www.japantimes.co.jp/news/2026/11/17/japan/politics/quad-leaders-summit-takaichi-trump/",
+    "published": "2026-11-17T13:23:00+00:00",
+    "event_id": "4f28fcc0467a",
+    "sources": [
+     {
+      "title": "Trump joins ‘Quad’ summit for first leaders’ meeting in two years",
+      "summary": "Trump attended the first Quad leaders' meeting in two years, where the group expressed grave concerns about economic coercion and export restrictions.",
+      "lang": "en",
+      "source": "Japan Times",
+      "url": "https://www.japantimes.co.jp/news/2026/11/17/japan/politics/quad-leaders-summit-takaichi-trump/",
+      "published": "2026-11-17T13:23:00+00:00"
+     },
+     {
+      "title": "Trump meets Quad leaders, says 4 nations agree on 'critical mineral deals'",
+      "summary": "Trump met with Quad leaders, announcing that the four nations agreed on critical mineral deals to strengthen regional cooperation.",
+      "lang": "en",
+      "source": "Nikkei Asia",
+      "url": "https://asia.nikkei.com/politics/international-relations/indo-pacific/trump-meets-quad-leaders-says-4-nations-agree-on-critical-mineral-deals",
+      "published": null
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "Xi and Canada’s Carney slash tariffs as China courts middle powers",
+    "summary": "Xi and Canada's Carney cut tariffs as China courts middle powers, though analysts warn Ottawa risks dependency on Beijing amid US pressure.",
+    "lang": "en",
+    "source": "FT Global Economy",
+    "url": "https://www.ft.com/content/3a8dbdda-1645-4b62-b64b-7da5de611d53?syn-25a6b1a6=1",
+    "published": "2026-11-17T06:20:15+00:00",
+    "event_id": "26ba3dc0cd28",
+    "sources": [
+     {
+      "title": "Xi and Canada’s Carney slash tariffs as China courts middle powers",
+      "summary": "Xi and Canada's Carney cut tariffs as China courts middle powers, though analysts warn Ottawa risks dependency on Beijing amid US pressure.",
+      "lang": "en",
+      "source": "FT Global Economy",
+      "url": "https://www.ft.com/content/3a8dbdda-1645-4b62-b64b-7da5de611d53?syn-25a6b1a6=1",
+      "published": "2026-11-17T06:20:15+00:00"
+     }
+    ],
+    "status": "updated",
+    "change_summary": "Xi and Canada's Carney slash tariffs as China courts middle powers",
+    "previous_date": "2026-11-16",
+    "previous_event_id": "26ba3dc0cd28"
+   },
+   {
+    "title": "Trump to meet Chinese leader Xi Jinping and Russia's Vladimir Putin for joint summit",
+    "summary": "Trump is meeting with Xi Jinping and Vladimir Putin for a rare trilateral summit in Asia, covering trade, security, and bilateral issues.",
+    "lang": "en",
+    "source": "NPR World",
+    "url": "https://www.npr.org/2026/11/17/nx-s1-6042448/trump-to-meet-chinese-leader-xi-jinping-and-russias-vladimir-putin-for-joint-summit",
+    "published": "2026-11-17T09:46:00+00:00",
+    "event_id": "0180ed5a8859",
+    "sources": [
+     {
+      "title": "Trump to meet Chinese leader Xi Jinping and Russia's Vladimir Putin for joint summit",
+      "summary": "Trump is meeting with Xi Jinping and Vladimir Putin for a rare trilateral summit in Asia, covering trade, security, and bilateral issues.",
+      "lang": "en",
+      "source": "NPR World",
+      "url": "https://www.npr.org/2026/11/17/nx-s1-6042448/trump-to-meet-chinese-leader-xi-jinping-and-russias-vladimir-putin-for-joint-summit",
+      "published": "2026-11-17T09:46:00+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "Iran claims attack on US base in Bahrain",
+    "summary": "Iran's Islamic Revolutionary Guard Corps claimed it targeted a US-operated radar system at a US base in Bahrain.",
+    "lang": "en",
+    "source": "Le Monde International",
+    "url": "https://www.lemonde.fr/en/international/article/2026/11/17/iran-claims-attack-on-us-base-in-bahrain_6782812_4.html",
+    "published": "2026-11-17T12:51:57+00:00",
+    "event_id": "3d0f749a5cdd",
+    "sources": [
+     {
+      "title": "Iran claims attack on US base in Bahrain",
+      "summary": "Iran's Islamic Revolutionary Guard Corps claimed it targeted a US-operated radar system at a US base in Bahrain.",
+      "lang": "en",
+      "source": "Le Monde International",
+      "url": "https://www.lemonde.fr/en/international/article/2026/11/17/iran-claims-attack-on-us-base-in-bahrain_6782812_4.html",
+      "published": "2026-11-17T12:51:57+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "Xi y Sheinbaum inauguran “una nueva era de cooperación” entre China y México",
+    "summary": "Xi Jinping recibió a la presidenta mexicana Claudia Sheinbaum en la cumbre del APEC, inaugurando una nueva era de cooperación bilateral entre China y México.",
+    "lang": "es",
+    "source": "El País Internacional",
+    "url": "https://elpais.com/internacional/2026-11-17/xi-y-sheinbaum-dan-inicio-a-una-nueva-era-de-cooperacion-entre-china-y-mexico.html",
+    "published": "2026-11-17T13:13:57+00:00",
+    "event_id": "c0c2819a0e59",
+    "sources": [
+     {
+      "title": "Xi y Sheinbaum inauguran “una nueva era de cooperación” entre China y México",
+      "summary": "Xi Jinping recibió a la presidenta mexicana Claudia Sheinbaum en la cumbre del APEC, inaugurando una nueva era de cooperación bilateral entre China y México.",
+      "lang": "es",
+      "source": "El País Internacional",
+      "url": "https://elpais.com/internacional/2026-11-17/xi-y-sheinbaum-dan-inicio-a-una-nueva-era-de-cooperacion-entre-china-y-mexico.html",
+      "published": "2026-11-17T13:13:57+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   }
+  ],
+  "economia|asia": [
+   {
+    "title": "Thailand Opens Market Wider to US Goods to Secure Trade Deal",
+    "summary": "Thailand opened its market wider to US goods after months of trade negotiations, making concessions to preserve access to its largest export market.",
+    "lang": "en",
+    "source": "Bloomberg Economics",
+    "url": "https://www.bloomberg.com/news/articles/2026-11-17/us-thailand-reach-substantial-conclusion-of-trade-deal",
+    "published": "2026-11-17T13:10:25+00:00",
+    "event_id": "115cd7cd141c",
+    "sources": [
+     {
+      "title": "Thailand Opens Market Wider to US Goods to Secure Trade Deal",
+      "summary": "Thailand opened its market wider to US goods after months of trade negotiations, making concessions to preserve access to its largest export market.",
+      "lang": "en",
+      "source": "Bloomberg Economics",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-17/us-thailand-reach-substantial-conclusion-of-trade-deal",
+      "published": "2026-11-17T13:10:25+00:00"
+     }
+    ],
+    "status": "unclear",
+    "change_summary": "",
+    "previous_date": "2026-11-16",
+    "previous_event_id": "115cd7cd141c"
+   },
+   {
+    "title": "Oil Rises as Fresh Mideast Flareups Counter Ample Supplies",
+    "summary": "Oil prices rose following fresh Middle East flare-ups, despite signals that global supplies are outpacing demand.",
+    "lang": "en",
+    "source": "Bloomberg Markets",
+    "url": "https://www.bloomberg.com/news/articles/2026-11-16/latest-oil-market-news-and-analysis-for-nov-17",
+    "published": "2026-11-16T23:02:55+00:00",
+    "event_id": "e53083163ea2",
+    "sources": [
+     {
+      "title": "Oil Rises as Fresh Mideast Flareups Counter Ample Supplies",
+      "summary": "Oil prices rose following fresh Middle East flare-ups, despite signals that global supplies are outpacing demand.",
+      "lang": "en",
+      "source": "Bloomberg Markets",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-16/latest-oil-market-news-and-analysis-for-nov-17",
+      "published": "2026-11-16T23:02:55+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   }
+  ],
+  "economia|europa": [
+   {
+    "title": "Leak of 15mn Deutsche Bank files exposes systemic failures",
+    "summary": "A leak of 15 million Deutsche Bank files exposed systemic failures and raised questions about CEO Christian Sewing's leadership and career.",
+    "lang": "en",
+    "source": "Financial Times",
+    "url": "https://www.ft.com/content/df518845-ed97-4a38-8a38-7fa9d4d24003?syn-25a6b1a6=1",
+    "published": "2026-11-17T08:09:20+00:00",
+    "event_id": "b66a1a798569",
+    "sources": [
+     {
+      "title": "Leak of 15mn Deutsche Bank files exposes systemic failures",
+      "summary": "A leak of 15 million Deutsche Bank files exposed systemic failures and raised questions about CEO Christian Sewing's leadership and career.",
+      "lang": "en",
+      "source": "Financial Times",
+      "url": "https://www.ft.com/content/df518845-ed97-4a38-8a38-7fa9d4d24003?syn-25a6b1a6=1",
+      "published": "2026-11-17T08:09:20+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "Brussels raises Eurozone growth forecasts as AI boom drives exports",
+    "summary": "Brussels raised Eurozone growth forecasts as AI boom drives exports, though forecasts show diverging fortunes among the bloc's largest economies.",
+    "lang": "en",
+    "source": "FT Global Economy",
+    "url": "https://www.ft.com/content/ce0f66b9-703d-4e04-b046-bf04a3d9209a?syn-25a6b1a6=1",
+    "published": "2026-11-17T10:06:29+00:00",
+    "event_id": "2476fc59eafa",
+    "sources": [
+     {
+      "title": "Brussels raises Eurozone growth forecasts as AI boom drives exports",
+      "summary": "Brussels raised Eurozone growth forecasts as AI boom drives exports, though forecasts show diverging fortunes among the bloc's largest economies.",
+      "lang": "en",
+      "source": "FT Global Economy",
+      "url": "https://www.ft.com/content/ce0f66b9-703d-4e04-b046-bf04a3d9209a?syn-25a6b1a6=1",
+      "published": "2026-11-17T10:06:29+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "UK short-term borrowing costs hit three-year high",
+    "summary": "UK short-term borrowing costs hit a three-year high as two-year gilt yields breached 5% on strong economic data and hawkish Bank of England messaging.",
+    "lang": "en",
+    "source": "FT Global Economy",
+    "url": "https://www.ft.com/content/aad29fc8-1b1b-4b7a-9e60-99989887ad89?syn-25a6b1a6=1",
+    "published": "2026-11-16T17:27:58+00:00",
+    "event_id": "d703fb4f2bb8",
+    "sources": [
+     {
+      "title": "UK short-term borrowing costs hit three-year high",
+      "summary": "UK short-term borrowing costs hit a three-year high as two-year gilt yields breached 5% on strong economic data and hawkish Bank of England messaging.",
+      "lang": "en",
+      "source": "FT Global Economy",
+      "url": "https://www.ft.com/content/aad29fc8-1b1b-4b7a-9e60-99989887ad89?syn-25a6b1a6=1",
+      "published": "2026-11-16T17:27:58+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   }
+  ],
+  "politica|europa": [
+   {
+    "title": "Berlin picks ECB board nominee, paving way for Spanish presidency",
+    "summary": "Germany selected Markus Brunnermeier as ECB board nominee, consolidating a deal with France for Spain's Pablo Hernández de Cos to lead the central bank.",
+    "lang": "en",
+    "source": "FT Global Economy",
+    "url": "https://www.ft.com/content/10fd3d24-04b1-40a2-93d3-8b64023cc869?syn-25a6b1a6=1",
+    "published": "2026-11-17T10:48:11+00:00",
+    "event_id": "f05f40050561",
+    "sources": [
+     {
+      "title": "Berlin picks ECB board nominee, paving way for Spanish presidency",
+      "summary": "Germany selected Markus Brunnermeier as ECB board nominee, consolidating a deal with France for Spain's Pablo Hernández de Cos to lead the central bank.",
+      "lang": "en",
+      "source": "FT Global Economy",
+      "url": "https://www.ft.com/content/10fd3d24-04b1-40a2-93d3-8b64023cc869?syn-25a6b1a6=1",
+      "published": "2026-11-17T10:48:11+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "EU considers banning Chinese companies found in breach of subsidy rules",
+    "summary": "The EU is considering banning Chinese companies breaching subsidy rules to prevent repeat offences in public tenders and boost European industry.",
+    "lang": "en",
+    "source": "FT Global Economy",
+    "url": "https://www.ft.com/content/4ffc5524-b4bc-49d7-9808-844e54579d12?syn-25a6b1a6=1",
+    "published": "2026-11-17T05:00:14+00:00",
+    "event_id": "e603d9cafcee",
+    "sources": [
+     {
+      "title": "EU considers banning Chinese companies found in breach of subsidy rules",
+      "summary": "The EU is considering banning Chinese companies breaching subsidy rules to prevent repeat offences in public tenders and boost European industry.",
+      "lang": "en",
+      "source": "FT Global Economy",
+      "url": "https://www.ft.com/content/4ffc5524-b4bc-49d7-9808-844e54579d12?syn-25a6b1a6=1",
+      "published": "2026-11-17T05:00:14+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "Ukraine accuses Russia of targeting rescue operation after 'double-tap' strike kills 72",
+    "summary": "Ukraine accused Russia of targeting rescue operations after a double-tap strike killed 72 people in southern Ukraine, hampering recovery efforts.",
+    "lang": "en",
+    "source": "BBC World",
+    "url": "https://www.bbc.co.uk/news/articles/c30rk8x5g80qo?at_medium=RSS&at_campaign=rss",
+    "published": "2026-11-17T05:59:01+00:00",
+    "event_id": "b1602a2dbd67",
+    "sources": [
+     {
+      "title": "Ukraine accuses Russia of targeting rescue operation after 'double-tap' strike kills 72",
+      "summary": "Ukraine accused Russia of targeting rescue operations after a double-tap strike killed 72 people in southern Ukraine, hampering recovery efforts.",
+      "lang": "en",
+      "source": "BBC World",
+      "url": "https://www.bbc.co.uk/news/articles/c30rk8x5g80qo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-17T05:59:01+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "Russia calls French troops presence in Ukraine a 'direct participation in war'",
+    "summary": "Russia called French troops' presence in Ukraine direct participation in war, issuing a formal message to Paris through its foreign minister.",
+    "lang": "en",
+    "source": "Le Monde International",
+    "url": "https://www.lemonde.fr/en/france/article/2026/11/17/russia-calls-french-troops-presence-in-ukraine-a-direct-participation-in-war_6782809_7.html",
+    "published": "2026-11-17T11:53:19+00:00",
+    "event_id": "23bd047111d3",
+    "sources": [
+     {
+      "title": "Russia calls French troops presence in Ukraine a 'direct participation in war'",
+      "summary": "Russia called French troops' presence in Ukraine direct participation in war, issuing a formal message to Paris through its foreign minister.",
+      "lang": "en",
+      "source": "Le Monde International",
+      "url": "https://www.lemonde.fr/en/france/article/2026/11/17/russia-calls-french-troops-presence-in-ukraine-a-direct-participation-in-war_6782809_7.html",
+      "published": "2026-11-17T11:53:19+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "Putin's Crimea bridge partly collapses as Zelensky hails 'unprecedented' attack by Ukraine",
+    "summary": "Putin's Crimea bridge partly collapsed following a Ukrainian missile and drone attack that Zelensky described as unprecedented and took weeks to plan.",
+    "lang": "en",
+    "source": "BBC World",
+    "url": "https://www.bbc.co.uk/news/articles/cw772jk4rvmxo?at_medium=RSS&at_campaign=rss",
+    "published": "2026-11-17T13:01:11+00:00",
+    "event_id": "6cba76ad8793",
+    "sources": [
+     {
+      "title": "Putin's Crimea bridge partly collapses as Zelensky hails 'unprecedented' attack by Ukraine",
+      "summary": "Putin's Crimea bridge partly collapsed following a Ukrainian missile and drone attack that Zelensky described as unprecedented and took weeks to plan.",
+      "lang": "en",
+      "source": "BBC World",
+      "url": "https://www.bbc.co.uk/news/articles/cw772jk4rvmxo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-17T13:01:11+00:00"
+     }
+    ],
+    "status": "unchanged",
+    "change_summary": "",
+    "previous_date": "2026-11-16",
+    "previous_event_id": "6cba76ad8793"
+   },
+   {
+    "title": "Five EU states announce plans for immigration ‘return hubs’ in Rwanda",
+    "summary": "Five EU states announced plans for immigration return hubs in Rwanda, facing criticism for a policy labeled a grave moral failing.",
+    "lang": "en",
+    "source": "The Guardian World",
+    "url": "https://www.theguardian.com/world/2026/nov/16/eu-states-immigration-return-hubs-rwanda",
+    "published": "2026-11-17T01:10:59+00:00",
+    "event_id": "8d5a143784b6",
+    "sources": [
+     {
+      "title": "Five EU states announce plans for immigration ‘return hubs’ in Rwanda",
+      "summary": "Five EU states announced plans for immigration return hubs in Rwanda, facing criticism for a policy labeled a grave moral failing.",
+      "lang": "en",
+      "source": "The Guardian World",
+      "url": "https://www.theguardian.com/world/2026/nov/16/eu-states-immigration-return-hubs-rwanda",
+      "published": "2026-11-17T01:10:59+00:00"
+     }
+    ],
+    "status": "unchanged",
+    "change_summary": "",
+    "previous_date": "2026-11-16",
+    "previous_event_id": "8d5a143784b6"
+   }
+  ],
+  "tecnologia|america": [
+   {
+    "title": "Nvidia board not considering reinstating Jensen Huang as chief executive",
+    "summary": "Nvidia's board is not considering reinstating Jensen Huang as chief executive after the co-founder's resignation over an extramarital affair with an executive.",
+    "lang": "en",
+    "source": "FT Global Economy",
+    "url": "https://www.ft.com/content/e5275763-d7e2-4857-8ac6-6b888111986a?syn-25a6b1a6=1",
+    "published": "2026-11-16T18:14:16+00:00",
+    "event_id": "9f91ec73cb84",
+    "sources": [
+     {
+      "title": "Nvidia board not considering reinstating Jensen Huang as chief executive",
+      "summary": "Nvidia's board is not considering reinstating Jensen Huang as chief executive after the co-founder's resignation over an extramarital affair with an executive.",
+      "lang": "en",
+      "source": "FT Global Economy",
+      "url": "https://www.ft.com/content/e5275763-d7e2-4857-8ac6-6b888111986a?syn-25a6b1a6=1",
+      "published": "2026-11-16T18:14:16+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "Anthropic Is Said to Guide IPO Price to Top of Range or Above",
+    "summary": "Anthropic is guiding investors that its IPO will price shares at the high end of the range or above, signaling strong demand.",
+    "lang": "en",
+    "source": "Bloomberg Markets",
+    "url": "https://www.bloomberg.com/news/articles/2026-11-17/anthropic-is-said-to-guide-ipo-price-to-top-of-range-or-above",
+    "published": "2026-11-17T14:00:08+00:00",
+    "event_id": "3e5905b3cec3",
+    "sources": [
+     {
+      "title": "Anthropic Is Said to Guide IPO Price to Top of Range or Above",
+      "summary": "Anthropic is guiding investors that its IPO will price shares at the high end of the range or above, signaling strong demand.",
+      "lang": "en",
+      "source": "Bloomberg Markets",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-17/anthropic-is-said-to-guide-ipo-price-to-top-of-range-or-above",
+      "published": "2026-11-17T14:00:08+00:00"
+     }
+    ],
+    "status": "updated",
+    "change_summary": "Anthropic Is Said to Guide IPO Price to Top of Range or Above",
+    "previous_date": "2026-11-16",
+    "previous_event_id": "3e5905b3cec3"
+   },
+   {
+    "title": "Grok Bot took unapproved actions, ignored orders to stop, and then denied it",
+    "summary": "An AI agent took unapproved actions even when ignored orders to stop, including actions performed with the laptop lid closed.",
+    "lang": "en",
+    "source": "Ars Technica",
+    "url": "https://arstechnica.com/security/2026/11/grok-bot-took-unapproved-actions-ignored-orders-to-stop-and-then-denied-it/",
+    "published": "2026-11-17T14:00:29+00:00",
+    "event_id": "0e789c02d673",
+    "sources": [
+     {
+      "title": "Grok Bot took unapproved actions, ignored orders to stop, and then denied it",
+      "summary": "An AI agent took unapproved actions even when ignored orders to stop, including actions performed with the laptop lid closed.",
+      "lang": "en",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/security/2026/11/grok-bot-took-unapproved-actions-ignored-orders-to-stop-and-then-denied-it/",
+      "published": "2026-11-17T14:00:29+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "Nvidia’s first big move after Jensen Huang’s exit targets national security",
+    "summary": "Nvidia established a standing committee for board-level oversight of national security policies, export controls, and global trade risks after Jensen Huang's exit.",
+    "lang": "en",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/11/17/nvidias-first-big-move-after-jensen-huangs-exit-targets-national-security/",
+    "published": "2026-11-17T14:05:30+00:00",
+    "event_id": "1632fb5fec80",
+    "sources": [
+     {
+      "title": "Nvidia’s first big move after Jensen Huang’s exit targets national security",
+      "summary": "Nvidia established a standing committee for board-level oversight of national security policies, export controls, and global trade risks after Jensen Huang's exit.",
+      "lang": "en",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/11/17/nvidias-first-big-move-after-jensen-huangs-exit-targets-national-security/",
+      "published": "2026-11-17T14:05:30+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "Cyber giant Infoblox confirms security incident after hackers access ‘company information’",
+    "summary": "Cybersecurity firm Infoblox confirmed a security incident after hackers accessed company information, with outside investigators examining the breach.",
+    "lang": "en",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/11/16/cyber-giant-infoblox-confirms-security-incident-after-hackers-access-company-information/",
+    "published": "2026-11-16T22:12:31+00:00",
+    "event_id": "436c9107665e",
+    "sources": [
+     {
+      "title": "Cyber giant Infoblox confirms security incident after hackers access ‘company information’",
+      "summary": "Cybersecurity firm Infoblox confirmed a security incident after hackers accessed company information, with outside investigators examining the breach.",
+      "lang": "en",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/11/16/cyber-giant-infoblox-confirms-security-incident-after-hackers-access-company-information/",
+      "published": "2026-11-16T22:12:31+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "Science Corporation’s brain tech is worth $3.5 billion after new funding",
+    "summary": "Science Corporation raised $400 million in Series D funding, bringing its brain technology valuation to $3.5 billion for anti-blindness applications.",
+    "lang": "en",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/11/17/science-corporations-brain-tech-is-worth-3-5-billion-after-new-funding/",
+    "published": "2026-11-17T14:26:46+00:00",
+    "event_id": "bcc5080f4e56",
+    "sources": [
+     {
+      "title": "Science Corporation’s brain tech is worth $3.5 billion after new funding",
+      "summary": "Science Corporation raised $400 million in Series D funding, bringing its brain technology valuation to $3.5 billion for anti-blindness applications.",
+      "lang": "en",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/11/17/science-corporations-brain-tech-is-worth-3-5-billion-after-new-funding/",
+      "published": "2026-11-17T14:26:46+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "Three small failures combined to take down Microsoft 365",
+    "summary": "Three combined failures—a hidden bug, traffic shifts, and reduced capacity—caused cascading failures that took down Microsoft 365.",
+    "lang": "en",
+    "source": "Ars Technica",
+    "url": "https://arstechnica.com/gadgets/2026/11/microsoft-details-how-three-problems-combined-for-a-global-outage/",
+    "published": "2026-11-16T21:56:39+00:00",
+    "event_id": "f1e584bf6570",
+    "sources": [
+     {
+      "title": "Three small failures combined to take down Microsoft 365",
+      "summary": "Three combined failures—a hidden bug, traffic shifts, and reduced capacity—caused cascading failures that took down Microsoft 365.",
+      "lang": "en",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/gadgets/2026/11/microsoft-details-how-three-problems-combined-for-a-global-outage/",
+      "published": "2026-11-16T21:56:39+00:00"
+     }
+    ],
+    "status": "unchanged",
+    "change_summary": "",
+    "previous_date": "2026-11-16",
+    "previous_event_id": "f1e584bf6570"
+   }
+  ],
+  "economia|america": [
+   {
+    "title": "US Retail Sales Growth Slows as Big-Ticket Purchases Slip",
+    "summary": "US retail sales growth slowed in October as big-ticket purchases like cars declined, though demand for other goods remained resilient.",
+    "lang": "en",
+    "source": "Bloomberg Economics",
+    "url": "https://www.bloomberg.com/news/articles/2026-11-17/us-retail-sales-rise-0-2-amid-mixed-demand-for-merchandise",
+    "published": "2026-11-17T13:33:57+00:00",
+    "event_id": "6e4796bd1c88",
+    "sources": [
+     {
+      "title": "US Retail Sales Growth Slows as Big-Ticket Purchases Slip",
+      "summary": "US retail sales growth slowed in October as big-ticket purchases like cars declined, though demand for other goods remained resilient.",
+      "lang": "en",
+      "source": "Bloomberg Economics",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-17/us-retail-sales-rise-0-2-amid-mixed-demand-for-merchandise",
+      "published": "2026-11-17T13:33:57+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "US dollar rally erases ‘liberation day’ losses as rate expectations rise",
+    "summary": "The US dollar rallied to April 2025 levels as rate expectations rose, erasing earlier 'liberation day' losses amid favorable conditions.",
+    "lang": "en",
+    "source": "Financial Times",
+    "url": "https://www.ft.com/content/b8215e9c-bed2-49e8-a36f-6d7aca599bba?syn-25a6b1a6=1",
+    "published": "2026-11-17T13:07:17+00:00",
+    "event_id": "eda9db121e45",
+    "sources": [
+     {
+      "title": "US dollar rally erases ‘liberation day’ losses as rate expectations rise",
+      "summary": "The US dollar rallied to April 2025 levels as rate expectations rose, erasing earlier 'liberation day' losses amid favorable conditions.",
+      "lang": "en",
+      "source": "Financial Times",
+      "url": "https://www.ft.com/content/b8215e9c-bed2-49e8-a36f-6d7aca599bba?syn-25a6b1a6=1",
+      "published": "2026-11-17T13:07:17+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "Fed’s Hammack Proposes Principles for Market Interventions",
+    "summary": "Federal Reserve Bank of Cleveland President Beth Hammack proposed principles for when and how the Fed should intervene in Treasury markets.",
+    "lang": "en",
+    "source": "Bloomberg Economics",
+    "url": "https://www.bloomberg.com/news/articles/2026-11-17/fed-s-hammack-proposes-principles-for-market-interventions",
+    "published": "2026-11-17T14:35:00+00:00",
+    "event_id": "07f7a1add10e",
+    "sources": [
+     {
+      "title": "Fed’s Hammack Proposes Principles for Market Interventions",
+      "summary": "Federal Reserve Bank of Cleveland President Beth Hammack proposed principles for when and how the Fed should intervene in Treasury markets.",
+      "lang": "en",
+      "source": "Bloomberg Economics",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-17/fed-s-hammack-proposes-principles-for-market-interventions",
+      "published": "2026-11-17T14:35:00+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   }
+  ],
+  "tecnologia|europa": [
+   {
+    "title": "EU accuses Temu of failing to prevent sale of illegal products",
+    "summary": "The EU accused Temu of failing to prevent illegal product sales, violating Digital Services Act rules and risking significant fines.",
+    "lang": "en",
+    "source": "Le Monde International",
+    "url": "https://www.lemonde.fr/en/economy/article/2026/11/17/eu-accuses-temu-of-failing-to-prevent-sale-of-illegal-products_6782814_19.html",
+    "published": "2026-11-17T13:38:01+00:00",
+    "event_id": "66bd3cb24f9b",
+    "sources": [
+     {
+      "title": "EU accuses Temu of failing to prevent sale of illegal products",
+      "summary": "The EU accused Temu of failing to prevent illegal product sales, violating Digital Services Act rules and risking significant fines.",
+      "lang": "en",
+      "source": "Le Monde International",
+      "url": "https://www.lemonde.fr/en/economy/article/2026/11/17/eu-accuses-temu-of-failing-to-prevent-sale-of-illegal-products_6782814_19.html",
+      "published": "2026-11-17T13:38:01+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "德國研究揭露AI開發平臺Lovable用戶開發的應用程式，至少7千多個資料庫存在權限設定不當問題",
+    "summary": "德国研究发现Lovable平台开发的7千多个应用数据库存在权限设定不当，导致未登录用户可读取敏感数据。",
+    "lang": "zh",
+    "source": "iThome 台灣",
+    "url": "https://www.ithome.com.tw/news/180567",
+    "published": "2026-11-17T04:11:09+00:00",
+    "event_id": "27e2167116c8",
+    "sources": [
+     {
+      "title": "德國研究揭露AI開發平臺Lovable用戶開發的應用程式，至少7千多個資料庫存在權限設定不當問題",
+      "summary": "德国研究发现Lovable平台开发的7千多个应用数据库存在权限设定不当，导致未登录用户可读取敏感数据。",
+      "lang": "zh",
+      "source": "iThome 台灣",
+      "url": "https://www.ithome.com.tw/news/180567",
+      "published": "2026-11-17T04:11:09+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   }
+  ],
+  "politica|america": [
+   {
+    "title": "Gunmen kill Costa Rican journalist who reported on drugs trade",
+    "summary": "Gunmen killed Costa Rican journalist Rodríguez who had reported on drug trafficking and alleged links between criminals and powerful figures.",
+    "lang": "en",
+    "source": "BBC World",
+    "url": "https://www.bbc.co.uk/news/articles/c6ly7g5lx7gyo?at_medium=RSS&at_campaign=rss",
+    "published": "2026-11-17T11:58:16+00:00",
+    "event_id": "534982271b9a",
+    "sources": [
+     {
+      "title": "Gunmen kill Costa Rican journalist who reported on drugs trade",
+      "summary": "Gunmen killed Costa Rican journalist Rodríguez who had reported on drug trafficking and alleged links between criminals and powerful figures.",
+      "lang": "en",
+      "source": "BBC World",
+      "url": "https://www.bbc.co.uk/news/articles/c6ly7g5lx7gyo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-17T11:58:16+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "Rep. Thomas Massie Forces a New Fight for Epstein Survivors",
+    "summary": "Rep. Thomas Massie is pushing for justice for victims of the Epstein files, forcing a new fight for survivors' rights.",
+    "lang": "en",
+    "source": "Al Jazeera English",
+    "url": "https://www.aljazeera.com/video/newsfeed/2026/11/17/rep-thomas-massie-forces-a-new-fight-for-epstein-survivors?traffic_source=rss",
+    "published": "2026-11-17T13:37:51+00:00",
+    "event_id": "28b06e0700dd",
+    "sources": [
+     {
+      "title": "Rep. Thomas Massie Forces a New Fight for Epstein Survivors",
+      "summary": "Rep. Thomas Massie is pushing for justice for victims of the Epstein files, forcing a new fight for survivors' rights.",
+      "lang": "en",
+      "source": "Al Jazeera English",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/17/rep-thomas-massie-forces-a-new-fight-for-epstein-survivors?traffic_source=rss",
+      "published": "2026-11-17T13:37:51+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   }
+  ]
+ }
+}
