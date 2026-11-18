@@ -78,11 +78,13 @@ feeds.yaml ──► scripts/collect.py ──► work/collected.json
   se publica igualmente un brief con titulares sin resumen (`mode:
   "headlines-only"`).
 
-## Novedades de IA: enlace a AIHOT
+## Novedades de IA: enlaces a AIHOT y Hugging Face Papers
 
 En lugar de un radar propio, la página enlaza a [AIHOT](https://aihot.news),
-un agregador diario de novedades de IA que mantiene su autor. No consume
-llamadas al modelo ni fuentes propias.
+un agregador diario de novedades de IA que mantiene su autor, y a
+[Hugging Face Papers](https://huggingface.co/papers), la selección diaria de
+papers de investigación en IA. No consumen llamadas al modelo ni fuentes
+propias.
 
 ## Añadir o quitar fuentes
 
