@@ -1,0 +1,938 @@
+{
+ "date": "2026-11-18",
+ "generated_at": "2026-11-18T14:28:16.761384+00:00",
+ "mode": "full",
+ "cost_usd": 0.0548,
+ "selection": {
+  "model": "claude-haiku-5-5",
+  "effort": "high",
+  "passes": 3,
+  "passes_ok": 3,
+  "cost_usd": 0.0197
+ },
+ "events": {
+  "mode": "full",
+  "compared_with": "2026-11-17",
+  "articles": 39,
+  "uncompared_articles": 0,
+  "events": 39,
+  "cost_usd": 0.0204
+ },
+ "market": null,
+ "failed_sources": [],
+ "cells": {
+  "economia|asia": [
+   {
+    "title": "Indonesia raises key interest rate as rupiah hits record low",
+    "summary": "Indonesia raised its key interest rate as the rupiah currency hit a record low. The central bank took action to stabilize the currency amid economic pressures.",
+    "lang": "en",
+    "source": "Nikkei Asia",
+    "url": "https://asia.nikkei.com/business/markets/currencies/indonesia-raises-key-interest-rate-as-rupiah-hits-record-low",
+    "published": null,
+    "event_id": "8f380febfaa4",
+    "sources": [
+     {
+      "title": "Indonesia raises key interest rate as rupiah hits record low",
+      "summary": "Indonesia raised its key interest rate as the rupiah currency hit a record low. The central bank took action to stabilize the currency amid economic pressures.",
+      "lang": "en",
+      "source": "Nikkei Asia",
+      "url": "https://asia.nikkei.com/business/markets/currencies/indonesia-raises-key-interest-rate-as-rupiah-hits-record-low",
+      "published": null
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "Tencent's $9.8bn capex pushes tech giant into net debt",
+    "summary": "Tencent's $9.8 billion capital expenditure pushed the tech giant into net debt. The investment signals aggressive expansion despite financial market challenges.",
+    "lang": "en",
+    "source": "Nikkei Asia",
+    "url": "https://asia.nikkei.com/business/china-tech/tencent-s-9.8bn-capex-pushes-tech-giant-into-net-debt",
+    "published": null,
+    "event_id": "eefa118a09fd",
+    "sources": [
+     {
+      "title": "Tencent's $9.8bn capex pushes tech giant into net debt",
+      "summary": "Tencent's $9.8 billion capital expenditure pushed the tech giant into net debt. The investment signals aggressive expansion despite financial market challenges.",
+      "lang": "en",
+      "source": "Nikkei Asia",
+      "url": "https://asia.nikkei.com/business/china-tech/tencent-s-9.8bn-capex-pushes-tech-giant-into-net-debt",
+      "published": null
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "Indonesia and China agree four strategic partnerships worth US$71.8 billion",
+    "summary": "Indonesia and China agreed to four strategic partnerships worth $71.8 billion during President Prabowo Subianto's visit to the APEC summit. The agreements strengthen bilateral economic ties.",
+    "lang": "en",
+    "source": "Channel NewsAsia",
+    "url": "https://www.channelnewsasia.com/asia/indonesia-and-china-agree-four-strategic-partnerships-worth-us718-billion-6562921",
+    "published": "2026-11-18T13:41:00+00:00",
+    "event_id": "fe07295e0859",
+    "sources": [
+     {
+      "title": "Indonesia and China agree four strategic partnerships worth US$71.8 billion",
+      "summary": "Indonesia and China agreed to four strategic partnerships worth $71.8 billion during President Prabowo Subianto's visit to the APEC summit. The agreements strengthen bilateral economic ties.",
+      "lang": "en",
+      "source": "Channel NewsAsia",
+      "url": "https://www.channelnewsasia.com/asia/indonesia-and-china-agree-four-strategic-partnerships-worth-us718-billion-6562921",
+      "published": "2026-11-18T13:41:00+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "韓中 FTA 談判達成協議，限韓令是否鬆綁仍有待觀察",
+    "summary": "韩国与中国宣布FTA实质达成协议，涉及影视、观光等领域限制调整。协议被视为\"限韩令\"可能逐步松绑的重要信号。",
+    "lang": "zh",
+    "source": "科技新報 TechNews",
+    "url": "https://finance.technews.tw/2026/11/18/korea-china-fta-deal-hallyu-ban-relaxation-uncertain/",
+    "published": "2026-11-18T10:00:46+00:00",
+    "event_id": "c2deb2c4332b",
+    "sources": [
+     {
+      "title": "韓中 FTA 談判達成協議，限韓令是否鬆綁仍有待觀察",
+      "summary": "韩国与中国宣布FTA实质达成协议，涉及影视、观光等领域限制调整。协议被视为\"限韩令\"可能逐步松绑的重要信号。",
+      "lang": "zh",
+      "source": "科技新報 TechNews",
+      "url": "https://finance.technews.tw/2026/11/18/korea-china-fta-deal-hallyu-ban-relaxation-uncertain/",
+      "published": "2026-11-18T10:00:46+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   }
+  ],
+  "politica|asia": [
+   {
+    "title": "Xi urges freer trade as APEC leaders maneuver ahead of Trump talks",
+    "summary": "Xi Jinping urged freer trade at the APEC summit as leaders prepared for discussions with Trump. The statement highlights positioning ahead of potential tariff negotiations.",
+    "lang": "en",
+    "source": "Nikkei Asia",
+    "url": "https://asia.nikkei.com/politics/international-relations/apec/xi-urges-freer-trade-as-apec-leaders-maneuver-ahead-of-trump-talks",
+    "published": null,
+    "event_id": "db624aaced84",
+    "sources": [
+     {
+      "title": "Xi urges freer trade as APEC leaders maneuver ahead of Trump talks",
+      "summary": "Xi Jinping urged freer trade at the APEC summit as leaders prepared for discussions with Trump. The statement highlights positioning ahead of potential tariff negotiations.",
+      "lang": "en",
+      "source": "Nikkei Asia",
+      "url": "https://asia.nikkei.com/politics/international-relations/apec/xi-urges-freer-trade-as-apec-leaders-maneuver-ahead-of-trump-talks",
+      "published": null
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "Trump shakes hands with Putin and Xi ahead of historic talks in China",
+    "summary": "Trump shook hands with Putin and Xi ahead of their first historic three-way summit in China on Thursday. The meeting represents an unprecedented diplomatic convergence of major world leaders.",
+    "lang": "en",
+    "source": "BBC World",
+    "url": "https://www.bbc.co.uk/news/articles/ck9d75x5wwwwo?at_medium=RSS&at_campaign=rss",
+    "published": "2026-11-18T12:39:24+00:00",
+    "event_id": "0180ed5a8859",
+    "sources": [
+     {
+      "title": "Trump shakes hands with Putin and Xi ahead of historic talks in China",
+      "summary": "Trump shook hands with Putin and Xi ahead of their first historic three-way summit in China on Thursday. The meeting represents an unprecedented diplomatic convergence of major world leaders.",
+      "lang": "en",
+      "source": "BBC World",
+      "url": "https://www.bbc.co.uk/news/articles/ck9d75x5wwwwo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-18T12:39:24+00:00"
+     }
+    ],
+    "status": "updated",
+    "change_summary": "Trump shakes hands with Putin and Xi ahead of historic talks in China",
+    "previous_date": "2026-11-17",
+    "previous_event_id": "0180ed5a8859"
+   },
+   {
+    "title": "Takaichi and China’s Xi share cordial handshake in first encounter since explosive Taiwan remarks",
+    "summary": "Japan's Defense Minister Takaichi shared a cordial handshake with China's Xi in their first encounter since her controversial comments about potential Japanese military intervention in Taiwan. The warm interaction suggests diplomatic thaw.",
+    "lang": "en",
+    "source": "Japan Times",
+    "url": "https://www.japantimes.co.jp/news/2026/11/18/japan/politics/takaichi-xi-china-japan-apec/",
+    "published": "2026-11-18T12:05:00+00:00",
+    "event_id": "f85618f33b71",
+    "sources": [
+     {
+      "title": "Takaichi and China’s Xi share cordial handshake in first encounter since explosive Taiwan remarks",
+      "summary": "Japan's Defense Minister Takaichi shared a cordial handshake with China's Xi in their first encounter since her controversial comments about potential Japanese military intervention in Taiwan. The warm interaction suggests diplomatic thaw.",
+      "lang": "en",
+      "source": "Japan Times",
+      "url": "https://www.japantimes.co.jp/news/2026/11/18/japan/politics/takaichi-xi-china-japan-apec/",
+      "published": "2026-11-18T12:05:00+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "Kuwait says it repelled first Iranian attack in two months after US strikes island",
+    "summary": "Kuwait said it repelled an Iranian attack after US strikes on the Iranian island of Qeshm, with Bahrain also reporting being targeted. The escalation follows US military action in the Persian Gulf.",
+    "lang": "en",
+    "source": "BBC World",
+    "url": "https://www.bbc.co.uk/news/articles/cw4gn9jeqjq7o?at_medium=RSS&at_campaign=rss",
+    "published": "2026-11-18T13:04:48+00:00",
+    "event_id": "3d0f749a5cdd",
+    "sources": [
+     {
+      "title": "Kuwait says it repelled first Iranian attack in two months after US strikes island",
+      "summary": "Kuwait said it repelled an Iranian attack after US strikes on the Iranian island of Qeshm, with Bahrain also reporting being targeted. The escalation follows US military action in the Persian Gulf.",
+      "lang": "en",
+      "source": "BBC World",
+      "url": "https://www.bbc.co.uk/news/articles/cw4gn9jeqjq7o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-18T13:04:48+00:00"
+     }
+    ],
+    "status": "updated",
+    "change_summary": "Kuwait says it repelled first Iranian attack in two months after US strikes island",
+    "previous_date": "2026-11-17",
+    "previous_event_id": "3d0f749a5cdd"
+   },
+   {
+    "title": "國際原子能總署：北韓鈾濃縮設施擴建完成外部施工",
+    "summary": "国际原子能机构署长葛罗西表示，朝鲜铀浓缩设施的新增扩建外部工程已于上月完工。该设施扩建完成表明朝鲜核计划的推进。",
+    "lang": "zh",
+    "source": "中央社 CNA",
+    "url": "https://www.cna.com.tw/news/aopl/202611180342.aspx",
+    "published": "2026-11-18T13:06:46+00:00",
+    "event_id": "fc52cfe3063f",
+    "sources": [
+     {
+      "title": "國際原子能總署：北韓鈾濃縮設施擴建完成外部施工",
+      "summary": "国际原子能机构署长葛罗西表示，朝鲜铀浓缩设施的新增扩建外部工程已于上月完工。该设施扩建完成表明朝鲜核计划的推进。",
+      "lang": "zh",
+      "source": "中央社 CNA",
+      "url": "https://www.cna.com.tw/news/aopl/202611180342.aspx",
+      "published": "2026-11-18T13:06:46+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "Trump se reúne brevemente con Sheinbaum tras aterrizar en Shenzhen para la cumbre de la APEC",
+    "summary": "Trump se reunió brevemente con la presidenta mexicana Sheinbaum en China durante la cumbre de la APEC. México busca reducir aranceles estadounidenses en acero, aluminio y automóviles en las negociaciones del TMEC.",
+    "lang": "es",
+    "source": "El País Internacional",
+    "url": "https://elpais.com/internacional/2026-11-18/trump-se-reune-brevemente-con-sheinbaum-tras-aterrizar-en-shenzhen-para-la-cumbre-de-la-apec.html",
+    "published": "2026-11-18T13:06:12+00:00",
+    "event_id": "c0c2819a0e59",
+    "sources": [
+     {
+      "title": "Trump se reúne brevemente con Sheinbaum tras aterrizar en Shenzhen para la cumbre de la APEC",
+      "summary": "Trump se reunió brevemente con la presidenta mexicana Sheinbaum en China durante la cumbre de la APEC. México busca reducir aranceles estadounidenses en acero, aluminio y automóviles en las negociaciones del TMEC.",
+      "lang": "es",
+      "source": "El País Internacional",
+      "url": "https://elpais.com/internacional/2026-11-18/trump-se-reune-brevemente-con-sheinbaum-tras-aterrizar-en-shenzhen-para-la-cumbre-de-la-apec.html",
+      "published": "2026-11-18T13:06:12+00:00"
+     }
+    ],
+    "status": "updated",
+    "change_summary": "Trump se reúne brevemente con Sheinbaum tras aterrizar en Shenzhen para la cumbre de la APEC",
+    "previous_date": "2026-11-17",
+    "previous_event_id": "c0c2819a0e59"
+   }
+  ],
+  "tecnologia|america": [
+   {
+    "title": "SoftBank regrets ‘mistake’ of not backing Anthropic, says Son",
+    "summary": "SoftBank expressed regret over not investing in Anthropic while having already committed funds to rival OpenAI. The Japanese tech conglomerate missed an opportunity in the competitive AI market.",
+    "lang": "en",
+    "source": "Financial Times",
+    "url": "https://www.ft.com/content/08086201-6359-47ec-8854-70462ad5a4c0?syn-25a6b1a6=1",
+    "published": "2026-11-18T07:56:06+00:00",
+    "event_id": "d189655d1889",
+    "sources": [
+     {
+      "title": "SoftBank regrets ‘mistake’ of not backing Anthropic, says Son",
+      "summary": "SoftBank expressed regret over not investing in Anthropic while having already committed funds to rival OpenAI. The Japanese tech conglomerate missed an opportunity in the competitive AI market.",
+      "lang": "en",
+      "source": "Financial Times",
+      "url": "https://www.ft.com/content/08086201-6359-47ec-8854-70462ad5a4c0?syn-25a6b1a6=1",
+      "published": "2026-11-18T07:56:06+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "Low-profile VCs set for $100bn windfall from Anthropic IPO",
+    "summary": "Lesser-known venture capitalists are set for a $100 billion windfall from Anthropic's IPO scheduled for Wednesday. Early backers will realize substantial returns on their AI investments.",
+    "lang": "en",
+    "source": "Financial Times",
+    "url": "https://www.ft.com/content/a3430f0d-0080-4970-8eec-2c14c8438b3d?syn-25a6b1a6=1",
+    "published": "2026-11-18T05:00:26+00:00",
+    "event_id": "3e5905b3cec3",
+    "sources": [
+     {
+      "title": "Low-profile VCs set for $100bn windfall from Anthropic IPO",
+      "summary": "Lesser-known venture capitalists are set for a $100 billion windfall from Anthropic's IPO scheduled for Wednesday. Early backers will realize substantial returns on their AI investments.",
+      "lang": "en",
+      "source": "Financial Times",
+      "url": "https://www.ft.com/content/a3430f0d-0080-4970-8eec-2c14c8438b3d?syn-25a6b1a6=1",
+      "published": "2026-11-18T05:00:26+00:00"
+     }
+    ],
+    "status": "updated",
+    "change_summary": "Low-profile VCs set for $100bn windfall from Anthropic IPO",
+    "previous_date": "2026-11-17",
+    "previous_event_id": "3e5905b3cec3"
+   },
+   {
+    "title": "Wall Street set to open higher after Nvidia results reassure investors",
+    "summary": "Wall Street is set to open higher after Nvidia raised its forecast and new leadership assured investors of business continuity. The reassurance follows recent controversies surrounding CEO Jensen Huang.",
+    "lang": "en",
+    "source": "Financial Times",
+    "url": "https://www.ft.com/content/f085b811-fc20-425f-88d8-9f98e178636a?syn-25a6b1a6=1",
+    "published": "2026-11-18T14:05:29+00:00",
+    "event_id": "9f91ec73cb84",
+    "sources": [
+     {
+      "title": "Wall Street set to open higher after Nvidia results reassure investors",
+      "summary": "Wall Street is set to open higher after Nvidia raised its forecast and new leadership assured investors of business continuity. The reassurance follows recent controversies surrounding CEO Jensen Huang.",
+      "lang": "en",
+      "source": "Financial Times",
+      "url": "https://www.ft.com/content/f085b811-fc20-425f-88d8-9f98e178636a?syn-25a6b1a6=1",
+      "published": "2026-11-18T14:05:29+00:00"
+     }
+    ],
+    "status": "updated",
+    "change_summary": "Wall Street set to open higher after Nvidia results reassure investors",
+    "previous_date": "2026-11-17",
+    "previous_event_id": "9f91ec73cb84"
+   },
+   {
+    "title": "Introducing GPT-6.2 Astra and Sol",
+    "summary": "OpenAI introduced GPT-6.2 Astra and Sol with improved professional outputs, coding capabilities, and computer use at lower costs. The new models enhance performance across ChatGPT Work, Codex, and API.",
+    "lang": "en",
+    "source": "OpenAI News",
+    "url": "https://openai.com/index/introducing-gpt-6-2-astra-sol",
+    "published": "2026-11-17T17:45:00+00:00",
+    "event_id": "549a77347d5e",
+    "sources": [
+     {
+      "title": "Introducing GPT-6.2 Astra and Sol",
+      "summary": "OpenAI introduced GPT-6.2 Astra and Sol with improved professional outputs, coding capabilities, and computer use at lower costs. The new models enhance performance across ChatGPT Work, Codex, and API.",
+      "lang": "en",
+      "source": "OpenAI News",
+      "url": "https://openai.com/index/introducing-gpt-6-2-astra-sol",
+      "published": "2026-11-17T17:45:00+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "Nvidia isn’t selling any more AI chips to China",
+    "summary": "Nvidia stopped sending advanced AI chips to China despite receiving White House approval in December. The announcement marks a significant policy reversal in semiconductor exports.",
+    "lang": "en",
+    "source": "The Verge",
+    "url": "https://www.theverge.com/tech/1036445/nvidia-h200-ai-chips-china-stop-selling",
+    "published": "2026-11-18T13:01:05+00:00",
+    "event_id": "dabb9c42293e",
+    "sources": [
+     {
+      "title": "Nvidia isn’t selling any more AI chips to China",
+      "summary": "Nvidia stopped sending advanced AI chips to China despite receiving White House approval in December. The announcement marks a significant policy reversal in semiconductor exports.",
+      "lang": "en",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/tech/1036445/nvidia-h200-ai-chips-china-stop-selling",
+      "published": "2026-11-18T13:01:05+00:00"
+     }
+    ],
+    "status": "updated",
+    "change_summary": "Nvidia isn't selling any more AI chips to China",
+    "previous_date": "2026-11-17",
+    "previous_event_id": "dabb9c42293e"
+   },
+   {
+    "title": "NASA’s Voyager 1 probe is now 1 light-day away",
+    "summary": "NASA's Voyager 1 probe reached 1 light-day distance from Earth after 49 years of space travel. The milestone marks the probe's continuing journey into deep space.",
+    "lang": "en",
+    "source": "The Verge",
+    "url": "https://www.theverge.com/science/1036431/nasa-voyager-1-light-day-milestone",
+    "published": "2026-11-18T12:03:36+00:00",
+    "event_id": "9ddaf7c0f719",
+    "sources": [
+     {
+      "title": "NASA’s Voyager 1 probe is now 1 light-day away",
+      "summary": "NASA's Voyager 1 probe reached 1 light-day distance from Earth after 49 years of space travel. The milestone marks the probe's continuing journey into deep space.",
+      "lang": "en",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/science/1036431/nasa-voyager-1-light-day-milestone",
+      "published": "2026-11-18T12:03:36+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   }
+  ],
+  "economia|europa": [
+   {
+    "title": "ECB Rate Hike Likely Next Month and More May Follow, Vujcic Says",
+    "summary": "The European Central Bank is likely to raise interest rates next month, with Vice President Vujcic signaling more increases may follow in 2027. Broadening inflation is driving the policy tightening.",
+    "lang": "en",
+    "source": "Bloomberg Economics",
+    "url": "https://www.bloomberg.com/news/articles/2026-11-18/ecb-rate-hike-likely-next-month-and-more-may-follow-vujcic-says",
+    "published": "2026-11-18T12:00:00+00:00",
+    "event_id": "a6ccdb57e20f",
+    "sources": [
+     {
+      "title": "ECB Rate Hike Likely Next Month and More May Follow, Vujcic Says",
+      "summary": "The European Central Bank is likely to raise interest rates next month, with Vice President Vujcic signaling more increases may follow in 2027. Broadening inflation is driving the policy tightening.",
+      "lang": "en",
+      "source": "Bloomberg Economics",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-18/ecb-rate-hike-likely-next-month-and-more-may-follow-vujcic-says",
+      "published": "2026-11-18T12:00:00+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "UK inflation rose to one-year high of 3.6% in October",
+    "summary": "UK inflation rose to a one-year high of 3.6% in October, putting pressure on the Bank of England. The increase suggests further interest rate rises may be necessary.",
+    "lang": "en",
+    "source": "FT Global Economy",
+    "url": "https://www.ft.com/content/829844ba-849f-4d9c-a667-d65d2786ad2c?syn-25a6b1a6=1",
+    "published": "2026-11-18T09:23:50+00:00",
+    "event_id": "d703fb4f2bb8",
+    "sources": [
+     {
+      "title": "UK inflation rose to one-year high of 3.6% in October",
+      "summary": "UK inflation rose to a one-year high of 3.6% in October, putting pressure on the Bank of England. The increase suggests further interest rate rises may be necessary.",
+      "lang": "en",
+      "source": "FT Global Economy",
+      "url": "https://www.ft.com/content/829844ba-849f-4d9c-a667-d65d2786ad2c?syn-25a6b1a6=1",
+      "published": "2026-11-18T09:23:50+00:00"
+     }
+    ],
+    "status": "updated",
+    "change_summary": "UK inflation rose to one-year high of 3.6% in October",
+    "previous_date": "2026-11-17",
+    "previous_event_id": "d703fb4f2bb8"
+   },
+   {
+    "title": "British energy price cap set to increase to over £2,000 in January",
+    "summary": "Britain's energy price cap will exceed £2,000 in January due to reduced government support. Households will pay more for energy in real terms than during the Ukraine inflation crisis.",
+    "lang": "en",
+    "source": "FT Global Economy",
+    "url": "https://www.ft.com/content/c22b7eeb-96ce-4d4a-87ed-2b17901255be?syn-25a6b1a6=1",
+    "published": "2026-11-18T08:50:59+00:00",
+    "event_id": "cd7b4bb62f93",
+    "sources": [
+     {
+      "title": "British energy price cap set to increase to over £2,000 in January",
+      "summary": "Britain's energy price cap will exceed £2,000 in January due to reduced government support. Households will pay more for energy in real terms than during the Ukraine inflation crisis.",
+      "lang": "en",
+      "source": "FT Global Economy",
+      "url": "https://www.ft.com/content/c22b7eeb-96ce-4d4a-87ed-2b17901255be?syn-25a6b1a6=1",
+      "published": "2026-11-18T08:50:59+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "Risks from AI valuations, fiscal imbalances and geoeconomic tensions weigh on financial stability outlook",
+    "summary": "AI valuations, fiscal imbalances, and geoeconomic tensions are weighing on the financial stability outlook. Multiple risk factors are creating uncertainty in global markets.",
+    "lang": "en",
+    "source": "BCE (notas de prensa)",
+    "url": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr261118~83c5c60158.en.html",
+    "published": "2026-11-18T09:00:00+00:00",
+    "event_id": "dcfaa3a193e2",
+    "sources": [
+     {
+      "title": "Risks from AI valuations, fiscal imbalances and geoeconomic tensions weigh on financial stability outlook",
+      "summary": "AI valuations, fiscal imbalances, and geoeconomic tensions are weighing on the financial stability outlook. Multiple risk factors are creating uncertainty in global markets.",
+      "lang": "en",
+      "source": "BCE (notas de prensa)",
+      "url": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr261118~83c5c60158.en.html",
+      "published": "2026-11-18T09:00:00+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   }
+  ],
+  "politica|europa": [
+   {
+    "title": "Rusia pasa a una nueva fase en su ofensiva en Europa: sabotajes a los fabricantes de armas",
+    "summary": "Rusia ha intensificado ataques de baja intensidad contra fabricantes de armas desde el verano, incluyendo un sabotaje reciente en Estonia. Esta nueva táctica busca afectar la cadena de suministro de armamento destinado a Ucrania.",
+    "lang": "es",
+    "source": "El País Internacional",
+    "url": "https://elpais.com/internacional/2026-11-18/rusia-pasa-a-una-nueva-fase-en-su-ofensiva-en-europa-sabotajes-a-los-fabricantes-de-armas.html",
+    "published": "2026-11-18T04:30:01+00:00",
+    "event_id": "09af87f4505c",
+    "sources": [
+     {
+      "title": "Rusia pasa a una nueva fase en su ofensiva en Europa: sabotajes a los fabricantes de armas",
+      "summary": "Rusia ha intensificado ataques de baja intensidad contra fabricantes de armas desde el verano, incluyendo un sabotaje reciente en Estonia. Esta nueva táctica busca afectar la cadena de suministro de armamento destinado a Ucrania.",
+      "lang": "es",
+      "source": "El País Internacional",
+      "url": "https://elpais.com/internacional/2026-11-18/rusia-pasa-a-una-nueva-fase-en-su-ofensiva-en-europa-sabotajes-a-los-fabricantes-de-armas.html",
+      "published": "2026-11-18T04:30:01+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "Rights court rules Turkey must release jailed lawmaker Atalay",
+    "summary": "The European Court of Human Rights ruled that Turkey must release imprisoned lawmaker Can Atalay. Atalay has spent nearly five years in detention despite previous court rulings.",
+    "lang": "en",
+    "source": "Deutsche Welle World",
+    "url": "https://www.dw.com/en/rights-court-rules-turkey-must-release-jailed-lawmaker-atalay/a-79972462?maca=en-rss-en-world-4025-rdf",
+    "published": "2026-11-17T15:47:00+00:00",
+    "event_id": "a3a458150190",
+    "sources": [
+     {
+      "title": "Rights court rules Turkey must release jailed lawmaker Atalay",
+      "summary": "The European Court of Human Rights ruled that Turkey must release imprisoned lawmaker Can Atalay. Atalay has spent nearly five years in detention despite previous court rulings.",
+      "lang": "en",
+      "source": "Deutsche Welle World",
+      "url": "https://www.dw.com/en/rights-court-rules-turkey-must-release-jailed-lawmaker-atalay/a-79972462?maca=en-rss-en-world-4025-rdf",
+      "published": "2026-11-17T15:47:00+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "Hashim Thaci's second conviction in The Hague reignites debate in Kosovo about justice and the Kosovo Specialist Chambers",
+    "summary": "Former Kosovo President Hashim Thaci was convicted of witness tampering in his war crimes trial at The Hague. The conviction reignites debate about justice mechanisms in Kosovo.",
+    "lang": "en",
+    "source": "Deutsche Welle World",
+    "url": "https://www.dw.com/en/hashim-thaci-s-second-conviction-in-the-hague-reignites-debate-in-kosovo-about-justice-and-the-kosovo-specialist-chambers/a-79975227?maca=en-rss-en-world-4025-rdf",
+    "published": "2026-11-17T20:40:00+00:00",
+    "event_id": "40118936c683",
+    "sources": [
+     {
+      "title": "Hashim Thaci's second conviction in The Hague reignites debate in Kosovo about justice and the Kosovo Specialist Chambers",
+      "summary": "Former Kosovo President Hashim Thaci was convicted of witness tampering in his war crimes trial at The Hague. The conviction reignites debate about justice mechanisms in Kosovo.",
+      "lang": "en",
+      "source": "Deutsche Welle World",
+      "url": "https://www.dw.com/en/hashim-thaci-s-second-conviction-in-the-hague-reignites-debate-in-kosovo-about-justice-and-the-kosovo-specialist-chambers/a-79975227?maca=en-rss-en-world-4025-rdf",
+      "published": "2026-11-17T20:40:00+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "Italia aprueba una ley que abre la posibilidad de considerar antisemitismo las críticas a Israel",
+    "summary": "Italia aprobó una ley que permite considerar antisemitismo las críticas a Israel, generando división en la oposición. Los críticos advierten que podría usarse para castigar protestas sobre Gaza y Palestina.",
+    "lang": "es",
+    "source": "El País Internacional",
+    "url": "https://elpais.com/internacional/2026-11-18/italia-aprueba-una-ley-que-abre-la-posibilidad-de-considerar-antisemitismo-las-criticas-a-israel.html",
+    "published": "2026-11-18T11:57:06+00:00",
+    "event_id": "a5e72c00cd5f",
+    "sources": [
+     {
+      "title": "Italia aprueba una ley que abre la posibilidad de considerar antisemitismo las críticas a Israel",
+      "summary": "Italia aprobó una ley que permite considerar antisemitismo las críticas a Israel, generando división en la oposición. Los críticos advierten que podría usarse para castigar protestas sobre Gaza y Palestina.",
+      "lang": "es",
+      "source": "El País Internacional",
+      "url": "https://elpais.com/internacional/2026-11-18/italia-aprueba-una-ley-que-abre-la-posibilidad-de-considerar-antisemitismo-las-criticas-a-israel.html",
+      "published": "2026-11-18T11:57:06+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "German Government Nominates Brunnermeier for ECB Board Seat",
+    "summary": "Germany nominated Markus Brunnermeier for the ECB's chief economist role, enabling Spaniard Pablo Hernandez de Cos to succeed Christine Lagarde as president. The move reshuffles top leadership at the central bank.",
+    "lang": "en",
+    "source": "Bloomberg Economics",
+    "url": "https://www.bloomberg.com/news/articles/2026-11-18/german-government-nominates-brunnermeier-for-ecb-board-seat",
+    "published": "2026-11-18T09:52:25+00:00",
+    "event_id": "f05f40050561",
+    "sources": [
+     {
+      "title": "German Government Nominates Brunnermeier for ECB Board Seat",
+      "summary": "Germany nominated Markus Brunnermeier for the ECB's chief economist role, enabling Spaniard Pablo Hernandez de Cos to succeed Christine Lagarde as president. The move reshuffles top leadership at the central bank.",
+      "lang": "en",
+      "source": "Bloomberg Economics",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-18/german-government-nominates-brunnermeier-for-ecb-board-seat",
+      "published": "2026-11-18T09:52:25+00:00"
+     }
+    ],
+    "status": "unchanged",
+    "change_summary": "",
+    "previous_date": "2026-11-17",
+    "previous_event_id": "f05f40050561"
+   }
+  ],
+  "economia|america": [
+   {
+    "title": "Waller Says Fed Should Consider Half-Point Rate Hike",
+    "summary": "Federal Reserve governor Christopher Waller said inflation is moving in the wrong direction and urged considering a half-point rate hike. The statement signals potential for larger interest rate increases.",
+    "lang": "en",
+    "source": "Bloomberg Economics",
+    "url": "https://www.bloomberg.com/news/articles/2026-11-18/fed-s-waller-says-fed-should-consider-half-point-rate-hike",
+    "published": "2026-11-18T12:53:31+00:00",
+    "event_id": "b6d7c6445527",
+    "sources": [
+     {
+      "title": "Waller Says Fed Should Consider Half-Point Rate Hike",
+      "summary": "Federal Reserve governor Christopher Waller said inflation is moving in the wrong direction and urged considering a half-point rate hike. The statement signals potential for larger interest rate increases.",
+      "lang": "en",
+      "source": "Bloomberg Economics",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-18/fed-s-waller-says-fed-should-consider-half-point-rate-hike",
+      "published": "2026-11-18T12:53:31+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "US Housing Starts Climb on Multifamily Construction Rebound",
+    "summary": "US housing starts climbed in October, driven by multifamily construction rebound while single-family homes remain pressured by high mortgage rates. The mixed results reflect sector-specific challenges.",
+    "lang": "en",
+    "source": "Bloomberg Economics",
+    "url": "https://www.bloomberg.com/news/articles/2026-11-18/us-housing-starts-climb-to-three-month-high-exceeding-forecast",
+    "published": "2026-11-18T13:33:55+00:00",
+    "event_id": "29555bb65717",
+    "sources": [
+     {
+      "title": "US Housing Starts Climb on Multifamily Construction Rebound",
+      "summary": "US housing starts climbed in October, driven by multifamily construction rebound while single-family homes remain pressured by high mortgage rates. The mixed results reflect sector-specific challenges.",
+      "lang": "en",
+      "source": "Bloomberg Economics",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-18/us-housing-starts-climb-to-three-month-high-exceeding-forecast",
+      "published": "2026-11-18T13:33:55+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "Chile Economy Stung by Biggest Quarterly Plunge Since 2020",
+    "summary": "Chile's economy posted its biggest quarterly decline since 2020, shocking observers who expected a quick rebound. The contraction signals underlying economic weakness.",
+    "lang": "en",
+    "source": "Bloomberg Economics",
+    "url": "https://www.bloomberg.com/news/articles/2026-11-18/chile-economy-shrank-more-than-forecast-as-mining-output-plunged",
+    "published": "2026-11-18T12:01:52+00:00",
+    "event_id": "2ace33772dc8",
+    "sources": [
+     {
+      "title": "Chile Economy Stung by Biggest Quarterly Plunge Since 2020",
+      "summary": "Chile's economy posted its biggest quarterly decline since 2020, shocking observers who expected a quick rebound. The contraction signals underlying economic weakness.",
+      "lang": "en",
+      "source": "Bloomberg Economics",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-18/chile-economy-shrank-more-than-forecast-as-mining-output-plunged",
+      "published": "2026-11-18T12:01:52+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "Nvidia’s startup stakes ballooned to $65B, but Huang’s exit puts future deals in doubt",
+    "summary": "Nvidia's private investment portfolio ballooned to $65 billion in nine months through aggressive dealmaking by Jensen Huang. His recent departure creates uncertainty for future venture investments.",
+    "lang": "en",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/11/17/nvidias-startup-stakes-ballooned-to-65b-but-huangs-exit-puts-future-deals-in-doubt/",
+    "published": "2026-11-18T01:44:21+00:00",
+    "event_id": "d652f478feee",
+    "sources": [
+     {
+      "title": "Nvidia’s startup stakes ballooned to $65B, but Huang’s exit puts future deals in doubt",
+      "summary": "Nvidia's private investment portfolio ballooned to $65 billion in nine months through aggressive dealmaking by Jensen Huang. His recent departure creates uncertainty for future venture investments.",
+      "lang": "en",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/11/17/nvidias-startup-stakes-ballooned-to-65b-but-huangs-exit-puts-future-deals-in-doubt/",
+      "published": "2026-11-18T01:44:21+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "Hydropower hit record lows in the US Southwest this summer",
+    "summary": "US Southwest hydropower generation fell 28% below the 10-year average between April and August. The drought-driven decline reflects climate pressures on the region's energy supply.",
+    "lang": "en",
+    "source": "MIT Technology Review",
+    "url": "https://www.technologyreview.com/2026/11/17/1148742/hydropower-drought-colorado-river/",
+    "published": "2026-11-17T17:52:10+00:00",
+    "event_id": "6a38a59720a4",
+    "sources": [
+     {
+      "title": "Hydropower hit record lows in the US Southwest this summer",
+      "summary": "US Southwest hydropower generation fell 28% below the 10-year average between April and August. The drought-driven decline reflects climate pressures on the region's energy supply.",
+      "lang": "en",
+      "source": "MIT Technology Review",
+      "url": "https://www.technologyreview.com/2026/11/17/1148742/hydropower-drought-colorado-river/",
+      "published": "2026-11-17T17:52:10+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   }
+  ],
+  "politica|america": [
+   {
+    "title": "Democrats win Alaska Senate race two weeks after midterms counting began",
+    "summary": "Democrats won the Alaska Senate race two weeks after midterm counting concluded, capping the party's successful performance in Senate elections. Mary Peltola's victory confirms Republican losses.",
+    "lang": "en",
+    "source": "BBC World",
+    "url": "https://www.bbc.co.uk/news/articles/cqev3v2ygzlvo?at_medium=RSS&at_campaign=rss",
+    "published": "2026-11-18T10:23:57+00:00",
+    "event_id": "55134f7fb917",
+    "sources": [
+     {
+      "title": "Democrats win Alaska Senate race two weeks after midterms counting began",
+      "summary": "Democrats won the Alaska Senate race two weeks after midterm counting concluded, capping the party's successful performance in Senate elections. Mary Peltola's victory confirms Republican losses.",
+      "lang": "en",
+      "source": "BBC World",
+      "url": "https://www.bbc.co.uk/news/articles/cqev3v2ygzlvo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-18T10:23:57+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "Fears grow that US will impose sanctions on ICJ judges ahead of Myanmar genocide ruling",
+    "summary": "Fears are growing that the US may impose sanctions on International Court of Justice judges ahead of a Myanmar genocide ruling. The concern stems from potential precedent for Israel's Gaza actions.",
+    "lang": "en",
+    "source": "The Guardian World",
+    "url": "https://www.theguardian.com/world/2026/nov/18/us-sanctions-icj-judges-myanmar-genocide-ruling-israel-gaza-court",
+    "published": "2026-11-18T09:58:28+00:00",
+    "event_id": "a9cefeb13011",
+    "sources": [
+     {
+      "title": "Fears grow that US will impose sanctions on ICJ judges ahead of Myanmar genocide ruling",
+      "summary": "Fears are growing that the US may impose sanctions on International Court of Justice judges ahead of a Myanmar genocide ruling. The concern stems from potential precedent for Israel's Gaza actions.",
+      "lang": "en",
+      "source": "The Guardian World",
+      "url": "https://www.theguardian.com/world/2026/nov/18/us-sanctions-icj-judges-myanmar-genocide-ruling-israel-gaza-court",
+      "published": "2026-11-18T09:58:28+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "美國今年已10人死於麻疹 26年後失去「麻疹消除狀態」",
+    "summary": "美国今年麻疹死亡人数达10人，病例数突破5400例，创1990年代以来新高。美国时隔26年失去麻疹消除状态，疫苗犹豫态度持续引发关注。",
+    "lang": "zh",
+    "source": "BBC中文",
+    "url": "https://www.bbc.com/zhongwen/articles/c5y4jmvxr9vyo/trad?at_medium=RSS&at_campaign=rss",
+    "published": "2026-11-18T08:16:22+00:00",
+    "event_id": "c76c0b974bbf",
+    "sources": [
+     {
+      "title": "美國今年已10人死於麻疹 26年後失去「麻疹消除狀態」",
+      "summary": "美国今年麻疹死亡人数达10人，病例数突破5400例，创1990年代以来新高。美国时隔26年失去麻疹消除状态，疫苗犹豫态度持续引发关注。",
+      "lang": "zh",
+      "source": "BBC中文",
+      "url": "https://www.bbc.com/zhongwen/articles/c5y4jmvxr9vyo/trad?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-18T08:16:22+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "Costa Rican journalist shot dead in first such killing in 25 years",
+    "summary": "Costa Rican journalist Camilo Rodríguez was shot dead in the country's first such killing in 25 years. His death reflects rising drug violence affecting the nation.",
+    "lang": "en",
+    "source": "The Guardian World",
+    "url": "https://www.theguardian.com/world/2026/nov/17/costa-rica-journalist-camilo-rodriguez-shot-dead",
+    "published": "2026-11-17T17:19:12+00:00",
+    "event_id": "534982271b9a",
+    "sources": [
+     {
+      "title": "Costa Rican journalist shot dead in first such killing in 25 years",
+      "summary": "Costa Rican journalist Camilo Rodríguez was shot dead in the country's first such killing in 25 years. His death reflects rising drug violence affecting the nation.",
+      "lang": "en",
+      "source": "The Guardian World",
+      "url": "https://www.theguardian.com/world/2026/nov/17/costa-rica-journalist-camilo-rodriguez-shot-dead",
+      "published": "2026-11-17T17:19:12+00:00"
+     }
+    ],
+    "status": "unchanged",
+    "change_summary": "",
+    "previous_date": "2026-11-17",
+    "previous_event_id": "534982271b9a"
+   }
+  ],
+  "tecnologia|europa": [
+   {
+    "title": "找到 8 分鐘重複一次的神祕電波來源，天文學家證實源自白矮星雙星系統",
+    "summary": "澳洲天文学家通过默奇森寬場陣列确认每约8分钟重复脉冲一次的无线电信号GPM J071507-114153源自白矮星双星系统。这一发现揭示了此前神秘信号的来源。",
+    "lang": "zh",
+    "source": "科技新報 TechNews",
+    "url": "https://technews.tw/2026/11/18/a-mysterious-radio-signal-repeats-every-8-minutes-astronomers-finally-know-whats-behind-it/",
+    "published": "2026-11-18T13:56:15+00:00",
+    "event_id": "1800d0ffb7f7",
+    "sources": [
+     {
+      "title": "找到 8 分鐘重複一次的神祕電波來源，天文學家證實源自白矮星雙星系統",
+      "summary": "澳洲天文学家通过默奇森寬場陣列确认每约8分钟重复脉冲一次的无线电信号GPM J071507-114153源自白矮星双星系统。这一发现揭示了此前神秘信号的来源。",
+      "lang": "zh",
+      "source": "科技新報 TechNews",
+      "url": "https://technews.tw/2026/11/18/a-mysterious-radio-signal-repeats-every-8-minutes-astronomers-finally-know-whats-behind-it/",
+      "published": "2026-11-18T13:56:15+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "Ya es oficial: el servicio universal de internet será diez veces más rápido en 2027 y beneficiará a mucha más gente",
+    "summary": "El Consejo de Ministros español aprobó el Reglamento del Servicio Universal de telecomunicaciones, aumentando significativamente la velocidad de internet para 2027. La medida beneficiará a una población mucho más amplia.",
+    "lang": "es",
+    "source": "Xataka",
+    "url": "https://www.xataka.com/servicios/oficial-servicio-universal-internet-sera-diez-veces-rapido-2027-beneficiara-a-mucha-gente",
+    "published": "2026-11-18T14:01:20+00:00",
+    "event_id": "c75998062496",
+    "sources": [
+     {
+      "title": "Ya es oficial: el servicio universal de internet será diez veces más rápido en 2027 y beneficiará a mucha más gente",
+      "summary": "El Consejo de Ministros español aprobó el Reglamento del Servicio Universal de telecomunicaciones, aumentando significativamente la velocidad de internet para 2027. La medida beneficiará a una población mucho más amplia.",
+      "lang": "es",
+      "source": "Xataka",
+      "url": "https://www.xataka.com/servicios/oficial-servicio-universal-internet-sera-diez-veces-rapido-2027-beneficiara-a-mucha-gente",
+      "published": "2026-11-18T14:01:20+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "歐洲綠電面臨輸電瓶頸，歐盟推動電網審批改革",
+    "summary": "欧洲可再生能源发电占比持续提高，但电网建设滞后导致风电与太阳能被迫限发。欧盟理事会推动电网审批改革以缓解输电瓶颈。",
+    "lang": "zh",
+    "source": "科技新報 TechNews",
+    "url": "https://technews.tw/2026/11/18/green-power-increases-grid-lags-eu-accelerates-wind-solar-storage-approvals/",
+    "published": "2026-11-18T09:23:50+00:00",
+    "event_id": "c2df10f79b93",
+    "sources": [
+     {
+      "title": "歐洲綠電面臨輸電瓶頸，歐盟推動電網審批改革",
+      "summary": "欧洲可再生能源发电占比持续提高，但电网建设滞后导致风电与太阳能被迫限发。欧盟理事会推动电网审批改革以缓解输电瓶颈。",
+      "lang": "zh",
+      "source": "科技新報 TechNews",
+      "url": "https://technews.tw/2026/11/18/green-power-increases-grid-lags-eu-accelerates-wind-solar-storage-approvals/",
+      "published": "2026-11-18T09:23:50+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "面對AI加速攻擊，英國NCSC呼籲企業董事會應關切以主動威脅獵捕找出偵測缺口",
+    "summary": "英国国家网络安全中心呼吁企业开展威胁猎捕工作以主动发现攻击者利用AI发动的高速大规模攻击。仅依赖既有监控机制难以及时应对新型威胁。",
+    "lang": "zh",
+    "source": "iThome 台灣",
+    "url": "https://www.ithome.com.tw/news/180613",
+    "published": "2026-11-18T03:11:05+00:00",
+    "event_id": "ebf8b95309bb",
+    "sources": [
+     {
+      "title": "面對AI加速攻擊，英國NCSC呼籲企業董事會應關切以主動威脅獵捕找出偵測缺口",
+      "summary": "英国国家网络安全中心呼吁企业开展威胁猎捕工作以主动发现攻击者利用AI发动的高速大规模攻击。仅依赖既有监控机制难以及时应对新型威胁。",
+      "lang": "zh",
+      "source": "iThome 台灣",
+      "url": "https://www.ithome.com.tw/news/180613",
+      "published": "2026-11-18T03:11:05+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "Le Groupe Figaro and OpenAI partner to bring Le Figaro journalism to ChatGPT",
+    "summary": "Le Groupe Figaro and OpenAI partnered to bring French journalism to ChatGPT through summaries and excerpts. The agreement connects readers to original Le Figaro content.",
+    "lang": "en",
+    "source": "OpenAI News",
+    "url": "https://openai.com/index/le-groupe-figaro-and-openai-announce-partnership",
+    "published": "2026-11-18T00:00:00+00:00",
+    "event_id": "6cab9c8cd383",
+    "sources": [
+     {
+      "title": "Le Groupe Figaro and OpenAI partner to bring Le Figaro journalism to ChatGPT",
+      "summary": "Le Groupe Figaro and OpenAI partnered to bring French journalism to ChatGPT through summaries and excerpts. The agreement connects readers to original Le Figaro content.",
+      "lang": "en",
+      "source": "OpenAI News",
+      "url": "https://openai.com/index/le-groupe-figaro-and-openai-announce-partnership",
+      "published": "2026-11-18T00:00:00+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   }
+  ]
+ }
+}
