@@ -103,8 +103,9 @@ main{max-width:1040px; margin:0 auto; padding:0 .9rem 3rem}
 .lead-main p{font-size:1.02rem}
 .lead-side h4{font-size:1.25rem}
 
+.links{display:grid; gap:.6rem; margin-top:1.6rem}
 .aihot{display:flex; align-items:center; justify-content:space-between; gap:.8rem;
-  margin-top:1.6rem; padding:.75rem .95rem; border-radius:.6rem; text-decoration:none;
+  padding:.75rem .95rem; border-radius:.6rem; text-decoration:none;
   color:var(--text); background:var(--card); border:1px solid var(--border);
   transition:border-color .15s}
 .aihot:hover{border-color:var(--accent)}
@@ -129,6 +130,7 @@ footer a{color:var(--accent)}
   .grid .cards{display:grid; grid-template-columns:repeat(auto-fill, minmax(250px, 1fr));
     gap:0 1.6rem; align-items:start}
   .grid .cards .card{border-top:0; border-bottom:1px solid var(--border)}
+  .links{grid-template-columns:1fr 1fr}
   .lead-grid{grid-template-columns:1.7fr 1fr}
   .lead-main{grid-row:span 2; padding-right:2rem; border-right:1px solid var(--border)}
   .lead-side:first-of-type{border-top:0}
@@ -159,10 +161,16 @@ footer a{color:var(--accent)}
   </div>
   <div class="market" id="market"></div>
   <div id="lead"></div>
-  <a class="aihot" href="https://aihot.news" target="_blank" rel="noopener">
-    <span><b>Novedades de IA</b><small>Lo más destacado del día en AIHOT</small></span>
-    <span class="aihot-go" aria-hidden="true">↗</span>
-  </a>
+  <div class="links">
+    <a class="aihot" href="https://aihot.news" target="_blank" rel="noopener">
+      <span><b>Novedades de IA</b><small>Lo más destacado del día en AIHOT</small></span>
+      <span class="aihot-go" aria-hidden="true">↗</span>
+    </a>
+    <a class="aihot" href="https://huggingface.co/papers" target="_blank" rel="noopener">
+      <span><b>Papers del día</b><small>Investigación en IA destacada en Hugging Face</small></span>
+      <span class="aihot-go" aria-hidden="true">↗</span>
+    </a>
+  </div>
   <div id="content"></div>
 </main>
 <footer id="footer"></footer>
