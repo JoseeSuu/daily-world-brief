@@ -1,0 +1,926 @@
+{
+ "date": "2026-11-19",
+ "generated_at": "2026-11-19T14:39:09.927427+00:00",
+ "mode": "full",
+ "cost_usd": 0.0512,
+ "selection": {
+  "model": "claude-haiku-5-5",
+  "effort": "high",
+  "passes": 3,
+  "passes_ok": 3,
+  "cost_usd": 0.0181
+ },
+ "events": {
+  "mode": "full",
+  "compared_with": "2026-11-18",
+  "articles": 41,
+  "uncompared_articles": 0,
+  "events": 37,
+  "cost_usd": 0.0204
+ },
+ "market": null,
+ "failed_sources": [],
+ "cells": {
+  "economia|asia": [
+   {
+    "title": "Iran Intensifies Hormuz Tanker Attacks Just as Oil Prices Slide",
+    "summary": "Iran intensifies attacks on oil tankers in the Strait of Hormuz amid falling global oil prices due to Middle Eastern supply surge.",
+    "lang": "en",
+    "source": "Bloomberg Markets",
+    "url": "https://www.bloomberg.com/news/articles/2026-11-19/iran-intensifies-hormuz-tanker-attacks-just-as-oil-prices-slide",
+    "published": "2026-11-19T13:28:59+00:00",
+    "event_id": "f187dbe52d42",
+    "sources": [
+     {
+      "title": "Iran Intensifies Hormuz Tanker Attacks Just as Oil Prices Slide",
+      "summary": "Iran intensifies attacks on oil tankers in the Strait of Hormuz amid falling global oil prices due to Middle Eastern supply surge.",
+      "lang": "en",
+      "source": "Bloomberg Markets",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-19/iran-intensifies-hormuz-tanker-attacks-just-as-oil-prices-slide",
+      "published": "2026-11-19T13:28:59+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "South Korea’s Exports Top $1 Trillion for First Time on AI Boom",
+    "summary": "South Korea's annual exports exceeded $1 trillion for the first time, driven by record semiconductor shipments amid the global AI boom.",
+    "lang": "en",
+    "source": "Bloomberg Economics",
+    "url": "https://www.bloomberg.com/news/articles/2026-11-19/south-korea-s-exports-top-1-trillion-for-first-time-on-ai-boom",
+    "published": "2026-11-19T08:25:53+00:00",
+    "event_id": "2693c5d67385",
+    "sources": [
+     {
+      "title": "South Korea’s Exports Top $1 Trillion for First Time on AI Boom",
+      "summary": "South Korea's annual exports exceeded $1 trillion for the first time, driven by record semiconductor shipments amid the global AI boom.",
+      "lang": "en",
+      "source": "Bloomberg Economics",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-19/south-korea-s-exports-top-1-trillion-for-first-time-on-ai-boom",
+      "published": "2026-11-19T08:25:53+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   }
+  ],
+  "politica|asia": [
+   {
+    "title": "Air strike hits Saudi sovereign wealth fund headquarters",
+    "summary": "An air strike hit Saudi Arabia's Public Investment Fund headquarters in Riyadh. The attack follows near-daily Houthi barrages on the kingdom.",
+    "lang": "en",
+    "source": "Financial Times",
+    "url": "https://www.ft.com/content/05ed47a5-7cc1-402f-ad0d-826ba09a05c8?syn-25a6b1a6=1",
+    "published": "2026-11-19T09:41:38+00:00",
+    "event_id": "cfb89713dcfb",
+    "sources": [
+     {
+      "title": "Air strike hits Saudi sovereign wealth fund headquarters",
+      "summary": "An air strike hit Saudi Arabia's Public Investment Fund headquarters in Riyadh. The attack follows near-daily Houthi barrages on the kingdom.",
+      "lang": "en",
+      "source": "Financial Times",
+      "url": "https://www.ft.com/content/05ed47a5-7cc1-402f-ad0d-826ba09a05c8?syn-25a6b1a6=1",
+      "published": "2026-11-19T09:41:38+00:00"
+     },
+     {
+      "title": "Houthis hit Riyadh’s tallest skyscraper in strike on Saudi wealth fund HQ",
+      "summary": "A suspected Houthi missile struck Riyadh's tallest skyscraper, the Saudi sovereign wealth fund headquarters, in the latest attack on the kingdom.",
+      "lang": "en",
+      "source": "South China Morning Post (Asia)",
+      "url": "https://www.scmp.com/news/world/middle-east/article/3375108/houthis-hit-riyadhs-tallest-skyscraper-strike-saudi-wealth-fund-hq",
+      "published": "2026-11-19T12:56:09+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "Trump, Putin and Xi hold first-ever trilateral talks",
+    "summary": "Trump, Putin, and Xi held their first-ever trilateral talks, discussing topics ranging from nuclear weapons to the Ukraine conflict.",
+    "lang": "en",
+    "source": "Le Monde International",
+    "url": "https://www.lemonde.fr/en/international/article/2026/11/19/trump-putin-and-xi-hold-first-ever-trilateral-talks_6784252_4.html",
+    "published": "2026-11-19T10:24:27+00:00",
+    "event_id": "0180ed5a8859",
+    "sources": [
+     {
+      "title": "Trump, Putin and Xi hold first-ever trilateral talks",
+      "summary": "Trump, Putin, and Xi held their first-ever trilateral talks, discussing topics ranging from nuclear weapons to the Ukraine conflict.",
+      "lang": "en",
+      "source": "Le Monde International",
+      "url": "https://www.lemonde.fr/en/international/article/2026/11/19/trump-putin-and-xi-hold-first-ever-trilateral-talks_6784252_4.html",
+      "published": "2026-11-19T10:24:27+00:00"
+     }
+    ],
+    "status": "updated",
+    "change_summary": "Trump, Putin and Xi hold first-ever trilateral talks",
+    "previous_date": "2026-11-18",
+    "previous_event_id": "0180ed5a8859"
+   },
+   {
+    "title": "ICJ rules that Myanmar committed genocide against Rohingya muslims",
+    "summary": "The International Court of Justice ruled Myanmar committed genocide against Rohingya Muslims, marking the court's first genocide finding in its 80-year history.",
+    "lang": "en",
+    "source": "Le Monde International",
+    "url": "https://www.lemonde.fr/en/international/article/2026/11/19/icj-rules-that-myanmar-committed-genocide-against-rohingya-muslims_6784320_4.html",
+    "published": "2026-11-19T12:32:52+00:00",
+    "event_id": "a9cefeb13011",
+    "sources": [
+     {
+      "title": "ICJ rules that Myanmar committed genocide against Rohingya muslims",
+      "summary": "The International Court of Justice ruled Myanmar committed genocide against Rohingya Muslims, marking the court's first genocide finding in its 80-year history.",
+      "lang": "en",
+      "source": "Le Monde International",
+      "url": "https://www.lemonde.fr/en/international/article/2026/11/19/icj-rules-that-myanmar-committed-genocide-against-rohingya-muslims_6784320_4.html",
+      "published": "2026-11-19T12:32:52+00:00"
+     }
+    ],
+    "status": "updated",
+    "change_summary": "ICJ rules that Myanmar committed genocide against Rohingya muslims",
+    "previous_date": "2026-11-18",
+    "previous_event_id": "a9cefeb13011"
+   },
+   {
+    "title": "South Korea court orders retrial of ex-PM Han in martial law case",
+    "summary": "South Korea's court ordered a retrial for former PM Han in the martial law case stemming from President Yoon's 2024 decree.",
+    "lang": "en",
+    "source": "Japan Times",
+    "url": "https://www.japantimes.co.jp/news/2026/11/19/asia-pacific/south-korea-pm-retrial/",
+    "published": "2026-11-19T11:45:00+00:00",
+    "event_id": "50fb8bae0144",
+    "sources": [
+     {
+      "title": "South Korea court orders retrial of ex-PM Han in martial law case",
+      "summary": "South Korea's court ordered a retrial for former PM Han in the martial law case stemming from President Yoon's 2024 decree.",
+      "lang": "en",
+      "source": "Japan Times",
+      "url": "https://www.japantimes.co.jp/news/2026/11/19/asia-pacific/south-korea-pm-retrial/",
+      "published": "2026-11-19T11:45:00+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "North Korea expanded uranium enrichment plant, says IAEA head",
+    "summary": "The IAEA chief said North Korea's expanding uranium enrichment program remains a serious concern for international security.",
+    "lang": "en",
+    "source": "Deutsche Welle World",
+    "url": "https://www.dw.com/en/north-korea-expanded-uranium-enrichment-plant-says-iaea-head/a-79982758?maca=en-rss-en-world-4025-rdf",
+    "published": "2026-11-18T15:15:00+00:00",
+    "event_id": "fc52cfe3063f",
+    "sources": [
+     {
+      "title": "North Korea expanded uranium enrichment plant, says IAEA head",
+      "summary": "The IAEA chief said North Korea's expanding uranium enrichment program remains a serious concern for international security.",
+      "lang": "en",
+      "source": "Deutsche Welle World",
+      "url": "https://www.dw.com/en/north-korea-expanded-uranium-enrichment-plant-says-iaea-head/a-79982758?maca=en-rss-en-world-4025-rdf",
+      "published": "2026-11-18T15:15:00+00:00"
+     }
+    ],
+    "status": "unchanged",
+    "change_summary": "",
+    "previous_date": "2026-11-18",
+    "previous_event_id": "fc52cfe3063f"
+   }
+  ],
+  "tecnologia|asia": [
+   {
+    "title": "TSMC and Samsung suspend some chip shipments to Chinese customers",
+    "summary": "TSMC and Samsung halted some chip shipments to Chinese customers after the US commerce department introduced new export controls.",
+    "lang": "en",
+    "source": "FT Global Economy",
+    "url": "https://www.ft.com/content/d42dd235-7b0e-4651-a8d2-f7b7b4963a74?syn-25a6b1a6=1",
+    "published": "2026-11-19T10:21:27+00:00",
+    "event_id": "25ab72258d0f",
+    "sources": [
+     {
+      "title": "TSMC and Samsung suspend some chip shipments to Chinese customers",
+      "summary": "TSMC and Samsung halted some chip shipments to Chinese customers after the US commerce department introduced new export controls.",
+      "lang": "en",
+      "source": "FT Global Economy",
+      "url": "https://www.ft.com/content/d42dd235-7b0e-4651-a8d2-f7b7b4963a74?syn-25a6b1a6=1",
+      "published": "2026-11-19T10:21:27+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "Alibaba trains next-gen AI model on own chips amid tighter US curbs",
+    "summary": "Alibaba is developing an AI model using its own chips as the US tightens restrictions on Chinese technology access.",
+    "lang": "en",
+    "source": "Nikkei Asia",
+    "url": "https://asia.nikkei.com/business/technology/alibaba-trains-next-gen-ai-model-on-own-chips-amid-tighter-us-curbs",
+    "published": null,
+    "event_id": "e488ca6034a0",
+    "sources": [
+     {
+      "title": "Alibaba trains next-gen AI model on own chips amid tighter US curbs",
+      "summary": "Alibaba is developing an AI model using its own chips as the US tightens restrictions on Chinese technology access.",
+      "lang": "en",
+      "source": "Nikkei Asia",
+      "url": "https://asia.nikkei.com/business/technology/alibaba-trains-next-gen-ai-model-on-own-chips-amid-tighter-us-curbs",
+      "published": null
+     },
+     {
+      "title": "美擴大封殺中國海外算力！傳三星嚴查代工來源，中國 AI 業者壓力山大",
+      "summary": "美国扩大对先进AI芯片和半导体出口管制，三星严查代工来源，中国AI业者压力增大。",
+      "lang": "zh",
+      "source": "科技新報 TechNews",
+      "url": "https://technews.tw/2026/11/19/us-china-ai-chip-export/",
+      "published": "2026-11-19T09:45:55+00:00"
+     },
+     {
+      "title": "中國晶片管制下另闢蹊徑！改利用美國 AI 模型，訓練本土競爭對手",
+      "summary": "美国收紧先进AI芯片出口限制后，中国AI业者利用美国AI模型训练本土竞争对手以提升能力。",
+      "lang": "zh",
+      "source": "科技新報 TechNews",
+      "url": "https://technews.tw/2026/11/19/china-and-us-ai-models/",
+      "published": "2026-11-19T08:41:49+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "美光新加坡 HBM 先進封裝廠首部機台進駐，預計 2027 年初進行產出",
+    "summary": "美光在新加坡建设的高频宽记憶体先进封装厂首部機台已進駐，預計2027年初開始量產。",
+    "lang": "zh",
+    "source": "科技新報 TechNews",
+    "url": "https://finance.technews.tw/2026/11/19/micron-singapore-hbm-advanced-packaging-plant-installs-first-machine/",
+    "published": "2026-11-19T10:00:35+00:00",
+    "event_id": "51c72f6299bd",
+    "sources": [
+     {
+      "title": "美光新加坡 HBM 先進封裝廠首部機台進駐，預計 2027 年初進行產出",
+      "summary": "美光在新加坡建设的高频宽记憶体先进封装厂首部機台已進駐，預計2027年初開始量產。",
+      "lang": "zh",
+      "source": "科技新報 TechNews",
+      "url": "https://finance.technews.tw/2026/11/19/micron-singapore-hbm-advanced-packaging-plant-installs-first-machine/",
+      "published": "2026-11-19T10:00:35+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "大車隊子公司全球商務科技遭未經授權存取，部分客戶及會員資料外洩",
+    "summary": "大車隊子公司全球商務科技發生未授權存取事件，部分客戶、會員及外務人員資料外洩。",
+    "lang": "zh",
+    "source": "iThome 台灣",
+    "url": "https://www.ithome.com.tw/news/180662",
+    "published": "2026-11-19T05:11:14+00:00",
+    "event_id": "bdcae02c19a5",
+    "sources": [
+     {
+      "title": "大車隊子公司全球商務科技遭未經授權存取，部分客戶及會員資料外洩",
+      "summary": "大車隊子公司全球商務科技發生未授權存取事件，部分客戶、會員及外務人員資料外洩。",
+      "lang": "zh",
+      "source": "iThome 台灣",
+      "url": "https://www.ithome.com.tw/news/180662",
+      "published": "2026-11-19T05:11:14+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "A human liver has been kept alive outside the body for a record seven weeks",
+    "summary": "Australian researchers kept a human liver alive outside the body for a record seven weeks, opening new biomedical possibilities.",
+    "lang": "en",
+    "source": "MIT Technology Review",
+    "url": "https://www.technologyreview.com/2026/11/19/1148934/a-human-liver-has-been-kept-alive-outside-the-body-for-seven-weeks-setting-a-record/",
+    "published": "2026-11-19T12:00:00+00:00",
+    "event_id": "200c26dcc801",
+    "sources": [
+     {
+      "title": "A human liver has been kept alive outside the body for a record seven weeks",
+      "summary": "Australian researchers kept a human liver alive outside the body for a record seven weeks, opening new biomedical possibilities.",
+      "lang": "en",
+      "source": "MIT Technology Review",
+      "url": "https://www.technologyreview.com/2026/11/19/1148934/a-human-liver-has-been-kept-alive-outside-the-body-for-seven-weeks-setting-a-record/",
+      "published": "2026-11-19T12:00:00+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   }
+  ],
+  "economia|europa": [
+   {
+    "title": "ECB’s Nagel Says December Rate Hike Would Send Clear Signal",
+    "summary": "ECB's Nagel stated a December rate hike would signal policymakers' determination to control inflation in Europe.",
+    "lang": "en",
+    "source": "Bloomberg Economics",
+    "url": "https://www.bloomberg.com/news/articles/2026-11-19/ecb-s-nagel-says-december-rate-hike-would-send-clear-signal",
+    "published": "2026-11-19T10:41:47+00:00",
+    "event_id": "a6ccdb57e20f",
+    "sources": [
+     {
+      "title": "ECB’s Nagel Says December Rate Hike Would Send Clear Signal",
+      "summary": "ECB's Nagel stated a December rate hike would signal policymakers' determination to control inflation in Europe.",
+      "lang": "en",
+      "source": "Bloomberg Economics",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-19/ecb-s-nagel-says-december-rate-hike-would-send-clear-signal",
+      "published": "2026-11-19T10:41:47+00:00"
+     }
+    ],
+    "status": "updated",
+    "change_summary": "ECB's Nagel Says December Rate Hike Would Send Clear Signal",
+    "previous_date": "2026-11-18",
+    "previous_event_id": "a6ccdb57e20f"
+   },
+   {
+    "title": "German Growth to Accelerate in Fourth Quarter, Bundesbank Says",
+    "summary": "Germany's economy is expected to grow faster in the fourth quarter, supported by fiscal stimulus and robust global demand, the Bundesbank said.",
+    "lang": "en",
+    "source": "Bloomberg Economics",
+    "url": "https://www.bloomberg.com/news/articles/2026-11-19/german-growth-to-accelerate-in-fourth-quarter-bundesbank-says",
+    "published": "2026-11-19T11:00:00+00:00",
+    "event_id": "64d2f5f048d4",
+    "sources": [
+     {
+      "title": "German Growth to Accelerate in Fourth Quarter, Bundesbank Says",
+      "summary": "Germany's economy is expected to grow faster in the fourth quarter, supported by fiscal stimulus and robust global demand, the Bundesbank said.",
+      "lang": "en",
+      "source": "Bloomberg Economics",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-19/german-growth-to-accelerate-in-fourth-quarter-bundesbank-says",
+      "published": "2026-11-19T11:00:00+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "UK plans to resist EU request to match tariffs on Chinese goods",
+    "summary": "The UK plans to resist EU pressure to match tariffs on Chinese goods, reducing its chance of accessing EU subsidies and contracts.",
+    "lang": "en",
+    "source": "FT Global Economy",
+    "url": "https://www.ft.com/content/6b278daf-6fdf-4951-af8a-227f25c4e0b7?syn-25a6b1a6=1",
+    "published": "2026-11-18T20:53:13+00:00",
+    "event_id": "8c8e9186a4d5",
+    "sources": [
+     {
+      "title": "UK plans to resist EU request to match tariffs on Chinese goods",
+      "summary": "The UK plans to resist EU pressure to match tariffs on Chinese goods, reducing its chance of accessing EU subsidies and contracts.",
+      "lang": "en",
+      "source": "FT Global Economy",
+      "url": "https://www.ft.com/content/6b278daf-6fdf-4951-af8a-227f25c4e0b7?syn-25a6b1a6=1",
+      "published": "2026-11-18T20:53:13+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "EU agrees to delay methane emissions law to 2029",
+    "summary": "The EU agreed to delay its methane emissions law to 2029 to provide flexibility for operators amid global energy volatility.",
+    "lang": "en",
+    "source": "Le Monde International",
+    "url": "https://www.lemonde.fr/en/environment/article/2026/11/19/eu-agrees-to-delay-methane-emissions-law-to-2029_6784186_114.html",
+    "published": "2026-11-19T09:54:20+00:00",
+    "event_id": "3041568dc6ff",
+    "sources": [
+     {
+      "title": "EU agrees to delay methane emissions law to 2029",
+      "summary": "The EU agreed to delay its methane emissions law to 2029 to provide flexibility for operators amid global energy volatility.",
+      "lang": "en",
+      "source": "Le Monde International",
+      "url": "https://www.lemonde.fr/en/environment/article/2026/11/19/eu-agrees-to-delay-methane-emissions-law-to-2029_6784186_114.html",
+      "published": "2026-11-19T09:54:20+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "UK inflation rose to one-year high of 3.6% in October",
+    "summary": "UK inflation rose to 3.6% in October, its highest level in one year, increasing pressure on the Bank of England to raise rates.",
+    "lang": "en",
+    "source": "FT Global Economy",
+    "url": "https://www.ft.com/content/829844ba-849f-4d9c-a667-d65d2786ad2c?syn-25a6b1a6=1",
+    "published": "2026-11-18T17:12:58+00:00",
+    "event_id": "d703fb4f2bb8",
+    "sources": [
+     {
+      "title": "UK inflation rose to one-year high of 3.6% in October",
+      "summary": "UK inflation rose to 3.6% in October, its highest level in one year, increasing pressure on the Bank of England to raise rates.",
+      "lang": "en",
+      "source": "FT Global Economy",
+      "url": "https://www.ft.com/content/829844ba-849f-4d9c-a667-d65d2786ad2c?syn-25a6b1a6=1",
+      "published": "2026-11-18T17:12:58+00:00"
+     }
+    ],
+    "status": "unchanged",
+    "change_summary": "",
+    "previous_date": "2026-11-18",
+    "previous_event_id": "d703fb4f2bb8"
+   }
+  ],
+  "politica|europa": [
+   {
+    "title": "Europe tightens sanctions on Russia. America loosens them",
+    "summary": "Europe and America are pulling in opposite directions on Russian sanctions, with Europe tightening restrictions while America loosens them.",
+    "lang": "en",
+    "source": "The Economist (Finance)",
+    "url": "https://www.economist.com/finance-and-economics/2026/11/19/europe-tightens-sanctions-on-russia-america-loosens-them",
+    "published": "2026-11-19T10:03:23+00:00",
+    "event_id": "f22aab8adbfe",
+    "sources": [
+     {
+      "title": "Europe tightens sanctions on Russia. America loosens them",
+      "summary": "Europe and America are pulling in opposite directions on Russian sanctions, with Europe tightening restrictions while America loosens them.",
+      "lang": "en",
+      "source": "The Economist (Finance)",
+      "url": "https://www.economist.com/finance-and-economics/2026/11/19/europe-tightens-sanctions-on-russia-america-loosens-them",
+      "published": "2026-11-19T10:03:23+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "Wadephul: 'Coalition of the Willing' talks in Berlin send strong signal to Moscow",
+    "summary": "German Foreign Minister Wadephul said the Coalition of the Willing meeting in Berlin sends a clear message to Moscow regarding peace talks.",
+    "lang": "en",
+    "source": "Deutsche Welle World",
+    "url": "https://www.dw.com/en/wadephul-coalition-of-the-willing-talks-in-berlin-send-strong-signal-to-moscow/a-79990664?maca=en-rss-en-world-4025-rdf",
+    "published": "2026-11-19T13:56:00+00:00",
+    "event_id": "a4e2a207176a",
+    "sources": [
+     {
+      "title": "Wadephul: 'Coalition of the Willing' talks in Berlin send strong signal to Moscow",
+      "summary": "German Foreign Minister Wadephul said the Coalition of the Willing meeting in Berlin sends a clear message to Moscow regarding peace talks.",
+      "lang": "en",
+      "source": "Deutsche Welle World",
+      "url": "https://www.dw.com/en/wadephul-coalition-of-the-willing-talks-in-berlin-send-strong-signal-to-moscow/a-79990664?maca=en-rss-en-world-4025-rdf",
+      "published": "2026-11-19T13:56:00+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "Putin vows 'far more painful' response to Ukraine's strikes on Crimean Bridge",
+    "summary": "Putin vowed a 'far more painful' response to Ukraine's strikes on the Crimean Bridge, which Russia claims is civilian infrastructure.",
+    "lang": "en",
+    "source": "BBC World",
+    "url": "https://www.bbc.co.uk/news/articles/cm879dqn3e1jo?at_medium=RSS&at_campaign=rss",
+    "published": "2026-11-19T13:07:35+00:00",
+    "event_id": "8944b9bf2f7d",
+    "sources": [
+     {
+      "title": "Putin vows 'far more painful' response to Ukraine's strikes on Crimean Bridge",
+      "summary": "Putin vowed a 'far more painful' response to Ukraine's strikes on the Crimean Bridge, which Russia claims is civilian infrastructure.",
+      "lang": "en",
+      "source": "BBC World",
+      "url": "https://www.bbc.co.uk/news/articles/cm879dqn3e1jo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-19T13:07:35+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "Ukraine blew up Putin’s bridge using relay drones to bypass Starlink limits",
+    "summary": "Ukraine destroyed Putin's bridge using homegrown relay drones to bypass Starlink connectivity limitations in the conflict.",
+    "lang": "en",
+    "source": "Ars Technica",
+    "url": "https://arstechnica.com/gadgets/2026/11/ukraine-blew-up-putins-bridge-using-relay-drones-to-bypass-starlink-limits/",
+    "published": "2026-11-18T23:10:39+00:00",
+    "event_id": "71d6205e3dcb",
+    "sources": [
+     {
+      "title": "Ukraine blew up Putin’s bridge using relay drones to bypass Starlink limits",
+      "summary": "Ukraine destroyed Putin's bridge using homegrown relay drones to bypass Starlink connectivity limitations in the conflict.",
+      "lang": "en",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/gadgets/2026/11/ukraine-blew-up-putins-bridge-using-relay-drones-to-bypass-starlink-limits/",
+      "published": "2026-11-18T23:10:39+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   }
+  ],
+  "economia|america": [
+   {
+    "title": "Minutes of the Federal Open Market Committee, October 27-28, 2026",
+    "summary": "The Federal Reserve's Open Market Committee met October 27-28, 2026 to discuss monetary policy decisions.",
+    "lang": "en",
+    "source": "Reserva Federal (notas de prensa)",
+    "url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20261118a.htm",
+    "published": "2026-11-18T19:00:00+00:00",
+    "event_id": "dbea10a75a84",
+    "sources": [
+     {
+      "title": "Minutes of the Federal Open Market Committee, October 27-28, 2026",
+      "summary": "The Federal Reserve's Open Market Committee met October 27-28, 2026 to discuss monetary policy decisions.",
+      "lang": "en",
+      "source": "Reserva Federal (notas de prensa)",
+      "url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20261118a.htm",
+      "published": "2026-11-18T19:00:00+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "Senado aprova fiscal em meio a pressões nos ativos",
+    "summary": "Brazil's Senate approved the government's fiscal plan amid pressure on financial assets.",
+    "lang": "en",
+    "source": "Bloomberg Markets",
+    "url": "https://www.bloomberg.com/news/videos/2026-11-19/senado-aprova-fiscal-em-meio-a-pressoes-nos-ativos-video",
+    "published": "2026-11-19T14:19:10+00:00",
+    "event_id": "af93d0fc6dca",
+    "sources": [
+     {
+      "title": "Senado aprova fiscal em meio a pressões nos ativos",
+      "summary": "Brazil's Senate approved the government's fiscal plan amid pressure on financial assets.",
+      "lang": "en",
+      "source": "Bloomberg Markets",
+      "url": "https://www.bloomberg.com/news/videos/2026-11-19/senado-aprova-fiscal-em-meio-a-pressoes-nos-ativos-video",
+      "published": "2026-11-19T14:19:10+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   }
+  ],
+  "tecnologia|america": [
+   {
+    "title": "Anthropic to make Wall Street debut after record IPO",
+    "summary": "Anthropic achieved a record IPO, making its Wall Street debut in a key signal of investor appetite for AI companies.",
+    "lang": "en",
+    "source": "Financial Times",
+    "url": "https://www.ft.com/content/7a6b211d-c73b-4953-97ee-ed92dab8ee07?syn-25a6b1a6=1",
+    "published": "2026-11-19T10:58:44+00:00",
+    "event_id": "d189655d1889",
+    "sources": [
+     {
+      "title": "Anthropic to make Wall Street debut after record IPO",
+      "summary": "Anthropic achieved a record IPO, making its Wall Street debut in a key signal of investor appetite for AI companies.",
+      "lang": "en",
+      "source": "Financial Times",
+      "url": "https://www.ft.com/content/7a6b211d-c73b-4953-97ee-ed92dab8ee07?syn-25a6b1a6=1",
+      "published": "2026-11-19T10:58:44+00:00"
+     },
+     {
+      "title": "With the biggest IPO of all time, Anthropic’s ‘good guy’ reputation is on the line",
+      "summary": "Anthropic's record IPO raised $81.3 billion, surpassing SpaceX and testing the company's 'good guy' reputation in AI development.",
+      "lang": "en",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1037459/anthropic-ipo-safe-ai-reputation-power-structure",
+      "published": "2026-11-19T14:25:37+00:00"
+     }
+    ],
+    "status": "updated",
+    "change_summary": "Anthropic to make Wall Street debut after record IPO",
+    "previous_date": "2026-11-18",
+    "previous_event_id": "d189655d1889"
+   },
+   {
+    "title": "US companies turn to robots to ease labour shortage crisis",
+    "summary": "US companies are increasing automation with robots to address labor shortages, though some argue the pace remains insufficient for global competitiveness.",
+    "lang": "en",
+    "source": "FT Global Economy",
+    "url": "https://www.ft.com/content/747f5533-1bab-4143-a78b-ed4e2b575340?syn-25a6b1a6=1",
+    "published": "2026-11-19T05:00:18+00:00",
+    "event_id": "6a56a707e4c6",
+    "sources": [
+     {
+      "title": "US companies turn to robots to ease labour shortage crisis",
+      "summary": "US companies are increasing automation with robots to address labor shortages, though some argue the pace remains insufficient for global competitiveness.",
+      "lang": "en",
+      "source": "FT Global Economy",
+      "url": "https://www.ft.com/content/747f5533-1bab-4143-a78b-ed4e2b575340?syn-25a6b1a6=1",
+      "published": "2026-11-19T05:00:18+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "特朗普政府考虑强制美企披露中国AI使用情况",
+    "summary": "特朗普政府考虑要求美国企业公开披露使用中国AI模型的情况，旨在减少对中国AI技术的依赖。",
+    "lang": "zh",
+    "source": "德國之聲中文",
+    "url": "https://www.dw.com/zh/特朗普政府考虑强制美企披露中国ai使用情况/a-79982497?maca=chi-rss-chi-all-1127-rdf",
+    "published": "2026-11-18T14:10:00+00:00",
+    "event_id": "fd449c129e49",
+    "sources": [
+     {
+      "title": "特朗普政府考虑强制美企披露中国AI使用情况",
+      "summary": "特朗普政府考虑要求美国企业公开披露使用中国AI模型的情况，旨在减少对中国AI技术的依赖。",
+      "lang": "zh",
+      "source": "德國之聲中文",
+      "url": "https://www.dw.com/zh/特朗普政府考虑强制美企披露中国ai使用情况/a-79982497?maca=chi-rss-chi-all-1127-rdf",
+      "published": "2026-11-18T14:10:00+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "Introducing Gemini 4 Neon",
+    "summary": "Google DeepMind introduced Gemini 4 Neon, its latest AI model.",
+    "lang": "en",
+    "source": "Google DeepMind Blog",
+    "url": "https://deepmind.google/blog/introducing-gemini-4-neon/",
+    "published": "2026-11-18T21:35:43+00:00",
+    "event_id": "0c3c8b23c6ca",
+    "sources": [
+     {
+      "title": "Introducing Gemini 4 Neon",
+      "summary": "Google DeepMind introduced Gemini 4 Neon, its latest AI model.",
+      "lang": "en",
+      "source": "Google DeepMind Blog",
+      "url": "https://deepmind.google/blog/introducing-gemini-4-neon/",
+      "published": "2026-11-18T21:35:43+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "Genie 4 is now available",
+    "summary": "Genie 4, an AI tool, is now available to users.",
+    "lang": "en",
+    "source": "Google DeepMind Blog",
+    "url": "https://deepmind.google/blog/genie-4-is-now-available/",
+    "published": "2026-11-18T18:13:42+00:00",
+    "event_id": "652211f5c064",
+    "sources": [
+     {
+      "title": "Genie 4 is now available",
+      "summary": "Genie 4, an AI tool, is now available to users.",
+      "lang": "en",
+      "source": "Google DeepMind Blog",
+      "url": "https://deepmind.google/blog/genie-4-is-now-available/",
+      "published": "2026-11-18T18:13:42+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "Blue Origin will launch Google’s AI server satellites in 2029",
+    "summary": "Blue Origin will launch Google's AI server satellites in 2029 using its New Glenn rocket.",
+    "lang": "en",
+    "source": "The Verge",
+    "url": "https://www.theverge.com/tech/1037535/google-blue-origin-project-suncatcher-2029",
+    "published": "2026-11-19T13:53:38+00:00",
+    "event_id": "90437099908e",
+    "sources": [
+     {
+      "title": "Blue Origin will launch Google’s AI server satellites in 2029",
+      "summary": "Blue Origin will launch Google's AI server satellites in 2029 using its New Glenn rocket.",
+      "lang": "en",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/tech/1037535/google-blue-origin-project-suncatcher-2029",
+      "published": "2026-11-19T13:53:38+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "NASA's new Moon plans have a problem: Orion wasn't designed to fly this way",
+    "summary": "NASA's new Moon plans face challenges because the Orion spacecraft was not originally designed for the proposed mission profile.",
+    "lang": "en",
+    "source": "Ars Technica",
+    "url": "https://arstechnica.com/space/2026/11/to-make-moon-landings-easier-nasa-is-making-life-harder-for-orion/",
+    "published": "2026-11-19T13:40:02+00:00",
+    "event_id": "a2d0889c92df",
+    "sources": [
+     {
+      "title": "NASA's new Moon plans have a problem: Orion wasn't designed to fly this way",
+      "summary": "NASA's new Moon plans face challenges because the Orion spacecraft was not originally designed for the proposed mission profile.",
+      "lang": "en",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/space/2026/11/to-make-moon-landings-easier-nasa-is-making-life-harder-for-orion/",
+      "published": "2026-11-19T13:40:02+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   }
+  ],
+  "politica|america": [
+   {
+    "title": "Denmark's parliament ratifies security agreement with US, Greenland",
+    "summary": "Denmark's parliament ratified a security agreement with the US and Greenland with 109 votes in its 179-seat parliament.",
+    "lang": "en",
+    "source": "Le Monde International",
+    "url": "https://www.lemonde.fr/en/international/article/2026/11/19/denmark-s-parliament-ratifies-security-agreement-with-us-greenland_6784286_4.html",
+    "published": "2026-11-19T10:59:23+00:00",
+    "event_id": "2ccfb914584f",
+    "sources": [
+     {
+      "title": "Denmark's parliament ratifies security agreement with US, Greenland",
+      "summary": "Denmark's parliament ratified a security agreement with the US and Greenland with 109 votes in its 179-seat parliament.",
+      "lang": "en",
+      "source": "Le Monde International",
+      "url": "https://www.lemonde.fr/en/international/article/2026/11/19/denmark-s-parliament-ratifies-security-agreement-with-us-greenland_6784286_4.html",
+      "published": "2026-11-19T10:59:23+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "Venezuela signs military deal with US less than a year after Maduro's removal",
+    "summary": "Venezuela signed a military agreement with the US less than a year after Maduro's removal, shifting from adversary to security partner.",
+    "lang": "en",
+    "source": "BBC World",
+    "url": "https://www.bbc.co.uk/news/articles/cmwy8pyqlq5vo?at_medium=RSS&at_campaign=rss",
+    "published": "2026-11-19T13:31:23+00:00",
+    "event_id": "b16facea9bde",
+    "sources": [
+     {
+      "title": "Venezuela signs military deal with US less than a year after Maduro's removal",
+      "summary": "Venezuela signed a military agreement with the US less than a year after Maduro's removal, shifting from adversary to security partner.",
+      "lang": "en",
+      "source": "BBC World",
+      "url": "https://www.bbc.co.uk/news/articles/cmwy8pyqlq5vo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-19T13:31:23+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "Florida pastor found guilty over 2021 assassination of Haitian president",
+    "summary": "A Florida pastor was convicted in the 2021 assassination of Haitian President Jovenel Moïse and faces life in prison.",
+    "lang": "en",
+    "source": "The Guardian World",
+    "url": "https://www.theguardian.com/us-news/2026/nov/18/florida-pastor-guilty-haiti-president-assassination",
+    "published": "2026-11-18T22:31:41+00:00",
+    "event_id": "94287023c763",
+    "sources": [
+     {
+      "title": "Florida pastor found guilty over 2021 assassination of Haitian president",
+      "summary": "A Florida pastor was convicted in the 2021 assassination of Haitian President Jovenel Moïse and faces life in prison.",
+      "lang": "en",
+      "source": "The Guardian World",
+      "url": "https://www.theguardian.com/us-news/2026/nov/18/florida-pastor-guilty-haiti-president-assassination",
+      "published": "2026-11-18T22:31:41+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "Mary Peltola flips Alaska's Senate seat. And, Nvidia won't reinstate Jensen Huang",
+    "summary": "Democratic former Representative Mary Peltola won Alaska's highly watched Senate race, flipping the seat.",
+    "lang": "en",
+    "source": "NPR World",
+    "url": "https://www.npr.org/2026/11/18/g-s1-154145/up-first-newsletter-mary-peltola-alaska-trump-asia-nvidia-tech-issues-ai",
+    "published": "2026-11-18T12:14:28+00:00",
+    "event_id": "55134f7fb917",
+    "sources": [
+     {
+      "title": "Mary Peltola flips Alaska's Senate seat. And, Nvidia won't reinstate Jensen Huang",
+      "summary": "Democratic former Representative Mary Peltola won Alaska's highly watched Senate race, flipping the seat.",
+      "lang": "en",
+      "source": "NPR World",
+      "url": "https://www.npr.org/2026/11/18/g-s1-154145/up-first-newsletter-mary-peltola-alaska-trump-asia-nvidia-tech-issues-ai",
+      "published": "2026-11-18T12:14:28+00:00"
+     }
+    ],
+    "status": "unclear",
+    "change_summary": "",
+    "previous_date": "2026-11-18",
+    "previous_event_id": "55134f7fb917"
+   },
+   {
+    "title": "Ted Cruz-led committee approves Trump FCC nominee 15-0 as Democrats boycott vote",
+    "summary": "A Ted Cruz-led committee approved Trump's FCC nominee 15-0 after Democrats boycotted the vote over credibility concerns.",
+    "lang": "en",
+    "source": "Ars Technica",
+    "url": "https://arstechnica.com/tech-policy/2026/11/ted-cruz-led-committee-approves-trump-fcc-nominee-15-0-as-democrats-boycott-vote/",
+    "published": "2026-11-18T23:25:04+00:00",
+    "event_id": "37938fc8163d",
+    "sources": [
+     {
+      "title": "Ted Cruz-led committee approves Trump FCC nominee 15-0 as Democrats boycott vote",
+      "summary": "A Ted Cruz-led committee approved Trump's FCC nominee 15-0 after Democrats boycotted the vote over credibility concerns.",
+      "lang": "en",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/tech-policy/2026/11/ted-cruz-led-committee-approves-trump-fcc-nominee-15-0-as-democrats-boycott-vote/",
+      "published": "2026-11-18T23:25:04+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   }
+  ],
+  "tecnologia|europa": [
+   {
+    "title": "Un ciberataque con una herramienta de IA accede a los servidores internos de la Comisión Europea",
+    "summary": "Un ciberataque utilizando herramientas de IA accedió a servidores internos de la Comisión Europea en Bruselas. Se investiga si datos personales sensibles de funcionarios fueron expuestos.",
+    "lang": "es",
+    "source": "El País Internacional",
+    "url": "https://elpais.com/internacional/2026-11-19/un-ciberataque-con-una-herramienta-de-ia-accede-a-los-servidores-internos-de-la-comision-europea.html",
+    "published": "2026-11-19T13:26:59+00:00",
+    "event_id": "caa0f895b1b1",
+    "sources": [
+     {
+      "title": "Un ciberataque con una herramienta de IA accede a los servidores internos de la Comisión Europea",
+      "summary": "Un ciberataque utilizando herramientas de IA accedió a servidores internos de la Comisión Europea en Bruselas. Se investiga si datos personales sensibles de funcionarios fueron expuestos.",
+      "lang": "es",
+      "source": "El País Internacional",
+      "url": "https://elpais.com/internacional/2026-11-19/un-ciberataque-con-una-herramienta-de-ia-accede-a-los-servidores-internos-de-la-comision-europea.html",
+      "published": "2026-11-19T13:26:59+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "愛爾蘭金融業IT供應商Wellington IT遭駭，波及約40家信用合作社，會員收款人資料外洩",
+    "summary": "愛爾蘭金融IT供應商Wellington IT遭駭，約40家信用合作社受波及，會員收款帳戶資料外洩。",
+    "lang": "zh",
+    "source": "iThome 台灣",
+    "url": "https://www.ithome.com.tw/news/180665",
+    "published": "2026-11-19T06:11:02+00:00",
+    "event_id": "7e54063b17fb",
+    "sources": [
+     {
+      "title": "愛爾蘭金融業IT供應商Wellington IT遭駭，波及約40家信用合作社，會員收款人資料外洩",
+      "summary": "愛爾蘭金融IT供應商Wellington IT遭駭，約40家信用合作社受波及，會員收款帳戶資料外洩。",
+      "lang": "zh",
+      "source": "iThome 台灣",
+      "url": "https://www.ithome.com.tw/news/180665",
+      "published": "2026-11-19T06:11:02+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   }
+  ]
+ }
+}
