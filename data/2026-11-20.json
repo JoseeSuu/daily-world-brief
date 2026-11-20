@@ -1,0 +1,824 @@
+{
+ "date": "2026-11-20",
+ "generated_at": "2026-11-20T14:17:14.247376+00:00",
+ "mode": "full",
+ "cost_usd": 0.0518,
+ "selection": {
+  "model": "claude-haiku-5-5",
+  "effort": "high",
+  "passes": 3,
+  "passes_ok": 3,
+  "cost_usd": 0.0207
+ },
+ "events": {
+  "mode": "full",
+  "compared_with": "2026-11-19",
+  "articles": 36,
+  "uncompared_articles": 0,
+  "events": 33,
+  "cost_usd": 0.0165
+ },
+ "market": null,
+ "failed_sources": [],
+ "cells": {
+  "economia|asia": [
+   {
+    "title": "October inflation data keeps BoJ on course for further tightening",
+    "summary": "",
+    "lang": "en",
+    "source": "FT Global Economy",
+    "url": "https://www.ft.com/content/c95feb1a-f197-4942-bba8-672087f6be74",
+    "published": "2026-11-20T08:37:22+00:00",
+    "event_id": "15ae978f1845",
+    "sources": [
+     {
+      "title": "October inflation data keeps BoJ on course for further tightening",
+      "summary": "",
+      "lang": "en",
+      "source": "FT Global Economy",
+      "url": "https://www.ft.com/content/c95feb1a-f197-4942-bba8-672087f6be74",
+      "published": "2026-11-20T08:37:22+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "Thailand Opens Door to US Pork, Raising Risks for Farmers",
+    "summary": "",
+    "lang": "en",
+    "source": "Bloomberg Economics",
+    "url": "https://www.bloomberg.com/news/articles/2026-11-20/thailand-opens-door-to-us-pork-raising-risks-for-farmers",
+    "published": "2026-11-20T00:00:00+00:00",
+    "event_id": "a5d4fc3f54bd",
+    "sources": [
+     {
+      "title": "Thailand Opens Door to US Pork, Raising Risks for Farmers",
+      "summary": "",
+      "lang": "en",
+      "source": "Bloomberg Economics",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-20/thailand-opens-door-to-us-pork-raising-risks-for-farmers",
+      "published": "2026-11-20T00:00:00+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "India Seeks to Scrap Key Disclosure to Draw Foreign Money",
+    "summary": "",
+    "lang": "en",
+    "source": "Bloomberg Markets",
+    "url": "https://www.bloomberg.com/news/articles/2026-11-20/india-seeks-to-scrap-key-disclosure-to-draw-foreign-money",
+    "published": "2026-11-20T13:47:11+00:00",
+    "event_id": "cb67a531269c",
+    "sources": [
+     {
+      "title": "India Seeks to Scrap Key Disclosure to Draw Foreign Money",
+      "summary": "",
+      "lang": "en",
+      "source": "Bloomberg Markets",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-20/india-seeks-to-scrap-key-disclosure-to-draw-foreign-money",
+      "published": "2026-11-20T13:47:11+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   }
+  ],
+  "politica|asia": [
+   {
+    "title": "Australia PM and China’s Xi hail ‘turnaround’ despite iron ore tensions",
+    "summary": "",
+    "lang": "en",
+    "source": "FT Global Economy",
+    "url": "https://www.ft.com/content/ddbf0f75-047a-421a-87c0-3e60bf42ed22?syn-25a6b1a6=1",
+    "published": "2026-11-20T04:20:16+00:00",
+    "event_id": "0b914081ddcf",
+    "sources": [
+     {
+      "title": "Australia PM and China’s Xi hail ‘turnaround’ despite iron ore tensions",
+      "summary": "",
+      "lang": "en",
+      "source": "FT Global Economy",
+      "url": "https://www.ft.com/content/ddbf0f75-047a-421a-87c0-3e60bf42ed22?syn-25a6b1a6=1",
+      "published": "2026-11-20T04:20:16+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "Iraqi forces deploy to Jurf al-Sakhar after deal with Iran-backed group",
+    "summary": "",
+    "lang": "en",
+    "source": "Al Jazeera English",
+    "url": "https://www.aljazeera.com/news/2026/11/20/iraqi-forces-deploy-to-jurf-al-sakhar-after-deal-with-iran-backed-group?traffic_source=rss",
+    "published": "2026-11-20T13:17:00+00:00",
+    "event_id": "3afbb9449e6a",
+    "sources": [
+     {
+      "title": "Iraqi forces deploy to Jurf al-Sakhar after deal with Iran-backed group",
+      "summary": "",
+      "lang": "en",
+      "source": "Al Jazeera English",
+      "url": "https://www.aljazeera.com/news/2026/11/20/iraqi-forces-deploy-to-jurf-al-sakhar-after-deal-with-iran-backed-group?traffic_source=rss",
+      "published": "2026-11-20T13:17:00+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "US and China hold maritime security talks in parallel with Xi-Trump meetings",
+    "summary": "",
+    "lang": "en",
+    "source": "South China Morning Post (China)",
+    "url": "https://www.scmp.com/news/china/military/article/3375274/us-and-china-hold-maritime-security-talks-parallel-trump-xi-meetings",
+    "published": "2026-11-20T13:05:33+00:00",
+    "event_id": "0180ed5a8859",
+    "sources": [
+     {
+      "title": "US and China hold maritime security talks in parallel with Xi-Trump meetings",
+      "summary": "",
+      "lang": "en",
+      "source": "South China Morning Post (China)",
+      "url": "https://www.scmp.com/news/china/military/article/3375274/us-and-china-hold-maritime-security-talks-parallel-trump-xi-meetings",
+      "published": "2026-11-20T13:05:33+00:00"
+     }
+    ],
+    "status": "updated",
+    "change_summary": "US and China hold maritime security talks in parallel with Xi-Trump meetings",
+    "previous_date": "2026-11-19",
+    "previous_event_id": "0180ed5a8859"
+   },
+   {
+    "title": "台灣九合一選舉前夕，通報 Meta 近 2,700 個疑中國介選帳號",
+    "summary": "台湾通报Meta近2700个可疑中国干预选举账户。在县市长选举前夕，政府官员向社交媒体巨头报告涉及中国的干预活动。",
+    "lang": "zh",
+    "source": "科技新報 TechNews",
+    "url": "https://infosecu.technews.tw/2026/11/20/taiwan-local-elections-2700-suspected-chinese-influence-accounts-reported-meta/",
+    "published": "2026-11-20T10:00:01+00:00",
+    "event_id": "51b2cd6091a7",
+    "sources": [
+     {
+      "title": "台灣九合一選舉前夕，通報 Meta 近 2,700 個疑中國介選帳號",
+      "summary": "台湾通报Meta近2700个可疑中国干预选举账户。在县市长选举前夕，政府官员向社交媒体巨头报告涉及中国的干预活动。",
+      "lang": "zh",
+      "source": "科技新報 TechNews",
+      "url": "https://infosecu.technews.tw/2026/11/20/taiwan-local-elections-2700-suspected-chinese-influence-accounts-reported-meta/",
+      "published": "2026-11-20T10:00:01+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "韓國 AI 作弊爭議，李在明：改革考試制度嚴懲違規",
+    "summary": "韩国AI作弊风波扩大，总统李在明承诺改革考试制度。韩国税务师资格考试和大学修学能力试验均曝出AI舞弊事件。",
+    "lang": "zh",
+    "source": "科技新報 TechNews",
+    "url": "https://technews.tw/2026/11/20/south-korea-ai-cheating-controversy-lee-jae-myung-urges-exam-system-reform-severe-punishment-violations/",
+    "published": "2026-11-20T09:50:24+00:00",
+    "event_id": "38b033ac1ab2",
+    "sources": [
+     {
+      "title": "韓國 AI 作弊爭議，李在明：改革考試制度嚴懲違規",
+      "summary": "韩国AI作弊风波扩大，总统李在明承诺改革考试制度。韩国税务师资格考试和大学修学能力试验均曝出AI舞弊事件。",
+      "lang": "zh",
+      "source": "科技新報 TechNews",
+      "url": "https://technews.tw/2026/11/20/south-korea-ai-cheating-controversy-lee-jae-myung-urges-exam-system-reform-severe-punishment-violations/",
+      "published": "2026-11-20T09:50:24+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "The U.N.'s top court rules Myanmar committed genocide against the Rohingya",
+    "summary": "",
+    "lang": "en",
+    "source": "NPR World",
+    "url": "https://www.npr.org/2026/11/19/g-s1-154340/un-court-myanmar-genocide-rohingya",
+    "published": "2026-11-19T12:29:41+00:00",
+    "event_id": "a9cefeb13011",
+    "sources": [
+     {
+      "title": "The U.N.'s top court rules Myanmar committed genocide against the Rohingya",
+      "summary": "",
+      "lang": "en",
+      "source": "NPR World",
+      "url": "https://www.npr.org/2026/11/19/g-s1-154340/un-court-myanmar-genocide-rohingya",
+      "published": "2026-11-19T12:29:41+00:00"
+     }
+    ],
+    "status": "unchanged",
+    "change_summary": "",
+    "previous_date": "2026-11-19",
+    "previous_event_id": "a9cefeb13011"
+   }
+  ],
+  "politica|europa": [
+   {
+    "title": "EU and UK strike 'landmark deal' to strengthen ties after Brexit",
+    "summary": "",
+    "lang": "en",
+    "source": "Deutsche Welle World",
+    "url": "https://www.dw.com/en/eu-and-uk-strike-landmark-deal-to-strengthen-ties-after-brexit/a-80001076?maca=en-rss-en-world-4025-rdf",
+    "published": "2026-11-20T11:30:00+00:00",
+    "event_id": "7c408c6ff522",
+    "sources": [
+     {
+      "title": "EU and UK strike 'landmark deal' to strengthen ties after Brexit",
+      "summary": "",
+      "lang": "en",
+      "source": "Deutsche Welle World",
+      "url": "https://www.dw.com/en/eu-and-uk-strike-landmark-deal-to-strengthen-ties-after-brexit/a-80001076?maca=en-rss-en-world-4025-rdf",
+      "published": "2026-11-20T11:30:00+00:00"
+     },
+     {
+      "title": "UK and EU agree Brexit ‘reset’ but delivery rests on tuition fees",
+      "summary": "",
+      "lang": "en",
+      "source": "Financial Times",
+      "url": "https://www.ft.com/content/8515b514-2067-43eb-a7f5-b5aa20ec4cc3",
+      "published": "2026-11-20T10:47:15+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "China, Russia and US agree peace declaration with no mention of Ukraine and Iran wars",
+    "summary": "",
+    "lang": "en",
+    "source": "The Guardian World",
+    "url": "https://www.theguardian.com/world/2026/nov/19/china-russia-us-agree-peace-statement-no-mention-ukraine-iran-wars",
+    "published": "2026-11-19T17:13:23+00:00",
+    "event_id": "4dffa5bc2cfc",
+    "sources": [
+     {
+      "title": "China, Russia and US agree peace declaration with no mention of Ukraine and Iran wars",
+      "summary": "",
+      "lang": "en",
+      "source": "The Guardian World",
+      "url": "https://www.theguardian.com/world/2026/nov/19/china-russia-us-agree-peace-statement-no-mention-ukraine-iran-wars",
+      "published": "2026-11-19T17:13:23+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "Russian missile hits Poland as Ukraine's allies hold military exercise, says Tusk",
+    "summary": "",
+    "lang": "en",
+    "source": "BBC World",
+    "url": "https://www.bbc.co.uk/news/articles/cqx2x9dklxnro?at_medium=RSS&at_campaign=rss",
+    "published": "2026-11-20T13:52:04+00:00",
+    "event_id": "acf404f6e9c1",
+    "sources": [
+     {
+      "title": "Russian missile hits Poland as Ukraine's allies hold military exercise, says Tusk",
+      "summary": "",
+      "lang": "en",
+      "source": "BBC World",
+      "url": "https://www.bbc.co.uk/news/articles/cqx2x9dklxnro?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-20T13:52:04+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "Russia targets Kyiv crossings days after Ukraine hits Crimean Bridge",
+    "summary": "",
+    "lang": "en",
+    "source": "BBC World",
+    "url": "https://www.bbc.co.uk/news/articles/c6x29gn4pdn9o?at_medium=RSS&at_campaign=rss",
+    "published": "2026-11-20T13:01:16+00:00",
+    "event_id": "8944b9bf2f7d",
+    "sources": [
+     {
+      "title": "Russia targets Kyiv crossings days after Ukraine hits Crimean Bridge",
+      "summary": "",
+      "lang": "en",
+      "source": "BBC World",
+      "url": "https://www.bbc.co.uk/news/articles/c6x29gn4pdn9o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-20T13:01:16+00:00"
+     }
+    ],
+    "status": "updated",
+    "change_summary": "Russia targets Kyiv crossings days after Ukraine hits Crimean Bridge",
+    "previous_date": "2026-11-19",
+    "previous_event_id": "8944b9bf2f7d"
+   },
+   {
+    "title": "Estonia to close border with Russia for at least 6 months over foiled sabotage",
+    "summary": "",
+    "lang": "en",
+    "source": "South China Morning Post (Asia)",
+    "url": "https://www.scmp.com/news/world/europe/article/3375264/estonia-close-border-russia-least-6-months-over-foiled-sabotage",
+    "published": "2026-11-20T11:52:05+00:00",
+    "event_id": "4762f7635191",
+    "sources": [
+     {
+      "title": "Estonia to close border with Russia for at least 6 months over foiled sabotage",
+      "summary": "",
+      "lang": "en",
+      "source": "South China Morning Post (Asia)",
+      "url": "https://www.scmp.com/news/world/europe/article/3375264/estonia-close-border-russia-least-6-months-over-foiled-sabotage",
+      "published": "2026-11-20T11:52:05+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "Europe ready for talks with Russia on ending war in Ukraine, leaders say",
+    "summary": "",
+    "lang": "en",
+    "source": "BBC World",
+    "url": "https://www.bbc.co.uk/news/articles/ckzd9nln5e6go?at_medium=RSS&at_campaign=rss",
+    "published": "2026-11-20T00:50:24+00:00",
+    "event_id": "42a972871329",
+    "sources": [
+     {
+      "title": "Europe ready for talks with Russia on ending war in Ukraine, leaders say",
+      "summary": "",
+      "lang": "en",
+      "source": "BBC World",
+      "url": "https://www.bbc.co.uk/news/articles/ckzd9nln5e6go?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-20T00:50:24+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   }
+  ],
+  "economia|europa": [
+   {
+    "title": "Las claves: Alemania asume que Orcel tiene las de ganar en la compra de Commerzbank",
+    "summary": "Alemania reconoce que el banquero Orcel tiene ventaja en la compra de Commerzbank. El proceso ha sido arduo y requirió empeño del veterano ejecutivo.",
+    "lang": "es",
+    "source": "El País Economía",
+    "url": "https://cincodias.elpais.com/opinion/2026-11-20/las-claves-alemania-asume-que-orcel-tiene-las-de-ganar-en-la-compra-de-commerzbank.html",
+    "published": "2026-11-20T04:40:00+00:00",
+    "event_id": "ae787711d7e4",
+    "sources": [
+     {
+      "title": "Las claves: Alemania asume que Orcel tiene las de ganar en la compra de Commerzbank",
+      "summary": "Alemania reconoce que el banquero Orcel tiene ventaja en la compra de Commerzbank. El proceso ha sido arduo y requirió empeño del veterano ejecutivo.",
+      "lang": "es",
+      "source": "El País Economía",
+      "url": "https://cincodias.elpais.com/opinion/2026-11-20/las-claves-alemania-asume-que-orcel-tiene-las-de-ganar-en-la-compra-de-commerzbank.html",
+      "published": "2026-11-20T04:40:00+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "ECB’s Pereira Says Inflation Pressure Is Significant and Rising",
+    "summary": "",
+    "lang": "en",
+    "source": "Bloomberg Economics",
+    "url": "https://www.bloomberg.com/news/articles/2026-11-20/ecb-s-pereira-says-inflation-pressure-is-significant-and-rising",
+    "published": "2026-11-20T10:18:02+00:00",
+    "event_id": "e2332e3c59e1",
+    "sources": [
+     {
+      "title": "ECB’s Pereira Says Inflation Pressure Is Significant and Rising",
+      "summary": "",
+      "lang": "en",
+      "source": "Bloomberg Economics",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-20/ecb-s-pereira-says-inflation-pressure-is-significant-and-rising",
+      "published": "2026-11-20T10:18:02+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "Euro-Area Pay Growth Accelerated Only Slightly in Third Quarter",
+    "summary": "",
+    "lang": "en",
+    "source": "Bloomberg Economics",
+    "url": "https://www.bloomberg.com/news/articles/2026-11-20/euro-area-pay-growth-accelerated-only-slightly-in-third-quarter",
+    "published": "2026-11-20T09:50:05+00:00",
+    "event_id": "fdace1ac2fc6",
+    "sources": [
+     {
+      "title": "Euro-Area Pay Growth Accelerated Only Slightly in Third Quarter",
+      "summary": "",
+      "lang": "en",
+      "source": "Bloomberg Economics",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-20/euro-area-pay-growth-accelerated-only-slightly-in-third-quarter",
+      "published": "2026-11-20T09:50:05+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "IEA：資料中心用電 2030 年恐倍增，十年內須新建至少 2,500 萬公里電網",
+    "summary": "国际能源署警告数据中心用电2030年可能翻倍。十年内须新建升级数千万公里输电网络满足需求。",
+    "lang": "zh",
+    "source": "科技新報 TechNews",
+    "url": "https://technews.tw/2026/11/20/iea-warned-data-center-power-use-could-double-by-2030-straining-grids/",
+    "published": "2026-11-20T09:10:16+00:00",
+    "event_id": "68459f617b86",
+    "sources": [
+     {
+      "title": "IEA：資料中心用電 2030 年恐倍增，十年內須新建至少 2,500 萬公里電網",
+      "summary": "国际能源署警告数据中心用电2030年可能翻倍。十年内须新建升级数千万公里输电网络满足需求。",
+      "lang": "zh",
+      "source": "科技新報 TechNews",
+      "url": "https://technews.tw/2026/11/20/iea-warned-data-center-power-use-could-double-by-2030-straining-grids/",
+      "published": "2026-11-20T09:10:16+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   }
+  ],
+  "economia|america": [
+   {
+    "title": "Anthropic shares slide 13% as fears over AI boom dominate",
+    "summary": "",
+    "lang": "en",
+    "source": "Financial Times",
+    "url": "https://www.ft.com/content/c7ad2e0c-efd1-40c2-a5a8-819ced8acf5b?syn-25a6b1a6=1",
+    "published": "2026-11-20T13:29:02+00:00",
+    "event_id": "6a473a96dfd3",
+    "sources": [
+     {
+      "title": "Anthropic shares slide 13% as fears over AI boom dominate",
+      "summary": "",
+      "lang": "en",
+      "source": "Financial Times",
+      "url": "https://www.ft.com/content/c7ad2e0c-efd1-40c2-a5a8-819ced8acf5b?syn-25a6b1a6=1",
+      "published": "2026-11-20T13:29:02+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "Canada Retail Sales Tracking Largest Decline Since Feb. 2025",
+    "summary": "",
+    "lang": "en",
+    "source": "Bloomberg Economics",
+    "url": "https://www.bloomberg.com/news/articles/2026-11-20/canada-retail-sales-tracking-largest-decline-since-february-2025",
+    "published": "2026-11-20T13:30:01+00:00",
+    "event_id": "29d154762357",
+    "sources": [
+     {
+      "title": "Canada Retail Sales Tracking Largest Decline Since Feb. 2025",
+      "summary": "",
+      "lang": "en",
+      "source": "Bloomberg Economics",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-20/canada-retail-sales-tracking-largest-decline-since-february-2025",
+      "published": "2026-11-20T13:30:01+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "Gold Set for Worst Week Since March on Hawkish Fed, AI Selloff",
+    "summary": "",
+    "lang": "en",
+    "source": "Bloomberg Markets",
+    "url": "https://www.bloomberg.com/news/articles/2026-11-19/gold-set-for-worst-week-since-march-on-hawkish-fed-ai-selloff",
+    "published": "2026-11-19T23:56:03+00:00",
+    "event_id": "5a6738101072",
+    "sources": [
+     {
+      "title": "Gold Set for Worst Week Since March on Hawkish Fed, AI Selloff",
+      "summary": "",
+      "lang": "en",
+      "source": "Bloomberg Markets",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-19/gold-set-for-worst-week-since-march-on-hawkish-fed-ai-selloff",
+      "published": "2026-11-19T23:56:03+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   }
+  ],
+  "tecnologia|asia": [
+   {
+    "title": "FirstFT: US approved sale of advanced AI chips to Chinese companies",
+    "summary": "",
+    "lang": "en",
+    "source": "FT Global Economy",
+    "url": "https://www.ft.com/content/5fbbe806-37d7-42e4-8235-ce9cbb3f2cdb?syn-25a6b1a6=1",
+    "published": "2026-11-20T11:03:38+00:00",
+    "event_id": "d339066c29a9",
+    "sources": [
+     {
+      "title": "FirstFT: US approved sale of advanced AI chips to Chinese companies",
+      "summary": "",
+      "lang": "en",
+      "source": "FT Global Economy",
+      "url": "https://www.ft.com/content/5fbbe806-37d7-42e4-8235-ce9cbb3f2cdb?syn-25a6b1a6=1",
+      "published": "2026-11-20T11:03:38+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "中國 B300 算力長約掀轉售潮，新雲端業者急尋歐美買家接手",
+    "summary": "美国扩大对华算力封锁引发B300算力长转售潮。云端企业急寻欧美买家接手中国算力合约。",
+    "lang": "zh",
+    "source": "科技新報 TechNews",
+    "url": "https://technews.tw/2026/11/20/us-ai-compute-neoclouds-china/",
+    "published": "2026-11-20T09:10:25+00:00",
+    "event_id": "edd2b94558d2",
+    "sources": [
+     {
+      "title": "中國 B300 算力長約掀轉售潮，新雲端業者急尋歐美買家接手",
+      "summary": "美国扩大对华算力封锁引发B300算力长转售潮。云端企业急寻欧美买家接手中国算力合约。",
+      "lang": "zh",
+      "source": "科技新報 TechNews",
+      "url": "https://technews.tw/2026/11/20/us-ai-compute-neoclouds-china/",
+      "published": "2026-11-20T09:10:25+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "國內首座6G實驗網正式啟用，串聯歐英與衛星業者打造國際驗測基地，搶攻2029年6G標準商機",
+    "summary": "台湾首座6G实验网正式启用，联合欧英与卫星运营商。工研院整合18家产学研单位建置，为2029年6G标准商机做准备。",
+    "lang": "zh",
+    "source": "iThome 台灣",
+    "url": "https://www.ithome.com.tw/news/180685",
+    "published": "2026-11-20T05:11:19+00:00",
+    "event_id": "c93115ed640a",
+    "sources": [
+     {
+      "title": "國內首座6G實驗網正式啟用，串聯歐英與衛星業者打造國際驗測基地，搶攻2029年6G標準商機",
+      "summary": "台湾首座6G实验网正式启用，联合欧英与卫星运营商。工研院整合18家产学研单位建置，为2029年6G标准商机做准备。",
+      "lang": "zh",
+      "source": "iThome 台灣",
+      "url": "https://www.ithome.com.tw/news/180685",
+      "published": "2026-11-20T05:11:19+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "A human liver has been kept alive outside the body for a record seven weeks",
+    "summary": "",
+    "lang": "en",
+    "source": "MIT Technology Review",
+    "url": "https://www.technologyreview.com/2026/11/19/1148934/a-human-liver-has-been-kept-alive-outside-the-body-for-seven-weeks-setting-a-record/",
+    "published": "2026-11-19T12:00:00+00:00",
+    "event_id": "200c26dcc801",
+    "sources": [
+     {
+      "title": "A human liver has been kept alive outside the body for a record seven weeks",
+      "summary": "",
+      "lang": "en",
+      "source": "MIT Technology Review",
+      "url": "https://www.technologyreview.com/2026/11/19/1148934/a-human-liver-has-been-kept-alive-outside-the-body-for-seven-weeks-setting-a-record/",
+      "published": "2026-11-19T12:00:00+00:00"
+     }
+    ],
+    "status": "unchanged",
+    "change_summary": "",
+    "previous_date": "2026-11-19",
+    "previous_event_id": "200c26dcc801"
+   }
+  ],
+  "politica|america": [
+   {
+    "title": "Dems aim to block Iran war funding. And, Army delays lead azide detonation in Iowa",
+    "summary": "",
+    "lang": "en",
+    "source": "NPR World",
+    "url": "https://www.npr.org/2026/11/20/g-s1-154582/up-first-newsletter-democrats-iran-war-trump-xi-jinping-iowa-army",
+    "published": "2026-11-20T12:04:57+00:00",
+    "event_id": "b838cca1a5c3",
+    "sources": [
+     {
+      "title": "Dems aim to block Iran war funding. And, Army delays lead azide detonation in Iowa",
+      "summary": "",
+      "lang": "en",
+      "source": "NPR World",
+      "url": "https://www.npr.org/2026/11/20/g-s1-154582/up-first-newsletter-democrats-iran-war-trump-xi-jinping-iowa-army",
+      "published": "2026-11-20T12:04:57+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "El Salvador's Bukele to run for third presidential term",
+    "summary": "",
+    "lang": "en",
+    "source": "Le Monde International",
+    "url": "https://www.lemonde.fr/en/international/article/2026/11/20/el-salvador-s-bukele-to-run-for-third-presidential-term_6785110_4.html",
+    "published": "2026-11-20T07:09:04+00:00",
+    "event_id": "fd8d641aea48",
+    "sources": [
+     {
+      "title": "El Salvador's Bukele to run for third presidential term",
+      "summary": "",
+      "lang": "en",
+      "source": "Le Monde International",
+      "url": "https://www.lemonde.fr/en/international/article/2026/11/20/el-salvador-s-bukele-to-run-for-third-presidential-term_6785110_4.html",
+      "published": "2026-11-20T07:09:04+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   }
+  ],
+  "tecnologia|america": [
+   {
+    "title": "The U.S. national cyber director is stepping down",
+    "summary": "",
+    "lang": "en",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/11/20/the-u-s-national-cyber-director-is-stepping-down/",
+    "published": "2026-11-20T09:14:19+00:00",
+    "event_id": "8165d9521735",
+    "sources": [
+     {
+      "title": "The U.S. national cyber director is stepping down",
+      "summary": "",
+      "lang": "en",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/11/20/the-u-s-national-cyber-director-is-stepping-down/",
+      "published": "2026-11-20T09:14:19+00:00"
+     },
+     {
+      "title": "White House removes cyber-security chief after series of tech outages",
+      "summary": "Casa Blanca destituye jefe de ciberseguridad tras series de interrupciones tecnológicas. CBS reporta fue despedido tras perder confianza de jefe de personal.",
+      "lang": "en",
+      "source": "BBC World",
+      "url": "https://www.bbc.co.uk/news/articles/cwz0k3nn5p5mo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-20T13:28:32+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "California AG subpoenas Nvidia over worries about Huang’s ties with China",
+    "summary": "",
+    "lang": "en",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/11/20/california-ag-subpoenas-nvidia-over-worries-about-huangs-ties-with-china/",
+    "published": "2026-11-20T13:21:11+00:00",
+    "event_id": "85c8a58c4cf3",
+    "sources": [
+     {
+      "title": "California AG subpoenas Nvidia over worries about Huang’s ties with China",
+      "summary": "",
+      "lang": "en",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/11/20/california-ag-subpoenas-nvidia-over-worries-about-huangs-ties-with-china/",
+      "published": "2026-11-20T13:21:11+00:00"
+     },
+     {
+      "title": "California investigates Nvidia over whether chip exports ended up in China",
+      "summary": "",
+      "lang": "en",
+      "source": "The Guardian World",
+      "url": "https://www.theguardian.com/technology/2026/nov/20/california-investigates-nvidia-over-whether-chip-exports-ended-up-in-china",
+      "published": "2026-11-20T09:18:30+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "GrapheneOS acusa a Google de presionar a los fabricantes en su contra. Es el último paso de un Android cada vez más cerrado",
+    "summary": "GrapheneOS acusa a Google de presionar a fabricantes contra su plataforma. Android ha transitado hacia un modelo cada vez más cerrado y restrictivo.",
+    "lang": "es",
+    "source": "Xataka",
+    "url": "https://www.xataka.com/moviles/grapheneos-acusa-a-google-presionar-a-fabricantes-su-ultimo-paso-android-cada-vez-cerrado",
+    "published": "2026-11-20T12:15:24+00:00",
+    "event_id": "9f3a89fff644",
+    "sources": [
+     {
+      "title": "GrapheneOS acusa a Google de presionar a los fabricantes en su contra. Es el último paso de un Android cada vez más cerrado",
+      "summary": "GrapheneOS acusa a Google de presionar a fabricantes contra su plataforma. Android ha transitado hacia un modelo cada vez más cerrado y restrictivo.",
+      "lang": "es",
+      "source": "Xataka",
+      "url": "https://www.xataka.com/moviles/grapheneos-acusa-a-google-presionar-a-fabricantes-su-ultimo-paso-android-cada-vez-cerrado",
+      "published": "2026-11-20T12:15:24+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "Man hired by Russia spied on Silicon Valley tech and defense company, feds say",
+    "summary": "",
+    "lang": "en",
+    "source": "Ars Technica",
+    "url": "https://arstechnica.com/security/2026/11/man-charged-with-spying-on-silicon-valley-tech-and-defense-company-for-russia/",
+    "published": "2026-11-19T20:29:46+00:00",
+    "event_id": "545852a9591f",
+    "sources": [
+     {
+      "title": "Man hired by Russia spied on Silicon Valley tech and defense company, feds say",
+      "summary": "",
+      "lang": "en",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/security/2026/11/man-charged-with-spying-on-silicon-valley-tech-and-defense-company-for-russia/",
+      "published": "2026-11-19T20:29:46+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "Trump admin still won't let Wi-Fi giant TP-Link sell its latest routers in US",
+    "summary": "",
+    "lang": "en",
+    "source": "Ars Technica",
+    "url": "https://arstechnica.com/tech-policy/2026/11/trump-admin-still-wont-let-wi-fi-giant-tp-link-sell-its-latest-routers-in-us/",
+    "published": "2026-11-20T12:00:43+00:00",
+    "event_id": "84ea6cfdf0b6",
+    "sources": [
+     {
+      "title": "Trump admin still won't let Wi-Fi giant TP-Link sell its latest routers in US",
+      "summary": "",
+      "lang": "en",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/tech-policy/2026/11/trump-admin-still-wont-let-wi-fi-giant-tp-link-sell-its-latest-routers-in-us/",
+      "published": "2026-11-20T12:00:43+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   }
+  ]
+ }
+}
