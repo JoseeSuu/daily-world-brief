@@ -1,0 +1,887 @@
+{
+ "date": "2026-11-22",
+ "generated_at": "2026-11-22T13:32:55.923566+00:00",
+ "mode": "full",
+ "cost_usd": 0.0498,
+ "selection": {
+  "model": "claude-haiku-5-5",
+  "effort": "high",
+  "passes": 3,
+  "passes_ok": 3,
+  "cost_usd": 0.0189
+ },
+ "events": {
+  "mode": "full",
+  "compared_with": "2026-11-21",
+  "articles": 38,
+  "uncompared_articles": 0,
+  "events": 36,
+  "cost_usd": 0.019
+ },
+ "market": null,
+ "failed_sources": [],
+ "cells": {
+  "economia|europa": [
+   {
+    "title": "La UE plantea una tasa digital para financiar los próximos presupuestos europeos y reducir los recortes",
+    "summary": "La UE propone una tasa digital para recaudar 60.000 millones anuales y financiar presupuestos europeos, reduciendo recortes en las cuentas comunitarias.",
+    "lang": "es",
+    "source": "El País Economía",
+    "url": "https://elpais.com/economia/2026-11-21/la-ue-plantea-una-tasa-digital-para-financiar-los-proximos-presupuestos-europeos-y-reducir-los-recortes.html",
+    "published": "2026-11-21T12:40:45+00:00",
+    "event_id": "059e4fc472ff",
+    "sources": [
+     {
+      "title": "La UE plantea una tasa digital para financiar los próximos presupuestos europeos y reducir los recortes",
+      "summary": "La UE propone una tasa digital para recaudar 60.000 millones anuales y financiar presupuestos europeos, reduciendo recortes en las cuentas comunitarias.",
+      "lang": "es",
+      "source": "El País Economía",
+      "url": "https://elpais.com/economia/2026-11-21/la-ue-plantea-una-tasa-digital-para-financiar-los-proximos-presupuestos-europeos-y-reducir-los-recortes.html",
+      "published": "2026-11-21T12:40:45+00:00"
+     },
+     {
+      "title": "New EU budget proposal aims at tax gobal tech giants",
+      "summary": "EU Council President Costa proposes smaller 2028-2034 budget with 3% tech giant tax to ease member state contributions amid fiscal pressures.",
+      "lang": "en",
+      "source": "Deutsche Welle World",
+      "url": "https://www.dw.com/en/new-eu-budget-proposal-aims-at-tax-gobal-tech-giants/a-80009255?maca=en-rss-en-world-4025-rdf",
+      "published": "2026-11-21T14:58:00+00:00"
+     }
+    ],
+    "status": "updated",
+    "change_summary": "La UE plantea una tasa digital para financiar los próximos presupuestos europeos y reducir los recortes",
+    "previous_date": "2026-11-21",
+    "previous_event_id": "059e4fc472ff"
+   },
+   {
+    "title": "Opel y Leapmotor cierran el trato: el próximo eléctrico alemán tendrá corazón chino y se fabricará en Zaragoza",
+    "summary": "Opel y Leapmotor cierran un acuerdo para fabricar un vehículo eléctrico alemán con tecnología china en Zaragoza, reflejando cambios en la industria automotriz.",
+    "lang": "es",
+    "source": "Xataka",
+    "url": "https://www.xataka.com/movilidad/proximo-opel-electrico-se-fabricara-zaragoza-capo-habra-tecnologia-china",
+    "published": "2026-11-22T10:30:23+00:00",
+    "event_id": "e97fa7d3dfb1",
+    "sources": [
+     {
+      "title": "Opel y Leapmotor cierran el trato: el próximo eléctrico alemán tendrá corazón chino y se fabricará en Zaragoza",
+      "summary": "Opel y Leapmotor cierran un acuerdo para fabricar un vehículo eléctrico alemán con tecnología china en Zaragoza, reflejando cambios en la industria automotriz.",
+      "lang": "es",
+      "source": "Xataka",
+      "url": "https://www.xataka.com/movilidad/proximo-opel-electrico-se-fabricara-zaragoza-capo-habra-tecnologia-china",
+      "published": "2026-11-22T10:30:23+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "Czech Economy Facing Stagflation Shock, Policymaker Seidler Says",
+    "summary": "Czech central bank faces policy dilemma as higher energy prices fuel inflation while weakening economic activity, risking stagflation.",
+    "lang": "en",
+    "source": "Bloomberg Economics",
+    "url": "https://www.bloomberg.com/news/articles/2026-11-22/czech-economy-facing-stagflation-shock-policymaker-seidler-says",
+    "published": "2026-11-22T13:02:00+00:00",
+    "event_id": "9346ceb9d6bd",
+    "sources": [
+     {
+      "title": "Czech Economy Facing Stagflation Shock, Policymaker Seidler Says",
+      "summary": "Czech central bank faces policy dilemma as higher energy prices fuel inflation while weakening economic activity, risking stagflation.",
+      "lang": "en",
+      "source": "Bloomberg Economics",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-22/czech-economy-facing-stagflation-shock-policymaker-seidler-says",
+      "published": "2026-11-22T13:02:00+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "Swiss Inflation Has Been Accelerating, SNB Vice President Martin Says",
+    "summary": "Swiss National Bank Vice President warns consumer-price growth has accelerated since September interest rate decision, signaling persistent inflation pressure.",
+    "lang": "en",
+    "source": "Bloomberg Economics",
+    "url": "https://www.bloomberg.com/news/articles/2026-11-22/swiss-inflation-has-been-accelerating-snb-vice-president-martin-says",
+    "published": "2026-11-22T08:00:00+00:00",
+    "event_id": "ee934b6c250c",
+    "sources": [
+     {
+      "title": "Swiss Inflation Has Been Accelerating, SNB Vice President Martin Says",
+      "summary": "Swiss National Bank Vice President warns consumer-price growth has accelerated since September interest rate decision, signaling persistent inflation pressure.",
+      "lang": "en",
+      "source": "Bloomberg Economics",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-22/swiss-inflation-has-been-accelerating-snb-vice-president-martin-says",
+      "published": "2026-11-22T08:00:00+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "UBS Capital Fight Enters Final Round as Lawmakers Resume Debate",
+    "summary": "UBS capital requirements debate heads for showdown with lawmakers, with odds increasingly favoring defeat for the global wealth manager's position.",
+    "lang": "en",
+    "source": "Bloomberg Markets",
+    "url": "https://www.bloomberg.com/news/articles/2026-11-22/ubs-capital-fight-enters-final-round-as-lawmakers-resume-debate",
+    "published": "2026-11-22T10:00:00+00:00",
+    "event_id": "33dfe2e1ed45",
+    "sources": [
+     {
+      "title": "UBS Capital Fight Enters Final Round as Lawmakers Resume Debate",
+      "summary": "UBS capital requirements debate heads for showdown with lawmakers, with odds increasingly favoring defeat for the global wealth manager's position.",
+      "lang": "en",
+      "source": "Bloomberg Markets",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-22/ubs-capital-fight-enters-final-round-as-lawmakers-resume-debate",
+      "published": "2026-11-22T10:00:00+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   }
+  ],
+  "politica|america": [
+   {
+    "title": "Trump obstaculiza la supervisión de contratos por un Congreso controlado por los demócratas",
+    "summary": "Trump obstaculiza la supervisión congressional de contratos mientras legisladores demócratas preparan investigaciones sobre abusos y corrupción gubernamental.",
+    "lang": "es",
+    "source": "El País Internacional",
+    "url": "https://elpais.com/us/2026-11-21/trump-obstaculiza-la-supervision-de-contratos-por-un-congreso-controlado-por-los-democratas.html",
+    "published": "2026-11-21T23:48:39+00:00",
+    "event_id": "f8eb59427627",
+    "sources": [
+     {
+      "title": "Trump obstaculiza la supervisión de contratos por un Congreso controlado por los demócratas",
+      "summary": "Trump obstaculiza la supervisión congressional de contratos mientras legisladores demócratas preparan investigaciones sobre abusos y corrupción gubernamental.",
+      "lang": "es",
+      "source": "El País Internacional",
+      "url": "https://elpais.com/us/2026-11-21/trump-obstaculiza-la-supervision-de-contratos-por-un-congreso-controlado-por-los-democratas.html",
+      "published": "2026-11-21T23:48:39+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "Democrats will seek to unwind Trump’s tax and tariff policies",
+    "summary": "Democrat lawmaker Richard Neal vows congressional hearings to unwind Trump's tax and tariff policies, challenging flagship economic measures.",
+    "lang": "en",
+    "source": "Financial Times",
+    "url": "https://www.ft.com/content/8af97161-2ae0-4655-9f8b-a560f9227359?syn-25a6b1a6=1",
+    "published": "2026-11-22T11:00:05+00:00",
+    "event_id": "ec304ffde72e",
+    "sources": [
+     {
+      "title": "Democrats will seek to unwind Trump’s tax and tariff policies",
+      "summary": "Democrat lawmaker Richard Neal vows congressional hearings to unwind Trump's tax and tariff policies, challenging flagship economic measures.",
+      "lang": "en",
+      "source": "Financial Times",
+      "url": "https://www.ft.com/content/8af97161-2ae0-4655-9f8b-a560f9227359?syn-25a6b1a6=1",
+      "published": "2026-11-22T11:00:05+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "Washington governor calls ICE 'out of control' after two people arrested at airport",
+    "summary": "Washington governor criticizes ICE after video shows masked agents detaining two people at airport, calling agency out of control.",
+    "lang": "en",
+    "source": "Le Monde International",
+    "url": "https://www.lemonde.fr/en/international/article/2026/11/22/washington-governor-calls-ice-out-of-control-after-two-people-arrested-at-airport_6786630_4.html",
+    "published": "2026-11-22T13:02:59+00:00",
+    "event_id": "162de6142b5f",
+    "sources": [
+     {
+      "title": "Washington governor calls ICE 'out of control' after two people arrested at airport",
+      "summary": "Washington governor criticizes ICE after video shows masked agents detaining two people at airport, calling agency out of control.",
+      "lang": "en",
+      "source": "Le Monde International",
+      "url": "https://www.lemonde.fr/en/international/article/2026/11/22/washington-governor-calls-ice-out-of-control-after-two-people-arrested-at-airport_6786630_4.html",
+      "published": "2026-11-22T13:02:59+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "Haitians excited but uneasy as El Salvador troops fight gangs",
+    "summary": "Haitians welcome El Salvador troops fighting gangs in Port-au-Prince but fear offensive may worsen volatile gang control situation.",
+    "lang": "en",
+    "source": "The Guardian World",
+    "url": "https://www.theguardian.com/world/2026/nov/21/excitement-unease-haiti-el-salvador-troops-gangs-war-bukele",
+    "published": "2026-11-21T11:00:57+00:00",
+    "event_id": "b537fedc25b3",
+    "sources": [
+     {
+      "title": "Haitians excited but uneasy as El Salvador troops fight gangs",
+      "summary": "Haitians welcome El Salvador troops fighting gangs in Port-au-Prince but fear offensive may worsen volatile gang control situation.",
+      "lang": "en",
+      "source": "The Guardian World",
+      "url": "https://www.theguardian.com/world/2026/nov/21/excitement-unease-haiti-el-salvador-troops-gangs-war-bukele",
+      "published": "2026-11-21T11:00:57+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "Mexican drug lord on FBI's 10 most wanted list arrested in shoot-out",
+    "summary": "Mexican drug lord Fausto Isidro Meza Flores, accused of trafficking and torture, arrested after shoot-out with authorities; on FBI's ten most wanted list.",
+    "lang": "en",
+    "source": "BBC World",
+    "url": "https://www.bbc.co.uk/news/articles/ckz749ey0r75o?at_medium=RSS&at_campaign=rss",
+    "published": "2026-11-22T01:25:03+00:00",
+    "event_id": "115943d969e4",
+    "sources": [
+     {
+      "title": "Mexican drug lord on FBI's 10 most wanted list arrested in shoot-out",
+      "summary": "Mexican drug lord Fausto Isidro Meza Flores, accused of trafficking and torture, arrested after shoot-out with authorities; on FBI's ten most wanted list.",
+      "lang": "en",
+      "source": "BBC World",
+      "url": "https://www.bbc.co.uk/news/articles/ckz749ey0r75o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-22T01:25:03+00:00"
+     }
+    ],
+    "status": "unchanged",
+    "change_summary": "",
+    "previous_date": "2026-11-21",
+    "previous_event_id": "115943d969e4"
+   }
+  ],
+  "tecnologia|europa": [
+   {
+    "title": "Begoña Villacís: \"Es una prohibición de facto\". La patronal de los centros de datos, en pie de guerra contra el Gobierno",
+    "summary": "La patronal de centros de datos critica una normativa gubernamental aprobada por urgencia en noviembre, calificándola como prohibición de facto.",
+    "lang": "es",
+    "source": "Xataka",
+    "url": "https://www.xataka.com/empresas-y-economia/begona-villacis-prohibicion-facto-patronal-centros-datos-pie-guerra-gobierno",
+    "published": "2026-11-22T08:30:00+00:00",
+    "event_id": "e8fc0317af52",
+    "sources": [
+     {
+      "title": "Begoña Villacís: \"Es una prohibición de facto\". La patronal de los centros de datos, en pie de guerra contra el Gobierno",
+      "summary": "La patronal de centros de datos critica una normativa gubernamental aprobada por urgencia en noviembre, calificándola como prohibición de facto.",
+      "lang": "es",
+      "source": "Xataka",
+      "url": "https://www.xataka.com/empresas-y-economia/begona-villacis-prohibicion-facto-patronal-centros-datos-pie-guerra-gobierno",
+      "published": "2026-11-22T08:30:00+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "The UN fails to agree on rules regulating ‘killer robots’",
+    "summary": "UN diplomats fail to agree on regulatory rules for autonomous weapons or killer robots at Geneva meeting this week.",
+    "lang": "en",
+    "source": "The Verge",
+    "url": "https://www.theverge.com/tech/1039554/un-regulations-killer-robots",
+    "published": "2026-11-21T20:03:37+00:00",
+    "event_id": "234da3fc1867",
+    "sources": [
+     {
+      "title": "The UN fails to agree on rules regulating ‘killer robots’",
+      "summary": "UN diplomats fail to agree on regulatory rules for autonomous weapons or killer robots at Geneva meeting this week.",
+      "lang": "en",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/tech/1039554/un-regulations-killer-robots",
+      "published": "2026-11-21T20:03:37+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   }
+  ],
+  "economia|asia": [
+   {
+    "title": "Corporate Japan races to revive rare-earth supply chain amid China curbs",
+    "summary": "Japanese corporations are accelerating efforts to revive rare-earth supply chains as China restricts exports, addressing critical material shortages.",
+    "lang": "en",
+    "source": "Nikkei Asia",
+    "url": "https://asia.nikkei.com/business/materials/corporate-japan-races-to-revive-rare-earth-supply-chain-amid-china-curbs",
+    "published": null,
+    "event_id": "79df1602914c",
+    "sources": [
+     {
+      "title": "Corporate Japan races to revive rare-earth supply chain amid China curbs",
+      "summary": "Japanese corporations are accelerating efforts to revive rare-earth supply chains as China restricts exports, addressing critical material shortages.",
+      "lang": "en",
+      "source": "Nikkei Asia",
+      "url": "https://asia.nikkei.com/business/materials/corporate-japan-races-to-revive-rare-earth-supply-chain-amid-china-curbs",
+      "published": null
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "Global crude exports hit record high despite Hormuz closure",
+    "summary": "Global crude oil exports reach record levels despite concerns over potential Hormuz Strait closure, maintaining steady energy supply flows.",
+    "lang": "en",
+    "source": "Nikkei Asia",
+    "url": "https://asia.nikkei.com/business/energy/global-crude-exports-hit-record-high-despite-hormuz-closure",
+    "published": null,
+    "event_id": "cddcceec5cb6",
+    "sources": [
+     {
+      "title": "Global crude exports hit record high despite Hormuz closure",
+      "summary": "Global crude oil exports reach record levels despite concerns over potential Hormuz Strait closure, maintaining steady energy supply flows.",
+      "lang": "en",
+      "source": "Nikkei Asia",
+      "url": "https://asia.nikkei.com/business/energy/global-crude-exports-hit-record-high-despite-hormuz-closure",
+      "published": null
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "Asia’s Stock Rescue Efforts Gather Pace After Wall Street Plunge",
+    "summary": "Asian authorities intensify market interventions following Wall Street decline; China eased margin requirements while Taiwan and South Korea launched support measures.",
+    "lang": "en",
+    "source": "Bloomberg Markets",
+    "url": "https://www.bloomberg.com/news/articles/2026-11-22/china-lowers-margin-requirement-to-80-to-boost-stock-liquidity",
+    "published": "2026-11-22T11:06:19+00:00",
+    "event_id": "e4c9ff8bbfd8",
+    "sources": [
+     {
+      "title": "Asia’s Stock Rescue Efforts Gather Pace After Wall Street Plunge",
+      "summary": "Asian authorities intensify market interventions following Wall Street decline; China eased margin requirements while Taiwan and South Korea launched support measures.",
+      "lang": "en",
+      "source": "Bloomberg Markets",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-22/china-lowers-margin-requirement-to-80-to-boost-stock-liquidity",
+      "published": "2026-11-22T11:06:19+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "China’s $1.7 Trillion AI Rout Turns Hot Trade Into Losing Bet",
+    "summary": "China's AI stock rally has reversed into losses as technology firms' race to match US capabilities transformed a promising bet into a losing strategy.",
+    "lang": "en",
+    "source": "Bloomberg Markets",
+    "url": "https://www.bloomberg.com/news/articles/2026-11-22/china-s-1-7-trillion-ai-rout-turns-hot-trade-into-losing-bet",
+    "published": "2026-11-22T00:00:00+00:00",
+    "event_id": "216430f08308",
+    "sources": [
+     {
+      "title": "China’s $1.7 Trillion AI Rout Turns Hot Trade Into Losing Bet",
+      "summary": "China's AI stock rally has reversed into losses as technology firms' race to match US capabilities transformed a promising bet into a losing strategy.",
+      "lang": "en",
+      "source": "Bloomberg Markets",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-22/china-s-1-7-trillion-ai-rout-turns-hot-trade-into-losing-bet",
+      "published": "2026-11-22T00:00:00+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   }
+  ],
+  "politica|asia": [
+   {
+    "title": "Trump’s Asia Trip Leaves Key Issues Unresolved",
+    "summary": "Trump's Asia trip leaves unresolved key issues as Russia's provocative actions near NATO complicate regional stability and diplomatic efforts.",
+    "lang": "en",
+    "source": "Bloomberg Markets",
+    "url": "https://www.bloomberg.com/news/videos/2026-11-22/trump-s-asia-trip-leaves-key-issues-unresolved-video",
+    "published": "2026-11-22T12:39:41+00:00",
+    "event_id": "5a3ba6ae7b31",
+    "sources": [
+     {
+      "title": "Trump’s Asia Trip Leaves Key Issues Unresolved",
+      "summary": "Trump's Asia trip leaves unresolved key issues as Russia's provocative actions near NATO complicate regional stability and diplomatic efforts.",
+      "lang": "en",
+      "source": "Bloomberg Markets",
+      "url": "https://www.bloomberg.com/news/videos/2026-11-22/trump-s-asia-trip-leaves-key-issues-unresolved-video",
+      "published": "2026-11-22T12:39:41+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "South Korea education minister resigns over exam cheating scandal",
+    "summary": "South Korea's education minister resigns after last-minute anti-cheating measures during college entrance exam caused widespread chaos and disruption.",
+    "lang": "en",
+    "source": "BBC World",
+    "url": "https://www.bbc.co.uk/news/articles/cw3dgk29d37no?at_medium=RSS&at_campaign=rss",
+    "published": "2026-11-22T09:20:45+00:00",
+    "event_id": "3d97e0803e68",
+    "sources": [
+     {
+      "title": "South Korea education minister resigns over exam cheating scandal",
+      "summary": "South Korea's education minister resigns after last-minute anti-cheating measures during college entrance exam caused widespread chaos and disruption.",
+      "lang": "en",
+      "source": "BBC World",
+      "url": "https://www.bbc.co.uk/news/articles/cw3dgk29d37no?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-22T09:20:45+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "China, ASEAN countries struggle over South China Sea code of conduct",
+    "summary": "China and ASEAN nations struggle to finalize South China Sea code of conduct; Philippines' 2026 target faces delays from persistent disagreements.",
+    "lang": "en",
+    "source": "Deutsche Welle World",
+    "url": "https://www.dw.com/en/china-asean-countries-struggle-over-south-china-sea-code-of-conduct/a-80009799?maca=en-rss-en-world-4025-rdf",
+    "published": "2026-11-22T08:45:00+00:00",
+    "event_id": "14ed6f7de5d8",
+    "sources": [
+     {
+      "title": "China, ASEAN countries struggle over South China Sea code of conduct",
+      "summary": "China and ASEAN nations struggle to finalize South China Sea code of conduct; Philippines' 2026 target faces delays from persistent disagreements.",
+      "lang": "en",
+      "source": "Deutsche Welle World",
+      "url": "https://www.dw.com/en/china-asean-countries-struggle-over-south-china-sea-code-of-conduct/a-80009799?maca=en-rss-en-world-4025-rdf",
+      "published": "2026-11-22T08:45:00+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "Saudi Arabia intercepts drone, missile as Houthis report attack on Sanaa",
+    "summary": "Saudi Arabia intercepts drone and missile in Houthi attack; Houthi media report several injured in separate assault on oil facility.",
+    "lang": "en",
+    "source": "Al Jazeera English",
+    "url": "https://www.aljazeera.com/news/2026/11/22/houthis-report-attack-on-sanaa-as-saudi-arabia-intercepts-drone?traffic_source=rss",
+    "published": "2026-11-22T13:16:45+00:00",
+    "event_id": "3deb0be04b21",
+    "sources": [
+     {
+      "title": "Saudi Arabia intercepts drone, missile as Houthis report attack on Sanaa",
+      "summary": "Saudi Arabia intercepts drone and missile in Houthi attack; Houthi media report several injured in separate assault on oil facility.",
+      "lang": "en",
+      "source": "Al Jazeera English",
+      "url": "https://www.aljazeera.com/news/2026/11/22/houthis-report-attack-on-sanaa-as-saudi-arabia-intercepts-drone?traffic_source=rss",
+      "published": "2026-11-22T13:16:45+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "What did Xi Jinping get from the bear hug with Trump at the Shenzhen summit?",
+    "summary": "Experts assess outcomes of Trump's summit with Xi Jinping in Shenzhen, examining gains from high-level US-China diplomatic engagement.",
+    "lang": "en",
+    "source": "NPR World",
+    "url": "https://www.npr.org/2026/11/21/nx-s1-6048741/what-did-xi-jinping-get-from-the-bear-hug-with-trump-at-the-shenzhen-summit",
+    "published": "2026-11-21T22:01:42+00:00",
+    "event_id": "0b73d3ee2ffd",
+    "sources": [
+     {
+      "title": "What did Xi Jinping get from the bear hug with Trump at the Shenzhen summit?",
+      "summary": "Experts assess outcomes of Trump's summit with Xi Jinping in Shenzhen, examining gains from high-level US-China diplomatic engagement.",
+      "lang": "en",
+      "source": "NPR World",
+      "url": "https://www.npr.org/2026/11/21/nx-s1-6048741/what-did-xi-jinping-get-from-the-bear-hug-with-trump-at-the-shenzhen-summit",
+      "published": "2026-11-21T22:01:42+00:00"
+     }
+    ],
+    "status": "unchanged",
+    "change_summary": "",
+    "previous_date": "2026-11-21",
+    "previous_event_id": "0b73d3ee2ffd"
+   }
+  ],
+  "tecnologia|america": [
+   {
+    "title": "US ports face cyber attack onslaught as hackers target vital trade routes",
+    "summary": "US crude oil export hub faces thousands of daily attempted hacks as shipping companies battle breaches targeting vital trade infrastructure.",
+    "lang": "en",
+    "source": "FT Global Economy",
+    "url": "https://www.ft.com/content/c269cf3e-2275-4244-9a86-f412c8521b4f?syn-25a6b1a6=1",
+    "published": "2026-11-22T12:00:06+00:00",
+    "event_id": "b9c749665506",
+    "sources": [
+     {
+      "title": "US ports face cyber attack onslaught as hackers target vital trade routes",
+      "summary": "US crude oil export hub faces thousands of daily attempted hacks as shipping companies battle breaches targeting vital trade infrastructure.",
+      "lang": "en",
+      "source": "FT Global Economy",
+      "url": "https://www.ft.com/content/c269cf3e-2275-4244-9a86-f412c8521b4f?syn-25a6b1a6=1",
+      "published": "2026-11-22T12:00:06+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "AI 文字偵測器學會邊用邊調整，識破偽裝文字準確率逾九成",
+    "summary": "MIT与康乃尔大学利用测试时调适技术开发文字偵測器，识破伪装文字准确率超过90%。",
+    "lang": "zh",
+    "source": "科技新報 TechNews",
+    "url": "https://technews.tw/2026/11/22/helping-ai-text-detectors-keep-up-with-changing-conditions/",
+    "published": "2026-11-22T07:30:52+00:00",
+    "event_id": "1196f179487d",
+    "sources": [
+     {
+      "title": "AI 文字偵測器學會邊用邊調整，識破偽裝文字準確率逾九成",
+      "summary": "MIT与康乃尔大学利用测试时调适技术开发文字偵測器，识破伪装文字准确率超过90%。",
+      "lang": "zh",
+      "source": "科技新報 TechNews",
+      "url": "https://technews.tw/2026/11/22/helping-ai-text-detectors-keep-up-with-changing-conditions/",
+      "published": "2026-11-22T07:30:52+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "NIH 人體生物分子圖譜入口網站更新，逾 9 千筆器官與單細胞資料可免費存取",
+    "summary": "美国NIH资助的人体生物分子图谱计划网站更新，提供超9000份器官与单细胞数据免费访问。",
+    "lang": "zh",
+    "source": "科技新報 TechNews",
+    "url": "https://technews.tw/2026/11/22/hubmap-updates-data-portal-for-studying-human-tissues-at-single-cell-resolution/",
+    "published": "2026-11-22T05:30:11+00:00",
+    "event_id": "7ff4d6d36dfb",
+    "sources": [
+     {
+      "title": "NIH 人體生物分子圖譜入口網站更新，逾 9 千筆器官與單細胞資料可免費存取",
+      "summary": "美国NIH资助的人体生物分子图谱计划网站更新，提供超9000份器官与单细胞数据免费访问。",
+      "lang": "zh",
+      "source": "科技新報 TechNews",
+      "url": "https://technews.tw/2026/11/22/hubmap-updates-data-portal-for-studying-human-tissues-at-single-cell-resolution/",
+      "published": "2026-11-22T05:30:11+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "Signal restricts mobile screenshots as it confronts ‘existential threat’ of AI surveillance",
+    "summary": "Signal restricts mobile screenshots on Android and iOS apps, confronting existential threat posed by AI surveillance capabilities.",
+    "lang": "en",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/11/21/signal-restricts-mobile-screenshots-as-it-confronts-existential-threat-of-ai-surveillance/",
+    "published": "2026-11-21T21:37:10+00:00",
+    "event_id": "8d54d4add32f",
+    "sources": [
+     {
+      "title": "Signal restricts mobile screenshots as it confronts ‘existential threat’ of AI surveillance",
+      "summary": "Signal restricts mobile screenshots on Android and iOS apps, confronting existential threat posed by AI surveillance capabilities.",
+      "lang": "en",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/11/21/signal-restricts-mobile-screenshots-as-it-confronts-existential-threat-of-ai-surveillance/",
+      "published": "2026-11-21T21:37:10+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "輝達遭勒索組織暗網威脅十天後洩漏資料，但官方稱系統未遭入侵",
+    "summary": "勒索组织18日将英伟达列入暗网外泄网站，声称获取公司数据，但英伟达官方否认系统遭入侵。",
+    "lang": "zh",
+    "source": "科技新報 TechNews",
+    "url": "https://infosecu.technews.tw/2026/11/22/nvidia-ransom-demand-by-the-gentlemen-leak-timer-under-10-days/",
+    "published": "2026-11-22T09:00:16+00:00",
+    "event_id": "5a03511c542b",
+    "sources": [
+     {
+      "title": "輝達遭勒索組織暗網威脅十天後洩漏資料，但官方稱系統未遭入侵",
+      "summary": "勒索组织18日将英伟达列入暗网外泄网站，声称获取公司数据，但英伟达官方否认系统遭入侵。",
+      "lang": "zh",
+      "source": "科技新報 TechNews",
+      "url": "https://infosecu.technews.tw/2026/11/22/nvidia-ransom-demand-by-the-gentlemen-leak-timer-under-10-days/",
+      "published": "2026-11-22T09:00:16+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "The FBI and USDA were reportedly hacked",
+    "summary": "US Department of Agriculture and FBI were reportedly hacked; attack on FBI marks second such incident targeting federal agencies.",
+    "lang": "en",
+    "source": "The Verge",
+    "url": "https://www.theverge.com/tech/1039543/fbi-usda-hacked",
+    "published": "2026-11-21T17:42:27+00:00",
+    "event_id": "90b55c265510",
+    "sources": [
+     {
+      "title": "The FBI and USDA were reportedly hacked",
+      "summary": "US Department of Agriculture and FBI were reportedly hacked; attack on FBI marks second such incident targeting federal agencies.",
+      "lang": "en",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/tech/1039543/fbi-usda-hacked",
+      "published": "2026-11-21T17:42:27+00:00"
+     },
+     {
+      "title": "FBI reportedly investigating apparent hack of its criminal database",
+      "summary": "FBI reportedly investigates apparent hack of National Crime Information Center database used by federal and local law enforcement nationwide.",
+      "lang": "en",
+      "source": "BBC World",
+      "url": "https://www.bbc.co.uk/news/articles/cvze7de86pk3o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-22T00:10:44+00:00"
+     }
+    ],
+    "status": "unchanged",
+    "change_summary": "",
+    "previous_date": "2026-11-21",
+    "previous_event_id": "90b55c265510"
+   }
+  ],
+  "economia|america": [
+   {
+    "title": "Traders start to move US copper to China as Trump tariff fears ease",
+    "summary": "Traders redirect US copper shipments to China as Trump tariff concerns ease, exploiting acute Chinese shortage and high local premiums.",
+    "lang": "en",
+    "source": "FT Global Economy",
+    "url": "https://www.ft.com/content/b84dbcb1-f216-422e-89c7-f203e0ab2757?syn-25a6b1a6=1",
+    "published": "2026-11-21T12:00:08+00:00",
+    "event_id": "29e1e1ebf7c5",
+    "sources": [
+     {
+      "title": "Traders start to move US copper to China as Trump tariff fears ease",
+      "summary": "Traders redirect US copper shipments to China as Trump tariff concerns ease, exploiting acute Chinese shortage and high local premiums.",
+      "lang": "en",
+      "source": "FT Global Economy",
+      "url": "https://www.ft.com/content/b84dbcb1-f216-422e-89c7-f203e0ab2757?syn-25a6b1a6=1",
+      "published": "2026-11-21T12:00:08+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "US Consumers Are Holding Up Against Inflation Going Into Holiday Season",
+    "summary": "US consumers maintain spending momentum entering holiday season despite inflation anxiety, showing resilience in purchasing appetite.",
+    "lang": "en",
+    "source": "Bloomberg Economics",
+    "url": "https://www.bloomberg.com/news/articles/2026-11-21/us-consumers-are-holding-up-against-inflation-going-into-holiday-season",
+    "published": "2026-11-21T21:00:00+00:00",
+    "event_id": "b55e5a00669e",
+    "sources": [
+     {
+      "title": "US Consumers Are Holding Up Against Inflation Going Into Holiday Season",
+      "summary": "US consumers maintain spending momentum entering holiday season despite inflation anxiety, showing resilience in purchasing appetite.",
+      "lang": "en",
+      "source": "Bloomberg Economics",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-21/us-consumers-are-holding-up-against-inflation-going-into-holiday-season",
+      "published": "2026-11-21T21:00:00+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "Tech suppliers raise AI server prices up to 45% months after deals are signed",
+    "summary": "Tech suppliers Dell, HPE, Lenovo and Supermicro raise AI server prices up to 45% months after contracts signed, hitting trading firm costs.",
+    "lang": "en",
+    "source": "Financial Times",
+    "url": "https://www.ft.com/content/dd2a6594-6146-4ff1-ac8e-54749c1fc99f?syn-25a6b1a6=1",
+    "published": "2026-11-22T05:00:06+00:00",
+    "event_id": "f517e7ee2f9c",
+    "sources": [
+     {
+      "title": "Tech suppliers raise AI server prices up to 45% months after deals are signed",
+      "summary": "Tech suppliers Dell, HPE, Lenovo and Supermicro raise AI server prices up to 45% months after contracts signed, hitting trading firm costs.",
+      "lang": "en",
+      "source": "Financial Times",
+      "url": "https://www.ft.com/content/dd2a6594-6146-4ff1-ac8e-54749c1fc99f?syn-25a6b1a6=1",
+      "published": "2026-11-22T05:00:06+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   }
+  ],
+  "tecnologia|asia": [
+   {
+    "title": "Beijing vows to defend interests as US bars Chinese telecoms from accessing phone numbers",
+    "summary": "Beijing demands US FCC rescind ban preventing Chinese telecoms from directly accessing US phone numbers, vowing reciprocal measures.",
+    "lang": "en",
+    "source": "South China Morning Post (China)",
+    "url": "https://www.scmp.com/news/china/diplomacy/article/3375364/beijing-vows-defend-interests-us-bars-chinese-telecoms-accessing-phone-numbers",
+    "published": "2026-11-22T07:02:02+00:00",
+    "event_id": "011fcfa97e48",
+    "sources": [
+     {
+      "title": "Beijing vows to defend interests as US bars Chinese telecoms from accessing phone numbers",
+      "summary": "Beijing demands US FCC rescind ban preventing Chinese telecoms from directly accessing US phone numbers, vowing reciprocal measures.",
+      "lang": "en",
+      "source": "South China Morning Post (China)",
+      "url": "https://www.scmp.com/news/china/diplomacy/article/3375364/beijing-vows-defend-interests-us-bars-chinese-telecoms-accessing-phone-numbers",
+      "published": "2026-11-22T07:02:02+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "KAIST 讀唇 AI 先抓最清楚的嘴型，無聲辨識詞錯誤率降至 19.4%",
+    "summary": "韩国KAIST开发的读唇AI系统DLLM-VSR通过优先识别清晰唇型，将无声识别错误率降低至19.4%。",
+    "lang": "zh",
+    "source": "科技新報 TechNews",
+    "url": "https://technews.tw/2026/11/22/scientists-taught-ai-to-read-lips-in-total-silence-and-the-results-are-pretty-impressive/",
+    "published": "2026-11-22T06:30:55+00:00",
+    "event_id": "6a7b0f2b0529",
+    "sources": [
+     {
+      "title": "KAIST 讀唇 AI 先抓最清楚的嘴型，無聲辨識詞錯誤率降至 19.4%",
+      "summary": "韩国KAIST开发的读唇AI系统DLLM-VSR通过优先识别清晰唇型，将无声识别错误率降低至19.4%。",
+      "lang": "zh",
+      "source": "科技新報 TechNews",
+      "url": "https://technews.tw/2026/11/22/scientists-taught-ai-to-read-lips-in-total-silence-and-the-results-are-pretty-impressive/",
+      "published": "2026-11-22T06:30:55+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   }
+  ],
+  "politica|europa": [
+   {
+    "title": "Russia-bound ship still on fire after attack in Gulf of Finland",
+    "summary": "Russia-bound ship remains on fire after Ukrainian drone attack in Gulf of Finland, with Finnish defence forces confirming likely Ukrainian involvement.",
+    "lang": "en",
+    "source": "BBC World",
+    "url": "https://www.bbc.co.uk/news/articles/cj752ddve27ko?at_medium=RSS&at_campaign=rss",
+    "published": "2026-11-22T11:25:14+00:00",
+    "event_id": "86c4e817690b",
+    "sources": [
+     {
+      "title": "Russia-bound ship still on fire after attack in Gulf of Finland",
+      "summary": "Russia-bound ship remains on fire after Ukrainian drone attack in Gulf of Finland, with Finnish defence forces confirming likely Ukrainian involvement.",
+      "lang": "en",
+      "source": "BBC World",
+      "url": "https://www.bbc.co.uk/news/articles/cj752ddve27ko?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-22T11:25:14+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "Denmark accuses Russia of plotting to assassinate US-Ukrainian rapper",
+    "summary": "Denmark accuses Russia of plotting to assassinate US-Ukrainian rapper; Russian embassy denies allegations, leading to defence attaché expulsion.",
+    "lang": "en",
+    "source": "BBC World",
+    "url": "https://www.bbc.co.uk/news/articles/cmde1lj4yjxno?at_medium=RSS&at_campaign=rss",
+    "published": "2026-11-21T10:26:36+00:00",
+    "event_id": "55c3376cce85",
+    "sources": [
+     {
+      "title": "Denmark accuses Russia of plotting to assassinate US-Ukrainian rapper",
+      "summary": "Denmark accuses Russia of plotting to assassinate US-Ukrainian rapper; Russian embassy denies allegations, leading to defence attaché expulsion.",
+      "lang": "en",
+      "source": "BBC World",
+      "url": "https://www.bbc.co.uk/news/articles/cmde1lj4yjxno?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-21T10:26:36+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "Russia strikes Zelenskyy's hometown, killing 2",
+    "summary": "Russia strikes Zelenskyy's hometown, killing two, fulfilling Putin's vow of painful response to Ukraine's recent attacks on Kerch Bridge.",
+    "lang": "en",
+    "source": "Deutsche Welle World",
+    "url": "https://www.dw.com/en/russia-strikes-zelenskyy-s-hometown-killing-2/a-80009458?maca=en-rss-en-world-4025-rdf",
+    "published": "2026-11-21T14:44:00+00:00",
+    "event_id": "8944b9bf2f7d",
+    "sources": [
+     {
+      "title": "Russia strikes Zelenskyy's hometown, killing 2",
+      "summary": "Russia strikes Zelenskyy's hometown, killing two, fulfilling Putin's vow of painful response to Ukraine's recent attacks on Kerch Bridge.",
+      "lang": "en",
+      "source": "Deutsche Welle World",
+      "url": "https://www.dw.com/en/russia-strikes-zelenskyy-s-hometown-killing-2/a-80009458?maca=en-rss-en-world-4025-rdf",
+      "published": "2026-11-21T14:44:00+00:00"
+     }
+    ],
+    "status": "updated",
+    "change_summary": "Russia strikes Zelenskyy's hometown, killing 2",
+    "previous_date": "2026-11-21",
+    "previous_event_id": "8944b9bf2f7d"
+   },
+   {
+    "title": "After lengthy negotiations, the UK and the EU move closer together",
+    "summary": "UK and EU reach agreements on carbon tax, youth mobility, and sanitary standards after lengthy negotiations, moving closer together.",
+    "lang": "en",
+    "source": "Le Monde International",
+    "url": "https://www.lemonde.fr/en/international/article/2026/11/21/after-lengthy-negotiations-the-uk-and-the-eu-move-closer-together_6786100_4.html",
+    "published": "2026-11-21T12:21:19+00:00",
+    "event_id": "7c408c6ff522",
+    "sources": [
+     {
+      "title": "After lengthy negotiations, the UK and the EU move closer together",
+      "summary": "UK and EU reach agreements on carbon tax, youth mobility, and sanitary standards after lengthy negotiations, moving closer together.",
+      "lang": "en",
+      "source": "Le Monde International",
+      "url": "https://www.lemonde.fr/en/international/article/2026/11/21/after-lengthy-negotiations-the-uk-and-the-eu-move-closer-together_6786100_4.html",
+      "published": "2026-11-21T12:21:19+00:00"
+     }
+    ],
+    "status": "unchanged",
+    "change_summary": "",
+    "previous_date": "2026-11-21",
+    "previous_event_id": "7c408c6ff522"
+   }
+  ]
+ }
+}
