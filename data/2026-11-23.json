@@ -1,0 +1,844 @@
+{
+ "date": "2026-11-23",
+ "generated_at": "2026-11-23T16:21:52.607184+00:00",
+ "mode": "full",
+ "cost_usd": 0.05,
+ "selection": {
+  "model": "claude-haiku-5-5",
+  "effort": "high",
+  "passes": 3,
+  "passes_ok": 3,
+  "cost_usd": 0.0181
+ },
+ "events": {
+  "mode": "full",
+  "compared_with": "2026-11-22",
+  "articles": 38,
+  "uncompared_articles": 0,
+  "events": 33,
+  "cost_usd": 0.0176
+ },
+ "market": null,
+ "failed_sources": [
+  "FT中文网"
+ ],
+ "cells": {
+  "politica|europa": [
+   {
+    "title": "Spanish PM Sanchez proposes wealth tax ahead of election",
+    "summary": "Spanish PM Sanchez proposed a wealth tax on fortunes exceeding €100 million ahead of Sunday's snap election. The tax aims to fund child-rearing benefits, housing, and public services.",
+    "lang": "en",
+    "source": "Le Monde International",
+    "url": "https://www.lemonde.fr/en/international/article/2026/11/23/spanish-pm-sanchez-proposes-wealth-tax-ahead-of-election_6787325_4.html",
+    "published": "2026-11-23T12:21:50+00:00",
+    "event_id": "a7368dea20dd",
+    "sources": [
+     {
+      "title": "Spanish PM Sanchez proposes wealth tax ahead of election",
+      "summary": "Spanish PM Sanchez proposed a wealth tax on fortunes exceeding €100 million ahead of Sunday's snap election. The tax aims to fund child-rearing benefits, housing, and public services.",
+      "lang": "en",
+      "source": "Le Monde International",
+      "url": "https://www.lemonde.fr/en/international/article/2026/11/23/spanish-pm-sanchez-proposes-wealth-tax-ahead-of-election_6787325_4.html",
+      "published": "2026-11-23T12:21:50+00:00"
+     },
+     {
+      "title": "Sánchez propone un impuesto para “ultrarricos” con fortunas superiores a 100 millones de euros",
+      "summary": "El Presidente Sánchez propone un impuesto para ultrarricos con fortunas superiores a 100 millones de euros. La medida no estaba en el programa electoral del PSOE pero sí en el del Frente Amplio.",
+      "lang": "es",
+      "source": "El País Economía",
+      "url": "https://elpais.com/economia/2026-11-23/sanchez-propone-un-impuesto-para-ultrarricos-con-fortunas-superiores-a-100-millones-de-euros.html",
+      "published": "2026-11-23T09:51:45+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "Tres barcos, dos mares y 24 horas: Ucrania acaba de convertir el mapa naval de Rusia en un tablero de Hundir la Flota",
+    "summary": "Ucrania ha atacado la flota rusa en el mar Negro en 24 horas, reorganizando el mapa naval. Rusia ha tenido que reposicionar sus barcos para protegerse de los ataques ucranianos.",
+    "lang": "es",
+    "source": "Xataka",
+    "url": "https://www.xataka.com/magnet/tres-barcos-dos-mares-24-horas-ucrania-acaba-convertir-mapa-naval-rusia-tablero-hundir-flota",
+    "published": "2026-11-23T16:00:48+00:00",
+    "event_id": "17727117d1d0",
+    "sources": [
+     {
+      "title": "Tres barcos, dos mares y 24 horas: Ucrania acaba de convertir el mapa naval de Rusia en un tablero de Hundir la Flota",
+      "summary": "Ucrania ha atacado la flota rusa en el mar Negro en 24 horas, reorganizando el mapa naval. Rusia ha tenido que reposicionar sus barcos para protegerse de los ataques ucranianos.",
+      "lang": "es",
+      "source": "Xataka",
+      "url": "https://www.xataka.com/magnet/tres-barcos-dos-mares-24-horas-ucrania-acaba-convertir-mapa-naval-rusia-tablero-hundir-flota",
+      "published": "2026-11-23T16:00:48+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "Macron proposes French budget ‘golden rule’",
+    "summary": "President Macron proposed a French constitutional budget 'golden rule' to cap government spending and limit future deficits. The proposal echoes ideas from his political opponents.",
+    "lang": "en",
+    "source": "Financial Times",
+    "url": "https://www.ft.com/content/23e88085-9259-472d-8831-b3d88e1c4698?syn-25a6b1a6=1",
+    "published": "2026-11-23T13:22:36+00:00",
+    "event_id": "41085ca8b8cd",
+    "sources": [
+     {
+      "title": "Macron proposes French budget ‘golden rule’",
+      "summary": "President Macron proposed a French constitutional budget 'golden rule' to cap government spending and limit future deficits. The proposal echoes ideas from his political opponents.",
+      "lang": "en",
+      "source": "Financial Times",
+      "url": "https://www.ft.com/content/23e88085-9259-472d-8831-b3d88e1c4698?syn-25a6b1a6=1",
+      "published": "2026-11-23T13:22:36+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "Istanbul sees thousands protest closure of pro-opposition Turkish media outlets",
+    "summary": "Thousands protested in Istanbul against the closure of pro-opposition Turkish media outlets. The demonstration followed police raids on Sozcu TV and arrests of senior staff.",
+    "lang": "en",
+    "source": "Le Monde International",
+    "url": "https://www.lemonde.fr/en/international/article/2026/11/22/in-istanbul-thousands-protest-closure-of-pro-opposition-turkish-media-outlets_6786892_4.html",
+    "published": "2026-11-22T22:58:51+00:00",
+    "event_id": "028ef1ed5682",
+    "sources": [
+     {
+      "title": "Istanbul sees thousands protest closure of pro-opposition Turkish media outlets",
+      "summary": "Thousands protested in Istanbul against the closure of pro-opposition Turkish media outlets. The demonstration followed police raids on Sozcu TV and arrests of senior staff.",
+      "lang": "en",
+      "source": "Le Monde International",
+      "url": "https://www.lemonde.fr/en/international/article/2026/11/22/in-istanbul-thousands-protest-closure-of-pro-opposition-turkish-media-outlets_6786892_4.html",
+      "published": "2026-11-22T22:58:51+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "加里寧格勒傳軍事設施遇襲 立陶宛否認涉入、指俄操作假訊息",
+    "summary": "俄羅斯加里寧格勒地區軍事設施疑似遭無人機攻擊，俄方指可疑物體來自立陶宛。立陶宛官員否認涉入，指俄羅斯發動假訊息操作。",
+    "lang": "zh",
+    "source": "中央社 CNA",
+    "url": "https://www.cna.com.tw/news/aopl/202611230281.aspx",
+    "published": "2026-11-23T13:38:51+00:00",
+    "event_id": "72d663685b52",
+    "sources": [
+     {
+      "title": "加里寧格勒傳軍事設施遇襲 立陶宛否認涉入、指俄操作假訊息",
+      "summary": "俄羅斯加里寧格勒地區軍事設施疑似遭無人機攻擊，俄方指可疑物體來自立陶宛。立陶宛官員否認涉入，指俄羅斯發動假訊息操作。",
+      "lang": "zh",
+      "source": "中央社 CNA",
+      "url": "https://www.cna.com.tw/news/aopl/202611230281.aspx",
+      "published": "2026-11-23T13:38:51+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "反制俄軍彈道飛彈，法國和烏克蘭合作推進 SAMP/T NG 共同生產",
+    "summary": "法國和烏克蘭合作推進SAMP/T NG防空系統共同生產以反制俄軍彈道飛彈。俄軍持續以飛彈攻擊烏克蘭民用設施。",
+    "lang": "zh",
+    "source": "科技新報 TechNews",
+    "url": "https://technews.tw/2026/11/23/france-and-ukraine-are-pusing-co-production-on-sampt-ng/",
+    "published": "2026-11-23T09:41:49+00:00",
+    "event_id": "c2dcdf77287a",
+    "sources": [
+     {
+      "title": "反制俄軍彈道飛彈，法國和烏克蘭合作推進 SAMP/T NG 共同生產",
+      "summary": "法國和烏克蘭合作推進SAMP/T NG防空系統共同生產以反制俄軍彈道飛彈。俄軍持續以飛彈攻擊烏克蘭民用設施。",
+      "lang": "zh",
+      "source": "科技新報 TechNews",
+      "url": "https://technews.tw/2026/11/23/france-and-ukraine-are-pusing-co-production-on-sampt-ng/",
+      "published": "2026-11-23T09:41:49+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   }
+  ],
+  "economia|europa": [
+   {
+    "title": "El Gobierno aprobará la limitación de los intereses del crédito al consumo en un paquete de medidas que afectan a la banca",
+    "summary": "El Gobierno aprobará la limitación de intereses del crédito al consumo y prorrogará el impuesto a entidades bancarias. Las medidas se validarán en el Consejo de Ministros para frenar intereses abusivos.",
+    "lang": "es",
+    "source": "El País Economía",
+    "url": "https://elpais.com/economia/2026-11-23/el-gobierno-aprobara-la-limitacion-de-los-intereses-del-credito-al-consumo-en-un-paquete-de-medidas-que-afectan-a-la-banca.html",
+    "published": "2026-11-23T13:41:21+00:00",
+    "event_id": "6a213502425c",
+    "sources": [
+     {
+      "title": "El Gobierno aprobará la limitación de los intereses del crédito al consumo en un paquete de medidas que afectan a la banca",
+      "summary": "El Gobierno aprobará la limitación de intereses del crédito al consumo y prorrogará el impuesto a entidades bancarias. Las medidas se validarán en el Consejo de Ministros para frenar intereses abusivos.",
+      "lang": "es",
+      "source": "El País Economía",
+      "url": "https://elpais.com/economia/2026-11-23/el-gobierno-aprobara-la-limitacion-de-los-intereses-del-credito-al-consumo-en-un-paquete-de-medidas-que-afectan-a-la-banca.html",
+      "published": "2026-11-23T13:41:21+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "BOE’s Pill Says Action Needed to Maintain Inflation Credibility",
+    "summary": "Bank of England Chief Economist Huw Pill advocates raising interest rates again to maintain inflation credibility. Policymakers must demonstrate commitment to returning inflation to target.",
+    "lang": "en",
+    "source": "Bloomberg Economics",
+    "url": "https://www.bloomberg.com/news/articles/2026-11-23/boe-s-pill-says-action-needed-to-maintain-inflation-credibility",
+    "published": "2026-11-23T15:15:01+00:00",
+    "event_id": "ba45433a31ad",
+    "sources": [
+     {
+      "title": "BOE’s Pill Says Action Needed to Maintain Inflation Credibility",
+      "summary": "Bank of England Chief Economist Huw Pill advocates raising interest rates again to maintain inflation credibility. Policymakers must demonstrate commitment to returning inflation to target.",
+      "lang": "en",
+      "source": "Bloomberg Economics",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-23/boe-s-pill-says-action-needed-to-maintain-inflation-credibility",
+      "published": "2026-11-23T15:15:01+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   }
+  ],
+  "politica|america": [
+   {
+    "title": "Mexican soldiers attacked in wake of drug lord's arrest",
+    "summary": "Eight suspects were arrested after Mexican soldiers faced attacks following the arrest of drug lord El Chapo Isidro. The violence erupted as authorities attempted to restore order.",
+    "lang": "en",
+    "source": "BBC World",
+    "url": "https://www.bbc.co.uk/news/articles/c5rmgkv2lk73o?at_medium=RSS&at_campaign=rss",
+    "published": "2026-11-23T14:54:03+00:00",
+    "event_id": "115943d969e4",
+    "sources": [
+     {
+      "title": "Mexican soldiers attacked in wake of drug lord's arrest",
+      "summary": "Eight suspects were arrested after Mexican soldiers faced attacks following the arrest of drug lord El Chapo Isidro. The violence erupted as authorities attempted to restore order.",
+      "lang": "en",
+      "source": "BBC World",
+      "url": "https://www.bbc.co.uk/news/articles/c5rmgkv2lk73o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-23T14:54:03+00:00"
+     },
+     {
+      "title": "México consolida el apoyo en inteligencia de Estados Unidos contra el narco",
+      "summary": "México consolida colaboración con inteligencia estadounidense contra el narcotráfico tras la captura del Chapo Isidro. El gobierno de Trump rompe con la política de reticencia del anterior mandatario López Obrador.",
+      "lang": "es",
+      "source": "El País Internacional",
+      "url": "https://elpais.com/mexico/2026-11-23/mexico-consolida-el-apoyo-en-inteligencia-de-estados-unidos-contra-el-narco.html",
+      "published": "2026-11-23T09:30:00+00:00"
+     }
+    ],
+    "status": "updated",
+    "change_summary": "Mexican soldiers attacked in wake of drug lord's arrest",
+    "previous_date": "2026-11-22",
+    "previous_event_id": "115943d969e4"
+   },
+   {
+    "title": "Democrats win House by largest margin in 50 years. And, COP31 ends with no deal",
+    "summary": "Democrats won House control by the largest margin in 50 years, flipping up to 49 seats. COP31 climate talks concluded without a deal after running two days longer than scheduled.",
+    "lang": "en",
+    "source": "NPR World",
+    "url": "https://www.npr.org/2026/11/23/g-s1-155021/up-first-newsletter-midterms-house-ai-stocks-poland-nato-cop31",
+    "published": "2026-11-23T12:42:03+00:00",
+    "event_id": "97e4769547f8",
+    "sources": [
+     {
+      "title": "Democrats win House by largest margin in 50 years. And, COP31 ends with no deal",
+      "summary": "Democrats won House control by the largest margin in 50 years, flipping up to 49 seats. COP31 climate talks concluded without a deal after running two days longer than scheduled.",
+      "lang": "en",
+      "source": "NPR World",
+      "url": "https://www.npr.org/2026/11/23/g-s1-155021/up-first-newsletter-midterms-house-ai-stocks-poland-nato-cop31",
+      "published": "2026-11-23T12:42:03+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "Trump administration deported US citizen to Mexico, DoJ admits in court",
+    "summary": "The Trump administration deported US citizen Brian Morales García to Mexico after wrongly identifying him as undocumented. He is seeking damages in federal court for the error.",
+    "lang": "en",
+    "source": "The Guardian World",
+    "url": "https://www.theguardian.com/us-news/2026/nov/23/trump-administration-deported-citizen-mexico",
+    "published": "2026-11-23T11:00:56+00:00",
+    "event_id": "0361d5737063",
+    "sources": [
+     {
+      "title": "Trump administration deported US citizen to Mexico, DoJ admits in court",
+      "summary": "The Trump administration deported US citizen Brian Morales García to Mexico after wrongly identifying him as undocumented. He is seeking damages in federal court for the error.",
+      "lang": "en",
+      "source": "The Guardian World",
+      "url": "https://www.theguardian.com/us-news/2026/nov/23/trump-administration-deported-citizen-mexico",
+      "published": "2026-11-23T11:00:56+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   }
+  ],
+  "economia|asia": [
+   {
+    "title": "India Working to Resolve Scotch Whisky Dispute, Official Says",
+    "summary": "India is working to resolve disputes over Scotch whisky shipments held at its ports. Commerce Secretary Rajesh Agrawal acknowledged the issue after importers raised concerns.",
+    "lang": "en",
+    "source": "Bloomberg Economics",
+    "url": "https://www.bloomberg.com/news/articles/2026-11-23/india-working-to-resolve-scotch-whisky-dispute-official-says",
+    "published": "2026-11-23T14:13:05+00:00",
+    "event_id": "1222d9c691ab",
+    "sources": [
+     {
+      "title": "India Working to Resolve Scotch Whisky Dispute, Official Says",
+      "summary": "India is working to resolve disputes over Scotch whisky shipments held at its ports. Commerce Secretary Rajesh Agrawal acknowledged the issue after importers raised concerns.",
+      "lang": "en",
+      "source": "Bloomberg Economics",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-23/india-working-to-resolve-scotch-whisky-dispute-official-says",
+      "published": "2026-11-23T14:13:05+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "India announces $1.6bn flood-recovery package for Nepal",
+    "summary": "India announced a $1.6 billion flood-recovery package for Nepal. The aid addresses significant damage from recent flooding in the neighboring country.",
+    "lang": "en",
+    "source": "Nikkei Asia",
+    "url": "https://asia.nikkei.com/politics/international-relations/india-announces-1.6bn-flood-recovery-package-for-nepal",
+    "published": null,
+    "event_id": "9fcc054ef08d",
+    "sources": [
+     {
+      "title": "India announces $1.6bn flood-recovery package for Nepal",
+      "summary": "India announced a $1.6 billion flood-recovery package for Nepal. The aid addresses significant damage from recent flooding in the neighboring country.",
+      "lang": "en",
+      "source": "Nikkei Asia",
+      "url": "https://asia.nikkei.com/politics/international-relations/india-announces-1.6bn-flood-recovery-package-for-nepal",
+      "published": null
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "US-India energy ties tighten as New Delhi snaps up Venezuelan oil",
+    "summary": "New Delhi is strengthening energy ties with the US while increasing Venezuelan oil imports. The strategy diversifies India's energy sources amid geopolitical shifts.",
+    "lang": "en",
+    "source": "Nikkei Asia",
+    "url": "https://asia.nikkei.com/business/energy/us-india-energy-ties-tighten-as-new-delhi-snaps-up-venezuelan-oil",
+    "published": null,
+    "event_id": "8dd4f84d4e85",
+    "sources": [
+     {
+      "title": "US-India energy ties tighten as New Delhi snaps up Venezuelan oil",
+      "summary": "New Delhi is strengthening energy ties with the US while increasing Venezuelan oil imports. The strategy diversifies India's energy sources amid geopolitical shifts.",
+      "lang": "en",
+      "source": "Nikkei Asia",
+      "url": "https://asia.nikkei.com/business/energy/us-india-energy-ties-tighten-as-new-delhi-snaps-up-venezuelan-oil",
+      "published": null
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   }
+  ],
+  "tecnologia|asia": [
+   {
+    "title": "台積電注入強心針，AI 長期看好先進製程持續供不應求",
+    "summary": "台積電表示全球AI需求與日俱增，長期展望持續看好先進製程供不應求。AI市場前景疑慮雖升高，但晶片代工需求依然強勁。",
+    "lang": "zh",
+    "source": "科技新報 TechNews",
+    "url": "https://technews.tw/2026/11/23/tsmc-boosts-ai-long-term-outlook-advanced-process-supply-shortages/",
+    "published": "2026-11-23T08:50:42+00:00",
+    "event_id": "665e15421fc2",
+    "sources": [
+     {
+      "title": "台積電注入強心針，AI 長期看好先進製程持續供不應求",
+      "summary": "台積電表示全球AI需求與日俱增，長期展望持續看好先進製程供不應求。AI市場前景疑慮雖升高，但晶片代工需求依然強勁。",
+      "lang": "zh",
+      "source": "科技新報 TechNews",
+      "url": "https://technews.tw/2026/11/23/tsmc-boosts-ai-long-term-outlook-advanced-process-supply-shortages/",
+      "published": "2026-11-23T08:50:42+00:00"
+     },
+     {
+      "title": "台積電侯永清：AI成長趨勢不變 未見客戶調整訂單或出貨",
+      "summary": "台積電資深副總經理侯永清表示，AI成長趨勢不變，半導體技術是推動AI成長的必要條件。目前未見客戶調整訂單或出貨。",
+      "lang": "zh",
+      "source": "經濟日報 台灣",
+      "url": "https://money.udn.com/money/story/5612/9896981",
+      "published": "2026-11-23T11:21:43+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "零時差攻擊鎖定 vCenter，中國駭客利用 VMware 漏洞竊取企業機密資料",
+    "summary": "Google威脅情報團隊報告指出，中國駭客利用VMware vCenter漏洞竊取企業機密資料。零時差攻擊鎖定關鍵虛擬化基礎設施。",
+    "lang": "zh",
+    "source": "科技新報 TechNews",
+    "url": "https://infosecu.technews.tw/2026/11/23/vmware-vulnerability-exploited-hackers-advance/",
+    "published": "2026-11-23T08:40:10+00:00",
+    "event_id": "cfcd8aa3b5fc",
+    "sources": [
+     {
+      "title": "零時差攻擊鎖定 vCenter，中國駭客利用 VMware 漏洞竊取企業機密資料",
+      "summary": "Google威脅情報團隊報告指出，中國駭客利用VMware vCenter漏洞竊取企業機密資料。零時差攻擊鎖定關鍵虛擬化基礎設施。",
+      "lang": "zh",
+      "source": "科技新報 TechNews",
+      "url": "https://infosecu.technews.tw/2026/11/23/vmware-vulnerability-exploited-hackers-advance/",
+      "published": "2026-11-23T08:40:10+00:00"
+     },
+     {
+      "title": "【資安日報】11月23日，東亞多所大學遭鎖定，中國駭客用AI攻擊框架Cairn發動攻擊，11分鐘內發現並利用醫療影像AI軟體零時差漏洞",
+      "summary": "中國駭客用AI攻擊框架Cairn在11分鐘內發現並利用醫療影像軟體零時差漏洞攻擊東亞多所大學。同時Apache Tomcat傳出重大漏洞。",
+      "lang": "zh",
+      "source": "iThome 台灣",
+      "url": "https://www.ithome.com.tw/news/180718",
+      "published": "2026-11-23T02:11:19+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "日本Tower Records電商網站外洩千萬筆會員個資，網購出貨下單受影響",
+    "summary": "日本Tower Records電商網站遭駭客入侵，外洩逾1,100萬筆會員個資及密碼。事件影響網購商品出貨及下單服務。",
+    "lang": "zh",
+    "source": "iThome 台灣",
+    "url": "https://www.ithome.com.tw/news/180717",
+    "published": "2026-11-23T02:11:00+00:00",
+    "event_id": "60e1f162cde9",
+    "sources": [
+     {
+      "title": "日本Tower Records電商網站外洩千萬筆會員個資，網購出貨下單受影響",
+      "summary": "日本Tower Records電商網站遭駭客入侵，外洩逾1,100萬筆會員個資及密碼。事件影響網購商品出貨及下單服務。",
+      "lang": "zh",
+      "source": "iThome 台灣",
+      "url": "https://www.ithome.com.tw/news/180717",
+      "published": "2026-11-23T02:11:00+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   }
+  ],
+  "tecnologia|europa": [
+   {
+    "title": "ECB expands acceptance of DLT-based assets as eligible Eurosystem collateral",
+    "summary": "The ECB expanded acceptance of digital ledger technology-based assets as eligible Eurosystem collateral. The move reflects growing recognition of blockchain-based financial instruments.",
+    "lang": "en",
+    "source": "BCE (notas de prensa)",
+    "url": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr261123~76b6f57b74.en.html",
+    "published": "2026-11-23T10:00:00+00:00",
+    "event_id": "97aff51dc296",
+    "sources": [
+     {
+      "title": "ECB expands acceptance of DLT-based assets as eligible Eurosystem collateral",
+      "summary": "The ECB expanded acceptance of digital ledger technology-based assets as eligible Eurosystem collateral. The move reflects growing recognition of blockchain-based financial instruments.",
+      "lang": "en",
+      "source": "BCE (notas de prensa)",
+      "url": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr261123~76b6f57b74.en.html",
+      "published": "2026-11-23T10:00:00+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "歐洲推動主權雲端漸具成效，美國超大規模雲端服務商仍主導市場",
+    "summary": "歐洲推動主權雲端漸具成效，各國政府和受監管產業採購雲端服務時已考量本土控制。美國超大規模雲端服務商仍主導全球市場。",
+    "lang": "zh",
+    "source": "科技新報 TechNews",
+    "url": "https://infosecu.technews.tw/2026/11/23/europe-push-for-digital-sovereignty-in-cloud-computing-gains-momentum/",
+    "published": "2026-11-23T09:00:32+00:00",
+    "event_id": "2ae053aab643",
+    "sources": [
+     {
+      "title": "歐洲推動主權雲端漸具成效，美國超大規模雲端服務商仍主導市場",
+      "summary": "歐洲推動主權雲端漸具成效，各國政府和受監管產業採購雲端服務時已考量本土控制。美國超大規模雲端服務商仍主導全球市場。",
+      "lang": "zh",
+      "source": "科技新報 TechNews",
+      "url": "https://infosecu.technews.tw/2026/11/23/europe-push-for-digital-sovereignty-in-cloud-computing-gains-momentum/",
+      "published": "2026-11-23T09:00:32+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "Dutch privacy authority urges consumers not to buy ‘pervert glasses’",
+    "summary": "The Dutch data protection agency warned consumers against buying smart wearables, citing privacy violations and safety concerns. The devices collect incorrect personal information and pose risks.",
+    "lang": "en",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/11/23/dutch-privacy-authority-urges-consumers-not-to-buy-pervert-glasses/",
+    "published": "2026-11-23T15:29:49+00:00",
+    "event_id": "423071d6f76d",
+    "sources": [
+     {
+      "title": "Dutch privacy authority urges consumers not to buy ‘pervert glasses’",
+      "summary": "The Dutch data protection agency warned consumers against buying smart wearables, citing privacy violations and safety concerns. The devices collect incorrect personal information and pose risks.",
+      "lang": "en",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/11/23/dutch-privacy-authority-urges-consumers-not-to-buy-pervert-glasses/",
+      "published": "2026-11-23T15:29:49+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   }
+  ],
+  "tecnologia|america": [
+   {
+    "title": "Nvidia reinstates Jensen Huang as chief executive",
+    "summary": "Nvidia's board reinstated Jensen Huang as CEO, reversing its earlier position on the co-founder. The decision sent the AI giant's share price soaring despite prior controversies.",
+    "lang": "en",
+    "source": "Financial Times",
+    "url": "https://www.ft.com/content/08914b05-bbfa-478d-b38a-549acfc1aae6?syn-25a6b1a6=1",
+    "published": "2026-11-23T15:43:06+00:00",
+    "event_id": "74b338c68d71",
+    "sources": [
+     {
+      "title": "Nvidia reinstates Jensen Huang as chief executive",
+      "summary": "Nvidia's board reinstated Jensen Huang as CEO, reversing its earlier position on the co-founder. The decision sent the AI giant's share price soaring despite prior controversies.",
+      "lang": "en",
+      "source": "Financial Times",
+      "url": "https://www.ft.com/content/08914b05-bbfa-478d-b38a-549acfc1aae6?syn-25a6b1a6=1",
+      "published": "2026-11-23T15:43:06+00:00"
+     },
+     {
+      "title": "Nvidia board reinstates Jensen Huang as CEO",
+      "summary": "Nvidia's board reinstated Jensen Huang as CEO after he stepped down over revelations of affairs including one with a suspected Chinese spy. The reversal signals confidence in his leadership.",
+      "lang": "en",
+      "source": "Al Jazeera English",
+      "url": "https://www.aljazeera.com/economy/2026/11/23/nvidia-board-reinstates-jensen-huang-as-ceo?traffic_source=rss",
+      "published": "2026-11-23T14:24:38+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "CrowdStrike to buy Zscaler in $44bn deal as cyber threats mount",
+    "summary": "CrowdStrike is acquiring Zscaler in a $44 billion all-stock deal as cyber threats escalate. Businesses and governments worldwide are addressing growing waves of tech outages.",
+    "lang": "en",
+    "source": "Financial Times",
+    "url": "https://www.ft.com/content/762bd05d-8e20-4abf-9bc5-4e6f9bf628cb?syn-25a6b1a6=1",
+    "published": "2026-11-23T11:02:10+00:00",
+    "event_id": "55d7c21b8df7",
+    "sources": [
+     {
+      "title": "CrowdStrike to buy Zscaler in $44bn deal as cyber threats mount",
+      "summary": "CrowdStrike is acquiring Zscaler in a $44 billion all-stock deal as cyber threats escalate. Businesses and governments worldwide are addressing growing waves of tech outages.",
+      "lang": "en",
+      "source": "Financial Times",
+      "url": "https://www.ft.com/content/762bd05d-8e20-4abf-9bc5-4e6f9bf628cb?syn-25a6b1a6=1",
+      "published": "2026-11-23T11:02:10+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "States Sue SpaceX Over Grok Deepfakes",
+    "summary": "Oregon and Virginia attorneys general sued Elon Musk's companies over weak safeguards against sexualized deepfakes. The lawsuit alleges insufficient protections for real people's images.",
+    "lang": "en",
+    "source": "Wired",
+    "url": "https://www.wired.com/story/states-sue-spacex-over-grok-deepfakes/",
+    "published": "2026-11-23T11:00:00+00:00",
+    "event_id": "c82dcfbd0de1",
+    "sources": [
+     {
+      "title": "States Sue SpaceX Over Grok Deepfakes",
+      "summary": "Oregon and Virginia attorneys general sued Elon Musk's companies over weak safeguards against sexualized deepfakes. The lawsuit alleges insufficient protections for real people's images.",
+      "lang": "en",
+      "source": "Wired",
+      "url": "https://www.wired.com/story/states-sue-spacex-over-grok-deepfakes/",
+      "published": "2026-11-23T11:00:00+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "美國規劃新建 1 GW 核電，結合地下 HVDC 跨區供電",
+    "summary": "美國核能開發商ONE Nuclear Energy宣布規劃新建1GW核電廠並結合地下HVDC跨區供電。應對AI資料中心及製造業用電需求。",
+    "lang": "zh",
+    "source": "科技新報 TechNews",
+    "url": "https://technews.tw/2026/11/23/us-plans-new-1-gw-nuclear-power-underground-hvdc-inter-regional-supply/",
+    "published": "2026-11-23T09:14:05+00:00",
+    "event_id": "74aaff0f1e46",
+    "sources": [
+     {
+      "title": "美國規劃新建 1 GW 核電，結合地下 HVDC 跨區供電",
+      "summary": "美國核能開發商ONE Nuclear Energy宣布規劃新建1GW核電廠並結合地下HVDC跨區供電。應對AI資料中心及製造業用電需求。",
+      "lang": "zh",
+      "source": "科技新報 TechNews",
+      "url": "https://technews.tw/2026/11/23/us-plans-new-1-gw-nuclear-power-underground-hvdc-inter-regional-supply/",
+      "published": "2026-11-23T09:14:05+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "How one router caused the worst ground stop since 9/11",
+    "summary": "A single router failure caused the worst aviation ground stop since 9/11, paralyzing US flights. The incident highlights critical infrastructure vulnerabilities in airport operations.",
+    "lang": "en",
+    "source": "The Verge",
+    "url": "https://www.theverge.com/podcast/1039215/faa-ground-stop-cause-trump-elon-musk-doge-airlines-safety",
+    "published": "2026-11-23T15:00:00+00:00",
+    "event_id": "004696e34f8c",
+    "sources": [
+     {
+      "title": "How one router caused the worst ground stop since 9/11",
+      "summary": "A single router failure caused the worst aviation ground stop since 9/11, paralyzing US flights. The incident highlights critical infrastructure vulnerabilities in airport operations.",
+      "lang": "en",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/podcast/1039215/faa-ground-stop-cause-trump-elon-musk-doge-airlines-safety",
+      "published": "2026-11-23T15:00:00+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   }
+  ],
+  "economia|america": [
+   {
+    "title": "Mexican Economy Grows Faster as Optimism for US Deal Rises",
+    "summary": "Mexico's economy grew at its fastest annual pace since 2023 in Q3, driven by strong exports. Trade optimism with the US continues to support economic expansion.",
+    "lang": "en",
+    "source": "Bloomberg Economics",
+    "url": "https://www.bloomberg.com/news/articles/2026-11-23/mexico-economy-sees-faster-growth-as-optimism-for-us-deal-rises",
+    "published": "2026-11-23T12:11:28+00:00",
+    "event_id": "d762451c7b6d",
+    "sources": [
+     {
+      "title": "Mexican Economy Grows Faster as Optimism for US Deal Rises",
+      "summary": "Mexico's economy grew at its fastest annual pace since 2023 in Q3, driven by strong exports. Trade optimism with the US continues to support economic expansion.",
+      "lang": "en",
+      "source": "Bloomberg Economics",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-23/mexico-economy-sees-faster-growth-as-optimism-for-us-deal-rises",
+      "published": "2026-11-23T12:11:28+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "US Stock Selloff Revives Question of a Fed ‘Put,’ This Time Under Warsh",
+    "summary": "US stock market volatility raises questions about Fed support as a December rate hike approaches. Market performance could influence Federal Reserve policy decisions.",
+    "lang": "en",
+    "source": "Bloomberg Economics",
+    "url": "https://www.bloomberg.com/news/newsletters/2026-11-23/us-stock-selloff-revives-question-of-a-fed-put-this-time-under-warsh",
+    "published": "2026-11-23T12:00:01+00:00",
+    "event_id": "99219061a413",
+    "sources": [
+     {
+      "title": "US Stock Selloff Revives Question of a Fed ‘Put,’ This Time Under Warsh",
+      "summary": "US stock market volatility raises questions about Fed support as a December rate hike approaches. Market performance could influence Federal Reserve policy decisions.",
+      "lang": "en",
+      "source": "Bloomberg Economics",
+      "url": "https://www.bloomberg.com/news/newsletters/2026-11-23/us-stock-selloff-revives-question-of-a-fed-put-this-time-under-warsh",
+      "published": "2026-11-23T12:00:01+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "Copper Slump Tests Kast’s Push to Rein In Chile’s Fiscal Deficit",
+    "summary": "Chile's fiscal deficit faces pressure as copper prices decline despite government efforts. Economic shocks have undermined reliance on commodity revenues for deficit reduction.",
+    "lang": "en",
+    "source": "Bloomberg Economics",
+    "url": "https://www.bloomberg.com/news/articles/2026-11-23/copper-slump-tests-kast-s-push-to-rein-in-chile-s-fiscal-deficit",
+    "published": "2026-11-23T11:00:00+00:00",
+    "event_id": "f602387f3efe",
+    "sources": [
+     {
+      "title": "Copper Slump Tests Kast’s Push to Rein In Chile’s Fiscal Deficit",
+      "summary": "Chile's fiscal deficit faces pressure as copper prices decline despite government efforts. Economic shocks have undermined reliance on commodity revenues for deficit reduction.",
+      "lang": "en",
+      "source": "Bloomberg Economics",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-23/copper-slump-tests-kast-s-push-to-rein-in-chile-s-fiscal-deficit",
+      "published": "2026-11-23T11:00:00+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   }
+  ],
+  "politica|asia": [
+   {
+    "title": "Iran says it will use ‘all available means’ to counter US blockade",
+    "summary": "Iran stated it will use all available means to counter US naval blockade and sanctions. The ministry pledged to defend against the economic siege through all tools.",
+    "lang": "en",
+    "source": "Al Jazeera English",
+    "url": "https://www.aljazeera.com/news/2026/11/23/iran-says-it-will-use-all-available-means-to-counter-us-blockade?traffic_source=rss",
+    "published": "2026-11-23T13:04:11+00:00",
+    "event_id": "ba920d31a5e0",
+    "sources": [
+     {
+      "title": "Iran says it will use ‘all available means’ to counter US blockade",
+      "summary": "Iran stated it will use all available means to counter US naval blockade and sanctions. The ministry pledged to defend against the economic siege through all tools.",
+      "lang": "en",
+      "source": "Al Jazeera English",
+      "url": "https://www.aljazeera.com/news/2026/11/23/iran-says-it-will-use-all-available-means-to-counter-us-blockade?traffic_source=rss",
+      "published": "2026-11-23T13:04:11+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "Tajikistan leaves International Criminal Court",
+    "summary": "Tajikistan withdrew from the International Criminal Court on the day of Putin's visit last week. The timing coincided with heightened Russian diplomatic activity.",
+    "lang": "en",
+    "source": "Le Monde International",
+    "url": "https://www.lemonde.fr/en/international/article/2026/11/23/tajikistan-leaves-international-criminal-court_6787332_4.html",
+    "published": "2026-11-23T15:06:11+00:00",
+    "event_id": "149f633c9010",
+    "sources": [
+     {
+      "title": "Tajikistan leaves International Criminal Court",
+      "summary": "Tajikistan withdrew from the International Criminal Court on the day of Putin's visit last week. The timing coincided with heightened Russian diplomatic activity.",
+      "lang": "en",
+      "source": "Le Monde International",
+      "url": "https://www.lemonde.fr/en/international/article/2026/11/23/tajikistan-leaves-international-criminal-court_6787332_4.html",
+      "published": "2026-11-23T15:06:11+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "Lebanese villagers return to wrecked homes as the Israeli army pulls back",
+    "summary": "Lebanese villagers are returning to wrecked homes as Israeli forces withdraw from southern Lebanon. A pilot project shows the Lebanese army has assumed control of the area.",
+    "lang": "en",
+    "source": "NPR World",
+    "url": "https://www.npr.org/2026/11/22/nx-s1-6048710/lebanon-israel-army-conflict-homes",
+    "published": "2026-11-22T17:44:52+00:00",
+    "event_id": "6a1969ce9110",
+    "sources": [
+     {
+      "title": "Lebanese villagers return to wrecked homes as the Israeli army pulls back",
+      "summary": "Lebanese villagers are returning to wrecked homes as Israeli forces withdraw from southern Lebanon. A pilot project shows the Lebanese army has assumed control of the area.",
+      "lang": "en",
+      "source": "NPR World",
+      "url": "https://www.npr.org/2026/11/22/nx-s1-6048710/lebanon-israel-army-conflict-homes",
+      "published": "2026-11-22T17:44:52+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "Nepal's new PM eyes closer ties with India amid lingering disputes",
+    "summary": "Nepal's new Prime Minister Balendra Shah is seeking closer ties with India on his first foreign bilateral visit. The rapper-turned-leader aims to deepen relations with Nepal's largest trading partner.",
+    "lang": "en",
+    "source": "Deutsche Welle World",
+    "url": "https://www.dw.com/en/nepal-s-new-pm-eyes-closer-ties-with-india-amid-lingering-disputes/a-80021769?maca=en-rss-en-world-4025-rdf",
+    "published": "2026-11-23T14:49:00+00:00",
+    "event_id": "d7ae748c89dc",
+    "sources": [
+     {
+      "title": "Nepal's new PM eyes closer ties with India amid lingering disputes",
+      "summary": "Nepal's new Prime Minister Balendra Shah is seeking closer ties with India on his first foreign bilateral visit. The rapper-turned-leader aims to deepen relations with Nepal's largest trading partner.",
+      "lang": "en",
+      "source": "Deutsche Welle World",
+      "url": "https://www.dw.com/en/nepal-s-new-pm-eyes-closer-ties-with-india-amid-lingering-disputes/a-80021769?maca=en-rss-en-world-4025-rdf",
+      "published": "2026-11-23T14:49:00+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "Russian warship hit by Ukrainian drones in Libya, Zelensky says",
+    "summary": "Ukrainian drones hit a Russian warship in Libya, according to Zelensky. The Kremlin warned of escalating regional tensions but declined to directly comment on the attacks.",
+    "lang": "en",
+    "source": "BBC World",
+    "url": "https://www.bbc.co.uk/news/articles/cr894gjz0j0yo?at_medium=RSS&at_campaign=rss",
+    "published": "2026-11-23T15:41:23+00:00",
+    "event_id": "2b2400015386",
+    "sources": [
+     {
+      "title": "Russian warship hit by Ukrainian drones in Libya, Zelensky says",
+      "summary": "Ukrainian drones hit a Russian warship in Libya, according to Zelensky. The Kremlin warned of escalating regional tensions but declined to directly comment on the attacks.",
+      "lang": "en",
+      "source": "BBC World",
+      "url": "https://www.bbc.co.uk/news/articles/cr894gjz0j0yo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-23T15:41:23+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   }
+  ]
+ }
+}
