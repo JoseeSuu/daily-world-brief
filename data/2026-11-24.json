@@ -1,0 +1,829 @@
+{
+ "date": "2026-11-24",
+ "generated_at": "2026-11-24T16:08:41.203639+00:00",
+ "mode": "full",
+ "cost_usd": 0.0472,
+ "selection": {
+  "model": "claude-haiku-5-5",
+  "effort": "high",
+  "passes": 3,
+  "passes_ok": 3,
+  "cost_usd": 0.018
+ },
+ "events": {
+  "mode": "full",
+  "compared_with": "2026-11-23",
+  "articles": 36,
+  "uncompared_articles": 0,
+  "events": 33,
+  "cost_usd": 0.018
+ },
+ "market": null,
+ "failed_sources": [
+  "The Guardian World",
+  "科技新報 TechNews"
+ ],
+ "cells": {
+  "economia|asia": [
+   {
+    "title": "China extends pause in controls on critical mineral exports to US",
+    "summary": "China extends pause on critical mineral export controls to the US, maintaining leverage over global supply chains amid Washington tensions.",
+    "lang": "en",
+    "source": "FT Global Economy",
+    "url": "https://www.ft.com/content/9104866d-f69e-497d-aeb9-f7e0db59f143?syn-25a6b1a6=1",
+    "published": "2026-11-24T10:21:16+00:00",
+    "event_id": "df9761961286",
+    "sources": [
+     {
+      "title": "China extends pause in controls on critical mineral exports to US",
+      "summary": "China extends pause on critical mineral export controls to the US, maintaining leverage over global supply chains amid Washington tensions.",
+      "lang": "en",
+      "source": "FT Global Economy",
+      "url": "https://www.ft.com/content/9104866d-f69e-497d-aeb9-f7e0db59f143?syn-25a6b1a6=1",
+      "published": "2026-11-24T10:21:16+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "Thailand vehicle production hits 6-year low after flooding",
+    "summary": "Thailand vehicle production hits six-year low following recent flooding, disrupting manufacturing capacity across the region.",
+    "lang": "en",
+    "source": "Nikkei Asia",
+    "url": "https://asia.nikkei.com/business/automobiles/thailand-vehicle-production-hits-6-year-low-after-flooding",
+    "published": null,
+    "event_id": "ce12ba5ca5ca",
+    "sources": [
+     {
+      "title": "Thailand vehicle production hits 6-year low after flooding",
+      "summary": "Thailand vehicle production hits six-year low following recent flooding, disrupting manufacturing capacity across the region.",
+      "lang": "en",
+      "source": "Nikkei Asia",
+      "url": "https://asia.nikkei.com/business/automobiles/thailand-vehicle-production-hits-6-year-low-after-flooding",
+      "published": null
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "Indonesia-EU trade deal sparks 'ambitious' hopes and transition concerns",
+    "summary": "Indonesia-EU trade deal sparks optimism about economic cooperation while raising concerns over transition challenges for both parties.",
+    "lang": "en",
+    "source": "Nikkei Asia",
+    "url": "https://asia.nikkei.com/economy/trade/indonesia-eu-trade-deal-sparks-ambitious-hopes-and-transition-concerns",
+    "published": null,
+    "event_id": "ff9100737284",
+    "sources": [
+     {
+      "title": "Indonesia-EU trade deal sparks 'ambitious' hopes and transition concerns",
+      "summary": "Indonesia-EU trade deal sparks optimism about economic cooperation while raising concerns over transition challenges for both parties.",
+      "lang": "en",
+      "source": "Nikkei Asia",
+      "url": "https://asia.nikkei.com/economy/trade/indonesia-eu-trade-deal-sparks-ambitious-hopes-and-transition-concerns",
+      "published": null
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   }
+  ],
+  "politica|asia": [
+   {
+    "title": "China’s probes Shanghai party chief Chen Jining over corruption",
+    "summary": "China investigates Shanghai party chief Chen Jining for corruption, the fourth Politburo member probed in anticorruption campaign.",
+    "lang": "en",
+    "source": "Al Jazeera English",
+    "url": "https://www.aljazeera.com/news/2026/11/24/xis-anti-corruption-campaign-targets-shanghai-party-chief-chen-jining?traffic_source=rss",
+    "published": "2026-11-24T15:26:50+00:00",
+    "event_id": "a5f0501335b1",
+    "sources": [
+     {
+      "title": "China’s probes Shanghai party chief Chen Jining over corruption",
+      "summary": "China investigates Shanghai party chief Chen Jining for corruption, the fourth Politburo member probed in anticorruption campaign.",
+      "lang": "en",
+      "source": "Al Jazeera English",
+      "url": "https://www.aljazeera.com/news/2026/11/24/xis-anti-corruption-campaign-targets-shanghai-party-chief-chen-jining?traffic_source=rss",
+      "published": "2026-11-24T15:26:50+00:00"
+     },
+     {
+      "title": "China places Shanghai party chief Chen Jining under investigation",
+      "summary": "Shanghai party chief Chen Jining placed under investigation, continuing anti-corruption campaign targeting top Chinese leaders.",
+      "lang": "en",
+      "source": "Nikkei Asia",
+      "url": "https://asia.nikkei.com/politics/china-places-shanghai-party-chief-chen-jining-under-investigation",
+      "published": null
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "Israeli air strike kills Hamas internal security chief in Gaza",
+    "summary": "Israeli air strike kills Hamas internal security chief Naeem Abu Nahel in Gaza among seven Palestinians reportedly killed Tuesday.",
+    "lang": "en",
+    "source": "BBC World",
+    "url": "https://www.bbc.co.uk/news/articles/c6rrg7ggq190o?at_medium=RSS&at_campaign=rss",
+    "published": "2026-11-24T15:35:53+00:00",
+    "event_id": "828037c2e0af",
+    "sources": [
+     {
+      "title": "Israeli air strike kills Hamas internal security chief in Gaza",
+      "summary": "Israeli air strike kills Hamas internal security chief Naeem Abu Nahel in Gaza among seven Palestinians reportedly killed Tuesday.",
+      "lang": "en",
+      "source": "BBC World",
+      "url": "https://www.bbc.co.uk/news/articles/c6rrg7ggq190o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-24T15:35:53+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "Malasia deportará a miles de rohinyás en diciembre pese a la condena por genocidio a Myanmar",
+    "summary": "Malasia deportará a miles de rohinyás en diciembre; Turquía rechaza acogerlos a pesar de la condena a Myanmar por genocidio.",
+    "lang": "es",
+    "source": "El País Internacional",
+    "url": "https://elpais.com/internacional/2026-11-24/malasia-devolvera-a-miles-de-rohinyas-en-diciembre-pese-a-la-condena-por-genocidio-a-myanmar.html",
+    "published": "2026-11-24T12:31:09+00:00",
+    "event_id": "460af99570b5",
+    "sources": [
+     {
+      "title": "Malasia deportará a miles de rohinyás en diciembre pese a la condena por genocidio a Myanmar",
+      "summary": "Malasia deportará a miles de rohinyás en diciembre; Turquía rechaza acogerlos a pesar de la condena a Myanmar por genocidio.",
+      "lang": "es",
+      "source": "El País Internacional",
+      "url": "https://elpais.com/internacional/2026-11-24/malasia-devolvera-a-miles-de-rohinyas-en-diciembre-pese-a-la-condena-por-genocidio-a-myanmar.html",
+      "published": "2026-11-24T12:31:09+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "After Japan's APEC snub, what's next for its China ties?",
+    "summary": "Japan faces frosty China relations after APEC snub linked to official Sanae Takaichi's Taiwan comments and military concerns.",
+    "lang": "en",
+    "source": "Deutsche Welle World",
+    "url": "https://www.dw.com/en/after-japan-s-apec-snub-what-s-next-for-its-china-ties/a-80020823?maca=en-rss-en-world-4025-rdf",
+    "published": "2026-11-23T15:57:00+00:00",
+    "event_id": "f943b78b7ada",
+    "sources": [
+     {
+      "title": "After Japan's APEC snub, what's next for its China ties?",
+      "summary": "Japan faces frosty China relations after APEC snub linked to official Sanae Takaichi's Taiwan comments and military concerns.",
+      "lang": "en",
+      "source": "Deutsche Welle World",
+      "url": "https://www.dw.com/en/after-japan-s-apec-snub-what-s-next-for-its-china-ties/a-80020823?maca=en-rss-en-world-4025-rdf",
+      "published": "2026-11-23T15:57:00+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   }
+  ],
+  "tecnologia|asia": [
+   {
+    "title": "China's Huawei says it has homegrown answer to US chip design tool curbs",
+    "summary": "Huawei announces homegrown alternative to US chip design tools, seeking to circumvent American export control restrictions.",
+    "lang": "en",
+    "source": "Nikkei Asia",
+    "url": "https://asia.nikkei.com/spotlight/huawei-crackdown/china-s-huawei-says-it-has-homegrown-answer-to-us-chip-design-tool-curbs",
+    "published": null,
+    "event_id": "a40eb355b068",
+    "sources": [
+     {
+      "title": "China's Huawei says it has homegrown answer to US chip design tool curbs",
+      "summary": "Huawei announces homegrown alternative to US chip design tools, seeking to circumvent American export control restrictions.",
+      "lang": "en",
+      "source": "Nikkei Asia",
+      "url": "https://asia.nikkei.com/spotlight/huawei-crackdown/china-s-huawei-says-it-has-homegrown-answer-to-us-chip-design-tool-curbs",
+      "published": null
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "韓國電力公社兩套系統遭入侵，約152萬人個資外洩，部分涉及銀行帳號及信用卡卡號",
+    "summary": "韩国电力公社11月22日披露两套系统遭入侵，152万人个资外泄，涉及银行账号和信用卡信息。",
+    "lang": "zh",
+    "source": "iThome 台灣",
+    "url": "https://www.ithome.com.tw/news/180753",
+    "published": "2026-11-24T04:11:08+00:00",
+    "event_id": "57a936a1d2d3",
+    "sources": [
+     {
+      "title": "韓國電力公社兩套系統遭入侵，約152萬人個資外洩，部分涉及銀行帳號及信用卡卡號",
+      "summary": "韩国电力公社11月22日披露两套系统遭入侵，152万人个资外泄，涉及银行账号和信用卡信息。",
+      "lang": "zh",
+      "source": "iThome 台灣",
+      "url": "https://www.ithome.com.tw/news/180753",
+      "published": "2026-11-24T04:11:08+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "China se hizo un hueco regalando sus modelos de IA. Para competir con OpenAI y Anthropic, Z.ai lanza GLM-5.4 primero de pago",
+    "summary": "Z.ai lanza GLM-5.4, su primer modelo de IA de pago, para competir con OpenAI y Anthropic tras estrategia previa de código abierto.",
+    "lang": "es",
+    "source": "Xataka",
+    "url": "https://www.xataka.com/robotica-e-ia/china-se-hizo-hueco-regalando-sus-modelos-ia-para-competir-openai-anthropic-z-ai-lanza-glm-5-4-primero-pago",
+    "published": "2026-11-24T15:30:59+00:00",
+    "event_id": "0df34705ca22",
+    "sources": [
+     {
+      "title": "China se hizo un hueco regalando sus modelos de IA. Para competir con OpenAI y Anthropic, Z.ai lanza GLM-5.4 primero de pago",
+      "summary": "Z.ai lanza GLM-5.4, su primer modelo de IA de pago, para competir con OpenAI y Anthropic tras estrategia previa de código abierto.",
+      "lang": "es",
+      "source": "Xataka",
+      "url": "https://www.xataka.com/robotica-e-ia/china-se-hizo-hueco-regalando-sus-modelos-ia-para-competir-openai-anthropic-z-ai-lanza-glm-5-4-primero-pago",
+      "published": "2026-11-24T15:30:59+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   }
+  ],
+  "economia|europa": [
+   {
+    "title": "Bruselas advierte a España de que se arriesga a un expediente de la UE si no contiene el gasto público",
+    "summary": "La Comisión Europea advierte a España que enfrenta un expediente por desviarse más de 5.000 millones de euros en gasto público respecto a sus compromisos fiscales.",
+    "lang": "es",
+    "source": "El País Economía",
+    "url": "https://elpais.com/economia/2026-11-24/bruselas-advierte-a-espana-de-que-se-arriesga-a-un-expediente-de-la-ue-si-no-contiene-el-gasto-publico.html",
+    "published": "2026-11-24T15:04:10+00:00",
+    "event_id": "3800508be917",
+    "sources": [
+     {
+      "title": "Bruselas advierte a España de que se arriesga a un expediente de la UE si no contiene el gasto público",
+      "summary": "La Comisión Europea advierte a España que enfrenta un expediente por desviarse más de 5.000 millones de euros en gasto público respecto a sus compromisos fiscales.",
+      "lang": "es",
+      "source": "El País Economía",
+      "url": "https://elpais.com/economia/2026-11-24/bruselas-advierte-a-espana-de-que-se-arriesga-a-un-expediente-de-la-ue-si-no-contiene-el-gasto-publico.html",
+      "published": "2026-11-24T15:04:10+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "EU Seeks to Fine Bulgaria On Deficit Months After Euro Entry",
+    "summary": "EU plans to fine Bulgaria for fiscal violations months after its euro entry, risking conflict with newest eurozone member.",
+    "lang": "en",
+    "source": "Bloomberg Economics",
+    "url": "https://www.bloomberg.com/news/articles/2026-11-24/eu-seeks-to-fine-bulgaria-over-deficit-months-after-euro-entry",
+    "published": "2026-11-24T14:13:04+00:00",
+    "event_id": "2461a9baadcb",
+    "sources": [
+     {
+      "title": "EU Seeks to Fine Bulgaria On Deficit Months After Euro Entry",
+      "summary": "EU plans to fine Bulgaria for fiscal violations months after its euro entry, risking conflict with newest eurozone member.",
+      "lang": "en",
+      "source": "Bloomberg Economics",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-24/eu-seeks-to-fine-bulgaria-over-deficit-months-after-euro-entry",
+      "published": "2026-11-24T14:13:04+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "LME Tightens Rules on Big Positions to Ease Aluminum Squeeze",
+    "summary": "London Metal Exchange tightens rules on large positions to address aluminum market squeeze affecting traders and supply chains.",
+    "lang": "en",
+    "source": "Bloomberg Markets",
+    "url": "https://www.bloomberg.com/news/articles/2026-11-24/lme-tightens-rules-on-big-positions-to-address-aluminum-squeeze",
+    "published": "2026-11-24T15:28:27+00:00",
+    "event_id": "0c51dc73ad28",
+    "sources": [
+     {
+      "title": "LME Tightens Rules on Big Positions to Ease Aluminum Squeeze",
+      "summary": "London Metal Exchange tightens rules on large positions to address aluminum market squeeze affecting traders and supply chains.",
+      "lang": "en",
+      "source": "Bloomberg Markets",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-24/lme-tightens-rules-on-big-positions-to-address-aluminum-squeeze",
+      "published": "2026-11-24T15:28:27+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "欧盟设进口配额：中国混动车每年最多35万辆",
+    "summary": "欧盟从12月起对中国混动车实施进口配额，年度上限35万辆，这项临时措施最长有效期200天。",
+    "lang": "zh",
+    "source": "德國之聲中文",
+    "url": "https://www.dw.com/zh/欧盟设进口配额：中国混动车每年最多35万辆/a-80034664?maca=chi-rss-chi-all-1127-rdf",
+    "published": "2026-11-24T13:57:00+00:00",
+    "event_id": "00e5fa60a8e3",
+    "sources": [
+     {
+      "title": "欧盟设进口配额：中国混动车每年最多35万辆",
+      "summary": "欧盟从12月起对中国混动车实施进口配额，年度上限35万辆，这项临时措施最长有效期200天。",
+      "lang": "zh",
+      "source": "德國之聲中文",
+      "url": "https://www.dw.com/zh/欧盟设进口配额：中国混动车每年最多35万辆/a-80034664?maca=chi-rss-chi-all-1127-rdf",
+      "published": "2026-11-24T13:57:00+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   }
+  ],
+  "economia|america": [
+   {
+    "title": "US Consumer Confidence Surges to Highest Since Early 2025",
+    "summary": "US consumer confidence surged in November to highest levels in nearly two years as optimism about economy and jobs increased.",
+    "lang": "en",
+    "source": "Bloomberg Economics",
+    "url": "https://www.bloomberg.com/news/articles/2026-11-24/us-consumer-confidence-surges-to-highest-since-early-2025",
+    "published": "2026-11-24T15:04:41+00:00",
+    "event_id": "ef82e2aca38b",
+    "sources": [
+     {
+      "title": "US Consumer Confidence Surges to Highest Since Early 2025",
+      "summary": "US consumer confidence surged in November to highest levels in nearly two years as optimism about economy and jobs increased.",
+      "lang": "en",
+      "source": "Bloomberg Economics",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-24/us-consumer-confidence-surges-to-highest-since-early-2025",
+      "published": "2026-11-24T15:04:41+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "Venezuela Unveils $237 Billion Debt Load Ahead of Restructuring",
+    "summary": "Venezuela discloses $237.5 billion public debt ahead of potential sovereign restructuring, one of history's largest debt renegotiations.",
+    "lang": "en",
+    "source": "Bloomberg Economics",
+    "url": "https://www.bloomberg.com/news/articles/2026-11-24/venezuela-unveils-237-billion-debt-load-ahead-of-restructuring",
+    "published": "2026-11-24T15:01:19+00:00",
+    "event_id": "7d0cf215c00e",
+    "sources": [
+     {
+      "title": "Venezuela Unveils $237 Billion Debt Load Ahead of Restructuring",
+      "summary": "Venezuela discloses $237.5 billion public debt ahead of potential sovereign restructuring, one of history's largest debt renegotiations.",
+      "lang": "en",
+      "source": "Bloomberg Economics",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-24/venezuela-unveils-237-billion-debt-load-ahead-of-restructuring",
+      "published": "2026-11-24T15:01:19+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "New Trump Tariffs Won’t Top Trade Deal Levels, Will Be Targeted",
+    "summary": "Trump's next tariff round will target specific economies rather than blanket application, staying below trade deal levels.",
+    "lang": "en",
+    "source": "Bloomberg Economics",
+    "url": "https://www.bloomberg.com/news/articles/2026-11-24/new-trump-tariffs-won-t-top-trade-deal-levels-will-be-targeted",
+    "published": "2026-11-24T15:45:27+00:00",
+    "event_id": "df88dd7e5f9d",
+    "sources": [
+     {
+      "title": "New Trump Tariffs Won’t Top Trade Deal Levels, Will Be Targeted",
+      "summary": "Trump's next tariff round will target specific economies rather than blanket application, staying below trade deal levels.",
+      "lang": "en",
+      "source": "Bloomberg Economics",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-24/new-trump-tariffs-won-t-top-trade-deal-levels-will-be-targeted",
+      "published": "2026-11-24T15:45:27+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   }
+  ],
+  "tecnologia|america": [
+   {
+    "title": "Anthropic Shares Plunge 6% Below IPO Price in Fourth Trading Day",
+    "summary": "Anthropic shares plunge 6% below $83 IPO price on fourth trading day, erasing gains from record-setting market debut.",
+    "lang": "en",
+    "source": "Bloomberg Markets",
+    "url": "https://www.bloomberg.com/news/articles/2026-11-24/anthropic-breaks-below-83-ipo-price-in-premarket-trading",
+    "published": "2026-11-24T11:19:24+00:00",
+    "event_id": "bc9058b8abe3",
+    "sources": [
+     {
+      "title": "Anthropic Shares Plunge 6% Below IPO Price in Fourth Trading Day",
+      "summary": "Anthropic shares plunge 6% below $83 IPO price on fourth trading day, erasing gains from record-setting market debut.",
+      "lang": "en",
+      "source": "Bloomberg Markets",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-24/anthropic-breaks-below-83-ipo-price-in-premarket-trading",
+      "published": "2026-11-24T11:19:24+00:00"
+     },
+     {
+      "title": "US tech stocks slide as Jensen Huang return rally fades",
+      "summary": "US tech stocks slide as investor relief over Nvidia CEO Jensen Huang's reinstatement fades, pressuring Anthropic shares.",
+      "lang": "en",
+      "source": "Financial Times",
+      "url": "https://www.ft.com/content/c0cb932a-076e-4471-8009-91749fde5f47?syn-25a6b1a6=1",
+      "published": "2026-11-24T15:34:56+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "Trump faces backlash after saying he 'convinced' Nvidia to reinstate CEO Jensen Huang",
+    "summary": "Trump faces backlash claiming he convinced Nvidia to reinstate CEO Jensen Huang, whose return added $1 trillion to company value.",
+    "lang": "en",
+    "source": "BBC World",
+    "url": "https://www.bbc.co.uk/news/articles/cq5y1k8ez407o?at_medium=RSS&at_campaign=rss",
+    "published": "2026-11-24T10:53:37+00:00",
+    "event_id": "74b338c68d71",
+    "sources": [
+     {
+      "title": "Trump faces backlash after saying he 'convinced' Nvidia to reinstate CEO Jensen Huang",
+      "summary": "Trump faces backlash claiming he convinced Nvidia to reinstate CEO Jensen Huang, whose return added $1 trillion to company value.",
+      "lang": "en",
+      "source": "BBC World",
+      "url": "https://www.bbc.co.uk/news/articles/cq5y1k8ez407o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-24T10:53:37+00:00"
+     }
+    ],
+    "status": "updated",
+    "change_summary": "Trump faces backlash after saying he 'convinced' Nvidia to reinstate CEO Jensen Huang",
+    "previous_date": "2026-11-23",
+    "previous_event_id": "74b338c68d71"
+   },
+   {
+    "title": "Megaspeed, the company at the center of the Jensen Huang scandal, appears headed for a US blacklist",
+    "summary": "Megaspeed, company led by Alice Huang linked to Jensen Huang scandal, faces US blacklist barring business with American firms.",
+    "lang": "en",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/11/23/megaspeed-the-company-at-the-center-of-the-jensen-huang-scandal-appears-headed-for-a-u-s-blacklist/",
+    "published": "2026-11-23T21:25:42+00:00",
+    "event_id": "9d1f6a725104",
+    "sources": [
+     {
+      "title": "Megaspeed, the company at the center of the Jensen Huang scandal, appears headed for a US blacklist",
+      "summary": "Megaspeed, company led by Alice Huang linked to Jensen Huang scandal, faces US blacklist barring business with American firms.",
+      "lang": "en",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/11/23/megaspeed-the-company-at-the-center-of-the-jensen-huang-scandal-appears-headed-for-a-u-s-blacklist/",
+      "published": "2026-11-23T21:25:42+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "Finding faster quantum algorithms with agents and formal verification",
+    "summary": "Google DeepMind uses agent teams and formal verification to develop faster quantum algorithms for fusion and chemistry applications.",
+    "lang": "en",
+    "source": "Google DeepMind Blog",
+    "url": "https://deepmind.google/blog/finding-faster-quantum-algorithms-with-agents-and-formal-verification/",
+    "published": "2026-11-23T16:59:40+00:00",
+    "event_id": "9dddeb89e408",
+    "sources": [
+     {
+      "title": "Finding faster quantum algorithms with agents and formal verification",
+      "summary": "Google DeepMind uses agent teams and formal verification to develop faster quantum algorithms for fusion and chemistry applications.",
+      "lang": "en",
+      "source": "Google DeepMind Blog",
+      "url": "https://deepmind.google/blog/finding-faster-quantum-algorithms-with-agents-and-formal-verification/",
+      "published": "2026-11-23T16:59:40+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "States sue SpaceX to stop Grok from generating child sex images, revenge porn",
+    "summary": "State attorneys general sue SpaceX claiming Grok generates child sexual abuse material and revenge porn despite X's screening claims.",
+    "lang": "en",
+    "source": "Ars Technica",
+    "url": "https://arstechnica.com/tech-policy/2026/11/states-sue-spacex-to-stop-grok-from-generating-child-sex-images-revenge-porn/",
+    "published": "2026-11-23T21:30:44+00:00",
+    "event_id": "c82dcfbd0de1",
+    "sources": [
+     {
+      "title": "States sue SpaceX to stop Grok from generating child sex images, revenge porn",
+      "summary": "State attorneys general sue SpaceX claiming Grok generates child sexual abuse material and revenge porn despite X's screening claims.",
+      "lang": "en",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/tech-policy/2026/11/states-sue-spacex-to-stop-grok-from-generating-child-sex-images-revenge-porn/",
+      "published": "2026-11-23T21:30:44+00:00"
+     }
+    ],
+    "status": "updated",
+    "change_summary": "States sue SpaceX to stop Grok from generating child sex images, revenge porn",
+    "previous_date": "2026-11-23",
+    "previous_event_id": "c82dcfbd0de1"
+   },
+   {
+    "title": "Uber, Nuro, and Lucid kick off fully driverless robotaxi testing",
+    "summary": "Uber, Nuro, and Lucid launch fully driverless robotaxi testing in San Francisco Bay Area, eliminating human safety operators.",
+    "lang": "en",
+    "source": "The Verge",
+    "url": "https://www.theverge.com/transportation/1040676/uber-nuro-lucid-driverless-robotaxi-testing-bay-area",
+    "published": "2026-11-24T13:00:00+00:00",
+    "event_id": "834b0144ccd8",
+    "sources": [
+     {
+      "title": "Uber, Nuro, and Lucid kick off fully driverless robotaxi testing",
+      "summary": "Uber, Nuro, and Lucid launch fully driverless robotaxi testing in San Francisco Bay Area, eliminating human safety operators.",
+      "lang": "en",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/transportation/1040676/uber-nuro-lucid-driverless-robotaxi-testing-bay-area",
+      "published": "2026-11-24T13:00:00+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "【資安日報】11月24日，CrowdStrike以439億美元併購Zscaler，創下資安界交易紀錄",
+    "summary": "CrowdStrike以439亿美元并购Zscaler，创下网络安全行业并购交易记录新高。",
+    "lang": "zh",
+    "source": "iThome 台灣",
+    "url": "https://www.ithome.com.tw/news/180756",
+    "published": "2026-11-24T02:11:26+00:00",
+    "event_id": "55d7c21b8df7",
+    "sources": [
+     {
+      "title": "【資安日報】11月24日，CrowdStrike以439億美元併購Zscaler，創下資安界交易紀錄",
+      "summary": "CrowdStrike以439亿美元并购Zscaler，创下网络安全行业并购交易记录新高。",
+      "lang": "zh",
+      "source": "iThome 台灣",
+      "url": "https://www.ithome.com.tw/news/180756",
+      "published": "2026-11-24T02:11:26+00:00"
+     }
+    ],
+    "status": "updated",
+    "change_summary": "CrowdStrike以439億美元併購Zscaler，創下資安界交易紀錄",
+    "previous_date": "2026-11-23",
+    "previous_event_id": "55d7c21b8df7"
+   },
+   {
+    "title": "Amazon says hackers' AI agents found and exploited 0-day with little human input",
+    "summary": "Amazon reports hackers' AI agents discovered and exploited zero-day vulnerabilities with minimal human input using Cairn AI framework.",
+    "lang": "en",
+    "source": "Ars Technica",
+    "url": "https://arstechnica.com/security/2026/11/amazon-says-hackers-ai-agents-found-and-exploited-0-day-with-little-human-input/",
+    "published": "2026-11-24T12:30:05+00:00",
+    "event_id": "21c67f84759f",
+    "sources": [
+     {
+      "title": "Amazon says hackers' AI agents found and exploited 0-day with little human input",
+      "summary": "Amazon reports hackers' AI agents discovered and exploited zero-day vulnerabilities with minimal human input using Cairn AI framework.",
+      "lang": "en",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/security/2026/11/amazon-says-hackers-ai-agents-found-and-exploited-0-day-with-little-human-input/",
+      "published": "2026-11-24T12:30:05+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   }
+  ],
+  "politica|europa": [
+   {
+    "title": "Nato chief vows defence against space threat after Russian nuclear satellite reports",
+    "summary": "NATO chief vows defense against space threats after German media reports Russia planning nuclear-armed satellite launch.",
+    "lang": "en",
+    "source": "BBC World",
+    "url": "https://www.bbc.co.uk/news/articles/c9x2er1ry2mzo?at_medium=RSS&at_campaign=rss",
+    "published": "2026-11-24T10:58:51+00:00",
+    "event_id": "9e8a6a2e3dbf",
+    "sources": [
+     {
+      "title": "Nato chief vows defence against space threat after Russian nuclear satellite reports",
+      "summary": "NATO chief vows defense against space threats after German media reports Russia planning nuclear-armed satellite launch.",
+      "lang": "en",
+      "source": "BBC World",
+      "url": "https://www.bbc.co.uk/news/articles/c9x2er1ry2mzo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-24T10:58:51+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "UK PM Andy Burnham says rejoining EU without referendum would be 'unthinkable'",
+    "summary": "UK PM Andy Burnham says rejoining EU without referendum would be unthinkable, though recently floating possibility of British reapplication.",
+    "lang": "en",
+    "source": "Le Monde International",
+    "url": "https://www.lemonde.fr/en/international/article/2026/11/24/uk-pm-andy-burnham-says-rejoining-eu-without-referendum-would-be-unthinkable_6787420_4.html",
+    "published": "2026-11-24T00:00:39+00:00",
+    "event_id": "d00914b26cc4",
+    "sources": [
+     {
+      "title": "UK PM Andy Burnham says rejoining EU without referendum would be 'unthinkable'",
+      "summary": "UK PM Andy Burnham says rejoining EU without referendum would be unthinkable, though recently floating possibility of British reapplication.",
+      "lang": "en",
+      "source": "Le Monde International",
+      "url": "https://www.lemonde.fr/en/international/article/2026/11/24/uk-pm-andy-burnham-says-rejoining-eu-without-referendum-would-be-unthinkable_6787420_4.html",
+      "published": "2026-11-24T00:00:39+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "德国总理默茨：2008年没让乌克兰加入北约是个错误，否則俄烏戰爭可能得以避免",
+    "summary": "德国总理默茨表示，2008年未让乌克兰加入北约是错误，否则可能避免俄乌战争。",
+    "lang": "zh",
+    "source": "德國之聲中文",
+    "url": "https://www.dw.com/zh/德国总理默茨：2008年没让乌克兰加入北约是个错误，否則俄烏戰爭可能得以避免/a-80031783?maca=chi-rss-chi-all-1127-rdf",
+    "published": "2026-11-24T10:47:00+00:00",
+    "event_id": "f8a11251d0a2",
+    "sources": [
+     {
+      "title": "德国总理默茨：2008年没让乌克兰加入北约是个错误，否則俄烏戰爭可能得以避免",
+      "summary": "德国总理默茨表示，2008年未让乌克兰加入北约是错误，否则可能避免俄乌战争。",
+      "lang": "zh",
+      "source": "德國之聲中文",
+      "url": "https://www.dw.com/zh/德国总理默茨：2008年没让乌克兰加入北约是个错误，否則俄烏戰爭可能得以避免/a-80031783?maca=chi-rss-chi-all-1127-rdf",
+      "published": "2026-11-24T10:47:00+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "Russian incursions into NATO territory are increasing",
+    "summary": "Russian cruise missiles landed in Poland, prompting NATO Secretary General Rutte to reassure eastern European members over increasing incursions.",
+    "lang": "en",
+    "source": "NPR World",
+    "url": "https://www.npr.org/2026/11/23/nx-s1-6051013/russian-incursions-into-nato-territory-are-increasing",
+    "published": "2026-11-23T23:08:51+00:00",
+    "event_id": "60825bb1955b",
+    "sources": [
+     {
+      "title": "Russian incursions into NATO territory are increasing",
+      "summary": "Russian cruise missiles landed in Poland, prompting NATO Secretary General Rutte to reassure eastern European members over increasing incursions.",
+      "lang": "en",
+      "source": "NPR World",
+      "url": "https://www.npr.org/2026/11/23/nx-s1-6051013/russian-incursions-into-nato-territory-are-increasing",
+      "published": "2026-11-23T23:08:51+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "Ukraine sinks Russian warship, strikes cargo ships from Mediterranean to Baltic",
+    "summary": "Ukraine sinks Russian missile corvette and strikes cargo ships from Mediterranean to Baltic in ongoing naval warfare campaign.",
+    "lang": "en",
+    "source": "Ars Technica",
+    "url": "https://arstechnica.com/gadgets/2026/11/ukraines-sea-drones-blow-up-russian-warship-in-benghazi-operation/",
+    "published": "2026-11-24T12:00:57+00:00",
+    "event_id": "17727117d1d0",
+    "sources": [
+     {
+      "title": "Ukraine sinks Russian warship, strikes cargo ships from Mediterranean to Baltic",
+      "summary": "Ukraine sinks Russian missile corvette and strikes cargo ships from Mediterranean to Baltic in ongoing naval warfare campaign.",
+      "lang": "en",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/gadgets/2026/11/ukraines-sea-drones-blow-up-russian-warship-in-benghazi-operation/",
+      "published": "2026-11-24T12:00:57+00:00"
+     }
+    ],
+    "status": "updated",
+    "change_summary": "Ukraine sinks Russian warship, strikes cargo ships from Mediterranean to Baltic",
+    "previous_date": "2026-11-23",
+    "previous_event_id": "17727117d1d0"
+   }
+  ],
+  "politica|america": [
+   {
+    "title": "Car bomb tears through Colombian city wounding more than 20",
+    "summary": "Car bomb explodes in Colombian city wounding over 20, latest attack targeting security forces and government buildings.",
+    "lang": "en",
+    "source": "BBC World",
+    "url": "https://www.bbc.co.uk/news/articles/cjqlq2n4np7do?at_medium=RSS&at_campaign=rss",
+    "published": "2026-11-24T11:45:52+00:00",
+    "event_id": "52c4d0168f9a",
+    "sources": [
+     {
+      "title": "Car bomb tears through Colombian city wounding more than 20",
+      "summary": "Car bomb explodes in Colombian city wounding over 20, latest attack targeting security forces and government buildings.",
+      "lang": "en",
+      "source": "BBC World",
+      "url": "https://www.bbc.co.uk/news/articles/cjqlq2n4np7do?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-24T11:45:52+00:00"
+     },
+     {
+      "title": "Cúcuta se convierte en la primera capital departamental de Colombia atacada con drones",
+      "summary": "Cúcuta es atacada con drones en el Comando de la Policía, primer ataque de este tipo en una capital departamental colombiana.",
+      "lang": "es",
+      "source": "El País Internacional",
+      "url": "https://elpais.com/america-colombia/2026-11-23/cucuta-se-convierte-en-la-primera-capital-departamental-de-colombia-atacada-con-drones.html",
+      "published": "2026-11-23T16:53:56+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "Democrats win House by largest margin in 50 years. And, COP31 ends with no deal",
+    "summary": "Democrats win House by largest margin in 50 years; COP31 ends without deal after becoming longest climate conference ever.",
+    "lang": "en",
+    "source": "NPR World",
+    "url": "https://www.npr.org/2026/11/23/g-s1-155021/up-first-newsletter-midterms-house-ai-stocks-poland-nato-cop31",
+    "published": "2026-11-23T12:42:03+00:00",
+    "event_id": "97e4769547f8",
+    "sources": [
+     {
+      "title": "Democrats win House by largest margin in 50 years. And, COP31 ends with no deal",
+      "summary": "Democrats win House by largest margin in 50 years; COP31 ends without deal after becoming longest climate conference ever.",
+      "lang": "en",
+      "source": "NPR World",
+      "url": "https://www.npr.org/2026/11/23/g-s1-155021/up-first-newsletter-midterms-house-ai-stocks-poland-nato-cop31",
+      "published": "2026-11-23T12:42:03+00:00"
+     }
+    ],
+    "status": "unchanged",
+    "change_summary": "",
+    "previous_date": "2026-11-23",
+    "previous_event_id": "97e4769547f8"
+   }
+  ],
+  "tecnologia|europa": [
+   {
+    "title": "挪威天然氣與電力公司遭駭，當局指出攻擊者利用Azure API管理服務漏洞得逞",
+    "summary": "挪威能源公司Equinor和Skagerak Energi在11月遭网络攻击，攻击者利用Azure API管理服务漏洞得逞。",
+    "lang": "zh",
+    "source": "iThome 台灣",
+    "url": "https://www.ithome.com.tw/news/180758",
+    "published": "2026-11-24T04:11:39+00:00",
+    "event_id": "2eefaa5ba60d",
+    "sources": [
+     {
+      "title": "挪威天然氣與電力公司遭駭，當局指出攻擊者利用Azure API管理服務漏洞得逞",
+      "summary": "挪威能源公司Equinor和Skagerak Energi在11月遭网络攻击，攻击者利用Azure API管理服务漏洞得逞。",
+      "lang": "zh",
+      "source": "iThome 台灣",
+      "url": "https://www.ithome.com.tw/news/180758",
+      "published": "2026-11-24T04:11:39+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   }
+  ]
+ }
+}
