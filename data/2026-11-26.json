@@ -1,0 +1,866 @@
+{
+ "date": "2026-11-26",
+ "generated_at": "2026-11-26T15:37:13.001696+00:00",
+ "mode": "full",
+ "cost_usd": 0.0468,
+ "selection": {
+  "model": "claude-haiku-5-5",
+  "effort": "high",
+  "passes": 3,
+  "passes_ok": 3,
+  "cost_usd": 0.0196
+ },
+ "events": {
+  "mode": "full",
+  "compared_with": null,
+  "articles": 37,
+  "uncompared_articles": 0,
+  "events": 35,
+  "cost_usd": 0.0149
+ },
+ "market": null,
+ "failed_sources": [
+  "The Guardian World"
+ ],
+ "cells": {
+  "tecnologia|asia": [
+   {
+    "title": "Nvidia halts chip shipments to south-east Asia",
+    "summary": "Nvidia halted chip shipments to Southeast Asia as the US tightens export controls to block Chinese access to AI computing power.",
+    "lang": "en",
+    "source": "Financial Times",
+    "url": "https://www.ft.com/content/7838a715-07d4-4605-aa60-21f5af2b2370?syn-25a6b1a6=1",
+    "published": "2026-11-26T05:00:19+00:00",
+    "event_id": "b63ff3c4fd00",
+    "sources": [
+     {
+      "title": "Nvidia halts chip shipments to south-east Asia",
+      "summary": "Nvidia halted chip shipments to Southeast Asia as the US tightens export controls to block Chinese access to AI computing power.",
+      "lang": "en",
+      "source": "Financial Times",
+      "url": "https://www.ft.com/content/7838a715-07d4-4605-aa60-21f5af2b2370?syn-25a6b1a6=1",
+      "published": "2026-11-26T05:00:19+00:00"
+     },
+     {
+      "title": "美祭先進 AI 晶片新管制，亞洲資料中心融資市場急踩煞車",
+      "summary": "美国对先进AI芯片祭出新出口限制，导致亚洲数据中心融资市场融资机构重新审视放贷政策。",
+      "lang": "zh",
+      "source": "科技新報 TechNews",
+      "url": "https://finance.technews.tw/2026/11/26/us-chip-controls-impact-asian-financing/",
+      "published": "2026-11-26T08:50:57+00:00"
+     }
+    ],
+    "status": "uncompared",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   }
+  ],
+  "economia|asia": [
+   {
+    "title": "Asia rejects basis of new Trump tariffs as US gathers China ammunition",
+    "summary": "Asian countries reject the rationale behind Trump's new tariffs as the US prepares additional measures targeting China.",
+    "lang": "en",
+    "source": "Nikkei Asia",
+    "url": "https://asia.nikkei.com/economy/trade-war/trump-tariffs/asia-rejects-basis-of-new-trump-tariffs-as-us-gathers-china-ammunition",
+    "published": null,
+    "event_id": "d80d9b00cd45",
+    "sources": [
+     {
+      "title": "Asia rejects basis of new Trump tariffs as US gathers China ammunition",
+      "summary": "Asian countries reject the rationale behind Trump's new tariffs as the US prepares additional measures targeting China.",
+      "lang": "en",
+      "source": "Nikkei Asia",
+      "url": "https://asia.nikkei.com/economy/trade-war/trump-tariffs/asia-rejects-basis-of-new-trump-tariffs-as-us-gathers-china-ammunition",
+      "published": null
+     }
+    ],
+    "status": "uncompared",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "36% minimum wage hike tests Bangladesh garment sector's low-cost model",
+    "summary": "Bangladesh faces a 36% minimum wage increase that tests the garment sector's low-cost manufacturing model.",
+    "lang": "en",
+    "source": "Nikkei Asia",
+    "url": "https://asia.nikkei.com/spotlight/work/36-minimum-wage-hike-tests-bangladesh-garment-sector-s-low-cost-model",
+    "published": null,
+    "event_id": "4b400efefbf2",
+    "sources": [
+     {
+      "title": "36% minimum wage hike tests Bangladesh garment sector's low-cost model",
+      "summary": "Bangladesh faces a 36% minimum wage increase that tests the garment sector's low-cost manufacturing model.",
+      "lang": "en",
+      "source": "Nikkei Asia",
+      "url": "https://asia.nikkei.com/spotlight/work/36-minimum-wage-hike-tests-bangladesh-garment-sector-s-low-cost-model",
+      "published": null
+     }
+    ],
+    "status": "uncompared",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "The fall of China’s most trusted wealth manager",
+    "summary": "CreditEase, China's most trusted wealth manager, collapsed after years of financial instability.",
+    "lang": "en",
+    "source": "The Economist (Finance)",
+    "url": "https://www.economist.com/finance-and-economics/2026/11/26/the-fall-of-chinas-most-trusted-wealth-manager",
+    "published": "2026-11-26T09:47:52+00:00",
+    "event_id": "915275fcbb81",
+    "sources": [
+     {
+      "title": "The fall of China’s most trusted wealth manager",
+      "summary": "CreditEase, China's most trusted wealth manager, collapsed after years of financial instability.",
+      "lang": "en",
+      "source": "The Economist (Finance)",
+      "url": "https://www.economist.com/finance-and-economics/2026/11/26/the-fall-of-chinas-most-trusted-wealth-manager",
+      "published": "2026-11-26T09:47:52+00:00"
+     }
+    ],
+    "status": "uncompared",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   }
+  ],
+  "politica|europa": [
+   {
+    "title": "Pablo Hernández de Cos wins race for ECB presidency",
+    "summary": "Spanish economist Pablo Hernández de Cos won the ECB presidency race after the Dutch government withdrew support for rival candidate Klaas Knot.",
+    "lang": "en",
+    "source": "Financial Times",
+    "url": "https://www.ft.com/content/88a0691a-6ce8-4c97-abf4-7aee0351fd51?syn-25a6b1a6=1",
+    "published": "2026-11-26T14:44:13+00:00",
+    "event_id": "6fce9372b8c9",
+    "sources": [
+     {
+      "title": "Pablo Hernández de Cos wins race for ECB presidency",
+      "summary": "Spanish economist Pablo Hernández de Cos won the ECB presidency race after the Dutch government withdrew support for rival candidate Klaas Knot.",
+      "lang": "en",
+      "source": "Financial Times",
+      "url": "https://www.ft.com/content/88a0691a-6ce8-4c97-abf4-7aee0351fd51?syn-25a6b1a6=1",
+      "published": "2026-11-26T14:44:13+00:00"
+     }
+    ],
+    "status": "uncompared",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "塞爾維亞宣布提前總統大選 定於12月27日舉行",
+    "summary": "塞尔维亚宣布12月27日举行总统大选。因宪法限制，武契奇今年9月辞职后不再符合参选资格。",
+    "lang": "zh",
+    "source": "中央社 CNA",
+    "url": "https://www.cna.com.tw/news/aopl/202611260315.aspx",
+    "published": "2026-11-26T14:24:19+00:00",
+    "event_id": "86350c9414a0",
+    "sources": [
+     {
+      "title": "塞爾維亞宣布提前總統大選 定於12月27日舉行",
+      "summary": "塞尔维亚宣布12月27日举行总统大选。因宪法限制，武契奇今年9月辞职后不再符合参选资格。",
+      "lang": "zh",
+      "source": "中央社 CNA",
+      "url": "https://www.cna.com.tw/news/aopl/202611260315.aspx",
+      "published": "2026-11-26T14:24:19+00:00"
+     }
+    ],
+    "status": "uncompared",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "War in Ukraine: Europeans ready to talk with Putin to advance vision for security architecture",
+    "summary": "European leaders are prepared to engage in talks with Putin to advance a new security architecture, though they expect no near-term peace.",
+    "lang": "en",
+    "source": "Le Monde International",
+    "url": "https://www.lemonde.fr/en/international/article/2026/11/26/war-in-ukraine-europeans-ready-to-talk-to-vladimir-putin-to-advance-their-vision-for-europe-s-security-architecture_6788806_4.html",
+    "published": "2026-11-26T04:37:45+00:00",
+    "event_id": "df503f3bc122",
+    "sources": [
+     {
+      "title": "War in Ukraine: Europeans ready to talk with Putin to advance vision for security architecture",
+      "summary": "European leaders are prepared to engage in talks with Putin to advance a new security architecture, though they expect no near-term peace.",
+      "lang": "en",
+      "source": "Le Monde International",
+      "url": "https://www.lemonde.fr/en/international/article/2026/11/26/war-in-ukraine-europeans-ready-to-talk-to-vladimir-putin-to-advance-their-vision-for-europe-s-security-architecture_6788806_4.html",
+      "published": "2026-11-26T04:37:45+00:00"
+     }
+    ],
+    "status": "uncompared",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "Russia-Ukraine war extends to the Baltic and the Mediterranean",
+    "summary": "Ukraine is extending military operations to the Baltic and Mediterranean to pressure Russia and signal resolve to Western allies.",
+    "lang": "en",
+    "source": "Deutsche Welle World",
+    "url": "https://www.dw.com/en/russia-ukraine-war-extends-to-the-baltic-and-the-mediterranean/a-80054604?maca=en-rss-en-world-4025-rdf",
+    "published": "2026-11-26T09:27:00+00:00",
+    "event_id": "1e611b7ccc82",
+    "sources": [
+     {
+      "title": "Russia-Ukraine war extends to the Baltic and the Mediterranean",
+      "summary": "Ukraine is extending military operations to the Baltic and Mediterranean to pressure Russia and signal resolve to Western allies.",
+      "lang": "en",
+      "source": "Deutsche Welle World",
+      "url": "https://www.dw.com/en/russia-ukraine-war-extends-to-the-baltic-and-the-mediterranean/a-80054604?maca=en-rss-en-world-4025-rdf",
+      "published": "2026-11-26T09:27:00+00:00"
+     }
+    ],
+    "status": "uncompared",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "UK net migration falls to 77,000, lowest annual level in nearly 30 years",
+    "summary": "UK net migration fell to 77,000 for the year to June, the lowest annual level in nearly 30 years excluding the Covid period.",
+    "lang": "en",
+    "source": "South China Morning Post (Asia)",
+    "url": "https://www.scmp.com/news/world/europe/article/3375952/uk-net-migration-falls-77000-lowest-annual-level-nearly-30-years",
+    "published": "2026-11-26T13:19:28+00:00",
+    "event_id": "c00e982b5d56",
+    "sources": [
+     {
+      "title": "UK net migration falls to 77,000, lowest annual level in nearly 30 years",
+      "summary": "UK net migration fell to 77,000 for the year to June, the lowest annual level in nearly 30 years excluding the Covid period.",
+      "lang": "en",
+      "source": "South China Morning Post (Asia)",
+      "url": "https://www.scmp.com/news/world/europe/article/3375952/uk-net-migration-falls-77000-lowest-annual-level-nearly-30-years",
+      "published": "2026-11-26T13:19:28+00:00"
+     }
+    ],
+    "status": "uncompared",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "German boat dealer suspected of supplying Channel smuggling gangs, BBC finds",
+    "summary": "A German boat dealer is suspected of supplying vessels and engines to Channel smuggling gangs for nearly a third of early 2026 crossings.",
+    "lang": "en",
+    "source": "BBC World",
+    "url": "https://www.bbc.co.uk/news/articles/cqlymky8kpzjo?at_medium=RSS&at_campaign=rss",
+    "published": "2026-11-26T05:00:24+00:00",
+    "event_id": "7de60dcaa7ca",
+    "sources": [
+     {
+      "title": "German boat dealer suspected of supplying Channel smuggling gangs, BBC finds",
+      "summary": "A German boat dealer is suspected of supplying vessels and engines to Channel smuggling gangs for nearly a third of early 2026 crossings.",
+      "lang": "en",
+      "source": "BBC World",
+      "url": "https://www.bbc.co.uk/news/articles/cqlymky8kpzjo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-26T05:00:24+00:00"
+     }
+    ],
+    "status": "uncompared",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   }
+  ],
+  "economia|europa": [
+   {
+    "title": "BOE Bank Capital-Cut Proposal to Free Up About £100 Billion",
+    "summary": "The Bank of England proposed capital requirement cuts of 30 basis points to free up £100 billion for UK lenders.",
+    "lang": "en",
+    "source": "Bloomberg Economics",
+    "url": "https://www.bloomberg.com/news/articles/2026-11-26/boe-proposes-30-basis-point-cut-to-uk-bank-capital-requirements",
+    "published": "2026-11-26T10:33:26+00:00",
+    "event_id": "75106430fb3e",
+    "sources": [
+     {
+      "title": "BOE Bank Capital-Cut Proposal to Free Up About £100 Billion",
+      "summary": "The Bank of England proposed capital requirement cuts of 30 basis points to free up £100 billion for UK lenders.",
+      "lang": "en",
+      "source": "Bloomberg Economics",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-26/boe-proposes-30-basis-point-cut-to-uk-bank-capital-requirements",
+      "published": "2026-11-26T10:33:26+00:00"
+     }
+    ],
+    "status": "uncompared",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "UK inflation may peak at lower rate than BoE forecast, says governor",
+    "summary": "UK inflation may peak lower than the Bank of England forecast, though governor Andrew Bailey did not rule out another rate increase next month.",
+    "lang": "en",
+    "source": "FT Global Economy",
+    "url": "https://www.ft.com/content/402e640b-8933-4b3c-bb4c-ce12a7994ac6?syn-25a6b1a6=1",
+    "published": "2026-11-25T17:55:48+00:00",
+    "event_id": "ac82f24dbfc6",
+    "sources": [
+     {
+      "title": "UK inflation may peak at lower rate than BoE forecast, says governor",
+      "summary": "UK inflation may peak lower than the Bank of England forecast, though governor Andrew Bailey did not rule out another rate increase next month.",
+      "lang": "en",
+      "source": "FT Global Economy",
+      "url": "https://www.ft.com/content/402e640b-8933-4b3c-bb4c-ce12a7994ac6?syn-25a6b1a6=1",
+      "published": "2026-11-25T17:55:48+00:00"
+     }
+    ],
+    "status": "uncompared",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "ECB and Sveriges Riksbank conclude agreement for Sweden to join T2",
+    "summary": "The ECB and Sveriges Riksbank reached an agreement for Sweden to join the T2 settlement system.",
+    "lang": "en",
+    "source": "BCE (notas de prensa)",
+    "url": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr261125_1~6333a90f3a.en.html",
+    "published": "2026-11-25T17:30:00+00:00",
+    "event_id": "b1f3c3dc97c1",
+    "sources": [
+     {
+      "title": "ECB and Sveriges Riksbank conclude agreement for Sweden to join T2",
+      "summary": "The ECB and Sveriges Riksbank reached an agreement for Sweden to join the T2 settlement system.",
+      "lang": "en",
+      "source": "BCE (notas de prensa)",
+      "url": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr261125_1~6333a90f3a.en.html",
+      "published": "2026-11-25T17:30:00+00:00"
+     }
+    ],
+    "status": "uncompared",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   }
+  ],
+  "economia|america": [
+   {
+    "title": "Hawkish Fed poised to raise rates despite stock market turmoil",
+    "summary": "The Federal Reserve is poised to raise interest rates despite stock market turmoil, with inflation remaining the central bank's primary concern.",
+    "lang": "en",
+    "source": "Financial Times",
+    "url": "https://www.ft.com/content/3890f725-66dd-4613-8a60-d9e3ea38d25a?syn-25a6b1a6=1",
+    "published": "2026-11-26T14:58:45+00:00",
+    "event_id": "73fe8543ba2b",
+    "sources": [
+     {
+      "title": "Hawkish Fed poised to raise rates despite stock market turmoil",
+      "summary": "The Federal Reserve is poised to raise interest rates despite stock market turmoil, with inflation remaining the central bank's primary concern.",
+      "lang": "en",
+      "source": "Financial Times",
+      "url": "https://www.ft.com/content/3890f725-66dd-4613-8a60-d9e3ea38d25a?syn-25a6b1a6=1",
+      "published": "2026-11-26T14:58:45+00:00"
+     }
+    ],
+    "status": "uncompared",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "Mexican Peso Sees Worst Losing Streak Since 2021 on Carry Unwind",
+    "summary": "The Mexican peso experienced its worst losing streak since 2021 as investors flee to safe assets and unwind the carry trade.",
+    "lang": "en",
+    "source": "Bloomberg Markets",
+    "url": "https://www.bloomberg.com/news/articles/2026-11-26/mexican-peso-sees-worst-losing-streak-since-2021-on-carry-unwind",
+    "published": "2026-11-26T15:07:52+00:00",
+    "event_id": "0cb17b518431",
+    "sources": [
+     {
+      "title": "Mexican Peso Sees Worst Losing Streak Since 2021 on Carry Unwind",
+      "summary": "The Mexican peso experienced its worst losing streak since 2021 as investors flee to safe assets and unwind the carry trade.",
+      "lang": "en",
+      "source": "Bloomberg Markets",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-26/mexican-peso-sees-worst-losing-streak-since-2021-on-carry-unwind",
+      "published": "2026-11-26T15:07:52+00:00"
+     }
+    ],
+    "status": "uncompared",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "Brazil Inflation Undershoots Forecasts in ‘Positive’ Print",
+    "summary": "Brazil's inflation came in below forecasts, though policymakers face fiscal and currency risks following President Lula's reelection.",
+    "lang": "en",
+    "source": "Bloomberg Economics",
+    "url": "https://www.bloomberg.com/news/articles/2026-11-26/brazil-consumer-prices-rise-less-than-forecast-by-all-analysts",
+    "published": "2026-11-26T12:15:36+00:00",
+    "event_id": "248344cb69ee",
+    "sources": [
+     {
+      "title": "Brazil Inflation Undershoots Forecasts in ‘Positive’ Print",
+      "summary": "Brazil's inflation came in below forecasts, though policymakers face fiscal and currency risks following President Lula's reelection.",
+      "lang": "en",
+      "source": "Bloomberg Economics",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-26/brazil-consumer-prices-rise-less-than-forecast-by-all-analysts",
+      "published": "2026-11-26T12:15:36+00:00"
+     }
+    ],
+    "status": "uncompared",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "Beige Book confirms hot US economy and signs of wage pressure building",
+    "summary": "The Federal Reserve's Beige Book confirmed the US economy remains strong with building wage pressures, supporting a December rate increase.",
+    "lang": "en",
+    "source": "FT Global Economy",
+    "url": "https://www.ft.com/content/fb4f6707-274e-4f93-bcfb-7cce28d4a4ea",
+    "published": "2026-11-25T22:17:53+00:00",
+    "event_id": "0c17a694dd42",
+    "sources": [
+     {
+      "title": "Beige Book confirms hot US economy and signs of wage pressure building",
+      "summary": "The Federal Reserve's Beige Book confirmed the US economy remains strong with building wage pressures, supporting a December rate increase.",
+      "lang": "en",
+      "source": "FT Global Economy",
+      "url": "https://www.ft.com/content/fb4f6707-274e-4f93-bcfb-7cce28d4a4ea",
+      "published": "2026-11-25T22:17:53+00:00"
+     }
+    ],
+    "status": "uncompared",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "美国宣布对中国、欧盟等加征新关税",
+    "summary": "美国对中国、欧盟等数十个国家商品加征新关税，特朗普政府称针对不公平贸易。全球贸易战升级。",
+    "lang": "zh",
+    "source": "纽约时报中文网",
+    "url": "https://cn.nytimes.com/business/20261126/trump-tariffs-trade/?utm_source=RSS",
+    "published": "2026-11-26T02:41:46+00:00",
+    "event_id": "792ee53a98b5",
+    "sources": [
+     {
+      "title": "美国宣布对中国、欧盟等加征新关税",
+      "summary": "美国对中国、欧盟等数十个国家商品加征新关税，特朗普政府称针对不公平贸易。全球贸易战升级。",
+      "lang": "zh",
+      "source": "纽约时报中文网",
+      "url": "https://cn.nytimes.com/business/20261126/trump-tariffs-trade/?utm_source=RSS",
+      "published": "2026-11-26T02:41:46+00:00"
+     },
+     {
+      "title": "美國 301 關稅調查，電源供應器呢？台達、光寶這樣看",
+      "summary": "美国贸易代表署公布301条款调查结果，台湾擬议关税最高15%。台达、光宝等电源供应器厂商面临新关税压力。",
+      "lang": "zh",
+      "source": "科技新報 TechNews",
+      "url": "https://technews.tw/2026/11/26/us-section-301-investigation-delta-lite-on-power-supplies/",
+      "published": "2026-11-26T11:00:50+00:00"
+     }
+    ],
+    "status": "uncompared",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   }
+  ],
+  "politica|asia": [
+   {
+    "title": "Israel defence minister threatens to displace 1 million Gazans if Hamas won't disarm",
+    "summary": "Israel's defense minister threatened to displace 1 million Gazans if Hamas refuses to disarm.",
+    "lang": "en",
+    "source": "Channel NewsAsia",
+    "url": "https://www.channelnewsasia.com/world/israel-katz-threat-displace-1-million-gaza-residents-hamas-6585316",
+    "published": "2026-11-26T13:08:08+00:00",
+    "event_id": "39c5e91fb9a0",
+    "sources": [
+     {
+      "title": "Israel defence minister threatens to displace 1 million Gazans if Hamas won't disarm",
+      "summary": "Israel's defense minister threatened to displace 1 million Gazans if Hamas refuses to disarm.",
+      "lang": "en",
+      "source": "Channel NewsAsia",
+      "url": "https://www.channelnewsasia.com/world/israel-katz-threat-displace-1-million-gaza-residents-hamas-6585316",
+      "published": "2026-11-26T13:08:08+00:00"
+     }
+    ],
+    "status": "uncompared",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "Myanmar refuses to comply with parts of ICJ genocide ruling",
+    "summary": "Myanmar rejected parts of an International Court of Justice ruling that convicted it of genocide against the Rohingya minority.",
+    "lang": "en",
+    "source": "BBC World",
+    "url": "https://www.bbc.co.uk/news/articles/c61wr87wyg5wo?at_medium=RSS&at_campaign=rss",
+    "published": "2026-11-26T10:25:51+00:00",
+    "event_id": "eb134465edd5",
+    "sources": [
+     {
+      "title": "Myanmar refuses to comply with parts of ICJ genocide ruling",
+      "summary": "Myanmar rejected parts of an International Court of Justice ruling that convicted it of genocide against the Rohingya minority.",
+      "lang": "en",
+      "source": "BBC World",
+      "url": "https://www.bbc.co.uk/news/articles/c61wr87wyg5wo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-26T10:25:51+00:00"
+     }
+    ],
+    "status": "uncompared",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "Shanghai party chief’s downfall shows reach of anti-corruption drive",
+    "summary": "Shanghai's Communist Party chief Chen Jining was placed under investigation for corruption, marking the fourth Politburo member toppled in China's widening anti-corruption drive.",
+    "lang": "en",
+    "source": "South China Morning Post (China)",
+    "url": "https://www.scmp.com/plus/news/china/politics/article/3375916/shanghai-party-chiefs-downfall-shows-reach-anti-corruption-drive",
+    "published": "2026-11-26T09:18:53+00:00",
+    "event_id": "b6ad2a167d34",
+    "sources": [
+     {
+      "title": "Shanghai party chief’s downfall shows reach of anti-corruption drive",
+      "summary": "Shanghai's Communist Party chief Chen Jining was placed under investigation for corruption, marking the fourth Politburo member toppled in China's widening anti-corruption drive.",
+      "lang": "en",
+      "source": "South China Morning Post (China)",
+      "url": "https://www.scmp.com/plus/news/china/politics/article/3375916/shanghai-party-chiefs-downfall-shows-reach-anti-corruption-drive",
+      "published": "2026-11-26T09:18:53+00:00"
+     }
+    ],
+    "status": "uncompared",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "North Korea's Kim vows to build more nuclear weapons after ignoring Trump's overture",
+    "summary": "North Korea's Kim Jong Un vowed to build more nuclear weapons after visiting nuclear facilities, citing threats from the US and South Korea.",
+    "lang": "en",
+    "source": "NPR World",
+    "url": "https://www.npr.org/2026/11/26/g-s1-155955/north-korea-kim-nuclear-weapons-trump",
+    "published": "2026-11-26T13:31:28+00:00",
+    "event_id": "afd70fe24e55",
+    "sources": [
+     {
+      "title": "North Korea's Kim vows to build more nuclear weapons after ignoring Trump's overture",
+      "summary": "North Korea's Kim Jong Un vowed to build more nuclear weapons after visiting nuclear facilities, citing threats from the US and South Korea.",
+      "lang": "en",
+      "source": "NPR World",
+      "url": "https://www.npr.org/2026/11/26/g-s1-155955/north-korea-kim-nuclear-weapons-trump",
+      "published": "2026-11-26T13:31:28+00:00"
+     }
+    ],
+    "status": "uncompared",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "日本擬增5年防衛費至11.6兆元 最快27日拍板",
+    "summary": "日本政府拟将2027年度起5年防衛费提高至56.3兆日圆，较现行增加。首相高市早苗最快27日拍板，但金额仍低于防衛省原提议。",
+    "lang": "zh",
+    "source": "中央社 CNA",
+    "url": "https://www.cna.com.tw/news/aopl/202611260301.aspx",
+    "published": "2026-11-26T13:35:48+00:00",
+    "event_id": "0df3bdc7af26",
+    "sources": [
+     {
+      "title": "日本擬增5年防衛費至11.6兆元 最快27日拍板",
+      "summary": "日本政府拟将2027年度起5年防衛费提高至56.3兆日圆，较现行增加。首相高市早苗最快27日拍板，但金额仍低于防衛省原提议。",
+      "lang": "zh",
+      "source": "中央社 CNA",
+      "url": "https://www.cna.com.tw/news/aopl/202611260301.aspx",
+      "published": "2026-11-26T13:35:48+00:00"
+     }
+    ],
+    "status": "uncompared",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   }
+  ],
+  "politica|america": [
+   {
+    "title": "Un juez rechaza un nuevo intento de Trump de limitar la ciudadanía por nacimiento",
+    "summary": "Un juez estadounidense rechazó otro intento de Trump de limitar la ciudadanía por nacimiento. El magistrado recordó que ese derecho no puede tener excepciones.",
+    "lang": "es",
+    "source": "El País Internacional",
+    "url": "https://elpais.com/us/2026-11-25/un-juez-rechaza-un-nuevo-intento-de-trump-de-limitar-la-ciudadania-por-nacimiento.html",
+    "published": "2026-11-25T22:31:45+00:00",
+    "event_id": "4ed24a58a507",
+    "sources": [
+     {
+      "title": "Un juez rechaza un nuevo intento de Trump de limitar la ciudadanía por nacimiento",
+      "summary": "Un juez estadounidense rechazó otro intento de Trump de limitar la ciudadanía por nacimiento. El magistrado recordó que ese derecho no puede tener excepciones.",
+      "lang": "es",
+      "source": "El País Internacional",
+      "url": "https://elpais.com/us/2026-11-25/un-juez-rechaza-un-nuevo-intento-de-trump-de-limitar-la-ciudadania-por-nacimiento.html",
+      "published": "2026-11-25T22:31:45+00:00"
+     }
+    ],
+    "status": "uncompared",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "Storms disrupt Thanksgiving travel. And, FCC violated ABC's free speech, judge says",
+    "summary": "East Coast storms threaten Thanksgiving travel and coastal flooding; a judge ruled the FCC violated ABC's free speech rights over Trump-related satire.",
+    "lang": "en",
+    "source": "NPR World",
+    "url": "https://www.npr.org/2026/11/26/g-s1-155950/up-first-newsletter-thanksgiving-weather-travel-trump-tariffs-iowa-detonation-fcc-free-speech",
+    "published": "2026-11-26T12:24:29+00:00",
+    "event_id": "71f585ef04a9",
+    "sources": [
+     {
+      "title": "Storms disrupt Thanksgiving travel. And, FCC violated ABC's free speech, judge says",
+      "summary": "East Coast storms threaten Thanksgiving travel and coastal flooding; a judge ruled the FCC violated ABC's free speech rights over Trump-related satire.",
+      "lang": "en",
+      "source": "NPR World",
+      "url": "https://www.npr.org/2026/11/26/g-s1-155950/up-first-newsletter-thanksgiving-weather-travel-trump-tariffs-iowa-detonation-fcc-free-speech",
+      "published": "2026-11-26T12:24:29+00:00"
+     }
+    ],
+    "status": "uncompared",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "Republican wants FBI and CIA answers before questioning Nvidia chief",
+    "summary": "A Republican lawmaker demands FBI and CIA answers about national security threats and what they knew regarding Nvidia's Jensen Huang before questioning him.",
+    "lang": "en",
+    "source": "NPR World",
+    "url": "https://www.npr.org/2026/11/25/nx-s1-6052417/nvidia-jensen-huang-reaction-republicans-congress-investigation",
+    "published": "2026-11-25T11:50:05+00:00",
+    "event_id": "c1e6355cdda9",
+    "sources": [
+     {
+      "title": "Republican wants FBI and CIA answers before questioning Nvidia chief",
+      "summary": "A Republican lawmaker demands FBI and CIA answers about national security threats and what they knew regarding Nvidia's Jensen Huang before questioning him.",
+      "lang": "en",
+      "source": "NPR World",
+      "url": "https://www.npr.org/2026/11/25/nx-s1-6052417/nvidia-jensen-huang-reaction-republicans-congress-investigation",
+      "published": "2026-11-25T11:50:05+00:00"
+     }
+    ],
+    "status": "uncompared",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   }
+  ],
+  "tecnologia|america": [
+   {
+    "title": "填補 MeV 能段觀測缺口，費米太空望遠鏡 14 年資料建立新伽瑪射線星表",
+    "summary": "费米太空望远镜利用14年资料填补伽瑪射线观测空白，建立新伽瑪射线星表研究宇宙高能现象。",
+    "lang": "zh",
+    "source": "科技新報 TechNews",
+    "url": "https://technews.tw/2026/11/26/fgst-survey-helps-fill-the-mev-gap/",
+    "published": "2026-11-26T14:20:19+00:00",
+    "event_id": "01d67ecb388b",
+    "sources": [
+     {
+      "title": "填補 MeV 能段觀測缺口，費米太空望遠鏡 14 年資料建立新伽瑪射線星表",
+      "summary": "费米太空望远镜利用14年资料填补伽瑪射线观测空白，建立新伽瑪射线星表研究宇宙高能现象。",
+      "lang": "zh",
+      "source": "科技新報 TechNews",
+      "url": "https://technews.tw/2026/11/26/fgst-survey-helps-fill-the-mev-gap/",
+      "published": "2026-11-26T14:20:19+00:00"
+     }
+    ],
+    "status": "uncompared",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "AI 看指紋就能判斷血型？逾 10 篇論文遭質疑，資料集根本沒有血型資訊",
+    "summary": "多篇声称通过指纹判断血型的AI研究因资料真实性遭质疑而引发学界关注。资料集实际缺乏血型信息。",
+    "lang": "zh",
+    "source": "科技新報 TechNews",
+    "url": "https://technews.tw/2026/11/26/over-a-dozen-studies-said-ai-can-read-your-blood-type-from-a-fingerprint/",
+    "published": "2026-11-26T09:00:57+00:00",
+    "event_id": "fb06642031b7",
+    "sources": [
+     {
+      "title": "AI 看指紋就能判斷血型？逾 10 篇論文遭質疑，資料集根本沒有血型資訊",
+      "summary": "多篇声称通过指纹判断血型的AI研究因资料真实性遭质疑而引发学界关注。资料集实际缺乏血型信息。",
+      "lang": "zh",
+      "source": "科技新報 TechNews",
+      "url": "https://technews.tw/2026/11/26/over-a-dozen-studies-said-ai-can-read-your-blood-type-from-a-fingerprint/",
+      "published": "2026-11-26T09:00:57+00:00"
+     }
+    ],
+    "status": "uncompared",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "European spacecraft finds chaotic scene after asteroid deflection experiment",
+    "summary": "A European spacecraft found a chaotic debris field after NASA's DART asteroid deflection experiment, with impacts largely unexpected.",
+    "lang": "en",
+    "source": "Ars Technica",
+    "url": "https://arstechnica.com/space/2026/11/europes-hera-mission-returns-to-the-chaotic-scene-of-a-cosmic-smashup/",
+    "published": "2026-11-25T22:36:45+00:00",
+    "event_id": "3e56a8e6d42a",
+    "sources": [
+     {
+      "title": "European spacecraft finds chaotic scene after asteroid deflection experiment",
+      "summary": "A European spacecraft found a chaotic debris field after NASA's DART asteroid deflection experiment, with impacts largely unexpected.",
+      "lang": "en",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/space/2026/11/europes-hera-mission-returns-to-the-chaotic-scene-of-a-cosmic-smashup/",
+      "published": "2026-11-25T22:36:45+00:00"
+     }
+    ],
+    "status": "uncompared",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "S&P considers Nvidia credit downgrade over governance and ‘key man’ risks",
+    "summary": "S&P Global is considering downgrading Nvidia's credit rating to AA- due to governance concerns and 'key man' risks.",
+    "lang": "en",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/11/25/sp-considers-nvidia-credit-downgrade-over-governance-and-key-man-risks/",
+    "published": "2026-11-25T22:44:32+00:00",
+    "event_id": "707319c903aa",
+    "sources": [
+     {
+      "title": "S&P considers Nvidia credit downgrade over governance and ‘key man’ risks",
+      "summary": "S&P Global is considering downgrading Nvidia's credit rating to AA- due to governance concerns and 'key man' risks.",
+      "lang": "en",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/11/25/sp-considers-nvidia-credit-downgrade-over-governance-and-key-man-risks/",
+      "published": "2026-11-25T22:44:32+00:00"
+     }
+    ],
+    "status": "uncompared",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "42 state AGs are trying to stop Character.AI from selling users’ chats",
+    "summary": "Forty-two state attorneys general are attempting to block Character.AI from selling user chat data during its Chapter 11 bankruptcy proceedings.",
+    "lang": "en",
+    "source": "The Verge",
+    "url": "https://www.theverge.com/policy/1042620/character-ai-sale-state-ags-block-selling-users-chats",
+    "published": "2026-11-26T09:54:40+00:00",
+    "event_id": "c0f2de19f056",
+    "sources": [
+     {
+      "title": "42 state AGs are trying to stop Character.AI from selling users’ chats",
+      "summary": "Forty-two state attorneys general are attempting to block Character.AI from selling user chat data during its Chapter 11 bankruptcy proceedings.",
+      "lang": "en",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/policy/1042620/character-ai-sale-state-ags-block-selling-users-chats",
+      "published": "2026-11-26T09:54:40+00:00"
+     }
+    ],
+    "status": "uncompared",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "1Password said hackers broke into its internal systems, but customer passwords are safe",
+    "summary": "1Password reported that hackers accessed an employee's corporate account but confirmed customer passwords remain secure.",
+    "lang": "en",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/11/25/1password-said-hackers-broke-into-its-internal-systems-but-customer-passwords-are-safe/",
+    "published": "2026-11-25T18:49:52+00:00",
+    "event_id": "8f62a618cddf",
+    "sources": [
+     {
+      "title": "1Password said hackers broke into its internal systems, but customer passwords are safe",
+      "summary": "1Password reported that hackers accessed an employee's corporate account but confirmed customer passwords remain secure.",
+      "lang": "en",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/11/25/1password-said-hackers-broke-into-its-internal-systems-but-customer-passwords-are-safe/",
+      "published": "2026-11-25T18:49:52+00:00"
+     }
+    ],
+    "status": "uncompared",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "美國財政部金融犯罪執法局遭入侵，反洗錢批次申報服務中斷",
+    "summary": "美国财政部金融犯罪执法局系统遭入侵，反洗钱批量申报服务中断。FinCEN将部分金融机构申报期限延至12月30日。",
+    "lang": "zh",
+    "source": "iThome 台灣",
+    "url": "https://www.ithome.com.tw/news/180830",
+    "published": "2026-11-26T06:11:36+00:00",
+    "event_id": "1df6cce3b294",
+    "sources": [
+     {
+      "title": "美國財政部金融犯罪執法局遭入侵，反洗錢批次申報服務中斷",
+      "summary": "美国财政部金融犯罪执法局系统遭入侵，反洗钱批量申报服务中断。FinCEN将部分金融机构申报期限延至12月30日。",
+      "lang": "zh",
+      "source": "iThome 台灣",
+      "url": "https://www.ithome.com.tw/news/180830",
+      "published": "2026-11-26T06:11:36+00:00"
+     }
+    ],
+    "status": "uncompared",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "The FCC has authorized SpaceX to deploy 1 million satellites",
+    "summary": "The FCC authorized SpaceX to deploy 1 million satellites, increasing the orbital satellite population by approximately 50-fold.",
+    "lang": "en",
+    "source": "Ars Technica",
+    "url": "https://arstechnica.com/space/2026/11/the-fcc-has-authorized-spacex-to-deploy-1-million-satellites/",
+    "published": "2026-11-25T18:22:38+00:00",
+    "event_id": "8540e8010e35",
+    "sources": [
+     {
+      "title": "The FCC has authorized SpaceX to deploy 1 million satellites",
+      "summary": "The FCC authorized SpaceX to deploy 1 million satellites, increasing the orbital satellite population by approximately 50-fold.",
+      "lang": "en",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/space/2026/11/the-fcc-has-authorized-spacex-to-deploy-1-million-satellites/",
+      "published": "2026-11-25T18:22:38+00:00"
+     }
+    ],
+    "status": "uncompared",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   }
+  ],
+  "tecnologia|europa": [
+   {
+    "title": "告別核電近 20 年，立陶宛評估導入 SMR",
+    "summary": "立陶宛在关闭核反应堆近20年后，正考虑引入小型模块化反应堆重返核能发电。",
+    "lang": "zh",
+    "source": "科技新報 TechNews",
+    "url": "https://technews.tw/2026/11/26/lithuania-evaluates-smrs-after-20-years-without-nuclear-power/",
+    "published": "2026-11-26T08:41:41+00:00",
+    "event_id": "5bb11ae4e2e6",
+    "sources": [
+     {
+      "title": "告別核電近 20 年，立陶宛評估導入 SMR",
+      "summary": "立陶宛在关闭核反应堆近20年后，正考虑引入小型模块化反应堆重返核能发电。",
+      "lang": "zh",
+      "source": "科技新報 TechNews",
+      "url": "https://technews.tw/2026/11/26/lithuania-evaluates-smrs-after-20-years-without-nuclear-power/",
+      "published": "2026-11-26T08:41:41+00:00"
+     }
+    ],
+    "status": "uncompared",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   }
+  ]
+ }
+}
