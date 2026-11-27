@@ -1,0 +1,890 @@
+{
+ "date": "2026-11-27",
+ "generated_at": "2026-11-27T15:29:00.318184+00:00",
+ "mode": "full",
+ "cost_usd": 0.0482,
+ "selection": {
+  "model": "claude-haiku-5-5",
+  "effort": "high",
+  "passes": 3,
+  "passes_ok": 3,
+  "cost_usd": 0.0172
+ },
+ "events": {
+  "mode": "full",
+  "compared_with": "2026-11-26",
+  "articles": 38,
+  "uncompared_articles": 0,
+  "events": 36,
+  "cost_usd": 0.0184
+ },
+ "market": null,
+ "failed_sources": [
+  "Reserva Federal (notas de prensa)",
+  "The Guardian World"
+ ],
+ "cells": {
+  "economia|asia": [
+   {
+    "title": "Chinese shares soar after Beijing signals more support",
+    "summary": "Chinese shares surged following Beijing's signal of additional economic support, marking the CSI 300 index's largest single-day gain in two years amid months of weakness.",
+    "lang": "en",
+    "source": "Financial Times",
+    "url": "https://www.ft.com/content/fedc6392-ad25-43e4-9d9f-20216cbf331e?syn-25a6b1a6=1",
+    "published": "2026-11-27T08:32:35+00:00",
+    "event_id": "408cd74b10ed",
+    "sources": [
+     {
+      "title": "Chinese shares soar after Beijing signals more support",
+      "summary": "Chinese shares surged following Beijing's signal of additional economic support, marking the CSI 300 index's largest single-day gain in two years amid months of weakness.",
+      "lang": "en",
+      "source": "Financial Times",
+      "url": "https://www.ft.com/content/fedc6392-ad25-43e4-9d9f-20216cbf331e?syn-25a6b1a6=1",
+      "published": "2026-11-27T08:32:35+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "Indonesia, Philippines and UAE to begin talks on joining CPTPP trade pact",
+    "summary": "Indonesia, Philippines, and UAE are beginning negotiations to join the CPTPP regional trade agreement, expanding the pact's membership.",
+    "lang": "en",
+    "source": "Nikkei Asia",
+    "url": "https://asia.nikkei.com/economy/indonesia-philippines-and-uae-to-begin-talks-on-joining-cptpp-trade-pact",
+    "published": null,
+    "event_id": "c4db55ac182c",
+    "sources": [
+     {
+      "title": "Indonesia, Philippines and UAE to begin talks on joining CPTPP trade pact",
+      "summary": "Indonesia, Philippines, and UAE are beginning negotiations to join the CPTPP regional trade agreement, expanding the pact's membership.",
+      "lang": "en",
+      "source": "Nikkei Asia",
+      "url": "https://asia.nikkei.com/economy/indonesia-philippines-and-uae-to-begin-talks-on-joining-cptpp-trade-pact",
+      "published": null
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "Hong Kong seeks to lure sovereign wealth funds with tax breaks",
+    "summary": "Hong Kong is offering tax breaks to attract sovereign wealth funds as some global investors have withdrawn or reduced operations in the Asian financial hub.",
+    "lang": "en",
+    "source": "Financial Times",
+    "url": "https://www.ft.com/content/0285a2eb-5312-443d-bd60-b094af9575b1?syn-25a6b1a6=1",
+    "published": "2026-11-27T06:47:12+00:00",
+    "event_id": "162ece2e7e67",
+    "sources": [
+     {
+      "title": "Hong Kong seeks to lure sovereign wealth funds with tax breaks",
+      "summary": "Hong Kong is offering tax breaks to attract sovereign wealth funds as some global investors have withdrawn or reduced operations in the Asian financial hub.",
+      "lang": "en",
+      "source": "Financial Times",
+      "url": "https://www.ft.com/content/0285a2eb-5312-443d-bd60-b094af9575b1?syn-25a6b1a6=1",
+      "published": "2026-11-27T06:47:12+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "Chinese households shed billions in consumer debt",
+    "summary": "Chinese households are reducing consumer debt following a three-year decline in mortgages that is now spreading to consumer loans.",
+    "lang": "en",
+    "source": "Financial Times",
+    "url": "https://www.ft.com/content/8c5e0298-58f0-47e9-a843-513178d9fa2e?syn-25a6b1a6=1",
+    "published": "2026-11-27T05:00:04+00:00",
+    "event_id": "5384a4da409b",
+    "sources": [
+     {
+      "title": "Chinese households shed billions in consumer debt",
+      "summary": "Chinese households are reducing consumer debt following a three-year decline in mortgages that is now spreading to consumer loans.",
+      "lang": "en",
+      "source": "Financial Times",
+      "url": "https://www.ft.com/content/8c5e0298-58f0-47e9-a843-513178d9fa2e?syn-25a6b1a6=1",
+      "published": "2026-11-27T05:00:04+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "India's resilient GDP growth story rubs up against sticky inflation",
+    "summary": "India's strong GDP growth is facing pressure from persistent inflation, creating economic headwinds for the resilient expansion.",
+    "lang": "en",
+    "source": "Nikkei Asia",
+    "url": "https://asia.nikkei.com/economy/india-s-resilient-gdp-growth-story-rubs-up-against-sticky-inflation",
+    "published": null,
+    "event_id": "a0383032f0e7",
+    "sources": [
+     {
+      "title": "India's resilient GDP growth story rubs up against sticky inflation",
+      "summary": "India's strong GDP growth is facing pressure from persistent inflation, creating economic headwinds for the resilient expansion.",
+      "lang": "en",
+      "source": "Nikkei Asia",
+      "url": "https://asia.nikkei.com/economy/india-s-resilient-gdp-growth-story-rubs-up-against-sticky-inflation",
+      "published": null
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   }
+  ],
+  "economia|europa": [
+   {
+    "title": "ECB’s Nagel Signals Need for Another Rate Hike in December",
+    "summary": "ECB Governing Council member Joachim Nagel signaled the need for another interest rate increase in December due to stubborn inflation.",
+    "lang": "en",
+    "source": "Bloomberg Economics",
+    "url": "https://www.bloomberg.com/news/articles/2026-11-27/ecb-s-nagel-signals-need-for-another-rate-hike-in-december",
+    "published": "2026-11-27T13:31:56+00:00",
+    "event_id": "283b21dd509c",
+    "sources": [
+     {
+      "title": "ECB’s Nagel Signals Need for Another Rate Hike in December",
+      "summary": "ECB Governing Council member Joachim Nagel signaled the need for another interest rate increase in December due to stubborn inflation.",
+      "lang": "en",
+      "source": "Bloomberg Economics",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-27/ecb-s-nagel-signals-need-for-another-rate-hike-in-december",
+      "published": "2026-11-27T13:31:56+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "German Budget Passes With €210 Billion in New Borrowing Planned",
+    "summary": "Germany's parliament approved a €556 billion budget with €210 billion in new borrowing, increasing spending on defense and infrastructure.",
+    "lang": "en",
+    "source": "Bloomberg Economics",
+    "url": "https://www.bloomberg.com/news/articles/2026-11-27/german-budget-passes-with-210-billion-in-new-borrowing-planned",
+    "published": "2026-11-27T13:51:04+00:00",
+    "event_id": "2f7c03953ae4",
+    "sources": [
+     {
+      "title": "German Budget Passes With €210 Billion in New Borrowing Planned",
+      "summary": "Germany's parliament approved a €556 billion budget with €210 billion in new borrowing, increasing spending on defense and infrastructure.",
+      "lang": "en",
+      "source": "Bloomberg Economics",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-27/german-budget-passes-with-210-billion-in-new-borrowing-planned",
+      "published": "2026-11-27T13:51:04+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "French economy shrinks 0.2% in third quarter",
+    "summary": "France's economy contracted 0.2% in the third quarter, worse than initially estimated, signaling economic weakness.",
+    "lang": "en",
+    "source": "FT Global Economy",
+    "url": "https://www.ft.com/content/5325ace3-d69a-4686-acb6-2f06de6afd11?syn-25a6b1a6=1",
+    "published": "2026-11-27T11:38:30+00:00",
+    "event_id": "dc90e6189530",
+    "sources": [
+     {
+      "title": "French economy shrinks 0.2% in third quarter",
+      "summary": "France's economy contracted 0.2% in the third quarter, worse than initially estimated, signaling economic weakness.",
+      "lang": "en",
+      "source": "FT Global Economy",
+      "url": "https://www.ft.com/content/5325ace3-d69a-4686-acb6-2f06de6afd11?syn-25a6b1a6=1",
+      "published": "2026-11-27T11:38:30+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "EU weighs tighter export controls to prevent battery waste going to China",
+    "summary": "The EU is considering tighter export controls on battery waste destined for China, as 'black mass' containing key minerals is often processed abroad and re-exported.",
+    "lang": "en",
+    "source": "FT Global Economy",
+    "url": "https://www.ft.com/content/a8ecccda-f986-4ae9-9f45-9470d2be8c65?syn-25a6b1a6=1",
+    "published": "2026-11-27T13:26:26+00:00",
+    "event_id": "e743a0ee7b47",
+    "sources": [
+     {
+      "title": "EU weighs tighter export controls to prevent battery waste going to China",
+      "summary": "The EU is considering tighter export controls on battery waste destined for China, as 'black mass' containing key minerals is often processed abroad and re-exported.",
+      "lang": "en",
+      "source": "FT Global Economy",
+      "url": "https://www.ft.com/content/a8ecccda-f986-4ae9-9f45-9470d2be8c65?syn-25a6b1a6=1",
+      "published": "2026-11-27T13:26:26+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "Bank of England to defy market pricing and stick with gradual tightening",
+    "summary": "The Bank of England is expected to maintain gradual interest rate tightening despite market pricing suggesting otherwise.",
+    "lang": "en",
+    "source": "FT Global Economy",
+    "url": "https://www.ft.com/content/e5d08f5e-3f0a-43af-a6d7-06f2ad93370e",
+    "published": "2026-11-27T05:30:02+00:00",
+    "event_id": "9aeecfc7d38e",
+    "sources": [
+     {
+      "title": "Bank of England to defy market pricing and stick with gradual tightening",
+      "summary": "The Bank of England is expected to maintain gradual interest rate tightening despite market pricing suggesting otherwise.",
+      "lang": "en",
+      "source": "FT Global Economy",
+      "url": "https://www.ft.com/content/e5d08f5e-3f0a-43af-a6d7-06f2ad93370e",
+      "published": "2026-11-27T05:30:02+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   }
+  ],
+  "economia|america": [
+   {
+    "title": "Lula names banker as Brazil finance minister in attempt to calm markets",
+    "summary": "Brazil's President Lula named banker Luiz Carlos Trabuco as finance minister to stabilize markets following asset sell-offs.",
+    "lang": "en",
+    "source": "FT Global Economy",
+    "url": "https://www.ft.com/content/94f93408-476b-479c-be0e-d7f7942f9491?syn-25a6b1a6=1",
+    "published": "2026-11-27T00:59:07+00:00",
+    "event_id": "ec81eab244f0",
+    "sources": [
+     {
+      "title": "Lula names banker as Brazil finance minister in attempt to calm markets",
+      "summary": "Brazil's President Lula named banker Luiz Carlos Trabuco as finance minister to stabilize markets following asset sell-offs.",
+      "lang": "en",
+      "source": "FT Global Economy",
+      "url": "https://www.ft.com/content/94f93408-476b-479c-be0e-d7f7942f9491?syn-25a6b1a6=1",
+      "published": "2026-11-27T00:59:07+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "US Goods-Trade Deficit Widens for Fourth Straight Month",
+    "summary": "The US merchandise-trade deficit widened in October for a fourth consecutive month as capital goods imports reached record levels.",
+    "lang": "en",
+    "source": "Bloomberg Economics",
+    "url": "https://www.bloomberg.com/news/articles/2026-11-27/us-goods-trade-deficit-widens-for-fourth-straight-month",
+    "published": "2026-11-27T13:32:54+00:00",
+    "event_id": "3ac06adbbabe",
+    "sources": [
+     {
+      "title": "US Goods-Trade Deficit Widens for Fourth Straight Month",
+      "summary": "The US merchandise-trade deficit widened in October for a fourth consecutive month as capital goods imports reached record levels.",
+      "lang": "en",
+      "source": "Bloomberg Economics",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-27/us-goods-trade-deficit-widens-for-fourth-straight-month",
+      "published": "2026-11-27T13:32:54+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "Trump doubles down on his tariff agenda",
+    "summary": "Trump announced new import tariffs on 14 trading partners, escalating his tariff agenda and adding to price pressures despite voter concerns.",
+    "lang": "en",
+    "source": "FT Global Economy",
+    "url": "https://www.ft.com/content/17a849f1-7e64-4f56-b756-ccf12662ebff?syn-25a6b1a6=1",
+    "published": "2026-11-26T18:31:18+00:00",
+    "event_id": "d80d9b00cd45",
+    "sources": [
+     {
+      "title": "Trump doubles down on his tariff agenda",
+      "summary": "Trump announced new import tariffs on 14 trading partners, escalating his tariff agenda and adding to price pressures despite voter concerns.",
+      "lang": "en",
+      "source": "FT Global Economy",
+      "url": "https://www.ft.com/content/17a849f1-7e64-4f56-b756-ccf12662ebff?syn-25a6b1a6=1",
+      "published": "2026-11-26T18:31:18+00:00"
+     },
+     {
+      "title": "路透：川普新關稅施壓各國劍指北京 圖重塑全球貿易秩序",
+      "summary": "美国宣布新一轮关税，主要针对中国以重塑全球贸易秩序。北京成为华府通过施压他国来惩罚世界工厂的主要目标。",
+      "lang": "zh",
+      "source": "中央社 CNA",
+      "url": "https://www.cna.com.tw/news/aopl/202611270242.aspx",
+      "published": "2026-11-27T12:15:37+00:00"
+     }
+    ],
+    "status": "updated",
+    "change_summary": "Trump doubles down on his tariff agenda",
+    "previous_date": "2026-11-26",
+    "previous_event_id": "d80d9b00cd45"
+   },
+   {
+    "title": "Shell’s Arc Deal Helps Lift Foreign Investment in Canada to Two-Year High",
+    "summary": "Foreign direct investment in Canada reached its highest quarterly level in over two years, driven by Shell's Arc deal and energy sector investments.",
+    "lang": "en",
+    "source": "Bloomberg Economics",
+    "url": "https://www.bloomberg.com/news/articles/2026-11-27/shell-s-arc-deal-helps-lift-foreign-investment-in-canada-to-two-year-high",
+    "published": "2026-11-27T14:55:05+00:00",
+    "event_id": "8c03a3d313ba",
+    "sources": [
+     {
+      "title": "Shell’s Arc Deal Helps Lift Foreign Investment in Canada to Two-Year High",
+      "summary": "Foreign direct investment in Canada reached its highest quarterly level in over two years, driven by Shell's Arc deal and energy sector investments.",
+      "lang": "en",
+      "source": "Bloomberg Economics",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-27/shell-s-arc-deal-helps-lift-foreign-investment-in-canada-to-two-year-high",
+      "published": "2026-11-27T14:55:05+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   }
+  ],
+  "politica|asia": [
+   {
+    "title": "Mueren dos técnicos italianos en Kuwait por los restos de drones iraníes derribados",
+    "summary": "Dos técnicos italianos murieron en Kuwait por restos de drones iraníes derribados. Kuwait confirma que el ataque buscaba infraestructura estratégica e hirió a un kuwaití y un paquistaní.",
+    "lang": "es",
+    "source": "El País Internacional",
+    "url": "https://elpais.com/internacional/2026-11-26/mueren-dos-tecnicos-italianos-en-kuwait-por-los-restos-de-drones-iranies-derribados.html",
+    "published": "2026-11-26T14:57:00+00:00",
+    "event_id": "64e921823f5a",
+    "sources": [
+     {
+      "title": "Mueren dos técnicos italianos en Kuwait por los restos de drones iraníes derribados",
+      "summary": "Dos técnicos italianos murieron en Kuwait por restos de drones iraníes derribados. Kuwait confirma que el ataque buscaba infraestructura estratégica e hirió a un kuwaití y un paquistaní.",
+      "lang": "es",
+      "source": "El País Internacional",
+      "url": "https://elpais.com/internacional/2026-11-26/mueren-dos-tecnicos-italianos-en-kuwait-por-los-restos-de-drones-iranies-derribados.html",
+      "published": "2026-11-26T14:57:00+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "China and India hold fresh border talks as both boost military readiness before winter",
+    "summary": "China and India held fresh border talks to manage tensions over their contested frontier while both increased military readiness before winter.",
+    "lang": "en",
+    "source": "South China Morning Post (China)",
+    "url": "https://www.scmp.com/news/china/diplomacy/article/3376066/china-and-india-hold-fresh-border-talks-both-boost-military-readiness-winter",
+    "published": "2026-11-27T10:27:13+00:00",
+    "event_id": "c6e0787c5199",
+    "sources": [
+     {
+      "title": "China and India hold fresh border talks as both boost military readiness before winter",
+      "summary": "China and India held fresh border talks to manage tensions over their contested frontier while both increased military readiness before winter.",
+      "lang": "en",
+      "source": "South China Morning Post (China)",
+      "url": "https://www.scmp.com/news/china/diplomacy/article/3376066/china-and-india-hold-fresh-border-talks-both-boost-military-readiness-winter",
+      "published": "2026-11-27T10:27:13+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "高市早苗與普丁在中國非正式會談 莫斯科鬆口證實",
+    "summary": "日本首相高市早苗与俄罗斯总统普丁在中国亚太经济合作会议期间进行了非正式会晤。莫斯科外交部证实了这次面对面会谈。",
+    "lang": "zh",
+    "source": "中央社 CNA",
+    "url": "https://www.cna.com.tw/news/aopl/202611270249.aspx",
+    "published": "2026-11-27T12:38:52+00:00",
+    "event_id": "f254837e30c9",
+    "sources": [
+     {
+      "title": "高市早苗與普丁在中國非正式會談 莫斯科鬆口證實",
+      "summary": "日本首相高市早苗与俄罗斯总统普丁在中国亚太经济合作会议期间进行了非正式会晤。莫斯科外交部证实了这次面对面会谈。",
+      "lang": "zh",
+      "source": "中央社 CNA",
+      "url": "https://www.cna.com.tw/news/aopl/202611270249.aspx",
+      "published": "2026-11-27T12:38:52+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "North Korea's Kim vows to build more nuclear weapons after ignoring Trump's overture",
+    "summary": "North Korea's Kim Jong Un vowed to build more nuclear weapons after visiting nuclear production facilities, dismissing Trump's diplomatic overtures.",
+    "lang": "en",
+    "source": "NPR World",
+    "url": "https://www.npr.org/2026/11/26/g-s1-155955/north-korea-kim-nuclear-weapons-trump",
+    "published": "2026-11-26T13:31:28+00:00",
+    "event_id": "afd70fe24e55",
+    "sources": [
+     {
+      "title": "North Korea's Kim vows to build more nuclear weapons after ignoring Trump's overture",
+      "summary": "North Korea's Kim Jong Un vowed to build more nuclear weapons after visiting nuclear production facilities, dismissing Trump's diplomatic overtures.",
+      "lang": "en",
+      "source": "NPR World",
+      "url": "https://www.npr.org/2026/11/26/g-s1-155955/north-korea-kim-nuclear-weapons-trump",
+      "published": "2026-11-26T13:31:28+00:00"
+     },
+     {
+      "title": "Los sabotajes que Europa atribuye a Rusia se perfeccionan y disparan el riesgo de “víctimas en masa”",
+      "summary": "Un estudio del IISS advierte que los sabotajes atribuidos a Rusia en Europa intensifican una guerra no convencional con riesgo de víctimas masivas. El objetivo es socavar el apoyo europeo.",
+      "lang": "es",
+      "source": "El País Internacional",
+      "url": "https://elpais.com/internacional/2026-11-26/los-sabotajes-que-europa-atribuye-a-rusia-se-perfeccionan-y-disparan-el-riesgo-de-victimas-en-masa.html",
+      "published": "2026-11-26T16:04:04+00:00"
+     }
+    ],
+    "status": "unchanged",
+    "change_summary": "",
+    "previous_date": "2026-11-26",
+    "previous_event_id": "afd70fe24e55"
+   },
+   {
+    "title": "陈吉宁受调查 中共权斗习近平大权在握",
+    "summary": "被视为可能晋升的中共官员陈吉宁受调查，引发对权力斗争的关注。分析人士认为习近平可能不按常规确定接班人。",
+    "lang": "zh",
+    "source": "德國之聲中文",
+    "url": "https://www.dw.com/zh/陈吉宁受调查-中共权斗习近平大权在握/a-80076794?maca=chi-rss-chi-all-1127-rdf",
+    "published": "2026-11-27T13:58:00+00:00",
+    "event_id": "b6ad2a167d34",
+    "sources": [
+     {
+      "title": "陈吉宁受调查 中共权斗习近平大权在握",
+      "summary": "被视为可能晋升的中共官员陈吉宁受调查，引发对权力斗争的关注。分析人士认为习近平可能不按常规确定接班人。",
+      "lang": "zh",
+      "source": "德國之聲中文",
+      "url": "https://www.dw.com/zh/陈吉宁受调查-中共权斗习近平大权在握/a-80076794?maca=chi-rss-chi-all-1127-rdf",
+      "published": "2026-11-27T13:58:00+00:00"
+     }
+    ],
+    "status": "unchanged",
+    "change_summary": "",
+    "previous_date": "2026-11-26",
+    "previous_event_id": "b6ad2a167d34"
+   }
+  ],
+  "politica|europa": [
+   {
+    "title": "On the arrest of Informer TV owner and editor-in-chief Dragan J. Vucicevic: Has the reckoning with Serbia's pro-Vucic media machine begun?",
+    "summary": "The arrest of Serbian media owner Dragan J. Vucicevic raises questions about whether Serbia is holding pro-Vucic media figures accountable.",
+    "lang": "en",
+    "source": "Deutsche Welle World",
+    "url": "https://www.dw.com/en/on-the-arrest-of-informer-tv-owner-and-editor-in-chief-dragan-j-vucicevic-has-the-reckoning-with-serbia-s-pro-vucic-media-machine-begun/a-80074650?maca=en-rss-en-world-4025-rdf",
+    "published": "2026-11-27T13:28:00+00:00",
+    "event_id": "6c4982a82367",
+    "sources": [
+     {
+      "title": "On the arrest of Informer TV owner and editor-in-chief Dragan J. Vucicevic: Has the reckoning with Serbia's pro-Vucic media machine begun?",
+      "summary": "The arrest of Serbian media owner Dragan J. Vucicevic raises questions about whether Serbia is holding pro-Vucic media figures accountable.",
+      "lang": "en",
+      "source": "Deutsche Welle World",
+      "url": "https://www.dw.com/en/on-the-arrest-of-informer-tv-owner-and-editor-in-chief-dragan-j-vucicevic-has-the-reckoning-with-serbia-s-pro-vucic-media-machine-begun/a-80074650?maca=en-rss-en-world-4025-rdf",
+      "published": "2026-11-27T13:28:00+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "Leaders clash in final Spain election debate as housing dominates run-in",
+    "summary": "Spanish political leaders clashed in a final election debate as housing affordability dominated the bitter campaign.",
+    "lang": "en",
+    "source": "BBC World",
+    "url": "https://www.bbc.co.uk/news/articles/ckr5gr4g8gn5o?at_medium=RSS&at_campaign=rss",
+    "published": "2026-11-27T06:03:39+00:00",
+    "event_id": "49d953b6158b",
+    "sources": [
+     {
+      "title": "Leaders clash in final Spain election debate as housing dominates run-in",
+      "summary": "Spanish political leaders clashed in a final election debate as housing affordability dominated the bitter campaign.",
+      "lang": "en",
+      "source": "BBC World",
+      "url": "https://www.bbc.co.uk/news/articles/ckr5gr4g8gn5o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-27T06:03:39+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "Trump urges Putin to end 'military aggression' in Europe",
+    "summary": "Trump urged Putin to end military aggression in Europe, expressing hope for a quick deal between Russia and Ukraine.",
+    "lang": "en",
+    "source": "Le Monde International",
+    "url": "https://www.lemonde.fr/en/international/article/2026/11/27/trump-urges-putin-to-end-military-aggression-in-europe_6789697_4.html",
+    "published": "2026-11-27T02:41:57+00:00",
+    "event_id": "c06aa5d3b7f6",
+    "sources": [
+     {
+      "title": "Trump urges Putin to end 'military aggression' in Europe",
+      "summary": "Trump urged Putin to end military aggression in Europe, expressing hope for a quick deal between Russia and Ukraine.",
+      "lang": "en",
+      "source": "Le Monde International",
+      "url": "https://www.lemonde.fr/en/international/article/2026/11/27/trump-urges-putin-to-end-military-aggression-in-europe_6789697_4.html",
+      "published": "2026-11-27T02:41:57+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "EU budget talks threatened by upcoming French elections",
+    "summary": "EU budget talks face threats from upcoming French elections as Emmanuel Macron refused to continue discussions beyond year's end.",
+    "lang": "en",
+    "source": "Le Monde International",
+    "url": "https://www.lemonde.fr/en/international/article/2026/11/27/eu-budget-talks-threatened-by-upcoming-french-elections_6789830_4.html",
+    "published": "2026-11-27T09:29:42+00:00",
+    "event_id": "9deb093e92ab",
+    "sources": [
+     {
+      "title": "EU budget talks threatened by upcoming French elections",
+      "summary": "EU budget talks face threats from upcoming French elections as Emmanuel Macron refused to continue discussions beyond year's end.",
+      "lang": "en",
+      "source": "Le Monde International",
+      "url": "https://www.lemonde.fr/en/international/article/2026/11/27/eu-budget-talks-threatened-by-upcoming-french-elections_6789830_4.html",
+      "published": "2026-11-27T09:29:42+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   }
+  ],
+  "politica|america": [
+   {
+    "title": "Venezuela derogará la ley que castiga a quienes pidieron sanciones contra el país",
+    "summary": "Venezuela derogará la ley que castiga a quienes pidieron sanciones, aunque Jorge Rodríguez mantiene su negativa a eliminar la ley contra el odio.",
+    "lang": "es",
+    "source": "El País Internacional",
+    "url": "https://elpais.com/america/2026-11-27/venezuela-derogara-la-ley-que-castiga-a-quienes-pidieron-sanciones-contra-el-pais.html",
+    "published": "2026-11-27T00:14:09+00:00",
+    "event_id": "e3eb5926df97",
+    "sources": [
+     {
+      "title": "Venezuela derogará la ley que castiga a quienes pidieron sanciones contra el país",
+      "summary": "Venezuela derogará la ley que castiga a quienes pidieron sanciones, aunque Jorge Rodríguez mantiene su negativa a eliminar la ley contra el odio.",
+      "lang": "es",
+      "source": "El País Internacional",
+      "url": "https://elpais.com/america/2026-11-27/venezuela-derogara-la-ley-que-castiga-a-quienes-pidieron-sanciones-contra-el-pais.html",
+      "published": "2026-11-27T00:14:09+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "Canada's top court largely upholds Quebec ban on religious symbols for public servants",
+    "summary": "Canada's top court largely upheld Quebec's ban on religious symbols for public servants despite legal challenges from Muslim, Sikh, and Catholic teachers.",
+    "lang": "en",
+    "source": "BBC World",
+    "url": "https://www.bbc.co.uk/news/articles/cq3dgpy9lem3o?at_medium=RSS&at_campaign=rss",
+    "published": "2026-11-27T14:55:15+00:00",
+    "event_id": "a416b5c8c584",
+    "sources": [
+     {
+      "title": "Canada's top court largely upholds Quebec ban on religious symbols for public servants",
+      "summary": "Canada's top court largely upheld Quebec's ban on religious symbols for public servants despite legal challenges from Muslim, Sikh, and Catholic teachers.",
+      "lang": "en",
+      "source": "BBC World",
+      "url": "https://www.bbc.co.uk/news/articles/cq3dgpy9lem3o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-27T14:55:15+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "UN special rapporteur on the Palestinian territories barred entry to Costa Rica over 'links to terrorist acts'",
+    "summary": "UN special rapporteur Francesca Albanese was barred from entering Costa Rica over alleged 'links to terrorist acts' while seeking an honorary doctorate.",
+    "lang": "en",
+    "source": "Le Monde International",
+    "url": "https://www.lemonde.fr/en/international/article/2026/11/27/costa-rica-bars-entry-to-un-rapporteur-over-links-to-terrorist-acts_6789763_4.html",
+    "published": "2026-11-27T04:56:02+00:00",
+    "event_id": "908a47daf9cd",
+    "sources": [
+     {
+      "title": "UN special rapporteur on the Palestinian territories barred entry to Costa Rica over 'links to terrorist acts'",
+      "summary": "UN special rapporteur Francesca Albanese was barred from entering Costa Rica over alleged 'links to terrorist acts' while seeking an honorary doctorate.",
+      "lang": "en",
+      "source": "Le Monde International",
+      "url": "https://www.lemonde.fr/en/international/article/2026/11/27/costa-rica-bars-entry-to-un-rapporteur-over-links-to-terrorist-acts_6789763_4.html",
+      "published": "2026-11-27T04:56:02+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   }
+  ],
+  "tecnologia|asia": [
+   {
+    "title": "北韓駭客從事供應鏈攻擊PolinRider，污染逾375個GitHub儲存庫以散布惡意軟體",
+    "summary": "北韩黑客通过PolinRider恶意软件活动污染超375个GitHub仓库，利用以太坊区块链传递恶意代码以躲避检测。",
+    "lang": "zh",
+    "source": "iThome 台灣",
+    "url": "https://www.ithome.com.tw/news/180858",
+    "published": "2026-11-27T04:11:03+00:00",
+    "event_id": "27dd8985ea06",
+    "sources": [
+     {
+      "title": "北韓駭客從事供應鏈攻擊PolinRider，污染逾375個GitHub儲存庫以散布惡意軟體",
+      "summary": "北韩黑客通过PolinRider恶意软件活动污染超375个GitHub仓库，利用以太坊区块链传递恶意代码以躲避检测。",
+      "lang": "zh",
+      "source": "iThome 台灣",
+      "url": "https://www.ithome.com.tw/news/180858",
+      "published": "2026-11-27T04:11:03+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "美出口限令加速轉變！瑞銀：中國產 AI 晶片 2028 年市占率將突破 88%",
+    "summary": "美国芯片出口限令加速中国半导体发展。瑞银预测中国国产AI芯片2028年市占率将超88%。",
+    "lang": "zh",
+    "source": "科技新報 TechNews",
+    "url": "https://technews.tw/2026/11/27/ubs-see-chinese-ai-chip-market-by-2028/",
+    "published": "2026-11-27T09:12:30+00:00",
+    "event_id": "a4fedffbb2dd",
+    "sources": [
+     {
+      "title": "美出口限令加速轉變！瑞銀：中國產 AI 晶片 2028 年市占率將突破 88%",
+      "summary": "美国芯片出口限令加速中国半导体发展。瑞银预测中国国产AI芯片2028年市占率将超88%。",
+      "lang": "zh",
+      "source": "科技新報 TechNews",
+      "url": "https://technews.tw/2026/11/27/ubs-see-chinese-ai-chip-market-by-2028/",
+      "published": "2026-11-27T09:12:30+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "印度主權AI計畫再添新成果，Chariot-1從零訓練強化多語言能力",
+    "summary": "印度电子资讯科技部宣布Chariot-1基础模型正式推出，这是在政府主权AI计划支持下开发的多语言模型。",
+    "lang": "zh",
+    "source": "iThome 台灣",
+    "url": "https://www.ithome.com.tw/news/180856",
+    "published": "2026-11-27T03:11:32+00:00",
+    "event_id": "b569ca38fe47",
+    "sources": [
+     {
+      "title": "印度主權AI計畫再添新成果，Chariot-1從零訓練強化多語言能力",
+      "summary": "印度电子资讯科技部宣布Chariot-1基础模型正式推出，这是在政府主权AI计划支持下开发的多语言模型。",
+      "lang": "zh",
+      "source": "iThome 台灣",
+      "url": "https://www.ithome.com.tw/news/180856",
+      "published": "2026-11-27T03:11:32+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "AI 仍供不應求，主計總處估明年出口破 1 兆美元創新高",
+    "summary": "台湾主计总处预估明年商品出口破1兆美元创新高，尽管AI产业存在变数但市场仍供不应求。",
+    "lang": "zh",
+    "source": "科技新報 TechNews",
+    "url": "https://finance.technews.tw/2026/11/27/ai-supply-shortage-dgbass-forecasts-next-year-exports-1-trillion-record-high/",
+    "published": "2026-11-27T10:10:06+00:00",
+    "event_id": "b337b6c3c135",
+    "sources": [
+     {
+      "title": "AI 仍供不應求，主計總處估明年出口破 1 兆美元創新高",
+      "summary": "台湾主计总处预估明年商品出口破1兆美元创新高，尽管AI产业存在变数但市场仍供不应求。",
+      "lang": "zh",
+      "source": "科技新報 TechNews",
+      "url": "https://finance.technews.tw/2026/11/27/ai-supply-shortage-dgbass-forecasts-next-year-exports-1-trillion-record-high/",
+      "published": "2026-11-27T10:10:06+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "Nvidia hits pause on chip shipments to Southeast Asia",
+    "summary": "Nvidia paused server chip shipments to Malaysia, Singapore, Thailand, and Indonesia as the US tightens restrictions preventing AI chips from reaching China.",
+    "lang": "en",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/11/26/nvidia-hits-pause-on-chip-shipments-to-southeast-asia/",
+    "published": "2026-11-26T20:03:54+00:00",
+    "event_id": "b63ff3c4fd00",
+    "sources": [
+     {
+      "title": "Nvidia hits pause on chip shipments to Southeast Asia",
+      "summary": "Nvidia paused server chip shipments to Malaysia, Singapore, Thailand, and Indonesia as the US tightens restrictions preventing AI chips from reaching China.",
+      "lang": "en",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/11/26/nvidia-hits-pause-on-chip-shipments-to-southeast-asia/",
+      "published": "2026-11-26T20:03:54+00:00"
+     }
+    ],
+    "status": "unchanged",
+    "change_summary": "",
+    "previous_date": "2026-11-26",
+    "previous_event_id": "b63ff3c4fd00"
+   }
+  ],
+  "tecnologia|europa": [
+   {
+    "title": "西班牙要求大型資料中心符合能源與水效率標準，強化AI算力基礎建設的永續監管",
+    "summary": "西班牙政府推出新法规要求大型数据中心符合能源与环保标准，以加强AI算力基础设施的可持续监管。",
+    "lang": "zh",
+    "source": "iThome 台灣",
+    "url": "https://www.ithome.com.tw/news/180859",
+    "published": "2026-11-27T06:11:32+00:00",
+    "event_id": "9d5759dea02e",
+    "sources": [
+     {
+      "title": "西班牙要求大型資料中心符合能源與水效率標準，強化AI算力基礎建設的永續監管",
+      "summary": "西班牙政府推出新法规要求大型数据中心符合能源与环保标准，以加强AI算力基础设施的可持续监管。",
+      "lang": "zh",
+      "source": "iThome 台灣",
+      "url": "https://www.ithome.com.tw/news/180859",
+      "published": "2026-11-27T06:11:32+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "Draining peatlands is responsible for a few percent of our global warming",
+    "summary": "Peatland drainage accounts for a few percent of global warming, according to detailed carbon emission estimates dating back to 1800.",
+    "lang": "en",
+    "source": "Ars Technica",
+    "url": "https://arstechnica.com/science/2026/11/draining-peatlands-is-responsible-for-a-few-percent-of-our-global-warming/",
+    "published": "2026-11-26T12:15:42+00:00",
+    "event_id": "abca0f7100ad",
+    "sources": [
+     {
+      "title": "Draining peatlands is responsible for a few percent of our global warming",
+      "summary": "Peatland drainage accounts for a few percent of global warming, according to detailed carbon emission estimates dating back to 1800.",
+      "lang": "en",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/science/2026/11/draining-peatlands-is-responsible-for-a-few-percent-of-our-global-warming/",
+      "published": "2026-11-26T12:15:42+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   }
+  ],
+  "tecnologia|america": [
+   {
+    "title": "Intel faced a choice: Give Trump 10% or face the consequences",
+    "summary": "Intel faced pressure to surrender a 10% stake to unlock billions in promised government grants amid regulatory constraints.",
+    "lang": "en",
+    "source": "Ars Technica",
+    "url": "https://arstechnica.com/tech-policy/2026/11/intel-faced-a-choice-give-trump-10-or-face-the-consequences/",
+    "published": "2026-11-27T12:05:01+00:00",
+    "event_id": "462e344e0f4f",
+    "sources": [
+     {
+      "title": "Intel faced a choice: Give Trump 10% or face the consequences",
+      "summary": "Intel faced pressure to surrender a 10% stake to unlock billions in promised government grants amid regulatory constraints.",
+      "lang": "en",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/tech-policy/2026/11/intel-faced-a-choice-give-trump-10-or-face-the-consequences/",
+      "published": "2026-11-27T12:05:01+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "Las playas mexicanas se están llenando de escombros de SpaceX y Claudia Sheinbaum ha solicitado una reunión con Estados Unidos para solucionarlo",
+    "summary": "Playas mexicanas se llenan de escombros de SpaceX. Claudia Sheinbaum solicitó reunión con autoridades aéreas estadounidenses para resolver los daños.",
+    "lang": "es",
+    "source": "Xataka",
+    "url": "https://www.xataka.com/espacio/playas-mexicanas-se-estan-llenando-escombros-spacex-claudia-sheinbaum-ha-solicitado-reunion-estados-unidos-para-solucionarlo",
+    "published": "2026-11-27T15:20:07+00:00",
+    "event_id": "4cc7e0a89074",
+    "sources": [
+     {
+      "title": "Las playas mexicanas se están llenando de escombros de SpaceX y Claudia Sheinbaum ha solicitado una reunión con Estados Unidos para solucionarlo",
+      "summary": "Playas mexicanas se llenan de escombros de SpaceX. Claudia Sheinbaum solicitó reunión con autoridades aéreas estadounidenses para resolver los daños.",
+      "lang": "es",
+      "source": "Xataka",
+      "url": "https://www.xataka.com/espacio/playas-mexicanas-se-estan-llenando-escombros-spacex-claudia-sheinbaum-ha-solicitado-reunion-estados-unidos-para-solucionarlo",
+      "published": "2026-11-27T15:20:07+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "X finally gets parental controls after 20 years",
+    "summary": "Elon Musk's social network X finally added parental controls for teenagers, allowing guardians to manage content visibility for young users.",
+    "lang": "en",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/11/26/x-finally-gets-parental-controls-after-20-years/",
+    "published": "2026-11-26T19:31:50+00:00",
+    "event_id": "9ab1d867793f",
+    "sources": [
+     {
+      "title": "X finally gets parental controls after 20 years",
+      "summary": "Elon Musk's social network X finally added parental controls for teenagers, allowing guardians to manage content visibility for young users.",
+      "lang": "en",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/11/26/x-finally-gets-parental-controls-after-20-years/",
+      "published": "2026-11-26T19:31:50+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   }
+  ]
+ }
+}
