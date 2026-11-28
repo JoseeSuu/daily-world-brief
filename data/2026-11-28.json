@@ -1,0 +1,917 @@
+{
+ "date": "2026-11-28",
+ "generated_at": "2026-11-28T14:28:28.939707+00:00",
+ "mode": "full",
+ "cost_usd": 0.0526,
+ "selection": {
+  "model": "claude-haiku-5-5",
+  "effort": "high",
+  "passes": 3,
+  "passes_ok": 3,
+  "cost_usd": 0.0192
+ },
+ "events": {
+  "mode": "full",
+  "compared_with": "2026-11-27",
+  "articles": 38,
+  "uncompared_articles": 0,
+  "events": 38,
+  "cost_usd": 0.0209
+ },
+ "market": null,
+ "failed_sources": [
+  "The Guardian World"
+ ],
+ "cells": {
+  "politica|europa": [
+   {
+    "title": "Alemania aprueba el mayor gasto en defensa desde la Guerra Fría tras una dura batalla de Merz con los socialdemócratas",
+    "summary": "Alemania aprobó su mayor gasto en defensa desde la Guerra Fría tras negociaciones del canciller Merz con los socialdemócratas, respaldado por la guerra en Ucrania y amenaza rusa creciente.",
+    "lang": "es",
+    "source": "El País Internacional",
+    "url": "https://elpais.com/internacional/2026-11-27/alemania-aprueba-el-mayor-presupuesto-de-su-historia-tras-una-dura-batalla-de-merz-con-los-socialdemocratas.html",
+    "published": "2026-11-27T16:52:49+00:00",
+    "event_id": "2f7c03953ae4",
+    "sources": [
+     {
+      "title": "Alemania aprueba el mayor gasto en defensa desde la Guerra Fría tras una dura batalla de Merz con los socialdemócratas",
+      "summary": "Alemania aprobó su mayor gasto en defensa desde la Guerra Fría tras negociaciones del canciller Merz con los socialdemócratas, respaldado por la guerra en Ucrania y amenaza rusa creciente.",
+      "lang": "es",
+      "source": "El País Internacional",
+      "url": "https://elpais.com/internacional/2026-11-27/alemania-aprueba-el-mayor-presupuesto-de-su-historia-tras-una-dura-batalla-de-merz-con-los-socialdemocratas.html",
+      "published": "2026-11-27T16:52:49+00:00"
+     }
+    ],
+    "status": "updated",
+    "change_summary": "Alemania aprueba el mayor gasto en defensa desde la Guerra Fría tras una dura batalla de Merz con los socialdemócratas",
+    "previous_date": "2026-11-27",
+    "previous_event_id": "2f7c03953ae4"
+   },
+   {
+    "title": "Spanish PM and rivals rally supporters in final pitch for votes",
+    "summary": "Spanish PM Pedro Sánchez and rival candidates rallied supporters in final campaign pitches before elections amid polling challenges and trust disputes.",
+    "lang": "en",
+    "source": "BBC World",
+    "url": "https://www.bbc.co.uk/news/articles/c8wy5p4gdnwvo?at_medium=RSS&at_campaign=rss",
+    "published": "2026-11-27T21:55:53+00:00",
+    "event_id": "49d953b6158b",
+    "sources": [
+     {
+      "title": "Spanish PM and rivals rally supporters in final pitch for votes",
+      "summary": "Spanish PM Pedro Sánchez and rival candidates rallied supporters in final campaign pitches before elections amid polling challenges and trust disputes.",
+      "lang": "en",
+      "source": "BBC World",
+      "url": "https://www.bbc.co.uk/news/articles/c8wy5p4gdnwvo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-27T21:55:53+00:00"
+     }
+    ],
+    "status": "updated",
+    "change_summary": "Spanish PM and rivals rally supporters in final pitch for votes",
+    "previous_date": "2026-11-27",
+    "previous_event_id": "49d953b6158b"
+   },
+   {
+    "title": "Divisions deepen between EU member states after tense budget summit",
+    "summary": "An EU budget summit collapsed amid divisions over Ukraine funding and a proposed 3% tax on U.S. technology companies.",
+    "lang": "en",
+    "source": "Deutsche Welle World",
+    "url": "https://www.dw.com/en/divisions-deepen-between-eu-member-states-after-tense-budget-summit/a-80078599?maca=en-rss-en-world-4025-rdf",
+    "published": "2026-11-27T16:51:00+00:00",
+    "event_id": "9deb093e92ab",
+    "sources": [
+     {
+      "title": "Divisions deepen between EU member states after tense budget summit",
+      "summary": "An EU budget summit collapsed amid divisions over Ukraine funding and a proposed 3% tax on U.S. technology companies.",
+      "lang": "en",
+      "source": "Deutsche Welle World",
+      "url": "https://www.dw.com/en/divisions-deepen-between-eu-member-states-after-tense-budget-summit/a-80078599?maca=en-rss-en-world-4025-rdf",
+      "published": "2026-11-27T16:51:00+00:00"
+     }
+    ],
+    "status": "updated",
+    "change_summary": "Divisions deepen between EU member states after tense budget summit",
+    "previous_date": "2026-11-27",
+    "previous_event_id": "9deb093e92ab"
+   },
+   {
+    "title": "Putin unveils new nuclear submarine",
+    "summary": "Russian President Vladimir Putin attended the commissioning of a new nuclear-powered submarine.",
+    "lang": "en",
+    "source": "Al Jazeera English",
+    "url": "https://www.aljazeera.com/video/newsfeed/2026/11/28/putin-unveils-new-nuclear-submarine?traffic_source=rss",
+    "published": "2026-11-28T13:32:51+00:00",
+    "event_id": "5d060785a169",
+    "sources": [
+     {
+      "title": "Putin unveils new nuclear submarine",
+      "summary": "Russian President Vladimir Putin attended the commissioning of a new nuclear-powered submarine.",
+      "lang": "en",
+      "source": "Al Jazeera English",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/28/putin-unveils-new-nuclear-submarine?traffic_source=rss",
+      "published": "2026-11-28T13:32:51+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "Turkish officials 'destroyed' pro-opposition TV channel, owner tells BBC",
+    "summary": "Turkish officials reportedly destroyed pro-opposition Halk TV during a raid, continuing a pattern of government crackdowns on critical media outlets.",
+    "lang": "en",
+    "source": "BBC World",
+    "url": "https://www.bbc.co.uk/news/articles/cq36gk151xkdo?at_medium=RSS&at_campaign=rss",
+    "published": "2026-11-28T04:13:45+00:00",
+    "event_id": "6815b669d418",
+    "sources": [
+     {
+      "title": "Turkish officials 'destroyed' pro-opposition TV channel, owner tells BBC",
+      "summary": "Turkish officials reportedly destroyed pro-opposition Halk TV during a raid, continuing a pattern of government crackdowns on critical media outlets.",
+      "lang": "en",
+      "source": "BBC World",
+      "url": "https://www.bbc.co.uk/news/articles/cq36gk151xkdo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-28T04:13:45+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   }
+  ],
+  "economia|america": [
+   {
+    "title": "World Economy Latest: US Consumers Temper Spending After Recent Burst",
+    "summary": "U.S. consumers reduced spending last month after a third-quarter burst that drove the strongest economic growth in three years.",
+    "lang": "en",
+    "source": "Bloomberg Economics",
+    "url": "https://www.bloomberg.com/news/articles/2026-11-28/world-economy-latest-us-consumers-temper-spending-after-recent-burst",
+    "published": "2026-11-28T10:00:00+00:00",
+    "event_id": "8433e76c1c56",
+    "sources": [
+     {
+      "title": "World Economy Latest: US Consumers Temper Spending After Recent Burst",
+      "summary": "U.S. consumers reduced spending last month after a third-quarter burst that drove the strongest economic growth in three years.",
+      "lang": "en",
+      "source": "Bloomberg Economics",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-28/world-economy-latest-us-consumers-temper-spending-after-recent-burst",
+      "published": "2026-11-28T10:00:00+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "Colombia Peso Stumbles as Mounting Risks Test Rally",
+    "summary": "Colombia's peso headed for its worst month in over four years amid domestic troubles and foreign risks eroding the currency's rally.",
+    "lang": "en",
+    "source": "Bloomberg Markets",
+    "url": "https://www.bloomberg.com/news/articles/2026-11-27/colombia-peso-stumbles-as-mounting-risks-test-carry-fueled-rally",
+    "published": "2026-11-27T16:37:27+00:00",
+    "event_id": "43afa7acadff",
+    "sources": [
+     {
+      "title": "Colombia Peso Stumbles as Mounting Risks Test Rally",
+      "summary": "Colombia's peso headed for its worst month in over four years amid domestic troubles and foreign risks eroding the currency's rally.",
+      "lang": "en",
+      "source": "Bloomberg Markets",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-27/colombia-peso-stumbles-as-mounting-risks-test-carry-fueled-rally",
+      "published": "2026-11-27T16:37:27+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "Higher Prices Test Holiday Shoppers",
+    "summary": "Holiday sales are expected to rise this season, but higher prices mean shoppers may spend more while purchasing fewer goods.",
+    "lang": "en",
+    "source": "Bloomberg Markets",
+    "url": "https://www.bloomberg.com/news/videos/2026-11-28/higher-prices-test-holiday-shoppers-video",
+    "published": "2026-11-28T13:04:58+00:00",
+    "event_id": "89df906a8992",
+    "sources": [
+     {
+      "title": "Higher Prices Test Holiday Shoppers",
+      "summary": "Holiday sales are expected to rise this season, but higher prices mean shoppers may spend more while purchasing fewer goods.",
+      "lang": "en",
+      "source": "Bloomberg Markets",
+      "url": "https://www.bloomberg.com/news/videos/2026-11-28/higher-prices-test-holiday-shoppers-video",
+      "published": "2026-11-28T13:04:58+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "Lula elige al primer ministro de su próximo Gabinete: un banquero para dirigir Hacienda",
+    "summary": "El presidente de Brasil eligió al banquero presidente de Bradesco como ministro de Hacienda, esperando implementar un ajuste fiscal en su próximo gabinete.",
+    "lang": "es",
+    "source": "El País Internacional",
+    "url": "https://elpais.com/america/2026-11-27/lula-elige-al-primer-ministro-de-su-proximo-gabinete-un-banquero-para-dirigir-hacienda.html",
+    "published": "2026-11-27T14:22:47+00:00",
+    "event_id": "ec81eab244f0",
+    "sources": [
+     {
+      "title": "Lula elige al primer ministro de su próximo Gabinete: un banquero para dirigir Hacienda",
+      "summary": "El presidente de Brasil eligió al banquero presidente de Bradesco como ministro de Hacienda, esperando implementar un ajuste fiscal en su próximo gabinete.",
+      "lang": "es",
+      "source": "El País Internacional",
+      "url": "https://elpais.com/america/2026-11-27/lula-elige-al-primer-ministro-de-su-proximo-gabinete-un-banquero-para-dirigir-hacienda.html",
+      "published": "2026-11-27T14:22:47+00:00"
+     }
+    ],
+    "status": "unchanged",
+    "change_summary": "",
+    "previous_date": "2026-11-27",
+    "previous_event_id": "ec81eab244f0"
+   }
+  ],
+  "politica|america": [
+   {
+    "title": "Mexico and U.S. combat drug cartels together as Trump pressure looms large",
+    "summary": "Mexico and the U.S. intensified cooperation against drug cartels, with recent kingpin captures aided by American intelligence amid Trump pressure.",
+    "lang": "en",
+    "source": "Japan Times",
+    "url": "https://www.japantimes.co.jp/news/2026/11/28/world/crime-legal/mexico-us-combat-drug-cartels/",
+    "published": "2026-11-28T01:09:00+00:00",
+    "event_id": "23b7f93e0544",
+    "sources": [
+     {
+      "title": "Mexico and U.S. combat drug cartels together as Trump pressure looms large",
+      "summary": "Mexico and the U.S. intensified cooperation against drug cartels, with recent kingpin captures aided by American intelligence amid Trump pressure.",
+      "lang": "en",
+      "source": "Japan Times",
+      "url": "https://www.japantimes.co.jp/news/2026/11/28/world/crime-legal/mexico-us-combat-drug-cartels/",
+      "published": "2026-11-28T01:09:00+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "Argentina's bid to stop Falklands oil drilling rejected",
+    "summary": "Argentina's attempt to block UK-Israeli oil and gas exploration in the Falklands was rejected; a joint venture is proceeding despite Argentina's sovereignty claim.",
+    "lang": "en",
+    "source": "BBC World",
+    "url": "https://www.bbc.co.uk/news/articles/c84gnq3qq9rno?at_medium=RSS&at_campaign=rss",
+    "published": "2026-11-28T13:36:36+00:00",
+    "event_id": "7f3a66d555c5",
+    "sources": [
+     {
+      "title": "Argentina's bid to stop Falklands oil drilling rejected",
+      "summary": "Argentina's attempt to block UK-Israeli oil and gas exploration in the Falklands was rejected; a joint venture is proceeding despite Argentina's sovereignty claim.",
+      "lang": "en",
+      "source": "BBC World",
+      "url": "https://www.bbc.co.uk/news/articles/c84gnq3qq9rno?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-28T13:36:36+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "Costa Rica niega el ingreso a Francesca Albanese, relatora de la ONU: “Nunca me había sentido tan humillada”",
+    "summary": "Costa Rica negó entrada a Francesca Albanese, relatora de la ONU, por motivos de seguridad nacional; el tribunal constitucional emitió orden cautelar contra su expulsión.",
+    "lang": "es",
+    "source": "El País Internacional",
+    "url": "https://elpais.com/america/2026-11-27/costa-rica-niega-el-ingreso-a-francesca-albanese-relatora-de-la-onu-para-territorios-palestinos.html",
+    "published": "2026-11-27T16:19:34+00:00",
+    "event_id": "908a47daf9cd",
+    "sources": [
+     {
+      "title": "Costa Rica niega el ingreso a Francesca Albanese, relatora de la ONU: “Nunca me había sentido tan humillada”",
+      "summary": "Costa Rica negó entrada a Francesca Albanese, relatora de la ONU, por motivos de seguridad nacional; el tribunal constitucional emitió orden cautelar contra su expulsión.",
+      "lang": "es",
+      "source": "El País Internacional",
+      "url": "https://elpais.com/america/2026-11-27/costa-rica-niega-el-ingreso-a-francesca-albanese-relatora-de-la-onu-para-territorios-palestinos.html",
+      "published": "2026-11-27T16:19:34+00:00"
+     }
+    ],
+    "status": "unchanged",
+    "change_summary": "",
+    "previous_date": "2026-11-27",
+    "previous_event_id": "908a47daf9cd"
+   },
+   {
+    "title": "Canada: Supreme Court largely upholds Quebec secularism bill",
+    "summary": "Canada's Supreme Court largely upheld Quebec's Bill 21 banning religious symbols for public servants, though critics say it weakens legal protections.",
+    "lang": "en",
+    "source": "Deutsche Welle World",
+    "url": "https://www.dw.com/en/canada-supreme-court-largely-upholds-quebec-secularism-bill/a-80082571?maca=en-rss-en-world-4025-rdf",
+    "published": "2026-11-27T20:43:00+00:00",
+    "event_id": "a416b5c8c584",
+    "sources": [
+     {
+      "title": "Canada: Supreme Court largely upholds Quebec secularism bill",
+      "summary": "Canada's Supreme Court largely upheld Quebec's Bill 21 banning religious symbols for public servants, though critics say it weakens legal protections.",
+      "lang": "en",
+      "source": "Deutsche Welle World",
+      "url": "https://www.dw.com/en/canada-supreme-court-largely-upholds-quebec-secularism-bill/a-80082571?maca=en-rss-en-world-4025-rdf",
+      "published": "2026-11-27T20:43:00+00:00"
+     }
+    ],
+    "status": "unchanged",
+    "change_summary": "",
+    "previous_date": "2026-11-27",
+    "previous_event_id": "a416b5c8c584"
+   }
+  ],
+  "tecnologia|asia": [
+   {
+    "title": "China ya fabrica casi una de cada once memorias DRAM del mundo y la IA le está pagando la fábrica",
+    "summary": "China fabrica casi una de cada once memorias DRAM mundiales, impulsada por demanda de IA que asegura ventas de toda su producción.",
+    "lang": "es",
+    "source": "Xataka",
+    "url": "https://www.xataka.com/componentes/china-fabrica-casi-cada-once-memorias-dram-mundo-ia-le-esta-pagando-fabrica",
+    "published": "2026-11-28T11:00:26+00:00",
+    "event_id": "402a4d38febc",
+    "sources": [
+     {
+      "title": "China ya fabrica casi una de cada once memorias DRAM del mundo y la IA le está pagando la fábrica",
+      "summary": "China fabrica casi una de cada once memorias DRAM mundiales, impulsada por demanda de IA que asegura ventas de toda su producción.",
+      "lang": "es",
+      "source": "Xataka",
+      "url": "https://www.xataka.com/componentes/china-fabrica-casi-cada-once-memorias-dram-mundo-ia-le-esta-pagando-fabrica",
+      "published": "2026-11-28T11:00:26+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "美畫新紅線 算力不准租給陸企！輝達晶片管制升級衝擊台鏈",
+    "summary": "美国加强AI芯片管制，销售英伟达芯片产品的供应商禁止向租赁算力给中国企业的客户供货，可能影响台湾代工厂订单。",
+    "lang": "zh",
+    "source": "經濟日報 台灣",
+    "url": "https://money.udn.com/money/story/5612/9906791",
+    "published": "2026-11-27T18:45:35+00:00",
+    "event_id": "b63ff3c4fd00",
+    "sources": [
+     {
+      "title": "美畫新紅線 算力不准租給陸企！輝達晶片管制升級衝擊台鏈",
+      "summary": "美国加强AI芯片管制，销售英伟达芯片产品的供应商禁止向租赁算力给中国企业的客户供货，可能影响台湾代工厂订单。",
+      "lang": "zh",
+      "source": "經濟日報 台灣",
+      "url": "https://money.udn.com/money/story/5612/9906791",
+      "published": "2026-11-27T18:45:35+00:00"
+     }
+    ],
+    "status": "updated",
+    "change_summary": "美畫新紅線 算力不准租給陸企！輝達晶片管制升級衝擊台鏈",
+    "previous_date": "2026-11-27",
+    "previous_event_id": "b63ff3c4fd00"
+   },
+   {
+    "title": "台積電 3 奈米與 CoWoS 雙重吃緊，AI 產能爭奪戰白熱化",
+    "summary": "随着生成式AI和数据中心需求增长，全球半导体产业面临先进制程和先进封装产能竞争激烈。",
+    "lang": "zh",
+    "source": "科技新報 TechNews",
+    "url": "https://finance.technews.tw/2026/11/28/the-battle-for-ai-production-capacity-intensifies/",
+    "published": "2026-11-28T06:00:14+00:00",
+    "event_id": "3cfea408a383",
+    "sources": [
+     {
+      "title": "台積電 3 奈米與 CoWoS 雙重吃緊，AI 產能爭奪戰白熱化",
+      "summary": "随着生成式AI和数据中心需求增长，全球半导体产业面临先进制程和先进封装产能竞争激烈。",
+      "lang": "zh",
+      "source": "科技新報 TechNews",
+      "url": "https://finance.technews.tw/2026/11/28/the-battle-for-ai-production-capacity-intensifies/",
+      "published": "2026-11-28T06:00:14+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "Google 攜手聯發科推進新 TPU 客製化 HBM5 基礎晶片，韓國憂心主導權弱化",
+    "summary": "谷歌与联发科合作为下一代AI加速器TPU开发定制化高频宽内存HBM5芯片，引发韩国对主导权的担忧。",
+    "lang": "zh",
+    "source": "科技新報 TechNews",
+    "url": "https://finance.technews.tw/2026/11/28/google-partners-with-mediatek-to-advance-new-tpu-custom-hbm5-base-die/",
+    "published": "2026-11-28T08:00:29+00:00",
+    "event_id": "b21826af76bc",
+    "sources": [
+     {
+      "title": "Google 攜手聯發科推進新 TPU 客製化 HBM5 基礎晶片，韓國憂心主導權弱化",
+      "summary": "谷歌与联发科合作为下一代AI加速器TPU开发定制化高频宽内存HBM5芯片，引发韩国对主导权的担忧。",
+      "lang": "zh",
+      "source": "科技新報 TechNews",
+      "url": "https://finance.technews.tw/2026/11/28/google-partners-with-mediatek-to-advance-new-tpu-custom-hbm5-base-die/",
+      "published": "2026-11-28T08:00:29+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "三星侵犯 Maxell 相機專利，Galaxy S25 系列面臨美國進口禁令危機",
+    "summary": "美国国际贸易委员会裁定三星侵犯日本企业Maxell相机专利，Galaxy S25系列面临美国进口禁令风险。",
+    "lang": "zh",
+    "source": "科技新報 TechNews",
+    "url": "https://technews.tw/2026/11/28/samsung-infringes-on-maxell-camera-patents/",
+    "published": "2026-11-28T07:00:15+00:00",
+    "event_id": "0a4425bb8cf2",
+    "sources": [
+     {
+      "title": "三星侵犯 Maxell 相機專利，Galaxy S25 系列面臨美國進口禁令危機",
+      "summary": "美国国际贸易委员会裁定三星侵犯日本企业Maxell相机专利，Galaxy S25系列面临美国进口禁令风险。",
+      "lang": "zh",
+      "source": "科技新報 TechNews",
+      "url": "https://technews.tw/2026/11/28/samsung-infringes-on-maxell-camera-patents/",
+      "published": "2026-11-28T07:00:15+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "幣安解除63.4億美元數位資產竊案相關提款限制",
+    "summary": "币安宣布10月安全事件后暂停的提款服务已恢复，相关提款限制全面解除，少数网络因维护暂停提款。",
+    "lang": "zh",
+    "source": "iThome 台灣",
+    "url": "https://www.ithome.com.tw/news/180845",
+    "published": "2026-11-27T12:11:37+00:00",
+    "event_id": "431f884804a9",
+    "sources": [
+     {
+      "title": "幣安解除63.4億美元數位資產竊案相關提款限制",
+      "summary": "币安宣布10月安全事件后暂停的提款服务已恢复，相关提款限制全面解除，少数网络因维护暂停提款。",
+      "lang": "zh",
+      "source": "iThome 台灣",
+      "url": "https://www.ithome.com.tw/news/180845",
+      "published": "2026-11-27T12:11:37+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   }
+  ],
+  "economia|europa": [
+   {
+    "title": "La norma Euro 7 entra en vigor el 29 de noviembre: qué cambia en los coches nuevos y qué pasa con tu vehículo actual",
+    "summary": "La norma Euro 7 entra en vigor el 29 de noviembre como nueva referencia europea de emisiones vehiculares, basada en el Reglamento UE 2024/1257.",
+    "lang": "es",
+    "source": "Xataka",
+    "url": "https://www.xataka.com/movilidad/norma-euro-7-entra-vigor-29-noviembre-que-cambia-coches-nuevos-que-pasa-tu-vehiculo-actual",
+    "published": "2026-11-28T11:07:34+00:00",
+    "event_id": "4f1268ec71b5",
+    "sources": [
+     {
+      "title": "La norma Euro 7 entra en vigor el 29 de noviembre: qué cambia en los coches nuevos y qué pasa con tu vehículo actual",
+      "summary": "La norma Euro 7 entra en vigor el 29 de noviembre como nueva referencia europea de emisiones vehiculares, basada en el Reglamento UE 2024/1257.",
+      "lang": "es",
+      "source": "Xataka",
+      "url": "https://www.xataka.com/movilidad/norma-euro-7-entra-vigor-29-noviembre-que-cambia-coches-nuevos-que-pasa-tu-vehiculo-actual",
+      "published": "2026-11-28T11:07:34+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "S&P cuts France outlook to negative",
+    "summary": "S&P downgraded France's outlook to negative, citing political instability that will complicate efforts to reduce the country's public deficit.",
+    "lang": "en",
+    "source": "Financial Times",
+    "url": "https://www.ft.com/content/4e16110a-9604-4455-8557-4edece5df01a?syn-25a6b1a6=1",
+    "published": "2026-11-27T22:45:36+00:00",
+    "event_id": "a5d38a6c5558",
+    "sources": [
+     {
+      "title": "S&P cuts France outlook to negative",
+      "summary": "S&P downgraded France's outlook to negative, citing political instability that will complicate efforts to reduce the country's public deficit.",
+      "lang": "en",
+      "source": "Financial Times",
+      "url": "https://www.ft.com/content/4e16110a-9604-4455-8557-4edece5df01a?syn-25a6b1a6=1",
+      "published": "2026-11-27T22:45:36+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "Hungary Credit Outlook Lifted by S&P on Budget and Euro Ambition",
+    "summary": "S&P upgraded Hungary's sovereign debt outlook to stable from negative, citing budget deficit reduction plans under Prime Minister Peter Magyar's cabinet.",
+    "lang": "en",
+    "source": "Bloomberg Economics",
+    "url": "https://www.bloomberg.com/news/articles/2026-11-27/hungary-credit-outlook-lifted-by-s-p-on-budget-and-euro-ambition",
+    "published": "2026-11-27T21:19:31+00:00",
+    "event_id": "3b91a12f9658",
+    "sources": [
+     {
+      "title": "Hungary Credit Outlook Lifted by S&P on Budget and Euro Ambition",
+      "summary": "S&P upgraded Hungary's sovereign debt outlook to stable from negative, citing budget deficit reduction plans under Prime Minister Peter Magyar's cabinet.",
+      "lang": "en",
+      "source": "Bloomberg Economics",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-27/hungary-credit-outlook-lifted-by-s-p-on-budget-and-euro-ambition",
+      "published": "2026-11-27T21:19:31+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "Boris Vujčić: Interview with Kurier",
+    "summary": "",
+    "lang": "en",
+    "source": "BCE (notas de prensa)",
+    "url": "https://www.ecb.europa.eu//press/inter/date/2026/html/ecb.in261128~10e11f78f1.en.html",
+    "published": "2026-11-28T08:00:00+00:00",
+    "event_id": "5084671fc64d",
+    "sources": [
+     {
+      "title": "Boris Vujčić: Interview with Kurier",
+      "summary": "",
+      "lang": "en",
+      "source": "BCE (notas de prensa)",
+      "url": "https://www.ecb.europa.eu//press/inter/date/2026/html/ecb.in261128~10e11f78f1.en.html",
+      "published": "2026-11-28T08:00:00+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "French economy shrinks 0.2% in third quarter",
+    "summary": "France's economy contracted 0.2% in the third quarter, worse than initially estimated, signaling economic weakness.",
+    "lang": "en",
+    "source": "FT Global Economy",
+    "url": "https://www.ft.com/content/5325ace3-d69a-4686-acb6-2f06de6afd11?syn-25a6b1a6=1",
+    "published": "2026-11-27T11:38:30+00:00",
+    "event_id": "dc90e6189530",
+    "sources": [
+     {
+      "title": "French economy shrinks 0.2% in third quarter",
+      "summary": "France's economy contracted 0.2% in the third quarter, worse than initially estimated, signaling economic weakness.",
+      "lang": "en",
+      "source": "FT Global Economy",
+      "url": "https://www.ft.com/content/5325ace3-d69a-4686-acb6-2f06de6afd11?syn-25a6b1a6=1",
+      "published": "2026-11-27T11:38:30+00:00"
+     }
+    ],
+    "status": "unchanged",
+    "change_summary": "",
+    "previous_date": "2026-11-27",
+    "previous_event_id": "dc90e6189530"
+   },
+   {
+    "title": "EU weighs tighter export controls to prevent battery waste going to China",
+    "summary": "The EU weighs tighter export controls on battery waste containing key minerals often processed in China, then re-exported to Europe.",
+    "lang": "en",
+    "source": "FT Global Economy",
+    "url": "https://www.ft.com/content/a8ecccda-f986-4ae9-9f45-9470d2be8c65?syn-25a6b1a6=1",
+    "published": "2026-11-27T13:26:26+00:00",
+    "event_id": "e743a0ee7b47",
+    "sources": [
+     {
+      "title": "EU weighs tighter export controls to prevent battery waste going to China",
+      "summary": "The EU weighs tighter export controls on battery waste containing key minerals often processed in China, then re-exported to Europe.",
+      "lang": "en",
+      "source": "FT Global Economy",
+      "url": "https://www.ft.com/content/a8ecccda-f986-4ae9-9f45-9470d2be8c65?syn-25a6b1a6=1",
+      "published": "2026-11-27T13:26:26+00:00"
+     }
+    ],
+    "status": "unchanged",
+    "change_summary": "",
+    "previous_date": "2026-11-27",
+    "previous_event_id": "e743a0ee7b47"
+   }
+  ],
+  "politica|asia": [
+   {
+    "title": "Iran hitting same ships twice to deter traffic from Strait of Hormuz",
+    "summary": "Iran has repeatedly struck the same ships in the Strait of Hormuz over two months to deter traffic, targeting at least six vessels with double attacks.",
+    "lang": "en",
+    "source": "Financial Times",
+    "url": "https://www.ft.com/content/f9c4da80-cc2c-4b0b-b083-b7acd0337790?syn-25a6b1a6=1",
+    "published": "2026-11-28T05:00:41+00:00",
+    "event_id": "a33845f41aaf",
+    "sources": [
+     {
+      "title": "Iran hitting same ships twice to deter traffic from Strait of Hormuz",
+      "summary": "Iran has repeatedly struck the same ships in the Strait of Hormuz over two months to deter traffic, targeting at least six vessels with double attacks.",
+      "lang": "en",
+      "source": "Financial Times",
+      "url": "https://www.ft.com/content/f9c4da80-cc2c-4b0b-b083-b7acd0337790?syn-25a6b1a6=1",
+      "published": "2026-11-28T05:00:41+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "Two staff killed in Israeli strike on Gaza medical clinic, MSF says",
+    "summary": "Two MSF staff were killed in an Israeli military strike on a Gaza medical clinic targeting suspected Hamas operatives, condemned by the WHO.",
+    "lang": "en",
+    "source": "BBC World",
+    "url": "https://www.bbc.co.uk/news/articles/cm5y10yydln3o?at_medium=RSS&at_campaign=rss",
+    "published": "2026-11-28T10:34:58+00:00",
+    "event_id": "8310d666859d",
+    "sources": [
+     {
+      "title": "Two staff killed in Israeli strike on Gaza medical clinic, MSF says",
+      "summary": "Two MSF staff were killed in an Israeli military strike on a Gaza medical clinic targeting suspected Hamas operatives, condemned by the WHO.",
+      "lang": "en",
+      "source": "BBC World",
+      "url": "https://www.bbc.co.uk/news/articles/cm5y10yydln3o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-28T10:34:58+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "Afghanistan explosion kills 10 students and injures more than 100, official says",
+    "summary": "An explosion at an Afghan explosives depot killed 10 students and injured over 100, caused by carelessness according to the interior ministry.",
+    "lang": "en",
+    "source": "BBC World",
+    "url": "https://www.bbc.co.uk/news/articles/ckp80jyz6dl8o?at_medium=RSS&at_campaign=rss",
+    "published": "2026-11-28T14:10:01+00:00",
+    "event_id": "a7161e835424",
+    "sources": [
+     {
+      "title": "Afghanistan explosion kills 10 students and injures more than 100, official says",
+      "summary": "An explosion at an Afghan explosives depot killed 10 students and injured over 100, caused by carelessness according to the interior ministry.",
+      "lang": "en",
+      "source": "BBC World",
+      "url": "https://www.bbc.co.uk/news/articles/ckp80jyz6dl8o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-28T14:10:01+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "Iran points to Europe’s war role after Italians killed in Kuwait strike",
+    "summary": "Iran attributed an Italian drone strike in Kuwait to U.S. and Israeli escalation efforts rather than accepting responsibility for Iranian involvement.",
+    "lang": "en",
+    "source": "Al Jazeera English",
+    "url": "https://www.aljazeera.com/news/2026/11/28/iran-points-to-europes-war-role-after-italians-killed-in-kuwait-strike?traffic_source=rss",
+    "published": "2026-11-28T13:42:53+00:00",
+    "event_id": "64e921823f5a",
+    "sources": [
+     {
+      "title": "Iran points to Europe’s war role after Italians killed in Kuwait strike",
+      "summary": "Iran attributed an Italian drone strike in Kuwait to U.S. and Israeli escalation efforts rather than accepting responsibility for Iranian involvement.",
+      "lang": "en",
+      "source": "Al Jazeera English",
+      "url": "https://www.aljazeera.com/news/2026/11/28/iran-points-to-europes-war-role-after-italians-killed-in-kuwait-strike?traffic_source=rss",
+      "published": "2026-11-28T13:42:53+00:00"
+     }
+    ],
+    "status": "updated",
+    "change_summary": "Iran points to Europe's war role after Italians killed in Kuwait strike",
+    "previous_date": "2026-11-27",
+    "previous_event_id": "64e921823f5a"
+   },
+   {
+    "title": "U.S. military fires on ship violating Iran blockade",
+    "summary": "U.S. aircraft fired precision munitions at the Pacific Archer's stern after the ship attempted to breach Iran's maritime blockade in the Pacific.",
+    "lang": "en",
+    "source": "Japan Times",
+    "url": "https://www.japantimes.co.jp/news/2026/11/28/world/us-military-fires-ship-iran-blockade/",
+    "published": "2026-11-28T01:09:00+00:00",
+    "event_id": "18fe4bea172a",
+    "sources": [
+     {
+      "title": "U.S. military fires on ship violating Iran blockade",
+      "summary": "U.S. aircraft fired precision munitions at the Pacific Archer's stern after the ship attempted to breach Iran's maritime blockade in the Pacific.",
+      "lang": "en",
+      "source": "Japan Times",
+      "url": "https://www.japantimes.co.jp/news/2026/11/28/world/us-military-fires-ship-iran-blockade/",
+      "published": "2026-11-28T01:09:00+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "台灣九合一選舉：沈伯洋承認敗選 蔣萬安連任台北市長",
+    "summary": "台湾1965万选民参与九合一选举，投票选举县市长、议员等近1.11万名公职人员，同时进行能源政策公投。",
+    "lang": "zh",
+    "source": "BBC中文",
+    "url": "https://www.bbc.com/zhongwen/live/c60evlqlpx32t/trad?at_medium=RSS&at_campaign=rss",
+    "published": "2026-11-28T00:00:00+00:00",
+    "event_id": "9bbb525b82a3",
+    "sources": [
+     {
+      "title": "台灣九合一選舉：沈伯洋承認敗選 蔣萬安連任台北市長",
+      "summary": "台湾1965万选民参与九合一选举，投票选举县市长、议员等近1.11万名公职人员，同时进行能源政策公投。",
+      "lang": "zh",
+      "source": "BBC中文",
+      "url": "https://www.bbc.com/zhongwen/live/c60evlqlpx32t/trad?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-28T00:00:00+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   }
+  ],
+  "economia|asia": [
+   {
+    "title": "RBI Steps Up Gold Loan Scrutiny as Bullion Rout Signals Strain",
+    "summary": "India's banking regulator increased scrutiny of the $247 billion gold-loan sector as falling bullion prices erode collateral supporting lender security.",
+    "lang": "en",
+    "source": "Bloomberg Markets",
+    "url": "https://www.bloomberg.com/news/articles/2026-11-28/rbi-steps-up-gold-loan-scrutiny-as-bullion-rout-signals-strain",
+    "published": "2026-11-28T06:39:08+00:00",
+    "event_id": "fd2fa9204da0",
+    "sources": [
+     {
+      "title": "RBI Steps Up Gold Loan Scrutiny as Bullion Rout Signals Strain",
+      "summary": "India's banking regulator increased scrutiny of the $247 billion gold-loan sector as falling bullion prices erode collateral supporting lender security.",
+      "lang": "en",
+      "source": "Bloomberg Markets",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-28/rbi-steps-up-gold-loan-scrutiny-as-bullion-rout-signals-strain",
+      "published": "2026-11-28T06:39:08+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "India Sees Robust Growth Momentum, Flags El Nino, Mideast Risks",
+    "summary": "India's government expects robust economic growth supported by resilient consumption and rising private investment, though inflation and geopolitical risks pose challenges.",
+    "lang": "en",
+    "source": "Bloomberg Economics",
+    "url": "https://www.bloomberg.com/news/articles/2026-11-28/india-sees-robust-growth-momentum-flags-el-nino-mideast-risks",
+    "published": "2026-11-28T11:23:11+00:00",
+    "event_id": "a0383032f0e7",
+    "sources": [
+     {
+      "title": "India Sees Robust Growth Momentum, Flags El Nino, Mideast Risks",
+      "summary": "India's government expects robust economic growth supported by resilient consumption and rising private investment, though inflation and geopolitical risks pose challenges.",
+      "lang": "en",
+      "source": "Bloomberg Economics",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-28/india-sees-robust-growth-momentum-flags-el-nino-mideast-risks",
+      "published": "2026-11-28T11:23:11+00:00"
+     }
+    ],
+    "status": "unclear",
+    "change_summary": "",
+    "previous_date": "2026-11-27",
+    "previous_event_id": "a0383032f0e7"
+   },
+   {
+    "title": "Thailand Looks to Seal EU Trade Deal by End-2027, PM Anutin Says",
+    "summary": "Thailand aims to conclude free trade agreement negotiations with the EU by end-2027, according to Prime Minister Anutin Charnvirakul.",
+    "lang": "en",
+    "source": "Bloomberg Economics",
+    "url": "https://www.bloomberg.com/news/articles/2026-11-28/thailand-looks-to-seal-eu-trade-deal-by-end-2027-pm-anutin-says",
+    "published": "2026-11-28T11:17:38+00:00",
+    "event_id": "ae2342536efc",
+    "sources": [
+     {
+      "title": "Thailand Looks to Seal EU Trade Deal by End-2027, PM Anutin Says",
+      "summary": "Thailand aims to conclude free trade agreement negotiations with the EU by end-2027, according to Prime Minister Anutin Charnvirakul.",
+      "lang": "en",
+      "source": "Bloomberg Economics",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-28/thailand-looks-to-seal-eu-trade-deal-by-end-2027-pm-anutin-says",
+      "published": "2026-11-28T11:17:38+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   }
+  ],
+  "tecnologia|america": [
+   {
+    "title": "Character.AI擬拍賣用戶聊天紀錄，美國42名檢察長反對",
+    "summary": "美国42名检察长反对AI聊天机器人Character.AI拍卖210万余个未成年用户账户的私人聊天记录。",
+    "lang": "zh",
+    "source": "iThome 台灣",
+    "url": "https://www.ithome.com.tw/news/180847",
+    "published": "2026-11-27T12:11:54+00:00",
+    "event_id": "7f3397a6c647",
+    "sources": [
+     {
+      "title": "Character.AI擬拍賣用戶聊天紀錄，美國42名檢察長反對",
+      "summary": "美国42名检察长反对AI聊天机器人Character.AI拍卖210万余个未成年用户账户的私人聊天记录。",
+      "lang": "zh",
+      "source": "iThome 台灣",
+      "url": "https://www.ithome.com.tw/news/180847",
+      "published": "2026-11-27T12:11:54+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "黃仁勳回鍋輝達談話全紀錄：坦承不忠、檢討高壓管理、撇清白宮干預，五大重點直擊",
+    "summary": "英伟达CEO黄仁勳公开承认管理不足，否认白宫干预，就公司高压管理文化进行检讨。",
+    "lang": "zh",
+    "source": "科技新報 TechNews",
+    "url": "https://finance.technews.tw/2026/11/28/jensen-huang-first-town-hall-return-stabilize-morale-boost-spirit-5-key-points/",
+    "published": "2026-11-28T06:30:48+00:00",
+    "event_id": "1c5142961394",
+    "sources": [
+     {
+      "title": "黃仁勳回鍋輝達談話全紀錄：坦承不忠、檢討高壓管理、撇清白宮干預，五大重點直擊",
+      "summary": "英伟达CEO黄仁勳公开承认管理不足，否认白宫干预，就公司高压管理文化进行检讨。",
+      "lang": "zh",
+      "source": "科技新報 TechNews",
+      "url": "https://finance.technews.tw/2026/11/28/jensen-huang-first-town-hall-return-stabilize-morale-boost-spirit-5-key-points/",
+      "published": "2026-11-28T06:30:48+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "普渡大學生打造防 AI 作弊編輯器 Syntax！不看成品改追蹤打字與游標，已獲美 40 所大專院校採用",
+    "summary": "普渡大学学生创办的Remora公司推出文件编辑器Syntax防止AI作弊，通过追踪打字速度而非分析成品，已获美国40所高校采用。",
+    "lang": "zh",
+    "source": "科技新報 TechNews",
+    "url": "https://technews.tw/2026/11/28/purdue-university-students-develop-ai-writing-monitoring-software/",
+    "published": "2026-11-28T08:00:09+00:00",
+    "event_id": "babbd06a8367",
+    "sources": [
+     {
+      "title": "普渡大學生打造防 AI 作弊編輯器 Syntax！不看成品改追蹤打字與游標，已獲美 40 所大專院校採用",
+      "summary": "普渡大学学生创办的Remora公司推出文件编辑器Syntax防止AI作弊，通过追踪打字速度而非分析成品，已获美国40所高校采用。",
+      "lang": "zh",
+      "source": "科技新報 TechNews",
+      "url": "https://technews.tw/2026/11/28/purdue-university-students-develop-ai-writing-monitoring-software/",
+      "published": "2026-11-28T08:00:09+00:00"
+     }
+    ],
+    "status": "new",
+    "change_summary": "",
+    "previous_date": null,
+    "previous_event_id": ""
+   },
+   {
+    "title": "Intel faced a choice: Give Trump 10% or face the consequences",
+    "summary": "Intel faced pressure to surrender a 10% stake to unlock billions in promised government grants.",
+    "lang": "en",
+    "source": "Ars Technica",
+    "url": "https://arstechnica.com/tech-policy/2026/11/intel-faced-a-choice-give-trump-10-or-face-the-consequences/",
+    "published": "2026-11-27T12:05:01+00:00",
+    "event_id": "462e344e0f4f",
+    "sources": [
+     {
+      "title": "Intel faced a choice: Give Trump 10% or face the consequences",
+      "summary": "Intel faced pressure to surrender a 10% stake to unlock billions in promised government grants.",
+      "lang": "en",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/tech-policy/2026/11/intel-faced-a-choice-give-trump-10-or-face-the-consequences/",
+      "published": "2026-11-27T12:05:01+00:00"
+     }
+    ],
+    "status": "unchanged",
+    "change_summary": "",
+    "previous_date": "2026-11-27",
+    "previous_event_id": "462e344e0f4f"
+   }
+  ]
+ }
+}
